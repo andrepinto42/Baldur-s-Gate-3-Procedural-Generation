@@ -1,0 +1,162 @@
+[
+    {
+        "name": "ProximityMine",
+        "uuid": "29bd16a1-80d1-4643-97a7-acb920111d31"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_B_Gold_Purple_Schematic",
+        "uuid": "0350b12c-5476-4082-99d7-cf7917a3b777"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_F_Schematic",
+        "uuid": "0752414a-016a-48f4-8a36-788aa38b08b4"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_A_Schematic",
+        "uuid": "0f818080-718c-4daf-a4ce-fbc3cf445451"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_D_Gold_Purple_Schematic",
+        "uuid": "10f09e39-ccad-4d9c-970a-136b57d42008"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_H_Schematic",
+        "uuid": "15597f33-5d67-45eb-b7d0-32b24f79c1a7"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_A_Gold_Schematic",
+        "uuid": "16a60d1d-b9dc-49d7-bc8e-819c3a5d82ed"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_G_Gold_Purple_Schematic",
+        "uuid": "17f795da-57b6-4c1f-8bd4-38b1391c8bc1"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_E_Schematic",
+        "uuid": "1b066514-9e47-4c78-bcb7-97eb09823d2a"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_A_Gold_Schematic",
+        "uuid": "1ea708d1-8eff-49ac-bb98-2a7f5e66106e"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_C_Schematic",
+        "uuid": "25a1b04c-5e74-4b2f-b090-e0a43583dda9"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_A_Gold_Purple_Schematic",
+        "uuid": "2b2891fe-bfb4-4325-8e19-606ad10dcd5b"
+    },
+    {
+        "name": "LightningTorches",
+        "uuid": "34a6cb51-660f-43e9-bb95-2ef7e3e5da0a"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_B_Schematic",
+        "uuid": "4042eed3-5d64-4fd6-99bf-70a5b6d8e028"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_B_Gold_Schematic",
+        "uuid": "40bb0245-77de-4342-a0de-169d053ddd9b"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_B_Gold_Schematic",
+        "uuid": "40c90bf8-e2d9-4c32-a03f-4b8b0d5cf323"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_C_Schematic",
+        "uuid": "44968c6c-81c9-4c6b-adae-2c9e0fc04091"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_B_Schematic",
+        "uuid": "4f3da643-7faa-44f9-823e-4cdc9d59b757"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_C_Schematic",
+        "uuid": "593c1047-f0f2-41f3-a10c-79bce5641b44"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_D_Schematic",
+        "uuid": "5d1d6a1b-16cc-45dd-89b7-80beb61401c9"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_A_Schematic",
+        "uuid": "67863352-39ed-423b-99b0-6acb4bd55a4f"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_G_Schematic",
+        "uuid": "7253a323-8c6a-4929-bed0-1c7519ed415e"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_G_Gold_Schematic",
+        "uuid": "74b9a1df-bb91-497d-a78f-9ef1020351b2"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_F_Gold_Schematic",
+        "uuid": "7b49998a-ae02-411e-aac0-3717301a3d1c"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_C_Gold_Schematic",
+        "uuid": "7b8fd279-e2c9-4312-b731-fbabcab88333"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_A_Schematic",
+        "uuid": "80bf52df-e23f-4ac2-b6ad-93c7c2eccb9e"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_B_Schematic",
+        "uuid": "81450119-b587-401b-beb0-c9d2a6d6db32"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_D_Schematic",
+        "uuid": "83575906-5537-4c36-b7b9-0f913d7eb7d6"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_F_Schematic",
+        "uuid": "89079662-08c3-4b3d-a8e2-1d2075ecf377"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_E_Schematic",
+        "uuid": "973c270e-f72f-4075-95d6-9c340fd812d8"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_A_Gold_Purple_Schematic",
+        "uuid": "a84ed041-a8b6-4256-a821-1767c849ebf2"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_E_Gold_Schematic",
+        "uuid": "afee6534-c921-4614-8ce1-1fad9f53ef25"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_C_Gold_Purple_Schematic",
+        "uuid": "c37e4bab-c9d7-4a55-be3f-e6e7eca72dab"
+    },
+    {
+        "name": "LTS_DEC_Dropable_Thayan_Incense_Burner_G_Schematic",
+        "uuid": "c4522cfa-47f8-4329-81c0-b42104c35522"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_E_Gold_Purple_Schematic",
+        "uuid": "c59b968f-8a10-4353-bdf7-e17865636514"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_C_Gold_Purple_Schematic",
+        "uuid": "c79e4818-620a-486a-986f-5264e1652ae3"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_B_Gold_Purple_Schematic",
+        "uuid": "c9240644-ab99-4390-92ef-33eb2098f010"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_F_Gold_Purple_Schematic",
+        "uuid": "de1a7888-8768-4a10-bd85-18a82e4b744d"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Hanging_Bowls_D_Gold_Schematic",
+        "uuid": "e33c49fa-6d99-4a6c-8303-6f171607e79d"
+    },
+    {
+        "name": "LTS_DUN_Dropable_Chandelier_C_Gold_Schematic",
+        "uuid": "ee6ce674-9c77-417f-8192-ac55c0a3ea6a"
+    }
+]

@@ -1,0 +1,2246 @@
+[
+    {
+        "name": "PLT_Underdark_TeleportPlatform",
+        "uuid": "001a42b1-5475-4cbc-93d8-e0f4fd2a477a"
+    },
+    {
+        "name": "LT_WLD_OwlbearCave_B",
+        "uuid": "00552fca-b9ee-44fc-beec-dd5f6457ea17"
+    },
+    {
+        "name": "LT_WLD_DenSubs_B",
+        "uuid": "0176cbad-7f80-4b8d-8bb7-ac3fb5918791"
+    },
+    {
+        "name": "LT_WLD_GoblinCamp_D",
+        "uuid": "03e767fb-6597-40f5-9135-b6e552d93fea"
+    },
+    {
+        "name": "PLT_Platform_Goblin_05",
+        "uuid": "072b23cd-60dd-4fde-bf22-1ece162259a2"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_12x4_Small",
+        "uuid": "0b08b651-e79c-4d34-9b7b-95d26fff0acf"
+    },
+    {
+        "name": "LT_PLT_FOR_HouseFloor_01",
+        "uuid": "0b1f1556-d05c-4652-92b1-f325a7116d73"
+    },
+    {
+        "name": "LT_WLD_CIN_Hag_C_Evil",
+        "uuid": "0c2bb7cc-ff92-4b0e-a4dc-2fc88b27d265"
+    },
+    {
+        "name": "LT_BlockerDruidGrove_A",
+        "uuid": "0d401be9-9a61-4d82-a343-e1695580714e"
+    },
+    {
+        "name": "PLT_Platform_Goblin_02",
+        "uuid": "0d66cf25-f393-44bc-81e9-2ccb934829c8"
+    },
+    {
+        "name": "LT_WLD_RangerCamp_I",
+        "uuid": "0e31a4ee-81e0-4a63-8584-1659de308a85"
+    },
+    {
+        "name": "WLD_CrashSite_A",
+        "uuid": "0f3b36bd-3f1b-4995-9c6d-7b9d798350d4"
+    },
+    {
+        "name": "PLT_PLA_BanditCave_04",
+        "uuid": "125e2b5f-c0cb-4a88-96f6-0e2c721ec6c7"
+    },
+    {
+        "name": "WLD_UnderdarkSubs_Vista_Shar",
+        "uuid": "2258b00e-e962-4d6b-b500-e035a6578dea"
+    },
+    {
+        "name": "LT_PLT_Platform_Ruin_01",
+        "uuid": "227a01a9-92fe-42c0-bbc1-1712564679c1"
+    },
+    {
+        "name": "PLT_UND_FairyRings_MushroomPlatform_002",
+        "uuid": "254f45a8-80ee-4b72-860c-02f0db2c7fc4"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_12x4",
+        "uuid": "26befc9f-9322-481f-af48-ce175af28c34"
+    },
+    {
+        "name": "LT_SYS_CC_I",
+        "uuid": "282314fd-4de0-48b5-9941-7f5203c5f11b"
+    },
+    {
+        "name": "LT_WLD_Underdark_C",
+        "uuid": "2ce321b0-314b-42b4-b099-62481ed4ef39"
+    },
+    {
+        "name": "LT_CMP_Shadowheart_Test",
+        "uuid": "2d6a316b-d169-4967-b534-3601fefde5e3"
+    },
+    {
+        "name": "PLT_UND_HangingPlatform",
+        "uuid": "2e648d0b-a55a-48a3-8b9f-2cc181e2b16b"
+    },
+    {
+        "name": "LT_CMP_Refugee_A",
+        "uuid": "317ff6a2-eb5c-4c1a-9026-bede852e64b6"
+    },
+    {
+        "name": "LT_WLD_UnderdarkTransitions_B",
+        "uuid": "348b49ed-2367-462a-b24d-c469c7debba7"
+    },
+    {
+        "name": "LT_WLD_Crashsite_D",
+        "uuid": "3541b413-b835-439c-8e66-1a9b13ab3bb0"
+    },
+    {
+        "name": "LT_PLT_GOB_PriestDungeon_FlushPlatform",
+        "uuid": "372b454e-51f2-4956-a8d7-1b1cdeee0ae8"
+    },
+    {
+        "name": "LT_PLT_Zhent_Bridge_A",
+        "uuid": "3b81529c-f12e-4afb-a976-e177e5a5d5ea"
+    },
+    {
+        "name": "LT_PLT_CHA_CageBottom",
+        "uuid": "3cb3a0e4-1242-4ec4-b5c4-d68a96920f44"
+    },
+    {
+        "name": "LT_WLD_Campfire_E",
+        "uuid": "3e101eeb-31ae-400a-957c-52787e594092"
+    },
+    {
+        "name": "LT_WLD_DruidSubs_B",
+        "uuid": "41c59394-25e0-410a-b0f9-fc0093765e82"
+    },
+    {
+        "name": "PLT_Platform_Goblin_06",
+        "uuid": "4580d4f2-e078-4f04-82f4-837e3e72c33c"
+    },
+    {
+        "name": "GUS_WorkAtmosphere_A",
+        "uuid": "47ebc124-af88-40bf-9956-b77f404d1b46"
+    },
+    {
+        "name": "LT_WLD_Hag_C_HappyFinal",
+        "uuid": "48c39db2-fb78-4ac9-8bbe-f661cced4d51"
+    },
+    {
+        "name": "PLT_Camp_WoodenStructure_4x8_Broken",
+        "uuid": "4dc42b80-0d8a-4449-80c8-82ed64fd9b5d"
+    },
+    {
+        "name": "LT_CMP_HavenBeachSide_A",
+        "uuid": "4f3c351e-4bcd-44e0-b3ff-37833543d786"
+    },
+    {
+        "name": "PLT_UND_AdamantineForge",
+        "uuid": "54befa09-9f1a-4ea4-8190-67bdc47226b9"
+    },
+    {
+        "name": "Testlevel_Dialogues_Decoration",
+        "uuid": "55540b2c-772b-4b71-8537-b0c69a66f16a"
+    },
+    {
+        "name": "LT_CMP_CaveSandstone_A",
+        "uuid": "557133a2-a92c-4be8-bc61-a45f8ab39b19"
+    },
+    {
+        "name": "LT_PLT_TUT_BreakableDeck",
+        "uuid": "57226478-9d37-45c5-a047-1bd92fb56325"
+    },
+    {
+        "name": "LT_PLT_PLA_WeakenedFloor",
+        "uuid": "59944038-e4cc-4ded-b021-771091f42ebf"
+    },
+    {
+        "name": "LT_CMP_Underdark_A",
+        "uuid": "5a4de5cc-cd6c-47a9-b18c-dd64240fe72a"
+    },
+    {
+        "name": "LT_WLD_VillageSubs_C",
+        "uuid": "5b1da28c-4f2c-49a5-abe6-8696fc208d77"
+    },
+    {
+        "name": "LT_PLT_WLD_Tavern_Roof",
+        "uuid": "6013eb56-c49d-47b9-93a3-be72b54e51ff"
+    },
+    {
+        "name": "LT_WLD_Vista",
+        "uuid": "633737d9-546f-4056-a106-a246a54a9360"
+    },
+    {
+        "name": "LT_WLD_Plains_D",
+        "uuid": "635f69f3-0c2a-4b0f-9eaf-3533e812c98c"
+    },
+    {
+        "name": "LT_WLD_Chapel_H",
+        "uuid": "65633591-0aff-40af-a9e1-03095d19add7"
+    },
+    {
+        "name": "PLT_Platform_Goblin_08",
+        "uuid": "67067816-82b6-4da3-acd2-c85ec6e2ce95"
+    },
+    {
+        "name": "LT_GLO_TUT_Avernus_TemplateWrap_C",
+        "uuid": "6bf9ef75-17b0-4ed0-b967-81303fc9a1be"
+    },
+    {
+        "name": "PLT_Platform_Goblin_07",
+        "uuid": "6ca6daf7-81af-4d03-acae-e323f6296d82"
+    },
+    {
+        "name": "LT_CMP_Moonrise_A",
+        "uuid": "76762934-fd67-436d-be88-f9b12f7caa5c"
+    },
+    {
+        "name": "LT_WLD_Campfire_DaisyDream",
+        "uuid": "7a02550e-8905-4f44-bb08-41d771b5da51"
+    },
+    {
+        "name": "LT_WLD_CIN_Dreamscene_Forest_A",
+        "uuid": "7bebc8b2-2eb9-4dbf-8ea2-b88f89c43bf0"
+    },
+    {
+        "name": "LT_WLD_CIN_Hag_C_Happy",
+        "uuid": "7c19e723-f7fa-41e5-b3c9-57d9267f08e2"
+    },
+    {
+        "name": "PLT_Platform_Goblin_04",
+        "uuid": "7d18b7aa-b963-4a36-96f5-20737e3b6d7f"
+    },
+    {
+        "name": "LT_WLD_SharTemple_E",
+        "uuid": "7e20d27f-eb1d-4c5d-8ec7-b0334f9b8285"
+    },
+    {
+        "name": "PLT_UND_TemplePlatform_A",
+        "uuid": "8066964e-ab25-4481-8f3d-75343b678153"
+    },
+    {
+        "name": "PLT_Platform_Goblin_01",
+        "uuid": "80bd78c9-1b39-4a1b-8deb-c2aeed8ac586"
+    },
+    {
+        "name": "PLT_Platform_Goblin_03",
+        "uuid": "8374b3b2-a700-4e51-bfa1-7f56266700c2"
+    },
+    {
+        "name": "PLT_PLA_BanditCave_05",
+        "uuid": "83bf54fb-7f61-4c96-9282-cbbe4dbd8c9d"
+    },
+    {
+        "name": "LT_PLT_CHA_Sarcophagus",
+        "uuid": "8546143a-85e6-4a6f-ada0-90fe9aaab596"
+    },
+    {
+        "name": "LT_GLO_Cambion_B",
+        "uuid": "860c4909-99f1-4880-9872-b564c7692c50"
+    },
+    {
+        "name": "LT_WLD_UnderdarkTransitions_A",
+        "uuid": "8a6bd578-a1f2-4e5b-81bf-6496ceddd0c5"
+    },
+    {
+        "name": "LT_CMP_Underdark_Night",
+        "uuid": "8aedc558-92ee-4790-831b-5bdd52b637c4"
+    },
+    {
+        "name": "PLT_UND_FairyRings_MushroomPlatform_001",
+        "uuid": "8b2a18c8-218b-4cb0-b4c8-2b1aa7f64006"
+    },
+    {
+        "name": "LT_PLT_TUT_Elevator",
+        "uuid": "8b52c3f0-dca7-4c5b-b662-a21e04b32b59"
+    },
+    {
+        "name": "PLT_Platform_Goblin_10",
+        "uuid": "8de9ec3d-7e2a-4e9f-bc13-6c5297fc335e"
+    },
+    {
+        "name": "PLT_GOB_Festivities_SecretWallToInner",
+        "uuid": "8fb7c29b-03b4-4700-85b9-22499b474380"
+    },
+    {
+        "name": "PLT_Temple_Roof_Rubble_Breakable_A",
+        "uuid": "9084859f-3947-459f-bfb1-b0476874dc6f"
+    },
+    {
+        "name": "PLT_PLA_BanditCave_03",
+        "uuid": "9d8a41a6-9765-42b6-a95a-a2b9503fb847"
+    },
+    {
+        "name": "LT_WLD_UnderdarkShrine_A",
+        "uuid": "a029f3f8-e083-4671-aa97-c6937f6a5271"
+    },
+    {
+        "name": "LT_WLD_CIN_Dreamscene_Laezel_A",
+        "uuid": "a322ca15-6644-4bd2-b4ec-7c4f9f46da65"
+    },
+    {
+        "name": "LT_WLD_ZhentarimBasement_B",
+        "uuid": "a7a3c8c5-0495-42f7-a38a-c57d4c4c51c5"
+    },
+    {
+        "name": "LT_WLD_Forest_G",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "WLD_CAMP_CineTriggers",
+        "uuid": "aed62396-f6df-41e3-a449-d2db3b7a71c4"
+    },
+    {
+        "name": "WLD_Chapel_C",
+        "uuid": "b623b939-123f-4f47-a865-31c8df70efe5"
+    },
+    {
+        "name": "LT_GLO_TUT_Avernus_TemplateWrap_D",
+        "uuid": "ba061006-1e82-4fa5-b383-a27b722d356d"
+    },
+    {
+        "name": "LT_PLT_DEN_Elevator",
+        "uuid": "be36f9c4-a69e-4402-9489-32962597c83d"
+    },
+    {
+        "name": "LT_WLD_UnderdarkSubs_C",
+        "uuid": "bf3b59a5-c4fb-4cd8-9307-1d5b90ee6561"
+    },
+    {
+        "name": "LT_CMP_Underdark_Day",
+        "uuid": "bfbd2d27-97a1-4715-af7f-5b9e279f1206"
+    },
+    {
+        "name": "LT_GLO_TUT_Avernus_TemplateWrap_A",
+        "uuid": "c1e77da2-91ab-44a1-a5e2-33a09efd87a2"
+    },
+    {
+        "name": "LT_GLO_TUT_Avernus_TemplateWrap_B",
+        "uuid": "c1ef2c2c-a447-4d54-b96f-7400041f9c32"
+    },
+    {
+        "name": "LT_WLD_CIN_Dreamscene_Daisy_A",
+        "uuid": "c1f50e5d-4716-4130-8162-c0ae85269303"
+    },
+    {
+        "name": "LT_CMP_Basement_A",
+        "uuid": "c30c8968-998e-4cbf-9916-d9c41f49a27c"
+    },
+    {
+        "name": "LT_WLD_HagLair_D",
+        "uuid": "c38a2a1e-65a3-4455-ab4b-0f9f6263a934"
+    },
+    {
+        "name": "LT_CMP_Mindflayer_A",
+        "uuid": "c7f34926-6bba-4cb2-92e3-0d2a8be13214"
+    },
+    {
+        "name": "WLD_NautiloidCockpit_A",
+        "uuid": "c9da8b3b-5432-4f3f-8c06-33943e088eb3"
+    },
+    {
+        "name": "LT_CMP_DungeonShar_A",
+        "uuid": "cbb0e439-4368-4f7f-a827-dc6f1f8126cc"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_8x4",
+        "uuid": "cd0ddae9-108a-4dbd-a833-3a68df2c39fb"
+    },
+    {
+        "name": "PLT_Camp_WoodenStructure_4x8_Intact",
+        "uuid": "d10cfa33-7ba8-47ed-8fa3-50623c884e16"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_12x4_Medium_B",
+        "uuid": "d1809660-cd45-4fc5-a51f-7f3e8179fa1d"
+    },
+    {
+        "name": "LT_SYS_CC_I_Timeline",
+        "uuid": "d38d8657-ebad-4906-91d5-40f21a5bc2aa"
+    },
+    {
+        "name": "LT_PLT_CHA_OUTSIDE_FissureFloor_Unbroken",
+        "uuid": "d3d116f8-8620-45e4-ad58-6f064d05c413"
+    },
+    {
+        "name": "LT_CMP_CaveGranite_A",
+        "uuid": "d608d1c9-fa0d-4e10-9d16-f4275c42d1c2"
+    },
+    {
+        "name": "PLT_PLA_BanditCave_01",
+        "uuid": "d9209505-6e2b-4dcf-8a36-155d347b3478"
+    },
+    {
+        "name": "LT_WLD_UnderdarkTransitions_C",
+        "uuid": "d99acc84-34e6-4e9b-90ab-a5e24cb21de3"
+    },
+    {
+        "name": "LT_WLD_Raft_A",
+        "uuid": "d9b8a33d-cda9-4878-b0f7-10a5b3e356b7"
+    },
+    {
+        "name": "LT_WLD_Hag_Swamp_Evil_C",
+        "uuid": "da627b01-c546-4de6-adf6-37712554d178"
+    },
+    {
+        "name": "LT_CMP_Laezel",
+        "uuid": "dc39774c-f2c5-4e05-a426-46cec35e3ce0"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_4x4",
+        "uuid": "ddefe359-4d53-4023-af52-2027fe2302f0"
+    },
+    {
+        "name": "LT_GLO_TUT_Avernus_TemplateWrap_E",
+        "uuid": "de5d4eb8-49bb-4d9a-9568-fd7a15db3a62"
+    },
+    {
+        "name": "LT_PLT_FOR_House_Floor",
+        "uuid": "de8b63e8-1223-4a56-9541-9eede1eea679"
+    },
+    {
+        "name": "PLT_GEN_Bridge_LoosePlanks_B",
+        "uuid": "e19c827e-72af-4b16-b466-1cf656ac6fe8"
+    },
+    {
+        "name": "LT_WLD_Hag_C_Happy",
+        "uuid": "e7392d13-8f0c-4b04-8130-6e47b7f45caa"
+    },
+    {
+        "name": "PLT_PLA_BanditCave_02",
+        "uuid": "e8506cdb-14ab-4688-9442-3775b227fa97"
+    },
+    {
+        "name": "LT_GLO_Cambion_A",
+        "uuid": "eb52f56a-9f68-4b96-82f7-4db3c3d3489b"
+    },
+    {
+        "name": "LT_PLT_HAG_CageBottom",
+        "uuid": "ec0b95bf-1fbf-4cb0-8db2-58c96b2eac7b"
+    },
+    {
+        "name": "PLT_Bridge_Goblin",
+        "uuid": "ecef81a2-9ba6-42f9-bc55-6a912be1d125"
+    },
+    {
+        "name": "PLT_Log",
+        "uuid": "ee82ad16-1e2f-4486-9012-dc25a6559798"
+    },
+    {
+        "name": "LT_CMP_DungeonAbbey_A",
+        "uuid": "f4a493c7-8bcd-444c-bfe1-9bbb1f73cf86"
+    },
+    {
+        "name": "LT_PLT_PLA_GithChokepointBridge",
+        "uuid": "f4b4f41b-07aa-4604-bb99-25fc4b7e574c"
+    },
+    {
+        "name": "LT_PLT_SpiderWeb_12x4_Medium",
+        "uuid": "f748cde5-52b4-43a4-9ac6-3d2faf8f606a"
+    },
+    {
+        "name": "LT_PLT_GOB_PriestessGutPrison_Floor",
+        "uuid": "f812f492-1dfa-4d37-a7fc-9d371c97ca8c"
+    },
+    {
+        "name": "Chapel_demo_A",
+        "uuid": "fae8b87d-3516-4196-8158-934eabe5ddda"
+    },
+    {
+        "name": "LT_PLT_GOB_HereticCage_Floor",
+        "uuid": "fd7118fa-aa5e-4f6d-8eca-73b07aafacad"
+    },
+    {
+        "name": "PLT_CazadorPayload",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_CMP_Jaheira_A",
+        "uuid": "00d6ac18-9267-4e61-ad48-b468771a902a"
+    },
+    {
+        "name": "BGO_HagSupportHouse_A",
+        "uuid": "0153f95e-a872-48f6-b8b4-ddc848ae0b5b"
+    },
+    {
+        "name": "LT_BGH_DockWarehouse_Foundry_A",
+        "uuid": "01df1068-54dd-447c-9af1-46c89aad8607"
+    },
+    {
+        "name": "END_NetherBrainArena_A",
+        "uuid": "03464041-871a-4a49-99aa-0120680a9dd1"
+    },
+    {
+        "name": "CLT_CMP_MintharaTriggers_A",
+        "uuid": "036bd655-5585-4b06-a10b-a5fd77e277dc"
+    },
+    {
+        "name": "LT_CMP_BGO_Elfsong_Night",
+        "uuid": "03ccce9e-5179-45b5-b054-6863b09f4353"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_H",
+        "uuid": "0491c7bb-8ba1-4b41-8fe8-1bb4fc8bca47"
+    },
+    {
+        "name": "LT_BGH_BonecloaksApothecary_Basement_A",
+        "uuid": "04d28344-47b3-4505-b9d0-8fc5c13274d3"
+    },
+    {
+        "name": "LT_SCL_Nightsong_A",
+        "uuid": "078acbcb-4662-43c1-81f2-08161c9fad92"
+    },
+    {
+        "name": "PLT_MOO_Dungeon_RockPillar",
+        "uuid": "07b232aa-7c2a-41a7-89c3-037a90787b1e"
+    },
+    {
+        "name": "LT_CRE_Vista_A",
+        "uuid": "0855c1a6-a089-48a5-b9a5-198c2b717408"
+    },
+    {
+        "name": "LT_CMP_BGO_Elfsong_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_SCL_CIN_PrivateCampRoom_Moonrise_A",
+        "uuid": "0930a4b6-ea5f-4663-9d7f-341779131863"
+    },
+    {
+        "name": "LT_CTY_FireWorks_Basement_A",
+        "uuid": "0936c8b5-90d9-4c1b-8d63-ee2ee14a0138"
+    },
+    {
+        "name": "LT_END_HighhallSewers_A",
+        "uuid": "0968cdb6-510e-46c7-9e3e-dc8d442d8935"
+    },
+    {
+        "name": "LT_BGO_CIN_WyrmswayArena_Pickup_A",
+        "uuid": "09cb148a-5670-4231-9a96-d31141aaca0a"
+    },
+    {
+        "name": "LT_END_RuleMarketstalls_A",
+        "uuid": "9a8bbeba-850c-402f-bac5-ff15696e6497"
+    },
+    {
+        "name": "PLT_GEN_Barricade_I_Wood_A",
+        "uuid": "0a4bc445-14de-4c88-83bd-d704e8a9a102"
+    },
+    {
+        "name": "LT_CTY_CIN_SeluniteCourtyard_A",
+        "uuid": "0a52fa14-a5b9-480a-91f1-b02a5843d0ab"
+    },
+    {
+        "name": "LT_SCL_CIN_UncursedTown_A",
+        "uuid": "0b7aee9e-673e-4a3e-885b-c5e30c37a6bb"
+    },
+    {
+        "name": "LT_CMP_Astarion",
+        "uuid": "0c2271eb-24ff-4d0d-ba83-8fe0928fb779"
+    },
+    {
+        "name": "PLT_LowerCity_CazElevator_A",
+        "uuid": "0c40fe5a-8f83-4cb0-aa11-b33a661e41b8"
+    },
+    {
+        "name": "LT_END_CIN_NetherBrainArenas_E",
+        "uuid": "0c44fa14-11d7-4d53-b115-d21e6fda515b"
+    },
+    {
+        "name": "LT_BGH_CountingHouseVaultConnection_A",
+        "uuid": "0cd0d4bd-cf5e-472d-b74f-f16c6525cca3"
+    },
+    {
+        "name": "LT_BGO_Heapside_A_ART",
+        "uuid": "0dea19b2-217d-42a1-935b-73b9abbac7d9"
+    },
+    {
+        "name": "LT_CMP_CTY_Bridge",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "LT_CMP_Minthara_A",
+        "uuid": "0eaf0001-a51c-48f7-8a1b-247c4acd99a5"
+    },
+    {
+        "name": "PLT_LOW_VoloFate_ExecutionCart",
+        "uuid": "0f66d3d1-a35b-459f-9bc9-1233a443b33f"
+    },
+    {
+        "name": "LT_CRE_CIN_AstralDreamscene_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_CMP_Karlach",
+        "uuid": "10164a03-eead-4598-a33c-83e1aa40491b"
+    },
+    {
+        "name": "CLT_MimicEncounter_A",
+        "uuid": "1307d401-6372-46d6-b534-037846ad35c9"
+    },
+    {
+        "name": "LT_SCL_CIN_Shadowfell_A",
+        "uuid": "13743e10-35f9-4efe-89b3-a82a6af86c9f"
+    },
+    {
+        "name": "LT_CTY_AlcoholTradersCart",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "LT_END_MindArenaPlat4_A",
+        "uuid": "cf421f4e-107b-4ae6-86aa-090419c624a5"
+    },
+    {
+        "name": "LT_BGH_GEN_House_A",
+        "uuid": "1575f090-2292-4532-8f22-56e5df6afa9d"
+    },
+    {
+        "name": "LT_PLT_CTY_Submersible_A",
+        "uuid": "16000f7e-66ab-4633-b36d-705c3868fc12"
+    },
+    {
+        "name": "LT_PLT_Moo_Chapel_A",
+        "uuid": "164ca959-c23e-4ada-a9a7-11f14907c786"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_G",
+        "uuid": "16ae8358-98c1-45c4-8c56-9725a0d496ac"
+    },
+    {
+        "name": "LT_CMP_CIN_CatKebab_A",
+        "uuid": "16e128ee-6dc8-4722-9b72-fde333cce06b"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_TemplateWrap_B",
+        "uuid": "16f867c3-303b-4635-891f-8e42c07039d3"
+    },
+    {
+        "name": "LT_BGO_CIN_Ruins_A",
+        "uuid": "17c2ae22-5625-454c-9f91-5c0726a88f48"
+    },
+    {
+        "name": "LT_BGH_StormshoreTabernacle_A",
+        "uuid": "17e95707-87a4-44fd-bd38-790aaa03d130"
+    },
+    {
+        "name": "LT_BGO_harran_Grotto_Connection_B",
+        "uuid": "18380b74-529b-438e-a996-02471a9c829f"
+    },
+    {
+        "name": "LT_END_AstarionCave_A",
+        "uuid": "1846ee4b-c79b-4b27-a4e2-85782a496d3e"
+    },
+    {
+        "name": "LT_PLT_LOW_GriefAltar",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "LT_PLT_CINE_AstralPlane_ElfsongDream_A",
+        "uuid": "1951c672-67c4-4d09-b2d1-ab9d68bf155a"
+    },
+    {
+        "name": "PLT_Platform_MonasteryBrewery_01",
+        "uuid": "1aaed5bf-67c3-4586-96a2-b8f2fa4ec2a8"
+    },
+    {
+        "name": "LT_END_CIN_KarlachAvernusFinale_A",
+        "uuid": "1b4d6e40-9d6a-4efe-9669-a6a74a853c09"
+    },
+    {
+        "name": "LT_BGO_UC_CazadorChapel",
+        "uuid": "1b9bad4f-8bfb-47d1-8797-36ae9fd5204f"
+    },
+    {
+        "name": "LT_PLT_BGH_SteelWatchFoundry_CartElevator_A",
+        "uuid": "1baeb541-2c40-4245-8e09-983801566d2e"
+    },
+    {
+        "name": "CMP_Bed_Shadowheart_A",
+        "uuid": "1bbe93c9-31d6-4ebf-a908-f890fde66434"
+    },
+    {
+        "name": "LT_END_MindArenaPlat1_A",
+        "uuid": "1d160ba1-197c-45c6-9786-24b6a0d60267"
+    },
+    {
+        "name": "LT_SCL_Foundation",
+        "uuid": "1e22eb95-aa29-4a2a-ae5e-72f9e6ceb28a"
+    },
+    {
+        "name": "LT_SCL_CIN_GaleLastNight_A",
+        "uuid": "20ab9291-3600-4b15-962a-306eba279cce"
+    },
+    {
+        "name": "BGO_Heapside_A",
+        "uuid": "20eec7e9-2578-4e83-a01b-f15b91ed55bd"
+    },
+    {
+        "name": "LT_BGO_UC_Sewer_D_Backup",
+        "uuid": "20f2c45f-34e4-435c-9ed3-b53915db7c8e"
+    },
+    {
+        "name": "LT_BGH_SourcerersSundries_A_ART",
+        "uuid": "22030003-3200-47ec-b04a-fb30fe199270"
+    },
+    {
+        "name": "CLT_ACT3_Karlach_A",
+        "uuid": "22b59bda-513c-4378-ae20-5b4cf2e25d69"
+    },
+    {
+        "name": "SCL_HavenBasementLights",
+        "uuid": "23335333-3b06-46fc-90cf-778960c1ac94"
+    },
+    {
+        "name": "CLT_ACT3_Jaheira_A",
+        "uuid": "242a9892-8f89-4f83-9c65-b65f9b161df0"
+    },
+    {
+        "name": "PLT_WellDepthsSlideRock",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "PLT_UC_SewerRaft_01",
+        "uuid": "2625bcf2-6aaa-4264-8cd1-7a97f439ca10"
+    },
+    {
+        "name": "LT_SCL_MoonriseDungeon_E_Art",
+        "uuid": "2629fe05-6651-4cf2-b25c-ce2a1af67423"
+    },
+    {
+        "name": "LT_PLT_Moo_Tower_Broken_A",
+        "uuid": "278990a6-130b-4d9b-8b20-e49c21d38fc5"
+    },
+    {
+        "name": "LT_CMP_Shrubbery_B",
+        "uuid": "27e11fe5-ead9-4714-8f2e-4729547e709e"
+    },
+    {
+        "name": "CMP_Bed_Laezel_A",
+        "uuid": "284a0c09-5e6b-43c3-becf-7483915b44f0"
+    },
+    {
+        "name": "BGO_Lower_City_House_A",
+        "uuid": "28c336ea-8992-40bf-b016-9f495e2a2566"
+    },
+    {
+        "name": "LT_CTY_UC_Sewer",
+        "uuid": "28cf60bf-fce1-4e00-b7c0-a97d8fd9562a"
+    },
+    {
+        "name": "LT_INT_CIN_MoonriseDungeon_A",
+        "uuid": "28da770a-6af6-4c5b-a2fd-e9371988353c"
+    },
+    {
+        "name": "LT_CTY_Tabernacle_Basement_A",
+        "uuid": "295dd2f8-0413-41b7-a61e-76d3b03fe0c4"
+    },
+    {
+        "name": "LT_PLT_CTY_RamazithFurniture_C",
+        "uuid": "2a6e63b8-9afa-452f-94e1-be41fe68f928"
+    },
+    {
+        "name": "LT_CMP_Shrubbery_A",
+        "uuid": "2bda30c7-9b69-4453-bc71-ad9291972f34"
+    },
+    {
+        "name": "CMP_Bed_Wyll_A",
+        "uuid": "2d190053-7d91-4e1a-94ab-2b6be6623edb"
+    },
+    {
+        "name": "LT_END_KarlachDock_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_INT_CIN_GortashOffice_A",
+        "uuid": "31366e27-878a-4bab-859b-0d8a3879a909"
+    },
+    {
+        "name": "LT_BGO_WellDepths",
+        "uuid": "3192b47a-3c51-4952-b1fe-6c26c500bb06"
+    },
+    {
+        "name": "LT_BGO_Sharran_Grotto_Connection_B",
+        "uuid": "31c15611-ffc5-4b55-9b1f-29ccfdef2090"
+    },
+    {
+        "name": "PLT_BreweryElevatorTemplate",
+        "uuid": "31ea71f4-7bd1-4279-8fcf-8cc089727cef"
+    },
+    {
+        "name": "LT_CRE_CIN_PrivateCampRoom_Cave_A",
+        "uuid": "3219dbce-8cba-4859-83fd-622bca0f3dee"
+    },
+    {
+        "name": "LT_CTY_CIN_DaisyRomance_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "CLT_ZevlorsAppeal_A",
+        "uuid": "32ea19ba-01c2-4da8-b4fd-91bf80957923"
+    },
+    {
+        "name": "LT_BGO_Sharran_Grotto_Connection_C",
+        "uuid": "32f56b1a-81ce-42dc-b5f9-db63c5c66f8e"
+    },
+    {
+        "name": "CLT_CMP_LaezelTriggers_A",
+        "uuid": "331ec773-d9fb-4626-99b2-6dec7c1f8fa2"
+    },
+    {
+        "name": "LT_SCL_HouseOfHope_A",
+        "uuid": "337bb565-46a5-4ff7-9383-a3b3272ced08"
+    },
+    {
+        "name": "LT_CTY_Figaro_Basement",
+        "uuid": "33b7f411-a4d8-42dd-9ac5-6ae0aaf19505"
+    },
+    {
+        "name": "PLT_END_DebugChainsPlatform",
+        "uuid": "33e80e5b-fc33-4c6a-85b0-3ad78ff99cf5"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_Day_A",
+        "uuid": "34d39c8c-6a64-42bd-ab54-853ad1eae43f"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_TemplateWrap_A",
+        "uuid": "34f45819-c099-4d2c-947e-66aad66f405e"
+    },
+    {
+        "name": "LT_WLD_CIN_PrivateCampRoom_A",
+        "uuid": "35483065-2f26-491f-8533-fd1096b9085c"
+    },
+    {
+        "name": "SCL_MindflayerColony_Hangar",
+        "uuid": "3619b056-c6c6-4f97-aefb-f05813e4248a"
+    },
+    {
+        "name": "LT_BGH_House_Of_Grief",
+        "uuid": "36270e6d-fdef-4252-8d4f-e69cfaa3ded3"
+    },
+    {
+        "name": "LT_PLT_END_Nautiloid_Ship_A",
+        "uuid": "366adb4c-e6c1-4a60-907a-3cec4f119bcc"
+    },
+    {
+        "name": "LT_REF_IronThrone",
+        "uuid": "369c18f6-61f1-4c54-9ede-8569beda0e97"
+    },
+    {
+        "name": "PLT_CRE_BloodOfLathander_GeneratorRing",
+        "uuid": "3753d503-7395-46c1-87bd-60739e297791"
+    },
+    {
+        "name": "LT_BGH_ElfSongTavern_A_Art",
+        "uuid": "37f8c74f-1c8d-4088-a6f4-b15cfab9e19b"
+    },
+    {
+        "name": "PLT_MF_MindAreana_Platform_A",
+        "uuid": "383f673c-b0ce-425a-bb94-7239b60b0dbd"
+    },
+    {
+        "name": "CLT_CMP_HalsinTriggers_A",
+        "uuid": "6dd3db4f-e2db-4097-b82e-12f379f94c2e"
+    },
+    {
+        "name": "LT_EPI_CIN_Heaven_A",
+        "uuid": "3b992082-6adb-45d4-b687-4849dfba37c0"
+    },
+    {
+        "name": "LT_END_CIN_Sewers_A",
+        "uuid": "3be60a0e-d057-48b8-957c-36d77751934b"
+    },
+    {
+        "name": "LT_PLT_CRE_Tower_Lathander_A",
+        "uuid": "3f2e4ded-1a03-46e8-bfac-0c36f0d5569d"
+    },
+    {
+        "name": "LT_SCL_Mausoleum_E",
+        "uuid": "3f334e4d-7849-4987-8575-43a57983c13f"
+    },
+    {
+        "name": "LT_BGH_BlushingMermaidCellarB",
+        "uuid": "3f9d4269-b95d-4d3b-8fab-41d293cf6616"
+    },
+    {
+        "name": "LT_BGO_SmugglerTunnel_A",
+        "uuid": "3fd98155-5203-45f2-8cd0-998a161c9441"
+    },
+    {
+        "name": "CLT_ACT3_Astarion_A",
+        "uuid": "412719fd-f9d3-4bf7-8d04-bdc1379a0e5f"
+    },
+    {
+        "name": "LT_CTY_SorcerousSundriesBasement_A",
+        "uuid": "421d9078-c1d8-4b49-83c6-15638ef9e4dc"
+    },
+    {
+        "name": "LT_EPI_CIN_Jail_A",
+        "uuid": "42511d29-4d65-43ee-98ba-a26d7987cad5"
+    },
+    {
+        "name": "PLT_WYR_WyrmRockElevator",
+        "uuid": "42fab249-28d9-45ba-8c1d-47c414061432"
+    },
+    {
+        "name": "LT_BGO_WyrmsWayArena",
+        "uuid": "434abde1-92e3-4406-a5b0-6742cc7c9087"
+    },
+    {
+        "name": "LT_CMP_BGO_Farm_A",
+        "uuid": "43913ab1-5a15-40b4-a4a8-dddf9c4bc62f"
+    },
+    {
+        "name": "LT_BGH_CountingHouseVault",
+        "uuid": "43df3bea-5f82-4d35-9bd1-611c1f7f8944"
+    },
+    {
+        "name": "LT_PLT_CRE_StainedGlass_A",
+        "uuid": "43ecf765-eca9-49aa-8f18-2b0db0457bb1"
+    },
+    {
+        "name": "LT_CTY_Golbraith_Basement_A",
+        "uuid": "442305cf-317d-4275-b549-89a1e874e4d9"
+    },
+    {
+        "name": "PLT_WYR_WyrmRock_SouthBridge",
+        "uuid": "4522aea4-9469-4f88-b9b6-a477054a75f5"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_F",
+        "uuid": "4551f7d0-2f31-4006-884b-c600d321518d"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_C",
+        "uuid": "455bd7a5-84a1-4c16-b528-a0584cbc83d9"
+    },
+    {
+        "name": "SCL_Brewery_B",
+        "uuid": "45da111b-0558-4112-bda3-c319c2ec37d0"
+    },
+    {
+        "name": "LT_GLO_CIN_GaleRomance_A",
+        "uuid": "468904c3-7e65-4186-a5e5-132bdfbdbfa6"
+    },
+    {
+        "name": "BGO_House_Stone_A",
+        "uuid": "468d21f8-7777-4ce9-a8c6-c6774d9d4792"
+    },
+    {
+        "name": "shar lighting test",
+        "uuid": "47b9b237-9fd1-4f8f-9f64-cc711ff8948d"
+    },
+    {
+        "name": "PLT_COL_Elevator",
+        "uuid": "4907badb-8697-4cc3-879f-48cc8e34cff5"
+    },
+    {
+        "name": "LT_BGO_BlacksmithCellar_A",
+        "uuid": "4aaf55c1-736f-465b-97b3-7fc7f5c80ddd"
+    },
+    {
+        "name": "LT_BGH_BaldursMouthGazette_A",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "LT_BGH_ElfSongTavern_A",
+        "uuid": "4d5598b0-28b3-4178-bfa4-cda8faff9881"
+    },
+    {
+        "name": "LT_CTY_HagSurvivor_Basement_A",
+        "uuid": "4d681d88-983b-402f-9c90-c0abcde328ef"
+    },
+    {
+        "name": "CMP_Bed_Karlach_A",
+        "uuid": "4dabad63-e56d-4b4f-b215-266885fe0f83"
+    },
+    {
+        "name": "LT_BGO_ElfsongBasement_A",
+        "uuid": "4e32ee82-95cd-4e25-a3e2-a7a2f3a00fc0"
+    },
+    {
+        "name": "CMP_Bed_Halsin_A",
+        "uuid": "4f257220-f411-4672-997f-37c584c13583"
+    },
+    {
+        "name": "CLT_CMP_JaheiraTriggers_A",
+        "uuid": "4f75cc94-846c-4365-b0b3-78918e1ad78a"
+    },
+    {
+        "name": "PLT_SteelWatchFoundry_Roof_Broken_A",
+        "uuid": "5004716f-e82a-4e02-baaf-ad4f79ebb3f5"
+    },
+    {
+        "name": "LT_BGO_WyrmsRockDungeon_C",
+        "uuid": "528f8ba3-d6b5-4376-b1a6-12a9987a9658"
+    },
+    {
+        "name": "CLT_VlaakithVisit_B",
+        "uuid": "542b1fe6-afa0-4ae3-85c3-58701bba5067"
+    },
+    {
+        "name": "LT_BGH_CountingHouse_C",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "CMP_Bed_Astarion_A",
+        "uuid": "54e07b2a-8dab-4873-8713-dba4a4fa9c83"
+    },
+    {
+        "name": "LT_CMP_Gale",
+        "uuid": "54f05ea1-1d71-40aa-8393-3b8a32c08fb2"
+    },
+    {
+        "name": "LT_END_Beach_A",
+        "uuid": "56041154-0670-407d-9e7f-e259f60eaeed"
+    },
+    {
+        "name": "LT_CTY_CIN_KarlachRomanceTavern_A",
+        "uuid": "5660babe-fc72-4e83-8288-62df538e680b"
+    },
+    {
+        "name": "LT_SCL_Campfire_A",
+        "uuid": "573916cc-fcb6-4c5e-bbaf-08c42bf12686"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_A_2",
+        "uuid": "57a1b0f8-a68e-44d0-af19-79c17b91d917"
+    },
+    {
+        "name": "LT_SCL_MindflayerColony_G",
+        "uuid": "582a7401-1ef7-4940-be8d-881b937f2ba8"
+    },
+    {
+        "name": "LT_SCL_Haven_A",
+        "uuid": "58aaa8ba-9676-427d-8058-62eac7dfc09a"
+    },
+    {
+        "name": "LT_CTY_CazadorPalace",
+        "uuid": "59b9053c-93c1-4879-9d19-851eacf9abdf"
+    },
+    {
+        "name": "LT_SCL_CIN_PrivateCampRoom_Main_A",
+        "uuid": "59f751b5-f7c9-4c5d-8ba4-cbb6d1b9252b"
+    },
+    {
+        "name": "LT_BGO_MorphicPool_A",
+        "uuid": "5a88ee95-7b16-41b1-8103-74b67a54d4fd"
+    },
+    {
+        "name": "LT_PLT_CRE_Tower_A_Broken",
+        "uuid": "5a95d89f-c7d9-4250-b86e-5ec9dd6b6172"
+    },
+    {
+        "name": "LT_PLT_CRE_Roof_A_Broken",
+        "uuid": "5b4d8991-c4d2-450b-954b-13cfbb9bad6a"
+    },
+    {
+        "name": "LT_BGH_Highberrys_cellar_A",
+        "uuid": "5bb3f586-354c-4464-b5aa-a8bccba20554"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_B",
+        "uuid": "5d54077f-16a3-4e37-a50e-6399fb066eb4"
+    },
+    {
+        "name": "LT_END_MindArenaPlat5_A",
+        "uuid": "5dc9b0bc-1460-4eb0-9be6-60493f91a1bf"
+    },
+    {
+        "name": "LT_BGO_SmugglersCave_Basement_A",
+        "uuid": "5df96971-11e8-4a30-aee2-b57a1917ba40"
+    },
+    {
+        "name": "LT_BGO_SteelWatchLabControlCenter_B",
+        "uuid": "5e40a7b2-c910-49a8-8b30-ddf02d7c58bf"
+    },
+    {
+        "name": "LT_CRE_CIN_PrivateCampRoom_A",
+        "uuid": "5e5609f7-e20e-4ef5-8e73-55959b58cd4c"
+    },
+    {
+        "name": "LT_CTY_WineFestival",
+        "uuid": "5e6d9765-f88e-40ce-ae29-87b46dfa7d15"
+    },
+    {
+        "name": "PLT_HoH_StatueSpinner",
+        "uuid": "5ed27b3f-54ec-43af-9a70-fb8234b24448"
+    },
+    {
+        "name": "LT_CTY_MurderTribunal_A",
+        "uuid": "5f275c1f-8d84-4c83-866c-eb306b7d606f"
+    },
+    {
+        "name": "CLT_CMP_WyllTriggers_A",
+        "uuid": "5f40707d-630e-4861-8953-dc4fa9255b01"
+    },
+    {
+        "name": "LT_BGO_DiabolistCellar_A",
+        "uuid": "5fa5636d-441d-4fa2-9539-fb21e2379e08"
+    },
+    {
+        "name": "LT_END_CIN_BaldursGate_Vista_A",
+        "uuid": "60ba7364-8780-4f83-bb9e-b648981c87a2"
+    },
+    {
+        "name": "PLT_CTY_GazetteElevator_A",
+        "uuid": "60c21b9e-c7bb-460f-b69c-633268b261e3"
+    },
+    {
+        "name": "LT_PLT_HUM_Ruin_Platform_Broken_C",
+        "uuid": "6117c37a-cb1f-48e9-89f9-696cc5d7fe9c"
+    },
+    {
+        "name": "LT_CMP_ACT3_CentralBeds_A",
+        "uuid": "613ad4a4-5480-4c84-bdd4-6235b21b421f"
+    },
+    {
+        "name": "LT_CTY_CIN_PrivateCampRoom_A",
+        "uuid": "614e758e-0d4c-40c2-975c-2c0dd83c8e0b"
+    },
+    {
+        "name": "LT_SCL_KethericEntrance_A",
+        "uuid": "61d7558c-251b-4803-b59a-d77e088080f1"
+    },
+    {
+        "name": "LT_WLD_CIN_DaisyIntroIsland_A",
+        "uuid": "6235e1c2-f14a-4169-9a53-ef7f4e6c04a1"
+    },
+    {
+        "name": "CLT_MagicMirror_A",
+        "uuid": "63bd6a03-8c7e-453a-9772-f5cb9cd8f7fb"
+    },
+    {
+        "name": "LT_SCL_CIN_PrivateCampRoom_B",
+        "uuid": "641e33cd-bc14-413d-9076-cb15787a1c4d"
+    },
+    {
+        "name": "LT_PLT_SCL_Haven_GameplayLight_A",
+        "uuid": "651a7f91-3105-4963-943b-0b9399c6a28b"
+    },
+    {
+        "name": "LT_BGH_SteelWatchFoundry_B",
+        "uuid": "667b7631-8c9f-4b3d-86a1-6cba0cfce176"
+    },
+    {
+        "name": "LT_CMP_BedElfsong_Unmade_B",
+        "uuid": "66c609ee-7271-4439-b896-eb5f4f468a8a"
+    },
+    {
+        "name": "LT_CMP_BGO_Undercity",
+        "uuid": "675260de-9abc-41b1-86d7-8cbd16db70ac"
+    },
+    {
+        "name": "LT_CLT_DaisyDream01_A",
+        "uuid": "69f2c4ff-1fba-40a6-883d-45cbae0ab75c"
+    },
+    {
+        "name": "LT_CTY_LowerCity_A",
+        "uuid": "6b49decb-44ec-481e-b8ff-8aa9b71a7102"
+    },
+    {
+        "name": "CLT_ACT3_Laezel_A",
+        "uuid": "6b636513-95af-4dbc-8ecc-ff24ec3c0439"
+    },
+    {
+        "name": "LT_CTY_CIN_AstarionRomanceGraveyard_A",
+        "uuid": "6bd1a629-524c-4ab3-b773-e872cb728a4a"
+    },
+    {
+        "name": "LT_CTY_ShadowHeart_SDROM",
+        "uuid": "6bde2a4b-957f-40b3-a543-3594eebc85cd"
+    },
+    {
+        "name": "LT_SCL_ArmyCampEmpty",
+        "uuid": "6c2a7425-066a-4577-9068-25383a1da221"
+    },
+    {
+        "name": "LT_BGO_WyrmWay_C",
+        "uuid": "6d7e85f1-acba-4b26-9f5a-15b6ac45a9a9"
+    },
+    {
+        "name": "LT_CTY_Lodge_Floor",
+        "uuid": "6da6cb72-cd99-4de4-ab36-94b256469d75"
+    },
+    {
+        "name": "LT_END_Highhall_Upper_D",
+        "uuid": "6db62a6f-f6a7-4e34-bab3-b7aaf3684a7c"
+    },
+    {
+        "name": "LT_PLT_Moo_Tower_A",
+        "uuid": "6ec40315-932b-44f4-860f-05c08360b08a"
+    },
+    {
+        "name": "PLT_SteelWatchFoundry_Facade_Broken_A",
+        "uuid": "6ed42ba3-0ec3-49a4-a8f6-761113aa160d"
+    },
+    {
+        "name": "LT_BGO_MephistoVault_A",
+        "uuid": "704ec351-ce4e-44b5-a66c-1a61610ce971"
+    },
+    {
+        "name": "LT_PLT_SHA_Disc",
+        "uuid": "71235f9a-e4e5-4d9f-ac10-36a4c3d017c3"
+    },
+    {
+        "name": "PLT_CTY_ElfsongTavern_Crime_Scene_A",
+        "uuid": "75dc1b4f-8635-48cb-80a9-45d8659f5488"
+    },
+    {
+        "name": "LTN_PLT_CRE_RailLift",
+        "uuid": "75f4802a-7a0f-4ccd-989b-e26898c8a8ce"
+    },
+    {
+        "name": "LT_CTY_CIN_HalsinRomance_A",
+        "uuid": "762cdfc5-241a-40c3-a89b-1e7900d34a9e"
+    },
+    {
+        "name": "LT_SorcerousSundriesBasement_Room_A",
+        "uuid": "76f5624e-38e1-4dd5-813e-75ea325f8747"
+    },
+    {
+        "name": "CLT_ACT3_Minthara_A",
+        "uuid": "7867b03b-f6d2-465d-90d1-c1ec3cc466d2"
+    },
+    {
+        "name": "LT_GLO_CIN_Shadowfell_A",
+        "uuid": "7a1dcf56-2b27-49e2-a15c-91869d0cc412"
+    },
+    {
+        "name": "LT_BGO_BloodMerchantLab_A_ART",
+        "uuid": "7a7dd57b-9e2f-4b98-b715-f3f005179e4d"
+    },
+    {
+        "name": "LT_SCL_MoonriseTower_E",
+        "uuid": "7c6d9e15-3ec4-4386-b538-a2a9649a82c8"
+    },
+    {
+        "name": "LT_CRE_GithCrecheDestroyed",
+        "uuid": "7cab50f7-9bdb-4060-a904-fdb988190b79"
+    },
+    {
+        "name": "CLT_PrivateCampRoom_A",
+        "uuid": "7ccf5d3b-9511-44f9-9e06-a2b5c68521e7"
+    },
+    {
+        "name": "LT_CRE_AstralPlane_E_Art",
+        "uuid": "7cf6173f-c4cf-409d-95da-d6058f7758a6"
+    },
+    {
+        "name": "LT_CLT_BlackBox_A",
+        "uuid": "7da6a9e8-85b4-409b-8349-e11ea29d3bd9"
+    },
+    {
+        "name": "LT_SCL_RuinBattlefield_G",
+        "uuid": "7dee2707-efbe-4b58-bcf9-0873e61fdf43"
+    },
+    {
+        "name": "LT_EPI_CIN_GaleHeaven_A",
+        "uuid": "7e0d9f0a-5556-4dbc-99ff-e3a9d6ee7d8f"
+    },
+    {
+        "name": "CMP_Bed_Jaheira_A",
+        "uuid": "7f652a4e-eb8b-4ab0-878b-a95982ea0e7c"
+    },
+    {
+        "name": "CLT_CMP_AstarionTriggers_A",
+        "uuid": "82845360-672c-45d2-b7a1-db28e7d16c14"
+    },
+    {
+        "name": "LT_END_HighHall_C",
+        "uuid": "82ceeb5b-cb74-4569-9522-2a9a8898f78d"
+    },
+    {
+        "name": "LT_CTY_WeddingChapel",
+        "uuid": "85082438-eba5-4877-ac8c-f7ce72b0bdd7"
+    },
+    {
+        "name": "CLT_CMP_ShadowheartTriggers_A",
+        "uuid": "8546708b-9e45-4e5d-a5c0-a214820193e3"
+    },
+    {
+        "name": "CLT_ACT3_Minsc_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_END_MindArenaPlat6_A",
+        "uuid": "8790b391-95c9-4481-92f9-c67936725db1"
+    },
+    {
+        "name": "LT_END_CIN_RaphaelPunished_A",
+        "uuid": "87ec313f-4c92-4c94-83b1-736472588460"
+    },
+    {
+        "name": "LT_IRN_Submersible_A",
+        "uuid": "88074935-d85a-4852-92d9-f00345d20481"
+    },
+    {
+        "name": "LT_CTY_CIN_PrivateCampRoom_Elfsong_A",
+        "uuid": "882705b1-c123-470e-987c-3d06399efd10"
+    },
+    {
+        "name": "LT_CTY_GardenTools_A",
+        "uuid": "88c78ee2-a3bb-4bbe-883e-e5f2252c641b"
+    },
+    {
+        "name": "CMP_Bed_Minthara_A",
+        "uuid": "88ca32b8-58ec-4cc7-8943-201de71d891d"
+    },
+    {
+        "name": "LT_BGO_WyrmsRockDungeon_D_Art",
+        "uuid": "8900cce5-fce6-4788-92ad-bd5fd4abecf6"
+    },
+    {
+        "name": "LT_CTY_Submersible_A",
+        "uuid": "89ac48ed-7fa3-40e1-bd51-774e039f8824"
+    },
+    {
+        "name": "CLT_ACT3_Wyll_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_PLT_CTY_SubmersibleGone_A",
+        "uuid": "8adc84e5-2613-42fa-812a-64d55f6575a1"
+    },
+    {
+        "name": "LT_INT_AstralBridge_A",
+        "uuid": "8b2991bb-faa0-4d44-beaf-bf7066891984"
+    },
+    {
+        "name": "LT_SCL_VillageSubs",
+        "uuid": "8b3f0fcb-40f8-44b1-aca1-edc7de8b15b5"
+    },
+    {
+        "name": "CLT_ACT3_Gale_A",
+        "uuid": "8b6c23fe-600f-4880-8975-0d2446b7c6a2"
+    },
+    {
+        "name": "PLT_GEN_Statue_Guard_A",
+        "uuid": "8ce266fc-7193-4804-8a40-567c5d50e61e"
+    },
+    {
+        "name": "LT_PLT_TWN_Distillery_Elevator",
+        "uuid": "8d4bbc1d-716e-4e39-85d9-664cc0b05373"
+    },
+    {
+        "name": "LT_CTY_WQH_Basement_A",
+        "uuid": "8dc7d95b-a166-4590-90af-cf7882b5d8c6"
+    },
+    {
+        "name": "LT_GithDungeon_A",
+        "uuid": "8de58034-d3a7-4e05-adc7-71df147646c0"
+    },
+    {
+        "name": "CMP_Bed_Gale_A",
+        "uuid": "8e9c03b8-8c07-42f2-81a8-30987f424e64"
+    },
+    {
+        "name": "LT_END_CIN_Throneroom_D",
+        "uuid": "8ed7a6f3-7b43-4aa4-8896-172d3572b52f"
+    },
+    {
+        "name": "LT_BGO_UC_Ruins_B",
+        "uuid": "901896dd-caac-4fd7-9218-b90dbae1fa16"
+    },
+    {
+        "name": "LT_SCL_MindflayerColony_Nautiloids",
+        "uuid": "90bd8585-36af-4da6-b08e-ccb266feeeb0"
+    },
+    {
+        "name": "LT_END_HighHallSewers_A",
+        "uuid": "9160882f-6ef5-4fe6-8b9a-8f740ef2360d"
+    },
+    {
+        "name": "LT_SCL_Benchmark_Tower_A",
+        "uuid": "931d840c-135b-4168-9cac-e1b07f7c324d"
+    },
+    {
+        "name": "LT_END_HighHallUpper_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_SYS_CC_AstralPlane_B",
+        "uuid": "946f0227-47db-4934-a7de-02e6d457e04c"
+    },
+    {
+        "name": "LT_CTY_PhilgraveBasement_A",
+        "uuid": "949950e8-69f1-4688-95e9-f17adc264591"
+    },
+    {
+        "name": "LT_CMP_CTY_Slums_A",
+        "uuid": "953378be-dea6-45d0-b1b5-ba490bdbd9fc"
+    },
+    {
+        "name": "CLT_ACT3_Halsin_A",
+        "uuid": "95e2b90f-847c-4ff9-bcb5-a4a5f97fec45"
+    },
+    {
+        "name": "LT_BGH_WaterQueensHouse_B",
+        "uuid": "969c1fa5-6681-41dd-b76c-84b68cde9cb8"
+    },
+    {
+        "name": "LT_BGH_BonecloaksApothecary_A",
+        "uuid": "96e7b80e-9648-424a-99ef-a81ef51dc0c4"
+    },
+    {
+        "name": "LT_PLT_BlushingMermaidHagstyle_A",
+        "uuid": "97b81b79-7a4f-4b3b-8cea-4330f6a0f2f8"
+    },
+    {
+        "name": "PLT_CRE_FloatingBed",
+        "uuid": "98e7e0c7-edc9-4f4a-b880-22bb652912da"
+    },
+    {
+        "name": "LT_CMP_GithCrecheCave_A",
+        "uuid": "98ffc122-7da8-4ec9-b827-28a286bf0ae8"
+    },
+    {
+        "name": "LT_PLT_CTY_JaheiraTreasure_A",
+        "uuid": "998b4e1d-cd4e-402c-8f50-51ee09ab537b"
+    },
+    {
+        "name": "LT_END_Ramaziths_Tower_A",
+        "uuid": "999c70b7-64fc-475c-b86a-e0a56e73eff3"
+    },
+    {
+        "name": "PLT_SCL_HospitalLift",
+        "uuid": "9a0a5b78-f92e-430a-b9c1-407f8af97212"
+    },
+    {
+        "name": "LT_END_FateOfCompanions_A",
+        "uuid": "9b7aa04b-1b8e-4bec-a49a-53550ef63f84"
+    },
+    {
+        "name": "LT_CTY_LodgeBasement_A",
+        "uuid": "9d4e8b76-c8e2-4b4d-99f0-78988abe3f44"
+    },
+    {
+        "name": "LT_END_MindArenaPlat3_A",
+        "uuid": "9d99a51b-8b40-4f0a-ac81-00de22137d25"
+    },
+    {
+        "name": "LT_CTY_Rainforest_Basement_A",
+        "uuid": "9e14a64c-8384-40bd-9d36-f96fdb2cd608"
+    },
+    {
+        "name": "LT_PLT_BGO_Battlefield_A",
+        "uuid": "9efae10d-8348-4ec4-917a-b2412cb7c4fa"
+    },
+    {
+        "name": "LT_GLO_CIN_ShadowheartWolfDream_A",
+        "uuid": "9f3b8dee-c6ba-4e37-beba-32c74c8fd973"
+    },
+    {
+        "name": "LT_BGH_WaterQueenHouse_B_ART",
+        "uuid": "a0458c25-7d0f-459b-b95c-c90500c7fa4e"
+    },
+    {
+        "name": "PLT_Platform_MonasteryBrewery_02",
+        "uuid": "a28bba98-5312-44f9-a025-83c9dc2b3143"
+    },
+    {
+        "name": "LT_PLT_SingleCharacterInvisible_Med",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_CTY_CIN_BooRoom_A",
+        "uuid": "a54983c1-bf93-4e70-aa65-22009aae0c8d"
+    },
+    {
+        "name": "Temp_WizardTower_Underdark",
+        "uuid": "a67ae51e-028c-4e1d-9e47-1fdcb1ddb93d"
+    },
+    {
+        "name": "LT_SCL_ArmyCamp_A",
+        "uuid": "a68ae831-60c5-49d1-a207-c45d80651e9a"
+    },
+    {
+        "name": "LT_BGO_CIN_PrivateCampRom_A",
+        "uuid": "a6c5d0a9-528f-4f0d-963a-68a39f6e3dac"
+    },
+    {
+        "name": "LT_END_NetherBrainArenas_A",
+        "uuid": "a7ebf8e9-6fc2-4c19-8fb4-39953f767ad5"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_D",
+        "uuid": "a85b86b3-bbe5-4783-9881-0864cf9b9344"
+    },
+    {
+        "name": "LT_PLT_CTY_RamazithFurniture_A",
+        "uuid": "a8963aff-e498-497b-bf7d-4875cc9c22b4"
+    },
+    {
+        "name": "CLT_ACT3_Shadowheart_A",
+        "uuid": "a996c252-3286-4341-bf73-966ebddade33"
+    },
+    {
+        "name": "LT_BGH_PhilgraveMansion_A",
+        "uuid": "a99beb84-bb79-438a-8e8d-b681fcb4cdcc"
+    },
+    {
+        "name": "LT_CRE_GithCreche_D",
+        "uuid": "aa11b4c6-b0bb-4350-b0c2-c95fe05f55ff"
+    },
+    {
+        "name": "LT_PLT_CRE_Tower_A",
+        "uuid": "aa3064f1-5ccf-435a-b0f3-147652e3e849"
+    },
+    {
+        "name": "LT_CTY_CazaVista",
+        "uuid": "aa76b7fa-4150-4467-8405-2aa528f2da7f"
+    },
+    {
+        "name": "RootTemplate_LightingTuto_TODOLETE",
+        "uuid": "aab58055-9090-4ac5-974b-21da36894d43"
+    },
+    {
+        "name": "LT_BGO_RamazithTower_A",
+        "uuid": "abc2339c-df12-41e0-9471-0c226019b47a"
+    },
+    {
+        "name": "LT_CTY_DevilandSmithBasement_A",
+        "uuid": "ac90abcb-9d3a-46fd-bb1d-33d2ed35efc8"
+    },
+    {
+        "name": "LT_CMP_Shadowheart",
+        "uuid": "acc04cac-6301-4658-b328-c9629435981e"
+    },
+    {
+        "name": "LT_PLT_SCL_MindFlayerColony_Elevator_B",
+        "uuid": "ad0e9804-d124-4066-bbc3-982832c6e956"
+    },
+    {
+        "name": "SYS_CC_E",
+        "uuid": "ada43767-a516-4b7d-9a8c-8fb2b8c48de0"
+    },
+    {
+        "name": "LT_INT_CIN_Street_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_TemplateWrap_C",
+        "uuid": "aeb109ff-9e41-4772-a9e1-10303f91ac6c"
+    },
+    {
+        "name": "CLT_CMP_MintharaTriggers_B",
+        "uuid": "aedb754f-97c5-42f2-b873-110ba537d893"
+    },
+    {
+        "name": "SCL_Brewery_A",
+        "uuid": "af20065d-c88f-4cb8-a1a7-a5f8f34bd469"
+    },
+    {
+        "name": "LT_BGO_BaldursGate_A",
+        "uuid": "afc2b427-c0b9-4797-bd17-56ff066bbe47"
+    },
+    {
+        "name": "LT_BGO_JungleOfChult_A",
+        "uuid": "b0be6b30-c5d3-4571-ab80-94471912aa19"
+    },
+    {
+        "name": "LT_CTY_Groundkeeper_Basement_A",
+        "uuid": "b12f5952-55eb-4b13-a0f4-b3f0dab2b5ad"
+    },
+    {
+        "name": "PLT_END_DebugMindChain",
+        "uuid": "b13f201b-6982-4b80-9b81-dd4fc94315f0"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_TemplateWrap_E",
+        "uuid": "b3aa4bbc-5e66-4782-9962-2af0b16e4c87"
+    },
+    {
+        "name": "LT_IRN_IronThrone_C",
+        "uuid": "b3d2ba17-d024-438f-8eee-633b01125b3a"
+    },
+    {
+        "name": "LT_PLT_SHA_StaticDisc",
+        "uuid": "b3e4844b-70f8-475d-9f07-6cca6baf82eb"
+    },
+    {
+        "name": "LT_BGO_WindmillCellar_A",
+        "uuid": "b4f4c843-42cd-4fad-aee4-95a8a1ee8925"
+    },
+    {
+        "name": "PLT_CazadorElevatorBottom_A",
+        "uuid": "b5aeb56a-ec65-40e7-82d5-b316b69f9108"
+    },
+    {
+        "name": "LT_PLT_CRE_Tower_Lathander_A_Broken",
+        "uuid": "b6cabe0f-b762-47ea-b1ed-5383fa20cebd"
+    },
+    {
+        "name": "CMP_Bed_Minsc_A",
+        "uuid": "b74b98cd-d0ec-4fc2-b060-85b8a5b7acc5"
+    },
+    {
+        "name": "LT_CTY_MusicStore_Basement_A",
+        "uuid": "b7e9a85b-b1c7-40db-8ff3-bc21956f2844"
+    },
+    {
+        "name": "LT_PLT_BGO_CircusAftermath_A",
+        "uuid": "b86580eb-cf9e-4af1-bdf3-5215308b3e8f"
+    },
+    {
+        "name": "LT_INT_CIN_CityWalls_A",
+        "uuid": "b876e374-c7d1-4139-8c44-1c575cd05b94"
+    },
+    {
+        "name": "LT_PLT_BGH_BaldursMouth_Walkway_A",
+        "uuid": "b9e7f0a8-4d04-4ae2-bc6d-bf919096417d"
+    },
+    {
+        "name": "SCL_BackMountainPass",
+        "uuid": "ba00c1fb-0a28-4e03-b38c-98782c2f19b8"
+    },
+    {
+        "name": "LT_CTY_DjinniLamp_A",
+        "uuid": "ba15f77f-d54e-42bb-ad6d-a04ec65c73b2"
+    },
+    {
+        "name": "LT_BGO_UC_GuildHall_A",
+        "uuid": "ba88dcc4-7bf5-450c-b8c5-52468677bef4"
+    },
+    {
+        "name": "PLT_SteelWatchFoundry_Facade_Intact_A",
+        "uuid": "bae6ba97-54d1-4f2c-9906-45dd6e8c1ec5"
+    },
+    {
+        "name": "LT_PLT_CRE_Roof_A",
+        "uuid": "bb0529d2-9e24-410f-a509-6b63680f095f"
+    },
+    {
+        "name": "LT_SCL_CIN_PrivateCampRoom_Shar_A",
+        "uuid": "bb25aa3c-2c1f-4953-8523-9b6a7848d1e6"
+    },
+    {
+        "name": "LT_IRN_CIN_HostageCell_A",
+        "uuid": "bb426a5a-be38-4b7f-a9cb-654cbed653b2"
+    },
+    {
+        "name": "CTY_Guildhall_Basement_A",
+        "uuid": "bca2570a-7a52-4a4d-973e-8aa5fac70188"
+    },
+    {
+        "name": "LT_BGO_IronHandCellar_A",
+        "uuid": "bde4585b-e579-44ec-9433-079bf1695174"
+    },
+    {
+        "name": "LT_CMP_BGO_Elfsong_Day",
+        "uuid": "bf0766b9-e29a-41db-8599-774667a5bc55"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_Day_Bag2_A",
+        "uuid": "bf6ea1ea-4af1-4915-99a4-50b6b7ce3ab1"
+    },
+    {
+        "name": "LT_BGO_CazadorChapel_A",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "LT_CMP_DungeonGith_A",
+        "uuid": "bfbe7a47-0139-40a1-a2bd-d88dcd160052"
+    },
+    {
+        "name": "LT_SCL_Intermezzo_C_ART",
+        "uuid": "c0865ea8-8e34-4a9d-803f-9b3658ddbc1e"
+    },
+    {
+        "name": "LT_SCL_GithCreche_C",
+        "uuid": "c0a9373f-7e9c-432d-a2f6-e53bc7b30997"
+    },
+    {
+        "name": "LT_CTY_GeneralStore_Basement_A",
+        "uuid": "c0e72413-c643-4dca-a713-48f13c28575d"
+    },
+    {
+        "name": "LT_WLD_CIN_NautiloidPodRoom_A",
+        "uuid": "c0eabdda-4ea2-4b3a-b71c-046ae50d8e1b"
+    },
+    {
+        "name": "CLT_OwlbearDog_A",
+        "uuid": "c1b79586-3a9b-45d9-afe5-7465b73752c5"
+    },
+    {
+        "name": "LT_PLT_Moo_Chapel_Broken_A",
+        "uuid": "c250dd67-e6fe-440d-8aca-a9a3294fc43e"
+    },
+    {
+        "name": "LT_END_CIN_ElfsongCamp_A",
+        "uuid": "c2f2b73c-92e6-4123-a719-5c510badb46c"
+    },
+    {
+        "name": "PLT_SteelWatchFoundry_Roof_intact_A",
+        "uuid": "c3157b2c-0b66-4be7-b923-ab26611e45a0"
+    },
+    {
+        "name": "PLT_Platform_MonasteryBrewery_03",
+        "uuid": "c3cc931d-d9b4-4e0f-b3ab-f704122a7a67"
+    },
+    {
+        "name": "CLT_Mizora_A",
+        "uuid": "c504e1af-6b7f-49b4-b6b4-3ce914dc166c"
+    },
+    {
+        "name": "LT_CMP_SharessCaress_A",
+        "uuid": "c5c3691e-aa6b-412b-b2db-6d7d19c4d07b"
+    },
+    {
+        "name": "LT_PLT_END_MorphicPoolDestruction_A",
+        "uuid": "c5c8b3b9-2438-49ed-a324-2780416856cd"
+    },
+    {
+        "name": "LT_PLT_WYR_Wyrmway_BaldursHelmetAltar",
+        "uuid": "c6313544-558e-4e4b-900d-f507d4b56a5a"
+    },
+    {
+        "name": "LT_PLT_BGH_SteelWatchFoundry_Elevator_A",
+        "uuid": "9a8bbeba-850c-402f-bac5-ff15696e6497"
+    },
+    {
+        "name": "LT_END_Cin_JergalChapel_A",
+        "uuid": "c769891d-3254-4e48-a248-cedb9173bfb4"
+    },
+    {
+        "name": "LT_PLT_CTY_RamazithFurniture_B",
+        "uuid": "c77e3434-bdc2-49b3-9a40-b16f74e11b1a"
+    },
+    {
+        "name": "LT_PLT_BGO_Circus_A",
+        "uuid": "c7cd86d0-f5f7-448f-9635-0eee28c4d0fd"
+    },
+    {
+        "name": "LT_SCL_CIN_PrivateCampRoom_Haven_A",
+        "uuid": "c801fdb0-1b2f-43bb-b2a2-979ce2a12eda"
+    },
+    {
+        "name": "CLT_CMP_GaleTriggers_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_PLT_CRE_StainedGlass_B",
+        "uuid": "cc2834cd-6b57-4d23-b263-16ecb6dea544"
+    },
+    {
+        "name": "LT_BGO_Sharran_Grotto",
+        "uuid": "cd0b88ff-553e-43a6-a8ed-01e6810b4678"
+    },
+    {
+        "name": "LT_PLT_CTY_BlushingMermaidFixed_A",
+        "uuid": "cd2f4e79-515c-4e1f-a519-745d3682816f"
+    },
+    {
+        "name": "CLT_CMP_KarlachTriggers_A",
+        "uuid": "cd4c689e-5f3f-4996-86a3-025469138a14"
+    },
+    {
+        "name": "LT_END_NetherBrainArena_Sky_A",
+        "uuid": "cdd94dc0-3536-4fa9-89fa-1bdebaac1c76"
+    },
+    {
+        "name": "LT_BG_WyrmsCrossing_C",
+        "uuid": "ce3ca80b-83a7-4111-a370-f866c4d4ccab"
+    },
+    {
+        "name": "LT_CTY_Thumbo_Basement_A",
+        "uuid": "ce8ff2c4-fc18-408b-b29f-e244e8474a19"
+    },
+    {
+        "name": "LT_END_CIN_RuleMarket_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_CTY_CazSideRooms",
+        "uuid": "d0f7edad-f4cc-41ba-b6ee-6bfc2240fb37"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_C",
+        "uuid": "d108332f-9112-4f7d-97ec-a3164aa61bdb"
+    },
+    {
+        "name": "LT_PLT_TWN_TollhouseDestructibleFloor",
+        "uuid": "d13e05dc-92c4-497e-8e67-350487651b71"
+    },
+    {
+        "name": "LT_BGH_DockWarehouse_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_BGO_MerchantHouseBasement_A",
+        "uuid": "d22fcfaa-fbcb-41dd-9042-33914b5d815e"
+    },
+    {
+        "name": "LT_PLT_CTY_JaheiraTreasure_B",
+        "uuid": "d30165a7-4a3d-491c-b9d3-d0396b2e1fa4"
+    },
+    {
+        "name": "LT_CMP_Halsin_A",
+        "uuid": "d30d891b-7a52-462c-b1ca-68d7aed75ef9"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_A",
+        "uuid": "d42cf523-1d9f-46c7-aaf9-aaf5c65e90f2"
+    },
+    {
+        "name": "PLT_LOW_BaldursMouth_MoveableWalkway",
+        "uuid": "d65926bc-a693-4e4c-b98c-06135215eb62"
+    },
+    {
+        "name": "LT_EPI_CIN_VlaaktihThroneRoom_A",
+        "uuid": "d67ad2b9-55e5-4353-b26c-bef51ec6b680"
+    },
+    {
+        "name": "CLT_DaisyMissionStatement_A",
+        "uuid": "d70d49cf-6afb-4690-9dfc-ba30d06b1f4a"
+    },
+    {
+        "name": "LT_CTY_Lodge_Floor_Broken",
+        "uuid": "d725c176-54bf-4ef5-a561-db0e82a63296"
+    },
+    {
+        "name": "LT_CMP_Owlbear_Test",
+        "uuid": "d849ac98-1980-49b3-a023-01deb31ab378"
+    },
+    {
+        "name": "LT_END_CIN_GameFinale_TheHerosRevelry",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "PLT_CazadorCageLift",
+        "uuid": "d9097c37-aa69-4ea1-a916-a8c0ae4d7928"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_Day_Bag3_A",
+        "uuid": "d9422e33-d00e-4084-8b2c-184acf0fb91b"
+    },
+    {
+        "name": "LT_BGO_KidnapperCave_A",
+        "uuid": "d9cf9368-69cb-4502-8e9f-bb1f19620511"
+    },
+    {
+        "name": "LT_BGH_CountingHouseVault_B",
+        "uuid": "d9dc60df-e2d6-4413-96b8-7b0f5d441a35"
+    },
+    {
+        "name": "LT_CTY_CIN_PrivateCampRoom_Slums_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "LT_GLO_CIN_WyllTreeProposal_A",
+        "uuid": "daec5f8f-a585-436b-a359-5b505176e5c4"
+    },
+    {
+        "name": "ToDELETE_LightingTutoMausoleumPartsOnly",
+        "uuid": "db51d0c3-5342-44f2-819b-b7af5486eecb"
+    },
+    {
+        "name": "PLT_END_Platform_Netherbrain",
+        "uuid": "dc03b235-bb1a-4f1e-8fda-eab3e288bb12"
+    },
+    {
+        "name": "LT_BGO_HouseOfHope_TemplateWrap_D",
+        "uuid": "dc1fb121-1c3f-4474-93af-b072cd027da2"
+    },
+    {
+        "name": "PLT_LOW_Railcart",
+        "uuid": "dc57adc2-99d2-4b6e-9dbb-6fa23a52c675"
+    },
+    {
+        "name": "LT_CMP_BGO_Elfsong_B",
+        "uuid": "dc934127-0613-4341-9fce-0e7761a71e1f"
+    },
+    {
+        "name": "LT_CMP_BedElfsong_Unmade_A",
+        "uuid": "dd31b694-f4a8-4517-b22e-18fa3e81df6e"
+    },
+    {
+        "name": "LT_BGH_DiabolistHouse_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_PLT_SingleCharacterInvisible",
+        "uuid": "dfc1a7db-5788-46ed-884e-14c8a15e41c4"
+    },
+    {
+        "name": "LT_BGH_ChultPetsWarehouse_A",
+        "uuid": "e14081f9-84ec-4595-96c9-6805d2fb90ba"
+    },
+    {
+        "name": "SCL_Prototybe_B",
+        "uuid": "e1da7095-f699-4010-bee0-04059c0a238e"
+    },
+    {
+        "name": "LT_PLT_BGH_SteelWatchFoundry_Elevator_B",
+        "uuid": "e1e88996-cf4a-440a-8229-167130857320"
+    },
+    {
+        "name": "CLT_VoloOperation_A",
+        "uuid": "e38449b3-07c4-4058-bad4-f4f26b0c1850"
+    },
+    {
+        "name": "LT_CTY_DockwarehouseBasement_A",
+        "uuid": "e3b8d27d-ae8f-44c3-9d89-0b6e5dbf1604"
+    },
+    {
+        "name": "LT_PLT_CTY_SteelTitanElevator_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_PLT_CRE_StainedGlass_A_Broken",
+        "uuid": "e4078058-1d96-454d-b98c-9e2e5c247aad"
+    },
+    {
+        "name": "LT_BGO_JaheiraBasement_A",
+        "uuid": "e4655213-88b6-46dc-8941-bfb92006dc64"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_E",
+        "uuid": "e5c113c9-382b-4a94-b215-70d7dc6c9f2d"
+    },
+    {
+        "name": "LT_EPI_CIN_VlaakithThroneRoom_B",
+        "uuid": "e5cc6809-f378-49c4-a7b5-d84de26a140d"
+    },
+    {
+        "name": "CMP_Tent_Jaheira_A",
+        "uuid": "e7a8576d-b9c0-4149-9c1d-04c01cef0118"
+    },
+    {
+        "name": "LT_CMP_Minsc",
+        "uuid": "e909fba9-9906-4a6a-8071-caa675301460"
+    },
+    {
+        "name": "LT_PLT_CTY_JaheiraTreasure_C",
+        "uuid": "eac474d3-6318-4052-92de-013b1ade545b"
+    },
+    {
+        "name": "LT_END_HighhallRoofs_A",
+        "uuid": "eb8659e7-aeaf-4d0f-b016-04e728bddc00"
+    },
+    {
+        "name": "LT_EPI_Campfire_A",
+        "uuid": "eb8d194f-478b-4885-8117-95a335d9f877"
+    },
+    {
+        "name": "LT_CTY_SmugglerBasement_A",
+        "uuid": "ec9341e8-8aad-4c18-be61-603377ff0cde"
+    },
+    {
+        "name": "LT_END_NetherBrainArenas_E",
+        "uuid": "eccb87f3-42c0-499a-91a4-ea10d46ab871"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_Day_Bag4_A",
+        "uuid": "ed65c8c2-91d5-45de-8891-1bd7c49601fa"
+    },
+    {
+        "name": "LT_BGH_BlushingMermaid_A",
+        "uuid": "edc696e3-bc7b-4718-953a-8ea294e465e0"
+    },
+    {
+        "name": "LT_BGH_CountingHouseVault_C",
+        "uuid": "eec0cc23-8fb9-4340-97ce-11aaeb09e116"
+    },
+    {
+        "name": "LT_END_MindArenaPlat2_A",
+        "uuid": "eef55fe5-f095-4830-bfbd-9dee0c198998"
+    },
+    {
+        "name": "LT_CRE_CIN_PrivateCampRoom_Dungeon_A",
+        "uuid": "ef489fd7-3683-4870-bdba-ffed95f27fe5"
+    },
+    {
+        "name": "LT_BGO_Heapside_Prison_A_Art",
+        "uuid": "ef98a8a1-97e0-4758-ab0c-679e201d2334"
+    },
+    {
+        "name": "LT_BGH_FelogursFireworks_A_ART",
+        "uuid": "f06dce98-2b0d-4882-a61f-60959362e018"
+    },
+    {
+        "name": "LT_INT_CIN_Office_A",
+        "uuid": "f0ba9411-9423-46bb-9214-9e606ef6d346"
+    },
+    {
+        "name": "LT_CTY_Peartree_Basement_A",
+        "uuid": "f1b4c9d7-d94e-427f-b932-7e0c99e664e6"
+    },
+    {
+        "name": "LT_BGO_RamazithTower_A_ART",
+        "uuid": "f2806f4d-44d3-4223-bde6-4301b4d751cb"
+    },
+    {
+        "name": "CLT_WyllDance_A",
+        "uuid": "f2f7f5ea-ef6c-4424-8e72-2065a6993bd0"
+    },
+    {
+        "name": "LT_BGH_Barracks_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_CoronationRoom_Massacre_A",
+        "uuid": "f44b9c99-3654-4828-9f3f-3600609ccb0b"
+    },
+    {
+        "name": "LT_END_BaldursGate_Vista_A",
+        "uuid": "f459f192-2c1f-4fe9-8a3d-bfa25b9139c3"
+    },
+    {
+        "name": "END_CIN_GameFinale_TheHerosRevelry_EvilEnding_A",
+        "uuid": "f498115d-ee4a-4ba2-9ef8-4aebea02ec07"
+    },
+    {
+        "name": "LT_PLT_HoH_HelmLift",
+        "uuid": "f5bdfd26-da23-4952-ab6d-934bf5adc53a"
+    },
+    {
+        "name": "PLT_MF_MindArena_Platform_B",
+        "uuid": "f6af508c-fd03-485d-9308-0b93ad0ddd2c"
+    },
+    {
+        "name": "PLT_AstralPrisonPlatform",
+        "uuid": "f76442c2-5253-4a74-b498-3c528d80bac4"
+    },
+    {
+        "name": "LT_SCL_Intermezzo_C",
+        "uuid": "f95af891-eca6-48b0-91d2-83ea50ecc359"
+    },
+    {
+        "name": "PLT_IRN_Elevator",
+        "uuid": "f971d00c-c560-47fa-b5e6-0957814394f1"
+    },
+    {
+        "name": "LT_CMP_SharTemple_A",
+        "uuid": "f9c75a76-a255-4881-b735-06eeefcdd709"
+    },
+    {
+        "name": "LT_CMP_Wyll",
+        "uuid": "f9e561e3-fd91-43db-b95a-2ca0b89d3d63"
+    },
+    {
+        "name": "LT_CTY_AncientLair_A",
+        "uuid": "fb1e42c8-f30c-41a0-87b1-88c90317a291"
+    },
+    {
+        "name": "LT_WLD_CIN_DaisyIntroSkull_A",
+        "uuid": "fb2f8161-ae95-4fbc-8605-0ddfdbb066f8"
+    },
+    {
+        "name": "LT_CTY_Catacombs_A",
+        "uuid": "fbab7a36-a23f-45ad-acc0-55edf9910d58"
+    },
+    {
+        "name": "LT_PLT_TWN_TollhouseDestructibleRoof",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_END_CIN_Streets_A",
+        "uuid": "fcc2ed09-6216-414d-9993-ac8a152a10bf"
+    },
+    {
+        "name": "CLT_MizorasPact_A",
+        "uuid": "fcfe814f-8912-450e-8467-cbfe9d914d07"
+    },
+    {
+        "name": "LT_CIN_UncursedMoonrise_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LT_BGO_FriendlyArmInn_A",
+        "uuid": "ffe2db25-6bd1-4eb8-99b5-a0ee262ed857"
+    },
+    {
+        "name": "LT_CMP_CentralCampfire_Day_Bag1_A",
+        "uuid": "ffe725c3-92c7-4841-bb71-53376892cf77"
+    },
+    {
+        "name": "PLT_UND_HangingPlatform2",
+        "uuid": "006219da-1d2a-4320-9947-2d40830defb2"
+    },
+    {
+        "name": "LT_WLD_CIN_UnderdarkSubs_TemplateWrap_E",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "LT_WLD_CIN_UnderdarkSubs_TemplateWrap_C",
+        "uuid": "144e65c8-f427-40a3-a23b-86edba54a214"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_12",
+        "uuid": "23dbb756-948d-48f9-927f-5a72ecfc0a48"
+    },
+    {
+        "name": "LT_WLD_CIN_Raft_A",
+        "uuid": "2857b6b8-53fa-42fb-a1f7-827af90facae"
+    },
+    {
+        "name": "LT_SYS_IconLighting_Setup_Heads_01",
+        "uuid": "28d55f78-4ce5-44c5-9bb5-db87063e99e3"
+    },
+    {
+        "name": "PLT_Platform_FloorWood_A_Old_4D_4W_B",
+        "uuid": "2ead51be-233b-42f6-9668-4ce25ab48c0f"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_06",
+        "uuid": "300cb310-ff13-4081-a553-8edbdfaba217"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_11",
+        "uuid": "3bbb6243-c519-4f44-93f4-2abe31d031a1"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_08",
+        "uuid": "427cb4a8-5f64-48ee-97d7-af9d7875cba6"
+    },
+    {
+        "name": "LT_WLD_CIN_UnderdarkSubs_TemplateWrap_D",
+        "uuid": "445996c2-819b-471d-8743-f432e91fa5a7"
+    },
+    {
+        "name": "GLO_WLD_UnderdarkSubs_TemplateWrap_E",
+        "uuid": "46a76a4d-80ee-4a0a-8095-5158947d278e"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_01",
+        "uuid": "51a4a743-3927-4fa2-804a-6605eebb856b"
+    },
+    {
+        "name": "LT_BGH_SerialKiller_A_ART",
+        "uuid": "551c445e-749e-4b43-a9ea-10b486ba9db6"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_04",
+        "uuid": "56837721-aa9d-4dd9-9f79-057befab443a"
+    },
+    {
+        "name": "PLT_Platform_FloorWood_A_Old_4D_4W_D",
+        "uuid": "67b656f6-7177-4fe5-9390-ae72cf01f79c"
+    },
+    {
+        "name": "LT_WLD_CIN_UnderdarkSubs_TemplateWrap_B",
+        "uuid": "6b652bd6-46aa-4017-8881-6b189d2b58b3"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_13",
+        "uuid": "6cad5310-e37d-43c4-81ec-014580c93372"
+    },
+    {
+        "name": "LT_SYS_EQGeneration_NonEQ_A",
+        "uuid": "74acc66a-31c7-4279-9e4b-d9f0005f989c"
+    },
+    {
+        "name": "LT_PLT_UND_AdamantineForgeAnvil",
+        "uuid": "7545e078-447b-4486-8e2b-ad0f5c2aa658"
+    },
+    {
+        "name": "SYS_PortraitPlayerRace_A",
+        "uuid": "7a243f21-1e8a-42e2-911b-bc1f7796859e"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_03",
+        "uuid": "7c1398f1-e692-4ad6-99ca-dc528253fbc2"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_09",
+        "uuid": "933c4ea5-1222-495c-be29-7e4f7de437fb"
+    },
+    {
+        "name": "GLO_WLD_UnderdarkSubs_TemplateWrap_B",
+        "uuid": "9b920ccb-9f42-42ec-b1db-5e1e1355c32d"
+    },
+    {
+        "name": "SYS_PortraitGeneration_A",
+        "uuid": "b8682a29-d94a-4d45-b997-aeff49d8adc9"
+    },
+    {
+        "name": "LT_PLT_COL_ApostleStandBox",
+        "uuid": "bbac9b62-7b22-4807-9e1f-e5d1991a65d4"
+    },
+    {
+        "name": "GLO_WLD_UnderdarkSubs_TemplateWrap_C",
+        "uuid": "c101b083-d036-4b00-8410-73efb11cec62"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_05",
+        "uuid": "c49769a8-b43e-4a6b-9c55-899a30528f52"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_07",
+        "uuid": "c9b1eecc-478b-4373-b34c-fadccd1dbcea"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_10",
+        "uuid": "d1384eb9-d2ac-4590-9734-97361a6bd76f"
+    },
+    {
+        "name": "LT_SYS_PortraitLighting_Setup_02",
+        "uuid": "d4a3aa08-6ce4-4dae-9740-efea856bb16c"
+    },
+    {
+        "name": "GLO_WLD_UnderdarkSubs_TemplateWrap_A",
+        "uuid": "d9269da1-7770-475c-938a-2d183235c2f8"
+    },
+    {
+        "name": "LT_WLD_CIN_UnderdarkSubs_TemplateWrap_A",
+        "uuid": "da928092-c98d-49a5-af88-0ee7e6b950a8"
+    },
+    {
+        "name": "GLO_WLD_UnderdarkSubs_TemplateWrap_D",
+        "uuid": "ed1500e1-ec2b-46ff-afe1-5a5273fb8c38"
+    },
+    {
+        "name": "LT_BGH_FigaroCosmeticShop_A",
+        "uuid": "1b2761e4-bba0-4d57-b759-ee9e5f23275f"
+    },
+    {
+        "name": "LT_BGC_Sunken_Cellar_A",
+        "uuid": "35ef91ef-2773-4ec0-b209-4cf39ba1df56"
+    },
+    {
+        "name": "LT_BGH_ElfsongTavern_PrivateRoom_Clean",
+        "uuid": "4301c8bf-daa4-41f3-adaf-68c7a1c15f83"
+    },
+    {
+        "name": "LT_BGH_ArtistHouse_A_Haunted",
+        "uuid": "5ab1ad26-36ce-427f-bb7e-4bba5c296a4c"
+    },
+    {
+        "name": "LT_BGH_ArtistHouse_A",
+        "uuid": "9f19600d-13d1-4760-9067-079f99d7e176"
+    },
+    {
+        "name": "LT_BGC_VaultSub_A",
+        "uuid": "9faee45e-cec7-445a-bc05-87a69dc4c837"
+    },
+    {
+        "name": "LT_PLT_SCL_SHAR_Elevator_A",
+        "uuid": "c37b62da-bcad-4e88-8af1-077f24273d60"
+    },
+    {
+        "name": "LT_BG_WyrmsCrossing_Vista",
+        "uuid": "c8ac093f-6f02-447f-8412-b1fc0305554e"
+    },
+    {
+        "name": "LT_BGH_TheLodge_A",
+        "uuid": "d043e316-8214-4584-8fac-e8f508ee630a"
+    },
+    {
+        "name": "LT_BGH_Barracks_A_Art",
+        "uuid": "d58c40a5-d1e7-4dc4-8cb9-aa945b922557"
+    },
+    {
+        "name": "LT_BGH_BaldursMouth_Basement_A",
+        "uuid": "e109ad2e-ee10-44a2-85f9-d822362a9ede"
+    },
+    {
+        "name": "LT_BGC_MerryMaiden_A",
+        "uuid": "e86dec45-4077-4821-9c5f-ffc25343512b"
+    },
+    {
+        "name": "LT_BGH_ElfsongTavern_PrivateRoom_Bloodied",
+        "uuid": "f5af2730-42dc-4ded-be61-f1f44d9a07f0"
+    }
+]

@@ -1,0 +1,1398 @@
+[
+    {
+        "name": "DCL_MFL_Landingstrip_C",
+        "uuid": "1b56ac45-f106-4e29-9d03-c446288ff217"
+    },
+    {
+        "name": "DCL_MFL_Landingstrip_B",
+        "uuid": "9847ecde-6b57-4c89-9575-b68502d3fcea"
+    },
+    {
+        "name": "DCL_MFL_Landingstrip_A",
+        "uuid": "99127a55-bc6e-40a0-8722-71bf0bd20a5e"
+    },
+    {
+        "name": "DCL_MFL_Landingstrip_D",
+        "uuid": "d36df437-fb1a-4224-95ce-110828f214f1"
+    },
+    {
+        "name": "DeferredDecalTemplate",
+        "uuid": "71180b76-5752-4a97-b71f-911a69197f58"
+    },
+    {
+        "name": "DCL_Destruction_Wall_Plaster_Harbor_A",
+        "uuid": "01177187-d012-4670-9f91-b03410c3465e"
+    },
+    {
+        "name": "DCL_Ketheric_Giant_Forge_Platform_Symbols_A_Hammer_A",
+        "uuid": "02e8b8d6-5d3b-4420-85fa-c63f39f9e7de"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_M",
+        "uuid": "030ce0f4-3119-49a1-ad90-50077a07cd7d"
+    },
+    {
+        "name": "DCL_Druids_Silvanus_A",
+        "uuid": "03b33476-4f2a-42de-95f5-ce201bacaf4b"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_J_Deferred",
+        "uuid": "03c25185-09c9-4634-8ace-598857fe9dc2"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A_B_Dark",
+        "uuid": "07412cc0-f6a7-4286-a84d-5d38ba8fce4b"
+    },
+    {
+        "name": "DCL_NAT_Moss_Red_A_Patch_A",
+        "uuid": "0812a24e-bc46-44c6-b80d-a3c9e6004ce6"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_C_C",
+        "uuid": "088eec1b-48bf-4728-aec5-e98b945d2d16"
+    },
+    {
+        "name": "DCL_Cursed_Organic_Cells_A",
+        "uuid": "0af5cffa-0c1d-4e24-a0aa-6ae4a1e50aec"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_J",
+        "uuid": "0c1ced08-53d6-4a4e-9285-8033bc258280"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A_A",
+        "uuid": "0ef0a383-a20d-4524-903b-c572a5eced6f"
+    },
+    {
+        "name": "DCL_Destruction_Wall_Plaster_Harbor_A_B",
+        "uuid": "123ca800-0ba9-465d-9b16-532f1be8e48d"
+    },
+    {
+        "name": "DCL_Caustic_A",
+        "uuid": "13a427c3-dcb5-47ac-ba64-d60983aa65f0"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A_B",
+        "uuid": "13ee11fb-7eab-4171-9ee3-6279c982e898"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Leaking_A_Wet",
+        "uuid": "1462fc9e-42fa-4f01-86df-fea1bff4d115"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_B_Patch_D",
+        "uuid": "1489124d-08fb-4793-91e8-54cc600c939f"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Leaking_A",
+        "uuid": "15a99de3-fc67-4f82-b5b1-950cf55715a4"
+    },
+    {
+        "name": "DCL_Road_Path_Dirt_A_A_Right",
+        "uuid": "1689ae14-6b98-4ed6-8127-3a47a12d82a8"
+    },
+    {
+        "name": "DCL_NAT_Moss_Red_A_Patch_D",
+        "uuid": "1a45309a-cec8-41f5-bdb8-e4361cb794b1"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_C",
+        "uuid": "1d21fbe2-6608-4b83-9c42-5828384e6190"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_C",
+        "uuid": "1db4fe53-2db8-4e0b-83c2-653c324a24f3"
+    },
+    {
+        "name": "DCL_GEN_Sign_DrowLove_A",
+        "uuid": "201f2c7c-cafb-499d-835e-38e76c3538d6"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_A_Tiling",
+        "uuid": "2116ce0a-a890-4b7f-bb99-a8436323d4fd"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_B",
+        "uuid": "216b3657-dbbe-4748-922d-051637d305f0"
+    },
+    {
+        "name": "DCL_Druids_Carvings_A",
+        "uuid": "23d64d1f-6262-4771-b144-0711b27ba236"
+    },
+    {
+        "name": "DCL_NAT_Moss_Orange_A_Patch_A",
+        "uuid": "24b20aa9-438e-45cb-889b-73e28c5af09f"
+    },
+    {
+        "name": "DCL_Road_Tracks_Dirt_A",
+        "uuid": "25297628-c9fe-4aca-964a-e964bf2d6960"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_B_Dark",
+        "uuid": "25735f56-6c4b-4552-8257-70f5192ef265"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_A",
+        "uuid": "2620a4b3-c879-4ea1-8152-513ca35c1cd3"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_C_D",
+        "uuid": "2628edc1-c386-4865-be1f-17e1f92011bd"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_M",
+        "uuid": "26b53c5d-3d3f-4a79-bdbf-a9c921cb89a9"
+    },
+    {
+        "name": "DCL_GEN_Footprints_OwlBear_A",
+        "uuid": "26e2a1fd-2f0f-4b82-9898-713f594b2ce0"
+    },
+    {
+        "name": "DCL_GOB_BloodySymbol_A",
+        "uuid": "283d3b02-9259-4e90-ad8a-2522899531c6"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B",
+        "uuid": "28ccebb6-a730-4069-8a00-de5563eeb61c"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_B_B",
+        "uuid": "2938af93-b9c0-44e6-af47-160d17f390f4"
+    },
+    {
+        "name": "DCL_Druids_Runes_Eagle_A",
+        "uuid": "29cbe6ad-c886-4624-9ba2-956d2c16515b"
+    },
+    {
+        "name": "DCL_KidsGame_Mark_A",
+        "uuid": "2be43914-2d5c-4969-b0b7-2204a3301e55"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_Cursed_A",
+        "uuid": "2d2f4268-1718-47eb-a93f-ec6fa72c96e5"
+    },
+    {
+        "name": "DCL_MF_Nautiloid_Interior_Destruction_A",
+        "uuid": "2de0abf8-c197-4933-b6e9-e2ceb811cd8e"
+    },
+    {
+        "name": "DCL_SHAR_Floor_Marble_Broken_C",
+        "uuid": "2e5fe639-68fd-46c1-a0f7-5b48e4c6c53c"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_A_Patch_A",
+        "uuid": "2e61060e-ad4c-43ad-89f0-6bc547c6d059"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_C_Gold",
+        "uuid": "3031c8e5-26d4-460e-9d5a-f6668a3a6504"
+    },
+    {
+        "name": "DCL_GEN_Footprints_OwlBear_B",
+        "uuid": "325da130-6fd0-4033-b473-294cc05a6c18"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_A",
+        "uuid": "35ce2aff-0e02-4ed1-b1f7-bd3fb8390004"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_H",
+        "uuid": "37008fcc-6de1-443b-a3d0-7de04fc0a531"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A_B_Tiling",
+        "uuid": "39983d1d-af19-4533-8073-42cfe2ce4f29"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Paint_A",
+        "uuid": "3a1b5109-ea3b-4632-aa03-5f49963f4e73"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_F_Deferred",
+        "uuid": "3b7f0459-65ce-462c-9490-df4739b64e4b"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_L",
+        "uuid": "3bc660fa-9d34-4340-87e4-f98dc2a05f90"
+    },
+    {
+        "name": "DCL_Cursed_Organic_Cells_A_B",
+        "uuid": "3cc9ca1b-dbda-4eef-9366-d0eca9b7b357"
+    },
+    {
+        "name": "DCL_Cursed_Ritual_Circle_A",
+        "uuid": "3d0d0fa5-5e98-42f3-a797-8cb36b1e427c"
+    },
+    {
+        "name": "DCL_GEN_Black_Curve_A",
+        "uuid": "3d5f45c4-2384-43a0-9d48-6afd2c065e48"
+    },
+    {
+        "name": "DCL_Road_Path_Dirt_A_Tileable",
+        "uuid": "3d61590e-1a40-4809-9113-eba96acc14e3"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_Cursed_B",
+        "uuid": "3fd3018a-1c43-43de-a510-82f7f9655c02"
+    },
+    {
+        "name": "DCL_Druids_Mural_B",
+        "uuid": "3fe64d78-7b73-4a1e-99e5-89bec7478a08"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_E",
+        "uuid": "3fee713d-21a1-4642-a9e4-2aa812b048a8"
+    },
+    {
+        "name": "DCL_Druids_Eldath_A",
+        "uuid": "418eca49-b2be-488d-a4be-cffd297b6798"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_Dark",
+        "uuid": "41e28e0f-0071-4dd7-89df-5e1183b3d2dd"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_B",
+        "uuid": "431d1b35-d8c4-45eb-a163-87d07d8d1f4d"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_A_White",
+        "uuid": "45276ab1-41c8-45df-a9cf-03da223f11e2"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_B_Gold",
+        "uuid": "46614139-ed4d-4546-85ed-d831c8f6ead2"
+    },
+    {
+        "name": "DCL_GEN_Footprints_Human_A",
+        "uuid": "47d8088d-9ff6-447f-b892-610e3fb8f201"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_Cursed_C",
+        "uuid": "482b40ef-a990-4ac6-a504-dddd0d0846d8"
+    },
+    {
+        "name": "DCL_Druids_Runes_Deer_A",
+        "uuid": "4a256956-7981-454e-9843-1c04a7fa5453"
+    },
+    {
+        "name": "DCL_Waypoint_Dark_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_C",
+        "uuid": "4ac11cea-3b47-472c-a902-1ab34230923a"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_C_Dark",
+        "uuid": "4b877385-a663-423f-99bc-3995c939d1eb"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_A_Deferred",
+        "uuid": "4cdd7768-6387-4fbc-a5b6-af98164db928"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_Q",
+        "uuid": "51b6a0d7-05a0-45fa-a2d3-e5749e5bbb63"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_C_White",
+        "uuid": "51f6be1b-720a-43b9-b51f-667c822de267"
+    },
+    {
+        "name": "DCL_Waypoint_Light_A_Menuscreen",
+        "uuid": "5790a70b-b288-46c1-b663-e60646c747d7"
+    },
+    {
+        "name": "DCL_GEN_Blood_Dried_A",
+        "uuid": "588dd641-30b6-45b8-8d12-ea1fa6494d69"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_C",
+        "uuid": "59406a71-62d2-408c-b9c2-5c68e7078960"
+    },
+    {
+        "name": "DCL_SEL_Symbol_Selune_A",
+        "uuid": "5b1b63b6-0a1b-4051-b00c-6bcb5733a587"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_D_Gold",
+        "uuid": "5c5dfc16-ae03-4c06-9bd2-c13042bb164f"
+    },
+    {
+        "name": "DCL_Druids_Runes_Bear_A",
+        "uuid": "5cc0f679-2ebf-4d18-97b4-9dc925d5b935"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_H",
+        "uuid": "5f62a3d1-a9ab-424d-acaf-095a237a6c5d"
+    },
+    {
+        "name": "DCL_GEN_Bird_Feces_B",
+        "uuid": "6273598f-6e44-4910-ae3e-e43228a731d2"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_B",
+        "uuid": "62dfb9ef-288c-4c28-b377-7acce59b0262"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_G_Deferred",
+        "uuid": "63471422-df22-443a-b3f2-aa6d058fafad"
+    },
+    {
+        "name": "DCL_ZHE_Symbol_Zhentarim_A",
+        "uuid": "66215ec7-b270-485b-86a6-80725bb119a0"
+    },
+    {
+        "name": "DCL_GEN_Raft_Duergar_A",
+        "uuid": "663114a7-e00e-40b6-b39d-0fefac934099"
+    },
+    {
+        "name": "DCL_GEN_Blood_Dried_LongTrail",
+        "uuid": "67a031ce-7b27-4348-8053-fdb32794d051"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_L",
+        "uuid": "689c7dc8-5b42-4f65-b61b-1172de8fbf2e"
+    },
+    {
+        "name": "DCL_Drow_Eilistraee_A",
+        "uuid": "6aafde2d-d2dc-414d-83b0-7648c6d44822"
+    },
+    {
+        "name": "DCL_NAT_Coastal_Rock_Granite_Big_A",
+        "uuid": "6cad9596-59d9-460d-8904-e691a1dc3c20"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_E_Gold",
+        "uuid": "6cbdf922-9a6f-4736-ad69-98ba8ecbfe4b"
+    },
+    {
+        "name": "DCL_Road_Tracks_Dirt_A_Tileable",
+        "uuid": "6d86ed54-1ffa-4caf-9332-0e74a71996e5"
+    },
+    {
+        "name": "DCL_KuoToa_Carving_A",
+        "uuid": "6fc96693-7ea7-4f0e-8999-402cc8780768"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_E",
+        "uuid": "709297d6-ee3f-4741-9788-58add099e192"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_D_White",
+        "uuid": "7459f737-5458-49f0-83a8-b96299cc64a2"
+    },
+    {
+        "name": "DCL_AstralPlane_Fossilised_B",
+        "uuid": "74f2d53a-f3f4-4e03-ba2e-e8bf95b6485c"
+    },
+    {
+        "name": "DCL_DROW_Spider_A",
+        "uuid": "75da48ce-3d4c-4e51-87c0-156079aad3c9"
+    },
+    {
+        "name": "DCL_GEN_Blood_Dried_B",
+        "uuid": "76831841-1131-47b4-a235-55ae9380cb32"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_Corner_A",
+        "uuid": "76d1b92c-e23e-4807-be71-fd63afb55005"
+    },
+    {
+        "name": "DCL_Road_Path_Dirt_A_A",
+        "uuid": "77e23080-dae3-4a0d-87d5-1ec65b58e65a"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_B_Deferred",
+        "uuid": "781d3177-6356-4c5b-9b2e-03732d811ee8"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_K",
+        "uuid": "781dce79-69b3-4c0d-a663-404169cb5d59"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A_B",
+        "uuid": "795c9c43-aa70-49c7-9c46-8d7be5526354"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_G",
+        "uuid": "7dc59960-0738-448c-9d9e-31e55ac694bb"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_C",
+        "uuid": "7f291ad7-c320-43f8-a379-3f081e32b5e9"
+    },
+    {
+        "name": "DCL_MF_Nautiloid_Interior_Destruction_B",
+        "uuid": "800bb98a-ea01-4d97-bf3d-5f00af3245fa"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_O",
+        "uuid": "80a3b513-091c-4828-ad3d-79a246796975"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_A_Patch_B",
+        "uuid": "82a895df-e2fa-4c19-b240-ffbe32de39c1"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_B_Patch_C",
+        "uuid": "84d4f3b1-b5e2-4145-a48b-e3ab5d23823c"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_Corner_B",
+        "uuid": "84fbc4d3-0d87-4d3c-aa5e-a9fb302c69d9"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_C_B",
+        "uuid": "8638b5d9-c99b-4d22-b51b-2063df07f6df"
+    },
+    {
+        "name": "DCL_Ketheric_Giant_Forge_Platform_Symbols_A_Mold_A",
+        "uuid": "86733795-d690-454c-8c2b-ff09d383c081"
+    },
+    {
+        "name": "DCL_GEN_Wall_Colored_A",
+        "uuid": "87fdab59-fc35-456e-944c-6accd7ced3da"
+    },
+    {
+        "name": "DCL_GEN_Baldurs_Gate_Emblem_A",
+        "uuid": "88450874-b527-4c42-990c-c6f3d2b8b1c3"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_N",
+        "uuid": "89050b90-07e7-4dfa-8d85-3310a22ba37e"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_A_Dark",
+        "uuid": "8a6c8e61-1ff0-46ff-92bd-3aaf4b1c3d14"
+    },
+    {
+        "name": "DCL_Destruction_Wall_Plaster_Harbor_A_B_Tiling_A",
+        "uuid": "8ab916c9-790c-4522-8aaa-1fc036ea49d9"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_C",
+        "uuid": "8ad77b91-e23f-40fc-a3b0-ee7b2dd0ac5e"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_B_Patch_A",
+        "uuid": "8b063109-01fb-4bfb-80e9-93cc409a3a11"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A",
+        "uuid": "8e07bd86-55e1-405a-a779-07538f932c18"
+    },
+    {
+        "name": "DCL_Road_Path_Dirt_A_A_Left",
+        "uuid": "8f378be4-c46b-45e5-9fa6-969fd4c57a95"
+    },
+    {
+        "name": "DCL_GEN_Harper_Rune_A",
+        "uuid": "905cae07-a463-4a66-9dd8-ae8b95857ab4"
+    },
+    {
+        "name": "DCL_Druids_Mural_A",
+        "uuid": "91174c74-df46-4124-8a03-73518628515d"
+    },
+    {
+        "name": "DCL_Caustic_A_Menuscreen",
+        "uuid": "939105e4-b812-4e5b-9ddf-972c8e0216ac"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_C",
+        "uuid": "942c73e9-9371-4a13-b3d9-a9f43f741f36"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_D",
+        "uuid": "9475eeb3-e99f-4791-a62f-4eabed3b43aa"
+    },
+    {
+        "name": "DCL_GEN_BloodySymbol_A",
+        "uuid": "952b3133-4695-41f7-9db5-ba3b7a47acb3"
+    },
+    {
+        "name": "DCL_SHAR_Floor_Marble_Broken_B",
+        "uuid": "977d5d2b-b19a-4eb1-89a5-11c70c82b8ff"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_E_White",
+        "uuid": "98445df4-4128-430f-beec-8cc1d1809c8e"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_B_A",
+        "uuid": "987ce472-3707-4bf5-b98d-2d5ceb750604"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_F",
+        "uuid": "99deb161-df22-4bbb-ba30-97b8d751123a"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_I",
+        "uuid": "9af63b25-49ff-4a67-ba0a-0432ff947c96"
+    },
+    {
+        "name": "DCL_Druids_Mural_Deer_A",
+        "uuid": "9d94af4c-d325-4daa-94f8-8c65b3d08589"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_C_Deferred",
+        "uuid": "9dc703d6-37ac-4c88-8f5c-a108dd74a566"
+    },
+    {
+        "name": "DCL_Druids_Deer_Carving_A",
+        "uuid": "a0067ffb-1176-4020-947b-cf33027a0291"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_C_A",
+        "uuid": "a2736ce7-4f93-4c5c-bac8-d6f019552b4c"
+    },
+    {
+        "name": "DCL_NAT_Moss_Orange_A_Patch_D",
+        "uuid": "a311626e-2b35-4147-9b07-19b4db107bc0"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_I_Deferred",
+        "uuid": "a3ad6094-19a9-454f-ac9d-fb436ad067dd"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_A",
+        "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310"
+    },
+    {
+        "name": "DCL_Cursed_Organic_Cells_A_A",
+        "uuid": "a443f29a-8d7d-4ef6-a4ca-3ca875433d54"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_E_Deferred",
+        "uuid": "a46b7916-3ef5-43fe-8ccb-e1100a8c97af"
+    },
+    {
+        "name": "VFX_Environment_HerosRevelryB_Fire_Decal_01",
+        "uuid": "a51f80de-bac9-4ce7-bd62-d94349bc7b49"
+    },
+    {
+        "name": "DCL_GEN_Footprints_Gnoll_A",
+        "uuid": "a8759623-92e5-421e-8b02-cdb53db4ba52"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Leaking_A_Tiling",
+        "uuid": "a9c55100-32b8-438f-8bf7-c2c2f7ae4907"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_J",
+        "uuid": "abdf387a-5ccc-4208-9eaf-7097e519c4af"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_G",
+        "uuid": "ad417ee4-a887-427b-97a6-26e3aa46e9ad"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_B",
+        "uuid": "af02bb55-7867-45b1-a13b-d1b1a7a07782"
+    },
+    {
+        "name": "DCL_GEN_Black_Trapezoid_A",
+        "uuid": "b47cc057-4750-4803-9924-9be600a207aa"
+    },
+    {
+        "name": "DCL_GEN_BurnSpot_B",
+        "uuid": "b50dee15-aa43-4b35-9e17-fe4fb9f6a6ac"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_A_Patch_D",
+        "uuid": "b52b4b2f-c637-488d-a24e-ea4ae1bdb69f"
+    },
+    {
+        "name": "DCL_GEN_Scattered_Flowers_Dried",
+        "uuid": "b5ca4349-3a30-4429-94d7-e47820b0bef9"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A",
+        "uuid": "b5da3d3b-34b9-460d-add4-5f0447ffea05"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_B",
+        "uuid": "b6498586-61a1-4156-9966-80f34785e6ca"
+    },
+    {
+        "name": "DCL_SHAR_Floor_Marble_Broken_D",
+        "uuid": "b8c65c15-c5dd-457d-b764-aa971aacea15"
+    },
+    {
+        "name": "DCL_Druids_Mural_D",
+        "uuid": "b8d6f35c-4857-436b-bb16-b579fdfd80ad"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_D",
+        "uuid": "ba7cc6f8-166e-4c53-b768-2f385b420f86"
+    },
+    {
+        "name": "DCL_NAT_Gravel_A_Shar_A",
+        "uuid": "bb09e070-6ce7-4fc5-909b-a25a88444c11"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Leaking_A_Tiling_Wet",
+        "uuid": "bb5bbde9-3cf6-4c62-a975-9eaca173c868"
+    },
+    {
+        "name": "DCL_GEN_AshSpot_A",
+        "uuid": "bcde0c99-b31d-401d-a0ed-68633ca06089"
+    },
+    {
+        "name": "DCL_GEN_Dragon_Claw_Scratch_A",
+        "uuid": "bd7c557c-9661-4532-9f35-6a95c2651127"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_K_Deferred",
+        "uuid": "be54c584-166a-4672-831d-dd6d52008e40"
+    },
+    {
+        "name": "DCL_Druids_Runes_Wolf_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_SHAR_Symbol_Shar_A",
+        "uuid": "c2bf32bc-c8f9-42a6-be76-d568059b24c7"
+    },
+    {
+        "name": "DCL_GEN_Bird_Feces_A",
+        "uuid": "c386ae2d-dd93-4153-80b7-e180978bf850"
+    },
+    {
+        "name": "DCL_Dirt_Floor_Border_B",
+        "uuid": "c41f35b6-0db7-445a-9dd8-6338b91f5e0e"
+    },
+    {
+        "name": "DCL_GEN_Scattered_Flowers_Purple",
+        "uuid": "c4dd350a-bfe0-4207-8d3e-861e7ae00511"
+    },
+    {
+        "name": "DCL_GEN_Mycelium_A",
+        "uuid": "c5af1fa7-37e4-431c-8b70-88a9c5d55c85"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_D_Deferred",
+        "uuid": "c5e36c7b-51a6-4411-9442-e2b04006f42b"
+    },
+    {
+        "name": "DCL_GEN_Bird_Feces_C",
+        "uuid": "c821ff03-8348-46d5-86cd-626abfd6f5d3"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_B_A",
+        "uuid": "c840ce8f-a40f-4a59-88a1-64a9cbd8661a"
+    },
+    {
+        "name": "DCL_GithCreche_Mural_A",
+        "uuid": "c8fe43dd-16ea-41b8-986c-400c46bf98da"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_B",
+        "uuid": "cb9d71ff-1591-4782-9ec1-060ea867d52a"
+    },
+    {
+        "name": "DCL_Druids_Silvanus_B",
+        "uuid": "cbdfabd7-8352-44de-a4cd-19305ca6a04b"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A_Tiling",
+        "uuid": "d213f4d6-8aeb-48ce-8ac6-3f19d326f976"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_I",
+        "uuid": "d71c59ef-d75b-4390-8d1c-87c076b5faa7"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_C",
+        "uuid": "da7a3f62-1d58-467f-9d8b-42441c8804d7"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_P",
+        "uuid": "db99f1c7-342c-4d66-aad2-104943c470f7"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_B_Patch_B",
+        "uuid": "de7ff731-2c49-45af-8152-61e531e576f0"
+    },
+    {
+        "name": "DCL_NAT_Moss_Green_A_Patch_C",
+        "uuid": "dee58461-ad27-47ff-870d-05bf8fb63f27"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_E",
+        "uuid": "dfb98598-76ac-4473-a43f-a8e03cabbfc0"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_B_White",
+        "uuid": "dfd5cfca-60ef-40f2-86bc-e412e81134ec"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_D",
+        "uuid": "e03850a9-9d9e-4f66-afa7-d741ecb9f066"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_D",
+        "uuid": "e0b8d219-f509-4083-94c2-e37f77324053"
+    },
+    {
+        "name": "DCL_SHAR_Floor_Marble_Broken_A",
+        "uuid": "e34021e5-2fa4-41e4-99f3-d1bb3569e5a2"
+    },
+    {
+        "name": "DCL_DUN_Candles_Wax_A_Gold",
+        "uuid": "e5bcf48f-13d6-4cf3-ae5e-bf5c2c400146"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_K",
+        "uuid": "e6dbb976-ac26-4d75-a3c6-a8d2e86aed3a"
+    },
+    {
+        "name": "DCL_GEN_Scattered_Flowers_Yellow",
+        "uuid": "e801eede-de9c-4d98-8c84-4ee740de29ba"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A_Dark",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_NAT_Gravel_A",
+        "uuid": "eb410af5-aa88-40d2-a635-7d23e3b3b55b"
+    },
+    {
+        "name": "VFX_Environment_Crashsite_Fire_Decal_01",
+        "uuid": "ecdf1f56-f5c5-4ff8-aa80-e6f51d4a336a"
+    },
+    {
+        "name": "DCL_GEN_Black_Corner_A",
+        "uuid": "ed0c953d-8496-45f7-a002-770da322dad0"
+    },
+    {
+        "name": "DCL_GEN_Black_Square_A",
+        "uuid": "ed55f716-4825-4a85-b6e0-e172013bf3bc"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_F",
+        "uuid": "edd713c8-b972-4227-a433-380858b89133"
+    },
+    {
+        "name": "DCL_GEN_Beehive_A",
+        "uuid": "f010bacc-0916-475d-bedd-265a21fd2832"
+    },
+    {
+        "name": "DCL_GEN_Sign_TeaHouse_A",
+        "uuid": "f26c8464-6b7b-41ea-b75f-c0fdf14476e4"
+    },
+    {
+        "name": "DCL_Druids_Mural_C",
+        "uuid": "f2e947ad-d528-42be-a4f5-8138c10d4777"
+    },
+    {
+        "name": "DCL_GEN_Black_Circle_A",
+        "uuid": "f310b563-8e45-4a1a-97ee-9b32f2b84216"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A_A_Dark",
+        "uuid": "f3d32a2f-d3a4-44d2-b72b-575749fb594b"
+    },
+    {
+        "name": "DCL_Dirt_Stains_Grunge_A_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_GOB_Graffiti_N",
+        "uuid": "f62c8b7d-b08a-43c6-a6a7-c6072dd99650"
+    },
+    {
+        "name": "DCL_GEN_Blood_Splatter_H_Deferred",
+        "uuid": "f80fd2b5-f2b1-444f-b9cf-80ccf3319518"
+    },
+    {
+        "name": "DCL_Dirt_Wall_Mossy_A_A_Tiling",
+        "uuid": "fca06671-1071-47bf-bd1e-a729fe50dae8"
+    },
+    {
+        "name": "DCL_Waypoint_Light_A",
+        "uuid": "fe811f3b-9c1e-43be-ba99-58628f614584"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_D",
+        "uuid": "00baf19d-e54a-4c3a-ad00-d1fc662cf396"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_D_Blood",
+        "uuid": "017a7fb1-d5cc-4f15-9bc0-3854bfd2c4b7"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_F",
+        "uuid": "03469bed-ef6a-4698-b5d0-28752bf84ca5"
+    },
+    {
+        "name": "DCL_Symbol_Bhaal_Blood_A",
+        "uuid": "06d0a08d-73e6-41e2-be96-3f29d5117d62"
+    },
+    {
+        "name": "DCL_City_Mural_Hedonist_A",
+        "uuid": "07116153-d737-4a9c-8cea-2f2f422d6977"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_Trim_A",
+        "uuid": "0b58f168-a6a5-47c4-984c-4c350846eaa4"
+    },
+    {
+        "name": "DCL_MF_Colony_Flesh_A",
+        "uuid": "0b8e3463-3613-4d67-b98a-66b3a99106c4"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_F",
+        "uuid": "0ed8a5b9-a209-4d96-9e75-10a61d6f07ab"
+    },
+    {
+        "name": "DCL_Wyrmway_Ansur_Mural_C",
+        "uuid": "112be978-f228-4c59-bf86-6fb795b7f5f5"
+    },
+    {
+        "name": "DCL_GEN_Wall_Colored_C",
+        "uuid": "11950d88-b10e-40ba-a83b-0d8a690c66c9"
+    },
+    {
+        "name": "DCL_VFX_Crack_World_SCL_Slow_Fire_01",
+        "uuid": "11a1c6b1-5654-4772-89ad-fb04cceaf856"
+    },
+    {
+        "name": "DCL_Wyrmway_Ansur_Mural_B",
+        "uuid": "13455b42-2148-4d0c-a239-56039213ff3f"
+    },
+    {
+        "name": "DCL_Wyrmsway_Mural_A",
+        "uuid": "16a908ff-1fe8-4542-8eab-0d982e866884"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_E_Magic",
+        "uuid": "17b8f8e5-a9c5-41ba-a2e6-55313d885249"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_Trim_B",
+        "uuid": "17d9f47b-0dd5-485a-bfe2-7d995d8a9cfe"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_A_Magic",
+        "uuid": "18abf6ad-cc63-410e-bbe6-742f771550f4"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_A_Magic_Nightsong",
+        "uuid": "19db7ae9-e79b-482e-8000-15da602efb49"
+    },
+    {
+        "name": "DCL_Temple_Wall_Broken_A",
+        "uuid": "1a8cde1d-2bb4-474f-8fc0-12e5becb0d05"
+    },
+    {
+        "name": "DCL_Temple_Wall_Broken_B",
+        "uuid": "1d5b3e44-aca7-4ea4-aff3-90af0cb985d9"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Blood_B",
+        "uuid": "2029223e-8154-40f0-8fe9-89112f4196fe"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_J",
+        "uuid": "218417d4-a902-4a10-9396-bef16a19d7d0"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_M_Magic",
+        "uuid": "2238d38c-7d2c-4285-8564-a932ff7dd250"
+    },
+    {
+        "name": "DCL_NAT_Ice_Snowy_A",
+        "uuid": "2263d8ea-6988-42c8-82c5-9c9694f9f228"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A_Curve_A",
+        "uuid": "2669973a-6ba5-4eaf-833c-ce2dc4f55161"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_H",
+        "uuid": "27bd23da-1c76-4ec3-ad31-4cf4a5c37412"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_D",
+        "uuid": "2a7027f6-4e1d-4989-a758-11a37548bf7e"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_Trim_E",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_SHAR_Floor_Puzzle_Pattern_A",
+        "uuid": "2ec7f1b9-9b4d-4ced-a6a1-77bc9670c9b9"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_C_Blood",
+        "uuid": "2f4704d3-a099-4894-b8bc-c28b0bdcfb38"
+    },
+    {
+        "name": "DCL_City_Mosaic_Trim_A",
+        "uuid": "3126bb40-a070-441f-a943-1791eac34d56"
+    },
+    {
+        "name": "DCL_GEN_Barnacle_C",
+        "uuid": "317da397-749f-4426-bf5e-69d9a7f5b835"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Magic_C_C",
+        "uuid": "34b36cc6-881a-4a96-8058-c784a6b455fa"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_E",
+        "uuid": "36992772-7598-4dec-8b11-93fd24027b6f"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_L_Magic",
+        "uuid": "376d36d8-a520-4f47-9a02-318d525e4b81"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_D_Magic",
+        "uuid": "38ac5183-6afa-4b31-9640-074301860a67"
+    },
+    {
+        "name": "DCL_Gith_Symbol_Vlaakith_A",
+        "uuid": "3a8ab8e5-6496-44d6-82f5-50f74c5e61ff"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_A",
+        "uuid": "3ad53bbf-6b54-427b-8909-6a8718af816c"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_D",
+        "uuid": "3b836d98-7f48-4006-85c6-c73f32ec3773"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_C",
+        "uuid": "3e766b21-9473-4362-9327-3b276dcb8585"
+    },
+    {
+        "name": "DCL_HoH_Temple_Wallpaint_A",
+        "uuid": "3f963b40-858b-46d1-bebb-790871e17474"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_C_Blood",
+        "uuid": "493277f5-134f-45dc-ad16-e5aa83f9adc1"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_A_Magic",
+        "uuid": "4a5f5135-22b1-44e0-a2ec-cf18520f8bec"
+    },
+    {
+        "name": "DCL_City_Mosaic_Trim_D",
+        "uuid": "4c810c30-e420-4778-81d8-ee4c19f699f2"
+    },
+    {
+        "name": "DCL_GEN_Dwarf_Numbers_A",
+        "uuid": "4e42316e-50f5-4f91-be29-e6343f25cdd6"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_D",
+        "uuid": "4f38a844-30ab-4c0c-800f-916a5780c2ca"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_K_Magic",
+        "uuid": "4fef9ea2-da71-4b82-8dbd-bbb487480cad"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Blood_C_A",
+        "uuid": "54949abb-6fff-4abe-b245-3984646cc06d"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_J",
+        "uuid": "55cae003-19df-472d-9e7a-ab803f17aaba"
+    },
+    {
+        "name": "DCL_VFX_Crack_World_SCL_Slow_Fire_Limit_01",
+        "uuid": "577ea17b-92df-4b7a-8a1d-1b52bb48422e"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_L_Blood",
+        "uuid": "57d5abb4-e98b-43df-a50d-d682d156679d"
+    },
+    {
+        "name": "DCL_HoH_Platform_Sigil_A",
+        "uuid": "5853e63f-6a65-4350-ad94-749ab19ca54b"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_E",
+        "uuid": "5e9ccd1d-024b-4d99-b09d-181d3039a0bc"
+    },
+    {
+        "name": "DCL_Dirt_Spots_Large_A",
+        "uuid": "5eefa85b-51c2-4c10-a04e-1ca2a50e280f"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_D_Blood",
+        "uuid": "5fc045ba-cdf7-4053-99ff-6299deb3b671"
+    },
+    {
+        "name": "DCL_GEN_Dead_Three_A",
+        "uuid": "60df69e6-c129-49f7-b727-e295ffee8615"
+    },
+    {
+        "name": "DCL_GEN_Barnacle_B",
+        "uuid": "6764e7cc-b3b2-4640-be33-f1359769028f"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_L",
+        "uuid": "67caf1d0-7a9a-496c-a4fe-8b6a911b6632"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Blood_A",
+        "uuid": "6c02a995-4502-4356-8857-71a77b23ebf6"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A_Straight_B",
+        "uuid": "6e1e9422-045b-45f2-8f8f-706771c75e4e"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_O",
+        "uuid": "7303dee1-b313-4c13-aa60-d34d0d72e89f"
+    },
+    {
+        "name": "DCL_Temple_Wall_Broken_D",
+        "uuid": "7462172f-2c3b-4579-bf06-194cf8550633"
+    },
+    {
+        "name": "DCL_Ketheric_Mural_B",
+        "uuid": "77181a32-471d-40f0-a9f8-84f5b889f55a"
+    },
+    {
+        "name": "DCL_Ketheric_Mural_A",
+        "uuid": "79351d2b-42f4-4d1d-95a6-4f5513f115b5"
+    },
+    {
+        "name": "DCL_Dirt_Spots_Grunge_B",
+        "uuid": "79c0529c-a63e-4c9e-b5cc-81e965cb4d7a"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_B",
+        "uuid": "7bb5d7e6-e892-477c-9321-8b18d1eb8ea9"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_M_Blood",
+        "uuid": "7c18bdc3-6b58-42ad-aee3-d6d4a983d561"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A",
+        "uuid": "801d0fc3-ecb8-4fed-b7a6-8c677abf0d52"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_A",
+        "uuid": "80591fed-eb91-4762-ae20-e964d97352aa"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_F_Blood",
+        "uuid": "83fc0a06-db23-485d-ad2e-00229a0c8714"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_H_Blood",
+        "uuid": "85385511-8f85-4cab-9093-81199ed084fa"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_B_Blood",
+        "uuid": "8818c9a1-52a3-45fe-a028-dcaf7865cb36"
+    },
+    {
+        "name": "DCL_Dirt_Spots_Grunge_D",
+        "uuid": "8906aff2-4c5f-407e-b844-9efccfe39a77"
+    },
+    {
+        "name": "DCL_GEN_Blood_Tears_A_C",
+        "uuid": "8ac02c99-40ce-4340-903c-8b178fd6ae29"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_N",
+        "uuid": "8c8972ec-e675-4a40-bbbd-ca30dfd1a3e2"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_E_Magic",
+        "uuid": "8dc93a77-c03b-41a6-9624-643b5eed785d"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_I_Magic",
+        "uuid": "8f4dfe68-3f61-4ffb-9d3a-e93196ea504b"
+    },
+    {
+        "name": "DCL_City_Mosaic_Trim_C",
+        "uuid": "90de1b77-5951-4d1f-81bb-f2cf3fe4a144"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_C_Magic",
+        "uuid": "9633ccd9-62cd-4d07-bdf0-8f72295e7193"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_A",
+        "uuid": "988c4485-2ece-4b95-a4cc-4b39ad8112c9"
+    },
+    {
+        "name": "DCL_Temple_Wall_Broken_C",
+        "uuid": "9a0526be-ed8f-47bc-8ec7-86f7b96d7a4a"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_Trim_D",
+        "uuid": "9a5d8762-daee-4bf5-bc9f-5bbd5886326d"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_C",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_J_Blood",
+        "uuid": "9b080da1-6c23-42c5-acea-b238b2fb49c8"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A_Straight_A",
+        "uuid": "9bb827bc-4942-4f1b-a88a-451120472afb"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_E_Blood",
+        "uuid": "9c7f6994-2379-4c4e-98b9-ab6253be43c5"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_G_Magic",
+        "uuid": "9c8b9c4a-a5ff-41b5-bff4-8f67fa6e6911"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Magic_C",
+        "uuid": "9d679076-e0e4-4d19-abb4-893661582ab5"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_C",
+        "uuid": "9f06a287-fcd5-40a5-9c2d-fcbe09ab05b5"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_C",
+        "uuid": "a1874935-dc17-4784-bde6-c009d3c924e5"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_B",
+        "uuid": "a3d0be4b-81c0-4d54-a474-2744dd3ae32e"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_B_Magic",
+        "uuid": "a40ab0e5-5aa8-4c8d-b23f-da5dabb01c83"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_A_Blood",
+        "uuid": "a545f4cc-67ac-42fd-8a62-341022bbfa90"
+    },
+    {
+        "name": "DCL_GEN_Wall_Colored_B",
+        "uuid": "a70c28d8-2a3f-4df7-9ecd-908bbc4eebea"
+    },
+    {
+        "name": "DCL_Wyrmway_Demarcation_Circle_A",
+        "uuid": "a80ba6e4-2600-4973-a1e9-00afb4500f5e"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_B_Blood",
+        "uuid": "abf23521-f2be-43eb-ba77-b68bac8d5fce"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_D_Magic",
+        "uuid": "b057e457-3b19-426c-9fd9-9c79e292856d"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_C_Magic",
+        "uuid": "b08ab4ac-5ae6-4204-9483-b8118746133a"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_B",
+        "uuid": "b178450e-d107-4fc0-a7c8-cd90946aa746"
+    },
+    {
+        "name": "DCL_Ketheric_Mural_D",
+        "uuid": "b19167dc-6c7e-4035-9f44-bbc0f6a30814"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_G",
+        "uuid": "b2e5ef3f-2e0d-4820-914a-1d63e46b412e"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_A",
+        "uuid": "b8c47597-14e3-453b-894f-8baf5c87fd3f"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A_Dense_A",
+        "uuid": "ba86ec8d-0918-4296-a644-10de94d85286"
+    },
+    {
+        "name": "DCL_GEN_Scratch_A_Curve_B",
+        "uuid": "bd235437-6e5b-4a80-a405-de924ccad5ca"
+    },
+    {
+        "name": "DCL_GEN_Blood_Tears_A_B",
+        "uuid": "be243a00-7063-4018-b802-9d4054035c88"
+    },
+    {
+        "name": "DCL_AstralPlane_Fossilised_A",
+        "uuid": "c273241a-74b8-4217-a558-34e0422a6726"
+    },
+    {
+        "name": "DCL_NAT_Ice_Snowy_C",
+        "uuid": "c42209d1-93af-4056-ad39-fdcd0c69e892"
+    },
+    {
+        "name": "DCL_Rust_Stains_Grunge_A_E",
+        "uuid": "c67e9a61-8e9a-4555-9db1-d3e4d4654569"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_H",
+        "uuid": "c78a02a2-c1ae-4d55-9ab0-e9c64d97b007"
+    },
+    {
+        "name": "DCL_Dirt_Spots_Grunge_C",
+        "uuid": "c7c9d3ee-0881-4e03-9d70-04851f604df4"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Magic_B",
+        "uuid": "c7e58531-b951-4cba-9abc-1837b96278da"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_K",
+        "uuid": "c9085a95-292f-442d-af65-8e2d5355c3d9"
+    },
+    {
+        "name": "DCL_NAT_Ice_Snowy_B",
+        "uuid": "c96d4df2-9c0b-487a-8a17-b465417806fe"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_E",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DCL_NAT_Ice_Snowy_D",
+        "uuid": "cc1a7d2b-8afb-4863-9278-78074c1e7e63"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_H_Magic",
+        "uuid": "cff64e28-08eb-4cd9-8230-19b1ca9c50b3"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_F",
+        "uuid": "d023fcaa-7e64-4101-bb1f-adbb23cebddd"
+    },
+    {
+        "name": "DCL_HoH_Marble_Discoloration_A",
+        "uuid": "d398e23b-f06f-48eb-83c0-b9840279d7a1"
+    },
+    {
+        "name": "DCL_Ketheric_Mural_C",
+        "uuid": "d3d3aaf4-63e2-4f4d-ae25-103a788dc943"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_G",
+        "uuid": "d5aca070-9adf-47c9-8c43-dccef798d364"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_G",
+        "uuid": "d5c840ef-731d-442a-877f-92cf450bc5eb"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_B",
+        "uuid": "d673ceb7-58d0-4427-af83-14a27460b7c7"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_H_Flesh",
+        "uuid": "d6a69879-cff4-4017-a88c-cdb9805a3fab"
+    },
+    {
+        "name": "DCL_Dirt_Spots_Grunge_A",
+        "uuid": "d87c06ab-c027-48b9-ae96-6917b0fb2c4d"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_A_Magic_Colony",
+        "uuid": "da708b21-9db9-487d-a1cc-0030186ed0ef"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_Trim_C",
+        "uuid": "dedbd2f1-dc20-486b-b510-a92c7f26b254"
+    },
+    {
+        "name": "DCL_GEN_Footprints_Human_B",
+        "uuid": "e05c74d2-484f-44fe-896a-7c3cb23e2654"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_A_Blood",
+        "uuid": "e08956f0-019b-47ad-b7b6-1ba2a10a9194"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Magic_A",
+        "uuid": "e47a03dc-432d-4bce-88f6-1f9ad4e26928"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_E_Blood",
+        "uuid": "e5144cb9-7e22-4146-9bbe-dc0d0784edc5"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Trims_A_F",
+        "uuid": "e576382d-dbd1-48e0-b670-ba509b85b3e7"
+    },
+    {
+        "name": "DCL_GEN_Barnacle_A",
+        "uuid": "e6ba326d-8640-4c8b-9f98-c9be31896fe9"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_J_Magic",
+        "uuid": "e6c6e44f-9325-413d-b6ff-4e0862dd251e"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_G_Blood",
+        "uuid": "ed9e199e-a6f4-4837-a469-e4da0b90823f"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_F_Magic",
+        "uuid": "edaae3e5-5b73-4260-b3b0-2e020247a9f7"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_I_Blood",
+        "uuid": "ee3c755c-d097-4661-9289-9d533bbb0d12"
+    },
+    {
+        "name": "DCL_Wyrmway_Ansur_Mural_A",
+        "uuid": "ee928702-805c-40c8-b92a-0efd2fa21dc5"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_F_Flesh",
+        "uuid": "f455246b-9517-4ea1-b5ef-89fa89ea0446"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_M",
+        "uuid": "f537b425-91c1-499b-8e2f-475ffc6fa991"
+    },
+    {
+        "name": "DCL_City_Lower_WallPaint_A_I",
+        "uuid": "f7caad44-f373-4ddc-b590-62a6fd91ef22"
+    },
+    {
+        "name": "DCL_GEN_Blood_Tears_A_A",
+        "uuid": "f8dd2fb0-2965-484d-8c4d-8d171533f7d4"
+    },
+    {
+        "name": "DCL_Bhaal_Temple_Carvings_A_I",
+        "uuid": "fa3d957b-8396-4feb-ba98-391055bd6afa"
+    },
+    {
+        "name": "DCL_City_Mosaic_Trim_B",
+        "uuid": "fbc46277-5593-4b02-9b1a-55860c1a2def"
+    },
+    {
+        "name": "DCL_ABS_Symbol_Absolute_Blood_C_B",
+        "uuid": "fdf129b6-d0fa-4a46-9feb-d6cc9de434cb"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_Symbol_B_Magic",
+        "uuid": "fe06bcc0-c5b7-4734-8b13-6253ecb06d82"
+    },
+    {
+        "name": "DCL_Ketheric_Necromancy_K_Blood",
+        "uuid": "fe562395-af13-48b5-afd7-3acfb9455a54"
+    }
+]

@@ -1,0 +1,2318 @@
+[
+    {
+        "name": "WALL_Dungeon_SharTemple_Fence_A_0n025D_4H_A",
+        "uuid": "08fd797d-78f3-482e-96a9-d1cd2fae5dec"
+    },
+    {
+        "name": "WALL_City_Lower_Arches_A_1D_5H_A",
+        "uuid": "2077aea6-8368-4858-87e3-3484115d8e5c"
+    },
+    {
+        "name": "WALL_City_Lower_House_B_1D_4H_A",
+        "uuid": "356f8a24-56b5-45f0-a9f2-cb0d64dbc71f"
+    },
+    {
+        "name": "WALL_City_Lower_Arches_A_1D_4H_A",
+        "uuid": "3b0ab56a-bce6-47b8-b46a-625f0cb84b55"
+    },
+    {
+        "name": "WALL_City_Lower_Basement_A_1D_5H_A",
+        "uuid": "426bc86d-b6f5-4566-8394-38a88d462147"
+    },
+    {
+        "name": "WALL_City_Lower_House_D_1D_4H_A",
+        "uuid": "5873c50c-adb0-48b3-b676-6cdd3af01003"
+    },
+    {
+        "name": "WALL_City_Lower_Basement_B_1D_5H_A",
+        "uuid": "6a4e43aa-ca31-4791-baff-bb696d4b59f7"
+    },
+    {
+        "name": "WALL_Dungeon_Fence_Ornamented_Iron_A",
+        "uuid": "770e1220-65a0-4d58-9349-22ed74b6b1d6"
+    },
+    {
+        "name": "WALL_City_Lower_Garden_A_1D_4H_A",
+        "uuid": "80431379-8a68-4d8a-8a12-a24b788cf0b7"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_B_4D_2n5H_A",
+        "uuid": "892e274e-d42d-4311-949c-86db6fc37273"
+    },
+    {
+        "name": "WALL_City_Lower_Base_A_1D_3H_A",
+        "uuid": "967b22eb-1156-473c-bcba-bf9d84b6b803"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Ceiling_A_4H_A",
+        "uuid": "a07b7e04-d60b-4371-9a4d-7c6a7ec8bb23"
+    },
+    {
+        "name": "WALL_City_Lower_House_C_1D_4H_A",
+        "uuid": "bbf678a1-bff8-4b0c-93b0-15d19545e07e"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_1D_5H_A_TOBEDELETED",
+        "uuid": "c78bc736-ef8c-463c-a124-e59272244dca"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_1D_4H_A",
+        "uuid": "e807c444-1249-411c-a810-28431b3a673a"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Arch_A_1D_10H_A",
+        "uuid": "ee14d241-4b9a-4117-9764-7e813f484111"
+    },
+    {
+        "name": "WALL_City_Lower_House_C_1D_5H_A_TOBEDELETED",
+        "uuid": "f6c679be-95c7-45f6-872f-1de4606abdc3"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_A_4D_2n5H_A",
+        "uuid": "fc27587e-788d-479c-b9a4-d1e20c6220d0"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_055_1",
+        "uuid": "013bc4fe-6d6e-4c57-bc48-2d4be02623f4"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_B_087_0",
+        "uuid": "0291e06c-c69f-4011-b69f-93fec18a4cdb"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_090_0",
+        "uuid": "03575666-4072-4f16-9dbb-81a17484e740"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_099_0",
+        "uuid": "0c74b181-d7b9-4f18-8896-8316ecb9335d"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_007_0",
+        "uuid": "0dc2c93b-0ca4-437b-b516-082977bb2d40"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_106_0",
+        "uuid": "0f65de73-3f8d-44d8-b106-48789a28598b"
+    },
+    {
+        "name": "[PREFAB] SPL_NAT_Cliff_Granite_Vista_50D_10H_A_004_0",
+        "uuid": "1161b304-0b3e-40f8-b1c9-7a50abb92ce7"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_014_0",
+        "uuid": "168a914b-c17e-4075-9615-b0b647f0c107"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_084_0",
+        "uuid": "18915a86-db98-4c7b-88f2-f4eef82a79a5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Paving_Marble_D_1n315D_0H_ABC_002_0",
+        "uuid": "1ad2de41-e9de-4aed-8dfd-9c097841f791"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1053_0",
+        "uuid": "1f8da17f-0f4f-4970-af9d-4d719e7c4de7"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_001_0",
+        "uuid": "2375e52b-e17c-4b3d-91ac-3d70728b0a00"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Straw_A_0n5D_2H_A_005_1",
+        "uuid": "23b68e71-e2e1-45c0-bc1b-c1ef3816cbd8"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_105_0",
+        "uuid": "251cced2-da8c-4ff7-ba66-4bfe7a0a884f"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Arch_B_1D_2n75H_A_000_0",
+        "uuid": "2624be25-9247-4500-b0d3-8f926fb28c4e"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_096_0",
+        "uuid": "26cc7b0d-47ab-4640-afbf-c92a7948fe72"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_Stairs_A_4D_2n5H_011_1",
+        "uuid": "28511123-6bae-4640-85ea-e4b1eb6b91d3"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_017_0",
+        "uuid": "2bb74424-9ad5-41a2-a085-c5a2f9f4897b"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_018_1",
+        "uuid": "2bce954f-95d6-40e8-8ce6-5634e0adb965"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_118_0",
+        "uuid": "31093747-731b-45ae-9c2a-b93ec01ad94e"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1032_0",
+        "uuid": "31e8635b-cded-459a-b733-67bd75f00419"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_A_Wood_A_0n5D_4H_A_000_1",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1015_0",
+        "uuid": "3b62c6b4-afd3-4f3e-8350-18bd1fc21930"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_104_0",
+        "uuid": "3cc32267-d77c-4d98-9650-d1973cc879b5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_B_092_1",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Ceiling_A_4H_A_830_0",
+        "uuid": "4097e2a9-fee9-421e-8746-9f5ce9398845"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_B_095_0",
+        "uuid": "416a395a-049a-4b54-8ead-5378e3c1694c"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_5H_A_000_0",
+        "uuid": "426817a4-c578-4086-9c3a-eeab02aab7e5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1052_0",
+        "uuid": "42dfa833-bc77-49de-9432-74f24bd75079"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_066_0",
+        "uuid": "4487fa74-13df-4c87-a923-e632163846fc"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_103_0",
+        "uuid": "44c82695-a9c3-4f25-93c4-76736c041ec2"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_FloorTrims_A_0n25D_0n25H_A_009_0",
+        "uuid": "4579a2e4-a271-4ec2-9052-29e896ea52ca"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1062_0",
+        "uuid": "45f4f716-808b-47f9-90a8-c384b57d6999"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Trim_1D_1H_A_120_0",
+        "uuid": "46018a88-b9c8-48e0-9f9f-25020b677da4"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_016_0",
+        "uuid": "466d91e1-5124-4d82-a987-b5fd7801c8c3"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Ceiling_A_4H_A_845_0",
+        "uuid": "4694adb9-e06c-4864-a5d5-1f8d1edf84c6"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_B_098_0",
+        "uuid": "47c8932a-b008-40f5-9ab3-f0f36c79070b"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_130_0",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Clay_A_Flat_1D_0n5H_A_035_0",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] SPL_NAT_Cliff_Granite_Vista_50D_10H_A_000_0",
+        "uuid": "4c8a766d-0a24-4677-a792-248eedc2c730"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_070_0",
+        "uuid": "4dcffa3a-3cc5-4c75-8df3-daf0ab6dc3d5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1056_0",
+        "uuid": "529e9fd8-f554-40ec-8eb9-a6d30bd0f69f"
+    },
+    {
+        "name": "[PREFAB] SPL_NAT_Cliff_Granite_Vista_50D_10H_A_002_0",
+        "uuid": "53db6fb4-635e-43cd-b9fa-f546bf70f55e"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1049_0",
+        "uuid": "55d84b19-d93f-4617-9971-07d08f453f34"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_FloorTrims_A_0n25D_0n25H_A_004_0",
+        "uuid": "573d0853-b478-4711-a823-ac7837e3a07a"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_093_0",
+        "uuid": "59640919-b0c6-4278-a23b-bb3249965fe0"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1047_0",
+        "uuid": "5a9adee6-3697-404e-88e3-3b454d6c3c44"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Arch_A_2D_6H_A_274_0",
+        "uuid": "5c189719-c4af-4a8f-a2fe-50546a37e19d"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_Stairs_A_4D_2n5H_011_0",
+        "uuid": "5c3f1c15-5341-42fe-b7e3-14f69abc1497"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Arch_A_2D_6H_A_275_0",
+        "uuid": "5e14cc89-6494-4d3f-aa49-e5cff851a3f3"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1038_0",
+        "uuid": "6095d0b0-0dbb-4df9-b56f-5ceb8b4c42bf"
+    },
+    {
+        "name": "[PREFAB] SPL_NAT_Cliff_Granite_Vista_50D_10H_A_001_0",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Clay_A_1n5D_0n5H_A_012_0",
+        "uuid": "63d34270-5ec2-432d-9008-b8f6a453e9d7"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1057_0",
+        "uuid": "9a8bbeba-850c-402f-bac5-ff15696e6497"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Clay_A_Flat_1D_0n5H_A_010_0",
+        "uuid": "660021f1-bded-4ec5-b7bb-1bee7bcd0a94"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Clay_A_Flat_1D_0n5H_A_037_0",
+        "uuid": "661ea202-fd8c-46b2-a54c-7d0dbbe247fc"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_120_0",
+        "uuid": "67a4b8b6-52e4-40db-81e4-a0aee7fd47dc"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_055_0",
+        "uuid": "69b0c750-9779-4863-8eb2-c2dd05d44c83"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_071_0",
+        "uuid": "7003b770-84e6-4d72-8336-49e4437d86f1"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Ceiling_A_4H_A_829_0",
+        "uuid": "702d71c6-c964-4a51-80ea-b64f664b298a"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Ceiling_A_4H_A_831_0",
+        "uuid": "7172c19f-ef4b-481f-9457-2529d4c629e4"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_858_0",
+        "uuid": "72c01fc1-b442-4029-8a57-1880959d4612"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_FloorTrims_A_0n25D_0n25H_A_005_0",
+        "uuid": "74dcd6e8-1525-4e09-ad17-b3704404b02a"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_936_0",
+        "uuid": "77b9f67a-4169-4782-833e-338cecea10c4"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_B_4D_A_019_0",
+        "uuid": "77be0da0-bcf4-49f6-baa8-aff49a463174"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Battlements_A_1D_2H_B_159_0",
+        "uuid": "797f7251-0f0c-4b6f-b5dc-e0df6c40a619"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_106_1",
+        "uuid": "79d683e5-7c05-46a2-96f7-7c795da8c399"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Straw_A_0n5D_2H_A_006_0",
+        "uuid": "79dafdd6-1d73-4612-86ba-cb5662789b77"
+    },
+    {
+        "name": "[PREFAB] WALL_City_CastleTower_Wall_1D_9H_A_351_0",
+        "uuid": "7d0a5005-7dcc-4447-b80a-81f2bdbb2254"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Ceiling_A_4H_A_832_0",
+        "uuid": "7d22772b-f672-45cb-8642-b67cb36a261e"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Straw_A_0n5D_2H_A_005_0",
+        "uuid": "7e2394f8-dcb2-47eb-99e0-1e2211e448ff"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_004_0",
+        "uuid": "7fd8a055-aa8d-43ab-aa9b-75a4c48008d5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_935_0",
+        "uuid": "80dcd42a-0458-4037-a6ae-ed8f5400ce60"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_SharTemple_Trim_A_Mosaic_A_058_0",
+        "uuid": "8201ce0e-117e-4b80-a50f-e6bd51a8c2c9"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_866_0",
+        "uuid": "88579933-c728-416b-ab8e-641375a51b22"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_101_0",
+        "uuid": "895f9025-807f-4488-b687-a58c44915f12"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_875_1",
+        "uuid": "8ba88c4e-cdfd-4f9c-8686-5da443227c7b"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_868_0",
+        "uuid": "8bbf0185-e613-4725-a025-4847dde5c545"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_098_0",
+        "uuid": "8c4d04d0-b901-4213-af1d-75cbe2f75ea4"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_875_2",
+        "uuid": "8cc553cf-1fb9-400b-b19b-a3dd54900a45"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_017_1",
+        "uuid": "904d85d4-3d27-42f5-92fe-483490617acb"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_105_1",
+        "uuid": "9163fbef-f125-4b50-b1a2-91fe20d787da"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_102_0",
+        "uuid": "97423620-b19b-48b0-b1df-92e8f49d1fda"
+    },
+    {
+        "name": "[PREFAB] WALL_Camp_Tent_Refugee_A_3D_10H_3W_001_0",
+        "uuid": "9864bae7-70ec-4013-aa0b-9d48193fba8c"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Carpet_Rich_A_2D_0H_A_Red_A_000_0",
+        "uuid": "9d47ebf5-28ad-4e37-8905-046bed0b9e10"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_003_0",
+        "uuid": "9e49e06a-696b-4afd-8ba3-8504c37f5169"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_SharTemple_Trim_C_CityFloor_0n8D_0H_A_068_0",
+        "uuid": "6dd3db4f-e2db-4097-b82e-12f379f94c2e"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_001_1",
+        "uuid": "9ef889fc-4460-4e9e-9fac-56e898f126c2"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Balustrade_A_0n5D_1n5H_A_058_0",
+        "uuid": "a34ce5d2-6c2f-4fa9-8cd0-108b9b5e4eb2"
+    },
+    {
+        "name": "[PREFAB] WALL_City_CastleTower_Wall_1D_4H_A_037_0",
+        "uuid": "a806c7b9-0648-40b4-b2ef-3ab0ab37806a"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Temple_Bridge_B_Mid_2D_4H_A_020_0",
+        "uuid": "a887427e-d46c-4119-a70b-7c9d711864ac"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_A_Base_Stone_A_1n5D_4H_A_189_0",
+        "uuid": "ab0f791e-da09-4d11-b59a-dbfe88533d01"
+    },
+    {
+        "name": "[PREFAB] SPL_NAT_Cliff_Granite_Vista_50D_10H_A_003_0",
+        "uuid": "ae37d27d-b5e5-41c0-80a6-d6977376a298"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_009_0",
+        "uuid": "af62bc3f-be4e-4f9c-9a26-617c6fe8971c"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_984_0",
+        "uuid": "b11d7853-e27e-48a1-bd7b-c1ff323a46d5"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1055_0",
+        "uuid": "b3174dbf-b824-430a-8093-32ba7fa5418f"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_SharTemple_Trim_C_CityFloor_0n8D_0H_A_067_0",
+        "uuid": "b59acd82-694d-4c37-9f6b-aa67e13d1f79"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_066_1",
+        "uuid": "b5f284e5-6576-426c-a873-7ff1894f5d1a"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_844_0",
+        "uuid": "b8581b66-98ca-4d21-b055-a72a30134417"
+    },
+    {
+        "name": "[PREFAB] SPL_Village_House_A_Base_Stone_1n5D_2H_A_000_0",
+        "uuid": "b97e3764-7213-4617-afaf-20f901dedbc4"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Wall_A_2D_9H_A_241_0",
+        "uuid": "ba59a920-8a81-415d-9bef-284cfbfc079c"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_A_Base_Stone_A_1n5D_4H_A_008_0",
+        "uuid": "baf53ad6-1978-459d-ba18-dd417767b82f"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Arch_A_2D_6H_A_276_0",
+        "uuid": "bbab9436-2ac5-4bd2-9e03-2b2b8a64da87"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_1058_0",
+        "uuid": "be09084e-a1e0-4e8c-a76c-b628cff8e2e2"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Pergola_A_2D_5H_A_001_0",
+        "uuid": "c44d6d4d-5f81-4ba7-bceb-ded6249a6578"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_House_A_0n5D_4H_A_256_1",
+        "uuid": "c55b153a-d180-48ed-8521-d96eb76686fc"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_5H_A_009_0",
+        "uuid": "c656880e-91ad-4724-b877-3ae479d8eeaf"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_016_1",
+        "uuid": "c814d11f-7aa1-47c4-87b5-0ee88bb7339d"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_002_0",
+        "uuid": "cd813a2f-923d-4004-a0a8-14123994e2b0"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_091_0",
+        "uuid": "d01fa5d9-bc7a-48d0-b910-7d397d943680"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_872_0",
+        "uuid": "d6662bb5-d405-42a4-aefe-d76950e66dd1"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Carpet_A_2D_0H_A_003_0",
+        "uuid": "d8eebc13-1027-4492-b8c5-330a211878a0"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_873_0",
+        "uuid": "dc42d431-b7f1-47cf-9980-06e9d934a7cc"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_House_Base_A_1D_6H_A_003_1",
+        "uuid": "dcec954d-1123-4f07-b8d3-c11f565e85c9"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_B_092_0",
+        "uuid": "de15eb95-b910-4641-bc5f-8065a0a2adcb"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_B_4D_A_017_1",
+        "uuid": "df2d3395-ca28-4e15-9f30-742b3ab6e8b4"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1D_5H_A_875_0",
+        "uuid": "e4934a34-bd07-4270-ab26-7a27ec258004"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_A_Wood_A_0n5D_4H_A_078_0",
+        "uuid": "e74c0ce7-a455-4e98-9b4d-58c10381d5d8"
+    },
+    {
+        "name": "[PREFAB] SPL_GEN_Rope_A_001_0",
+        "uuid": "e7edd7c3-620b-43e4-8d47-2edb7257c83f"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_073_0",
+        "uuid": "e87cad27-c531-4735-96c8-bc7165f4adfb"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_House_A_0n5D_4H_A_017_1",
+        "uuid": "ede6d828-aeee-47fc-8daa-d4a37bb3d1eb"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_120_1",
+        "uuid": "eeccf235-a51e-4394-8d2b-335844f8765c"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_001_2",
+        "uuid": "f18bffcc-e11d-4b1b-8592-bfde3b323c41"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_House_A_1n5D_5H_A_974_0",
+        "uuid": "f1af21a3-7e9c-4ada-9eb8-f62d4fc7c55d"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_A_2n5D_10H_A_109_0",
+        "uuid": "f32e2128-9fbe-44c5-b15c-5298c17e3341"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_B_4D_A_012_0",
+        "uuid": "f6e50b04-8601-450b-ba41-bfc054bba8d8"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Balustrade_Wood_A_0n5D_1n5H_A_070_0",
+        "uuid": "f9ef4eee-8ae3-4850-b4ff-548a88678a55"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A_108_0",
+        "uuid": "fbcf9d30-c032-4e81-876f-e44984a84d2e"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_House_A_0n5D_4H_A_286_1",
+        "uuid": "fd0af5ed-3f6c-4557-9fd0-93d3c804aff2"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Wall_A_2D_9H_A_240_0",
+        "uuid": "fd3f785e-b0b3-4e3b-a87c-6531c884ffbc"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Castlewall_Trim_1D_1H_A_119_0",
+        "uuid": "fe0a4e21-1c52-4c6b-af2c-048bb5b0dea6"
+    },
+    {
+        "name": "[PREFAB] WALL_Village_House_Roof_Straw_A_0n5D_2H_A_006_1",
+        "uuid": "fe34bd00-c4c5-48a1-b2bb-49ef7f376ad0"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Arch_B_1D_4H_A",
+        "uuid": "029974e1-c539-4316-befb-4c9e84cddeef"
+    },
+    {
+        "name": "WALL_Village_Stairs_A_4D_2n5H",
+        "uuid": "0467b40b-6b22-4217-918e-7fc2d9e35202"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_4D_2H_A",
+        "uuid": "049c05bf-fc5a-4697-9575-961e1039fcec"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_10H_A",
+        "uuid": "05879aaa-ff4a-48d9-a42b-7bc9c0de7287"
+    },
+    {
+        "name": "WALL_City_Lower_Balustrade_B_0n5D_1H_A",
+        "uuid": "05ae0747-9ec2-4484-9354-b75da8bf7ada"
+    },
+    {
+        "name": "WALL_City_Cazador_Wall_A_Bot_1D_2H_A",
+        "uuid": "082278dd-8263-4040-8ae4-678cba3ad5b0"
+    },
+    {
+        "name": "WALL_Village_Stairs_A_4D_2n5H_Thayan",
+        "uuid": "0cd633ad-f0c0-4605-806d-1346a0a1cc9b"
+    },
+    {
+        "name": "WALL_Village_House_A_Wood_B_0n5D_4H_A",
+        "uuid": "0d20166a-cdc1-4ed1-a5fa-1270913b13b8"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_B_Mossy_A_Top_2D_4H_A",
+        "uuid": "0d2c6aef-74ae-4a5c-a88d-6bbcb051e6a5"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_A_3D_6H_A",
+        "uuid": "10f53464-1e69-4f8c-9420-b9bb3fcc14fb"
+    },
+    {
+        "name": "WALL_City_Castlewall_Foundation_A_2D_9H_A",
+        "uuid": "121f5205-b0c5-4aba-946b-113d1322e9b8"
+    },
+    {
+        "name": "WALL_City_Castlewall_Trim_A_0n25D_0n25H_A",
+        "uuid": "14aa7df6-751e-4f9f-a607-92859fd4685e"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_CityFloor_0n5D_0H_A",
+        "uuid": "151c9bcb-0641-4535-afb2-dff37c31f26b"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_A_4D_2H_A",
+        "uuid": "181b2766-c303-43c8-ab9f-8d76ccca6ad6"
+    },
+    {
+        "name": "WALL_City_Stairs_A_4D_2n5H_A",
+        "uuid": "1b224cc2-ab95-402f-9c6e-ff4b479ea457"
+    },
+    {
+        "name": "WALL_GEN_Balcony_A_1D_4H_A",
+        "uuid": "1de8280a-3370-41c7-8b2e-8f40bdd08d61"
+    },
+    {
+        "name": "WALL_GEN_Pergola_A_2D_5H_A",
+        "uuid": "20e24679-65e2-4683-86b0-f2bc87e38794"
+    },
+    {
+        "name": "WALL_Harbor_House_Arch_A_0n5D_1n5H_A",
+        "uuid": "21a6527c-95e6-496a-8e60-072344e03214"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_A_Bottom_2D_1H_A",
+        "uuid": "21d079ca-82ca-482e-9f9e-e5f9d7f41c44"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_A_Dirty_A_3D_6H_A",
+        "uuid": "21f7ff16-e8b6-41bd-8458-0a6ed782321a"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_B_Bottom_2D_1H_A",
+        "uuid": "23545a22-ea7a-41c1-8f8e-a270a79e7569"
+    },
+    {
+        "name": "WALL_GEN_Rope_A",
+        "uuid": "26a8e4aa-726c-42f7-ae79-97b41d92d127"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_A_1D_2H_A",
+        "uuid": "26afc59d-8d78-454a-9895-e7c2d59a4a34"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_2n5H_A",
+        "uuid": "28a9ad72-1f4d-4b95-8f3a-874a7ca8c075"
+    },
+    {
+        "name": "WALL_Village_House_A_Base_Stone_A_1n5D_4H_A",
+        "uuid": "28bcda98-4be2-4ece-979b-41c1992192d5"
+    },
+    {
+        "name": "WALL_Harbor_House_Battlement_A_0n5D_1H_A",
+        "uuid": "296ed71e-7aad-4f60-8980-0d6d08d0c7e0"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Ceiling_A_4H_A",
+        "uuid": "2a42d49f-23bc-41c2-89a6-4e39af6a54a6"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Straw_A_1D_2n5H_Top_A",
+        "uuid": "2a5ceff9-fd5a-481e-b007-276390356daf"
+    },
+    {
+        "name": "WALL_RuinedVillage_House_Base_A_2D_5H_A ",
+        "uuid": "31269383-712a-4c60-ba74-8a3c362aba02"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Tile_B_1D_1n35H_A",
+        "uuid": "312db386-6e7d-49aa-9547-ff6dad973ede"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Balustrade_A_0n5D_1n5H_A",
+        "uuid": "332540c0-f039-4b3b-9c7e-ad86f08a3412"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Arch_A_0n5D_1n5H_A",
+        "uuid": "33ae8295-cb2b-42d6-af89-5c14686b62fe"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_A_Mid_1D_4H_A_Moss",
+        "uuid": "344c767a-aefc-482e-80b6-ef8255412bb4"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Stairs_White_4D_2n5H_A",
+        "uuid": "363d553c-f088-4d22-99d7-60341d193ac1"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Pillar_A_6H_A",
+        "uuid": "365573d2-7743-413e-a48f-a7a979db112a"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_10H_B",
+        "uuid": "3696b287-a968-41d4-9e9a-841928627ff5"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_2D_1H_A",
+        "uuid": "381bce5b-d2d9-4f8c-a40c-a40152068b0f"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_1D_2H_A",
+        "uuid": "3aa5fe23-83d9-409b-902c-7ec551767e5f"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_A_4D_8H_A",
+        "uuid": "3ad67dbb-8a24-44e9-95bf-d10caa8c7ac5"
+    },
+    {
+        "name": "WALL_City_CastleTower_Foundation_1D_9H_A",
+        "uuid": "3bfc1e87-8d7b-4c8b-baa9-93b6d1725c0f"
+    },
+    {
+        "name": "WALL_City_Bhaal_Battlements_B_1D_2H_A_Dirty",
+        "uuid": "3c0657cf-1579-41d8-92d0-832dde82b78a"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_A_Top_1D_1H_A",
+        "uuid": "3d5c5fc2-bc2a-4fbb-87ea-337152898c5c"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_WizardTower_C_2D_2n5H_A",
+        "uuid": "3d942035-8bbc-4912-a8c6-6555f5381f22"
+    },
+    {
+        "name": "WALL_GEN_Ramazith_A_0n5D_0H_A",
+        "uuid": "3ebb3ac4-1446-4597-b038-7c574cd3589a"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Stairs_4D_2H_A",
+        "uuid": "403bd5e5-9283-4462-adba-7e47f2f1debf"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Sandstone_A_Moss",
+        "uuid": "40947e4f-22e2-46ef-abe0-cb18123d18b8"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Straw_A_0n5D_2H_A",
+        "uuid": "41d7bbfd-5e0a-49a7-9ab0-627ad4c44d0f"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Clay_A_Flat_1D_0n5H_A",
+        "uuid": "42a0862d-f1ff-46b4-a58b-d930d2ae4b24"
+    },
+    {
+        "name": "WALL_GEN_Balcony_C_1D_4H_A",
+        "uuid": "460048ee-a303-40db-b15b-3c73bc420296"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_House_A_1n5D_5H_A",
+        "uuid": "475c76f2-5e3a-4a97-bfe6-fd447cde0305"
+    },
+    {
+        "name": "WALL_City_Stairs_A_4D_2n5H_A_Moss_A",
+        "uuid": "478c7774-40d9-4fbd-ba9f-9885b568dc47"
+    },
+    {
+        "name": "WALL_GEN_Wainscot_Wood_B_0n5D_2H_A",
+        "uuid": "4a648548-9c17-4085-a0b1-cbddb3d8a307"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_B_Mid_1D_2H_A",
+        "uuid": "4d89b332-e5c6-4b47-87de-03e43268fa6e"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_A_Top_A_2D_4H_A_DONOTUSE",
+        "uuid": "4da237fd-ee7f-488a-a517-bdb42b40064a"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Sandstone_A",
+        "uuid": "4db379cc-36de-4bca-852a-94f2a9b0a8c2"
+    },
+    {
+        "name": "WALL_Village_House_A_Wood_A_0n5D_4H_A",
+        "uuid": "4e594ae3-69bd-4e42-a9c4-978c5ffa9733"
+    },
+    {
+        "name": "WALL_City_Castlewall_Battlements_B_1D_2H_A",
+        "uuid": "511b3def-6585-461b-bf90-d81341a146ef"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_Dirty_2D_1H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "WALL_REF_ReferenceWall_A_05D_3H_A",
+        "uuid": "55cd4502-d0bd-46ef-b860-6ec458635e92"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_CityFloor_1n25D_0H_A",
+        "uuid": "5709dc64-e417-400a-8968-28c281aeecc0"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Clay_A_4D_2n5H_A",
+        "uuid": "570a07d3-ee27-4a29-9ba6-e4f4a88eaf9a"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_Dirty_4D_2H_A",
+        "uuid": "5843819e-53df-4049-8e4d-c334ffc4363c"
+    },
+    {
+        "name": "WALL_GEN_Battlement_Decorative_A_0n5D_1H_A",
+        "uuid": "587d4033-40fe-4280-bfe6-b764bde5cc20"
+    },
+    {
+        "name": "WALL_GEN_Bridge_Stone_A_8D_10H",
+        "uuid": "589ec728-608a-4434-9683-a03ee8957e2c"
+    },
+    {
+        "name": "WALL_City_Road_Gutter_A_Color_B_0n5D_A",
+        "uuid": "5a38a527-d302-4fde-9349-2a1e0119dfe6"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Tile_A_1D_1n35H_A",
+        "uuid": "5a93fc4c-00fb-47ae-b906-92ac0f5189bf"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_5H_B",
+        "uuid": "5cbacfb6-7442-4755-9e8f-258b9a0c5eb5"
+    },
+    {
+        "name": "WALL_Dungeon_Fence_Iron_A_0n5D_1n5H_A",
+        "uuid": "5cc6a694-8e7a-4567-b528-5d1445412aa5"
+    },
+    {
+        "name": "WALL_Harbor_House_B_0n5D_4H_A",
+        "uuid": "5d1e5890-6e9c-467c-a270-ec6543373786"
+    },
+    {
+        "name": "WALL_City_Stairs_A_4D_1n5H_A_Moss_A",
+        "uuid": "5ea60bb5-dd1e-46e9-99a9-f54ab3336589"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_2D_1H_A",
+        "uuid": "5f0fbb06-5f09-4778-8ab3-5415da118ba7"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_5D_A",
+        "uuid": "60458c34-728e-4960-a3dc-e77583081251"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_A_1D_6H_A",
+        "uuid": "6054438e-78a4-4d5d-a654-45b47898e8ab"
+    },
+    {
+        "name": "WALL_City_Wooden_House_B_0n5D_1H_A",
+        "uuid": "63055a92-20c5-4350-80f7-4b093af4b2a1"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_B_Top_1D_1H_A",
+        "uuid": "638c2d15-d40d-4ff9-aae1-f5863bc2d7fa"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_A_2D_2H_A",
+        "uuid": "643165c6-733f-4a28-a8bc-43947ee333c0"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_FloorTrim_A_1D_1H_A",
+        "uuid": "64ba45a4-28fd-464c-8177-747b5aae4120"
+    },
+    {
+        "name": "WALL_Camp_Tent_Refugee_A_3D_10H_3W",
+        "uuid": "6607d4bf-9219-4686-a83e-8ec5b719a0de"
+    },
+    {
+        "name": "WALL_City_Cazador_Wall_A_Top_1D_2H_A",
+        "uuid": "66919595-e6ea-4632-b312-eeb2ae2da7f6"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_A_Top_2D_4H_A",
+        "uuid": "6765c8f0-7ab7-4998-8c9c-e69624e9d700"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_A_Bottom_1D_6H_A_TOBEDELETED",
+        "uuid": "69ce0620-95db-45df-bf99-4457da437388"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_B_Mid_2D_4H_A",
+        "uuid": "6a8aadd2-f2eb-4dd7-b154-b61de4ecadd9"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_A_Top_A_2D_3H_A",
+        "uuid": "6c8e6b58-2055-461e-a0f2-2084ed9dadc0"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_B_Dirty_A_3D_6H_A",
+        "uuid": "6d2b7b2c-2079-4e2a-9c23-7a6e8a7bab36"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Top_B_1D_1n50H_A",
+        "uuid": "6ddbfb1b-9624-4f7b-8ea0-dd002396fd5d"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Balustrade_A_1D_1n5H_A",
+        "uuid": "6eb2ad28-aac9-44a8-82aa-c613121688e9"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_A_Bottom_Big_A_5D_4H_A",
+        "uuid": "6f961b6b-a3f5-4bbe-abd9-e9977894dda4"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_House_A_1D_4H_A",
+        "uuid": "707c7007-a49f-4bd3-bb3c-7c27a326f603"
+    },
+    {
+        "name": "WALL_City_Castlewall_A_1D_2H_A",
+        "uuid": "716534ca-ff34-41b8-ad26-6087d7c5fa38"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_B_Dirty_A_6D_8H_A",
+        "uuid": "71c01032-b3f8-4c33-8e86-756e421a39fb"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_Dirty_Moss_A_CityFloor_1n25D_0H_A",
+        "uuid": "72838394-dfbd-45f0-92a7-533a14ed086e"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_B_6D_8H_A",
+        "uuid": "72eb7243-2f72-492a-ac6e-534ef06293e8"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Stairs_White_4D_2H_A",
+        "uuid": "7354f355-ee33-414a-99fa-fb827fc211e5"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_Dirty_Moss_4D_2H_A",
+        "uuid": "7516de16-8b98-465e-936b-0554ac399e56"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Balustrade_A_1D_1H_A",
+        "uuid": "759135ca-554c-4bdd-a16e-4213f372b77a"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_House_A_1D_5H_A",
+        "uuid": "75dc9485-8880-4790-9da7-61e5db5f2c68"
+    },
+    {
+        "name": "WALL_Village_House_Wall_A_0n5D_4H_A",
+        "uuid": "764f51a7-e237-401d-b8be-1f97718f214a"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Sandstone_B",
+        "uuid": "767c0d61-e554-413f-8d07-b9ada4856795"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_10H_Broken_A_DONOTUSE",
+        "uuid": "77111eda-d737-4da7-9d8b-253cdc032184"
+    },
+    {
+        "name": "WALL_Harbor_House_A_0n5D_4H_A",
+        "uuid": "777f3bf8-3e0f-497d-8bfb-053e45916e6f"
+    },
+    {
+        "name": "WALL_Village_House_A_Base_Stone_A_1n5D_1H_A",
+        "uuid": "77c6ff7b-d21a-4992-8ba6-8930371a526a"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_A_2D_8H_A_TOBEDELETED",
+        "uuid": "77e1be6c-19cb-481e-b4ed-3571c5a0201a"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_B_1D_4H_A",
+        "uuid": "78b96224-e065-4884-a30f-a265b2b8e8dd"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_White_Dirty_Moss_2D_1H_A",
+        "uuid": "79fecafa-4604-48ae-a165-39927fbd22b0"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Stairs_A_2D_1H_A",
+        "uuid": "7cc6da46-af08-417c-b6e0-f0de54d4b4fc"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Stairs_4D_2H_A",
+        "uuid": "839e288b-aac6-4b1c-8adb-4ebac4ba63b5"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Sandstone_Vista_50D_10H_A",
+        "uuid": "84bce13c-161a-43bf-9f6f-8d094760d17b"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_CityFloor_0n8D_0H_A",
+        "uuid": "84c2489e-d43d-4252-9a77-f35a3b33fad2"
+    },
+    {
+        "name": "WALL_Harbor_House_Balustrade_Wood_A_0n5D_1H_A",
+        "uuid": "85096628-554a-439e-82e7-604929632d6d"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_A_Middle_A_2D_4H_A",
+        "uuid": "8754f140-2fa8-4c9e-a620-41b0441efaba"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Clay_A_1n5D_0n5H_A",
+        "uuid": "886f7588-3101-45aa-840d-cbc54355bc6b"
+    },
+    {
+        "name": "WALL_GEN_Arch_Decorative_C_0n5D_5H_A",
+        "uuid": "8aef0620-d95b-4fcf-b605-2de5f06f49bd"
+    },
+    {
+        "name": "WALL_Dungeon_Paving_Marble_D_1n315D_0H_ABC",
+        "uuid": "8c9b2314-277b-46df-94a1-9ea59f6aa33f"
+    },
+    {
+        "name": "WALL_GEN_Balustrade_Wood_A_0n5D_1n5H_A",
+        "uuid": "8e98b1e0-14c5-47e8-939a-7820a395d82f"
+    },
+    {
+        "name": "WALL_Harbor_House_A_0n5D_2H_A",
+        "uuid": "8fd2a799-726b-4cfa-93f6-1e5e92b71588"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Sandstone_B_10H",
+        "uuid": "909a1c4c-e9c3-46c2-af5c-fe1e56ac4b19"
+    },
+    {
+        "name": "WALL_City_Wooden_House_A_0n5D_4H_B_DO_NOT_USE",
+        "uuid": "90a2a5c6-7ae0-489a-b5b0-475eabe87c9e"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_A_Mid_2D_4H_A",
+        "uuid": "9142399d-daef-4a6f-82c0-856c0b2a8b97"
+    },
+    {
+        "name": "WALL_GEN_Bridge_Stone_B_Top_6D_6H_Moss",
+        "uuid": "91f37166-f1dc-4c88-bade-d902262c3515"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Stairs_4D_2n5H_A",
+        "uuid": "926964b3-7dd8-45dc-9823-dcc5f2a11892"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Top_A_1D_1n50H_A",
+        "uuid": "947c5b42-095f-4794-9f14-fb00962fc8d2"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_B_Blue_A_Mid_1D_2H_A",
+        "uuid": "96c43575-8698-42b3-9898-ccbd5907c79e"
+    },
+    {
+        "name": "WALL_City_Wooden_House_A_0n5D_1H_A",
+        "uuid": "96d1c877-61e9-456c-8bfa-e5a232fe6326"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Roof_B_3D_6H_A",
+        "uuid": "98e98067-4847-47e7-bbd3-e55544515b47"
+    },
+    {
+        "name": "WALL_City_Road_Gutter_B_Color_B_0n5D_A",
+        "uuid": "99286d86-de53-4557-b8c6-3373523bfdeb"
+    },
+    {
+        "name": "WALL_City_Castlewall_Battlements_A_1D_2H_B",
+        "uuid": "9a188ab6-2dfc-4a63-b545-74d2edbb75e7"
+    },
+    {
+        "name": "WALL_GEN_Balcony_B_1D_4H_A",
+        "uuid": "9d7f72a7-374c-4b5e-b7e0-63c26be9c823"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_7n5D_A",
+        "uuid": "9ebe7da0-b6a1-4eb3-a37b-98da762a2031"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_Dirty_Moss_A_CityFloor_0n8D_0H_A",
+        "uuid": "a11fd253-67b3-4173-b4c9-eafad0881ed9"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_A_1D_6H_A_TOBEDELETED",
+        "uuid": "a1acdd80-fa01-41c9-89cf-e087f93194fe"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_A_Mid_1D_4H_A",
+        "uuid": "a1d24c11-36dc-4e1b-b0ef-1ec712be7639"
+    },
+    {
+        "name": "WALL_GEN_Arch_Decorative_B_0n5D_5H_A",
+        "uuid": "a426c62e-d77b-404a-ae7c-883e9b5a9a51"
+    },
+    {
+        "name": "WALL_Village_House_Roof_Clay_B_8D_2H_A",
+        "uuid": "a90abaf7-8b3f-4b2b-a9a1-f02cd70ae991"
+    },
+    {
+        "name": "WALL_Ketheric_Rails_A_4D_A",
+        "uuid": "a975946e-3ca0-45b1-844c-bf21903feb13"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_FloorTrims_A_0n25D_0n25H_A",
+        "uuid": "aa4051bd-7eda-4019-9962-3db2013044d3"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_A_Bottom_A_2D_1H_A",
+        "uuid": "ae38737f-08b9-4143-86bb-a616f47b1385"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_Dirty_Moss_A_CityFloor_0n5D_0H_A",
+        "uuid": "aebc1e7e-fb11-4d27-be73-c13ee5ea8726"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_A_Bottom_1D_1H_A",
+        "uuid": "af169827-942d-4b20-ac39-b093433e757a"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_A_2n5D_5H_A",
+        "uuid": "b01c6d70-849d-44f7-ab6b-3a6c8649a6b5"
+    },
+    {
+        "name": "WALL_City_Road_Gutter_B_0n5D_A",
+        "uuid": "b096223c-4c0b-4910-92d7-d632e94a4fa4"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Battlement_A_2D_4H_A",
+        "uuid": "b0e66cc0-f00a-4653-af4e-2119546642a3"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Arch_A_1D_4H_A",
+        "uuid": "b17da5e9-3963-40ae-89b6-ab11feb658ac"
+    },
+    {
+        "name": "WALL_GEN_Trim_Wood_B_1D_A",
+        "uuid": "b76044a1-d83a-4b11-8f92-68a5a7116fd6"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Marble_A_1D_0n85H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_A_1D_2H_A",
+        "uuid": "b988746f-867a-48e1-80da-002947c5c6c4"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Ceiling_A_4H_A",
+        "uuid": "b9ed4ed0-9b14-4357-8b20-529523968bda"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_0n8D_0H_A",
+        "uuid": "ba8b67ce-8829-4367-9ff7-8301ded8d88d"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Granite_Vista_50D_10H_A_Height_A",
+        "uuid": "bb616785-c404-49c0-a664-3685c39f33af"
+    },
+    {
+        "name": "WALL_Harbor_Dock_Wood_A_4D_A",
+        "uuid": "bbfb6f64-a2a7-48a3-80d9-5fee65b9f188"
+    },
+    {
+        "name": "SPL_Village_House_A_Base_Stone_Moss_1n5D_2H_A",
+        "uuid": "bccb0bbb-0f24-4d54-a7ca-e432c1133bdd"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Stairs_A_3D_1n5H_A",
+        "uuid": "bdd1d906-1536-4b96-8a1d-0f0d55ae37d6"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Granite_Vista_50D_10H_A",
+        "uuid": "be3ccd40-1c15-4b00-b68f-e63923cede81"
+    },
+    {
+        "name": "WALL_GEN_Bridge_Stone_B_Bottom_6D_6H",
+        "uuid": "be5ba2c6-61f7-42fc-98c1-bfe8ecbdff0d"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_10D_A",
+        "uuid": "c01c62db-5ad7-467b-80b1-d653e1a683e5"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_Dirty_A_CityFloor_1n25D_0H_A",
+        "uuid": "c32c0e97-7eec-496a-9d1e-cc130c0b19a4"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_1n25D_0H_A",
+        "uuid": "c4d1a0a1-76e6-4da1-9ef7-b235890a2184"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_Flat_A_5D_A",
+        "uuid": "c5ca3eb8-f57d-4467-8197-961f624a0e81"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Stairs_A_4D_2n5H_A",
+        "uuid": "c79e56cc-925c-47fe-8900-a6fd910cb2c5"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_B_Top_2D_4H_A",
+        "uuid": "c79e60ce-cb78-4657-becf-9bba5b3d219e"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Marble_A_1D_1n35H_A",
+        "uuid": "c9161335-18fe-443d-b7c6-dd59fc24ed3a"
+    },
+    {
+        "name": "WALL_GEN_Arch_Decorative_A_0n5D_5H_A",
+        "uuid": "cec461b0-ce9f-4c39-b428-4e35a66d8e89"
+    },
+    {
+        "name": "WALL_GEN_Bridge_Stone_B_Bottom_6D_4H_Moss",
+        "uuid": "cf941d86-fc71-446f-a51b-70d4ec075a7b"
+    },
+    {
+        "name": "WALL_City_CastleTower_Wall_1D_4H_A",
+        "uuid": "cfe871b4-5e84-4d60-9995-d7b34cb08254"
+    },
+    {
+        "name": "WALL_Tavern_Wainscot_Wood_A_1D_1n35H_A",
+        "uuid": "d0fe3a78-dbfc-4fa9-9c5d-0836dfc81208"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_Dirty_A_CityFloor_0n5D_0H_A",
+        "uuid": "d1e420b7-974e-4979-8c95-3d7cf5c25a9b"
+    },
+    {
+        "name": "WALL_GEN_Bookcase_Wood_Rich_A_1D_4H_A",
+        "uuid": "d4f48e94-f9ac-4b86-8a05-ee2ac839fad4"
+    },
+    {
+        "name": "WALL_City_Road_Paving_B_4D_A",
+        "uuid": "d5117246-9707-4e62-a322-80630c847914"
+    },
+    {
+        "name": "WALL_City_Lower_Balustrade_A_0n5D_1H_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_Arch_A_0n5D_4H_A",
+        "uuid": "d57942fe-4275-4d15-80f7-f7c6e8ae5416"
+    },
+    {
+        "name": "WALL_Village_House_A_Stone_A_0n5D_4H_A",
+        "uuid": "d5b82ecb-7b13-4989-974d-4153bdebe175"
+    },
+    {
+        "name": "WALL_City_Lower_House_E_1D_4H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_A_1D_4H_A",
+        "uuid": "d9f59428-670e-4da6-99a5-863fe0a12522"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_0n5D_0H_A",
+        "uuid": "dc2d51f0-6819-459e-b17d-e0672a92bd17"
+    },
+    {
+        "name": "WALL_GEN_Balustrade_Wood_Rich_A_1D_1H_A",
+        "uuid": "dd0c4308-1f76-4153-9668-f88033cedcea"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_A_Mossy_A_Top_2D_4H_A",
+        "uuid": "de96c891-3ad6-4d66-ae6e-1725b4e5fdd2"
+    },
+    {
+        "name": "WALL_GEN_Trim_Wood_A_1D_A",
+        "uuid": "e2455441-a714-4719-b9dd-bd8644e79055"
+    },
+    {
+        "name": "WALL_City_CastleTower_Wall_1D_9H_A",
+        "uuid": "e4bcca3c-034f-4470-96ad-c09a4d29c520"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_WizardTower_A_2D_5H_A",
+        "uuid": "e72d53e0-0ad9-4839-a1ce-b138dd94769b"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Battlement_A_1D_1H_A",
+        "uuid": "e79994ee-ffd5-40ba-909e-c56ab328213d"
+    },
+    {
+        "name": "WALL_City_Castlewall_Battlements_A_1D_2H_A",
+        "uuid": "e7ff317e-ce62-42af-91ae-f47aae987d56"
+    },
+    {
+        "name": "WALL_Village_House_A_Base_Stone_A_1n5D_4H_A_Moss_A",
+        "uuid": "e809adbf-4377-4c87-9a0d-ab6f35a18372"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_B_Bottom_2D_8H_A_TOBEDELETED",
+        "uuid": "e9395b40-71e9-4357-a06c-ca31be319728"
+    },
+    {
+        "name": "WALL_City_Castlewall_Wall_A_2D_9H_A",
+        "uuid": "e9994b0e-b9b1-4d7f-8dea-b823805e6298"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Wainscot_Stone_A_0n5D_1n25H_A",
+        "uuid": "eb1db047-1a2a-481e-8bd1-27c33539db1e"
+    },
+    {
+        "name": "WALL_City_Road_Gutter_A_0n5D_A",
+        "uuid": "eb71331b-9044-40c1-8f1f-a19b7d9edbd2"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_Dirty_A_CityFloor_0n8D_0H_A",
+        "uuid": "ebec6da5-89d1-426d-95a6-d7bfa60c4827"
+    },
+    {
+        "name": "WALL_GEN_Wainscot_Wood_A_0n5D_1n5H_A",
+        "uuid": "ecf4d727-03c5-4032-ac83-08d4c554ba79"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Arch_A_1D_4H_A",
+        "uuid": "ed482640-3255-4ce8-b18d-5a6cd09b6349"
+    },
+    {
+        "name": "WALL_City_Cazador_Wall_A_MiD_1D_4H_A",
+        "uuid": "ee6d37ee-30cf-4b3d-936a-2c40570a8a3f"
+    },
+    {
+        "name": "WALL_GEN_Bridge_Stone_B_6D_6H",
+        "uuid": "ef965468-bf00-4aa8-990b-47c0d5ab9c39"
+    },
+    {
+        "name": "WALL_City_Road_Paving_A_4D_A",
+        "uuid": "f15d2569-166a-45e9-b34c-1fd7b81dad23"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Arch_Inverted_A_1D_4H_A",
+        "uuid": "f232ed7a-f95d-49a1-88bc-12dfa69416c2"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_B_1D_6H_A_TOBEDELETED",
+        "uuid": "f27112b3-9523-4b9b-8fdf-92017528e11d"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_WizardTower_B_2D_2n5H_A",
+        "uuid": "f4bd2868-9d83-425e-b803-d7172c544862"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Wood_A_1D_1n35H_A",
+        "uuid": "f4c040ba-9965-4679-b9d3-250e2af01dd9"
+    },
+    {
+        "name": "WALL_Harbor_House_A_0n5D_4H_A_Tiled",
+        "uuid": "f4fb9992-8ea3-46c0-9485-cfbd3da377f6"
+    },
+    {
+        "name": "WALL_Harbor_House_A_0n5D_4H_A_Paneled",
+        "uuid": "f556c978-2f7e-4eba-b277-02def98d88f2"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Arch_B_1D_2n75H_A",
+        "uuid": "fca8ca63-6b78-403e-89b5-89711cafb90d"
+    },
+    {
+        "name": "WALL_City_Castlewall_Trim_1D_1H_A_Cazador",
+        "uuid": "fd422a99-e4dc-445b-af01-b6eaf194ebc6"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Arch_B_0n5D_1n5H_A",
+        "uuid": "fd8059d6-d1b0-4089-9743-48f4a553cdcb"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_8D_A",
+        "uuid": "ff1c6b81-2d16-4f9c-bd93-057c72384013"
+    },
+    {
+        "name": "WALL_City_Castlewall_Trim_1D_1H_A",
+        "uuid": "02eb6edb-a7a2-47c8-852b-212580d9ab49"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_A_1n5D_0n5H_A",
+        "uuid": "02f4764a-9023-4bd8-ae15-81c4cf3de3d4"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_3D_A",
+        "uuid": "0750d363-01d1-4d74-a6c6-575bd805a7ec"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Carpet_A_2D_0H_A",
+        "uuid": "081f1852-f5be-4ab1-b36e-0d36229b5fb1"
+    },
+    {
+        "name": "WALL_City_Wooden_House_A_0n5D_4H_A",
+        "uuid": "08a5b3be-77da-4cf2-9a2a-bacbf6e4bc1b"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_B_4D_2n5H_A_Rich_Red_A",
+        "uuid": "094cc508-771e-463a-94f7-058a72e14b32"
+    },
+    {
+        "name": "WALL_GEN_Bollards_A_0n5D_1H_A",
+        "uuid": "09918281-0521-4d76-86c4-514f694ac856"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_Iron_C_2D_0n5H_A",
+        "uuid": "0ba1cb7e-1a67-4911-bdca-91f603412908"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Carving_D_0n25D_0n3H_A",
+        "uuid": "0d020e0c-3fbe-4d3a-b7b1-a5652f6d4d1d"
+    },
+    {
+        "name": "WALL_City_Castlewall_Foundation_A_Dirty_2D_9H_A",
+        "uuid": "0f773da3-3c93-42db-9224-180b4ab5cdda"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_B_2D_0n5H_A",
+        "uuid": "0f86b367-6368-4b6c-8160-1aa8b1aa1ef8"
+    },
+    {
+        "name": "WALL_City_Castlewall_Inside_1D_4H_A",
+        "uuid": "12685d76-dc4c-4cec-a338-252be153a5d5"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_A_4D_2n5H_A",
+        "uuid": "137689b4-ac53-48e9-a504-1c7cb05a7695"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_House_Balustrade_Wood_A_0n5D_1H_A_016_0",
+        "uuid": "1386555e-df23-4049-ba80-7bd8770e88ec"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Top_Old_A_1D_1n50H_A",
+        "uuid": "13a9e960-1ce5-4238-8993-bfab41433a71"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Rich_A_2D_0H_A_Red_A",
+        "uuid": "13efda1f-8914-488d-88c9-b8a8011d9062"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_A_5D_1n5H",
+        "uuid": "16bc5af5-d269-467e-906d-5f80608c72e7"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_A_4D_2n5H_A_Red_A",
+        "uuid": "1863aa41-c5f7-4e38-8dda-802f419f2f5a"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_A_0n5D_1H_A",
+        "uuid": "1a8d2f41-63ce-489f-80c3-b378ad3a4770"
+    },
+    {
+        "name": "WALL_City_CastleTower_Wall_Dirty_A_1D_9H_B",
+        "uuid": "1c5d1118-1328-4d44-a616-7601762cf3c9"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_Rich_A_Top_A_2D_4H_B",
+        "uuid": "1c88d6f0-cc17-4b7e-8997-cd72077cef69"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Iron_A_2D_4H_A",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_Rich_A_4D_2n5H_Blue_A",
+        "uuid": "1e060440-3e9d-4178-a323-6b0f4e97206f"
+    },
+    {
+        "name": "WALL_Dungeon_Bhaal_Temple_Ceiling_A_4H_A",
+        "uuid": "1ed22908-c796-4966-ab47-7825e69647fa"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A_004_0",
+        "uuid": "1f563d07-abd3-42d3-802f-d834bdc77cb3"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_Rich_A_Bottom_1D_1H_B",
+        "uuid": "1feb997b-b43b-4f94-8a62-da1ad47b2ebf"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Fence_Iron_A_0n5D_1n5H_A_016_0",
+        "uuid": "21854044-322c-4b30-bee6-81b4ffba2aa4"
+    },
+    {
+        "name": "WALL_Dungeon_HoH_Fence_A",
+        "uuid": "21c9c221-72f9-4919-a639-5b8b9640413e"
+    },
+    {
+        "name": "WALL_HoH_Temple_Stairs_4D_2H_A",
+        "uuid": "24aad3bc-e1cf-4b95-9b83-868752cf951f"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Mid_2D_4H_B",
+        "uuid": "292c8699-9f14-4a42-b363-2e8e12b4703e"
+    },
+    {
+        "name": "WALL_Dungeon_HoH_Fence_A_Gold_A",
+        "uuid": "29341fc0-9fab-457d-9aa2-8503aa0f43d1"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Top_Old_B_1D_1n50H_A",
+        "uuid": "29b509bf-a32a-479a-8c12-9ef06753c0ab"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Carpet_Stairs_A_4D_2n5H_A",
+        "uuid": "2ade5557-4553-4b05-91f9-1aa8e9d4a749"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_A_0n5D_2H_B",
+        "uuid": "2e8538d0-80f5-4cb3-a7eb-7084ddcefcb2"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Bottom_2D_1H_B",
+        "uuid": "2f8b82c6-54b1-420e-b1e6-cf42414a860a"
+    },
+    {
+        "name": "SPL_City_Stairs_A_4D_0n5H_A",
+        "uuid": "2ff9530e-7377-4754-9450-f2769361e2c5"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_B_Top_2D_4H_B",
+        "uuid": "324a45f6-7c0b-4eaa-b879-91bb6c18d2aa"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_Iron_A_2D_0n5H_A",
+        "uuid": "32804218-3023-461d-a4b7-c4bb83dbfb45"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Pipe_A_0n5D_0n5H_A_Shaking_A",
+        "uuid": "32bfb497-f3a7-4098-8b60-b6a2f22e9fb4"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_Iron_A_0n5D_1H_A",
+        "uuid": "33dbf79a-adb0-4988-9319-f2198cfdfa37"
+    },
+    {
+        "name": "WALL_Tavern_Wainscot_Wood_Double_B_1D_1n35H_A",
+        "uuid": "34a4596d-68f9-449c-a1ed-8bf9b4d7d359"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_A_8D_2n5H_A",
+        "uuid": "371077f9-e39f-44bb-a117-c942775a695f"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_B_4D_0n5H_A",
+        "uuid": "384b637c-9468-456a-aaa6-250e90899e68"
+    },
+    {
+        "name": "SPL_GEN_Rope_A",
+        "uuid": "3891cf4d-d45a-49fc-95fd-a4ae8c1957de"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Mid_2D_4H_A",
+        "uuid": "39165953-a138-407f-a16e-770717b22b67"
+    },
+    {
+        "name": "WALL_Dungeon_Bhaal_Temple_Pillar_A_6H_A",
+        "uuid": "3985dec9-cbdf-4ad5-8906-0cccf071d3bf"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Stairs_A_4D_2n5H_A",
+        "uuid": "39a190d1-739c-499e-bf56-84c1ef13b824"
+    },
+    {
+        "name": "WALL_City_Castlewall_House_A_1D_4H_A",
+        "uuid": "39d77ea5-3957-4943-944e-066db3eb9e4d"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Top_A_0n5D_4H_A",
+        "uuid": "3a55199a-cc88-4686-9eb9-d546dd3d7797"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Marble_B_1D_1n35H_A",
+        "uuid": "3aed6376-2ed9-4b57-a7a2-eba0c7c43ce1"
+    },
+    {
+        "name": "WALL_Dungeon_Fence_Ornamented_Iron_C",
+        "uuid": "3b571363-2165-4f32-a3b6-23b957d70472"
+    },
+    {
+        "name": "WALL_HoH_Temple_FloorTrim_A_1D_1H_B",
+        "uuid": "3b844e2e-157e-437e-8b96-a9b177e80722"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Rich_A_2D_0H_A_Blue_A",
+        "uuid": "3c065ffb-e356-4ca1-a23a-b80d5c427bfc"
+    },
+    {
+        "name": "WALL_City_Cazador_Wall_B_Mid_1D_4H_A",
+        "uuid": "3cdd4cef-2d9f-4de1-b6ba-909d0c2e7ad4"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_Facade_A_2D_2H_A",
+        "uuid": "40d15cdd-9a49-4e6a-a22d-74641f001093"
+    },
+    {
+        "name": "SPL_Foundry_Tube_B",
+        "uuid": "419f6b70-0724-46da-9fad-aee6ace74caf"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_B_Mid_2D_4H_A",
+        "uuid": "423ad505-2cfa-4c7c-a0c2-453722a0c190"
+    },
+    {
+        "name": "WALL_GEN_Trim_Marble_A_1D_A",
+        "uuid": "425f59fd-5158-41ee-ab85-6eaef8037bfb"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_A_0n5D_4H_B",
+        "uuid": "42c47fe5-6727-4415-a2b6-8f5e44296986"
+    },
+    {
+        "name": "SPL_Village_House_A_Base_Stone_1n5D_2H_A",
+        "uuid": "447f7a67-b603-49d6-81dc-c4f96bbe8b57"
+    },
+    {
+        "name": "WALL_HoH_Temple_House_A_Mid_1D_4H_A",
+        "uuid": "4589e3d5-d454-407d-bc0f-ca38b71e06ed"
+    },
+    {
+        "name": "WALL_GEN_Balustrade_Wood_Old_A_0n5D_1n5H_A",
+        "uuid": "4651fa3b-382e-4084-91da-f66733d63ea3"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_B_Mid_2D_4H_B",
+        "uuid": "475eb653-6dc0-46bf-a111-29b5eb30fa8d"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_0n5D_1H_A",
+        "uuid": "47f2e13c-c416-4472-8e5a-4b651c543b32"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_Cazador_0n5D_0H_A",
+        "uuid": "48416730-5c02-4c30-9288-a6d8aac54d22"
+    },
+    {
+        "name": "WALL_GEN_Rails_A_2D_0H_A",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_C_2D_0n5H_A",
+        "uuid": "4d139543-33d0-4c5a-9e84-d1ff9dca75ee"
+    },
+    {
+        "name": "SPL_GEN_Drapes_D",
+        "uuid": "528a8f41-947c-4084-9da2-2a483ed06918"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_A_4D_2n5H_A",
+        "uuid": "528ce43c-b66c-4968-91f1-29bde805f2e0"
+    },
+    {
+        "name": "SPL_Foundry_Cable_A",
+        "uuid": "562ffad3-048f-4fac-954b-c667eb6f448e"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_A_2D_1n5H_A",
+        "uuid": "5688aec8-9191-4bf2-b8a9-b44551808c25"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_A_4D_2H_A_Rich_Red_A",
+        "uuid": "56b79735-9854-48ca-9ba2-4adebad1feea"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Granite_A_3D_8H_A_Obsidian",
+        "uuid": "57107762-5516-4a6f-be65-fabd08c4e1c8"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_StonePath_A",
+        "uuid": "574bcdf8-929e-4714-9108-3e102ec2fb7f"
+    },
+    {
+        "name": "WALL_City_CastleTower_Wall_1D_9H_B",
+        "uuid": "5806d95c-d6b4-495a-aa4a-461bde1f6dc8"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_B_4D_1n5H_A_Rich_Red_A",
+        "uuid": "58616117-9b5e-4789-b252-438b6e84b34b"
+    },
+    {
+        "name": "WALL_City_CeramicTiles_Trim_A_0n5D_0H_A",
+        "uuid": "58c7ddc8-fc5b-40ca-9249-1e5de68c8990"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Balustrade_Iron_B_0n5D_1n5H_A",
+        "uuid": "59b12fb3-5bd3-4eac-a252-b411767faaa0"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Arch_Rich_A_1D_4H_B",
+        "uuid": "59e832f6-987e-4af8-84cf-bbe213ede11f"
+    },
+    {
+        "name": "[PREFAB] WALL_City_Lower_House_Roof_Clay_B_1n5D_0n5H_A_001_0",
+        "uuid": "5ba70ef4-385e-48c0-90c5-0fa04155ecb8"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_3D_B",
+        "uuid": "5cab6f44-092a-41e8-8ddd-3bff2051a469"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_B_Top_2D_4H_A",
+        "uuid": "5d51c645-7b6d-453a-8e1a-d5ad232d74cd"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Balustrade_Wood_A_0n5D_1n5H_A_014_0",
+        "uuid": "5de46851-ddda-464b-bac8-3cdb49d02da6"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_7n5D_B",
+        "uuid": "5f70c895-f5ac-4a7e-9cd0-74c0f7c28210"
+    },
+    {
+        "name": "WALL_GEN_Prison_Grating_Iron_A_0n25D_4H_A",
+        "uuid": "5f8b446b-43ed-41c8-bb4c-31d43e03d908"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Top_2D_4H_B",
+        "uuid": "607141c0-1d36-4fdf-a929-8020f5db3bea"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Pipe_B_0n5D_0n5H_A",
+        "uuid": "610bfa80-073c-4cff-8006-02564f1cee0f"
+    },
+    {
+        "name": "WALL_Dungeon_Abbey_Chimney_B_Table_A_1D_1W_1H",
+        "uuid": "61cd0dd6-f81f-4fff-a373-582e5a263cb1"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Stairs_A_4D_1H_A",
+        "uuid": "621deee9-84a0-497e-acfd-aeeaf3b14bc5"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Balustrade_B_0n5D_1n5H_A",
+        "uuid": "62749cca-9eee-457d-8d41-63163d48996b"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Pipe_A_0n5D_0n5H_A",
+        "uuid": "635f5514-8630-4b71-abc8-354f2e83e08c"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Stairs_A_4D_2n5H_B",
+        "uuid": "6419031d-3479-4667-8159-5398c7f6607d"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Carving_B_0n25D_0n3H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A_012_0",
+        "uuid": "65524976-4f54-42e2-abc3-81b1c65d1bbb"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Arch_A_0n25D_4H_A",
+        "uuid": "662c434e-1c0e-4f0b-aaef-db77341feb10"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Arch_A_0n25D_2H_A",
+        "uuid": "693ff581-4d94-42ac-8dc1-6cce58390308"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_Mosaic_A",
+        "uuid": "6b156be3-3d04-44b0-bfe0-310e5e37b7a8"
+    },
+    {
+        "name": "WALL_City_Bhaal_House_1D_4H_A_Dirty",
+        "uuid": "6c6d77d3-60d5-482c-b8c4-a1a1ea0afeaa"
+    },
+    {
+        "name": "WALL_City_Bhaal_House_1D_4H_A",
+        "uuid": "6cfe68e7-fb4b-4b88-ae84-60420bec436c"
+    },
+    {
+        "name": "WALL_HoH_Temple_Arch_A_1D_4H_B",
+        "uuid": "6d264def-5027-4e1e-8514-48a9e274acf2"
+    },
+    {
+        "name": "WALL_Parliament_Balustrade_Wood_A",
+        "uuid": "6e8b7fd9-8595-4dfc-877a-ebac490d31b2"
+    },
+    {
+        "name": "WALL_City_Bhaal_House_1D_1H_A_Dirty",
+        "uuid": "741c8546-f44c-421a-88c2-92da8fd8e725"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Trim_Iron_A_0n5D_0n5H_A",
+        "uuid": "752a6e95-4906-452e-8dac-a5f584c161f3"
+    },
+    {
+        "name": "SPL_Village_House_A_Base_Stone_1n5D_1H_A",
+        "uuid": "797c67ca-3bb5-45a3-bbf8-b0eed09c36fd"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Arch_C_0n25D_4H_A",
+        "uuid": "7a7faba1-0d66-456b-8d7b-9d1b5d941afa"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_Mosaic_A",
+        "uuid": "7f74b593-1178-4f5c-9c81-9bf67fca905f"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A_002_0",
+        "uuid": "7fd2eb6a-0087-4643-a7e2-8c3dda01361d"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_C_4D_0n5H_A",
+        "uuid": "80b7efe5-d3eb-4d11-a3e4-ec3fb4180649"
+    },
+    {
+        "name": "SPL_Foundry_Tube_A",
+        "uuid": "81ec92df-b291-4bb8-9a00-79cdafe0b8e8"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Top_B_0n5D_2H_A",
+        "uuid": "85f4ca41-5cf5-481b-a705-20817ab77275"
+    },
+    {
+        "name": "WALL_Tavern_Wainscot_Wood_B_1D_1n35H_A",
+        "uuid": "8708ce4e-846b-41d9-a1ef-e2676a4f0eff"
+    },
+    {
+        "name": "SPL_HoH_Engine_Tube_A",
+        "uuid": "882f848b-10c8-4490-9bbe-a84703c74945"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_C_Mosaic_A",
+        "uuid": "8834b5a5-6b9a-4646-bc1a-ce7ee764393b"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_StonePath_A",
+        "uuid": "8cd3d740-bc2e-41e1-8351-d7a9b25433cd"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Arch_B_0n5D_4H_A",
+        "uuid": "8e0556d9-1fda-44d8-97bc-7b0ef361687c"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_D_StonePath_A",
+        "uuid": "8e2e85a9-6985-49ec-bdfa-b5be02dff53a"
+    },
+    {
+        "name": "SPL_GEN_Drapes_B",
+        "uuid": "8e48348b-acbb-448f-b816-349210fd6b5e"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_2D_0H_A_Damaged_A_Red_B",
+        "uuid": "8e6eedc7-0290-4312-bdf1-7dc767b7c591"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Carving_C_0n25D_0n3H_A",
+        "uuid": "8fc7475d-e120-4624-9703-e3ce66aab0ff"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Granite_A_3D_8H_A",
+        "uuid": "907be83e-bad3-4500-85e6-f217f119bb09"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_B_1n5D_0n5H_A",
+        "uuid": "90c7e902-398c-43be-b94d-05c97b473ff2"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_Top_A_2D_2H_A",
+        "uuid": "90e00968-3dbe-4f7f-9c97-9b39967c0b02"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_4D_0H_A_Red_A",
+        "uuid": "91141082-1b92-47d4-b41f-822561240606"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_Facade_A_4D_2H_A",
+        "uuid": "91c0736b-5597-46d7-994f-072ed2f9215c"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Beam_A_0n25D_A",
+        "uuid": "93a3bbf1-d044-4e82-a18c-197ee69e8cb4"
+    },
+    {
+        "name": "SPL_MF_Elder_Brain_Antenna_A",
+        "uuid": "93fdb9f9-9432-444e-9141-88646d8d5339"
+    },
+    {
+        "name": "WALL_City_Bhaal_House_1D_1H_A",
+        "uuid": "95e3ad3d-e060-449c-8d14-bf90fbaed92c"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Open_A_4D_2n5H_A",
+        "uuid": "9648ebe0-7927-4194-9a38-5b3641b1bdd9"
+    },
+    {
+        "name": "WALL_Harbor_House_Base_Vista_A_1D_6H_A",
+        "uuid": "96b40d54-c996-4418-9ce6-5573f4ea3865"
+    },
+    {
+        "name": "WALL_City_Wooden_House_C_0n5D_4H_A",
+        "uuid": "98964114-4764-49f8-9ca9-d81cc946718c"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_Iron_A_0n5D_4H_A",
+        "uuid": "98a175f5-f701-4da0-a636-f26abe153fe5"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_2D_0H_A_Damaged_A_Red_A",
+        "uuid": "999bec67-432b-4dcb-9e5d-0d041a943eb6"
+    },
+    {
+        "name": "WALL_City_Stairs_A_4D_1n5H_A",
+        "uuid": "9ac0a479-ba83-4c45-a5b9-921c4c15f11a"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_2D_0H_A_Red_A",
+        "uuid": "6dd3db4f-e2db-4097-b82e-12f379f94c2e"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Balustrade_Wood_A_0n5D_1n5H_A_013_0",
+        "uuid": "9fd74d21-e74a-4719-b62a-09bd5952d828"
+    },
+    {
+        "name": "SPL_GEN_Drapes_A_Rich_A",
+        "uuid": "a2f0e99e-6043-4bf5-830c-8a1b47aa03da"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_A_2D_4H",
+        "uuid": "a3213653-f6bc-4511-9ea5-09e7814dea6a"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_Rich_A_Mid_A_2D_4H_B",
+        "uuid": "a395f3ad-6661-49b9-a41d-de472ccf3225"
+    },
+    {
+        "name": "WALL_HoH_Trim_Marble_A_0n5D_0H_A",
+        "uuid": "a3b9993d-3592-4896-911c-5f1cf3a5cf45"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_4D_0H_A_Red_B",
+        "uuid": "a4445ac4-2e78-47e9-87db-a67b640e76ff"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_A_4D_0n5H_A",
+        "uuid": "a53a8948-2065-402a-9b04-495d82d0a0e1"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A",
+        "uuid": "a56d60f8-3b2a-4385-ba27-4a7b751b251b"
+    },
+    {
+        "name": "SPL_City_Stairs_B_4D_0n5H_A",
+        "uuid": "a7d248fc-279c-4953-b9a5-abf600fcc4e3"
+    },
+    {
+        "name": "SPL_NAT_Cliff_Granite_A_3D_8H_A_Wet",
+        "uuid": "a9256516-3d66-4713-b7da-393838363d04"
+    },
+    {
+        "name": "OBSOLETE_SPL_FX_Shadow_Curse_B_2D_6H_A",
+        "uuid": "a98acaf5-cca0-4232-bf01-d30089ad55e5"
+    },
+    {
+        "name": "WALL_Harbor_Dock_Wood_Vista_A_4D_4H_A",
+        "uuid": "a9f9de51-e870-4803-904b-ccc973314ee2"
+    },
+    {
+        "name": "[PREFAB] WALL_Harbor_Dock_Wood_A_4D_A_018_0",
+        "uuid": "aa13df0e-0f38-490e-8c2b-2cdecccb684e"
+    },
+    {
+        "name": "SPL_GEN_Drapes_C",
+        "uuid": "aa1a670d-a3b3-4884-909a-64b25628ed0d"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_A_0n5D_4H_A",
+        "uuid": "aa476c78-bc9b-4f41-a3db-59bc77ad862a"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A_005_0",
+        "uuid": "ac5c1331-cbc1-4287-aaaf-d31d9915f729"
+    },
+    {
+        "name": "WALL_GEN_Arch_Decorative_D_0n5D_5H_A",
+        "uuid": "adab9c9e-7f49-4b5e-93cb-5df3b4a99d68"
+    },
+    {
+        "name": "WALL_Ketheric_Rails_A_0n5D_A",
+        "uuid": "add4763d-3d83-4315-8f7a-481aeddad53b"
+    },
+    {
+        "name": "SPL_Foundry_Tube_C",
+        "uuid": "ae614e60-0f34-422d-b5e0-74b22e644d29"
+    },
+    {
+        "name": "WALL_GEN_Pergola_B_2D_5H_A",
+        "uuid": "aea19f3b-3a74-4b33-bb79-9c658077086e"
+    },
+    {
+        "name": "WALL_GEN_Rain_Gutter_Poor_A_0n5D_0n5H_A",
+        "uuid": "af685e7d-4522-4fc0-8b52-f4af8953d9d0"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Arch_B_0n25D_4H_A",
+        "uuid": "b093c843-957b-446d-a6a2-3e968c08bae0"
+    },
+    {
+        "name": "WALL_HoH_Temple_House_A_Bottom_1D_1H_A",
+        "uuid": "b13356e9-b5c4-4cc7-9898-20a41b5d3b8e"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_Wallpaper_A_1D_4H_A",
+        "uuid": "b1a09329-0bb7-4ae6-b088-90733c224c78"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Glass_A_2D_2H_A",
+        "uuid": "b219e96d-2fd6-4d2b-9e29-fa93f8e1f3fb"
+    },
+    {
+        "name": "WALL_Dungeon_Grating_Trim_A",
+        "uuid": "b32c75ee-014a-42e7-9766-a3ee9f2d4d8d"
+    },
+    {
+        "name": "WALL_Dungeon_Absolute_Trim_A_3D_0H_A",
+        "uuid": "b3e457da-6edb-40db-8315-e9227aff804d"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_A_2D_2H",
+        "uuid": "b5f8a3a6-6a71-4ee9-8631-3160391edb07"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_2D_0H_A_Red_B",
+        "uuid": "bafd102d-20a7-42de-9a3a-83f309a9725c"
+    },
+    {
+        "name": "WALL_GEN_Foundry_Conveyor_Belt_A_1n5D_0n5H_1W_S_Piece_A",
+        "uuid": "bc15f85a-3653-4c16-ac38-3ef03c836197"
+    },
+    {
+        "name": "WALL_City_CastleTower_Foundation_Dirty_A_1D_9H_B",
+        "uuid": "bf360484-b42c-42e5-86e7-5b792c143d67"
+    },
+    {
+        "name": "SPL_Foundry_Tube_D",
+        "uuid": "c053e5d7-a76f-420a-9f00-75d020164fc8"
+    },
+    {
+        "name": "WALL_City_Castlewall_Inside_1D_4H_B",
+        "uuid": "c1ed2fb4-b8ff-4d7e-9a44-9877f486bbda"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Arch_A_0n5D_4H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_A_0n5D_2H_A",
+        "uuid": "c3c26a3c-e412-499c-a5c0-bfa405339e6b"
+    },
+    {
+        "name": "SPL_GEN_Drapes_A",
+        "uuid": "c481780f-cd3a-476b-8032-835b769ea393"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_Bridge_Rich_A_Bottom_A_2D_1H_B",
+        "uuid": "c4e4abaa-8464-4b6d-bd2b-a44d60fd4d07"
+    },
+    {
+        "name": "WALL_GEN_Balustrade_Wood_B_0n5D_1n5H_A",
+        "uuid": "c52fc8a8-8020-4301-8b1a-19e54ab3e1c0"
+    },
+    {
+        "name": "WALL_GEN_Carpet_Stairs_A_4D_2n5H_A_Red_B",
+        "uuid": "c5eac213-55ef-44da-9c20-b3f880e945b2"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Shaft_A_1D_1H_A",
+        "uuid": "c753d71e-27e2-4296-ac9c-9cdfb2529fca"
+    },
+    {
+        "name": "WALL_HoH_Temple_House_A_Mid_1D_4H_B",
+        "uuid": "c7ad705c-184e-48b7-b248-2c33a14eb6dd"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Carving_A_0n25D_0n3H_A",
+        "uuid": "c84f5938-6865-4bf1-946a-504aa6bb0f17"
+    },
+    {
+        "name": "WALL_Farm_Fence_WovenBranch_A_1D_2H_A",
+        "uuid": "c8522a88-8d19-4187-83d8-b7124fe78342"
+    },
+    {
+        "name": "WALL_Tavern_Bar_Marble_B_1D_0n85H_A",
+        "uuid": "c9612d74-5e36-462d-a816-868d89362524"
+    },
+    {
+        "name": "WALL_HoH_Temple_House_B_Mid_1D_2H_A",
+        "uuid": "cb5d8112-d89a-44e4-abe6-0360af7ce4f9"
+    },
+    {
+        "name": "WALL_City_Lower_Arches_B_1D_4H_A",
+        "uuid": "cb91df8d-56f0-4eb3-a9f1-143060ef17b8"
+    },
+    {
+        "name": "SPL_City_Road_Gutter_A_0n5D_1H_A",
+        "uuid": "cc0e84c7-4e61-4852-99a0-200610172291"
+    },
+    {
+        "name": "[PREFAB] WALL_GEN_Glasshouse_Balustrade_A_0n5D_1n5H_A_006_0",
+        "uuid": "cdbb293a-74e2-4a93-bfd4-cef34ca5a7fb"
+    },
+    {
+        "name": "WALL_City_Lower_House_Roof_Clay_A_Flat_4D_0n25H_A",
+        "uuid": "d04cd41e-27a0-492c-a345-5c19292a9cdd"
+    },
+    {
+        "name": "WALL_City_Lower_House_A_Wallpaper_B_1D_4H_A",
+        "uuid": "d0dbab25-3168-45af-a327-404b406bdae2"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_Dirty_5D_A",
+        "uuid": "d5b0ab99-893a-4d24-aaf3-f6fa82d17fa6"
+    },
+    {
+        "name": "WALL_Dungeon_Absolute_Trim_B_0n5D_0H_A",
+        "uuid": "cf421f4e-107b-4ae6-86aa-090419c624a5"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_4D_0H_A_Red_Damaged_A",
+        "uuid": "d70e97ec-4067-4c06-acbf-b632cac0a1e4"
+    },
+    {
+        "name": "WALL_HoH_Temple_Balustrade_A_1D_1H_A",
+        "uuid": "d7e2326f-4adc-4145-b145-9711a81e0d3b"
+    },
+    {
+        "name": "OBSOLETE_SPL_FX_Shadow_Curse_A_2D_6H_A",
+        "uuid": "d8180ca3-04bc-49ff-ab2c-02bc6cd855d0"
+    },
+    {
+        "name": "WALL_GEN_Rain_Gutter_Rich_A_0n5D_0n5H_A",
+        "uuid": "d83a2d40-5cb8-4f51-836b-e0162a1f63d1"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Roof_Top_A_3D_2H_A",
+        "uuid": "d9168daf-8cf9-4b4e-a5c0-09b8745ac56b"
+    },
+    {
+        "name": "WALL_Harbor_House_Roof_A_5D_B",
+        "uuid": "d9e06264-12e3-4fa3-b4bd-27f6b76ce88f"
+    },
+    {
+        "name": "[PREFAB] WALL_Camp_Tent_Refugee_A_3D_10H_3W_001_1",
+        "uuid": "dc5b7daf-242c-4080-b131-3a2c5b7dc605"
+    },
+    {
+        "name": "WALL_Harbor_Dock_Wood_B_4D_A",
+        "uuid": "de359c6e-81ac-42f9-a218-b6b62a7ef7c7"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Top_2D_4H_A",
+        "uuid": "df9cc17a-4e50-4900-94bb-18fc4ad4b8aa"
+    },
+    {
+        "name": "WALL_City_Castlewall_Vista_A_4D_12H_A",
+        "uuid": "e11b662b-8261-454e-9007-a928d55f36f6"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Shaft_B_1D_1H_A",
+        "uuid": "e248a857-8d2e-44e9-a100-f97516b2bf66"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Window_A_2D_2H",
+        "uuid": "e2b8b3fe-cf8c-40da-9b71-75a906898e5a"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Fence_Vista_A_0n25D_1H_A",
+        "uuid": "e2f36f06-81b7-4d5a-a876-139cde4bf4f7"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Fence_A_0n25D_1H_A",
+        "uuid": "e2f497c1-f41e-4c40-9e10-310a0a4540e3"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Iron_A_5D_1n5H_A",
+        "uuid": "e3a5e50b-28e7-42aa-89db-99d5ad3d0ca6"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Pipe_B_0n5D_0n5H_A_Shaking_A",
+        "uuid": "e4d05cdf-c955-44e5-ab01-167425fe51b6"
+    },
+    {
+        "name": "WALL_City_Castlewall_Arch_A_2D_6H_A",
+        "uuid": "e6bba7c4-e7dc-4b37-a544-964006da5c8c"
+    },
+    {
+        "name": "WALL_HoH_Temple_Trim_A_0n8D_0H_A",
+        "uuid": "e6f755eb-392a-476a-a3dd-62d31166763d"
+    },
+    {
+        "name": "SPL_MF_Colony_Platform_A_8D_2H_A",
+        "uuid": "e7740276-6270-4a45-9d84-6a4ad0f657bf"
+    },
+    {
+        "name": "WALL_City_Wooden_House_Carving_E_0n25D_0n3H_A",
+        "uuid": "ec379d14-3af0-4acd-b4a3-05165223bd26"
+    },
+    {
+        "name": "SPL_City_Road_Gutter_B_0n5D_1H_A",
+        "uuid": "ecb24acd-e0ec-44c8-8296-f291d2da3105"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_Rich_A_Mid_1D_2H_B",
+        "uuid": "ee2c6c8e-4d19-4d60-b1a2-9676576dd8e0"
+    },
+    {
+        "name": "WALL_HoH_Temple_Bridge_A_Bottom_2D_1H_A",
+        "uuid": "eec1b80c-b208-4bbb-beb2-fdbed8d95c37"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_Iron_A_4D_0n5H_A",
+        "uuid": "f09d6f1d-06d7-446b-aec5-956311192513"
+    },
+    {
+        "name": "WALL_GEN_Fence_Iron_A_0n025D_4H_A",
+        "uuid": "f0a4c4a9-f891-421e-8fad-f70cb204442b"
+    },
+    {
+        "name": "WALL_HoH_Temple_Arch_A_1D_4H_A",
+        "uuid": "f1157d8d-ab3e-434b-a205-ebba5fd81d91"
+    },
+    {
+        "name": "SPL_GEN_Drapes_A_Rich_B",
+        "uuid": "f17dbad0-5d72-4a1f-89f2-4ead641b1f9a"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_A_StonePath_A",
+        "uuid": "f39b3dc0-b0e8-438e-8859-b11a4d1c522e"
+    },
+    {
+        "name": "WALL_City_Wooden_House_B_0n5D_4H_A",
+        "uuid": "f6870187-3487-41f8-be68-17ba4fce622d"
+    },
+    {
+        "name": "WALL_City_Castlewall_Vista_Battlements_A_2D_2H_A",
+        "uuid": "f7a66451-47d6-4f06-a767-705a423b347a"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Floor_A_2D_0n5H_A",
+        "uuid": "f7ade433-7b4c-43be-b7d8-72d9b65e528f"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Mid_B_0n5D_4H_A",
+        "uuid": "f81cebfa-3f8c-4de9-9ed5-7095ccb1c11b"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Trim_A_0n5D_0n5H_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "SPL_Farm_Woven_Fence_1D_2H_A",
+        "uuid": "f992fc80-db97-4bb5-8ca5-877ed7e1e7b2"
+    },
+    {
+        "name": "WALL_GEN_Carpet_A_4D_0H_A_Red_Damaged_B",
+        "uuid": "f9f2047e-e0a0-44c5-8c8a-e7d99dd61dcd"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_D_Mosaic_A",
+        "uuid": "fc763c4e-f1f8-45f3-9ea1-516b1afc0759"
+    },
+    {
+        "name": "WALL_Dungeon_Temple_House_Rich_A_Mid_1D_4H_B",
+        "uuid": "fc81bae3-dd9d-412c-8f45-dec3624f0b64"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Roof_Open_A_5D_1n5H_A",
+        "uuid": "fcd4e898-7c55-4bd2-beca-f7eb561a147e"
+    },
+    {
+        "name": "WALL_GEN_Glasshouse_Arch_B_0n25D_2H_A",
+        "uuid": "fd347b90-e3a6-4e62-9e40-814364d841b1"
+    },
+    {
+        "name": "[PREFAB] WALL_Dungeon_Fence_Iron_A_0n5D_1n5H_A_015_0",
+        "uuid": "fde89cd9-32f5-46f4-9960-acb5b3a1542c"
+    },
+    {
+        "name": "WALL_City_Stairs_Wood_A_4D_1n5H_A",
+        "uuid": "febe956a-ace3-469e-8d1d-9d637c12f263"
+    },
+    {
+        "name": "WALL_Dungeon_SharTemple_Trim_B_Cazador_1n25D_0H_A",
+        "uuid": "fff88f98-7ea7-43c7-90c6-8b593413dcac"
+    }
+]

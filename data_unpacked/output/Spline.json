@@ -1,0 +1,14 @@
+[
+    {
+        "name": "PatrolSpline",
+        "uuid": "bd0fad2c-fb16-443a-89c7-b45b462782c8"
+    },
+    {
+        "name": "CameraSpline",
+        "uuid": "c4032fab-5de2-4689-819e-f37d7ea68633"
+    },
+    {
+        "name": "PlatformSpline",
+        "uuid": "ed0fad2c-fb16-443a-89c7-b55b462782c8"
+    }
+]

@@ -1,0 +1,3282 @@
+[
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_H",
+        "uuid": "0309b2c3-28f7-48a4-829f-e4e16f1d8c5b"
+    },
+    {
+        "name": "NAT_Cave_Stalagmite_Cluster_Vista",
+        "uuid": "04c0f104-df49-4abc-b4c0-384ab3707f87"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fruits_A",
+        "uuid": "05d0d765-897f-4a72-90e2-2e5b9ecfd00b"
+    },
+    {
+        "name": "TEMP_End_EA_cave_side_B",
+        "uuid": "06ac5dad-8158-4367-8eec-52ebad64ef0b"
+    },
+    {
+        "name": "NAT_Tree_Gnarly_E",
+        "uuid": "06d96d7b-27dc-4197-a35f-5773f8a7fe41"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Vegetables_A",
+        "uuid": "08bd3865-caa4-4374-92f9-b87280b7a066"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_2W_Pillar_C",
+        "uuid": "0937017b-4452-44db-ad20-3806f21e4561"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_B_0H_L_Piece_22n5_A",
+        "uuid": "0fa2c166-8ee9-4a7d-be7e-1a19eaa31f86"
+    },
+    {
+        "name": "TEMP_Dungeon_Abbey_PREFAB",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_I",
+        "uuid": "117867ca-8b59-4f19-8cc5-5f75732799e7"
+    },
+    {
+        "name": "NAT_Forest_Tree_I",
+        "uuid": "1240cb91-48b9-4c35-9317-f20fc9cac4b2"
+    },
+    {
+        "name": "TEMO_End_EA_Statue_A",
+        "uuid": "12fdaecf-3022-4122-bf9d-9b6b7b300c45"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_D",
+        "uuid": "15a7eaae-9da2-499d-8cd7-83a7eb3a3ac9"
+    },
+    {
+        "name": "NAT_Tree_Beech_E",
+        "uuid": "71180b76-5752-4a97-b71f-911a69197f58"
+    },
+    {
+        "name": "DEC_GEN_DefensePost_A",
+        "uuid": "1b056f0a-dacd-4123-8446-3a7836881fbe"
+    },
+    {
+        "name": "NAT_Tree_Beech_C",
+        "uuid": "1b0dc61d-debb-46be-acd0-961ccc9f7d86"
+    },
+    {
+        "name": "DEC_HAG_Mask_GlowEyes_Green_A",
+        "uuid": "225a939d-54f9-41a2-8d48-e6b30ca85a02"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_B",
+        "uuid": "22642110-f833-4274-854e-2ca6799fe4d6"
+    },
+    {
+        "name": "PLA_GithChokepointBridge",
+        "uuid": "22ca9e88-1a87-4e18-9deb-ba30ebe9970e"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_G",
+        "uuid": "24982c61-8381-4f8a-a328-633a58524be0"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_D",
+        "uuid": "2602e062-13aa-4a2e-9f46-1ae3316571c5"
+    },
+    {
+        "name": "NAT_Tree_Gnarly_F",
+        "uuid": "292c2e34-0904-4266-b682-bd050cf3a7bb"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_B",
+        "uuid": "2ca8f04d-6ccb-4888-ac51-e4b6a3bcaff3"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Meat_Small_B",
+        "uuid": "2f847f75-931e-42b3-95e0-5dd2d68cc94d"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_N",
+        "uuid": "2fd8b57f-f1a3-49e4-958b-04859688af10"
+    },
+    {
+        "name": "TEMP_End_EA_Ketheric_Statue_Small_A",
+        "uuid": "3647f58b-0e32-4daf-b175-96c503540699"
+    },
+    {
+        "name": "NAT_Swamp_Tree_Gnarly_A_Dead_A",
+        "uuid": "3813ee19-4bd0-4c13-8dd4-fde1f9796c41"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_B_0H_D_Piece_45_A",
+        "uuid": "386ac97c-3bf8-4a35-b166-ceac5907bf54"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_2W_Pillar_B",
+        "uuid": "3b7ecd02-e347-4c0a-814e-e611df6d5582"
+    },
+    {
+        "name": "NAT_Cave_Stalagmite_Cluster_A",
+        "uuid": "3bb53d8d-86ef-418c-be4f-e788d4f010fe"
+    },
+    {
+        "name": "BLD_Goblins_Railing_Wood_A",
+        "uuid": "3c3a4902-125c-45a3-a41b-fe20ebd4a35e"
+    },
+    {
+        "name": "NAT_Tree_Cursed_Big_C",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fish_A",
+        "uuid": "411d2388-bd47-4c86-9836-22608e84a293"
+    },
+    {
+        "name": "NAT_Rock_Roof_Hag_A",
+        "uuid": "431e6361-c625-432f-ab13-64767ff941ba"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Vegetables_small_A",
+        "uuid": "4394ea99-0fec-45cd-b64a-1e758a03748d"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_E",
+        "uuid": "48d745f1-cdc9-44e4-8618-935b69ad40ed"
+    },
+    {
+        "name": "TEMP_End_EA_Shar_Wall_B",
+        "uuid": "4b8d6882-4852-45e2-a72b-7ebbe951f47a"
+    },
+    {
+        "name": "NAT_Tree_Beech_G",
+        "uuid": "4c254c4a-eb30-4950-a8e1-3afea61c8d7a"
+    },
+    {
+        "name": "NAT_Tree_Sweet_Chestnut_Big_B",
+        "uuid": "4cc55c41-3151-4d8c-9cf2-262b8d9cc0c2"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_Wall_Small_A",
+        "uuid": "51bdd945-4ef4-4b94-8657-3d9a85d64884"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_2W_Pillar_A",
+        "uuid": "524c4704-36d5-46ac-9d20-75f2993fb819"
+    },
+    {
+        "name": "NAT_Tree_Cursed_Big_D",
+        "uuid": "554f6ab6-de58-4f38-a62a-eb9b2c90bc85"
+    },
+    {
+        "name": "NAT_Tree_Cursed_RoadSign_A",
+        "uuid": "55c11a2f-bdc7-44bf-ba43-ea8407d77aac"
+    },
+    {
+        "name": "NAT_Forest_Tree_F",
+        "uuid": "56afe247-ca7c-4806-9aba-09cb228690c6"
+    },
+    {
+        "name": "NAT_CIN_Trees_Aspen_stack_A",
+        "uuid": "59187b81-d4d7-4d78-adb8-812b0dee6dbd"
+    },
+    {
+        "name": "DEC_GEN_SpiderWeb_Placement_B",
+        "uuid": "6084de30-cf8c-4eab-afb6-92bc6372ddab"
+    },
+    {
+        "name": "BLD_Dungeon_Marble_Tile_Floor_A",
+        "uuid": "6268d50a-2e66-4a92-b1f7-d7d31fe2f0b9"
+    },
+    {
+        "name": "NAT_Forest_Tree_A",
+        "uuid": "67bc0b12-25a3-4615-955b-8f9b2ccf21df"
+    },
+    {
+        "name": "NAT_Forest_Bush_Big_A",
+        "uuid": "68339051-d426-4733-a7d8-dab04d6dfdca"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_E",
+        "uuid": "68667462-3e11-43a9-80d1-1a6400d65feb"
+    },
+    {
+        "name": "TEMP_End_EA_Ketheric_Trims_A",
+        "uuid": "68881a00-2593-4d40-84a5-cc1ecdba5c93"
+    },
+    {
+        "name": "DEC_GEN_SpiderWeb_Foreground_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "NAT_Tree_Sweet_Chestnut_D",
+        "uuid": "69472453-e595-49f4-bea2-b4389299a85a"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_I",
+        "uuid": "6f65fad0-bf95-48b5-a062-6f2a81005b53"
+    },
+    {
+        "name": "DOOR_Druid_Sliding_Stone_A_Prefab",
+        "uuid": "70aecbe6-739a-43f2-8f3c-70d4b2e0ad70"
+    },
+    {
+        "name": "NAT_Forest_Tree_H",
+        "uuid": "70cfc732-5e5e-4e24-bc4b-61e283de9fa7"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_J",
+        "uuid": "73433142-329c-4c7a-94b6-cc5b99eb2496"
+    },
+    {
+        "name": "TEMP_End_EA_cave side_A",
+        "uuid": "77968be4-db6e-40c0-abeb-a0bf3a0b2276"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Bread_Small_A",
+        "uuid": "79ad69ab-e479-4f71-83e5-63598d2f8c96"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_E",
+        "uuid": "7d0b3470-fad6-4c02-9380-5c3cefd657c7"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_Corridor_S_Piece",
+        "uuid": "7d3016bb-e501-4cfe-a625-64e1f669f98d"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_M",
+        "uuid": "8392ee7f-eb6f-4939-8cc7-463637173d6f"
+    },
+    {
+        "name": "NAT_Forest_Tree_D",
+        "uuid": "83e698da-5149-4599-8d81-d2b37cc4b617"
+    },
+    {
+        "name": "BLD_Goblins_Bridge_Wood_A_001",
+        "uuid": "856aef1d-da55-402d-b342-397433eff8b9"
+    },
+    {
+        "name": "NAT_Swamp_Tree_Gnarly_B_Dead_A",
+        "uuid": "86844f3b-b4cb-4194-94a7-4cc397bba649"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Stalagtite_Cluster_A_Small",
+        "uuid": "86d0aead-9139-4226-9afb-0d98ae08fc0f"
+    },
+    {
+        "name": "NAT_Swamp_Tree_Gnarly_Big_A_Dead_A",
+        "uuid": "8ca03368-d483-4d11-b9ea-d703f751d033"
+    },
+    {
+        "name": "NAT_Tree_Beech_D",
+        "uuid": "925f071e-3bdb-45de-8efb-a1efdf8cdae4"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_0H_Cockpit_45_B",
+        "uuid": "9290a79e-7e5a-44b2-97d1-3aad5d770061"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_A",
+        "uuid": "97b32333-a0a0-4390-800b-13b60d9cc37e"
+    },
+    {
+        "name": "NAT_Cave_Stalagmite_Cluster_A_WET",
+        "uuid": "9972ecb6-e64e-44e3-9397-1b82f1301350"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_G",
+        "uuid": "999ca0a4-4424-4287-95d9-0e12103acde4"
+    },
+    {
+        "name": "TEMP_End_EA_dock_A",
+        "uuid": "99cbad0b-c208-43c9-bce1-86a5e250e793"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bar_D",
+        "uuid": "99f69729-17e1-4716-9dbb-21620c18ea05"
+    },
+    {
+        "name": "TEMP_End_EA_Shar_Wall_C",
+        "uuid": "9c16106e-cf8c-4fba-bab2-6f54ff1930df"
+    },
+    {
+        "name": "NAT_Tree_Sweet_Chestnut_D_Dead",
+        "uuid": "9cc997fb-0488-404c-9216-106fed504c92"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_A",
+        "uuid": "9ecb59bc-d48d-4a0d-bba4-ecf1dbdc9b7f"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Pate_A",
+        "uuid": "9edfc97a-65d9-4b60-9163-7e4d5ea969a6"
+    },
+    {
+        "name": "NAT_Tree_Gnarly_G",
+        "uuid": "9fa0df6f-66fe-4a38-a4db-a5b77c3b12a6"
+    },
+    {
+        "name": "NAT_Tree_Cursed_Big_A",
+        "uuid": "a5e5c7e7-25d7-4f55-be4e-3ceddac54a3c"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_D",
+        "uuid": "aa42ea5b-57e6-4750-a7dd-f5648ece12c7"
+    },
+    {
+        "name": "DEC_GEN_SpiderWeb_Placement_A",
+        "uuid": "ae823b27-757b-451e-a595-77b2eb600452"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_B_0H_L_Piece_45_A",
+        "uuid": "aff1b533-3088-4ec8-b896-ea037924661f"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_L",
+        "uuid": "b21dfbea-4006-405e-91fc-dd36df051d1e"
+    },
+    {
+        "name": "NAT_Tree_Sweet_Chestnut_Big_B_Dead",
+        "uuid": "b2b01b0d-81e3-46d1-946a-7bfef60cf308"
+    },
+    {
+        "name": "NAT_Tree_Cursed_Big_E",
+        "uuid": "b37a0dbd-3cf6-412b-bc07-e7e2b0eeb362"
+    },
+    {
+        "name": "NAT_Forest_Bush_Medium_A",
+        "uuid": "b3d77aa2-8922-47d2-99d3-36fc2a128a46"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_0H_18W_S_Piece_B",
+        "uuid": "b6034678-2b65-4d47-92f0-9150e844dc01"
+    },
+    {
+        "name": "NAT_Forest_Bush_Small_A",
+        "uuid": "b7295424-1082-4e5f-9916-3b1a7801ac4a"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Meat_A",
+        "uuid": "b7aa577c-25ad-49f6-b270-5bbf421183b9"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Baggels_A",
+        "uuid": "bb2c7c0a-5c41-40da-bd3f-e95df1659d6f"
+    },
+    {
+        "name": "TEMP DELETE FAERIE CIRCLE",
+        "uuid": "bf45d020-0555-451c-97b9-178a0e14b693"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Pastries_A",
+        "uuid": "bf854bac-64d2-4318-aa7c-68abc0bc6860"
+    },
+    {
+        "name": "S_MOO_FirstFloor_VaultDisks",
+        "uuid": "c01af1d7-6b69-456e-8da5-47c5989aa247"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_0H_18W_D_Piece_B",
+        "uuid": "c0b1cca7-88e5-4f2a-b9ae-4af1ee497995"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_F",
+        "uuid": "c0dc0041-a82f-40db-8dbd-31dcbaf6bf2e"
+    },
+    {
+        "name": "DEC_Dreamscene_Laezel_Bedroll_Prefab",
+        "uuid": "c24adc76-3e99-4c61-9063-76b3a639f888"
+    },
+    {
+        "name": "NAT_Forest_Tree_C",
+        "uuid": "c47928b2-09ed-41dc-9f05-ea7c81cee49f"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_0H_D_Piece_22n5_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "NAT_Tree_Hag_Big_A_Bottom_A_Split",
+        "uuid": "c78b378a-f9be-440b-a0a5-da86a663e77d"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_A",
+        "uuid": "cace3a77-ee80-4c10-b405-8cc41cecd4ed"
+    },
+    {
+        "name": "TEMP_End_EA_Shar_Archs_A",
+        "uuid": "cbc615c7-a4a6-48da-aa35-9538a57a5e19"
+    },
+    {
+        "name": "NAT_Forest_Tree_B",
+        "uuid": "cd6eaffb-2ba0-42da-a5fd-d4edbc538c63"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_C",
+        "uuid": "cde011b5-b23f-456b-abad-98127d6fcb70"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_C",
+        "uuid": "d1616b55-08b5-40fe-a15e-31fc6bf788a4"
+    },
+    {
+        "name": "NAT_Tree_Beech_F",
+        "uuid": "d2a16292-d9da-42c9-9c1d-797af160b7c1"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_0H_L_Piece_22n5_B",
+        "uuid": "d823aee8-0f10-4229-95ea-570458d2ef9b"
+    },
+    {
+        "name": "WLD_CIN_DreamScene_Forest_A_Rocks",
+        "uuid": "db29b88d-f7b8-488d-bc25-cd48b8cf0191"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_J",
+        "uuid": "dcc09ac6-31e7-4f87-8925-82cf6afb5e45"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fruits_C",
+        "uuid": "ddb6b3c4-92eb-4125-8a7e-a6fe3283ffdd"
+    },
+    {
+        "name": "NAT_Tree_Gnarly_D",
+        "uuid": "de15c620-0327-4f75-b9c2-f8d24e14cb14"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_K",
+        "uuid": "dfd6f184-87ac-4656-b92c-712b3b7cf882"
+    },
+    {
+        "name": "TEMP_End_EA_Boat_A",
+        "uuid": "e043a463-e1bc-4588-9a93-c9f92abaa022"
+    },
+    {
+        "name": "NAT_Rock_Boulder_Pile_Ivy_K",
+        "uuid": "e098223f-3df4-4ba0-97f4-edb0c8e54c2c"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Meat_Small_A",
+        "uuid": "e3b22e5a-ca3e-4e53-86ca-20e4dc0b0c92"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fish_B",
+        "uuid": "e62a8a1c-1e2f-457f-8ce3-145be392ebf3"
+    },
+    {
+        "name": "TOOL_GEN_Arcane_Teleport_Platform_A",
+        "uuid": "e633cfd3-dc9a-4678-9030-517a1a85b154"
+    },
+    {
+        "name": "WALL_MF_Nautiloid_Interior_A_Corridor_E_Piece",
+        "uuid": "e63ee5d8-edfc-4b07-b11b-a0991bce8a67"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fish_Small_A",
+        "uuid": "e87e135c-386b-4291-b7c8-025b7bf3e26b"
+    },
+    {
+        "name": "WLD_CIN_Dreamscene_Forest_A_Prefab_Rocks_A",
+        "uuid": "e9f32d91-6732-47bd-952e-857db98f4065"
+    },
+    {
+        "name": "TEMP_End_EA_Shar_Wall_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_H",
+        "uuid": "ed19c304-327b-4d0c-b7af-8e931c6c473c"
+    },
+    {
+        "name": "Tempo_Machinery_Test",
+        "uuid": "ed28a55a-fdb0-46b1-8093-809dfd685845"
+    },
+    {
+        "name": "NAT_Tree_Cursed_Big_B",
+        "uuid": "f0757b3d-bfc1-4500-a29c-ecf66f7545a3"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_12H_3W_Pillar_Round_A",
+        "uuid": "f15af828-5599-4544-81fe-efc293c8a23f"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Banquet_Plate_Fruits_B",
+        "uuid": "f166df8a-b3eb-46b9-9f02-26755df29176"
+    },
+    {
+        "name": "NAT_Forest_Tree_E",
+        "uuid": "f49a1e47-a854-4b12-9596-620e00d11d47"
+    },
+    {
+        "name": "BLD_GEN_Kitchen_Oven_A",
+        "uuid": "f606238a-3322-4a1a-9e69-d64347ce96c4"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_F",
+        "uuid": "f6e8acb1-f731-44b1-aa8a-bfdb1fc645ac"
+    },
+    {
+        "name": "BLD_Harbor_House_WindowsShutter_Prefab_C",
+        "uuid": "f92d0933-bcdf-43b4-b555-3b9540ec0706"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_C",
+        "uuid": "fb7784fb-33d1-4a29-a4d6-351a5a842998"
+    },
+    {
+        "name": "NAT_Forest_Tree_G",
+        "uuid": "fc5d342c-f600-4ad7-80d3-154a872b64c6"
+    },
+    {
+        "name": "DEC_MF_Machine_Horror_A_LAB",
+        "uuid": "fcd8b94b-904f-433c-bdc6-11895fd07b7f"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_2W_Pillar_D",
+        "uuid": "fdadcf28-a1b9-4858-9129-c642607b1183"
+    },
+    {
+        "name": "BLD_Harbor_Stairs_4D_2H_A_Prefab",
+        "uuid": "0175d8d1-83d8-4fb9-b8f1-e2c07a34927c"
+    },
+    {
+        "name": "DEC_GEN_Plate_Fruit_A",
+        "uuid": "03a39d85-6006-4ac8-b52b-482e3fbbda4b"
+    },
+    {
+        "name": "Prefab_Sewer_ChannelCrossing_A",
+        "uuid": "041b1943-8a4f-4d99-a961-a220ed316e56"
+    },
+    {
+        "name": "NAT_Cursed_Arch_Paving_A",
+        "uuid": "0462ada0-58ff-41f2-9380-1ba343376720"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_MediumGroup_B",
+        "uuid": "04c063eb-16bd-48e0-8772-e0e030da1d43"
+    },
+    {
+        "name": "DEC_GEN_Tent_C",
+        "uuid": "05b34cda-c2c6-4224-a05f-4d1907cfde8f"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_MediumGroup_B",
+        "uuid": "0b5e6ca9-a05d-4a7b-b2e2-66ccc404a08e"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_C_STATIC_DONOTUSE",
+        "uuid": "0f503f3b-9805-4482-8316-7c48e577d412"
+    },
+    {
+        "name": "Prefab_Limestone_Passage",
+        "uuid": "0fefdd5e-3f01-47ca-95fc-a75d23a5ec74"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_B_STATIC_DONOTUSE",
+        "uuid": "13da0101-3ba9-4a12-9044-5cb2b155d086"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Logs_B",
+        "uuid": "144aa964-b4d9-4a72-ab00-744065b39a82"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_D_Cazador",
+        "uuid": "15357176-374b-423b-8aea-36603f7cbb38"
+    },
+    {
+        "name": "Prefab_Granite_Holes",
+        "uuid": "157f9f35-1257-4334-8cac-60040e51ad9b"
+    },
+    {
+        "name": "DEC_GEN_Tent_D",
+        "uuid": "17f872bd-23e2-488c-a706-bc959f3fd882"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_B_Beam_A_Combined",
+        "uuid": "17fc055b-501e-4682-8f1a-cdd2b28508f3"
+    },
+    {
+        "name": "BDL_GEN_HighHall_Rempart_Broken_A",
+        "uuid": "18ddd280-90ac-4d41-9eb0-ddb7db018b6d"
+    },
+    {
+        "name": "NAT_Cursed_Arch_Wall_A1",
+        "uuid": "1965697d-c452-4fcc-a632-b97dd4eb6931"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_MediumGroup_A",
+        "uuid": "1d75637f-2471-41ce-9a83-bfbf53854a46"
+    },
+    {
+        "name": "Prefab_Sewer_AbbeyBrokenWallGrating_A",
+        "uuid": "1e3f7eaf-5bf0-4b80-8a68-3f710f05f4da"
+    },
+    {
+        "name": "Pregab_TempRefOnly_WaypointKit",
+        "uuid": "1ead2630-7bdb-4a97-af5c-c69f6972588f"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_A_STATIC_DONOTUSE",
+        "uuid": "210ce046-2e98-4296-aff5-12c5f0e74b35"
+    },
+    {
+        "name": "Prefab_Granite_Hole_01",
+        "uuid": "218e52bd-af77-40f6-9069-29af594bc5a4"
+    },
+    {
+        "name": "Prefab_Manhole_A",
+        "uuid": "21b62b70-03dc-498c-867d-d1ee139a1ac8"
+    },
+    {
+        "name": "DEC_GEN_Ladder_Lighting",
+        "uuid": "2495ea9b-c452-4dcb-b18f-cb34b0866b2c"
+    },
+    {
+        "name": "FUR_GEN_Bedroom_Rich_A",
+        "uuid": "2570e8e9-7655-4191-8f86-fb2ca1122432"
+    },
+    {
+        "name": "Prefab_Sewer_Grille_A",
+        "uuid": "25a832db-341a-4280-99ec-9adf7d8f4ecf"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_B_A_Combined",
+        "uuid": "293f029d-1722-4679-89ac-6146a88fdac4"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_fruit_A_STATIC_DONOTUSE",
+        "uuid": "2af577f7-fc24-4856-9859-eeb911792d10"
+    },
+    {
+        "name": "Prefab_Sewer_WalkableGrille_A",
+        "uuid": "2d5c6bc5-1818-4001-bfb5-54da69244e38"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Combined",
+        "uuid": "310cf85e-b85c-4bca-9570-83a57c668eab"
+    },
+    {
+        "name": "BLD_Bhaal_Temple_Pillar_Carved_Prefab_A",
+        "uuid": "339ee1d8-62a3-4faa-9664-fecfda4631ac"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_SmallGroup_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_City_Cazador_Pillar_A",
+        "uuid": "3669a6db-2a1d-44b5-85bd-04a899ffca0b"
+    },
+    {
+        "name": "NAT_Cursed_Arch_C",
+        "uuid": "37304b07-101b-4602-996b-9fe223769719"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Combined",
+        "uuid": "379ce82e-b9dc-4dc8-a4cb-560751c35ffe"
+    },
+    {
+        "name": "Prefab_ElevatorMockup_1",
+        "uuid": "37db800f-d88b-43cc-9455-68abb6a1161f"
+    },
+    {
+        "name": "DEC_Gortashoffice_A_Prefab",
+        "uuid": "3f8796ef-31a8-47c4-b9eb-c07b631f9f96"
+    },
+    {
+        "name": "FUR_Parliament_Wall_Single_A",
+        "uuid": "3fb88853-a91c-4882-a5b1-f08da3c60e9f"
+    },
+    {
+        "name": "Prefab_CItyDoorFramed",
+        "uuid": "402310d5-450b-4916-83de-bcf8ba4c78eb"
+    },
+    {
+        "name": "END_CIN_RuleMarketstall_C",
+        "uuid": "413ebdee-a60a-43c6-bc07-7fa57fd094d3"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Combined",
+        "uuid": "489d12a6-d1de-44aa-ae0d-51ef6018899c"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Fruits_Plate_A",
+        "uuid": "4924655e-84fa-4053-9eb5-ed84f6f61971"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_B_Beam_B_Combined",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DEC_Masonry_Blocks_Prefab_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_vegetables_A_STATIC_DONOTUSE",
+        "uuid": "4d386263-8105-4cf0-94e9-b676b538dad5"
+    },
+    {
+        "name": "LTS_MF_Brain_Bulb_A_Prefab",
+        "uuid": "4e407089-1270-4aea-8fc7-e78746b2f01c"
+    },
+    {
+        "name": "BLD_GEN_Pergola_B",
+        "uuid": "506b59b7-a87a-45ac-a242-359e058d4b98"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_SmallGroup_A",
+        "uuid": "5334f45b-e36f-4b81-bad0-80c269c6999f"
+    },
+    {
+        "name": "Prefab_Sewer_StackedPillar_B",
+        "uuid": "56258720-e3cf-4f7e-8db1-e92dda7adcd2"
+    },
+    {
+        "name": "BLD_GEN_Pergola_A",
+        "uuid": "56b09352-8933-4466-b56e-64164baa7b0d"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Combined",
+        "uuid": "5efdd463-af97-40c5-9f1f-27b2f5a4debc"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_C",
+        "uuid": "60936b91-3034-49a8-a015-e959ffa250a7"
+    },
+    {
+        "name": "Prefab_SpiralStairUp_Doorway",
+        "uuid": "62758651-d5eb-4262-af9b-81b39e61851e"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Combined",
+        "uuid": "6410f422-86d2-4963-9428-22a4012b19d9"
+    },
+    {
+        "name": "DEC_GEN_Printshop_Poster_Bench_Boudoir_A",
+        "uuid": "67484fd7-1eb9-464a-b911-106e71c7f5d0"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_fruit_B_STATIC_DONOTUSE",
+        "uuid": "688d8bff-bdd4-4ac8-b1ba-314cd8798c47"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_Beam_A_Combined",
+        "uuid": "6a1ef688-01a6-49fc-a542-6fd5b0565b18"
+    },
+    {
+        "name": "Tempo_Ivies",
+        "uuid": "6ad370a2-6dbb-478e-aa54-ae853e0c0376"
+    },
+    {
+        "name": "Tempo_Fireworks",
+        "uuid": "6d61dc84-b474-4e14-ac5d-3c5ac262b40c"
+    },
+    {
+        "name": "DEC_Circus_Animal_Cage_Prefab_D",
+        "uuid": "6f706711-a64f-4bb2-8e0d-dbc899f0170d"
+    },
+    {
+        "name": "Prefab_Sewer_RowOfPillars_A",
+        "uuid": "6fc14a38-7b3b-4036-a830-207afbc35983"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Combined",
+        "uuid": "6ff4aaee-e29f-4cb4-9b45-e342f52cf0b4"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_B_L_90_A_Prefab",
+        "uuid": "71991917-9441-4dad-8b1b-772f8b037225"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_BigGroup_A",
+        "uuid": "7228e91b-57d7-4b52-9373-0fa1710b84c7"
+    },
+    {
+        "name": "DEC_GEN_Vase_Pile_A",
+        "uuid": "738f7219-2eff-4fb8-966c-6e84b1eeb4ce"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Combined",
+        "uuid": "7685652d-dcd4-48c6-b04e-bbd1d77f6531"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_pastries_A_STATIC_DONOTUSE",
+        "uuid": "78c762fd-c5b0-4b1f-a93a-f5a7b17ed6a7"
+    },
+    {
+        "name": "Prefab_Sewer_Culvert_A",
+        "uuid": "7a9acd0a-2d27-4a1b-af8d-823f6aa7df18"
+    },
+    {
+        "name": "DEC_GEN_House_Ruined_A",
+        "uuid": "7c1bc6b9-a54f-4133-8db9-109581d05a89"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_MediumGroup_C",
+        "uuid": "7c3af037-5764-4b7e-a060-6d3c35cd420a"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Bricks_A",
+        "uuid": "7c887566-4120-406c-a058-86c4c8e7e774"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_MediumGroup_E",
+        "uuid": "7e108e51-3b57-49f9-a153-a01c2a65acaa"
+    },
+    {
+        "name": "NAT_Cursed_Big_Arch_A1",
+        "uuid": "7f9f840c-91b3-4e7f-819b-0fde2c76b9fd"
+    },
+    {
+        "name": "Prefab_CursedRootTangle1",
+        "uuid": "8075cb0b-1842-4496-9a3f-5f342a82ed08"
+    },
+    {
+        "name": "NAT_Cursed_Root_Ivy_A",
+        "uuid": "83077437-a0f7-4819-a648-b157e3d6654e"
+    },
+    {
+        "name": "Prefab_MorgueEntryRamp_Mockup",
+        "uuid": "83ca8986-c939-425f-9641-51bfe5c34682"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_E_A",
+        "uuid": "83d5a0cf-4980-4145-be0a-74a05d8d8a26"
+    },
+    {
+        "name": "Prefab_Sewer_OutletWall_A",
+        "uuid": "84014957-cfdf-42c1-b310-324b8fdb121b"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Beams_A",
+        "uuid": "84a81e21-885c-4487-b153-7d831fccbbe1"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_MediumGroup_D",
+        "uuid": "892c61ec-ec60-4a9c-b088-1ac06bc82bc4"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Combined",
+        "uuid": "8c7a3e43-9d64-4a78-8258-9e0242f09b3c"
+    },
+    {
+        "name": "Prefab_Sewer_Webs_01",
+        "uuid": "8d1aaf11-4cb7-40fe-8e7e-f5ee7fb26299"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_B_Beam_C_Combined",
+        "uuid": "8fc5d19f-d556-4c3f-a37b-b337755261c6"
+    },
+    {
+        "name": "S_COL_Door",
+        "uuid": "915ab746-faf7-479c-9f93-b48ace281853"
+    },
+    {
+        "name": "CINE_CONS_FOOD_plate_meat_A_STATIC_DONOTUSE",
+        "uuid": "9246689b-db74-4dbb-a851-62f1f589e1ec"
+    },
+    {
+        "name": "CINE_CONS_FOOD_board_savory_B_STATIC_DONOTUSE",
+        "uuid": "92dec805-a8db-405c-a024-65fc8abac0d9"
+    },
+    {
+        "name": "BLD_Harbor_Stairs_6D_3H_A_Prefab",
+        "uuid": "966357bf-6ce7-46bd-94f4-99f0831161d8"
+    },
+    {
+        "name": "Prefab_Sewer_GougeLedge_A",
+        "uuid": "9966fb4b-db87-40b1-9319-6dd2e7623548"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_A_Combined",
+        "uuid": "9e81d66e-f3d8-4d53-ba1a-23b22b1d8167"
+    },
+    {
+        "name": "NAT_Cursed_House_A",
+        "uuid": "9ecf9029-2090-44f7-8a04-4f89a362bc16"
+    },
+    {
+        "name": "PREFAB_ElfsongBalconyDecor_1",
+        "uuid": "9f593f47-daff-48b9-963a-829929ee4f07"
+    },
+    {
+        "name": "Vista_Prefab_END_HighHall_A",
+        "uuid": "9f612645-2171-49b1-b6ff-e452e776c2d5"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_Beam_B_Combined",
+        "uuid": "a007690e-196e-40e2-a0f6-7d2f4c44f613"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_D",
+        "uuid": "a0f9107d-1286-4621-bac9-6721a88a47be"
+    },
+    {
+        "name": "NAT_Cursed_Arches_Stairs_A",
+        "uuid": "a1bebee0-c483-4397-b008-914e53cb3a54"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_E_B",
+        "uuid": "a94bb989-8efd-4106-ab0c-c959974bb6e1"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_B_Combined",
+        "uuid": "a9bfecd0-a0e5-4be2-9ca4-fcf4333c5655"
+    },
+    {
+        "name": "Prefab_Sewer_VaultedWallDoor_A",
+        "uuid": "aaaf0a70-096e-4b89-b384-9f7e61f66874"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_MediumGroup_C",
+        "uuid": "ab414c8e-0b47-4c5b-8293-908d955afac1"
+    },
+    {
+        "name": "Prefab_Sewer_MultipleSteps_A",
+        "uuid": "ac583247-feee-4ea8-b382-dee27b081e16"
+    },
+    {
+        "name": "NAT_Cursed_Big_Arch_A",
+        "uuid": "ad9ef097-3de7-4de2-a955-33a96a4e8e45"
+    },
+    {
+        "name": "Prefab_Limestone_CavernMouth",
+        "uuid": "ae5dfefe-3ada-48ee-8cbd-ff1608b7f2b1"
+    },
+    {
+        "name": "UC_Guildhall_FishingNetSpot",
+        "uuid": "ae5efc23-9c22-421e-baa0-0b7fce91c027"
+    },
+    {
+        "name": "DEC_GEN_City_House_A",
+        "uuid": "ae5f20b5-f2af-4e84-ab14-3c5b3d57f7c8"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_MediumGroup_E",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_A_Prefab",
+        "uuid": "be425ea9-e035-41f0-9786-0e78e017bb91"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_A",
+        "uuid": "befa53e9-9dab-4f56-a30d-58955176ad1f"
+    },
+    {
+        "name": "DEC_GEN_Junk_Sack_A",
+        "uuid": "c1d54d46-d57b-49fe-97e8-73427cbff792"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_BigGroup_A",
+        "uuid": "c3a7478e-ab25-45e8-8db7-73b97b63e3ca"
+    },
+    {
+        "name": "DEC_Necromancer_Lab_MultiClickableAssets_A",
+        "uuid": "c78d8b10-a312-4d24-a2d9-571201049e82"
+    },
+    {
+        "name": "Prefab_ElevatorColumCazador",
+        "uuid": "c7e11ae5-857a-4b0a-9db5-e8088b47a0d4"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Logs_A",
+        "uuid": "c91385f7-7375-4003-86e5-40de3fefb360"
+    },
+    {
+        "name": "Prefab_WyrmRockCornerRubble",
+        "uuid": "cc3443b2-deba-4afc-ae32-a05ce4db7aeb"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_B_Combined",
+        "uuid": "cd520ab7-ec80-4f4c-8c42-f4e2c8701f7a"
+    },
+    {
+        "name": "Prefab_Sewer_WreckedBoat_A",
+        "uuid": "d2669bde-b117-43df-afa3-545fe64409fb"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Tree_MediumGroup_A",
+        "uuid": "d49ac82d-6809-4ccd-9bfd-a3e40f429b76"
+    },
+    {
+        "name": "CINE_CONS_FOOD_board_savory_A_STATIC_DONOTUSE",
+        "uuid": "d6deb9b3-ab60-4188-a5e5-b278064d4a21"
+    },
+    {
+        "name": "BLD_City_Castlewall_Pillar_B",
+        "uuid": "dcc8736d-4671-447c-9efd-ef88565f72ad"
+    },
+    {
+        "name": "NAT_Cursed_Arch_Swirl_A",
+        "uuid": "dd0177af-8b27-4bf6-a7a7-5bc5fb52cdcd"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_Beam_C_Combined",
+        "uuid": "e22936ab-d537-4ea0-aaee-d648a6ac0b96"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Bricks_B",
+        "uuid": "e7312486-7a8c-4013-ad23-7e86f6168a4f"
+    },
+    {
+        "name": "DEC_GEN_Printshop_poster_MeetingCorner_A",
+        "uuid": "e9e8f597-a3de-4dc7-a5e2-87380d06fece"
+    },
+    {
+        "name": "NAT_Cursed_Arch_B",
+        "uuid": "ea49eab2-7931-4d9c-8634-7b8dbcd84705"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Combined",
+        "uuid": "ea5922ca-3009-4ada-8f57-9e026802ac71"
+    },
+    {
+        "name": "DEC_Necromancer_Lab_MultiClickableAssets_B",
+        "uuid": "ee185bef-7830-43b2-a3c8-74274787cb16"
+    },
+    {
+        "name": "DOOR_MF_Nautiloid_Organic_A_Prefab",
+        "uuid": "f04e722c-75a8-49d5-92f9-6eff08823e58"
+    },
+    {
+        "name": "DEC_GEN_City_Construction_Pallet_A_Beams_B",
+        "uuid": "f3bcefdd-e631-42e8-b15b-7ccb1f8d4792"
+    },
+    {
+        "name": "END_CIN_RuleMarketstall_B",
+        "uuid": "f8574563-df91-4507-8c44-9de7afbc6193"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_MediumGroup_D",
+        "uuid": "f8b58e22-a385-4b93-893a-bb2a81d1ce33"
+    },
+    {
+        "name": "Prefab_Sewer_StackedPillar_A",
+        "uuid": "f98b2c59-e831-4f4c-bc1a-6a515d1b15db"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Combined",
+        "uuid": "faaf491d-27cd-416e-822e-b6999e267826"
+    },
+    {
+        "name": "END_CIN_Rulemarketstall_A",
+        "uuid": "fc46e89c-543e-4a28-b005-1472fc7ebf37"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Shelf_A",
+        "uuid": "fdec8d16-0517-4f99-8de3-05c1a6d833b2"
+    },
+    {
+        "name": "NAT_Cliff_Cave_A",
+        "uuid": "015de041-5fdd-4881-85a0-75686d5bb49a"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_F_Gold_Prefab",
+        "uuid": "03557b60-e158-40ba-9b7d-78684eadc9f8"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Tent_B",
+        "uuid": "04082ffe-721c-4c14-a6c9-ccc24a89cedf"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_Cliff_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DEC_GEN_City_HayWheelbarrow_Small_A",
+        "uuid": "04d1a022-7116-4f19-87b2-bb203ea525f7"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_Ivy_M",
+        "uuid": "04ee874b-d7e8-4b32-85af-f949d301c0c9"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_FirePlace_Deco_C",
+        "uuid": "0502c9bb-c02c-4e02-9696-13a1f9cf7fcd"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_M",
+        "uuid": "058981e7-a46c-4698-bd0d-4f99ef9940b2"
+    },
+    {
+        "name": "NAT_Cave_Entrance_B",
+        "uuid": "062dd3bc-8997-4f68-9f7e-57356376c726"
+    },
+    {
+        "name": "NAT_Cliff_Big_Rock_Tree_Bush_A",
+        "uuid": "0632a621-ed75-41ca-9674-68a9dd1d55d6"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_D_Gold_Prefab",
+        "uuid": "07dd0481-64d4-4a68-b816-ec12a0fde8b6"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_G_Prefab",
+        "uuid": "0827b732-22a5-4e01-8004-e36e135ca845"
+    },
+    {
+        "name": "NAT_Cave_Wall_C",
+        "uuid": "08757913-0a59-4d94-9712-1ddbcfc21107"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_I",
+        "uuid": "09134ae3-0f78-4b18-93fb-bd40b1b7cca2"
+    },
+    {
+        "name": "DEC_GEN_Dog_Cage_Prefab_C",
+        "uuid": "09341090-4ef4-4c5e-88be-d1f19afe2194"
+    },
+    {
+        "name": "DEC_GEN_City_Trellis_Flowers_B",
+        "uuid": "0a34e44a-ace8-43cb-a177-7d9829ad6df7"
+    },
+    {
+        "name": "DEC_GEN_City_ForSale_Flowers_A",
+        "uuid": "0b30ed81-fc28-4596-835e-f8e1b8b34c8a"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_A",
+        "uuid": "0b32f092-eae8-43c8-abee-0667c6149c0b"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bar_B",
+        "uuid": "0c7aacc5-b20b-46c4-a7d9-8bd27ab8cf76"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Workshop_A",
+        "uuid": "0eaa602c-a3ba-495a-86b7-18848b8ffc31"
+    },
+    {
+        "name": "NAT_Rock_Bush_C",
+        "uuid": "0f3229a3-b62c-4278-b3b5-cfe673513d0b"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Bottles_Rack_A",
+        "uuid": "0fc1d0ff-8993-40a8-9f13-56d451e7328f"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_B_003",
+        "uuid": "108ee02d-69a1-41b7-bcbc-0e16cc4a001d"
+    },
+    {
+        "name": "DEC_GTY_Eggs_Single_Egg_A",
+        "uuid": "10e6cc3b-8055-4530-97ba-162f8ad7f4c3"
+    },
+    {
+        "name": "Test_Primitives_Validation_Lighting",
+        "uuid": "118e3d18-d501-43f3-b5c0-9af29edee390"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_G_Prefab",
+        "uuid": "12e48420-a05c-47c5-b070-4b9d8efb09a8"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_C",
+        "uuid": "13926e70-3b8a-43b0-adb7-ed104dd546c1"
+    },
+    {
+        "name": "FUR_GEN_Desk_Cabinet_A",
+        "uuid": "13cea08b-0eab-4a36-b9b7-c7f72aced62d"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_A_Gold_Purple_Prefab",
+        "uuid": "13d10e58-83c0-4492-a922-26e7c7063070"
+    },
+    {
+        "name": "DEC_City_Workshop_C",
+        "uuid": "1428b3ed-3977-4b0f-98fc-20e6c8581f47"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_A",
+        "uuid": "144f95cd-4dca-4f19-8368-f641d2e31864"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bar_A",
+        "uuid": "15c9ca99-564e-4f52-8f8a-89933384ee0e"
+    },
+    {
+        "name": "FUR_GEN_Table_Big_A",
+        "uuid": "163bc890-fadd-42ea-9f9c-083a802c8bba"
+    },
+    {
+        "name": "DEC_GEN_DEfenseCamp_A",
+        "uuid": "167af430-2075-4c70-95df-1669e9153cef"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Study_C",
+        "uuid": "169e5c1f-311c-4acb-a9cf-649f5af6ad01"
+    },
+    {
+        "name": "NAT_Cave_Wall_E",
+        "uuid": "17df0fd2-e6e8-4a84-b165-2d287a90aa6e"
+    },
+    {
+        "name": "DEC_GEN_City_Table_Flower_A",
+        "uuid": "18e2a1db-65f4-45e5-8170-e74d4fb447ed"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_C_Prefab",
+        "uuid": "1ac91de4-5c2b-48a0-931c-ee2a3aa6a5bc"
+    },
+    {
+        "name": "DEC_GEN_Merchandises_C",
+        "uuid": "1b441aa0-b54c-42ac-a6ed-7528caf3e740"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Fruit_A",
+        "uuid": "1ba071a1-72de-4d14-87bd-5d3dfd56aa75"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_F_Prefab",
+        "uuid": "1c89a46c-b75d-4f10-992e-868608549014"
+    },
+    {
+        "name": "NAT_Forest_Rock_Tree_Small_A",
+        "uuid": "1d970a96-1ab3-4a68-91f2-79926ef726c6"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_C_Gold_Purple_Prefab",
+        "uuid": "1e24fbf5-3bfc-4d64-b42a-d393625960be"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_Wall_Small_A2",
+        "uuid": "1f1740cf-8edf-4539-8116-98c69a67cd66"
+    },
+    {
+        "name": "NAT_Cave_Entrance_C",
+        "uuid": "1f37fde7-e3cd-4c0c-b652-1c39fd08dfca"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Bush_360_Medium_A",
+        "uuid": "200233ee-a5bd-4d97-83bc-5a67057b1d0b"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_E",
+        "uuid": "20a7a5f1-0b95-4c52-8b89-e0a85b26f046"
+    },
+    {
+        "name": "DEC_GEN_Underdark_Crates",
+        "uuid": "2143b079-0b2f-47eb-8ca2-8c0bbfab7e09"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Bottom_Big_A",
+        "uuid": "215621a3-ad9e-4e46-ac88-79d4ec2dc195"
+    },
+    {
+        "name": "FUR_Dungeon_SharTemple_Bookcase_B_Parchment_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_GEN_Bridge_Wood_A_Destroyed_A",
+        "uuid": "22085dbd-fa10-4f97-b915-f2f165a8adf3"
+    },
+    {
+        "name": "NAT_Cliff_Cave_C",
+        "uuid": "222b3ec9-0491-4d21-99bf-a13873fe716a"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Bread_Big_A",
+        "uuid": "2287413d-6cd2-4ea2-a24e-29ad4148e302"
+    },
+    {
+        "name": "DEC_GEN_Deco_A",
+        "uuid": "22c58c8b-5de4-4568-b446-ded19ac24ba1"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Hallway_A",
+        "uuid": "22e84970-7cbc-4db5-886a-d606abc8315b"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Layered_SmallGroup_A",
+        "uuid": "2311a557-b75b-4ac1-9ca4-ee9b99bdcac0"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Tree_360_Big_C",
+        "uuid": "2372d440-f106-44bd-a84d-f05199fbe628"
+    },
+    {
+        "name": "DEC_GEN_Wagon_flowers_A",
+        "uuid": "24e4c1a1-9a3c-43cc-9099-07ad5cfc152f"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Bottom_Medium_A",
+        "uuid": "25334a68-750e-4ac8-8407-5a3c61169da3"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Study_A",
+        "uuid": "2533b53f-1604-4293-aed8-6069d0743a77"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Buffet_A",
+        "uuid": "25d62420-8b66-4e46-9280-fe8396701915"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Pantry_A",
+        "uuid": "25e22a06-1408-412e-b8da-203a61757e1c"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_Wall_Small_Arch_Stairs_A",
+        "uuid": "2699aebd-89c6-4481-93f1-131bfcbf1858"
+    },
+    {
+        "name": "DEC_GEN_Junk_Vases_Clutter_A",
+        "uuid": "27653c4b-2555-4ea4-959d-178b1189770e"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Fireplace_C",
+        "uuid": "289d8dc5-3064-4164-af8e-2fde316cc58a"
+    },
+    {
+        "name": "DEC_GEN_City_Wagon_Paintings_A",
+        "uuid": "28a9da88-f9e0-4d1b-ae40-7382d215aea1"
+    },
+    {
+        "name": "DEC_GEN_DefenseStage_A",
+        "uuid": "291e188a-903d-43c6-a194-7143a5897fe2"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_A_Large",
+        "uuid": "297aad52-665e-456f-bb6f-9fd71cbb3a13"
+    },
+    {
+        "name": "BLD_GEN_Platform_Floor_Wood_B_Support_Pillar_B",
+        "uuid": "29c9b0bd-1c1a-448c-adaf-86419b71896e"
+    },
+    {
+        "name": "NAT_Cave_Entrance_A",
+        "uuid": "2a935692-48cb-480a-aff4-5f9a45d28568"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_B_Gold_Purple_Prefab",
+        "uuid": "2ab87dd5-a203-4b80-b3d9-53816aa42593"
+    },
+    {
+        "name": "DEC_GEN_Dungeon_FirePlace_A",
+        "uuid": "2b344a65-2932-4acb-ada1-797c574c90dd"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Shop_C",
+        "uuid": "2cdd3b12-9bd8-4dc9-ba4a-59d1dd913bc9"
+    },
+    {
+        "name": "NAT_Cliff_Cave_Ledge_B",
+        "uuid": "2de4b19d-8a8b-40c0-b668-f5402b67dd2d"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Bottom_Small_A",
+        "uuid": "2e473295-37be-424f-b0bd-c2f53efbf396"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_H",
+        "uuid": "2f8bc008-d442-4401-8c6a-d7bf63b996fc"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_A",
+        "uuid": "2fcdda7b-5d38-4801-9c40-fe6162400383"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_C_Gold_Purple_Prefab",
+        "uuid": "2fd79365-75a3-476c-9f8d-025efc4a96fe"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_6W2D_A_TableCloth_Red_A_001",
+        "uuid": "314069da-0aaa-4308-abee-6fbd4497ef56"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Bottles_A",
+        "uuid": "322f34e4-24c3-46af-82ef-e4309e62e559"
+    },
+    {
+        "name": "NAT_Roots_Pillar_HagLair_A",
+        "uuid": "32b1626f-cfe9-4265-95c9-cbc9fdb7fc3d"
+    },
+    {
+        "name": "FUR_Dungeon_SharTemple_Bookcase_B_Parchment_A",
+        "uuid": "32be203f-07f4-48dd-84d1-a185f612f51a"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Fireplace_B",
+        "uuid": "32cf5258-c3e6-48ad-9119-f5f1ca518a6a"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_C_Prefab",
+        "uuid": "34d613be-7b66-442a-aa39-32da47263907"
+    },
+    {
+        "name": "NAT_Cliff_Big_Rock_Tree_Bush_D",
+        "uuid": "34ef92d2-cbec-458b-bd12-fcd8217b3abe"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_D_Gold_Purple_Prefab",
+        "uuid": "35db90fe-224c-40fb-9766-96d329cfde51"
+    },
+    {
+        "name": "DEC_GEN_City_Ivy_D",
+        "uuid": "3642a77d-e5aa-46d0-9890-f19ca753efaf"
+    },
+    {
+        "name": "DEC_GEN_City_Junk_Small_B",
+        "uuid": "36e7a6a6-79a0-43d5-a2e1-916748a8636a"
+    },
+    {
+        "name": "DEC_GEN_Merchandises_A",
+        "uuid": "3802251e-4bcd-455e-a711-deb2a3b12134"
+    },
+    {
+        "name": "NAT_Coastal_Seastack_Big_D",
+        "uuid": "399024bc-7211-4c8b-91f9-79bdab92da30"
+    },
+    {
+        "name": "CINE_DONOTUSE_CONS_FOOD_Fruit_Plate_A",
+        "uuid": "3a0beba1-b762-4a45-9b97-6b1c5ddc3c92"
+    },
+    {
+        "name": "BLD_GEN_Pillar_Ornamented_Wood_D_Prefab",
+        "uuid": "3a8968e2-82c1-4bcb-8709-cd006129f478"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Bread_Big_B",
+        "uuid": "3b93287c-3aa0-43d1-87d6-b716e582d02a"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_6W2D_A_TableCloth_Grey_A_001",
+        "uuid": "3ba98105-c1fb-4e98-b24c-eae99209c24f"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_J",
+        "uuid": "3c5a42fc-be63-4cc6-b350-66ddcccfc766"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_A",
+        "uuid": "3c6b0b34-1aed-49c6-8a33-45b95d0c2684"
+    },
+    {
+        "name": "BLD_Dungeon_SharTemple_Pillar_A_Prefab_D",
+        "uuid": "3d7800af-d842-41b8-8815-682755b2ab88"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_FancyPots_A",
+        "uuid": "3d8ad364-98e1-4956-b3c1-9fcb4d483bdc"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_6W1D_A_TableCloth_Grey_A_001",
+        "uuid": "3e12a601-28ba-47ee-8fc8-a84532038b96"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Ivy_Bottom_Small_A",
+        "uuid": "3e77ce41-6ae4-4079-8a91-44b542398c66"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Deco_A",
+        "uuid": "4005666b-d712-42a1-acc0-db91364028ce"
+    },
+    {
+        "name": "DEC_GEN_Bathroom_Rich_A",
+        "uuid": "40b83844-368a-46fa-95fc-e9b5dcb2bd74"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_E_Prefab",
+        "uuid": "4125c131-c844-49e8-adb3-d9da24dfa35c"
+    },
+    {
+        "name": "NAT_Tree_Beech_Thin_A",
+        "uuid": "41f1b075-b359-4579-9ae1-65954e8de6ca"
+    },
+    {
+        "name": "NAT_Cave_Stalactite_Cluster_B",
+        "uuid": "42483fb7-45dd-4bbf-aad0-bb395e1e961a"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Boulder_Tree_Ivy_Top_Small_A",
+        "uuid": "42a3ba01-079a-4a78-bede-8d896bff42e8"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_B_Large",
+        "uuid": "42c82b83-6748-4d26-af33-667b6acfbb1f"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Pots_C",
+        "uuid": "42fcc8aa-e9b4-4020-a70b-e9948f2353db"
+    },
+    {
+        "name": "NAT_Roots_Platform_HagLair_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DEC_GEN_Junk_G",
+        "uuid": "43d8af2f-4f9f-4aa8-adb3-71853c8375ea"
+    },
+    {
+        "name": "DEC_GEN_Furniture_Covered_A",
+        "uuid": "43e3398e-3e0a-4de0-a9f9-d94ba1541ca6"
+    },
+    {
+        "name": "DEC_GEN_City_Common_Dining_A",
+        "uuid": "464724c5-2dd6-475e-8192-327d2db9a7b7"
+    },
+    {
+        "name": "DEC_GEN_City_ForSale_Pots_A",
+        "uuid": "475840e5-70aa-4d0a-9f9d-8cef9327c487"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Platform_Piece_Small_A",
+        "uuid": "47685480-d31b-4ba3-a433-42ed2e99731d"
+    },
+    {
+        "name": "NAT_Coastal_Cliff_Sandstone_A_Seastack_A",
+        "uuid": "47a07493-3d2f-465d-b2e8-6cf0364198c0"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Hallway_D",
+        "uuid": "481bbda1-a7ff-4ee9-96ee-3ea77b1f950f"
+    },
+    {
+        "name": "CAM_InvisibleSlider_3x3_Trapezoid_Corner_X4_A",
+        "uuid": "4bc9e5cf-7469-48da-b0c1-e72009271e21"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_BathRoom_A",
+        "uuid": "4c115736-83ed-4cc9-9aee-01d77d3c45f0"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Kitchen_A",
+        "uuid": "4c564912-4486-41aa-bb2f-019ce8752656"
+    },
+    {
+        "name": "NAT_Cliff_Cave_Ledge_B",
+        "uuid": "4ce5b470-a2c0-4d9d-bbb5-3f00bf91dc41"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_BedRoom_B",
+        "uuid": "4cf52aaf-0127-488e-83a5-038c2a2a91f3"
+    },
+    {
+        "name": "DEC_City_Workshop_B",
+        "uuid": "4d6e1695-1eb6-4c76-86ab-2afb62f7eac0"
+    },
+    {
+        "name": "FUR_Dungeon_SharTemple_Bookcase_A_Parchment_B",
+        "uuid": "4e5e8b3c-0e1e-4a74-998f-bfbbf33beb53"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_A_Moss",
+        "uuid": "4f404608-d086-47fe-bd59-b3449b2955da"
+    },
+    {
+        "name": "DEC_GTY_Eggs_Incubator_Full_A",
+        "uuid": "4fc4e392-13f0-4507-8e1e-e53ff4f127e6"
+    },
+    {
+        "name": "NAT_Rock_Bush_A",
+        "uuid": "500c9c0b-4225-469b-97a5-74800fc6bffa"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bar_C",
+        "uuid": "50811f45-5649-45da-88fd-50d093b8bfb2"
+    },
+    {
+        "name": "BLD_GEN_Crane_Elevator_D",
+        "uuid": "50fafd73-1456-40b1-a030-31a75d90112f"
+    },
+    {
+        "name": "NAT_Cave_Stalactite_Cluster_D",
+        "uuid": "512754b5-f8d1-412e-94c3-f34754876f1b"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Fruit_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_C_Prefab",
+        "uuid": "52302f24-cc87-478d-87a8-7d8b3dc217fd"
+    },
+    {
+        "name": "NAT_Cave_Corridor_Slope_A",
+        "uuid": "5364f338-869e-41e6-a662-c42bf298b166"
+    },
+    {
+        "name": "BLD_GEN_Pillar_Ornamented_Wood_B_Prefab",
+        "uuid": "544269ad-0755-4cff-bd22-a22f2f887a3c"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_F_Gold_Purple_Prefab",
+        "uuid": "545a6487-8085-49a9-8e40-a6f8d12527ec"
+    },
+    {
+        "name": "NAT_Cliff_Big_Rock_Tree_Bush_B",
+        "uuid": "54c0c27c-9f04-4c5f-9092-82dd354bc620"
+    },
+    {
+        "name": "DEC_GEN_City_Crates_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DEC_GEN_City_Trellis_Flowers_C",
+        "uuid": "54f01f7d-e460-4750-858f-a6f64f7dadde"
+    },
+    {
+        "name": "NAT_Cave_Corridor_Slope_C",
+        "uuid": "59566b3f-01df-4945-8e69-01e5d80dab54"
+    },
+    {
+        "name": "DEC_GEN_City_Common_Hallway_A",
+        "uuid": "598e5026-c5fc-461d-b0dc-80984523c1ba"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Tent_A",
+        "uuid": "5a43e5c8-5993-41fe-a893-07212914503b"
+    },
+    {
+        "name": "NAT_Coastal_Sandstone_Wood_Walkway",
+        "uuid": "5afd62cb-5432-4040-aeb2-ad2a56f8da99"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Hallway_C",
+        "uuid": "5b4b7ad0-839c-4498-bd5d-81f20016d59e"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_B_002",
+        "uuid": "5c63ec28-09fe-4630-907d-7696b4bf84a0"
+    },
+    {
+        "name": "CAM_InvisibleSlider_4x4_Trapezoid_Corner_X5U_A",
+        "uuid": "5ce76bf4-cce8-4c1a-a20d-6ed167525392"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Ivy_Top_Medium_A",
+        "uuid": "5d2dfecf-cb74-4a32-a692-e8c308b3fad9"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_B_Moss",
+        "uuid": "5e50a041-c849-457b-bea3-97ed67b5fbff"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Bush_360_Big_A",
+        "uuid": "602bce4b-d26c-4251-9186-66762dce9798"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Ivy_Bottom_Medium_A",
+        "uuid": "6048a1fa-304b-4d95-a038-6aad50279e78"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Pots_A",
+        "uuid": "6094eec7-d2e0-4427-aebd-ef822717f770"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bistro_C",
+        "uuid": "60d7ea2f-18f7-400e-840a-717e187d6e5a"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_Cliff_C",
+        "uuid": "62be6303-2cdf-46f1-b74a-f58fce97e733"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_C",
+        "uuid": "63e2708a-5d2a-4be4-bf69-1ac7515e30b4"
+    },
+    {
+        "name": "NAT_Cliff_Cave_Ledge_C",
+        "uuid": "64dde7a3-d802-4ffa-8a3b-18b42ff66d6d"
+    },
+    {
+        "name": "NAT_Cave_Wall_B",
+        "uuid": "65e7ff79-bd04-4fe1-a0c6-635bab1ff92e"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Wall_Ivy_A",
+        "uuid": "663be9f9-3125-4431-9083-ed7ee97f6deb"
+    },
+    {
+        "name": "FUR_Bathroom_Bathtub_Curtain_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_Harbor_House_WindowsShutter_Prefab_D",
+        "uuid": "67b9975a-86a4-450c-a3b4-539dce686e2f"
+    },
+    {
+        "name": "NAT_Cliff_Limestone_Layered_Arch_A",
+        "uuid": "684754d8-15e2-487d-a710-2ed379aa03c9"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_B",
+        "uuid": "69752046-b82a-4cb1-9a95-589d4b8a479c"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Shop_B",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_A_Gold_Prefab",
+        "uuid": "6a4ceb66-23df-4d5f-b8dd-cc23ba9a440a"
+    },
+    {
+        "name": "NAT_Cave_Corridor_B",
+        "uuid": "6a61e1be-5ebe-4460-be03-469f29f642d3"
+    },
+    {
+        "name": "Tempo_CampStuff_A",
+        "uuid": "6a8ccea6-3909-4b73-bcd5-333c5bd5147f"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_B",
+        "uuid": "6adb154d-4982-4d1f-a2c0-79cfbee995d5"
+    },
+    {
+        "name": "BLD_Dungeon_SharTemple_Pillar_A_Prefab_C",
+        "uuid": "6af3ea5c-a1e0-4512-abfe-f3a03f565104"
+    },
+    {
+        "name": "Tempo_Path_A",
+        "uuid": "6b4d3585-d341-4986-a63f-f07227a4db57"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Tree_360_Medium_A",
+        "uuid": "6b9015be-738f-47af-a7f2-c498c7bb8be0"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_G",
+        "uuid": "6bb0c8c9-a22a-4ffc-8735-6cfbabc2ee06"
+    },
+    {
+        "name": "DEC_GEN_Vase_Ceramic_Broken_B",
+        "uuid": "6bb6d74d-942f-4d0e-95a3-b3a2ec4d3959"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Bottles_Rack_B",
+        "uuid": "6cae0a1f-6e54-4b86-b515-838c280385a8"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Junk_Crate_Hay_A",
+        "uuid": "6d0adc3a-f269-4621-b5b5-78d4f7c34e75"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Flowers_A",
+        "uuid": "6e28f3d4-714d-457f-9748-b2b4728bb958"
+    },
+    {
+        "name": "DEC_GEN_City_Trellis_Flowers_A",
+        "uuid": "6fc76c10-d811-47dd-87bc-46b367609c90"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Deco_B",
+        "uuid": "70c890df-ef19-4f29-8f52-7beee39a9709"
+    },
+    {
+        "name": "DEC_GEN_City_ForSale_Flowers_Small_A",
+        "uuid": "71a0030c-3c52-482c-b71a-3ddae4ebe90f"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Alcove_A",
+        "uuid": "72351ddd-e77d-4e75-ae4e-105389a42c3d"
+    },
+    {
+        "name": "NAT_Cave_Wall_A",
+        "uuid": "7246513c-ce0a-454c-9614-6fa1cf96d199"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_B_Gold_Prefab",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_B",
+        "uuid": "72b19227-e9be-4719-b011-24fa6a36702b"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_L",
+        "uuid": "72c10924-1e64-47ec-a3a2-8672fdc450ff"
+    },
+    {
+        "name": "FUR_GEN_Bookcase_Common_Books_Scrolls_B",
+        "uuid": "7321f060-ef5e-4291-abdb-89265ab752c5"
+    },
+    {
+        "name": "TOOL_GTY_Portal_B_Complete_A",
+        "uuid": "73496b17-afc6-49fb-84f5-28f9052f518d"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_bush_Ivy_360_Big_A",
+        "uuid": "73619903-aadb-423b-a629-6e9d5916e1f8"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bistro_A",
+        "uuid": "745f8230-6556-4fb7-a4db-b3b1e33d2d54"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_D",
+        "uuid": "75a99291-a919-4ff4-8615-a76a73c42062"
+    },
+    {
+        "name": "BLD_Druid_Wall_Circle_A",
+        "uuid": "77046c88-2338-465f-82a5-57b08e1d7196"
+    },
+    {
+        "name": "NAT_Cliff_Big_Rock_Tree_Bush_C",
+        "uuid": "7716e81e-4929-425e-9407-b31172e3632b"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_3W1D_A_TableCloth_Grey_A_001",
+        "uuid": "775a3b72-a6f8-46c5-87fc-48c6eacdad67"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Ivy_Big_A",
+        "uuid": "78bb7ff0-1a31-42c9-9636-17c8d4ddfeb9"
+    },
+    {
+        "name": "DEC_GEN_Shar_Deco_A",
+        "uuid": "791ed2a2-23e7-4d2b-a36d-ca2b9aa162a6"
+    },
+    {
+        "name": "BLD_GEN_Platform_Floor_Wood_B_Support_Pillar_A",
+        "uuid": "79e3ad83-a93e-474f-8ef8-9d44b22d2401"
+    },
+    {
+        "name": "NAT_Coastal_Seastack_Big_C",
+        "uuid": "7a160732-3cf0-46f6-8596-d6a36469d190"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_A_Prefab",
+        "uuid": "7a9d5ec2-8478-4fc7-a74e-4a0014975ed9"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_C",
+        "uuid": "7ae37e69-d719-4f3d-a856-2c6ff0d78181"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_B_Gold_Prefab",
+        "uuid": "7aed3c07-a5f9-4a9e-a5e5-207662e5e042"
+    },
+    {
+        "name": "FUR_GEN_Shelves_Bottles_A",
+        "uuid": "7b199d5b-b25f-41cf-8f23-02d8339c1da4"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A_Stacked_A",
+        "uuid": "7c166ecb-5a6f-4722-9fe3-31a8c014d819"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Study_D",
+        "uuid": "7c32fc32-aca7-4a86-b401-359de16bac7e"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_D",
+        "uuid": "7c8b3b6f-416b-4a85-9454-60a27448440a"
+    },
+    {
+        "name": "GLO_Waypoint_Light_A",
+        "uuid": "7ccdc85a-5886-4f89-bbe0-9d3ee12feb34"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_E",
+        "uuid": "7d474875-f6db-44e3-a5ec-75c7404d0add"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Hallway_B",
+        "uuid": "7dad919a-81a5-4d7f-a69d-eb880e2fe5fc"
+    },
+    {
+        "name": "NAT_Forest_RockPile_Bush_Fern_360_Small_A",
+        "uuid": "7e61ce91-611f-4b24-aabe-2fd27ac3e89d"
+    },
+    {
+        "name": "NAT_Coastal_Seastack_Big_B",
+        "uuid": "7e8ddda5-ed06-438a-8b10-fc88610c1c84"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_Border_B",
+        "uuid": "7f4d3e6f-c421-4455-81ee-afc5d589fc43"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_Cluster_B",
+        "uuid": "818d6485-9020-4790-bc39-22ff02e89429"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Buffet_B",
+        "uuid": "81e617cc-cc39-4274-b859-99755f17ed63"
+    },
+    {
+        "name": "Dungeon_Abbey_Arch_Ivy_A",
+        "uuid": "83cc7a2c-65ad-4d6a-ac3e-217c57e70128"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Hallway_A",
+        "uuid": "842635a0-9431-4532-9edd-1c3c3fb8e61c"
+    },
+    {
+        "name": "NAT_Forest_Cliff_GreyBoulder_Ivy_Bottom_Medium_A",
+        "uuid": "84979ee9-3b05-4792-8665-e13210b784a7"
+    },
+    {
+        "name": "NAT_Forest_TrunkBridge_Ivy_A",
+        "uuid": "856ec66a-ee45-4e21-9809-3a494f12c6dd"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_G_Gold_Prefab",
+        "uuid": "86035f6e-31cd-46fc-8bd0-c8730f2195fc"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_Cluster_A",
+        "uuid": "86aeac74-06e5-4756-a336-eee59880cde6"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Misc_A",
+        "uuid": "87254e89-069d-4bf9-af4b-400be356a0e8"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_A_Gold_Purple_Prefab",
+        "uuid": "88a569b9-6c9b-40e9-84d8-6b0013804875"
+    },
+    {
+        "name": "DEC_City_Workshop_D",
+        "uuid": "89629756-9b4e-431d-b859-dbf14399509d"
+    },
+    {
+        "name": "NAT_Rock_Granite_Platform_Big_A",
+        "uuid": "8a0d369c-f60d-4330-9476-095bb750cd90"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_D",
+        "uuid": "8bdca5fc-7f5b-46df-8c9d-91d405f08df0"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Ivy_Big_B",
+        "uuid": "8e842b93-0973-4e65-9052-42c25e901b3f"
+    },
+    {
+        "name": "NAT_Coastal_Seastack_Big_A",
+        "uuid": "8fa6cbc7-6c52-4d5a-a7f7-6a10bf82422f"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_E_Gold_Prefab",
+        "uuid": "908ce59c-f64c-4f73-98dc-89a8f2afecb8"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_ThreeArches_Stairs_A",
+        "uuid": "9435e8d6-24c9-4c76-868c-8952784259f5"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_B",
+        "uuid": "94549a60-2d59-4c45-a3bd-59e7eeda7d22"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Top_Small_A",
+        "uuid": "94f6466a-bb46-4fb7-ba0a-6e20b72d04d0"
+    },
+    {
+        "name": "NAT_Coastal_Cliff_Sandstone_A_Seastack_B",
+        "uuid": "951919c0-e882-4cda-b0ad-2cd2b7bb0a7c"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_BedRoom_A",
+        "uuid": "95622c84-f161-4913-834d-0e1c6d7b51aa"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_A_003",
+        "uuid": "961269f6-c493-4bc8-b96d-e62aa96a6e71"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Deco_D",
+        "uuid": "966eeb46-7240-4e1a-b1a1-199e760f1627"
+    },
+    {
+        "name": "DEC_UNI_Goblins_Camp_Totem_BloodAltar_A",
+        "uuid": "966fdac3-83d1-45ca-97bd-5cc58084abd2"
+    },
+    {
+        "name": "DEC_GEN_City_Common_Study_B",
+        "uuid": "967ef299-c766-4e5e-a64f-2fa17ab1038b"
+    },
+    {
+        "name": "NAT_Cliff_Rock_Tree_B",
+        "uuid": "969735a0-f504-49c3-b3df-adea1c188d63"
+    },
+    {
+        "name": "DEC_GEN_City_Common_Study_A",
+        "uuid": "96bb44af-0d39-410c-b2cb-89a259287d86"
+    },
+    {
+        "name": "CAM_InvisibleSlider_3x3_Trapezoid_Corner_X3L_A",
+        "uuid": "97301066-b4c7-46a1-922b-ce6b55a9e93e"
+    },
+    {
+        "name": "NAT_Roots_Edge_HagLair_C",
+        "uuid": "97383d71-0b0f-4e4e-9d8c-4e1c49408876"
+    },
+    {
+        "name": "CAM_InvisibleCollider_HalfMoon_A",
+        "uuid": "97b3e18f-370d-4faf-a6b8-67e29716a423"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_Ivy_H",
+        "uuid": "9a613837-6eb8-45af-a331-7dc0473d196c"
+    },
+    {
+        "name": "NAT_Cliff_Cave_B",
+        "uuid": "9ac77f20-8c02-485e-8c35-ddb29c28abdc"
+    },
+    {
+        "name": "NAT_Cave_Stalactite_Cluster_C",
+        "uuid": "9b2be732-9008-448d-9b6a-b703ea1477af"
+    },
+    {
+        "name": "NAT_Tree_Pine_Bush_A",
+        "uuid": "9bcc0223-eb66-4fc9-aae6-c76d838bfb7c"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Bush_360_Small",
+        "uuid": "9c667613-b617-4c60-85cc-6167e712adf3"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_K",
+        "uuid": "9cb6f831-1b51-44fc-9183-ad781f6bc28b"
+    },
+    {
+        "name": "DEC_GEN_City_Arch_Plants_A",
+        "uuid": "9d5215c5-f43a-4bfc-8ccd-7cee48a522c0"
+    },
+    {
+        "name": "DEC_GEN_City_Ivy_A",
+        "uuid": "9ee10550-6ae0-4bc5-bcaa-fdf00a5b0a90"
+    },
+    {
+        "name": "DEC_GEN_Dog_Cage_Prefab_B",
+        "uuid": "9f400ad7-5e2b-44ee-b942-4aee14bb679d"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_C_Gold_Prefab",
+        "uuid": "9f46dd32-05c7-4251-b9fe-b385c6a80152"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_Wall_A",
+        "uuid": "a1a1f9cb-f06f-421f-a5d2-495dc258e893"
+    },
+    {
+        "name": "DEC_GEN_City_Ivy_B",
+        "uuid": "a1ca4491-9f2e-4cb0-bda0-a4a19f7573cb"
+    },
+    {
+        "name": "DEC_GEN_Lighting_Ceiling_A",
+        "uuid": "a251a187-c424-40a0-ab33-e29ec91633f9"
+    },
+    {
+        "name": "Elise_Tempo_Tree",
+        "uuid": "a35de7e6-8e63-44fc-802d-498a8beaf37d"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Table_A",
+        "uuid": "a42f79e0-6b7d-4c76-b5ae-48a9c34b0f42"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_A_Gold_Prefab",
+        "uuid": "a4c113f4-3a7e-422f-b0ab-3848f122edec"
+    },
+    {
+        "name": "NAT_Cave_Corridor_A",
+        "uuid": "a526c635-f63a-4501-810c-743366f51ad9"
+    },
+    {
+        "name": "BLD_GEN_Pillar_Ornamented_Wood_A_Prefab",
+        "uuid": "a56fad53-e8bf-4742-9ca4-34256e11f5de"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_1W_Pillar_A",
+        "uuid": "a7432a60-9509-4d9d-9c14-2dc58739dfb8"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Pots_B",
+        "uuid": "a76a6577-03c6-4070-ba0c-b632a2ba3e3d"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_G",
+        "uuid": "a906d6f5-33d7-44b2-8965-14ba1d91ec86"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_6W1D_A_TableCloth_Red_A_001",
+        "uuid": "a918476b-d71d-4bb9-81c5-24e62beba84f"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_A_002",
+        "uuid": "aa8fcc4c-9c5a-4607-8fe0-41447cb71dbb"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_H_Prefab",
+        "uuid": "aafc7778-8b50-4882-a95b-ff4f897de834"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Ivy_Medium_A",
+        "uuid": "abfc6d0a-52ba-4122-b5c3-9d38ebbf4ec0"
+    },
+    {
+        "name": "BLD_GEN_Platform_Floor_Wood_B_Support_Pillar_C",
+        "uuid": "acb2965c-3ec3-42a0-aed8-83e106ef31cb"
+    },
+    {
+        "name": "NAT_Coastal_Cliff_Sandstone_Tall_A",
+        "uuid": "adb0f266-73c3-4aed-a29c-298619ab26b2"
+    },
+    {
+        "name": "FUR_Dungeon_Abbey_Altar_Stone_Shar_C",
+        "uuid": "ae166566-8dc1-4858-a0b9-bcea6ad31f12"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_E",
+        "uuid": "ae185b1e-fe6c-4255-9d6e-1fa05d2bb33b"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_B_001",
+        "uuid": "ae4d95b3-252b-43ed-a157-420737477376"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_B_Prefab",
+        "uuid": "ae90034d-1446-4eaa-98bb-a48e4702a755"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_D",
+        "uuid": "af0e3ec8-0cef-4f0e-8c23-cccedcdbcf4d"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_ArchStructure_A2",
+        "uuid": "af7406f7-fc75-4df9-ba0f-95045d1f5a7f"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_D_Prefab",
+        "uuid": "af9cf7b5-c5f5-44d2-bb35-090339e87a6c"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Pot_Basket_A",
+        "uuid": "afd23e30-5b39-4155-9533-21d825eee096"
+    },
+    {
+        "name": "NAT_Cave_Stalactite_Cluster_A",
+        "uuid": "b066bd8d-a286-4c24-a254-f38f0442963f"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Dining_A",
+        "uuid": "b0dac6b2-50f9-44f4-a424-f58592c0770f"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Table_3W1D_A_TableCloth_Red_A_001",
+        "uuid": "b12db532-b553-4106-ac8f-c46634a71154"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Workshop_B",
+        "uuid": "b1387012-83ce-4523-bf9b-44f07328b105"
+    },
+    {
+        "name": "NAT_Tree_Beech_B",
+        "uuid": "b1cd75a9-77f0-435b-96fb-c5648f488662"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Study_B",
+        "uuid": "b1e1198a-0737-4236-aba5-b06ef86a1b47"
+    },
+    {
+        "name": "GLO_Waypoint_Dark_A",
+        "uuid": "b2e07073-312e-43a7-b92f-6192fa740d9f"
+    },
+    {
+        "name": "DEC_Dungeon_SharTemple_Obelisk_A_Prefab_A",
+        "uuid": "b5294af9-9d9b-40e3-b4e2-04dc2721bf2f"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_B_Prefab",
+        "uuid": "b5a7d346-1819-4df8-a2bd-34f0cedda9f6"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_E_Gold_Purple_Prefab",
+        "uuid": "b5ed302c-971e-4a1c-bae1-d95c16db2070"
+    },
+    {
+        "name": "DEC_GEN_Desk_Bookcase_Rich_A",
+        "uuid": "b666a820-5c0b-42cb-bff5-f2e6a8defbcd"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_B",
+        "uuid": "b68634b2-6e1c-43da-ab1d-03a845aa3d73"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Fireplace_A",
+        "uuid": "b8bb9931-455f-41e8-9404-fa1c7f2beb3f"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_A_Prefab",
+        "uuid": "b8c88f1c-3fe7-4f57-9d7e-a84145d70619"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Tree_Top_Medium_A",
+        "uuid": "b9a0b16b-656f-4a4c-8207-1c526bf5fd6b"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Junk_F",
+        "uuid": "b9b6e364-cd3b-457d-9737-d11ddbfc3cf0"
+    },
+    {
+        "name": "FUR_Dungeon_SharTemple_Bookcase_A_Parchment_A",
+        "uuid": "ba53172a-702e-4a57-8a70-440383e37960"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Drinks_A",
+        "uuid": "bac5feb0-128e-456e-aa7a-6c16b53c61e1"
+    },
+    {
+        "name": "NAT_Cave_Corridor_Slope_B",
+        "uuid": "baf467a5-4af3-4c09-a7f6-8a6ef0b8706c"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_Cliff_A",
+        "uuid": "bb252887-2e59-45e9-bcc2-edbf9ab72882"
+    },
+    {
+        "name": "NAT_Rock_Bush_D",
+        "uuid": "bbf3c8d6-fc56-4503-b13d-06f46d75b5ef"
+    },
+    {
+        "name": "DEC_GEN_City_Wagon_Junk_A",
+        "uuid": "bd419d16-5670-4bd4-b80b-e69e2343d60e"
+    },
+    {
+        "name": "FUR_GEN_Bookcase_Common_A_1D_3H_6W_Books_A",
+        "uuid": "be265b4e-731e-4111-8510-43d759308c0d"
+    },
+    {
+        "name": "NAT_Rock_Bush_B",
+        "uuid": "be60a0cc-9a18-4a04-af79-a00d398bb5ab"
+    },
+    {
+        "name": "DEC_GEN_Merchandises_D",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_A_8H_1W_Pillar_B",
+        "uuid": "c1040276-cbda-49d5-a160-f55d6803cd27"
+    },
+    {
+        "name": "BLD_Dungeon_Temple_Alcove_A",
+        "uuid": "c197479f-613c-4434-a9d0-b0468a041ad2"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Shelf_Chest_A",
+        "uuid": "c2448a55-bc95-4daa-996a-08cecebfe23b"
+    },
+    {
+        "name": "DEC_GEN_DefenseWall_A",
+        "uuid": "c25be1a9-ca2b-4a93-920c-e8796db049d0"
+    },
+    {
+        "name": "DEC_GEN_City_Resto_Bistro_B",
+        "uuid": "c31de5ef-e60c-487e-aa32-984289b4f818"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_BedRoom_A",
+        "uuid": "c34802e9-5f16-4dd8-843b-4672973a4d47"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A_Stacked_B",
+        "uuid": "c3d4726a-dedf-45b2-b98c-02796e6570bf"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Shop_A",
+        "uuid": "c4b98c88-e96d-4120-999f-2513d1d70d42"
+    },
+    {
+        "name": "FUR_GEN_Bed_Single_Canopy_Rich_Complete_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "NAT_Cliff_Cave_Ledge_D",
+        "uuid": "c73a3af2-6631-44a0-a2b1-fbc0209e8cbb"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Bottom_Medium_C",
+        "uuid": "c821a636-b7be-4e8a-a00b-691535372e55"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Tree_360_Big_A",
+        "uuid": "c9888713-760d-463b-896d-a490f69bd8f3"
+    },
+    {
+        "name": "NAT_Tree_Pine_Bush_B",
+        "uuid": "c9af6876-b4de-4a03-b85e-d65bc08808f3"
+    },
+    {
+        "name": "NAT_Roots_Pillar_HagLair_B",
+        "uuid": "cae90815-a3f1-407e-9ab7-981261190cd2"
+    },
+    {
+        "name": "DEC_GEN_City_Wagon_Milk_A",
+        "uuid": "caef3579-745b-419b-a03e-f17700a90bd1"
+    },
+    {
+        "name": "BLD_GEN_Pillar_Ornamented_Wood_C_Prefab",
+        "uuid": "cb348961-463d-45aa-8a4b-3efc7130e6ec"
+    },
+    {
+        "name": "BLD_Harbor_House_WindowsShutter_Prefab_A",
+        "uuid": "cb413397-2287-46f1-aac2-0412ea5f93c3"
+    },
+    {
+        "name": "BLD_Ship_Darklake_Raft_Boat_A_Prefab",
+        "uuid": "cbb1d970-9133-417c-ab5f-3b2e203bfde0"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Bottles_B",
+        "uuid": "ccd03021-35c1-4731-8c89-c4041ec28654"
+    },
+    {
+        "name": "NAT_Forest_BoulderRock_Tree_360_Big_B",
+        "uuid": "cd56933e-8551-40e4-a42f-be1059ef3011"
+    },
+    {
+        "name": "DEC_City_Workshop_A",
+        "uuid": "cd7a9068-03fe-40ae-9c11-90620ac39065"
+    },
+    {
+        "name": "DEC_GEN_City_Junk_Small_A",
+        "uuid": "ce87e09b-f0f0-4744-baa7-44540e464405"
+    },
+    {
+        "name": "NAT_Coastal_Cliff_Sandstone_Entrance_A",
+        "uuid": "ceb4834d-bceb-48cc-911e-9b45ff8c6033"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Barrel_Wine_A_Clean_A_Stacked_A",
+        "uuid": "cf06eba8-4a56-4c9e-8735-84b5be124e91"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Alcove_B",
+        "uuid": "cf1f9a6f-b216-4467-97e0-1460e0aa1847"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_A_Thin",
+        "uuid": "cf218885-209d-4100-bab6-774d57644de7"
+    },
+    {
+        "name": "DEC_City_Workshop_E",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_HUM_Harbor_Boat_A_001",
+        "uuid": "cff0cd68-f98e-427c-aac1-7db63037365d"
+    },
+    {
+        "name": "BLD_Ship_Darklake_Raft_A",
+        "uuid": "d12b0707-f8ee-40d8-b408-f04fb025ef57"
+    },
+    {
+        "name": "DEC_GEN_City_Ivy_C",
+        "uuid": "d3cfd43c-424f-4674-8ad4-c9f770d5202a"
+    },
+    {
+        "name": "NAT_Roots_Hanging_HagLair_A",
+        "uuid": "d45c2b44-e063-4e89-882d-180b3c92372a"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_G_Gold_Purple_Prefab",
+        "uuid": "d587e97e-8dd9-4375-8e38-87e9121a850a"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_C",
+        "uuid": "d5d5e0f8-2297-4b4e-933f-c1d66fe668e9"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Big_A",
+        "uuid": "d7b7a9ae-bf29-4df6-bf9c-3e592322571d"
+    },
+    {
+        "name": "DEC_GEN_City_ForSale_Melons_A",
+        "uuid": "d84ea41a-adaf-48a1-bba5-0b51d9a1e7d1"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_E_Prefab",
+        "uuid": "d92a53ab-a1da-4f2e-8cc4-04565bc1e4ec"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_C",
+        "uuid": "d936716b-54dc-4213-9e49-3c69ef8e94e9"
+    },
+    {
+        "name": "NAT_Roots_Edge_HagLair_A",
+        "uuid": "dad41814-4fb7-4172-9f5a-3a99336086ab"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Ivy_Bottom_Small_A",
+        "uuid": "dadcd690-8805-45ae-8379-9825a57c2051"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Column_A_Medium",
+        "uuid": "dc804cd5-effc-4fb6-b702-8f73d0709e29"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Bush_Bottom_Medium_A",
+        "uuid": "dc810138-6e02-4e34-b368-9f0e5ed8a510"
+    },
+    {
+        "name": "DEC_City_Workshop_F",
+        "uuid": "dc902ba8-8047-4f3d-b2b5-120cafcecc83"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_B_Gold_Purple_Prefab",
+        "uuid": "dc9ef3e8-4928-48c9-847b-bcd2f907676d"
+    },
+    {
+        "name": "DEC_GEN_Granite_Rock_A2",
+        "uuid": "de31cb87-be2a-4020-832f-526e0de57292"
+    },
+    {
+        "name": "DEC_GEN_Abbey_Rubbles_A",
+        "uuid": "dea93760-5b18-413b-b6c6-5b576beb36e7"
+    },
+    {
+        "name": "NAT_Cave_Speleothem_Edge_A",
+        "uuid": "deaf538b-bf96-4b36-863f-e41ee852fcc0"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Drinks_B",
+        "uuid": "df53d70a-c8de-492f-81db-d8139471b344"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_H",
+        "uuid": "dff02ce6-db6f-4373-a97a-d4f06c381f17"
+    },
+    {
+        "name": "Tempo_WallCliff_A",
+        "uuid": "e05d4a6d-5eff-447e-9947-56386ae07eb1"
+    },
+    {
+        "name": "DEC_GEN_Necromancer_Shelf_B",
+        "uuid": "e1e3bf2a-4435-4453-a6d1-3b2847186dfd"
+    },
+    {
+        "name": "DEC_GEN_Merchandises_B",
+        "uuid": "e2228762-7a28-4fda-86c9-a6198531d1c6"
+    },
+    {
+        "name": "DEC_GEN_City_Wagon_WineBottle_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Wagon_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "NAT_Roots_Pillar_HagLair_C",
+        "uuid": "e26da31a-f428-4282-97b7-1bd13245a0bc"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Ivy_Medium_B",
+        "uuid": "e322998d-f979-4c9d-91db-825ac9fa6c4c"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_C_Gold_Prefab",
+        "uuid": "e32c1ade-cb5c-4d13-a9e9-c6f52072c60f"
+    },
+    {
+        "name": "CAM_InvisibleSlider_4x4_Trapezoid_Corner_X3_A",
+        "uuid": "e3302779-68c6-49fe-a9c0-2e78095b276f"
+    },
+    {
+        "name": "NAT_Cliff_Cave_Ledge_A",
+        "uuid": "e49dade5-f52d-4a66-a46e-a8bfb978fad6"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Ivy_Top_A",
+        "uuid": "e4b8a8d0-3a04-468c-9258-f8a1b0d00e42"
+    },
+    {
+        "name": "BLD_GEN_Crane_Elevator_B",
+        "uuid": "e543a347-ac61-444b-8646-6d6116c33697"
+    },
+    {
+        "name": "DEC_GEN_City_Wagon_Fish_A",
+        "uuid": "e5df2b9d-e3ae-4d24-91ce-e7fb97e0c137"
+    },
+    {
+        "name": "NAT_Cliff_Rock_Rubble_360_Big_A",
+        "uuid": "e5f38f29-28eb-4b0b-8c17-9361a5914b68"
+    },
+    {
+        "name": "FUR_GEN_Tavern_Barrel_Wine_A_Clean_A_Stacked_B",
+        "uuid": "e7c88c10-fa60-4ca7-a336-06c208467f8a"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_F",
+        "uuid": "e81610d9-0cd3-45ce-8a59-a08d81c9e32b"
+    },
+    {
+        "name": "BLD_GEN_Crane_Elevator_C",
+        "uuid": "e90fb16d-1efd-4d31-84db-c9c518ff2965"
+    },
+    {
+        "name": "DEC_Lab_Alchemy_Bottles_A",
+        "uuid": "e9ca76da-18fb-4401-b127-977787f5a988"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Study_E",
+        "uuid": "e9df17db-9c3f-44fc-b4e2-ac1a891bc41e"
+    },
+    {
+        "name": "LTS_DUN_Hanging_Bowls_F_Prefab",
+        "uuid": "ea11228b-528c-4863-8d9e-d79a49a292c9"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_D_Prefab",
+        "uuid": "ecb5641a-6922-4e28-ada9-76c7ba6bf1b1"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Bottom_Medium_B",
+        "uuid": "ecf44129-9112-46ea-904c-827f3317215d"
+    },
+    {
+        "name": "DEC_GEN_Vase_Ceramic_Broken_A",
+        "uuid": "ecfe6976-bce6-4946-878c-ecce66e48414"
+    },
+    {
+        "name": "BLD_GEN_Bridge_Wood_A",
+        "uuid": "ed2dc0c0-0208-4ea7-b55a-3844726215e3"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_I",
+        "uuid": "ed4bde67-d98b-40fd-8818-fcdb54d87feb"
+    },
+    {
+        "name": "LTS_DEC_Thayan_Incense_Burner_B_Prefab",
+        "uuid": "edc67f92-a24a-414b-a287-d0dfbe8809ba"
+    },
+    {
+        "name": "DEC_GEN_City_Set_Flowers_A",
+        "uuid": "ee06c389-6d5b-45c4-94a2-fdf8f8336993"
+    },
+    {
+        "name": "LTS_DUN_Chandelier_A_Prefab",
+        "uuid": "ee9a94d9-10c8-4672-8aa5-01e0670250ad"
+    },
+    {
+        "name": "NAT_Cave_Wall_D",
+        "uuid": "eea4450e-89ea-4f6c-8588-14a75e2f47a2"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Suitcases_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_Harbor_House_WindowsShutter_Prefab_B",
+        "uuid": "efd5c203-ed73-46a7-a91e-91cc1096bd4c"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Hallway_B",
+        "uuid": "efdf110d-e91b-416c-893a-292a4cf144e1"
+    },
+    {
+        "name": "NAT_Cliff_Sandstone_Bottom_A",
+        "uuid": "f4c43a94-36b7-4ec3-865c-d179100905d4"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_F",
+        "uuid": "f6a79213-76c6-4e8d-a22c-c90e49b195f1"
+    },
+    {
+        "name": "DEC_GEN_City_Poor_Stall_Boxes_A",
+        "uuid": "f75c6442-caa7-4d4d-8562-cd113068f28b"
+    },
+    {
+        "name": "DEC_GEN_City_Crates_A",
+        "uuid": "f7957257-871b-47cf-b5c2-5f410c0522ed"
+    },
+    {
+        "name": "BLD_GEN_Crane_Elevator_A",
+        "uuid": "f99b505f-eba5-4245-a100-16034c03d543"
+    },
+    {
+        "name": "NAT_Forest_Cliff_Rock_Tree_Bottom_Medium_A",
+        "uuid": "fa0fbb2a-a530-4c4f-9598-39e0ed4f4ec9"
+    },
+    {
+        "name": "DEC_GEN_Woodpile_Small_A",
+        "uuid": "fa334473-c7be-4163-9843-85a0c157348a"
+    },
+    {
+        "name": "NAT_Cliff_Rock_Tree_A",
+        "uuid": "fb510039-db2c-4c20-8bcc-1dca4a45b4cd"
+    },
+    {
+        "name": "DEC_GEN_City_Rich_Study_A",
+        "uuid": "fb80ea8b-d4c5-4a04-94d5-10bca3c2e8cb"
+    },
+    {
+        "name": "NAT_Rock_Tree_Bush_Border_A",
+        "uuid": "fbc5b96c-12f6-4017-a74d-d3fc2a8f9f1e"
+    },
+    {
+        "name": "FUR_GEN_Bookcase_Common_Books_Scrolls_A",
+        "uuid": "fc6b0ea4-537d-4b57-9358-cc3a2748ba87"
+    },
+    {
+        "name": "Tempo_Selune",
+        "uuid": "fc6ff134-b9c9-4abc-95be-04ee6c1f9c0e"
+    },
+    {
+        "name": "DEC_GEN_City_Stall_Big_B",
+        "uuid": "fc7a56d1-9108-4d29-b879-b896dd2bbcae"
+    },
+    {
+        "name": "NAT_Roots_Edge_HagLair_B",
+        "uuid": "fd05908c-3b39-4aa3-b99e-ac533dde814d"
+    },
+    {
+        "name": "NAT_Forest_Cliff_BoulderRock_Tree_Bush_Ivy_Bottom_Medium_B",
+        "uuid": "fd361b93-f4b2-4b65-8d99-630fbc58f01d"
+    },
+    {
+        "name": "BLD_Druid_Menhir_Gate_J",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "NAT_Cave_Patch_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "Elise_Tempo",
+        "uuid": "002fe6a9-9523-4b91-a7c4-64f635cad1c0"
+    },
+    {
+        "name": "DEC_HoH_Engine_Prefab_C",
+        "uuid": "00539a6e-3bd9-4708-a992-23f6eed87053"
+    },
+    {
+        "name": "BLD_GEN_Platform_Floor_Wood_A",
+        "uuid": "00e5b616-77f7-4b2c-9d73-1c158aef2a77"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Medium_A",
+        "uuid": "02d3f6cc-db24-4ee5-8ce9-6b922928183c"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Lab_Bottle_Device_A",
+        "uuid": "037d513f-b0c7-456e-9585-e075e6d6d27a"
+    },
+    {
+        "name": "DOOR_GEN_Tavern_Barrel_Wine_A_Dirty",
+        "uuid": "044ee65a-a8c4-4998-a181-a83c0e3c3253"
+    },
+    {
+        "name": "DEC_GEN_City_Outside_Bakery_A",
+        "uuid": "05356c96-11b1-44e9-8bcf-c36f285ab353"
+    },
+    {
+        "name": "BLD_Ship_Xebec_A_Sails_Up",
+        "uuid": "06cc8e79-cb17-4772-b956-43eaf0997927"
+    },
+    {
+        "name": "DEC_GEN_Farm_HayPile_A",
+        "uuid": "08301749-2f4b-49d7-bedf-73fa3f81f9c5"
+    },
+    {
+        "name": "DEC_GEN_Tent_B",
+        "uuid": "09e91bc1-c0a3-4a2e-af93-74181b72d084"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Market_Herb_Bottle_A",
+        "uuid": "1181eb25-683d-4780-8d65-2e4759fbb0b9"
+    },
+    {
+        "name": "DEC_MF_Brain_Jar_Membrane_Flesh_A_Cage_A_Prefab",
+        "uuid": "1337d20e-e4c9-4685-8655-6432821883ca"
+    },
+    {
+        "name": "DEC_GEN_Farm_Crate_Food_A",
+        "uuid": "14919c50-ec3d-4782-9bf2-214522327b5d"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_B_8H",
+        "uuid": "149bdc30-41d0-452e-9e6f-de22d9e0b8d4"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_D_L_90_A_Flipped_Prefab",
+        "uuid": "16279031-28e8-4b5a-aa13-d5b013117856"
+    },
+    {
+        "name": "BLD_Gith_Ship_Skiff_Large_A_Prefab",
+        "uuid": "166b42fc-4072-4cfd-adea-3459cb6bbf60"
+    },
+    {
+        "name": "DEC_GEN_Farm_SackPile_A",
+        "uuid": "1799968c-df02-43a1-adbc-5fe6d578a21e"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_C_L_90_A_Flipped_Prefab",
+        "uuid": "17efcd43-51d7-469c-9dcc-ed90ce726d52"
+    },
+    {
+        "name": "DEC_GEN_Statue_Selune_Wall_Prefab_B",
+        "uuid": "18887901-4e6d-42f1-8c0f-d9095ec7c9d5"
+    },
+    {
+        "name": "DEC_HoH_Engine_Prefab_A",
+        "uuid": "196409b1-4b8e-4a41-899b-ef2acb7e8bad"
+    },
+    {
+        "name": "Granite_Pillar",
+        "uuid": "1d4fb585-ce4b-4911-ab6e-59c364ca741c"
+    },
+    {
+        "name": "DEC_HoH_Portal_Mirror_Devil_Face_A",
+        "uuid": "1e6503d8-a19e-42a0-b532-9255905ba2d5"
+    },
+    {
+        "name": "BLD_City_Foundry_Arch_A_Prefab",
+        "uuid": "2813a0e9-af6f-4f09-b4da-c01581b27b48"
+    },
+    {
+        "name": "DEC_GEN_FArm_Table_A",
+        "uuid": "295550b3-be29-4cca-91be-7c8f45a08076"
+    },
+    {
+        "name": "DEC_GEN_Slum_Items_B",
+        "uuid": "2b9f2286-1ed2-4fea-80a9-a9471f5460b4"
+    },
+    {
+        "name": "DEC_Circus_Animal_Cage_Prefab_C",
+        "uuid": "2cd72ef7-cb25-4d66-919a-388be30aa8ba"
+    },
+    {
+        "name": "DEC_HoH_Portal_Mirror_Angel_Face_A",
+        "uuid": "2d208b66-3cc7-4d14-93c2-7ad33964ff24"
+    },
+    {
+        "name": "DEC_HoH_Portal_Mirror_Angel_Face_B",
+        "uuid": "2dcd768f-b80d-4cf1-816e-16bab3cda23c"
+    },
+    {
+        "name": "NAT_Cursed_Tree_B",
+        "uuid": "2ffbc95c-c1ae-4887-8973-d0afb285068d"
+    },
+    {
+        "name": "DEc_GEN_City_Entrance_Flower_A",
+        "uuid": "30cf2dc8-4088-41fa-b7fe-056c60ec1419"
+    },
+    {
+        "name": "FUR_Necromancer_Lab_Table_BodyParts_A",
+        "uuid": "312697a2-af10-4aa6-af62-d5c46af7dd6b"
+    },
+    {
+        "name": "DEC_GEN_City_Warehouse_Crate_A",
+        "uuid": "3254dcd9-1112-4243-a7b6-a9a1900c763d"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Desk_A",
+        "uuid": "33220a3d-95fa-4f8e-9591-f5b2e96cdcbd"
+    },
+    {
+        "name": "DOOR_GEN_Hatch_Cellar_A",
+        "uuid": "35ca248a-5c9e-4ce0-9c57-6d1fdc31ff70"
+    },
+    {
+        "name": "DEC_GEN_Farm_VineYard_C",
+        "uuid": "36003ee6-b688-446d-a6d9-4ccc5540ddb3"
+    },
+    {
+        "name": "DEC_GEN_Ropes_Support_A_Prefab",
+        "uuid": "3632d5ff-cec5-4991-9f9c-be9c10af865d"
+    },
+    {
+        "name": "DEC_GEN_Easel_Paint_A",
+        "uuid": "367a3420-950e-46de-beba-ff6a1cfc15c0"
+    },
+    {
+        "name": "BLD_GEN_Circus_Tent_Big_A",
+        "uuid": "37d1250f-88eb-468f-8b9b-1e55786e7644"
+    },
+    {
+        "name": "DEC_GEN_Tent_A",
+        "uuid": "39206df5-dabe-4d41-a40b-8b21ad57e5f1"
+    },
+    {
+        "name": "DEC_GEN_Desk_Apothecary",
+        "uuid": "395423fc-f41d-43df-891b-63beea398fa0"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_R",
+        "uuid": "3c8b0151-b689-4083-a17d-8841a85d70c9"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Small_C",
+        "uuid": "3d660b65-d94c-4208-9065-c00df7373fb6"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_D_L_90_A_Prefab",
+        "uuid": "4224fe19-6f6e-45dd-a688-ddeabccea2bc"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Medium_B",
+        "uuid": "43a11f8a-fa1d-4382-9e2b-ad70db1c982a"
+    },
+    {
+        "name": "BLD_City_House_Pillar_Wood_A_Prefab_A",
+        "uuid": "440d689d-a611-4627-ad81-69277d337994"
+    },
+    {
+        "name": "BLD_City_Foundry_Arch_B_Prefab",
+        "uuid": "4483200f-9e77-48af-8698-c7f64cbc8cef"
+    },
+    {
+        "name": "BLD_HoH_Temple_Pillar_A_Prefab",
+        "uuid": "4693d8e3-577b-4816-afc9-f1242943d73d"
+    },
+    {
+        "name": "FUR_Parliament_Wall_Double_Small_A",
+        "uuid": "46dd2379-0cfb-4bdf-a3d2-1f1ce244028b"
+    },
+    {
+        "name": "BLD_GEN_Pillar_Ornamented_Wood_E_Prefab",
+        "uuid": "4914229b-86aa-4b84-8666-a2706589504f"
+    },
+    {
+        "name": "PUZ_Cursed_Roots_Cocoon_Explosive_A",
+        "uuid": "4c3f6765-7a8a-4e9f-ab8d-1c77b16d4dc7"
+    },
+    {
+        "name": "DEC_GEN_Farm_Hay_Stuff_B",
+        "uuid": "4cdf84b3-4c46-4909-b432-4641b1794849"
+    },
+    {
+        "name": "DEC_GEN_Farm_VineYard_A",
+        "uuid": "4fe8805f-8b05-443e-8f8c-fdf633690760"
+    },
+    {
+        "name": "DEC_GEN_Farm_VineYard_B",
+        "uuid": "50542b19-72b6-4657-9b12-7b08476db1e9"
+    },
+    {
+        "name": "NAT_Cursed_Tree_A",
+        "uuid": "518cb732-081c-4451-9a8d-3a5b36c54136"
+    },
+    {
+        "name": "DEC_GEN_Farm_Hay_Stuff_E",
+        "uuid": "52f1e37c-a981-4b6c-b752-bf53f9e741e9"
+    },
+    {
+        "name": "DEC_GEN_Camp_A",
+        "uuid": "542e8d73-62d3-4bda-9dbb-1ecfc5c84ad5"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_A_6H",
+        "uuid": "560aa982-3353-48e4-bd39-27e7db3ebff0"
+    },
+    {
+        "name": "DEC_GEN_Statue_Selune_Wall_Prefab_A",
+        "uuid": "56bb36fd-3c3d-4d55-b8d2-2fea20b35fbf"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_5H_A_Destroyed_A_Prefab",
+        "uuid": "56e8f86c-c132-4ee4-ba6a-34c8e2c725c4"
+    },
+    {
+        "name": "DEC_GEN_City_Pergola_A",
+        "uuid": "57784b81-bad2-4ab8-a7ac-74b780cf050e"
+    },
+    {
+        "name": "FUR_Necromancer_Lab_Table_BodyParts_B",
+        "uuid": "580a704f-4da2-46c7-8af2-7bd4596885ce"
+    },
+    {
+        "name": "DEC_GEN_Farm_Vege_Nature_A",
+        "uuid": "58578d80-9649-47c4-a223-4395ace52b45"
+    },
+    {
+        "name": "DEC_GEN_Farm_Wagon_Tent_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_C_L_90_A_Prefab",
+        "uuid": "595e7221-4e8a-40fd-be66-de36b0407522"
+    },
+    {
+        "name": "DEC_GEN_Farm_Hay_Stuff_D",
+        "uuid": "5a3da4ea-d588-425c-8091-2b52c3bca157"
+    },
+    {
+        "name": "PUZ_Cursed_Roots_Cocoon_Explosive_B",
+        "uuid": "5c40e15e-f6bf-4282-986c-40b36b1129e7"
+    },
+    {
+        "name": "DEC_GEN_City_Rock_Mountains_Vista_A",
+        "uuid": "5e7a99ac-021c-4737-a077-9a7478286afb"
+    },
+    {
+        "name": "DEC_Circus_Animal_Cage_Prefab_B",
+        "uuid": "5f43d31f-40f3-4eb2-b1fd-5053ba28a1c6"
+    },
+    {
+        "name": "DEC_GEN_Ropes_Support_B_Prefab",
+        "uuid": "5fd29c32-b0cb-42a6-b099-7c097472ddd5"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_Q",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "BLD_Ship_Xebec_A_Sails_Down",
+        "uuid": "64a4abdf-2596-4610-96c9-dce35488d716"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_A",
+        "uuid": "64c1288a-5d21-4c7d-a1f0-ad867422d1de"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_A_4H",
+        "uuid": "65e9e990-f212-4011-8699-2d9f077501d0"
+    },
+    {
+        "name": "BLD_City_Foundry_Pillar_A_Prefab",
+        "uuid": "681c82a9-98e9-4bea-ba48-e3dfc674dd1c"
+    },
+    {
+        "name": "DEC_HoH_Engine_Prefab_D",
+        "uuid": "6b50a9a0-e1ef-4e8e-b77e-7345fecf66e9"
+    },
+    {
+        "name": "DEC_GEN_Curtain_Rich_Open_Sided_B",
+        "uuid": "6fcdae4d-c0a9-493f-b001-f82818338548"
+    },
+    {
+        "name": "DEC_GEN_Office_Desk_A",
+        "uuid": "713fc95a-136f-4da5-93da-6483ba9a524c"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_10H_A_Prefab",
+        "uuid": "7355f9de-458b-4eae-9f40-74bf9cb0a636"
+    },
+    {
+        "name": "DEC_GEN_Office_Desk_Workshop_A",
+        "uuid": "73cdc0ad-cbda-4167-94cd-a3c8a8f7e0f3"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_A_L_90_B_Prefab",
+        "uuid": "754bf20d-30f8-4009-97a0-5c0e5a385b1a"
+    },
+    {
+        "name": "DEC_GEN_Curtain_Rich_Top_Sided_A",
+        "uuid": "75e685b7-ac75-4385-83f1-efb3d49c529a"
+    },
+    {
+        "name": "DEC_Circus_Animal_Cage_Prefab_A",
+        "uuid": "77b68408-4d83-4f3c-8260-2739a2da851d"
+    },
+    {
+        "name": "DEC_GEN_Tent_Refugee_A",
+        "uuid": "7f4c7b88-57e2-43e9-bd90-c5540025b397"
+    },
+    {
+        "name": "FUR_GEN_Display_Case_E_Transparent_A_Prefab",
+        "uuid": "800ab271-dabb-4486-b83c-5d9b67955e2a"
+    },
+    {
+        "name": "DEC_GEN_Bookcase_Bottle_A",
+        "uuid": "8071e6da-c603-4b11-85b3-f37cba0c4eb3"
+    },
+    {
+        "name": "PUZ_GEN_LanceBoard_Big_A_Posed_A_Prefab",
+        "uuid": "80d343d0-aa53-4c50-b54a-6e9ef1c680c3"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_P",
+        "uuid": "81a8f6a7-684f-436f-b0cf-c1271d647a13"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_2n5H_A_Prefab",
+        "uuid": "82da13a4-68d0-4275-9d9f-9f40f70d74a8"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Small_B",
+        "uuid": "856b9c06-d53d-4d1f-9029-eaceba2e9b8f"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Medium_C",
+        "uuid": "8616110a-bf99-4a5a-875e-c53511d5a6c1"
+    },
+    {
+        "name": "Vista_BLD_City_B_Prefab",
+        "uuid": "86aba4ea-6037-459e-ac83-741aa458b1d3"
+    },
+    {
+        "name": "NAT_Rock_Granite_Stalagtites_A",
+        "uuid": "88bb1d46-8b82-4c60-b78e-84ac4d6bf265"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_B_6H",
+        "uuid": "893b4208-26ab-4a24-af07-17177c9c05c8"
+    },
+    {
+        "name": "DEC_GEN_Slum_Items_A",
+        "uuid": "895dc641-6685-4d38-a370-abf3d2cc8201"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_A_L_90_A_Prefab",
+        "uuid": "8b457f33-dc50-4ba3-acdb-00af5bbdf482"
+    },
+    {
+        "name": "FUR_Necromancer_Lab_Table_Devices_A",
+        "uuid": "8b714943-ec8d-4c88-9822-415371815a19"
+    },
+    {
+        "name": "DEC_GEN_Farm_Hay_Stuff_C",
+        "uuid": "8bd99cb4-15a5-4029-a505-6b9abc4080bb"
+    },
+    {
+        "name": "DEC_GEN_Pyre_A_Prefab_A",
+        "uuid": "8c8ba43f-6b21-4194-ba2a-069fb3f591d5"
+    },
+    {
+        "name": "DEC_Circus_Painter_Bookcase_A",
+        "uuid": "8cd41e35-c13f-4711-9a35-ebf514d297eb"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Desk_Device_A",
+        "uuid": "8dd02acf-7406-40cf-acab-ca04792edaf0"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Big_C",
+        "uuid": "8e02afad-4557-4aee-b785-6b06e1af7746"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Shelves_Bottle_A",
+        "uuid": "8f725e50-8441-41fe-bd17-61ba9236c67c"
+    },
+    {
+        "name": "NAT_Rock_Granite_Pile_O",
+        "uuid": "8f8a0cd6-727d-43bc-a600-e3ac271011b8"
+    },
+    {
+        "name": "DEC_GEN_Farm_Hay_Stuff_A",
+        "uuid": "90b5fb65-d545-4377-acfd-7a3616fd1f3d"
+    },
+    {
+        "name": "DEC_HoH_Engine_Prefab_B",
+        "uuid": "9102bdfc-d06c-4096-b33c-1cefa3d1f2b0"
+    },
+    {
+        "name": "BLD_GEN_Circus_Tent_Medium_A",
+        "uuid": "961d7523-ccd9-4cfb-8054-8119c168fae4"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Small_A",
+        "uuid": "96c70045-427b-4c31-9697-7116a0c55225"
+    },
+    {
+        "name": "DEC_GEN_Farm_ClothingLine_A",
+        "uuid": "970f42ec-292b-4d9c-81f5-8e079c554e19"
+    },
+    {
+        "name": "DEC_GEN_Farm_Sack_Food_Small_A",
+        "uuid": "9790715c-cf2d-47e0-aef5-fed8012d70ca"
+    },
+    {
+        "name": "DEC_GEN_Fishing_Island_A",
+        "uuid": "97d11c32-d9d8-48ce-a716-867f9050427a"
+    },
+    {
+        "name": "Vista_BLD_City_C_Prefab",
+        "uuid": "9df97eac-9819-4cb8-a66b-424a42453978"
+    },
+    {
+        "name": "BreweryPrefab_Temp",
+        "uuid": "a2885ce7-2dc5-4f23-a562-9d52053e3100"
+    },
+    {
+        "name": "DEC_GEN_Tent_Refugee_B",
+        "uuid": "a381d82a-9467-4f80-beb6-c89a7f26f1ab"
+    },
+    {
+        "name": "DEC_HoH_Engine_Prefab_E",
+        "uuid": "a40eb0f6-9a21-4f9b-9d3e-c5cc4ba50619"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Combined",
+        "uuid": "a88933f1-320a-468c-a4d9-ebdbc4fca887"
+    },
+    {
+        "name": "DEC_GEN_Farm_Pile_Corner_Big_A",
+        "uuid": "a8aee56f-2113-4ce7-839f-be8de4675b4d"
+    },
+    {
+        "name": "DEC_Circus_Painter_Table_A",
+        "uuid": "a9757df5-0065-4a24-862f-539ed5b174d0"
+    },
+    {
+        "name": "BLD_Glasshouse_Support_Arch_Big_A",
+        "uuid": "ac24d787-83b0-47aa-81f2-ce2ada7ea363"
+    },
+    {
+        "name": "DEC_GEN_City_Flower_Display_A",
+        "uuid": "ac58545b-7456-4a37-8b8d-647b362a1854"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_B_L_90_A_Prefab",
+        "uuid": "ae645c92-3a42-49fa-aac1-a1c51fb0a169"
+    },
+    {
+        "name": "DEC_GEN_JunkPile_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "BLD_GEN_Stairs_Wood_Rich_A_4H_A_Prefab",
+        "uuid": "b252fdb6-d8a1-4c3c-8923-28d487d72ed0"
+    },
+    {
+        "name": "FUR_Necromancer_Lab_Pool_A_Full_Beast_A",
+        "uuid": "b6c9108a-5fad-483e-8dec-b5daeef56219"
+    },
+    {
+        "name": "FUR_GEN_Bookcase_Common_A_2D_4H_5W_Concave_A_Bottle",
+        "uuid": "b716e7e7-ca29-4b2d-88a9-b7046ee206eb"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_2n5H_A_Destroyed_A_Prefab",
+        "uuid": "b744db05-d7bd-485f-b3f8-23be813e1223"
+    },
+    {
+        "name": "LTS_GEN_Glasshouse_Lamp_Iron_A_Spotlight_Combined",
+        "uuid": "b9263120-7f03-4299-8ba6-2feac1f2eabf"
+    },
+    {
+        "name": "DEC_GEN_Fruit_Crate_Stand_A",
+        "uuid": "bc524e86-a8ec-41e4-9210-aa999b3fa4cd"
+    },
+    {
+        "name": "Vista_BLD_City_Prefab",
+        "uuid": "bc5cc7fc-4d3d-412a-a742-27cf92cfa00f"
+    },
+    {
+        "name": "FUR_Parliament_Wall_Double_A",
+        "uuid": "c011a959-35dc-4be1-b67f-46f16597c24e"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_10H_A_Destroyed_A_Prefab",
+        "uuid": "c1d61b8b-9a9f-48f7-99cb-92a08b983773"
+    },
+    {
+        "name": "DEC_GEN_Curtain_Rich_Open_Sided_A",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "Tempo_Apothecary_B",
+        "uuid": "c3ddab8e-b316-4956-97c1-2a87cecaf8f7"
+    },
+    {
+        "name": "BLD_City_House_Pillar_Wood_A_Prefab_B",
+        "uuid": "c730dd0f-46df-4704-b718-96014da03b29"
+    },
+    {
+        "name": "DEC_GEN_Slum_Items_C",
+        "uuid": "d01ffc9e-8ad8-4401-a7d4-6705b9632c59"
+    },
+    {
+        "name": "DEC_GEN_Deco_LaezelCamp_A",
+        "uuid": "d0595d56-2fbc-41a7-9daa-d9135648c12c"
+    },
+    {
+        "name": "DEC_GEN_City_Roof_Ivy_Plants_A",
+        "uuid": "d362730f-b9a6-4c43-9a2a-dc73077727f9"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Big_A",
+        "uuid": "d409656e-d099-419a-91a7-fef12faab058"
+    },
+    {
+        "name": "DEC_GEN_Kitchen_Table_Poor_A",
+        "uuid": "d4602662-75ae-4360-a2bd-fdd9f22cbd1d"
+    },
+    {
+        "name": "DEC_Circus_WheelOfFortune_Background_A",
+        "uuid": "d891a358-69cd-4f28-a7fa-b821885963b0"
+    },
+    {
+        "name": "DEC_GEN_Junk_A",
+        "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+    },
+    {
+        "name": "DEC_GEN)Shelf_Bottles_A",
+        "uuid": "d9dd16e2-19c6-4944-9a07-957000ace1e9"
+    },
+    {
+        "name": "DEC_GEN_Wardrobe_Clothpile_A",
+        "uuid": "dde886b2-361d-4255-8f93-ae5e94798eac"
+    },
+    {
+        "name": "DEC_GEN_Tailor_Desk_Cloth_A",
+        "uuid": "e15aa00d-2f6f-46c8-bb98-2c5d03d73bfd"
+    },
+    {
+        "name": "FUR_Necromancer_Lab_Pool_Large_A_Full_Beast_A",
+        "uuid": "e667ddce-8a76-4e79-8ec2-210d49d26873"
+    },
+    {
+        "name": "DEC_GEN_City_Scaffoldings_Wood_A",
+        "uuid": "e77f70e2-fc61-4584-827d-f21c283ba403"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_A_8H",
+        "uuid": "e8163015-ea31-4a07-89fc-5062ea42b3fa"
+    },
+    {
+        "name": "Vista_NAT_Rock_Granite_Boulder_Big_Cluster_A_Rotating_A_Prefab",
+        "uuid": "e96174ee-7553-4d2e-9611-2e9691c4dd6f"
+    },
+    {
+        "name": "DEC_GEN_Shelf_Junk_A",
+        "uuid": "e9895b90-e1a6-43f3-a9f7-80a7e4d3610c"
+    },
+    {
+        "name": "Vista_BLD_City_A_Prefab",
+        "uuid": "e9edef6e-85d1-4d89-9731-6702315af5ee"
+    },
+    {
+        "name": "DEC_HoH_Pillar_Insert_B_4H",
+        "uuid": "ef9670c2-b4e2-4d0a-8f59-2fb3025372d3"
+    },
+    {
+        "name": "DEC_HoH_Portal_Mirror_Devil_Face_B",
+        "uuid": "f0a3d626-d6a0-49f2-a440-85098c65a212"
+    },
+    {
+        "name": "FUR_GEN_ScrollShelf_Common_Scrolls_A",
+        "uuid": "f2603404-c271-48af-aa80-9984425041e4"
+    },
+    {
+        "name": "DEC_BAN_Banner_Absolute_Long_5H_A_Prefab",
+        "uuid": "f280ec57-20e7-42e2-9c25-a6d7fad19d04"
+    },
+    {
+        "name": "DEC_GEN_City_Rock_Mountain_Tree_A",
+        "uuid": "f33d8a8a-c5e1-4710-bf9f-352f055efb63"
+    },
+    {
+        "name": "BLD_GEN_Army_Tent_Big_B",
+        "uuid": "f3be3ea7-ef97-4bba-a2b3-bf33bfdcb775"
+    },
+    {
+        "name": "DEC_GEN_Farm_Henhouse_Hay_Crates_A",
+        "uuid": "f467cced-959a-4a89-9839-d845571ea056"
+    },
+    {
+        "name": "DEC_GEN_Apothecary_Shelves_Bottle_B",
+        "uuid": "f7e48220-662c-413c-8538-df7ee21a88d7"
+    },
+    {
+        "name": "BLD_City_Castlewall_Sewerpipe_A_Prefab",
+        "uuid": "fb24a785-7c12-4234-a33b-ab8a4011bd28"
+    },
+    {
+        "name": "DEC_GEN_Tent_Refugee_C",
+        "uuid": "fc04a1fb-c5e4-47cb-a4ee-075ccd9531a0"
+    },
+    {
+        "name": "BLD_City_House_Pillar_Wood_B_Prefab_A",
+        "uuid": "fcb9e77d-636f-420f-8e3b-c570a362162f"
+    }
+]

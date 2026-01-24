@@ -1,0 +1,306 @@
+[
+    {
+        "name": "Light_Dungeon_Ambient_Neutral_6500k_GameplayLight",
+        "uuid": "3fe326a9-d1dc-461a-bbab-e63c04826bf5"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Sunlight_4800K_GameplayLight",
+        "uuid": "cc4d413f-8715-4e1a-8020-e3257c876b2e"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Small_A_GameplayLight",
+        "uuid": "00d1045f-1dec-4cc4-a161-e00250a2bc85"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight",
+        "uuid": "019cad1c-b002-4fc2-921f-ef3c6b9d8463"
+    },
+    {
+        "name": "Light_Underdark_Directionnal_Lava_GameplayLight",
+        "uuid": "040bfb59-76b8-42b4-9952-d66124b5637f"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Big_A_GameplayLight",
+        "uuid": "05548371-4103-4d20-95d3-a27aa5f20d6c"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "06e0415e-3c2e-4648-913a-0a361eed74e2"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_3200K_GameplayLight",
+        "uuid": "08ba2a12-07e2-46d6-b56e-7aff61fab6ac"
+    },
+    {
+        "name": "Light_Dungeon_Bounce_Neutral_4200k_GameplayLight",
+        "uuid": "10a44073-7da1-472a-9fcc-985eea3906b5"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_Vegetation_GameplayLight",
+        "uuid": "15fd62e4-c3b2-4824-81b1-4f43cca2659d"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_4800K_GameplayLight",
+        "uuid": "191532ba-e08f-4834-9cb8-b8f8fd90877a"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Skylight_8000k_GameplayLight",
+        "uuid": "1c3d9d65-801a-4ce6-ac77-639ba1e64b6d"
+    },
+    {
+        "name": "Light_Dungeon_Fill_EeryGreen_GameplayLight",
+        "uuid": "271ed1cd-365c-4124-83e9-7fb5dd38b358"
+    },
+    {
+        "name": "Light_ShadowCursed_Bounce_Neutral_6400k_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "2b1fe16e-2fdd-4217-a0ce-bd3951be5147"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Skylight_8000K_GameplayLight",
+        "uuid": "2fb079b1-d3ae-436b-a9a8-295b9e728e5a"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Vegetation_GameplayLight",
+        "uuid": "311cb687-9375-4e3e-bee2-d3d2d202d2e5"
+    },
+    {
+        "name": "Light_SCL_Directionnal_Haven_GameplayLight_A",
+        "uuid": "34f4d371-718e-43c1-8323-ffa706cf896f"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Shartemple_GameplayLight",
+        "uuid": "36211822-0522-4a78-bae9-81b2f5e8d232"
+    },
+    {
+        "name": "Light_Underdark_SussurTree_GameplayLight",
+        "uuid": "3ce51660-ec81-406c-90b8-64ea321c64e8"
+    },
+    {
+        "name": "Light_ShadowCursed_Bounce_Neutral_6400k_GameplayLight",
+        "uuid": "3fb63568-b682-430a-8c81-5d5bf12dbfb9"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_Sky_GameplayLight",
+        "uuid": "42e9dd99-618c-4cb6-9d1d-fba4c137d0c9"
+    },
+    {
+        "name": "Light_Dungeon_Fill_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "465da224-7414-408c-9077-7c9f28eced00"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_4800K_GameplayLight",
+        "uuid": "46612bf0-2bbf-477f-afb0-cc86515534e3"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Mindflayer_Membrane_A_GameplayLight",
+        "uuid": "46c01493-78e3-4cea-be63-b6dba574cbd0"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_6400K_GameplayLight",
+        "uuid": "4cc5950e-bf18-49f2-b762-f3775b72e84b"
+    },
+    {
+        "name": "Light_Fill_A_Yellow_GameplayLight",
+        "uuid": "599fe531-286f-422c-b4f6-3be8793b1e01"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Blue_Fill_GameplayLight",
+        "uuid": "607b2531-58c9-484c-a853-3bcd47e455ca"
+    },
+    {
+        "name": "Light_Fill_A_Blue_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "65df0a0c-a1d3-46c4-be67-3dc90f6c53ce"
+    },
+    {
+        "name": "Light_Fill_A_White_GameplayLight",
+        "uuid": "757393f7-8691-4db4-b7c4-bb64abed7638"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Interior_3200K_GameplayLight",
+        "uuid": "77afa4b4-ace4-4cdf-adca-be7f8fd2bed1"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Red_GameplayLight",
+        "uuid": "7dda984d-18e8-4895-92f6-c66d66a00ee1"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Skylight_8000K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "7f5b1b4f-d685-4cca-bd39-5ea9715b46cf"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Red_GameplayLight",
+        "uuid": "820df7cb-91f6-4b4c-8981-c920fe592d38"
+    },
+    {
+        "name": "Light_Exterior_GameplayLight_Null_Generirc",
+        "uuid": "846335e1-b6cb-412c-ba04-ca5126c1849f"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Skylight_8000K_GameplayLight",
+        "uuid": "87b327bc-cd08-4fde-affb-16ca05978b1e"
+    },
+    {
+        "name": "Light_Underdark_Fill_Default_GameplayLight",
+        "uuid": "89ea9fb1-b6ab-4668-807f-8f10e61daf10"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Fill_SharTemple_GameplayLight",
+        "uuid": "8c73b2be-571c-474b-b2f5-b5a0ebacf0c7"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_6400K_GameplayLight",
+        "uuid": "94fba148-38be-4e9e-8ed9-ceb01681d582"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight",
+        "uuid": "95dcbdf2-2ade-4359-b9eb-1f48de7b9a10"
+    },
+    {
+        "name": "BASE_Light_Dungeon_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "981a9987-f15c-4931-9e32-1a418870e945"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Sunlight_4800K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "9868cbd5-ca19-420f-ab27-577156ec5d88"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_10000K_GameplayLight",
+        "uuid": "9e43aaa0-2e3e-4334-82d8-b5207a4840b4"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Sunlight_4800K_GameplayLight",
+        "uuid": "9f338a42-7ad5-466f-8399-d1c98365ab38"
+    },
+    {
+        "name": "Light_Timeline_Directional_Exterior_Sunlight_4800K_GameplayLight",
+        "uuid": "9fe252df-e31a-4081-8f1f-7e82d0dfed78"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_BrainJar_GameplayLight",
+        "uuid": "ab31f649-4718-4e1a-be27-7fc85e1b9b6a"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Green_GameplayLight",
+        "uuid": "ace83e3c-472b-4208-9765-8f519cb0fd38"
+    },
+    {
+        "name": "Light_Fill_A_Blue_GameplayLight",
+        "uuid": "ae64dd6b-4d24-4982-b962-beae01d4aace"
+    },
+    {
+        "name": "Light_Dungeon_Fill_EeryGreen_GameplayLight",
+        "uuid": "aeb35ec1-817d-45f0-808b-91b45b0c3f32"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_GameplayLight",
+        "uuid": "afa64cf2-6896-4078-859e-11a6ad3e696c"
+    },
+    {
+        "name": "Light_Underdark_Fill_Lava_GameplayLight",
+        "uuid": "b562b3bd-3464-4efd-b41a-2d76c5c682d9"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Skylight_8000K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "c084d755-b9d2-4fbd-9f98-92d789902d0f"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K_GameplayLight",
+        "uuid": "c2f86156-fc1b-448a-bb9e-f55237a29079"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_Fire_GameplayLight",
+        "uuid": "c36fc822-c547-4e5d-8353-24896207cbd2"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Blue_GameplayLight",
+        "uuid": "c3ccbd28-c8c2-4b66-bdc7-d91f8ca519e5"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Interior_3200K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "c5371f78-2cb3-4b84-9deb-68985703636d"
+    },
+    {
+        "name": "Light_Underdark_Fill_Default_GameplayLight",
+        "uuid": "c606c1ad-fb4d-4589-824d-6ad6ece71339"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Red_GameplayLight",
+        "uuid": "caf416f3-02c7-4d2f-a9a1-529ba473cc0e"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "cef16539-13a3-4692-a86a-7de2db60bd21"
+    },
+    {
+        "name": "LightSources_Campfires_BonFire_A_GameplayLight",
+        "uuid": "d69fd7e0-774a-4a1c-854a-adf8ee2e1f01"
+    },
+    {
+        "name": "BASE_Light_Dungeon_GameplayLight",
+        "uuid": "d7e55fdf-1408-44ab-a027-93a3b50207b7"
+    },
+    {
+        "name": "LightSources_Campfires_CampFire_A_GameplayLight",
+        "uuid": "d830e657-886f-4944-b6bb-27bfa58ba618"
+    },
+    {
+        "name": "Light_Dungeon_Fill_GameplayLight",
+        "uuid": "dde3a967-823a-47e8-8b5c-ecbe7970cfeb"
+    },
+    {
+        "name": "Light_Dungeon_Directional_GameplayLight",
+        "uuid": "dffb3058-8c42-4e6b-a14b-55a96ed5e57a"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_Sun_GameplayLight",
+        "uuid": "e24f8d5c-9954-42af-ad42-9f5ea6cc9005"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Middle_A_GameplayLight",
+        "uuid": "e7370333-ecd1-4977-ad39-d214504695d6"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Skylight_8000K_GameplayLight",
+        "uuid": "ee51b01b-2cc8-4b4d-a6a1-a805c99d8803"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Haven_GameplayLight",
+        "uuid": "ef3f3666-8727-4294-b805-1155dd861ec5"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fire_GameplayLight",
+        "uuid": "f000a762-9d38-4d82-8b3b-70815796b2b6"
+    },
+    {
+        "name": "Light_Underdark_Fill_Default_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "f3971cb3-0b42-49ae-a858-f96ba978ee20"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Interior_3200K_GameplayLight",
+        "uuid": "f8525422-b4e5-4099-b41e-2642865e12b0"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_3200K_Green_GameplayLight",
+        "uuid": "fbec2b40-ba9b-4bff-b58a-b32155dc7a06"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Skylight_8000K_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "fdea9aea-b951-428b-8202-ba21b6769803"
+    },
+    {
+        "name": "Light_Dungeon_Fill_EeryGreen_GameplayLight_DecorativeLight_GameplayLight",
+        "uuid": "fedafcad-4be4-4da3-86d1-076098360591"
+    },
+    {
+        "name": "LightSources_Scenery_Fireflies_Green_GameplayLight",
+        "uuid": "ffc7fc45-39a9-442b-a98d-6d3cc66e367c"
+    },
+    {
+        "name": "Light_Dungeon_Crystal_Directional_GameplayLight",
+        "uuid": "d3ffc309-55e3-4b96-8131-3807aebe8e14"
+    },
+    {
+        "name": "BASE_LightSources_CursedBulbs_GameplayLight",
+        "uuid": "fed792fd-2ec0-403c-bbba-ed93fc021647"
+    }
+]

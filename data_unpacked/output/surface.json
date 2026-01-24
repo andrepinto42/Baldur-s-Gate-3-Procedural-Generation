@@ -1,0 +1,350 @@
+[
+    {
+        "name": "SurfacePotionResistanceLightningCloud",
+        "uuid": "02aadf45-f65c-48db-a6ff-e8adeddb873d"
+    },
+    {
+        "name": "SurfacePotionHillGiantStrengthCloud",
+        "uuid": "02ec34d0-0a88-47a7-8909-099ac252edcc"
+    },
+    {
+        "name": "SurfaceRockSpikes",
+        "uuid": "05bc96c3-ea5f-4e49-aced-72cfbff03944"
+    },
+    {
+        "name": "SurfaceSewer",
+        "uuid": "06ecad8e-29b5-4d63-9b73-f3bbb2fc6b1e"
+    },
+    {
+        "name": "SurfacePotionHealingCloud",
+        "uuid": "09b73e91-f608-420f-8a06-1b20ea08f283"
+    },
+    {
+        "name": "SurfacePotionSpeedCloud",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "SurfaceDarknessCloud",
+        "uuid": "1233409a-5bff-4490-ab3d-5daab17cf4d0"
+    },
+    {
+        "name": "SurfaceBloodExploding",
+        "uuid": "1329326f-49d0-4f68-8320-91194c2515d2"
+    },
+    {
+        "name": "SurfaceCrawlerMucusCloud",
+        "uuid": "17c22435-df32-4bc5-b50b-5630c6d5c8a1"
+    },
+    {
+        "name": "SurfaceBlackPowder",
+        "uuid": "1b35c06d-f2b9-46d1-b914-ba40e9ee9655"
+    },
+    {
+        "name": "SurfaceSporePinkCloud",
+        "uuid": "1be6dd13-da3c-461e-a055-0ca063d71967"
+    },
+    {
+        "name": "SurfacePoisonCloud",
+        "uuid": "1cdb25bc-8026-4ea4-adcf-04476755eee4"
+    },
+    {
+        "name": "SurfacePotionInvisibilityCloud",
+        "uuid": "1e120056-3e78-4060-9f94-409152058cfd"
+    },
+    {
+        "name": "SurfacePotionVitalityCloud",
+        "uuid": "1e8f6a8d-06da-4c26-90a5-1d11fde80f81"
+    },
+    {
+        "name": "SurfaceBlackPowderExplode",
+        "uuid": "21ea991b-6560-4001-b69b-5a9f338d6722"
+    },
+    {
+        "name": "SurfaceHolyFire",
+        "uuid": "247fd849-3a64-401e-972a-4e8f5413ebf0"
+    },
+    {
+        "name": "SurfaceSpikeGrowth",
+        "uuid": "24d7a21c-2dc0-46d6-b31d-0ed695e012ff"
+    },
+    {
+        "name": "SurfaceExplosionCloud",
+        "uuid": "262f7978-4e80-4ac0-8434-e2f0e91de83b"
+    },
+    {
+        "name": "SurfaceShockwaveCloud",
+        "uuid": "33a11638-1162-4183-beac-2c53e6b74f8d"
+    },
+    {
+        "name": "SurfaceShadowCursedVines",
+        "uuid": "34da64de-6057-42eb-8b99-08588546ecfc"
+    },
+    {
+        "name": "SurfaceWyvernPoison",
+        "uuid": "36291114-4e07-45be-b512-64170692a38b"
+    },
+    {
+        "name": "SurfaceWaterElectrified",
+        "uuid": "3cb1ed48-f0d5-45ad-919c-b837054f70e2"
+    },
+    {
+        "name": "SurfacePotionResistanceAcidCloud",
+        "uuid": "43792734-307b-403d-834c-1ef7f04a7b77"
+    },
+    {
+        "name": "SurfaceChasm",
+        "uuid": "43950b2a-db79-45e1-a7c8-51247428606e"
+    },
+    {
+        "name": "SurfaceWaterFrozen",
+        "uuid": "4431b14a-f85c-4230-9881-fe06d58f863c"
+    },
+    {
+        "name": "SurfaceWaterCloudElectrified",
+        "uuid": "46c2158e-04bb-48ab-ab24-bebfecfbd7d5"
+    },
+    {
+        "name": "SurfaceAsh",
+        "uuid": "4c08dd98-a18c-462b-9eda-a9ef0f6cd99c"
+    },
+    {
+        "name": "SurfaceBlackPowderDetonationCloud",
+        "uuid": "5156cf9a-650a-4391-b09f-e1a0a2072c7b"
+    },
+    {
+        "name": "SurfaceLava",
+        "uuid": "542fce0c-795c-4e79-a818-39aaaf26cd31"
+    },
+    {
+        "name": "SurfaceGithPheromoneGasCloud",
+        "uuid": "580703b7-566b-42c0-94b8-6f6ee1f2bc11"
+    },
+    {
+        "name": "SurfaceCausticBrine",
+        "uuid": "5990efad-9766-4117-916d-246e1a918fd1"
+    },
+    {
+        "name": "SurfacePotionHealingSupremeCloud",
+        "uuid": "5fdab9bd-3399-4345-b464-4d4e79cec57b"
+    },
+    {
+        "name": "SurfaceSporeWhiteCloud",
+        "uuid": "62b32fd7-ecc2-4cda-9d48-00b844dbd2b3"
+    },
+    {
+        "name": "SurfaceSerpentVenom",
+        "uuid": "6813cb01-2dee-492f-94be-6690fa15fb6b"
+    },
+    {
+        "name": "SurfaceDaggersCloud",
+        "uuid": "6aae26a5-77a6-4281-8cea-74f16a151485"
+    },
+    {
+        "name": "SurfaceMaliceCloud",
+        "uuid": "721953a5-f665-4bc1-8cb9-647832fe4798"
+    },
+    {
+        "name": "SurfaceBlood",
+        "uuid": "73788a82-101c-4a05-98e2-4e4dbf63b509"
+    },
+    {
+        "name": "SurfaceSporeBlackCloud",
+        "uuid": "750f06e8-a127-488d-b08b-539f067e75c9"
+    },
+    {
+        "name": "SurfaceDrowPoison",
+        "uuid": "785273d9-20b4-4e87-b540-c5873e6f9d12"
+    },
+    {
+        "name": "SurfaceConfusionCloud",
+        "uuid": "7c733f5b-3412-41c8-97ed-7110085f768d"
+    },
+    {
+        "name": "SurfaceCloudkill6Cloud",
+        "uuid": "83661f9a-0090-4a78-8766-ecd187b628cb"
+    },
+    {
+        "name": "SurfaceInvisibleGithAcid",
+        "uuid": "84ebe909-2c98-46f8-b6b5-edc4e10a4121"
+    },
+    {
+        "name": "SurfaceWeb",
+        "uuid": "8641dcb5-9c9a-47c0-a7e3-03cb1325f459"
+    },
+    {
+        "name": "SurfaceGreaseFrozen",
+        "uuid": "87821ac7-3a58-4eba-a296-c3f12d0bd42b"
+    },
+    {
+        "name": "SurfaceBloodFrozen",
+        "uuid": "8bf3964b-7d7c-464a-b33e-3104079674f6"
+    },
+    {
+        "name": "SurfaceDeepWater",
+        "uuid": "92f0be37-d0b5-4430-8a53-b64f8d7710a5"
+    },
+    {
+        "name": "SurfaceBloodElectrified",
+        "uuid": "97ca13e3-5c7f-4f53-86f9-47406ee2a73a"
+    },
+    {
+        "name": "SurfaceMud",
+        "uuid": "994a086b-c631-42fa-9ef3-e130a0b531aa"
+    },
+    {
+        "name": "SurfaceFire",
+        "uuid": "9ce17ac5-a7c9-431f-ae41-3a572d5fc302"
+    },
+    {
+        "name": "SurfaceStinkingCloud",
+        "uuid": "a2c50b8a-18dd-4e9d-9548-e18478bf297a"
+    },
+    {
+        "name": "SurfacePotionHealingSuperiorCloud",
+        "uuid": "a49e4e72-04ea-4c7b-8b25-a50aad69f8b0"
+    },
+    {
+        "name": "SurfacePotionHealingGreaterCloud",
+        "uuid": "aada47d8-0d54-411f-8f63-c589726a99af"
+    },
+    {
+        "name": "SurfacePotionAntitoxinCloud",
+        "uuid": "abd0135f-8082-4005-820c-a42a101a39d8"
+    },
+    {
+        "name": "SurfaceCloudkillCloud",
+        "uuid": "adb16a84-5052-4e77-9ef8-4df2d2b7d212"
+    },
+    {
+        "name": "SurfacePurpleWormPoison",
+        "uuid": "afc1f27f-526d-4a12-bc39-8f5c551fefa4"
+    },
+    {
+        "name": "SurfacePotionRemedialCloud",
+        "uuid": "b1c878c4-1434-44ca-a62d-8f57afea87f8"
+    },
+    {
+        "name": "SurfaceVines",
+        "uuid": "b3aa15e7-876a-489d-8e95-db4f60532208"
+    },
+    {
+        "name": "SurfacePotionResistancePoisonCloud",
+        "uuid": "b3aa9832-38a4-4da8-ac9c-e20d7c36dd38"
+    },
+    {
+        "name": "SurfaceAcid",
+        "uuid": "b5c2b67f-aae0-4238-82b5-1eff29e9b363"
+    },
+    {
+        "name": "SurfaceOil",
+        "uuid": "b5c40bbf-c890-429e-a486-160f4369a67a"
+    },
+    {
+        "name": "SurfaceSporeGreenCloud",
+        "uuid": "bfd6a5dd-fc3e-4211-8f9d-8038ecfdb959"
+    },
+    {
+        "name": "SurfaceWaterCloud",
+        "uuid": "c01e0774-d3a4-4b1c-936b-5b7c946e692e"
+    },
+    {
+        "name": "SurfaceHellfire",
+        "uuid": "c0e4cd2a-9460-4850-b8b1-bf64a7435ab9"
+    },
+    {
+        "name": "SurfaceIceCloud",
+        "uuid": "c0eed21a-5e6d-496e-960f-a04994f15adb"
+    },
+    {
+        "name": "SurfaceFogCloud",
+        "uuid": "c3e18f79-7f9a-40a8-abb7-89529302de3f"
+    },
+    {
+        "name": "SurfacePotionResistanceColdCloud",
+        "uuid": "c4e5b316-2aff-4a1e-b317-14457031cb6f"
+    },
+    {
+        "name": "SurfaceDeepWaterRunning",
+        "uuid": "cbf60ac9-11c1-4a62-8dce-d64b54741603"
+    },
+    {
+        "name": "SurfacePotionResistanceForceCloud",
+        "uuid": "d328db30-7017-4dfe-b623-a53594becbe5"
+    },
+    {
+        "name": "SurfaceBladeBarrier",
+        "uuid": "d6f17f0b-e293-46bc-bd95-989b195b9ada"
+    },
+    {
+        "name": "SurfaceAlienOil",
+        "uuid": "d7a7a67b-9e0d-4b7a-a3b2-a4948b495b07"
+    },
+    {
+        "name": "SurfaceBloodCloud",
+        "uuid": "d7e97114-a5bd-4d64-b0c7-5632b631afe8"
+    },
+    {
+        "name": "SurfaceVoidCloud",
+        "uuid": "e26e2c71-17ec-4833-8227-3c15672ddfc4"
+    },
+    {
+        "name": "SurfaceInvisibleWeb",
+        "uuid": "e282e96f-9ec2-4887-aa35-1c0a84d6d504"
+    },
+    {
+        "name": "SurfaceDrowPoisonCloud",
+        "uuid": "e7e6d7dd-043d-4d05-bf03-bfe77b664e22"
+    },
+    {
+        "name": "SurfaceTrialFire",
+        "uuid": "ecc6a7b2-c58b-4c2c-a77e-01e9533455ce"
+    },
+    {
+        "name": "SurfaceWater",
+        "uuid": "ed55880a-350b-4670-80c1-c5ba3e6eb548"
+    },
+    {
+        "name": "SurfaceAlcohol",
+        "uuid": "ee4e2f42-4790-49b4-a79c-9cb86d5a7a75"
+    },
+    {
+        "name": "SurfaceOvergrowth",
+        "uuid": "f12482b2-524f-4703-964e-c5b98a976d7c"
+    },
+    {
+        "name": "SurfaceBlackTentacles",
+        "uuid": "f30f8360-c6ce-450a-84b1-f189f3ad1c91"
+    },
+    {
+        "name": "SurfacePotionAnimalSpeakingCloud",
+        "uuid": "f3eee87e-4efa-47d5-b9de-593877a74403"
+    },
+    {
+        "name": "SurfacePoison",
+        "uuid": "f58b42b0-ab8e-4342-b7e2-daa61ee97628"
+    },
+    {
+        "name": "SurfacePotionResistanceFireCloud",
+        "uuid": "f78d64cd-6287-45d0-84e3-6c55f49d2234"
+    },
+    {
+        "name": "SurfaceDaggersCloudElectrified",
+        "uuid": "f90e52a7-9c02-4c94-87f3-03624cf3c58c"
+    },
+    {
+        "name": "SurfaceBlackRain",
+        "uuid": "f9de4fbf-2fc5-4a60-b677-2fa4f2f94283"
+    },
+    {
+        "name": "SurfaceGrease",
+        "uuid": "fd0a5567-bb60-4b67-b0e7-30aaee634b3d"
+    },
+    {
+        "name": "SurfaceBloodSilver",
+        "uuid": "fd3d7199-6415-4f0e-af2d-fd55d7b4c3e0"
+    },
+    {
+        "name": "SurfaceNarcolepticCloud",
+        "uuid": "935f7c43-7746-442c-ada5-ab2f931916d5"
+    }
+]

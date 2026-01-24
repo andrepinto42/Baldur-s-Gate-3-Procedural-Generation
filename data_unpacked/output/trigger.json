@@ -1,0 +1,170 @@
+[
+    {
+        "name": "FloorTrigger",
+        "uuid": "5708def2-ef57-4c09-8212-38a8a319363f"
+    },
+    {
+        "name": "RoomTrigger",
+        "uuid": "638ea3cf-e3f3-4302-a708-7a01c646298a"
+    },
+    {
+        "name": "PortalTrigger",
+        "uuid": "638ea3cf-e3f3-4302-a708-7a01c646298b"
+    },
+    {
+        "name": "FadeTrigger",
+        "uuid": "a2047aeb-6803-474c-b2dc-6291c8a6b893"
+    },
+    {
+        "name": "GLO_EventTrigger_ProximityMine_Warning",
+        "uuid": "0414f111-0791-4c4c-9b39-b75e4aea8e91"
+    },
+    {
+        "name": "GLO_EventTrigger_ProximityMine_Explode",
+        "uuid": "850e1c9c-560e-4403-b1cd-08d8b5ac4c89"
+    },
+    {
+        "name": "StatsLevelTrigger",
+        "uuid": "019db071-2d05-498d-8565-4d2fd3f25bb0"
+    },
+    {
+        "name": "SoundVolumeTrigger",
+        "uuid": "0ad1f15b-10d5-4a10-8936-299d82cafd59"
+    },
+    {
+        "name": "AtmosphereTrigger",
+        "uuid": "14ec1f7b-dfb9-4001-af8f-469b06c1c70f"
+    },
+    {
+        "name": "PointTrigger",
+        "uuid": "15111ce4-12fc-4757-bb81-7c2c212e141a"
+    },
+    {
+        "name": "ChasmRegion",
+        "uuid": "18641122-f00a-4b36-94e6-47d95813f1df"
+    },
+    {
+        "name": "AvatarContainer",
+        "uuid": "18d3c0a2-0e7c-4541-a810-97bade4d037b"
+    },
+    {
+        "name": "LightingTrigger",
+        "uuid": "1a4cfe92-0a55-4253-b856-44cd0b0e8f8f"
+    },
+    {
+        "name": "PointSound Trigger",
+        "uuid": "3125dc53-89b1-45c9-ac62-db8cc885229b"
+    },
+    {
+        "name": "MusicVolumeTrigger",
+        "uuid": "3222381a-0072-4c97-8a6d-816e92cbe8c9"
+    },
+    {
+        "name": "PolyTrigger",
+        "uuid": "3787cd7f-f111-4935-a250-c0fd5b72fc44"
+    },
+    {
+        "name": "CampChest",
+        "uuid": "38641122-f00a-4b36-94e6-47d95813f1de"
+    },
+    {
+        "name": "PointSound Dummy",
+        "uuid": "3b3f0c23-608d-49a6-830f-271e0ab7928b"
+    },
+    {
+        "name": "CameraBlockerTrigger",
+        "uuid": "4e3b0c99-f555-4945-82eb-91529b8aee41"
+    },
+    {
+        "name": "RegionTrigger",
+        "uuid": "4eacd3b1-ade1-4a0c-80ec-e65593998f75"
+    },
+    {
+        "name": "AiGridArea",
+        "uuid": "5527e1a2-3b21-4e70-9715-43b445514b4d"
+    },
+    {
+        "name": "ChasmSeeder",
+        "uuid": "588352e4-b1fc-41eb-9eb3-fd2756134f61"
+    },
+    {
+        "name": "SphereTrigger",
+        "uuid": "5e41a73b-05ce-4011-b188-d313c15760ee"
+    },
+    {
+        "name": "CampRegionTriggerBasic",
+        "uuid": "654492e1-992d-40d8-a800-322639bd78f1"
+    },
+    {
+        "name": "TimelineSceneTrigger",
+        "uuid": "66cc8388-9ed3-4523-8340-ed6ebd4387ad"
+    },
+    {
+        "name": "CameraLock",
+        "uuid": "747866fd-3bc2-40f7-a304-8487aa613f3f"
+    },
+    {
+        "name": "NavigationCloud",
+        "uuid": "7d99d1f0-1a2b-43d0-8067-d4d346fe2eb8"
+    },
+    {
+        "name": "EventTrigger",
+        "uuid": "7e5d2a30-15a3-4a0e-a951-0fc1686cb4bb"
+    },
+    {
+        "name": "SpectatorCameraTrigger",
+        "uuid": "7f4a742a-b1ab-4195-b04b-9320244592ca"
+    },
+    {
+        "name": "BlockBronzeTimelinePlacementTrigger",
+        "uuid": "92d5fd20-bc1b-4aae-bf80-7dd99935035a"
+    },
+    {
+        "name": "Expl_ExplorationTrigger",
+        "uuid": "94f7b404-25ae-43bf-997f-b293398ca7d9"
+    },
+    {
+        "name": "BoxTrigger",
+        "uuid": "987b8a4d-2208-4bae-a92d-706db0e593e8"
+    },
+    {
+        "name": "CullTrigger",
+        "uuid": "a1c75fff-1800-42d6-ba02-116187e9eeae"
+    },
+    {
+        "name": "CrimeRegionTrigger",
+        "uuid": "abb9885e-1549-4682-bb6c-0dfa96a7421f"
+    },
+    {
+        "name": "ConstellationTrigger",
+        "uuid": "c0457e11-a710-4781-99e8-10d2797dc5cc"
+    },
+    {
+        "name": "AiHintAreaTrigger",
+        "uuid": "ce4407da-51c8-44e1-a294-bac889ecdcf4"
+    },
+    {
+        "name": "AiSeeder",
+        "uuid": "d0c8d0d5-e2a0-4798-9ac6-67eaa606254c"
+    },
+    {
+        "name": "StartPoint",
+        "uuid": "e1dd1fce-eb20-4824-b232-5a78344351b1"
+    },
+    {
+        "name": "CrimeAreaTrigger",
+        "uuid": "e4f77a72-8963-47b1-9345-e21491c0e87d"
+    },
+    {
+        "name": "CinematicArenaTrigger",
+        "uuid": "f15cd4d0-7d2e-46e6-9bdd-1e85d2fca3c5"
+    },
+    {
+        "name": "TeleportTrigger",
+        "uuid": "f7bd7465-b0ec-45b3-81f6-6f01d6c68c48"
+    },
+    {
+        "name": "CrowdCharacterTrigger",
+        "uuid": "3dd009c9-2057-4398-a573-8d6317d6d813"
+    }
+]

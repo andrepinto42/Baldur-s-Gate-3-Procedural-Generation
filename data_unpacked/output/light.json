@@ -1,0 +1,1786 @@
+[
+    {
+        "name": "Light_NPC_Unique_Pig",
+        "uuid": "025feadc-edf6-4d27-96be-4aa78d5a47eb"
+    },
+    {
+        "name": "Light_NPC_Unique_Ogres",
+        "uuid": "07ee474b-0a26-4187-aa2d-d96752ed4ece"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Neutral_6500k",
+        "uuid": "3a7afa57-ebca-4f8c-a221-760340fce303"
+    },
+    {
+        "name": "Light_NPC_Unique_Minotaur",
+        "uuid": "40a34f4c-cf10-4bdc-ac3f-551030084e80"
+    },
+    {
+        "name": "Light_Fill_A_Yellow_Test",
+        "uuid": "654ce7d2-a7a1-4d39-bfa5-efc4515855c3"
+    },
+    {
+        "name": "Light_NPC_Unique_Snake",
+        "uuid": "66e7ca01-11e5-47c0-8cbb-4d1e9b145725"
+    },
+    {
+        "name": "Light_NPC_Unique_Quasit",
+        "uuid": "71749d1d-9b39-46c3-846d-9f342dc27b36"
+    },
+    {
+        "name": "LightSources_Fireplace_A",
+        "uuid": "77468be9-66f9-495b-9eb8-d01b2ea468ae"
+    },
+    {
+        "name": "Light_NPC_Unique_Bear",
+        "uuid": "8b63360b-35af-48aa-bb3c-6ff78dff80a9"
+    },
+    {
+        "name": "Light_MF_Nautiloid_Cannon",
+        "uuid": "902b8f42-a688-4288-8abe-fdfee9594d28"
+    },
+    {
+        "name": "Light_NPC_Unique_Boar",
+        "uuid": "96d120ae-2af3-4ca3-9936-43ef4f6af2b6"
+    },
+    {
+        "name": "Light_NPC_Unique_Hag",
+        "uuid": "9b0ef723-1b62-4211-acd6-3a68fe5b0005"
+    },
+    {
+        "name": "LightSources_Fireplace_A_Shadow",
+        "uuid": "a77f1d1b-098f-40f6-b844-ca69fdf12b30"
+    },
+    {
+        "name": "Light_NPC_Unique_Harpy",
+        "uuid": "b06e5b4b-7ea2-4fe6-81a4-8ffac363a0be"
+    },
+    {
+        "name": "Light_NPC_Unique_Wolf",
+        "uuid": "b5fafd8e-4b1f-4531-bd46-947f7fd947ba"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Sunlight_4800K",
+        "uuid": "ce4f9188-1996-4492-921a-551435b0ae2f"
+    },
+    {
+        "name": "Light_NPC_Unique_Bulette",
+        "uuid": "e5860395-600e-4149-b139-b32d375f6943"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Sunlight_4800K_GameplayLight_DecorativeLight",
+        "uuid": "e586341e-1e3e-4cda-9661-f76ab44cd789"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_White_Tall",
+        "uuid": "459a261e-0744-4046-8bd1-83f36ccd023d"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_White_Small",
+        "uuid": "75466be4-dbdc-42b6-b226-2639b5016f7b"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_Black_Small",
+        "uuid": "938d27cd-9138-4f80-8a7e-8aace531f89c"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_Black_Medium",
+        "uuid": "bbfa5c38-0506-4351-afe9-4a38fa0a9d9c"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_Black_Tall",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "Light_Lanceboard_Piece_White_Medium",
+        "uuid": "f2a8f3e5-405b-4f7c-9c57-34cd82da8ab7"
+    },
+    {
+        "name": "Light_NPC_Cambions",
+        "uuid": "00d3e05b-9983-4dee-8d38-714ff8580298"
+    },
+    {
+        "name": "Light_Timeline_Directional_Exterior_8000k",
+        "uuid": "0151af92-c281-4dfa-84bb-6fda5d4b2448"
+    },
+    {
+        "name": "Light_Dungeon_Fill_SpiderEggs",
+        "uuid": "01f93913-08bc-4feb-b812-340b89ac3329"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Fill_SharTemple",
+        "uuid": "03d551ac-bba6-4ce3-a09e-9f40aa5cb90b"
+    },
+    {
+        "name": "Light_Exterior_Night_Ambient_8000K",
+        "uuid": "04055779-1318-45fa-af39-7f5a496e506f"
+    },
+    {
+        "name": "Light_Surface_Overgrowth",
+        "uuid": "0483d18a-b816-4060-8e0a-d7fc35786b2f"
+    },
+    {
+        "name": "Light_Exterior_GameplayLight_Null_Generirc_converted",
+        "uuid": "04e5f9e8-3d88-ec99-5063-1468346789db"
+    },
+    {
+        "name": "VFX_LTS_Moonlantern_01_CINE",
+        "uuid": "04f7ce0c-29ec-4348-86d2-f1ba99940c7b"
+    },
+    {
+        "name": "BASE_Light_Nautiloid_Fill",
+        "uuid": "05289209-3d1e-4df5-aaa7-84e6ccce470e"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_Laculite",
+        "uuid": "052e8b33-defd-4969-be26-80f350e71db2"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_04_Flickering",
+        "uuid": "05434148-8a71-4425-b989-49bd17454ce6"
+    },
+    {
+        "name": "LightSources_Lanterns_GEN_City_Lantern_Pole_B",
+        "uuid": "056672b9-3c04-4334-9221-de1fc751a44c"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Blue_Fill",
+        "uuid": "05e55c4a-fda2-4768-bcaf-66d3bb0311b9"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Skylight_8000k",
+        "uuid": "05f1e6a1-73a1-486b-90c7-e3db74ac2009"
+    },
+    {
+        "name": "LightSources_Candles_Candle_A_Purple",
+        "uuid": "08e96feb-2b4c-4564-beee-1a4c97b917c1"
+    },
+    {
+        "name": "Light_PUZ_GEN_Trap_Mine_A_Rusty_A",
+        "uuid": "0a7364ed-626f-4f6f-ba74-c1218944b092"
+    },
+    {
+        "name": "Light_Timeline_Fill_Exterior_Neutral",
+        "uuid": "0ab0c838-f294-404b-a878-e74d67f9f353"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Interior_3200K",
+        "uuid": "0b8534eb-9615-466a-8ef3-54a8c1d9880e"
+    },
+    {
+        "name": "Light_NPC_Unique_Crab",
+        "uuid": "0b95fe74-ff14-4d1b-8818-9ce57503748f"
+    },
+    {
+        "name": "Light_NPC_Unique_Elemental",
+        "uuid": "0bc19327-067b-4628-9ea7-8892c1d9cd9c"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_NoFog_Netherbrain_Confrontation_01",
+        "uuid": "0beba590-1bb6-41f0-848a-b67ec9f33f30"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_Sky",
+        "uuid": "0c21aa5d-6fe6-4c16-89aa-f3cb12f0cf9d"
+    },
+    {
+        "name": "Light_NPC_Creature_Large",
+        "uuid": "0c90666e-95ca-4cb4-be36-bbde182e08cb"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXFillLight_Flicker_BloodOfLathander_01",
+        "uuid": "0caa5a80-ab69-4d21-8d4f-571b28569c44"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Blue",
+        "uuid": "0ce35582-43e8-4130-a935-3c0dbcab06b8"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_NoFog_EvilDarkUrge_01",
+        "uuid": "0e47187f-27d3-43cd-9d7e-03b95cb55480"
+    },
+    {
+        "name": "BASE_LightSources_Torches",
+        "uuid": "0ea455de-f14f-4541-af35-514f11eb1dc4"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_4800K_GameplayLight_DecorativeLight",
+        "uuid": "1002027a-2fbd-46f6-bd01-e41f80d7bd6b"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_ChasmCreeper",
+        "uuid": "10aad571-097a-4c84-b286-740903b3d317"
+    },
+    {
+        "name": "Light_NPC_Creature_Gremishka",
+        "uuid": "10d14e1c-5047-487f-ad77-2ae819efd234"
+    },
+    {
+        "name": "Light_Dungeon_SharTemple_Orb_A",
+        "uuid": "12404eec-6ade-4056-a1f1-c1a8e44ecd82"
+    },
+    {
+        "name": "Light_NPC_Unique_IntellectDevourer",
+        "uuid": "12fd041c-fef9-4c42-830b-7f1988f335cf"
+    },
+    {
+        "name": "Light_Player_BlindSight_Default",
+        "uuid": "13fa34e1-78ae-4d49-a69b-3a1f3987e53b"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_Cursed",
+        "uuid": "144031f8-06d0-4b76-8e25-1967f31c3c08"
+    },
+    {
+        "name": "Light_Surface_Lava",
+        "uuid": "150fd237-7810-4018-9f62-37a3b9dc7a44"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Red",
+        "uuid": "164d4e51-8b03-4b7a-922e-03ae82231a1c"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K_GameplayLight_converted",
+        "uuid": "16e5874a-af2f-4a50-97a4-0fbc3e03b7cc"
+    },
+    {
+        "name": "Light_Underdark_SussurTree",
+        "uuid": "16f197a5-d1df-4f36-b63e-07898401d7e6"
+    },
+    {
+        "name": "Light_Underdark_Fill_Lava",
+        "uuid": "172cfc5b-bc6e-49fd-a110-f6cdff0d0687"
+    },
+    {
+        "name": "BASE_Light_Dungeon",
+        "uuid": "17888045-c18d-4c6b-98bf-d71bc38c2acc"
+    },
+    {
+        "name": "LightSources_Candles_Cluster_A_Purple",
+        "uuid": "17dd6030-278a-4a31-9d7a-64f8b7f716bc"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_converted",
+        "uuid": "17ed7629-8a70-d139-50f0-e6187bde8cf9"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_Vegetation_GameplayLight_DecorativeLight",
+        "uuid": "1885f26a-e8b7-4595-9af6-1c17c5c870bd"
+    },
+    {
+        "name": "BASE_Light_Exterior_Noon_Ambient",
+        "uuid": "1b65eb6e-4f03-4d7f-a91a-4cdf6f82b3ae"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K",
+        "uuid": "1d985551-4b65-4140-9ce8-17aa7ce4e450"
+    },
+    {
+        "name": "Light_NPC_Unique_Spider",
+        "uuid": "1d9e170f-9215-47e8-b3ac-3099ebfc8e5b"
+    },
+    {
+        "name": "Light_Brain_Jar_A",
+        "uuid": "1dd11043-40aa-4998-981e-73ab8623207a"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Interior_3200K_GameplayLight_DecorativeLight",
+        "uuid": "203f4c13-f2ff-4429-9609-4e78f7478846"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXFillLight_Flicker_MizoraRomance_01",
+        "uuid": "20abd224-e100-4ae0-be0a-cf8256180d30"
+    },
+    {
+        "name": "Light_PUZ_Lever_Floor_A",
+        "uuid": "21c57f9b-eb0e-4244-b918-907b5e62e2cf"
+    },
+    {
+        "name": "LightSources_Torches_GEN_Torch_A_NOTAPPROVED",
+        "uuid": "21c9632b-f5d1-4dac-bb72-887dcc1896ff"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Blue",
+        "uuid": "21cb0311-9d78-4c32-888e-3eadfb3d27a5"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Vegetation_GameplayLight_DecorativeLight",
+        "uuid": "22904bf6-7ce0-4154-bfd8-4ec605dec757"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Skylight_8000k_GameplayLight_DecorativeLight_converted",
+        "uuid": "22a98d32-3a72-abf0-5edd-28fd981a1637"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Red",
+        "uuid": "22eebe2b-ebc5-4a6e-a4fe-002f6ec00d7d"
+    },
+    {
+        "name": "Light_Player_Darkvision_Spot_Default",
+        "uuid": "233033a1-b43a-4ad9-976a-8a062b345e21"
+    },
+    {
+        "name": "Light_NPC_Unique_Ooze",
+        "uuid": "2397785c-efc7-4a82-b64e-bb5135e5448b"
+    },
+    {
+        "name": "BASE_Light_Dungeon_GameplayLight_converted",
+        "uuid": "23f7dd51-86ee-4f01-09bc-cc6d5f1eacb0"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K",
+        "uuid": "24401833-819b-469d-940a-e93b46aa5005"
+    },
+    {
+        "name": "Light_NPC_Children",
+        "uuid": "24afdcf6-f1b9-4eca-ba8b-41f5413c2582"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Large_01",
+        "uuid": "2555c5fd-b7c6-4e51-8d06-53e33a4ee728"
+    },
+    {
+        "name": "VFX_LightSources_GEN_Torch_A_Fill_01_NOTAPPROVED",
+        "uuid": "262dd87c-5cc1-412e-af18-1b1740c7ddfd"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Temperature_01",
+        "uuid": "27a0dad9-7edf-4f9f-a767-dd6fc6c0518b"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_02",
+        "uuid": "27d5d6de-4c3a-4f1c-b1e3-f90c6d986213"
+    },
+    {
+        "name": "Light_NPC_Unique_Automaton",
+        "uuid": "27dfa9e1-67ee-47b6-b6d7-b74c5aab3f0a"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_Viridian",
+        "uuid": "2819d0f2-a384-4507-96b8-9aa147e9eee5"
+    },
+    {
+        "name": "Light_PUZ_GEN_Trap_Mine_A_Copper_A",
+        "uuid": "28d5f061-b7cf-4918-a3f2-33eff1854d98"
+    },
+    {
+        "name": "BASE_Light_Volumetric",
+        "uuid": "28dc173f-efe0-4509-a1e4-63a2d0c2e3e2"
+    },
+    {
+        "name": "Light_NPC_Unique_Kuotoa",
+        "uuid": "299be439-624e-45d7-b4ae-9914d90ff161"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_DecorativeLight",
+        "uuid": "29cc7c3d-0005-440d-9f25-f8bcbe7ba02d"
+    },
+    {
+        "name": "BASE_Light_NPC",
+        "uuid": "2b031585-37fb-422f-ab60-c13c994c6a72"
+    },
+    {
+        "name": "VFX_LTS_Status_Light_01",
+        "uuid": "2ba2e61e-4f31-4b45-a82d-0cb35d357311"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Skylight_8000k_GameplayLight_converted",
+        "uuid": "2bca9921-d652-e030-69a2-3d7c4a20b707"
+    },
+    {
+        "name": "LightSources_Campfires_CampFire_A",
+        "uuid": "2d722bc8-b948-4c17-8e88-72b435287357"
+    },
+    {
+        "name": "VFX_LTS_Alchemy_Miscellaneous_Candlestick_A_NOTAPPROVED",
+        "uuid": "2e7acb41-0bd0-4b97-b000-d7246fd49e8f"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Sunlight_4800K_GameplayLight_DecorativeLight",
+        "uuid": "2ee4fd93-3618-4781-b34a-2334d9fc8ce4"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_8000K",
+        "uuid": "2f4d974a-6503-4914-a806-e2d1fb5392be"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Green",
+        "uuid": "309a4f86-542e-4b0c-a151-b73d94e06eeb"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_Vegetation",
+        "uuid": "30bd941c-f2d3-4a96-8698-b59a47f61ac1"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K_GameplayLight_DecorativeLight",
+        "uuid": "314edc52-df78-409e-bdd4-edb59cf3c398"
+    },
+    {
+        "name": "Light_Fill_A_Yellow",
+        "uuid": "3320e1ea-41e7-4b23-bc80-d827aefaeaac"
+    },
+    {
+        "name": "Light_NPC_Unique_Rat",
+        "uuid": "34de8767-489c-4446-bce2-8d57e29a075b"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight_DecorativeLight_converted",
+        "uuid": "34e349a0-958f-1be7-582c-2dc0d5d78b95"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_02_Flickering",
+        "uuid": "3589428d-ff90-4217-9c11-0ac006f6aa05"
+    },
+    {
+        "name": "Light_Timeline_Directional_KethericCity_Neutral",
+        "uuid": "359d1666-cc7b-41eb-a80d-07d1decb56c4"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_WorldOnly_01",
+        "uuid": "35b8e2b0-9cb0-4dae-9b46-878d28164d0a"
+    },
+    {
+        "name": "Light_NPC_Humans",
+        "uuid": "362270fc-bf6b-4603-bb8a-6deebbcca47b"
+    },
+    {
+        "name": "LightSources_Torches_GEN_Torch_A",
+        "uuid": "362cb1b2-3650-47cd-836f-76f2ad5dd83f"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Shadowcasting_01",
+        "uuid": "36eae71e-d00e-455d-a33c-86443adfe26f"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Middle_A",
+        "uuid": "36f113eb-b240-4c03-978c-e38e43d04b68"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_3000K",
+        "uuid": "37060865-48b3-4959-ac5e-02788f47c850"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_Revocation",
+        "uuid": "377eb77a-608e-4825-9b8e-cbfef0526210"
+    },
+    {
+        "name": "LightSources_Campfires_BonFire_A",
+        "uuid": "37ecdd72-9e3a-4054-8c9b-7aaf0557b0e7"
+    },
+    {
+        "name": "BASE_LightSources_Lanterns",
+        "uuid": "38cc68b6-c799-47f6-a504-282dff2d0316"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_Fire",
+        "uuid": "3940d25f-1b8e-4646-beb4-78cb29c975e7"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_07",
+        "uuid": "3b275346-8241-42c8-bac7-b305ad3e0081"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_Purple",
+        "uuid": "3b87202f-286a-4410-9b6d-c63043e9c803"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_Red_GameplayLight_DecorativeLight",
+        "uuid": "3cfc6b75-299e-4861-aaab-3cfc8320d10e"
+    },
+    {
+        "name": "BASE_Light_Timeline",
+        "uuid": "3ee07e3d-b87f-47aa-95de-44d4eb9b56e3"
+    },
+    {
+        "name": "Light_Player_Darkvision_Spot_Humans",
+        "uuid": "3f14f857-bd0f-4538-b059-9b18fb9af723"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_01_Flickering",
+        "uuid": "3fa3be48-0bc3-4d84-88d3-d26540a29e13"
+    },
+    {
+        "name": "Light_Player",
+        "uuid": "3faa1c66-5d35-4e87-868e-d124168b660f"
+    },
+    {
+        "name": "Light_NPC_Goblins",
+        "uuid": "403de5d3-226a-4b18-976b-18074e9d4317"
+    },
+    {
+        "name": "BASE_LightSources_Chandeliers",
+        "uuid": "424a8ccc-a6af-4771-a574-08ab1239d385"
+    },
+    {
+        "name": "Light_Player_Darkvision_Point_Default",
+        "uuid": "42cf7045-17aa-4e06-b3cf-04a1738d48f6"
+    },
+    {
+        "name": "Light_PUZ_GEN_Trap_Mine_A_Poison_A",
+        "uuid": "4349b62f-0e78-4191-bd53-81d17a791a17"
+    },
+    {
+        "name": "BASE_LightSources_Bowls",
+        "uuid": "43626fbb-ba8f-4841-87e6-2402adbed522"
+    },
+    {
+        "name": "VFX_SpotLight_Template_FXLight_02",
+        "uuid": "4386f1c2-552e-4b8c-abb1-94acdf848389"
+    },
+    {
+        "name": "LightSources_Lanterns_WPN_Torch_Lantern_A",
+        "uuid": "43c62e81-4445-42dd-90c3-f90ebb82b140"
+    },
+    {
+        "name": "LightSources_Bowls_FireBowl_A_Purple",
+        "uuid": "43c670b9-de76-45e1-9767-3b7243fb9d59"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_Sky_GameplayLight_DecorativeLight",
+        "uuid": "44b08b6f-485c-4df6-b965-cbd892653211"
+    },
+    {
+        "name": "Lightsource_Crystal_Vase_B_Jade",
+        "uuid": "47ef2d91-8b8e-44a3-9367-14d3c6945e0c"
+    },
+    {
+        "name": "LightSources_Gems_Glowing_Blue",
+        "uuid": "4969558c-dd6b-4a1d-8a5d-c7c9bbbbb080"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Cinematic_01",
+        "uuid": "49cc18e2-625c-48cb-bfc3-7823c0af0860"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Intermezzo_FXLight_01",
+        "uuid": "49e316f3-b572-464a-96c8-bc7e7d317862"
+    },
+    {
+        "name": "Light_NPC_Creature_Medium",
+        "uuid": "4a2b554e-69c1-4137-b6a8-f8065bf2b5cc"
+    },
+    {
+        "name": "LightSources_Underdark_Gems_Glowing_Purple",
+        "uuid": "4af19b77-601f-4afa-bd53-ddc2612ce7fd"
+    },
+    {
+        "name": "BASE_Light_Cinematic_Background_Battle_Evil",
+        "uuid": "4b11f365-05f1-4409-91bb-ea0541320c81"
+    },
+    {
+        "name": "VFX_PointLight_Template_500Lumens_White_01",
+        "uuid": "4b277c0f-856a-431a-840f-59a614a2cdfb"
+    },
+    {
+        "name": "LightSources_Candles_Cluster_A",
+        "uuid": "4c18d0ad-f846-4023-86f1-14c5a516b784"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Blue_GameplayLight_DecorativeLight",
+        "uuid": "4d692218-b74b-46c7-9cb3-efcd3211926a"
+    },
+    {
+        "name": "Light_Volumetric_A_White",
+        "uuid": "4e3945e3-b5c2-466f-a5d7-5af6e27203aa"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Red_GameplayLight_DecorativeLight",
+        "uuid": "4e8188dc-b20a-441e-b095-13f17eb263f5"
+    },
+    {
+        "name": "VFX_SpotLight_Template_FXLight_01",
+        "uuid": "4ec5e8b5-58ba-4373-9f70-d6bbfa855052"
+    },
+    {
+        "name": "Light_PUZ_Button_A",
+        "uuid": "4ecedfae-d424-46e9-b524-3c54370f0887"
+    },
+    {
+        "name": "LightSources_Lanterns_CIN_CITY_KarlachRomance_A",
+        "uuid": "5022a455-1be1-4c5e-9867-1a43d2942d88"
+    },
+    {
+        "name": "Light_Timeline_Fill_Exterior_8000K",
+        "uuid": "50da3dea-c2a8-444f-b71a-459582a2b039"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Small_A",
+        "uuid": "51da55c6-5177-4814-997b-7ecd8c518a35"
+    },
+    {
+        "name": "Light_Surface_Brine",
+        "uuid": "523b5022-7e1c-42a5-8c27-f8fddd04d896"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_DecorativeLight_converted",
+        "uuid": "52b49ead-77b4-7ec4-7f88-31c46bcb93ef"
+    },
+    {
+        "name": "VFX_LTS_Light_Divine_01",
+        "uuid": "533f6a9a-a1dc-47d0-ad6b-08e9d4303d09"
+    },
+    {
+        "name": "VFX_PointLight_Template_Flickers_01",
+        "uuid": "542ba6d9-5808-4db8-9c56-2156a53a2158"
+    },
+    {
+        "name": "Light_Surface_Poison",
+        "uuid": "553d43bc-a8c7-41f8-9cab-f94fa5d37557"
+    },
+    {
+        "name": "Light_Mushroom_Bibberbang_B",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_ControlPanel",
+        "uuid": "57c8d857-0b3b-4261-b382-8d2f64eee830"
+    },
+    {
+        "name": "Light_DruidSubs_TunnelTurret_Idle_01",
+        "uuid": "585f690e-2028-45bb-a091-074c7facc94c"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_01",
+        "uuid": "5874a588-b4ad-4a78-a823-8f5f739555be"
+    },
+    {
+        "name": "Light_Dungeon_Bounce_Neutral_4200k",
+        "uuid": "58f63177-7bf8-4e7e-9507-f697064d0730"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_6400K_GameplayLight_DecorativeLight",
+        "uuid": "59da0fb0-e0f6-4590-ae02-31a7bfb90a68"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Shartemple_GameplayLight_DecorativeLight",
+        "uuid": "5a75accc-2509-456f-bfbf-172e665789a1"
+    },
+    {
+        "name": "BASE_LightSources_Campfires",
+        "uuid": "5ab7b78f-a3bb-4c45-82c8-d0f8e094e92c"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_3200K_Green",
+        "uuid": "5cb5d56d-2c4e-4c23-80c1-53c64ae1d3d8"
+    },
+    {
+        "name": "LightSources_Candles_Candle_A_White",
+        "uuid": "5d25cf21-27f3-4099-9f61-3d44f80f5765"
+    },
+    {
+        "name": "BASE_Light_Cinematic_Background_Battle",
+        "uuid": "5dde0905-b403-48d3-bd9a-5752ab33b3b5"
+    },
+    {
+        "name": "Light_NPC_Unique_Tadpole",
+        "uuid": "6037f813-6983-49e0-939c-6cd8d5ea9113"
+    },
+    {
+        "name": "VFX_LTS_Light_Divine_Cinematic_01",
+        "uuid": "606bdb1d-3f5f-437d-b848-c3c233697ba0"
+    },
+    {
+        "name": "Light_Fill_A_Yellow_GameplayLight_DecorativeLight",
+        "uuid": "60c65229-5458-4f60-bcb0-0f2a7fc5e6da"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Shadowcasting_03",
+        "uuid": "620f37c1-c628-4f18-8be6-09a42d66c7a5"
+    },
+    {
+        "name": "Light_Dungeon_Fill_EeryGreen",
+        "uuid": "639c6e31-d9d5-440d-8f02-5b626ad9556b"
+    },
+    {
+        "name": "VFX_LTS_DeadWillOWisp_01",
+        "uuid": "643b73bf-fb37-4727-ad22-00f865f72fcf"
+    },
+    {
+        "name": "Light_NPC_Creature_Huge",
+        "uuid": "64682e04-5083-49f8-8a68-4e6e53e24fb9"
+    },
+    {
+        "name": "LightSources_Torches_Sconce_Wall_A",
+        "uuid": "660c9311-2ce6-4289-8c2c-6824ff057aea"
+    },
+    {
+        "name": "Light_Underdark_Fill_Default_GameplayLight_DecorativeLight",
+        "uuid": "66e43bb3-57e1-488a-b54a-68f2ac03e15c"
+    },
+    {
+        "name": "Light_Dungeon_Fill_GameplayLight_DecorativeLight_converted",
+        "uuid": "67049d13-3c60-1d38-858b-b7145c478242"
+    },
+    {
+        "name": "VFX_PointLight_Template_Flickers_02",
+        "uuid": "682bd30e-0621-4afb-974e-32c2d81a4626"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_DecorativeLight_GameplayLight_DecorativeLight_converted",
+        "uuid": "6849ee6e-b1f8-61cb-bcc7-efd8289dbd92"
+    },
+    {
+        "name": "LightSources_Candles_Candle_A",
+        "uuid": "69350ec2-3d45-4b6b-9263-455a62e2982a"
+    },
+    {
+        "name": "Light_Dungeon_Fill_GameplayLight_converted",
+        "uuid": "6a042882-a47b-6792-9178-3b76980de9bc"
+    },
+    {
+        "name": "BASE_Light_Items",
+        "uuid": "6aa40391-2ec2-4b01-9523-1c9dcfaa0b93"
+    },
+    {
+        "name": "Light_DruidSubs_TunnelTurret_Attacking_01",
+        "uuid": "6ad3ddb4-1212-41cd-a05f-e282e06e5f39"
+    },
+    {
+        "name": "Light_Surface_Hellfire",
+        "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_3200K",
+        "uuid": "6c2367ca-f7c4-491b-acb8-53cf4c405bcb"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_PurpleFluorite",
+        "uuid": "6c440de8-374d-4f0d-a713-9870b941e1fa"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_Interior_Neutral",
+        "uuid": "6c9b7103-4b38-49c3-8b75-37e29540db10"
+    },
+    {
+        "name": "BASE_Light_Exterior_Noon_Directional",
+        "uuid": "6cfcf8bb-8843-4a1f-9722-7bc58e9248b0"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_4800K",
+        "uuid": "6d813c7e-62ae-4fba-948b-f49b765a8d36"
+    },
+    {
+        "name": "BASE_LightSources_Crystal_Interior",
+        "uuid": "6ec0f24d-ef38-4c27-a298-2814e9b02e99"
+    },
+    {
+        "name": "Light_Exterior_Noon_Ambient_8000K",
+        "uuid": "71031ee5-e423-4c38-b40c-12a4a84257a7"
+    },
+    {
+        "name": "Light_FUR_MF_Tadpole_Pool_A",
+        "uuid": "714911e1-c5ee-4b43-b91c-77b56313f5da"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Shadowcasting_02",
+        "uuid": "7265ff07-94a9-4be4-863a-ebb4378da265"
+    },
+    {
+        "name": "VFX_Cinematic_DirectionalLight_UpwardFade_01",
+        "uuid": "72dee32a-2cb5-4ffd-9079-301d7e98b14c"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_H",
+        "uuid": "738f1289-1047-4f7e-8898-9dba2ca7cc00"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Soft_FXLight_01",
+        "uuid": "74fe5a6d-a973-454c-91b9-b77c90e563c8"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_6400K",
+        "uuid": "75421240-fb16-454a-bf82-587f3ea5bbf6"
+    },
+    {
+        "name": "LightSources_Candelabras_Candelabra_A",
+        "uuid": "764ad26f-9fdb-4825-8d89-e1e7160294b1"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Red",
+        "uuid": "767c96eb-e347-4039-9d07-071153333945"
+    },
+    {
+        "name": "Light_NPC_Unique_Dragon",
+        "uuid": "782d9d58-f4c5-4500-a16e-b81d737bcc53"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight_converted",
+        "uuid": "783e5040-7668-3309-f0ae-716dfd0ec17e"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_NoFog_01",
+        "uuid": "78da676f-f144-454a-9b59-a3363f2aa3f7"
+    },
+    {
+        "name": "Light_Dungeon_Fill_GameplayLight_DecorativeLight",
+        "uuid": "7995b4d4-a95c-4c93-a298-4d2620c1f27c"
+    },
+    {
+        "name": "Light_Shadowcursed_Directional_Cracks",
+        "uuid": "7a9ae19a-5f68-417f-934d-2d76df649735"
+    },
+    {
+        "name": "LightSources_MF_BrinePool_A",
+        "uuid": "7b799a24-e660-4d23-bbad-5e7474307dab"
+    },
+    {
+        "name": "Light_ShadowCursed_Bounce_Neutral_6400k",
+        "uuid": "7ba3dc36-b051-45c7-82e8-ba400dd34f0d"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Skylight_8000K",
+        "uuid": "7c3f3516-d337-451d-a545-227437f999fd"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight",
+        "uuid": "7ca4dcb9-288c-4210-aeae-0430aef32127"
+    },
+    {
+        "name": "LightSources_Scenery_Fireflies_Green",
+        "uuid": "7cc44a00-b81b-46fb-813a-c6eefee639f0"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K_GameplayLight_DecorativeLight",
+        "uuid": "7d0243ff-fb44-47f8-932d-2df3dee299ef"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_4800K_GameplayLight_DecorativeLight",
+        "uuid": "7d9002d1-e809-4aea-a47c-847916163608"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_Interior_Red",
+        "uuid": "7e02896e-b2ff-4819-8795-d382579a98f8"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXFillLight_Flicker_01",
+        "uuid": "7fda79bd-c13f-4d2d-949b-548dfeb1a927"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_03_Flickering",
+        "uuid": "7fe8e2f1-789f-45b4-ae5b-9277943f4b0d"
+    },
+    {
+        "name": "Light_NPC_Unique_Adamantine_Golem",
+        "uuid": "8190aadc-73bd-45b0-8445-8a3305ea83dc"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Shadow_01",
+        "uuid": "819e576f-6679-4d55-b96d-1171b7b3042a"
+    },
+    {
+        "name": "Light_Player_Fill",
+        "uuid": "81e0ad21-40b6-43e1-a849-39fcb9a1c052"
+    },
+    {
+        "name": "Light_Player_Dimmed",
+        "uuid": "8293d4b5-c3ec-4480-837c-f97a4ebfbe92"
+    },
+    {
+        "name": "Light_Fill_A_White_GameplayLight_DecorativeLight",
+        "uuid": "82d5a34d-1278-4440-ab12-888774d4e371"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Skylight_8000K",
+        "uuid": "84580f5a-5e0c-4165-ae21-4c83528ff61d"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight_DecorativeLight_GameplayLight_DecorativeLight",
+        "uuid": "849ed7b0-e48b-422b-8c9c-3e858c2683d7"
+    },
+    {
+        "name": "LightSources_Campfires_CampFire_A_FX_NOTAPPROVED",
+        "uuid": "855d1f8d-0df7-4b59-8c40-512dcda9e99a"
+    },
+    {
+        "name": "VFX_LightSources_DUN_Candlestick_Wall_A_01_NOTAPPROVED",
+        "uuid": "85a01b66-d419-405c-8e29-d24a95d0b0bb"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_05",
+        "uuid": "87bfff16-76df-4c54-88e0-b0849b528ab3"
+    },
+    {
+        "name": "LightSources_Scenery_Mushroom_Nightlight_A",
+        "uuid": "87c086f7-3f4a-4882-a423-1a2aa49a93f7"
+    },
+    {
+        "name": "LightSources_Candelabras_Candelabra_A_Purple",
+        "uuid": "87de4ef1-5443-4a34-b292-da25a8c77555"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_10000K",
+        "uuid": "89fc3e34-9c79-44d7-b348-c276e956ee4b"
+    },
+    {
+        "name": "Light_NPC_Unique_Mimic",
+        "uuid": "8b3e871d-4f50-4d32-ba11-e6eee7e968b0"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Torch_01",
+        "uuid": "8bd02c64-5ff7-4ad1-a9b3-e7d3fd3e86d8"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Interior_Bhaal",
+        "uuid": "8c1d0fcb-ce71-489b-bb8b-b9b256df0cf9"
+    },
+    {
+        "name": "BASE_Light_Dungeon_GameplayLight_DecorativeLight",
+        "uuid": "8d03f49f-92c4-4cec-bd40-32d82beed4ba"
+    },
+    {
+        "name": "BASE_Light_Exterior",
+        "uuid": "8d4d5456-2caf-4387-99f6-1d611702ad4d"
+    },
+    {
+        "name": "Light_PL_Fireplace_A_NOTAPPROVED",
+        "uuid": "8e1f4f0b-4779-4f9e-b332-3ccd3cce1378"
+    },
+    {
+        "name": "BASE_Light_Player",
+        "uuid": "8ec39473-bde8-4743-a39b-3fd0b5148c81"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_LolthsCandle",
+        "uuid": "6503c830-9200-409a-bd26-895738587a4a"
+    },
+    {
+        "name": "Light_NPC_Unique_Imp",
+        "uuid": "8fb6d54c-516e-45c7-a251-798df4738921"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_2500K",
+        "uuid": "902c2510-0ca5-45c5-818b-6bd0275bf74d"
+    },
+    {
+        "name": "Light_Timeline_Directional_KethericCity_Lava",
+        "uuid": "91074155-a953-4100-b04b-eeed5e66cba3"
+    },
+    {
+        "name": "LightSources_Torches_GEN_Torch_A_FX_NOTAPPROVED",
+        "uuid": "91107099-a2c1-4a3b-b6a0-a88760016944"
+    },
+    {
+        "name": "Light_Fill_A_Blue",
+        "uuid": "9178ab95-e9e6-40ed-802e-2ab958ab9f5a"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_03",
+        "uuid": "918997a5-89f4-445d-bd85-1c8bca8838fd"
+    },
+    {
+        "name": "VFX_LTS_Arcane_Teleport_Platform_A_Over",
+        "uuid": "91a3bf3a-7272-4813-a552-9870582278c9"
+    },
+    {
+        "name": "Light_Fill_A_Blue_GameplayLight_DecorativeLight",
+        "uuid": "92f027cb-a502-4da9-9813-15eecf15ef5c"
+    },
+    {
+        "name": "LightSources_Torches_Goblins_Camp_Torch_A",
+        "uuid": "9395f466-1b47-46e7-93e8-2cb264409167"
+    },
+    {
+        "name": "Base_Light_Underdark_Mushroom_Tree",
+        "uuid": "940779e4-d0f2-43df-abb5-10f6f53ce072"
+    },
+    {
+        "name": "VFX_LTS_BLD_Dungeon_Abbey_A_Fireplace_A_NOTAPPROVED",
+        "uuid": "9560bffe-e867-4005-9032-a958cb09c500"
+    },
+    {
+        "name": "Light_Exterior_GameplayLight_Null_Generirc_DecorativeLight",
+        "uuid": "96048c15-6feb-41cb-ab62-ef41e6e39cc2"
+    },
+    {
+        "name": "Light_Dungeon_Spotlight_Sun",
+        "uuid": "973a92a2-e68a-41bf-a5c9-06d16dbe4d4b"
+    },
+    {
+        "name": "BASE_Light_Nautiloid",
+        "uuid": "97e98ecd-7271-4717-a062-8208d382c6c4"
+    },
+    {
+        "name": "Light_Brain_Jar_B",
+        "uuid": "98b9b519-1a0e-4d9b-b1a9-ed792133d4cf"
+    },
+    {
+        "name": "LightSources_Torches_Sconce_Wall_A_FX_NOTAPPROVED",
+        "uuid": "98f8d725-4990-4dfb-a101-73c904fd4d7f"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_Wires_Lamp",
+        "uuid": "9a69e0c5-c6a2-4050-9810-024da874beac"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fire",
+        "uuid": "9bf6c407-4f62-4582-8cb6-f76d7b03cb71"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Blue_Fill_GameplayLight_DecorativeLight",
+        "uuid": "9ddd342b-0354-430b-a894-42be38ddb75d"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_SylvanStone",
+        "uuid": "9fc32d65-fda4-434a-8e6c-aed41103fd1e"
+    },
+    {
+        "name": "Light_Fill_A_White",
+        "uuid": "9fcd5407-2540-4071-89bc-fc19dbd02702"
+    },
+    {
+        "name": "Light_Surface_Fire",
+        "uuid": "9ff342d2-3782-4ced-9ab4-dfa84211c617"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXFillLight_01",
+        "uuid": "a1e5d1bd-213f-432a-84f1-cb05f3405471"
+    },
+    {
+        "name": "Light_Dungeon_Bounce_Neutral_4200k_GameplayLight_DecorativeLight",
+        "uuid": "a21b8ea1-bdb8-4865-bc1c-81ce59417f92"
+    },
+    {
+        "name": "Light_Surface_Acid",
+        "uuid": "a29eb200-e687-44d6-b503-1fdb251959aa"
+    },
+    {
+        "name": "LightSources_Candles_Cluster_A_White",
+        "uuid": "a2a609d7-f72b-4bbd-9db9-ea5c85d71abb"
+    },
+    {
+        "name": "LightSources_Campfires_CampFire_A_ShadowCasting",
+        "uuid": "a3a50e71-f3ef-4c56-b359-46d6df1b162e"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_02",
+        "uuid": "a46a5895-1fe5-4bcf-8c2c-48c9bcd5d7c6"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Interior_3200K",
+        "uuid": "a4b912d8-5d60-4756-aef9-69f1c2805e43"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Tree_Big_A",
+        "uuid": "a4e0bae8-7e41-4349-a932-973f39555537"
+    },
+    {
+        "name": "LightSources_Scenery_FireflyNest_Orange",
+        "uuid": "a514cd5d-e544-4d8b-b68e-9c55b3d961ea"
+    },
+    {
+        "name": "LightSources_Gems_Glowing_Purple",
+        "uuid": "a51c5bbb-a2f4-4ea9-80b3-e05d43f92d62"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Shadow_01",
+        "uuid": "a52db6fd-f006-4408-8320-32bf4834e7bb"
+    },
+    {
+        "name": "VFX_LightSources_WPN_DippedInFire_01",
+        "uuid": "a5a2a3db-0f63-49a0-9122-d767583d43a7"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_C",
+        "uuid": "a5c46760-f4fc-49e3-b59d-07e044465bc0"
+    },
+    {
+        "name": "Light_Timeline_Directional_DungeonEV10_Neutral",
+        "uuid": "a5ccb62f-6d63-4667-bad3-fe49af34abd9"
+    },
+    {
+        "name": "Light_PL_Torch_A_NOTAPPROVED",
+        "uuid": "a6603591-2575-4677-aca8-8f06d2cce74e"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_RestingStation",
+        "uuid": "a7d77925-1a33-40de-aa51-8fc5be48a371"
+    },
+    {
+        "name": "Light_Exterior_Noon_Directional_6400K",
+        "uuid": "a9029004-9431-4f4c-90ff-578fe0804aa6"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Filllight_Tree_Growth_01",
+        "uuid": "a9f8f3cb-e58e-4178-87d4-4caa57129dc4"
+    },
+    {
+        "name": "Light_Underdark_Directionnal_Lava",
+        "uuid": "ab21aa2a-db05-49a3-9ef8-89f5312910f4"
+    },
+    {
+        "name": "Light_NPC_Unique_Animated_Armor",
+        "uuid": "ac1966cf-bf38-483f-b3df-5101b7f10487"
+    },
+    {
+        "name": "BASE_LightSources_Candles",
+        "uuid": "ac38d306-3f7a-4f4f-9ad0-c218a24e73c5"
+    },
+    {
+        "name": "Light_BLD_GEN_Arcane_Turret",
+        "uuid": "acaa8736-1cee-4eb6-bc38-dbb4d98048e8"
+    },
+    {
+        "name": "Light_Player_Off",
+        "uuid": "ace7010c-83ee-4103-90ca-3b41c350eb53"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fire_GameplayLight_DecorativeLight",
+        "uuid": "ad6b17dd-9b73-4285-ad2d-b8d7ddc050ed"
+    },
+    {
+        "name": "Light_Dungeon_Fill",
+        "uuid": "ae8105f5-0490-4d85-9ef7-b6beeedea3a3"
+    },
+    {
+        "name": "BASE_Light_Surface",
+        "uuid": "aebc5e28-08b4-4c10-b754-c3062a9e2b20"
+    },
+    {
+        "name": "Light_NPC_Unique_Beholder",
+        "uuid": "af2022fe-e939-4337-abb9-014fddccecb4"
+    },
+    {
+        "name": "Light_Surface_AlienOil",
+        "uuid": "afd2b7e3-e810-4ff1-b2d7-5ae630734f21"
+    },
+    {
+        "name": "Light_Dungeon_Directional",
+        "uuid": "b08b48d3-d835-40b7-964f-dd8c0ff88378"
+    },
+    {
+        "name": "VFX_LTS_DancingLight_01",
+        "uuid": "b1555b54-02d2-429f-ac94-5245b53350ff"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Neutral_6500K_GameplayLight_DecorativeLight",
+        "uuid": "b1ea2c33-2772-4f4e-b5f1-82827f029f3a"
+    },
+    {
+        "name": "Light_PL_Candle_A_NOTAPPROVED",
+        "uuid": "b2183b7f-bdf9-402f-9ee0-d0c2e189d0d2"
+    },
+    {
+        "name": "Light_NPC_Unique_Spider_Summon",
+        "uuid": "b225eb05-e36a-4aa0-84f9-959057688711"
+    },
+    {
+        "name": "Light_NPC_Dwarves",
+        "uuid": "b234b998-1f4f-46f1-9fb5-6d28cf811165"
+    },
+    {
+        "name": "BASE_LightSources_Crystal_Exterior",
+        "uuid": "b2a8cae1-55ed-4ede-a73e-ac913dfba63e"
+    },
+    {
+        "name": "VFX_LightSources_WPN_DippedInFire_Cinematic_01",
+        "uuid": "b30b543e-7514-4a69-bf24-8c08911d891c"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k",
+        "uuid": "b3f8ae4e-eece-4eaf-95c3-631956bd3965"
+    },
+    {
+        "name": "Light_Unique",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "Light_NPC_Creature_Small",
+        "uuid": "b62fa66d-5720-449a-96ea-3d69f0facfce"
+    },
+    {
+        "name": "VFX_LTS_Moonlantern_01",
+        "uuid": "b655a09d-efdd-4681-92c8-4dbbbdc564ea"
+    },
+    {
+        "name": "Light_NPC_Creature_Tiny",
+        "uuid": "b8299899-3785-42f2-aaf3-6c26445545b3"
+    },
+    {
+        "name": "Light_Mushroom_Bibberbang_A",
+        "uuid": "b83ea817-1659-4403-a029-949e061bbd61"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_PurpleFluoriteShard",
+        "uuid": "b93d0654-0f66-4e11-9ec1-c29535c91449"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_K",
+        "uuid": "b95cf740-a8ea-449a-b144-ac7063c24c03"
+    },
+    {
+        "name": "Light_Underdark_Directionnal_Lava_GameplayLight_DecorativeLight",
+        "uuid": "bac05277-500c-4fec-b26f-3ab32440e11f"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FogLight_01",
+        "uuid": "bb0afd77-3b50-405e-b030-9d6f52d752d0"
+    },
+    {
+        "name": "VFX_LightSources_GEN_Torch_A_01_NOTAPPROVED",
+        "uuid": "bb5e91f7-26d7-4c5b-a8de-b044c11256b6"
+    },
+    {
+        "name": "Light_NPC_Unique_Cat",
+        "uuid": "bb752c7c-d272-42d6-8b3e-618f0827ff1c"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_BrainJar",
+        "uuid": "bcb062aa-4fde-48dd-be3f-2dd48028847d"
+    },
+    {
+        "name": "Light_ShadowCursed_Bounce_Neutral_6400k_GameplayLight_DecorativeLight",
+        "uuid": "bcec5df6-8245-4bd2-aad8-5146e8ac7bfc"
+    },
+    {
+        "name": "Light_NPC_Unique_Spider_Queen",
+        "uuid": "bd4274e1-44f3-4950-b1d6-e166d4a68d0d"
+    },
+    {
+        "name": "LightSources_Lanterns_GEN_City_Lantern_A",
+        "uuid": "be2cb332-eafb-4a00-867f-ade578c43a8a"
+    },
+    {
+        "name": "LightSources_Bowls_FireBowl_A",
+        "uuid": "bf25eb77-2e50-416b-97c9-dc9d33d10638"
+    },
+    {
+        "name": "Light_LTS_GEN_Spider_Eggs_A",
+        "uuid": "bf55c636-2602-4a65-9ee5-3b30e148a9c2"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Cinematic_01",
+        "uuid": "bfe5c3b1-98b4-4cc2-98ca-4bff0fe190cf"
+    },
+    {
+        "name": "Light_Underdark_Beam_Fill",
+        "uuid": "c1a98ea8-4cfb-4c73-aa02-185674d4cf07"
+    },
+    {
+        "name": "Light_NPC_Unique_Spider_Tiny",
+        "uuid": "c20762da-c531-4a81-bb07-78a651af6b1b"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Sunlight_4800K",
+        "uuid": "c236cbe6-4ffb-4b74-87f9-85646e1239d9"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_Green",
+        "uuid": "c26d5ab9-d39c-4019-8ba5-9352d501701c"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Orange",
+        "uuid": "c3301eb0-6fa6-4f35-9173-790718c848ec"
+    },
+    {
+        "name": "VFX_LightSources_ProduceFlame_01",
+        "uuid": "c42ca3f2-c56d-4950-bdcc-20d9b3d24037"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Vegetation",
+        "uuid": "c8305b59-ab74-4ae4-824b-96e48c1cb73f"
+    },
+    {
+        "name": "BASE_Light_VFX_Script",
+        "uuid": "c8591ed3-5803-472b-9412-e1379ce6b866"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Interior_3200K",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_4800K",
+        "uuid": "ca08cd9c-609b-43b0-97e5-c16b636a4c68"
+    },
+    {
+        "name": "Light_Underdark_Beam",
+        "uuid": "ca1bc1d9-9463-45ed-b4d2-f5949341b25c"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_A",
+        "uuid": "cae6bb05-a5ca-4c32-b05b-cd94949bb02b"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Interior_3200K_GameplayLight_DecorativeLight",
+        "uuid": "cb5b0bf6-d187-415e-a80b-7b89f6764b7f"
+    },
+    {
+        "name": "VFX_LTS_Arcane_Teleport_Platform_A",
+        "uuid": "cd85dd82-c2d2-4a65-aaa5-28bc416db26e"
+    },
+    {
+        "name": "Light_ShadowCursed_Fill_Cracks",
+        "uuid": "cdd27f2a-890c-4423-bbd6-fb8123a5caef"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Mindflayer_Membrane_A",
+        "uuid": "d02841e5-3a6d-4ce3-b33b-bcb7de82267f"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_SkeletalDragon_FlightState_01",
+        "uuid": "d2621df0-1640-4fd4-a6bb-167c6ee367d0"
+    },
+    {
+        "name": "BASE_LightSources",
+        "uuid": "d26942dd-dc52-4954-a375-703ceac5a266"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A",
+        "uuid": "d2cd6a86-0eb1-4857-a3b0-264ba409123b"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_06_Flickering",
+        "uuid": "d393d251-dcf2-4693-b2bd-cfe60af5b84f"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_Fill_01",
+        "uuid": "d3a3e627-b834-4d6b-903e-77f1017c4630"
+    },
+    {
+        "name": "VFX_LightSources_Chandeliers_IncenseBurner_Thayan_A",
+        "uuid": "d3d17401-2f52-4a77-9a21-eb03e3bb89e4"
+    },
+    {
+        "name": "VFX_LightSources_DUN_Candlestick_G_01_NOTAPPROVED",
+        "uuid": "d402f648-778c-448b-a19d-5a12645071f3"
+    },
+    {
+        "name": "Light_Dungeon_Ambient_Skylight_8000k_GameplayLight_DecorativeLight",
+        "uuid": "d41b42e0-39a5-40d7-867a-609ab11bfc4e"
+    },
+    {
+        "name": "Light_NPC_Unique_HookHorror",
+        "uuid": "d48fbb1e-3721-4b71-831c-497659dabe72"
+    },
+    {
+        "name": "Light_NPC_Unique_Frog",
+        "uuid": "d4d0a9a3-d761-435b-a007-e6b3d38244f0"
+    },
+    {
+        "name": "Lightsource_Crystal_Vase_A_Jade",
+        "uuid": "d5da8224-70b0-44c4-a8d1-81133fe65206"
+    },
+    {
+        "name": "Light_Timeline_Directional_Exterior_Sunlight_4800K",
+        "uuid": "d69baa5d-5835-4b88-809f-7d8f13f63193"
+    },
+    {
+        "name": "BASE_Light_Exterior_Noon_Fill",
+        "uuid": "d7708cf8-471b-4e77-9633-5a966a660b09"
+    },
+    {
+        "name": "Light_MF_Lever_Console_A",
+        "uuid": "d84a9d86-cd03-40d9-8b0d-7a5b5fd8bfc0"
+    },
+    {
+        "name": "LightSources_Campfires_BonFire_A_Shadow",
+        "uuid": "d888c759-235e-4efb-9d8e-596efc513971"
+    },
+    {
+        "name": "LightSources_MF_Lantern_A_Purple",
+        "uuid": "d900fc78-cfe9-497c-bf26-403b868bf4c2"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Blue",
+        "uuid": "d971e5ee-e34d-4d69-9c76-5b059f2c7b2a"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_Interior_Cold",
+        "uuid": "d9737bb2-a4cd-4dde-9bed-54862f87a107"
+    },
+    {
+        "name": "LightSources_Scenery_FireflyNest_Green",
+        "uuid": "d97bbc80-c995-4487-a3b8-a24e6cca76c5"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_True",
+        "uuid": "d986d981-70b8-472e-a8d4-54c1dd3067ff"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_05_Flickering",
+        "uuid": "da9af06d-282e-4cda-97f4-b2fc0375fc03"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_Exterior_Fill",
+        "uuid": "db0aad38-3423-41b4-a28e-69177b3e0f43"
+    },
+    {
+        "name": "VFX_LTS_Moonlantern_01_NoShadow",
+        "uuid": "dbcb6cba-90b6-45a2-959e-63d4eb8f8eb8"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Fill_SharTemple_GameplayLight_DecorativeLight",
+        "uuid": "dc1a8c04-7a11-4b40-adc7-b2fe289f5986"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_8000K",
+        "uuid": "dc86d361-c230-4503-a096-314c0726aeaa"
+    },
+    {
+        "name": "Light_Timeline_Directional_Exterior_Neutral",
+        "uuid": "dcec15df-7621-4546-ae24-c0c55ed3246d"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Interior_Bhaal_Neutral",
+        "uuid": "de468955-f7b9-4324-abe0-3760d2cc5b5c"
+    },
+    {
+        "name": "Light_Dungeon_Ambient",
+        "uuid": "de5b07df-80f6-4457-ade8-3719baba2111"
+    },
+    {
+        "name": "Light_Mushroom_Exploding_A",
+        "uuid": "de6f825a-a5b8-40f8-be8f-e71b1ff3f35d"
+    },
+    {
+        "name": "Light_Nautiloid_Fill_6400K",
+        "uuid": "dea568f5-4268-4d29-9af6-fda20fbeb18f"
+    },
+    {
+        "name": "Light_PUZ_Lever_Wall_A",
+        "uuid": "deaee5d8-79eb-4648-83b9-b1e44586eb36"
+    },
+    {
+        "name": "Light_Underdark_Mushroom_Orange_Fill",
+        "uuid": "e0a864cd-93bf-4423-bb63-bd43b7b0186e"
+    },
+    {
+        "name": "LightSources_Torches_WPN_Torch_A_Blue",
+        "uuid": "e1d6089f-d454-4d30-96c5-e9fe49307248"
+    },
+    {
+        "name": "Light_Dungeon_Fill_EeryGreen_GameplayLight_DecorativeLight",
+        "uuid": "e1f32368-fdf0-4ccb-aea5-a9efbd4c6a1e"
+    },
+    {
+        "name": "Light_Player_Darkvision_Spot_Drow",
+        "uuid": "e278f6a0-26d7-49be-b11a-9b84bc313c3c"
+    },
+    {
+        "name": "BASE_Light_Underdark",
+        "uuid": "e2a838c4-5f79-47ff-b0f1-4f633eb2d9f0"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Skylight_8000K_GameplayLight_DecorativeLight",
+        "uuid": "e2dca3f3-4984-4317-afd3-05703c0c086d"
+    },
+    {
+        "name": "BASE_LightSources_Scenery",
+        "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+    },
+    {
+        "name": "VFX_LTS_LightCantrip_01",
+        "uuid": "e369b467-79a1-445f-8696-3caa25db9d58"
+    },
+    {
+        "name": "BASE_LightSources_Gems",
+        "uuid": "e3e0854f-75c2-4771-bf14-58d35cd9f2dc"
+    },
+    {
+        "name": "Light_NPC_Creature_MindFlayer",
+        "uuid": "e4909d03-6978-402a-ac3e-1af127cf003f"
+    },
+    {
+        "name": "BASE_LightSources_Candelabras",
+        "uuid": "e5bb2837-bd39-4393-8399-ed01e7735c13"
+    },
+    {
+        "name": "Light_LOOT_Alchemy_Crystal_G",
+        "uuid": "e5c70bcc-e6e1-4b46-821a-8d364bea7c98"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_04",
+        "uuid": "e6f06456-6573-4498-913f-7c0746d43fd1"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_01",
+        "uuid": "e7260314-1fbb-44a6-963a-59590dd4cd8c"
+    },
+    {
+        "name": "BASE_Light_Exterior_Noon",
+        "uuid": "e778999a-e598-4dc0-8550-aaab51e83229"
+    },
+    {
+        "name": "Light_MF_Explosive_Contraption_A",
+        "uuid": "e8447f00-c88a-472e-a2fe-b6482c312922"
+    },
+    {
+        "name": "Light_Mushroom_Bibberbang_C",
+        "uuid": "e85bba4b-86e9-46fd-9059-19d4170f22f5"
+    },
+    {
+        "name": "Light_Dungeon_Directional_Skylight_8000K_GameplayLight_DecorativeLight",
+        "uuid": "e883ad69-6018-46e5-8ef4-9c7b85b5bcb9"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_NoFog_01",
+        "uuid": "e8e654d9-5eb1-4efc-9365-4659162e1498"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_Chest",
+        "uuid": "ea76e712-4b5d-4a4b-8d48-29916e8daf28"
+    },
+    {
+        "name": "Light_NPC_Unique_Merregon",
+        "uuid": "eb0266f8-c264-4a73-a5cd-6965b0573eb7"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_01",
+        "uuid": "ebfbf452-11ae-460a-96e5-5d1afaae10c3"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Shartemple",
+        "uuid": "ed429599-35e2-45b0-b821-8e49407db73f"
+    },
+    {
+        "name": "Light_Spotlight_A_White",
+        "uuid": "eee833f5-09f1-490f-b85f-3361a16ad2c5"
+    },
+    {
+        "name": "Light_NPC_Gnolls",
+        "uuid": "f27e5300-b93d-4487-8a1e-e942881fbfe1"
+    },
+    {
+        "name": "Light_Exterior_Noon_Fill_10000K",
+        "uuid": "f2804c58-43ec-4ac6-8dad-3f6cd159f4ad"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXFillLight_StinkingCloud_01",
+        "uuid": "f3526aa8-2bcc-4d02-b7e8-e647e099962c"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Neutral_6500k_GameplayLight_DecorativeLight_GameplayLight_DecorativeLight",
+        "uuid": "f355dc72-3f61-42cc-a4d7-5a1e142c62f8"
+    },
+    {
+        "name": "Light_Underdark_Fill_Gem_Purple",
+        "uuid": "f382aaf5-bdf7-4c32-a5db-6e2ab4c03431"
+    },
+    {
+        "name": "Light_MF_Aquarium_A",
+        "uuid": "f6c24f06-1b6e-4cf0-8a00-af016719a1f1"
+    },
+    {
+        "name": "Light_Fill_A_Blue_GameplayLight_converted",
+        "uuid": "f755b332-74ff-0ddb-50c7-d3976456a7b1"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Interior_Bhaal",
+        "uuid": "f9f8df4d-28f4-4674-8df8-e4de743ebcdb"
+    },
+    {
+        "name": "Light_NPC_Unique_Raven",
+        "uuid": "fcc215d8-9d7b-4d3a-9561-af2bfe5e7506"
+    },
+    {
+        "name": "Light_Underdark_Fill_Default",
+        "uuid": "fdd9f15e-3b48-4566-a3b2-3118c55479d8"
+    },
+    {
+        "name": "Light_Dungeon_Fill_Sunlight_4800K_GameplayLight_DecorativeLight_converted",
+        "uuid": "fe1339d5-835a-2b58-9998-0dacfc1b0bd7"
+    },
+    {
+        "name": "Light_Timeline_Directional_Avernus_PlanarSun",
+        "uuid": "fe1752a7-bdb0-4910-a250-ab0fae1ebd11"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_03",
+        "uuid": "fe2a65de-74ce-49d7-b8bf-079bf6c57982"
+    },
+    {
+        "name": "LightSources_Bowls_FireBowl_NoCine4_A",
+        "uuid": "fed1b622-4860-4bdb-964e-623306a44959"
+    },
+    {
+        "name": "Light_NPC_Unique_Owlbear",
+        "uuid": "ff6bdafa-c260-4efe-a8d5-32120a298ad5"
+    },
+    {
+        "name": "Light_NPC_Unique_Slayer",
+        "uuid": "0a360a4e-c167-49b1-81a1-0140f2deeb0c"
+    },
+    {
+        "name": "Light_House_Fill_Interior_6000K_Window_Small",
+        "uuid": "11f5781d-2d22-4e8c-98e9-ca242a73d00a"
+    },
+    {
+        "name": "VFX_LightSources_Chandeliers_IncenseBurner_Thayan_A_Green",
+        "uuid": "14dcfd0c-27cc-4874-96ba-41d83d7afb72"
+    },
+    {
+        "name": "Light_Distillery_Poison",
+        "uuid": "1721d495-049e-48d2-85dd-ddc8be98e185"
+    },
+    {
+        "name": "Light_NPC_Unique_ShamblingMound",
+        "uuid": "1a5c38c4-e798-48ec-9c67-81d0af5fe9ea"
+    },
+    {
+        "name": "Light_VFX_Script_SCL_Trial_Directional_Red_01",
+        "uuid": "1c303512-70e4-42c8-8e80-3354627c1a8c"
+    },
+    {
+        "name": "Light_Distillery_Cold",
+        "uuid": "1cce79eb-1b51-4a57-9fed-fa10ffba6125"
+    },
+    {
+        "name": "BASE_LightSources_Portal_Mirror",
+        "uuid": "1cf174f5-fd80-444d-8e4e-33519eae0719"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Brain_Disintegrate_FXLight_01",
+        "uuid": "2d4bacbb-fa13-4714-b087-e1aafb560590"
+    },
+    {
+        "name": "VFX_LTS_OrpheusWisp_01",
+        "uuid": "30bda70e-3ed5-4d34-b1c2-3640ce6a2df1"
+    },
+    {
+        "name": "Light_House_Fill_Interior_6400K",
+        "uuid": "319cf96f-c9b2-48cf-a899-98b98d091228"
+    },
+    {
+        "name": "VFX_LightSources_Chandeliers_IncenseBurner_Thayan_A_Purple",
+        "uuid": "41feabbe-d3e5-4ecc-ac06-69e46ee4d06a"
+    },
+    {
+        "name": "VFX_PointLight_Template_Fireball_FXLight_01",
+        "uuid": "47e4b5c4-f871-456c-acea-69d73ad5f191"
+    },
+    {
+        "name": "LightSources_DEC_GEN_Balduran_Gem_A_Red",
+        "uuid": "60520f10-a1cf-45e3-bad1-a7ec69541abf"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Gale_Explosion_FXFillLight_01",
+        "uuid": "672acb44-fc7a-4e2f-8ea3-0c3cdff88649"
+    },
+    {
+        "name": "Light_Surface_HolyFire",
+        "uuid": "6d3e3b2c-9cf9-4296-9eb3-26b638b8b677"
+    },
+    {
+        "name": "Light_VFX_Script_SCL_Trial_SpotLight_Red_01",
+        "uuid": "6f712f0a-37f5-4f5d-89e9-d58b64ffa7fb"
+    },
+    {
+        "name": "Light_NPC_Unique_VineBlight",
+        "uuid": "73a58044-ebcf-41c9-ba2f-376d33be912b"
+    },
+    {
+        "name": "Lightsource_Cazador_Scripture_A_Red",
+        "uuid": "797f38c2-4bf4-4654-8e05-36e4a04494d8"
+    },
+    {
+        "name": "Light_Distillery_Lightning",
+        "uuid": "7deadb82-286d-4942-8ed8-fd856d64631d"
+    },
+    {
+        "name": "Light_House_Fill_Interior_6000K_Window",
+        "uuid": "7f1f0adb-9bce-4857-987e-f5252d1444ce"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_ChosenThree_GaleExplosion_01",
+        "uuid": "7f276a50-ff9c-43fa-b517-9ed218d472a5"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_FillLight_Nightsong_Prison_SoulCage_01",
+        "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+    },
+    {
+        "name": "VFX_PointLight_Template_FXLight_Shadow_Gale_Sacrifice_01",
+        "uuid": "88b5a07c-f428-4c95-96d8-e40084710703"
+    },
+    {
+        "name": "LightSources_GEN_Glasshouse_Lamp_A",
+        "uuid": "8b532439-d636-49dc-b8b6-897334addd08"
+    },
+    {
+        "name": "Light_Brain_Jar_A_Green",
+        "uuid": "8cdd985b-542f-46f0-9472-c75a7189e09d"
+    },
+    {
+        "name": "Light_Dungeon_Crystal_Fill",
+        "uuid": "8e199f88-49ab-4936-a353-5e54c2cb978e"
+    },
+    {
+        "name": "Light_Distillery_Necrotic",
+        "uuid": "91b5e93d-14bc-4f51-bd4a-c44f23408666"
+    },
+    {
+        "name": "Light_Crystal_Shard_Wall_A",
+        "uuid": "94059bba-b875-4065-91ae-152c592f0124"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Light_Tree_Finale_01",
+        "uuid": "95a5f646-f6f0-4779-bc3d-be1e414ce78f"
+    },
+    {
+        "name": "Light_LTS_Nautiloid_BrainJar_Green",
+        "uuid": "9b28cd1a-a5de-46b8-b88d-72e54741ebfc"
+    },
+    {
+        "name": "Light_Distillery_Acid",
+        "uuid": "9d0f7c97-b284-4a93-acfc-05f7a60c48b9"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_Gale_MystraShrine_Transition_01",
+        "uuid": "a5d5914d-a485-4580-8a0b-b82ee422e869"
+    },
+    {
+        "name": "Light_NPC_DragonBorn",
+        "uuid": "ac7f0da2-f278-42a7-8676-6e728b205e76"
+    },
+    {
+        "name": "VFX_LightSources_Chandeliers_IncenseBurner_Thayan_A_Green_02",
+        "uuid": "b72d579a-9b84-4865-8dac-c33249e69b2c"
+    },
+    {
+        "name": "Light_House_Fill_Interior_8000K_Window_Small",
+        "uuid": "c5b9002c-c0e0-40c0-9dcf-70f66186ea62"
+    },
+    {
+        "name": "Light_NPC_Unique_NeedleBlight",
+        "uuid": "cb61b6c4-9991-4032-b881-71be42c79811"
+    },
+    {
+        "name": "LightSources_GEN_Glasshouse_Lamp_Cold_A",
+        "uuid": "cfae1812-976c-4725-9dc2-7ab3292265b7"
+    },
+    {
+        "name": "VFX_Cinematic_PointLight_Template_FXLight_Tree_Finale_01",
+        "uuid": "d2264173-6ead-4fb5-b722-3bdf00d94d71"
+    },
+    {
+        "name": "VFX_LTS_EmperorWisp_01",
+        "uuid": "dbc943f0-a59d-4337-a59c-d42b07ffdebc"
+    },
+    {
+        "name": "Light_VFX_Script_SCL_Trial_SpotLight_Blue_01",
+        "uuid": "e116656a-3012-4fb8-8b42-abcaa9180e1e"
+    },
+    {
+        "name": "Light_Dungeon_Crystal_Directional",
+        "uuid": "e78cfb41-8a1a-4ae6-a45e-a76242c9e298"
+    },
+    {
+        "name": "Light_VFX_Script_SCL_Trial_Directional_Blue_01",
+        "uuid": "ec217065-aa0d-434e-a9b6-3901bab5b383"
+    },
+    {
+        "name": "BASE_LightSources_CursedBulbs",
+        "uuid": "f008f098-709f-4ae8-8e8c-e1a9b9a68411"
+    },
+    {
+        "name": "Light_Distillery_Fire",
+        "uuid": "f5a07364-2c4b-41c3-a4c7-5213c204c254"
+    },
+    {
+        "name": "Light_NPC_Unique_Raphael",
+        "uuid": "f6e0f7b8-67d2-4efa-8f79-da8ff189e343"
+    },
+    {
+        "name": "LightSources_Lanterns_GEN_City_Moonlantern_A",
+        "uuid": "f7920489-102c-4445-aa57-5dd417585d17"
+    }
+]

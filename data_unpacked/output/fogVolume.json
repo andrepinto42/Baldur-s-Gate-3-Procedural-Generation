@@ -1,0 +1,30 @@
+[
+    {
+        "name": "S_WYR_ShadowFogVolume",
+        "uuid": "5f2e0cea-8f31-42e5-b854-6bd16e1f2758"
+    },
+    {
+        "name": "S_SCL_MoonlanternFogVolume",
+        "uuid": "ea3d6604-0ace-44b1-b920-a68ebec1f56e"
+    },
+    {
+        "name": "FogVolume_Dungeon_Default_MovingFog",
+        "uuid": "5d8c2a8c-0491-4458-9048-554dc7b3f6dc"
+    },
+    {
+        "name": "FogVolume_Dungeon_Default_CreepyFloorFog",
+        "uuid": "5f89351c-1810-4030-9eb8-0fd7c98b519b"
+    },
+    {
+        "name": "Shared_FogVolume",
+        "uuid": "6435f26f-2f2f-4c4d-990f-8ff5fd0a47b8"
+    },
+    {
+        "name": "FogVolume_Curse_BlightedArea",
+        "uuid": "a8bd4eea-e8a9-4186-bf25-d8827b3775ca"
+    },
+    {
+        "name": "FogVolume_Dungeon_Torch_01",
+        "uuid": "b644cf51-bacf-468c-8592-fd1f8ffcf20e"
+    }
+]
