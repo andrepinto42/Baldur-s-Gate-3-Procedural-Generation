@@ -180,5 +180,19 @@
       -0.008843999588862062,
       0.2573449909687042
     ]
+  },
+  {
+    "name": "MUSIC_DLC_DD_Music_Lohse_Lute_A.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_DLC_DD_Music_Lohse_Lute_A.dae",
+    "size": [
+      0.4288719892501831,
+      0.20456899981945753,
+      1.2882109880447388
+    ],
+    "center_offset": [
+      0.0,
+      0.0960364998318255,
+      0.0130385160446167
+    ]
   }
 ]

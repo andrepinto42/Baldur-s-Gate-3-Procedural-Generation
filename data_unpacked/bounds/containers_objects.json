@@ -4878,5 +4878,1965 @@
       0.00993300974369049
     ],
     "uuid": "625d6ed0-4773-42ec-b171-9ea35352c842"
+  },
+  {
+    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "size": [
+      0.5805990099906921,
+      0.8164119869470596,
+      0.6111879944801331
+    ],
+    "center_offset": [
+      0.0009104907512664795,
+      0.3973669931292534,
+      -0.016481995582580566
+    ]
+  },
+  {
+    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_Open_A.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_Open_A.dae",
+    "size": [
+      0.5805990099906921,
+      0.8164119869470596,
+      0.6111879944801331
+    ],
+    "center_offset": [
+      0.0009104907512664795,
+      0.3973669931292534,
+      -0.016481995582580566
+    ]
+  },
+  {
+    "name": "CONT_Zhentarim_Barrel_Metal_A.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A.dae",
+    "size": [
+      0.6126880049705505,
+      0.8093390162102878,
+      0.6115109920501709
+    ],
+    "center_offset": [
+      0.0,
+      0.40317250811494887,
+      -0.007503509521484375
+    ]
+  },
+  {
+    "name": "CONT_Zhentarim_Barrel_Metal_A_Destruct.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A_Destruct.dae",
+    "size": [
+      1.8763520121574402,
+      0.6436660271137953,
+      1.7944990396499634
+    ],
+    "center_offset": [
+      0.025733977556228638,
+      0.2988510141149163,
+      0.030686497688293457
+    ]
+  },
+  {
+    "name": "CONT_Zhentarim_Barrel_Metal_A_Explode.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A_Explode.dae",
+    "size": [
+      0.5758529901504517,
+      0.7704680259339511,
+      0.5758529901504517
+    ],
+    "center_offset": [
+      -2.4497509002685547e-05,
+      0.38373701297678053,
+      0.010325491428375244
+    ]
+  },
+  {
+    "name": "CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "size": [
+      0.6126880049705505,
+      0.8093390162102878,
+      0.6115109920501709
+    ],
+    "center_offset": [
+      0.0,
+      0.40317250811494887,
+      -0.007503509521484375
+    ]
+  },
+  {
+    "name": "CONT_Foundry_Steel_Watcher_Biped_Remains_A.dae",
+    "relative_path": "Containers/Foundry/CONT_Foundry_Steel_Watcher_Remains_ABC/Resources/CONT_Foundry_Steel_Watcher_Biped_Remains_A.dae",
+    "size": [
+      2.2447609305381775,
+      1.2153209745883942,
+      2.8635939359664917
+    ],
+    "center_offset": [
+      0.16568449139595032,
+      0.27219848334789276,
+      0.20883899927139282
+    ]
+  },
+  {
+    "name": "CONT_Foundry_Steel_Watcher_Remains_A.dae",
+    "relative_path": "Containers/Foundry/CONT_Foundry_Steel_Watcher_Remains_ABC/Resources/CONT_Foundry_Steel_Watcher_Remains_A.dae",
+    "size": [
+      4.3627729415893555,
+      2.620260000228882,
+      4.623798847198486
+    ],
+    "center_offset": [
+      -0.3252394199371338,
+      0.4286559820175171,
+      0.03374052047729492
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_A.dae",
+    "size": [
+      0.8988350033760071,
+      0.4563800026662648,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.040342509746551514,
+      0.22342700115405023,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_B.dae",
+    "size": [
+      0.8988350033760071,
+      0.465075992513448,
+      0.8135780096054077
+    ],
+    "center_offset": [
+      -0.040342509746551514,
+      0.22777499607764184,
+      0.010641008615493774
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_C.dae",
+    "size": [
+      0.8970980048179626,
+      0.7203059722669423,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.04121100902557373,
+      0.355389985954389,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_D.dae",
+    "size": [
+      0.8970980048179626,
+      0.7203059722669423,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.04121100902557373,
+      0.355389985954389,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_E.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_E.dae",
+    "size": [
+      0.8970980048179626,
+      0.5019250144250691,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.04121100902557373,
+      0.2461995070334524,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_Empty_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_Empty_A.dae",
+    "size": [
+      0.8970980048179626,
+      0.7203059722669423,
+      0.8196020126342773
+    ],
+    "center_offset": [
+      -0.04121100902557373,
+      0.355389985954389,
+      0.007627993822097778
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_F.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_F.dae",
+    "size": [
+      0.8988350033760071,
+      0.7203059722669423,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.040342509746551514,
+      0.355389985954389,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_G.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_G.dae",
+    "size": [
+      0.8970980048179626,
+      0.7203059722669423,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.04121100902557373,
+      0.355389985954389,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_H.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_H.dae",
+    "size": [
+      0.8988350033760071,
+      0.7203059722669423,
+      0.8196030259132385
+    ],
+    "center_offset": [
+      -0.040342509746551514,
+      0.355389985954389,
+      0.007628500461578369
+    ]
+  },
+  {
+    "name": "CONT_GEN_Basket_Fruit_Wicker_Lid_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_Lid_A.dae",
+    "size": [
+      0.7452520132064819,
+      0.18758700601756573,
+      0.7095789909362793
+    ],
+    "center_offset": [
+      0.0038650035858154297,
+      0.0799795025959611,
+      0.004453510046005249
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A.dae",
+    "size": [
+      1.6530959606170654,
+      1.023591015007014,
+      0.9733810126781464
+    ],
+    "center_offset": [
+      0.0,
+      0.511793507503512,
+      0.00045450031757354736
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_A_Destruct.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A_Destruct.dae",
+    "size": [
+      3.0961769819259644,
+      0.30409001372754574,
+      2.0483290553092957
+    ],
+    "center_offset": [
+      -0.0054125189781188965,
+      0.14416000712662935,
+      -0.06156352162361145
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_A_Explode.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A_Explode.dae",
+    "size": [
+      1.658935010433197,
+      0.6553439828414866,
+      0.677498996257782
+    ],
+    "center_offset": [
+      0.000313490629196167,
+      0.3276699914207484,
+      -0.00033149123191833496
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B.dae",
+    "size": [
+      1.663107991218567,
+      1.7504060002822825,
+      0.926149994134903
+    ],
+    "center_offset": [
+      0.0,
+      0.8752010001411463,
+      0.013232007622718811
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_B_Destruct.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B_Destruct.dae",
+    "size": [
+      4.040939927101135,
+      0.2676410088897683,
+      2.119905948638916
+    ],
+    "center_offset": [
+      0.04761093854904175,
+      0.13355350444908254,
+      -0.03796100616455078
+    ]
+  },
+  {
+    "name": "CONT_GEN_Box_Fireworks_B_Explode.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B_Explode.dae",
+    "size": [
+      1.6662490367889404,
+      1.2553440066833446,
+      0.701460987329483
+    ],
+    "center_offset": [
+      0.0005944967269897461,
+      0.6276700033416773,
+      5.498528480529785e-06
+    ]
+  },
+  {
+    "name": "CONT_GEN_Stall_Fireworks_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Stall_Fireworks_A.dae",
+    "size": [
+      1.5187170542776585,
+      1.1269220113754272,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.729006526991725,
+      0.5634610056877136,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_A.dae",
+    "size": [
+      0.6989040076732635,
+      0.31059600226581097,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14017000142484903,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_B.dae",
+    "size": [
+      0.6989040076732635,
+      0.36229701153934,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.16602050606161356,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_C.dae",
+    "size": [
+      0.6989040076732635,
+      0.31059600226581097,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14017000142484903,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_D.dae",
+    "size": [
+      0.6989040076732635,
+      0.31059600226581097,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14017000142484903,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_E.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_E.dae",
+    "size": [
+      0.6989040076732635,
+      0.3163730036467314,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14305850211530924,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_Empty_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_Empty_A.dae",
+    "size": [
+      0.6989040076732635,
+      0.31059600226581097,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14017000142484903,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_F.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_F.dae",
+    "size": [
+      0.6989040076732635,
+      0.32945199124515057,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.14959799591451883,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_G.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_G.dae",
+    "size": [
+      0.6989040076732635,
+      0.41969300620257854,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.19471850339323282,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "CONT_GEN_Bucket_Fruit_Wood_H.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_H.dae",
+    "size": [
+      0.6989040076732635,
+      0.39180598966777325,
+      0.6982049942016602
+    ],
+    "center_offset": [
+      -0.012875005602836609,
+      0.18077499512583017,
+      0.033389508724212646
+    ]
+  },
+  {
+    "name": "DEC_GEN_Manure_Scattered_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/DEC_GEN_Manure_Scattered_A.dae",
+    "size": [
+      2.6666749715805054,
+      0.39931799471378326,
+      2.2884700298309326
+    ],
+    "center_offset": [
+      0.29655545949935913,
+      -0.019645996391773224,
+      0.29885900020599365
+    ]
+  },
+  {
+    "name": "DEC_GEN_Manure_Scattered_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/DEC_GEN_Manure_Scattered_B.dae",
+    "size": [
+      2.5213800072669983,
+      0.18993700295686722,
+      1.5114139914512634
+    ],
+    "center_offset": [
+      0.7637250125408173,
+      0.05842350050806999,
+      -0.18077799677848816
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A.dae",
+    "size": [
+      1.1227020025253296,
+      0.9941759705543518,
+      0.9784710109233856
+    ],
+    "center_offset": [
+      0.0,
+      0.4970879852771759,
+      0.0002795010805130005
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_A_Destruct.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A_Destruct.dae",
+    "size": [
+      2.3676350116729736,
+      0.7338750064373016,
+      2.3001739978790283
+    ],
+    "center_offset": [
+      0.012026548385620117,
+      0.268373504281044,
+      0.14442598819732666
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_A_Explode.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A_Explode.dae",
+    "size": [
+      1.1227020025253296,
+      0.9941759705543518,
+      0.9779120087623596
+    ],
+    "center_offset": [
+      0.0,
+      0.4970879852771759,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B.dae",
+    "size": [
+      1.0137439966201782,
+      1.0470470059663057,
+      1.91776704788208
+    ],
+    "center_offset": [
+      0.0,
+      0.5043245023116469,
+      -0.011250495910644531
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_B_Destruct.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B_Destruct.dae",
+    "size": [
+      2.5756070613861084,
+      0.7362949848175049,
+      3.1627479791641235
+    ],
+    "center_offset": [
+      -0.001878499984741211,
+      0.28618448972702026,
+      -0.02035897970199585
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Metal_B_Explode.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B_Explode.dae",
+    "size": [
+      1.0137439966201782,
+      1.0403140056878328,
+      1.91776704788208
+    ],
+    "center_offset": [
+      0.0,
+      0.5076910024508834,
+      -0.011250495910644531
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Teddy_Explosive_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Teddy_Explosive_ABC/Resources/CONT_GEN_Crate_Teddy_Explosive_A.dae",
+    "size": [
+      1.2267030477523804,
+      0.933138991240412,
+      1.8723790049552917
+    ],
+    "center_offset": [
+      0.01415950059890747,
+      0.4593984957318753,
+      -0.009534507989883423
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Teddy_Explosive_A_Empty.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Teddy_Explosive_ABC/Resources/CONT_GEN_Crate_Teddy_Explosive_A_Empty.dae",
+    "size": [
+      1.2310490012168884,
+      0.8253870257176459,
+      1.8765619993209839
+    ],
+    "center_offset": [
+      0.011986523866653442,
+      0.40552251297049224,
+      -0.011626005172729492
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_A.dae",
+    "size": [
+      1.0148850083351135,
+      0.6676580179482698,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.32711300905793905,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_B.dae",
+    "size": [
+      1.1880220174789429,
+      0.9751299908384681,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.4850669954903424,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_C.dae",
+    "size": [
+      1.0148850083351135,
+      0.7075940240174532,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.3470810120925307,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_D.dae",
+    "size": [
+      1.1880220174789429,
+      1.0779059818014503,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.5364549909718335,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_E.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_E.dae",
+    "size": [
+      1.0148850083351135,
+      0.6420289743691683,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.31429848726838827,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_F.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_F.dae",
+    "size": [
+      1.1880220174789429,
+      0.9751299908384681,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.4850669954903424,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_I.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_I.dae",
+    "size": [
+      1.0148850083351135,
+      0.7358919847756624,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.36122999247163534,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Fruit_Wood_J.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_J.dae",
+    "size": [
+      1.1880220174789429,
+      1.099464981816709,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.5472344909794629,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_A.dae",
+    "size": [
+      1.0148850083351135,
+      0.8520669806748629,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.41931749042123556,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_B.dae",
+    "size": [
+      1.0148850083351135,
+      0.8493460286408663,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.41795701440423727,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_C.dae",
+    "size": [
+      1.0148850083351135,
+      0.7889079917222261,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.3877379959449172,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_D.dae",
+    "size": [
+      1.1880220174789429,
+      1.129304020665586,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.5621540104039013,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_E.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_E.dae",
+    "size": [
+      1.1880220174789429,
+      1.1151350429281592,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.555069521535188,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_Empty_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_Empty_A.dae",
+    "size": [
+      1.1880220174789429,
+      0.9751299908384681,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.4850669954903424,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_F.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_F.dae",
+    "size": [
+      1.1880220174789429,
+      1.207382052205503,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.6011930261738598,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_G.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_G.dae",
+    "size": [
+      1.1880220174789429,
+      1.1161360433325171,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.5555700217373669,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_H.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_H.dae",
+    "size": [
+      1.0148850083351135,
+      0.7920380104333162,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.38930300530046225,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_I.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_I.dae",
+    "size": [
+      1.0148850083351135,
+      0.7690340150147676,
+      1.6952829957008362
+    ],
+    "center_offset": [
+      -0.04249051213264465,
+      0.37780100759118795,
+      0.052031487226486206
+    ]
+  },
+  {
+    "name": "CONT_GEN_Crate_Vegetable_Wood_J.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_J.dae",
+    "size": [
+      1.1880220174789429,
+      1.0639689853414893,
+      1.1274990439414978
+    ],
+    "center_offset": [
+      0.010242998600006104,
+      0.529486492741853,
+      0.006728500127792358
+    ]
+  },
+  {
+    "name": "CONT_GEN_Gremishka_Nest_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A.dae",
+    "size": [
+      2.3738640546798706,
+      1.5990410149097443,
+      2.7598869800567627
+    ],
+    "center_offset": [
+      0.059462010860443115,
+      0.3930615037679672,
+      0.07157349586486816
+    ]
+  },
+  {
+    "name": "CONT_GEN_Gremishka_Nest_A_Destruct.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A_Destruct.dae",
+    "size": [
+      3.568535089492798,
+      0.5921119948616251,
+      3.642841935157776
+    ],
+    "center_offset": [
+      0.09057450294494629,
+      0.2949689974193461,
+      -0.26034802198410034
+    ]
+  },
+  {
+    "name": "CONT_GEN_Gremishka_Nest_A_Explode.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A_Explode.dae",
+    "size": [
+      2.3670350313186646,
+      1.599040001630783,
+      2.7266169786453247
+    ],
+    "center_offset": [
+      0.06287652254104614,
+      0.3930620104074478,
+      0.08405345678329468
+    ]
+  },
+  {
+    "name": "CONT_GEN_Keychain_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Keychain_ABC/Resources/CONT_GEN_Keychain_A.dae",
+    "size": [
+      0.4702110141515732,
+      0.103388000279665,
+      0.6196909993886948
+    ],
+    "center_offset": [
+      -0.035327501595020294,
+      0.03760099969804287,
+      -0.11653850227594376
+    ]
+  },
+  {
+    "name": "CONT_GEN_Mailbox_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_A.dae",
+    "size": [
+      0.5998280048370361,
+      1.509040979668498,
+      0.5994340181350708
+    ],
+    "center_offset": [
+      0.0,
+      0.7385294893756509,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GEN_Mailbox_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_B.dae",
+    "size": [
+      0.6113059818744659,
+      1.9713029861450195,
+      0.6104779839515686
+    ],
+    "center_offset": [
+      0.00041399896144866943,
+      0.9856514930725098,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GEN_Mailbox_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_C.dae",
+    "size": [
+      0.5998280048370361,
+      0.7497010137885809,
+      0.43660300970077515
+    ],
+    "center_offset": [
+      0.0,
+      0.3534075068309903,
+      -0.00963050127029419
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Bread_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_A.dae",
+    "size": [
+      1.6844879984855652,
+      1.0366319417953491,
+      0.7110899984836578
+    ],
+    "center_offset": [
+      -0.019144028425216675,
+      0.5183159708976746,
+      0.020228013396263123
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Bread_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_B.dae",
+    "size": [
+      2.7620400190353394,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      0.015973985195159912,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Bread_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_C.dae",
+    "size": [
+      1.4131710529327393,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Fruit_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_A.dae",
+    "size": [
+      1.4131710529327393,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Fruit_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_B.dae",
+    "size": [
+      1.4131710529327393,
+      0.9769880175590515,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.48849400877952576,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Fruit_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_C.dae",
+    "size": [
+      2.7620409727096558,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      0.017561495304107666,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Fruit_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_D.dae",
+    "size": [
+      1.4131710529327393,
+      1.3400919437408447,
+      1.8421750012785196
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.6700459718704224,
+      -0.9058795003220439
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Newspaper_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_A.dae",
+    "size": [
+      1.4131710529327393,
+      1.0219919681549072,
+      1.094063051044941
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.5109959840774536,
+      -0.4666445218026638
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Newspaper_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_B.dae",
+    "size": [
+      1.4131710529327393,
+      1.0203299522399902,
+      1.0732830464839935
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.5101649761199951,
+      -0.4770345240831375
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Newspaper_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_C.dae",
+    "size": [
+      2.7620400190353394,
+      1.0234370231628418,
+      1.1130580455064774
+    ],
+    "center_offset": [
+      0.015973985195159912,
+      0.5117185115814209,
+      -0.4571470245718956
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Vegetable_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_A.dae",
+    "size": [
+      1.4131710529327393,
+      1.3400919437408447,
+      1.8421750012785196
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.6700459718704224,
+      -0.9058795003220439
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Vegetable_B.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_B.dae",
+    "size": [
+      1.4131710529327393,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Vegetable_C.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_C.dae",
+    "size": [
+      1.4131710529327393,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      -0.7065855264663696,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_Market_Stall_Vegetable_D.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_D.dae",
+    "size": [
+      2.7620409727096558,
+      0.9585869908332825,
+      1.0102930046559777
+    ],
+    "center_offset": [
+      0.017561495304107666,
+      0.47929349541664124,
+      -0.5048815023183124
+    ]
+  },
+  {
+    "name": "CONT_GEN_ScrollShelf_Wine_Bottle_A.dae",
+    "relative_path": "Containers/Generic/CONT_GEN_ScrollShelf_Wine_Bottle_ABC/Resources/CONT_GEN_ScrollShelf_Wine_Bottle_A.dae",
+    "size": [
+      0.8162459880113602,
+      0.8152040243148804,
+      0.7150909751653671
+    ],
+    "center_offset": [
+      -0.2898079976439476,
+      1.0599460005760193,
+      -0.176939494907856
+    ]
+  },
+  {
+    "name": "CONT_GTY_Barrel_A.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A.dae",
+    "size": [
+      0.6350220143795013,
+      0.9408059758716263,
+      0.6350220143795013
+    ],
+    "center_offset": [
+      4.09930944442749e-05,
+      0.47013398792478256,
+      -4.09930944442749e-05
+    ]
+  },
+  {
+    "name": "CONT_GTY_Barrel_A_Destruct.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A_Destruct.dae",
+    "size": [
+      1.5425729751586914,
+      0.3741689957678318,
+      1.6529800295829773
+    ],
+    "center_offset": [
+      -0.1756114959716797,
+      0.14768549613654613,
+      -0.2324630320072174
+    ]
+  },
+  {
+    "name": "CONT_GTY_Barrel_A_Explode.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A_Explode.dae",
+    "size": [
+      0.6227440237998962,
+      0.9407539758540224,
+      0.6227440237998962
+    ],
+    "center_offset": [
+      0.0,
+      0.4701599879335845,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_A.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A.dae",
+    "size": [
+      0.6373049914836884,
+      1.1659009885333944,
+      0.6373040080070496
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.5826484942663228,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_A_Destruct.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A_Destruct.dae",
+    "size": [
+      1.4644420444965363,
+      0.3858660142868757,
+      1.5410540699958801
+    ],
+    "center_offset": [
+      0.3026540130376816,
+      0.17171500716358423,
+      -0.2353210151195526
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_A_Explode.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A_Explode.dae",
+    "size": [
+      0.6373049914836884,
+      1.1659009885333944,
+      0.6373040080070496
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.5826484942663228,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_B.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B.dae",
+    "size": [
+      1.2237669825553894,
+      0.45641999354120344,
+      0.9503879845142365
+    ],
+    "center_offset": [
+      0.002428501844406128,
+      0.22917199676157907,
+      0.06370799243450165
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_B_Destruct.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B_Destruct.dae",
+    "size": [
+      1.4393869638442993,
+      0.47201099805533886,
+      1.1832870244979858
+    ],
+    "center_offset": [
+      -0.09012550115585327,
+      0.21737749967724085,
+      -0.07407349348068237
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_B_Explode.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B_Explode.dae",
+    "size": [
+      1.2182810306549072,
+      0.45655800809618086,
+      0.9503879845142365
+    ],
+    "center_offset": [
+      0.0020635128021240234,
+      0.22924100403906778,
+      0.06370799243450165
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_C.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C.dae",
+    "size": [
+      1.2521180510520935,
+      0.7574190119630657,
+      0.8819540143013
+    ],
+    "center_offset": [
+      -0.0012229979038238525,
+      0.37955950599280186,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_C_Destruct.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C_Destruct.dae",
+    "size": [
+      2.1739590167999268,
+      0.6484150141477585,
+      1.6821630001068115
+    ],
+    "center_offset": [
+      0.48918747901916504,
+      0.26812950521707535,
+      -0.01207047700881958
+    ]
+  },
+  {
+    "name": "CONT_GTY_Chest_C_Explode.dae",
+    "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C_Explode.dae",
+    "size": [
+      1.2474989891052246,
+      0.7574189895531163,
+      0.8732540011405945
+    ],
+    "center_offset": [
+      0.00039649009704589844,
+      0.37750649481313303,
+      0.00025200843811035156
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Broken_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Broken_A.dae",
+    "size": [
+      1.2632359862327576,
+      0.698365998454392,
+      1.0132499933242798
+    ],
+    "center_offset": [
+      0.0013709962368011475,
+      0.3349009989760816,
+      -0.01348799467086792
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A.dae",
+    "size": [
+      1.246099054813385,
+      0.6052970290184021,
+      0.4225519895553589
+    ],
+    "center_offset": [
+      0.0014275014400482178,
+      0.30264851450920105,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A_Destruct.dae",
+    "size": [
+      1.755722999572754,
+      0.10861900328382035,
+      1.3495280146598816
+    ],
+    "center_offset": [
+      -0.07007348537445068,
+      0.05427350164063682,
+      -0.45218101143836975
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A_Explode.dae",
+    "size": [
+      1.24406498670578,
+      0.6052970290184021,
+      0.44895198941230774
+    ],
+    "center_offset": [
+      -5.85019588470459e-05,
+      0.30264851450920105,
+      -0.013199999928474426
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A.dae",
+    "size": [
+      1.2432440519332886,
+      0.6840839982032776,
+      0.4225519895553589
+    ],
+    "center_offset": [
+      0.0,
+      0.3420419991016388,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A_Destruct.dae",
+    "size": [
+      2.3036230206489563,
+      0.3338370061828755,
+      1.8019029796123505
+    ],
+    "center_offset": [
+      0.5651135146617889,
+      0.16623650307883509,
+      0.5230235010385513
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A_Explode.dae",
+    "size": [
+      1.2433180212974548,
+      0.6840839982032776,
+      0.4225519895553589
+    ],
+    "center_offset": [
+      -1.4990568161010742e-05,
+      0.3420419991016388,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Broken_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Broken_A.dae",
+    "size": [
+      1.9510429501533508,
+      0.7560129761695862,
+      1.0685700178146362
+    ],
+    "center_offset": [
+      0.34529349207878113,
+      0.313805490732193,
+      0.18294501304626465
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A.dae",
+    "size": [
+      1.2614860534667969,
+      0.6918119788169861,
+      0.6588559746742249
+    ],
+    "center_offset": [
+      0.0,
+      0.34590598940849304,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A_Destruct.dae",
+    "size": [
+      2.662006974220276,
+      0.1722920003994659,
+      0.9281840026378632
+    ],
+    "center_offset": [
+      -0.05732852220535278,
+      0.08608700019794924,
+      0.07992000877857208
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A_Explode.dae",
+    "size": [
+      1.2615070343017578,
+      0.6918119788169861,
+      0.6588559746742249
+    ],
+    "center_offset": [
+      1.4901161193847656e-06,
+      0.34590598940849304,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A.dae",
+    "size": [
+      1.2614860534667969,
+      0.6918119788169861,
+      0.6588559746742249
+    ],
+    "center_offset": [
+      0.0,
+      0.34590598940849304,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A_Destruct.dae",
+    "size": [
+      2.816854953765869,
+      0.7223740239714971,
+      1.8508720397949219
+    ],
+    "center_offset": [
+      0.006800532341003418,
+      0.3610480119896238,
+      -0.17099201679229736
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A_Explode.dae",
+    "size": [
+      1.2614880204200745,
+      0.6918119788169861,
+      0.6588559746742249
+    ],
+    "center_offset": [
+      -9.834766387939453e-07,
+      0.34590598940849304,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Broken_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Broken_A.dae",
+    "size": [
+      1.2660759687423706,
+      0.691916004056111,
+      1.0499310195446014
+    ],
+    "center_offset": [
+      0.0,
+      0.34383600193541497,
+      0.13112951815128326
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A.dae",
+    "size": [
+      1.2060670256614685,
+      0.3218669891357422,
+      0.4643099904060364
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.1609334945678711,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A_Destruct.dae",
+    "size": [
+      1.831701934337616,
+      0.11825299651536625,
+      0.6783320046961308
+    ],
+    "center_offset": [
+      0.12019398808479309,
+      0.058995498264266644,
+      -0.29768900386989117
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A_Explode.dae",
+    "size": [
+      1.2060570120811462,
+      0.3218669891357422,
+      0.4643099904060364
+    ],
+    "center_offset": [
+      -3.4868717193603516e-06,
+      0.1609334945678711,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A.dae",
+    "size": [
+      1.2060490250587463,
+      0.6840839982032776,
+      0.4643099904060364
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.3420419991016388,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A_Destruct.dae",
+    "size": [
+      3.86011004447937,
+      0.3277919872198254,
+      2.7155949473381042
+    ],
+    "center_offset": [
+      -0.20756900310516357,
+      0.16325399361085147,
+      0.434225469827652
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A_Explode.dae",
+    "size": [
+      1.2060490250587463,
+      0.6852239966392517,
+      0.4643099904060364
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.34261199831962585,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Broken_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Broken_A.dae",
+    "size": [
+      1.2389169931411743,
+      0.2675789948552847,
+      0.7387759834527969
+    ],
+    "center_offset": [
+      -0.0007665157318115234,
+      0.11365049798041582,
+      0.2209489867091179
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A.dae",
+    "size": [
+      1.2032580375671387,
+      0.16075600683689117,
+      0.22892799973487854
+    ],
+    "center_offset": [
+      0.0,
+      0.08037800341844559,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A_Destruct.dae",
+    "size": [
+      1.3480019569396973,
+      0.07456999998612446,
+      1.1133590042591095
+    ],
+    "center_offset": [
+      -0.10406100749969482,
+      0.037229999992632656,
+      0.356609508395195
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A_Explode.dae",
+    "size": [
+      1.2032580375671387,
+      0.16075600683689117,
+      0.22892799973487854
+    ],
+    "center_offset": [
+      0.0,
+      0.08037800341844559,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A.dae",
+    "size": [
+      1.2032580375671387,
+      0.41249901056289673,
+      0.22892799973487854
+    ],
+    "center_offset": [
+      0.0,
+      0.20624950528144836,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Destruct.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A_Destruct.dae",
+    "size": [
+      1.9583359956741333,
+      0.324593989062123,
+      1.1648520231246948
+    ],
+    "center_offset": [
+      0.23783200979232788,
+      0.16065399447688833,
+      -0.13638800382614136
+    ]
+  },
+  {
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Explode.dae",
+    "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A_Explode.dae",
+    "size": [
+      1.2033170461654663,
+      0.5269249901175499,
+      0.39140500128269196
+    ],
+    "center_offset": [
+      -2.950429916381836e-05,
+      0.1551464982330799,
+      0.05113550275564194
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_A.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A.dae",
+    "size": [
+      0.806210994720459,
+      1.753950965765398,
+      0.8452829718589783
+    ],
+    "center_offset": [
+      -0.0037854909896850586,
+      0.8763524828536902,
+      0.03274250030517578
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_A_Destruct.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A_Destruct.dae",
+    "size": [
+      2.478161931037903,
+      0.6302439980208874,
+      2.6079659461975098
+    ],
+    "center_offset": [
+      -0.45345598459243774,
+      0.2711050007492304,
+      0.1517859697341919
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_A_Explode.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A_Explode.dae",
+    "size": [
+      0.806210994720459,
+      1.753950965765398,
+      0.8452829718589783
+    ],
+    "center_offset": [
+      -0.0037854909896850586,
+      0.8763524828536902,
+      0.03274250030517578
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_B.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B.dae",
+    "size": [
+      1.4114570021629333,
+      2.288100950536318,
+      1.3949880003929138
+    ],
+    "center_offset": [
+      0.005227476358413696,
+      1.143237475247588,
+      -0.10342702269554138
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_B_Destruct.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B_Destruct.dae",
+    "size": [
+      2.0825339555740356,
+      1.2004820415750146,
+      2.392234981060028
+    ],
+    "center_offset": [
+      -0.2569829821586609,
+      0.5857270206324756,
+      -0.5739574730396271
+    ]
+  },
+  {
+    "name": "CONT_MF_Barrel_B_Explode.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B_Explode.dae",
+    "size": [
+      1.4114570021629333,
+      2.288100950536318,
+      1.3949880003929138
+    ],
+    "center_offset": [
+      0.005227476358413696,
+      1.143237475247588,
+      -0.10342702269554138
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_A.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A.dae",
+    "size": [
+      2.1602139472961426,
+      0.9768640241818503,
+      0.9672060012817383
+    ],
+    "center_offset": [
+      0.0,
+      0.48875401209807023,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_A_Destruct.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A_Destruct.dae",
+    "size": [
+      3.8485740423202515,
+      0.5625380016863346,
+      3.298802971839905
+    ],
+    "center_offset": [
+      0.03883403539657593,
+      0.2619030009955168,
+      0.09068053960800171
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_A_Explode.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A_Explode.dae",
+    "size": [
+      2.1602139472961426,
+      0.9768640241818503,
+      0.9672060012817383
+    ],
+    "center_offset": [
+      0.0,
+      0.48875401209807023,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_B.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B.dae",
+    "size": [
+      2.29982590675354,
+      1.148420983896358,
+      1.3597919940948486
+    ],
+    "center_offset": [
+      0.0,
+      0.574636491961428,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_B_Destruct.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B_Destruct.dae",
+    "size": [
+      3.107813000679016,
+      1.0323220174759626,
+      2.6492010354995728
+    ],
+    "center_offset": [
+      -0.15534645318984985,
+      0.5049190083518624,
+      -0.3898155093193054
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_B_Explode.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B_Explode.dae",
+    "size": [
+      2.29982590675354,
+      1.148420983896358,
+      1.3597919940948486
+    ],
+    "center_offset": [
+      0.0,
+      0.574636491961428,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_C.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C.dae",
+    "size": [
+      1.1407979726791382,
+      0.9768640241818503,
+      0.9672060012817383
+    ],
+    "center_offset": [
+      0.0,
+      0.48875401209807023,
+      0.0
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_C_Destruct.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C_Destruct.dae",
+    "size": [
+      2.1000869274139404,
+      0.6200920240953565,
+      2.262524962425232
+    ],
+    "center_offset": [
+      -0.11481249332427979,
+      0.3008480123244226,
+      -0.11349552869796753
+    ]
+  },
+  {
+    "name": "CONT_MF_Crate_C_Explode.dae",
+    "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C_Explode.dae",
+    "size": [
+      1.1407979726791382,
+      0.9768640241818503,
+      0.9672060012817383
+    ],
+    "center_offset": [
+      0.0,
+      0.48875401209807023,
+      0.0
+    ]
   }
 ]

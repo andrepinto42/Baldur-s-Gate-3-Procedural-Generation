@@ -70,5 +70,47 @@
       1.4990580081939697,
       0.0
     ]
+  },
+  {
+    "name": "DCL_ABS_Symbol_Absolute_Blood_C_A.dae",
+    "relative_path": "Decals/Absolute/DCL_ABS_Symbol_Absolute_Blood_ABC/Resources/DCL_ABS_Symbol_Absolute_Blood_C_A.dae",
+    "size": [
+      0.9412190020084381,
+      0.021015000937040895,
+      0.9690410196781158
+    ],
+    "center_offset": [
+      -0.009219512343406677,
+      0.009947500453563407,
+      0.006303504109382629
+    ]
+  },
+  {
+    "name": "DCL_ABS_Symbol_Absolute_Blood_C_C.dae",
+    "relative_path": "Decals/Absolute/DCL_ABS_Symbol_Absolute_Blood_ABC/Resources/DCL_ABS_Symbol_Absolute_Blood_C_C.dae",
+    "size": [
+      0.6780340075492859,
+      0.021056000143289566,
+      1.0681269764900208
+    ],
+    "center_offset": [
+      0.007582992315292358,
+      0.010528000071644783,
+      0.05584648251533508
+    ]
+  },
+  {
+    "name": "DCL_GEN_Prayers_A.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_Prayers_ABC/Resources/DCL_GEN_Prayers_A.dae",
+    "size": [
+      3.368436098098755,
+      2.553429961204529,
+      0.0
+    ],
+    "center_offset": [
+      0.0,
+      0.030898988246917725,
+      0.0
+    ]
   }
 ]

@@ -15636,5 +15636,6809 @@
       -38.28485107421875,
       -72.59455871582031
     ]
+  },
+  {
+    "name": "NAT_Algae_Ocean_Brown_GiantKelp_A_Big_A.dae",
+    "relative_path": "Nature/Algae/NAT_Algae_Ocean_Brown_ABC/Resources/NAT_Algae_Ocean_Brown_GiantKelp_A_Big_A.dae",
+    "size": [
+      1.4244120121002197,
+      6.307184139499441,
+      1.3352999687194824
+    ],
+    "center_offset": [
+      -0.08249598741531372,
+      3.1500220698071644,
+      0.018092989921569824
+    ]
+  },
+  {
+    "name": "NAT_Algae_Ocean_Brown_GiantKelp_A_Mid_A.dae",
+    "relative_path": "Nature/Algae/NAT_Algae_Ocean_Brown_ABC/Resources/NAT_Algae_Ocean_Brown_GiantKelp_A_Mid_A.dae",
+    "size": [
+      1.2036740183830261,
+      4.1901000356301665,
+      1.002021998167038
+    ],
+    "center_offset": [
+      0.05407199263572693,
+      2.084997017402202,
+      -0.006955996155738831
+    ]
+  },
+  {
+    "name": "NAT_Algae_Ocean_Brown_GiantKelp_A_Small_A.dae",
+    "relative_path": "Nature/Algae/NAT_Algae_Ocean_Brown_ABC/Resources/NAT_Algae_Ocean_Brown_GiantKelp_A_Small_A.dae",
+    "size": [
+      1.0804360508918762,
+      2.3552610501646996,
+      0.9953509867191315
+    ],
+    "center_offset": [
+      0.004207998514175415,
+      1.1672095246613026,
+      -0.042829498648643494
+    ]
+  },
+  {
+    "name": "NAT_Astral_Geyser_A.dae",
+    "relative_path": "Nature/Astral/Resources/NAT_Astral_Geyser_A.dae",
+    "size": [
+      2.0447199940681458,
+      2.2742869555950165,
+      2.0902650356292725
+    ],
+    "center_offset": [
+      -0.06658300757408142,
+      0.6437674909830093,
+      -0.00949251651763916
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A.dae",
+    "size": [
+      12.601019859313965,
+      16.37792344018817,
+      12.608052730560303
+    ],
+    "center_offset": [
+      0.0375518798828125,
+      8.16455771960318,
+      0.37177443504333496
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Base_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Base_A.dae",
+    "size": [
+      11.02017879486084,
+      4.516301095485687,
+      11.977789878845215
+    ],
+    "center_offset": [
+      -0.37663745880126953,
+      2.2518215477466583,
+      0.056643009185791016
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Middle_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Middle_A.dae",
+    "size": [
+      12.601019859313965,
+      11.464448548853397,
+      12.601069927215576
+    ],
+    "center_offset": [
+      0.0375518798828125,
+      5.648693274706602,
+      0.37526583671569824
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Top_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Top_A.dae",
+    "size": [
+      8.096659898757935,
+      6.811131834983826,
+      7.730904817581177
+    ],
+    "center_offset": [
+      -0.743759036064148,
+      2.6573289036750793,
+      -0.49724137783050537
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_A.dae",
+    "size": [
+      11.471042156219482,
+      12.261003351770341,
+      3.9084439277648926
+    ],
+    "center_offset": [
+      0.02204108238220215,
+      6.12130267592147,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_A_Base.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_A_Base.dae",
+    "size": [
+      10.29037094116211,
+      3.649767069146037,
+      3.867053985595703
+    ],
+    "center_offset": [
+      0.14965057373046875,
+      1.8464805344119668,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_A_Top.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_A_Top.dae",
+    "size": [
+      10.844351291656494,
+      10.212796449661255,
+      3.9084439277648926
+    ],
+    "center_offset": [
+      1.0533325672149658,
+      5.176201224327087,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_B.dae",
+    "size": [
+      10.572405815124512,
+      11.840255729854107,
+      4.679720878601074
+    ],
+    "center_offset": [
+      -0.3418850898742676,
+      5.852563861757517,
+      -4.76837158203125e-07
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_B_Base.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_B_Base.dae",
+    "size": [
+      10.572406768798828,
+      4.2439979910850525,
+      3.927259922027588
+    ],
+    "center_offset": [
+      -0.32341861724853516,
+      2.115669995546341,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_B_Top.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_B_Top.dae",
+    "size": [
+      10.023732662200928,
+      9.8166403088253,
+      4.679720878601074
+    ],
+    "center_offset": [
+      -0.07381844520568848,
+      4.906479154364206,
+      4.76837158203125e-07
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_C.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_C.dae",
+    "size": [
+      12.663122177124023,
+      12.45337763428688,
+      6.036577939987183
+    ],
+    "center_offset": [
+      -0.27066707611083984,
+      6.194143816828728,
+      -0.10242903232574463
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_C_Base.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_C_Base.dae",
+    "size": [
+      11.028934001922607,
+      3.5010520010255277,
+      4.060902118682861
+    ],
+    "center_offset": [
+      -0.3972451686859131,
+      1.756427000509575,
+      9.5367431640625e-07
+    ]
+  },
+  {
+    "name": "NAT_Bhaal_Cliff_Spire_A_Wall_C_Top.dae",
+    "relative_path": "Nature/Cliffs/NAT_Bhaal_Cliff_Spire_ABC/Resources/NAT_Bhaal_Cliff_Spire_A_Wall_C_Top.dae",
+    "size": [
+      12.663120746612549,
+      10.463110106764361,
+      6.036578178405762
+    ],
+    "center_offset": [
+      -0.28911852836608887,
+      5.2277230533072725,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A.dae",
+    "size": [
+      17.095380783081055,
+      27.772869117558002,
+      19.633047103881836
+    ],
+    "center_offset": [
+      -0.8927621841430664,
+      13.776853557676077,
+      0.211212158203125
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_A.dae",
+    "size": [
+      15.086727142333984,
+      9.250419169664383,
+      12.1556715965271
+    ],
+    "center_offset": [
+      0.15598249435424805,
+      4.516420587897301,
+      0.2886970043182373
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_B.dae",
+    "size": [
+      17.3184494972229,
+      9.414203733205795,
+      13.733033180236816
+    ],
+    "center_offset": [
+      -0.8396546840667725,
+      4.556881859898567,
+      -0.6133794784545898
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_C.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_C.dae",
+    "size": [
+      18.66337776184082,
+      7.840868930332363,
+      15.354223728179932
+    ],
+    "center_offset": [
+      -0.8074827194213867,
+      3.9342894651927054,
+      -0.22222304344177246
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.66936492919922,
+      28.042785674333572,
+      28.45486831665039
+    ],
+    "center_offset": [
+      1.166250228881836,
+      13.720090851187706,
+      -0.48241138458251953
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Big_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Big_A.dae",
+    "size": [
+      54.75715255737305,
+      33.684446573257446,
+      39.960018157958984
+    ],
+    "center_offset": [
+      -0.01947021484375,
+      15.341126322746277,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Big_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Big_B.dae",
+    "size": [
+      45.79043769836426,
+      35.2640814781189,
+      49.80108451843262
+    ],
+    "center_offset": [
+      -0.0034418106079101562,
+      11.379748582839966,
+      -0.006009101867675781
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Block_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Block_A.dae",
+    "size": [
+      14.299389839172363,
+      5.926833063364029,
+      15.516284942626953
+    ],
+    "center_offset": [
+      0.8116989135742188,
+      2.6114545315504074,
+      -0.6191015243530273
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Base.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Base.dae",
+    "size": [
+      27.52692985534668,
+      11.008297801017761,
+      27.519128799438477
+    ],
+    "center_offset": [
+      0.3251056671142578,
+      5.160236895084381,
+      1.2454557418823242
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Slab.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Slab.dae",
+    "size": [
+      14.873508930206299,
+      2.8104129135608673,
+      15.867487907409668
+    ],
+    "center_offset": [
+      0.26697468757629395,
+      1.0391914695501328,
+      -0.03887605667114258
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Top.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Top.dae",
+    "size": [
+      15.963643074035645,
+      12.25605072826147,
+      19.06003475189209
+    ],
+    "center_offset": [
+      0.12614965438842773,
+      6.198952365666628,
+      0.049883365631103516
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_C.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_C.dae",
+    "size": [
+      51.55607032775879,
+      33.92157173156738,
+      29.112160682678223
+    ],
+    "center_offset": [
+      0.004109382629394531,
+      11.65258502960205,
+      -0.010319232940673828
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_D.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_D.dae",
+    "size": [
+      58.992916107177734,
+      23.979260444641113,
+      14.924077987670898
+    ],
+    "center_offset": [
+      -7.62939453125e-06,
+      6.730966091156006,
+      0.016481876373291016
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Slab_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Slab_A.dae",
+    "size": [
+      11.356528043746948,
+      1.4741420447826385,
+      11.094002962112427
+    ],
+    "center_offset": [
+      2.9297901391983032,
+      0.37870801985263824,
+      -1.7192705869674683
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "size": [
+      11.584841012954712,
+      1.5008149445056915,
+      12.546407222747803
+    ],
+    "center_offset": [
+      3.031915545463562,
+      0.369143471121788,
+      -1.769202470779419
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Slab_B_Climbable.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Slab_B_Climbable.dae",
+    "size": [
+      16.907410144805908,
+      2.1902429535984993,
+      17.306264400482178
+    ],
+    "center_offset": [
+      -1.4081180095672607,
+      0.9773844741284847,
+      1.7216112613677979
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_A.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_A.dae",
+    "size": [
+      2.9852160215377808,
+      2.735411894507706,
+      2.8307089805603027
+    ],
+    "center_offset": [
+      -0.06559795141220093,
+      1.3561979471705854,
+      0.08807754516601562
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_B.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_B.dae",
+    "size": [
+      2.9248279333114624,
+      1.8758139573037624,
+      3.038817048072815
+    ],
+    "center_offset": [
+      0.3648989796638489,
+      0.9101129788905382,
+      -0.12812751531600952
+    ]
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_C.dae",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_C.dae",
+    "size": [
+      3.113281011581421,
+      1.0997370034456253,
+      1.8844730257987976
+    ],
+    "center_offset": [
+      -0.10752546787261963,
+      0.4148864969611168,
+      0.028026491403579712
+    ]
+  },
+  {
+    "name": "IP_Dragon_Skeletal_Scale_A.dae",
+    "relative_path": "Nature/InstancePaint/IP_Dragon_Skeletal_Scale_ABC/Resources/IP_Dragon_Skeletal_Scale_A.dae",
+    "size": [
+      0.7870270013809204,
+      0.053309998591430485,
+      0.7692489922046661
+    ],
+    "center_offset": [
+      0.00028648972511291504,
+      0.0285339992842637,
+      -0.009169504046440125
+    ]
+  },
+  {
+    "name": "IP_Dragon_Skeletal_Scale_B.dae",
+    "relative_path": "Nature/InstancePaint/IP_Dragon_Skeletal_Scale_ABC/Resources/IP_Dragon_Skeletal_Scale_B.dae",
+    "size": [
+      1.1805390119552612,
+      0.07996400364208966,
+      1.153872013092041
+    ],
+    "center_offset": [
+      0.00042951107025146484,
+      0.04186100180959329,
+      -0.013754010200500488
+    ]
+  },
+  {
+    "name": "IP_Dragon_Skeletal_Scale_C.dae",
+    "relative_path": "Nature/InstancePaint/IP_Dragon_Skeletal_Scale_ABC/Resources/IP_Dragon_Skeletal_Scale_C.dae",
+    "size": [
+      0.2731509953737259,
+      0.08142199879512191,
+      0.31179100275039673
+    ],
+    "center_offset": [
+      -0.0014035031199455261,
+      0.03881099936552346,
+      0.00045450031757354736
+    ]
+  },
+  {
+    "name": "IP_Dragon_Skeletal_Scale_D.dae",
+    "relative_path": "Nature/InstancePaint/IP_Dragon_Skeletal_Scale_ABC/Resources/IP_Dragon_Skeletal_Scale_D.dae",
+    "size": [
+      0.4310290068387985,
+      0.1297259982675314,
+      0.37257200479507446
+    ],
+    "center_offset": [
+      0.0007605031132698059,
+      0.07868399936705828,
+      -0.022571995854377747
+    ]
+  },
+  {
+    "name": "IP_Feather_Raven_Pile_A.dae",
+    "relative_path": "Nature/InstancePaint/IP_Feather_Raven_Pile_ABC/Resources/IP_Feather_Raven_Pile_A.dae",
+    "size": [
+      1.6007219552993774,
+      0.12848299741744995,
+      1.565146028995514
+    ],
+    "center_offset": [
+      0.23093396425247192,
+      0.01327349990606308,
+      0.1887899935245514
+    ]
+  },
+  {
+    "name": "IP_Underdark_Mushrooms_Purple_A_Dead_A.dae",
+    "relative_path": "Nature/InstancePaint/IP_Underdark_Mushrooms_ABC/Resources/IP_Underdark_Mushrooms_Purple_A_Dead_A.dae",
+    "size": [
+      0.4737299978733063,
+      0.6168369874358177,
+      0.39408600330352783
+    ],
+    "center_offset": [
+      0.013544991612434387,
+      0.2764834947884083,
+      0.017297998070716858
+    ]
+  },
+  {
+    "name": "IP_Underdark_Mushrooms_Yellow_A_Dead_A.dae",
+    "relative_path": "Nature/InstancePaint/IP_Underdark_Mushrooms_ABC/Resources/IP_Underdark_Mushrooms_Yellow_A_Dead_A.dae",
+    "size": [
+      0.8217769861221313,
+      0.8269710261374712,
+      0.651852011680603
+    ],
+    "center_offset": [
+      -0.01327049732208252,
+      0.3863495131954551,
+      0.02089199423789978
+    ]
+  },
+  {
+    "name": "NAT_Gith_Creche_Vista_D.dae",
+    "relative_path": "Nature/Mountains/NAT_Gith_Creche_Vista_ABC/Resources/NAT_Gith_Creche_Vista_D.dae",
+    "size": [
+      33.10999870300293,
+      15.875999927520752,
+      33.596500396728516
+    ],
+    "center_offset": [
+      0.3184995651245117,
+      7.608999967575073,
+      0.2012500762939453
+    ]
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_D.dae",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_D.dae",
+    "size": [
+      124.9389877319336,
+      45.74144661426544,
+      120.04008102416992
+    ],
+    "center_offset": [
+      0.030506134033203125,
+      24.85322231054306,
+      2.1929187774658203
+    ]
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_E.dae",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_E.dae",
+    "size": [
+      124.9389877319336,
+      15.296736717224121,
+      124.9389877319336
+    ],
+    "center_offset": [
+      0.030506134033203125,
+      17.10351800918579,
+      0.030506134033203125
+    ]
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_F.dae",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_F.dae",
+    "size": [
+      70.65815353393555,
+      47.52885453402996,
+      77.99562072753906
+    ],
+    "center_offset": [
+      0.5362453460693359,
+      23.714687265455723,
+      -3.5970993041992188
+    ]
+  },
+  {
+    "name": "NAT_Small_Rocks_Jagged_A.dae",
+    "relative_path": "Nature/NAT_Small_Rocks_Jagged_A/Resources/NAT_Small_Rocks_Jagged_A.dae",
+    "size": [
+      5.728129863739014,
+      0.3216470032930374,
+      2.51481294631958
+    ],
+    "center_offset": [
+      0.16251897811889648,
+      0.05828250199556351,
+      0.026461482048034668
+    ]
+  },
+  {
+    "name": "NAT_Small_Rocks_Jagged_B.dae",
+    "relative_path": "Nature/NAT_Small_Rocks_Jagged_A/Resources/NAT_Small_Rocks_Jagged_B.dae",
+    "size": [
+      6.399872064590454,
+      0.3216470032930374,
+      4.065945148468018
+    ],
+    "center_offset": [
+      0.25056707859039307,
+      0.05828250199556351,
+      0.18146252632141113
+    ]
+  },
+  {
+    "name": "CINE_NAT_CursedLands_Plant_Vines_Spiky_Wrapped_A.dae",
+    "relative_path": "Nature/Plants/NAT_CursedLands_Plant_Vines_Spiky_ABC/Resources/CINE_NAT_CursedLands_Plant_Vines_Spiky_Wrapped_A.dae",
+    "size": [
+      1.3115949630737305,
+      0.6633669957518578,
+      1.0172649919986725
+    ],
+    "center_offset": [
+      0.011546492576599121,
+      0.27027149870991707,
+      0.02364550530910492
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Long_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Long_A.dae",
+    "size": [
+      7.634866237640381,
+      2.1042509973049164,
+      2.3056540489196777
+    ],
+    "center_offset": [
+      0.0,
+      0.7864495068788528,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Long_A_Vista_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Long_A_Vista_A.dae",
+    "size": [
+      7.812845230102539,
+      2.2251769304275513,
+      0.0005750000127591193
+    ],
+    "center_offset": [
+      -0.09375858306884766,
+      0.8518344759941101,
+      0.00028750000637955964
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Long_B.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Long_B.dae",
+    "size": [
+      8.148611068725586,
+      2.6345249861478806,
+      2.117908000946045
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      1.0768674984574318,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Long_Dead_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Long_Dead_A.dae",
+    "size": [
+      7.932045936584473,
+      2.115152984857559,
+      2.224721908569336
+    ],
+    "center_offset": [
+      0.0,
+      0.7808574885129929,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Medium_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Medium_A.dae",
+    "size": [
+      4.891901969909668,
+      1.860038012266159,
+      2.088523030281067
+    ],
+    "center_offset": [
+      0.0,
+      0.7281530052423477,
+      5.364418029785156e-07
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Medium_B.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Medium_B.dae",
+    "size": [
+      5.235640048980713,
+      1.7344869822263718,
+      1.9210439920425415
+    ],
+    "center_offset": [
+      0.0,
+      0.6747734919190407,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Medium_Dead_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Medium_Dead_A.dae",
+    "size": [
+      4.59542989730835,
+      1.42010498046875,
+      1.6834379434585571
+    ],
+    "center_offset": [
+      0.0,
+      0.5095444917678833,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Medium_Dead_B.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Medium_Dead_B.dae",
+    "size": [
+      4.828464031219482,
+      1.8312840163707733,
+      2.1735780239105225
+    ],
+    "center_offset": [
+      0.0,
+      0.6881950050592422,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Short_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Short_A.dae",
+    "size": [
+      2.117648959159851,
+      1.8364459499716759,
+      2.1460719108581543
+    ],
+    "center_offset": [
+      -5.364418029785156e-07,
+      0.807457972317934,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Plant_Hedge_Short_Dead_A.dae",
+    "relative_path": "Nature/Plants/NAT_Plant_Hedge_ABC/Resources/NAT_Plant_Hedge_Short_Dead_A.dae",
+    "size": [
+      2.00722599029541,
+      1.4155060276389122,
+      2.0019218921661377
+    ],
+    "center_offset": [
+      0.0,
+      0.5969880111515522,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Dried_Short_A.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Dried_Short_A.dae",
+    "size": [
+      0.6501560211181641,
+      0.45872999355196953,
+      0.6989669799804688
+    ],
+    "center_offset": [
+      0.04497399926185608,
+      0.20308699645102024,
+      0.017294496297836304
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Dried_Short_Cluster_A.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Dried_Short_Cluster_A.dae",
+    "size": [
+      1.8883689641952515,
+      0.6262909844517708,
+      1.6638950109481812
+    ],
+    "center_offset": [
+      -0.05307650566101074,
+      0.2432664893567562,
+      0.030881524085998535
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Green_Short_A.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Green_Short_A.dae",
+    "size": [
+      0.6227479875087738,
+      0.6160529851913452,
+      0.5785070061683655
+    ],
+    "center_offset": [
+      -0.042260006070137024,
+      0.2277424931526184,
+      0.019770503044128418
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Green_Short_B.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Green_Short_B.dae",
+    "size": [
+      0.6084449887275696,
+      0.610287006944418,
+      0.5762049853801727
+    ],
+    "center_offset": [
+      0.02047550678253174,
+      0.2624695021659136,
+      0.048471495509147644
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Green_Short_Cluster_A.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Green_Short_Cluster_A.dae",
+    "size": [
+      2.0829180479049683,
+      0.9600329846143723,
+      2.1515599489212036
+    ],
+    "center_offset": [
+      0.011995971202850342,
+      0.35432449728250504,
+      -0.021416008472442627
+    ]
+  },
+  {
+    "name": "NAT_Vegetation_Grass_Wild_Green_Short_Cluster_B.dae",
+    "relative_path": "Nature/Plants/NAT_Vegetation_Grass_ABC/Resources/NAT_Vegetation_Grass_Wild_Green_Short_Cluster_B.dae",
+    "size": [
+      1.727180004119873,
+      0.6572090163826942,
+      1.3017899990081787
+    ],
+    "center_offset": [
+      0.0635560154914856,
+      0.24001051113009453,
+      0.017139017581939697
+    ]
+  },
+  {
+    "name": "ATM_ENV_WaterPlane_Wyrmscrossing_A.dae",
+    "relative_path": "Nature/Resources/ATM_ENV_WaterPlane_Wyrmscrossing_A.dae",
+    "size": [
+      1011.1126403808594,
+      0.0,
+      376.5202350616455
+    ],
+    "center_offset": [
+      -5.0071868896484375,
+      -8.59549331665039,
+      209.07264614105225
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Boulder_Big_E_Obsidian.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Boulder_Big_ABC/Resources/NAT_Rock_Granite_Boulder_Big_E_Obsidian.dae",
+    "size": [
+      7.577810049057007,
+      5.755268096923828,
+      6.998366117477417
+    ],
+    "center_offset": [
+      -0.011114001274108887,
+      0.00362396240234375,
+      -0.004906058311462402
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Flying_Circular_A.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Flying_Circular_ABC/Resources/NAT_Rock_Granite_Flying_Circular_A.dae",
+    "size": [
+      384.40838623046875,
+      367.6969909667969,
+      238.12095260620117
+    ],
+    "center_offset": [
+      -1.3942718505859375,
+      34.57212829589844,
+      85.49463844299316
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Flying_Circular_B.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Flying_Circular_ABC/Resources/NAT_Rock_Granite_Flying_Circular_B.dae",
+    "size": [
+      385.78533935546875,
+      375.2351837158203,
+      254.05635452270508
+    ],
+    "center_offset": [
+      -4.3422088623046875,
+      33.309837341308594,
+      94.76302146911621
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Flying_Circular_C.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Flying_Circular_ABC/Resources/NAT_Rock_Granite_Flying_Circular_C.dae",
+    "size": [
+      453.91400146484375,
+      405.78277587890625,
+      258.4127197265625
+    ],
+    "center_offset": [
+      11.19842529296875,
+      10.262176513671875,
+      93.57135009765625
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Flying_Cluster_A.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Flying_Cluster_ABC/Resources/NAT_Rock_Granite_Flying_Cluster_A.dae",
+    "size": [
+      20.9128475189209,
+      4.36879301071167,
+      5.482777118682861
+    ],
+    "center_offset": [
+      -0.010000228881835938,
+      -0.05468344688415527,
+      -0.007597446441650391
+    ]
+  },
+  {
+    "name": "NAT_Rock_Granite_Flying_Cluster_B.dae",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Flying_Cluster_ABC/Resources/NAT_Rock_Granite_Flying_Cluster_B.dae",
+    "size": [
+      63.10380935668945,
+      13.62448787689209,
+      14.942346096038818
+    ],
+    "center_offset": [
+      0.1434917449951172,
+      0.6937718391418457,
+      -0.4236109256744385
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Branch_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Branch_A.dae",
+    "size": [
+      2.827838897705078,
+      7.1938371658325195,
+      2.6775490045547485
+    ],
+    "center_offset": [
+      0.6373064517974854,
+      3.0204615592956543,
+      0.04094952344894409
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Branch_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Branch_B.dae",
+    "size": [
+      1.8830940127372742,
+      5.332862854003906,
+      2.3839449882507324
+    ],
+    "center_offset": [
+      -0.3761589825153351,
+      2.1027474403381348,
+      0.32824552059173584
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Branch_C.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Branch_C.dae",
+    "size": [
+      2.8359220027923584,
+      6.679833203554153,
+      2.9737290143966675
+    ],
+    "center_offset": [
+      0.27286696434020996,
+      2.862411603331566,
+      0.04077047109603882
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Branch_D.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Branch_D.dae",
+    "size": [
+      1.3100709915161133,
+      5.280910015106201,
+      1.9085090160369873
+    ],
+    "center_offset": [
+      -0.29775750637054443,
+      1.6394569873809814,
+      0.5300894975662231
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Branch_E.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Branch_E.dae",
+    "size": [
+      1.2386920154094696,
+      5.562670886516571,
+      1.6548930406570435
+    ],
+    "center_offset": [
+      0.19607199728488922,
+      2.094130426645279,
+      0.576118528842926
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Bridge_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Bridge_A.dae",
+    "size": [
+      8.064135789871216,
+      9.502110004425049,
+      20.95017433166504
+    ],
+    "center_offset": [
+      -1.0197809934616089,
+      -2.2002789974212646,
+      0.10278606414794922
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_B_Glow_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_B_Glow_A.dae",
+    "size": [
+      1.4257239699363708,
+      2.2493990063667297,
+      1.2829639911651611
+    ],
+    "center_offset": [
+      0.07559600472450256,
+      0.19274351000785828,
+      0.009310007095336914
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_A.dae",
+    "size": [
+      2.762213945388794,
+      4.090451955795288,
+      2.7048709392547607
+    ],
+    "center_offset": [
+      -0.00816202163696289,
+      -0.46719396114349365,
+      -0.04657149314880371
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_B.dae",
+    "size": [
+      2.317209005355835,
+      2.5927850008010864,
+      2.387971043586731
+    ],
+    "center_offset": [
+      -0.08955347537994385,
+      -0.09382253885269165,
+      -0.01206749677658081
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_B_Glow_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_B_Glow_A.dae",
+    "size": [
+      1.2347300052642822,
+      1.3714770078659058,
+      1.2273669838905334
+    ],
+    "center_offset": [
+      0.01837402582168579,
+      -0.03853851556777954,
+      0.024345487356185913
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_C.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_C.dae",
+    "size": [
+      1.1938160061836243,
+      1.2954019904136658,
+      1.2809939980506897
+    ],
+    "center_offset": [
+      -0.048402994871139526,
+      -0.05653199553489685,
+      0.02812597155570984
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_C_Glow_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_C_Glow_A.dae",
+    "size": [
+      0.9335049986839294,
+      1.0422190129756927,
+      0.9867159724235535
+    ],
+    "center_offset": [
+      0.0005834996700286865,
+      -0.03502751886844635,
+      -0.0071839988231658936
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Cocoon_D.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Cocoon_D.dae",
+    "size": [
+      6.624669790267944,
+      9.61515188217163,
+      6.839317083358765
+    ],
+    "center_offset": [
+      -0.1692270040512085,
+      3.43034291267395,
+      -0.09150946140289307
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_C_Glow_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_C_Glow_A.dae",
+    "size": [
+      1.1063259840011597,
+      1.7551299333572388,
+      1.1233680248260498
+    ],
+    "center_offset": [
+      -0.020644009113311768,
+      0.15879398584365845,
+      -0.0020729899406433105
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Stump_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Stump_A.dae",
+    "size": [
+      11.21427583694458,
+      6.4995551109313965,
+      9.034992218017578
+    ],
+    "center_offset": [
+      -1.1928260326385498,
+      1.3089115619659424,
+      0.8347930908203125
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Stump_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Stump_B.dae",
+    "size": [
+      9.188662052154541,
+      5.040294051170349,
+      7.9517292976379395
+    ],
+    "center_offset": [
+      -0.5115911960601807,
+      0.7648950219154358,
+      -0.413562536239624
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_A.dae",
+    "size": [
+      10.631636142730713,
+      14.798702001571655,
+      13.311668395996094
+    ],
+    "center_offset": [
+      -0.27341294288635254,
+      4.2866469621658325,
+      -1.1864190101623535
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_B.dae",
+    "size": [
+      9.791071891784668,
+      16.62296974658966,
+      11.11846113204956
+    ],
+    "center_offset": [
+      -0.6039681434631348,
+      6.513474881649017,
+      -1.0835883617401123
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_C.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_C.dae",
+    "size": [
+      3.311608076095581,
+      3.466341972351074,
+      12.708814144134521
+    ],
+    "center_offset": [
+      0.008018016815185547,
+      -0.10688197612762451,
+      0.09038805961608887
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_D.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_D.dae",
+    "size": [
+      8.613096952438354,
+      8.475223064422607,
+      8.594368934631348
+    ],
+    "center_offset": [
+      -0.48387253284454346,
+      2.9238035678863525,
+      -0.2669954299926758
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_E.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_E.dae",
+    "size": [
+      6.540349721908569,
+      14.60166221857071,
+      7.245553016662598
+    ],
+    "center_offset": [
+      -0.8897339105606079,
+      7.437430113554001,
+      0.3811354637145996
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_F.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_F.dae",
+    "size": [
+      5.96621298789978,
+      17.791325569152832,
+      9.15579605102539
+    ],
+    "center_offset": [
+      -0.04339158535003662,
+      1.7437386512756348,
+      -1.7775969505310059
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_G.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_G.dae",
+    "size": [
+      12.080918312072754,
+      13.799235582351685,
+      10.412281036376953
+    ],
+    "center_offset": [
+      -0.7769379615783691,
+      4.072763800621033,
+      0.2416706085205078
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_H.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_H.dae",
+    "size": [
+      6.626792907714844,
+      9.736690998077393,
+      12.17382025718689
+    ],
+    "center_offset": [
+      -0.33032846450805664,
+      3.575887441635132,
+      2.2087260484695435
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_I.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_I.dae",
+    "size": [
+      9.11374020576477,
+      15.457784175872803,
+      12.063184261322021
+    ],
+    "center_offset": [
+      0.961448073387146,
+      5.593074083328247,
+      1.6083409786224365
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Tree_J.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Tree_J.dae",
+    "size": [
+      10.926877737045288,
+      12.848291635513306,
+      9.29936408996582
+    ],
+    "center_offset": [
+      3.233474850654602,
+      4.285716891288757,
+      -1.1055679321289062
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_A.dae",
+    "size": [
+      5.816975831985474,
+      3.0267449617385864,
+      18.715171813964844
+    ],
+    "center_offset": [
+      -0.5507739782333374,
+      0.11984151601791382,
+      -0.11189556121826172
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_A_Vista_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_A_Vista_A.dae",
+    "size": [
+      5.809924840927124,
+      3.0060980319976807,
+      18.715171813964844
+    ],
+    "center_offset": [
+      -0.5472484827041626,
+      0.1301649808883667,
+      -0.11189556121826172
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_B.dae",
+    "size": [
+      2.3148380517959595,
+      2.2153040170669556,
+      11.846216201782227
+    ],
+    "center_offset": [
+      -0.009584009647369385,
+      -0.08481401205062866,
+      -0.8410658836364746
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_B_Vista_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_B_Vista_A.dae",
+    "size": [
+      2.3148380517959595,
+      2.1958810091018677,
+      11.83251428604126
+    ],
+    "center_offset": [
+      -0.009584009647369385,
+      -0.07620245218276978,
+      -0.8342149257659912
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_C.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_C.dae",
+    "size": [
+      1.7877900004386902,
+      2.073926091194153,
+      5.910104990005493
+    ],
+    "center_offset": [
+      -0.11581400036811829,
+      0.03215700387954712,
+      0.10204446315765381
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_D.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_D.dae",
+    "size": [
+      1.643164038658142,
+      1.4816280007362366,
+      4.787156105041504
+    ],
+    "center_offset": [
+      -0.021227002143859863,
+      0.035918980836868286,
+      0.09252500534057617
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_E.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_E.dae",
+    "size": [
+      2.54994797706604,
+      10.01890230178833,
+      6.808718919754028
+    ],
+    "center_offset": [
+      0.010406970977783203,
+      0.48334193229675293,
+      0.4292515516281128
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_E_Vista_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_E_Vista_A.dae",
+    "size": [
+      2.499890923500061,
+      9.933052062988281,
+      6.801689147949219
+    ],
+    "center_offset": [
+      -0.014622509479522705,
+      0.49496984481811523,
+      0.42836546897888184
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_F.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_F.dae",
+    "size": [
+      8.877262115478516,
+      20.206928730010986,
+      11.125253200531006
+    ],
+    "center_offset": [
+      -0.3044090270996094,
+      3.7935473918914795,
+      -2.2863175868988037
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Trunk_G.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Trunk_G.dae",
+    "size": [
+      6.234444856643677,
+      7.545382857322693,
+      16.739323616027832
+    ],
+    "center_offset": [
+      0.6561394929885864,
+      1.9250114560127258,
+      1.0463080406188965
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_A.dae",
+    "size": [
+      0.1468840017914772,
+      3.1480128914117813,
+      0.29806599020957947
+    ],
+    "center_offset": [
+      -0.0005269981920719147,
+      -1.4751044437289238,
+      -0.027493998408317566
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_B.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_B.dae",
+    "size": [
+      0.2018899992108345,
+      6.336841180920601,
+      0.6245950162410736
+    ],
+    "center_offset": [
+      -0.003001999109983444,
+      -3.036738596856594,
+      -0.028400495648384094
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_C.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_C.dae",
+    "size": [
+      2.6341819763183594,
+      0.2815560009330511,
+      3.215398073196411
+    ],
+    "center_offset": [
+      0.09081697463989258,
+      0.13012800086289644,
+      0.007678985595703125
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_D.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_D.dae",
+    "size": [
+      4.507227957248688,
+      0.182346997782588,
+      2.555776000022888
+    ],
+    "center_offset": [
+      -2.205306977033615,
+      0.07182049844413996,
+      0.2114049792289734
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_E.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_E.dae",
+    "size": [
+      0.15428200364112854,
+      6.036565978080034,
+      1.3615920543670654
+    ],
+    "center_offset": [
+      0.0007679983973503113,
+      -2.9692009892314672,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Vines_F.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Vines_F.dae",
+    "size": [
+      0.967816025018692,
+      8.65749429166317,
+      3.2748550176620483
+    ],
+    "center_offset": [
+      0.3441780060529709,
+      -4.2300001457333565,
+      -0.027473509311676025
+    ]
+  },
+  {
+    "name": "NAT_Cursed_Roots_Wall_A.dae",
+    "relative_path": "Nature/Roots/NAT_Cursed_Roots_ABC/Resources/NAT_Cursed_Roots_Wall_A.dae",
+    "size": [
+      3.5502560138702393,
+      8.186691045761108,
+      6.319958925247192
+    ],
+    "center_offset": [
+      -0.6609979867935181,
+      1.9018875360488892,
+      0.41223347187042236
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_A.dae",
+    "size": [
+      1.797303020954132,
+      8.956548008602113,
+      1.8017889857292175
+    ],
+    "center_offset": [
+      -0.07388648390769958,
+      4.477877004304901,
+      0.08367851376533508
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_A_Vista_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_A_Vista_A.dae",
+    "size": [
+      2.0172230005264282,
+      8.84805679321289,
+      0.0
+    ],
+    "center_offset": [
+      -0.07117551565170288,
+      4.424028396606445,
+      0.0
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_B.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_B.dae",
+    "size": [
+      1.8409560322761536,
+      8.487194668210577,
+      1.900681972503662
+    ],
+    "center_offset": [
+      0.022783011198043823,
+      4.243131334107602,
+      -0.06769096851348877
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_B_Stump.dae",
+    "size": [
+      0.19208600372076035,
+      0.7343059887061827,
+      0.19411899894475937
+    ],
+    "center_offset": [
+      -0.0053219981491565704,
+      0.36668699435540475,
+      0.012339498847723007
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_C.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_C.dae",
+    "size": [
+      1.9278309345245361,
+      8.02340377465589,
+      1.9346849918365479
+    ],
+    "center_offset": [
+      -0.04627847671508789,
+      4.011235887330258,
+      0.006758511066436768
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_Dead_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_Dead_A.dae",
+    "size": [
+      1.9090680480003357,
+      8.958628699008841,
+      2.074662923812866
+    ],
+    "center_offset": [
+      -0.14830902218818665,
+      4.478469349531224,
+      -0.055251479148864746
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_Dead_B.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_Dead_B.dae",
+    "size": [
+      1.4546849727630615,
+      8.775584468385205,
+      1.4310599565505981
+    ],
+    "center_offset": [
+      -0.02070748805999756,
+      4.387272234191187,
+      0.02809000015258789
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_Small_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_Small_A.dae",
+    "size": [
+      1.122759997844696,
+      5.3153630787855946,
+      1.0919800400733948
+    ],
+    "center_offset": [
+      -0.016307026147842407,
+      2.6573695394035894,
+      0.02243700623512268
+    ]
+  },
+  {
+    "name": "NAT_Tree_Cypress_Small_B.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Cypress_ABC/Resources/NAT_Tree_Cypress_Small_B.dae",
+    "size": [
+      0.49553900957107544,
+      2.9209269322964246,
+      0.5907660126686096
+    ],
+    "center_offset": [
+      0.004336506128311157,
+      1.4603784661485406,
+      0.05349799990653992
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_A_Stump.dae",
+    "size": [
+      1.0848600268363953,
+      1.4702870519831777,
+      1.576317012310028
+    ],
+    "center_offset": [
+      -0.016310006380081177,
+      0.7250595255754888,
+      -0.012201517820358276
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_A_Cursed_Dead_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_A_Cursed_Dead_A.dae",
+    "size": [
+      16.712985515594482,
+      18.542277455329895,
+      18.39887809753418
+    ],
+    "center_offset": [
+      1.1172449588775635,
+      7.7331947684288025,
+      2.000016212463379
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_A_Stump.dae",
+    "size": [
+      5.758414030075073,
+      3.132588028907776,
+      6.763745069503784
+    ],
+    "center_offset": [
+      0.7785400152206421,
+      0.028400957584381104,
+      -0.42694246768951416
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_B.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_B.dae",
+    "size": [
+      13.960014343261719,
+      14.014913721795892,
+      14.599757194519043
+    ],
+    "center_offset": [
+      1.2358379364013672,
+      7.006979860903812,
+      -0.6144776344299316
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_B_Cursed_Dead_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_B_Cursed_Dead_A.dae",
+    "size": [
+      13.960014343261719,
+      14.014913721795892,
+      14.599757194519043
+    ],
+    "center_offset": [
+      1.2358379364013672,
+      7.006979860903812,
+      -0.6144776344299316
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_B_Stump.dae",
+    "size": [
+      2.4315080642700195,
+      0.8832970024086535,
+      2.3999439477920532
+    ],
+    "center_offset": [
+      -0.009068012237548828,
+      0.43718050117604434,
+      -0.2095080018043518
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_B_Stump.dae",
+    "size": [
+      1.3398440480232239,
+      1.402300039306283,
+      1.308413028717041
+    ],
+    "center_offset": [
+      0.1402049958705902,
+      0.6979660196229815,
+      -0.09935051202774048
+    ]
+  },
+  {
+    "name": "NAT_Tree_Gnarly_C_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_C_Stump.dae",
+    "size": [
+      1.112559974193573,
+      1.0847570535261184,
+      0.8893929719924927
+    ],
+    "center_offset": [
+      0.16983899474143982,
+      0.5389285268029198,
+      -0.01788949966430664
+    ]
+  },
+  {
+    "name": "NAT_Tree_Grapevine_A.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Grapevine_ABC/Resources/NAT_Tree_Grapevine_A.dae",
+    "size": [
+      2.8976210355758667,
+      3.016425925423391,
+      1.474918007850647
+    ],
+    "center_offset": [
+      0.011727511882781982,
+      1.5079539627186023,
+      0.031122982501983643
+    ]
+  },
+  {
+    "name": "NAT_Tree_Grapevine_B.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Grapevine_ABC/Resources/NAT_Tree_Grapevine_B.dae",
+    "size": [
+      3.0068390369415283,
+      3.254856902291067,
+      1.2482479810714722
+    ],
+    "center_offset": [
+      0.18360745906829834,
+      1.6271694511524402,
+      0.0356220006942749
+    ]
+  },
+  {
+    "name": "NAT_Tree_Grapevine_C.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Grapevine_ABC/Resources/NAT_Tree_Grapevine_C.dae",
+    "size": [
+      2.824077010154724,
+      2.884294110466726,
+      1.0292139947414398
+    ],
+    "center_offset": [
+      -0.1480655074119568,
+      1.4418880552402698,
+      0.06930799782276154
+    ]
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_A_Stump.dae",
+    "size": [
+      0.6700449883937836,
+      1.8037220239639282,
+      0.6591749787330627
+    ],
+    "center_offset": [
+      -0.035190507769584656,
+      -0.0780249834060669,
+      0.027773499488830566
+    ]
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_B_Stump.dae",
+    "size": [
+      0.728424996137619,
+      1.6156560182571411,
+      0.7302449941635132
+    ],
+    "center_offset": [
+      0.12465550005435944,
+      0.05308300256729126,
+      0.10223948955535889
+    ]
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_C_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_C_Stump.dae",
+    "size": [
+      0.5419859886169434,
+      1.6890479922294617,
+      0.431986004114151
+    ],
+    "center_offset": [
+      -0.04778999090194702,
+      -0.04946902394294739,
+      0.0019820034503936768
+    ]
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_D_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_D_Stump.dae",
+    "size": [
+      0.7690480053424835,
+      2.0238510370254517,
+      0.7485999763011932
+    ],
+    "center_offset": [
+      -0.04189901053905487,
+      -0.15678352117538452,
+      0.0029840022325515747
+    ]
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_E_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_E_Stump.dae",
+    "size": [
+      0.7892189919948578,
+      0.934632983058691,
+      0.83924400806427
+    ],
+    "center_offset": [
+      -0.008524492383003235,
+      0.40719749219715595,
+      -0.019663989543914795
+    ]
+  },
+  {
+    "name": "NAT_Tree_Olive_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Olive_ABC/Resources/NAT_Tree_Olive_A_Stump.dae",
+    "size": [
+      2.678194046020508,
+      1.8711369931697845,
+      2.490122079849243
+    ],
+    "center_offset": [
+      0.0954279899597168,
+      0.6180874854326248,
+      0.3140900135040283
+    ]
+  },
+  {
+    "name": "NAT_Tree_Olive_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Olive_ABC/Resources/NAT_Tree_Olive_B_Stump.dae",
+    "size": [
+      2.6978620290756226,
+      1.9055690467357635,
+      2.9062910079956055
+    ],
+    "center_offset": [
+      0.013289034366607666,
+      0.5317955166101456,
+      0.07221949100494385
+    ]
+  },
+  {
+    "name": "NAT_Tree_Pine_Stone_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Pine_Stone_ABC/Resources/NAT_Tree_Pine_Stone_A_Stump.dae",
+    "size": [
+      0.9429160058498383,
+      0.8308679796755314,
+      0.7813330292701721
+    ],
+    "center_offset": [
+      0.12882299721240997,
+      0.3765019904822111,
+      0.045694500207901
+    ]
+  },
+  {
+    "name": "NAT_Tree_Pine_Stone_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Pine_Stone_ABC/Resources/NAT_Tree_Pine_Stone_B_Stump.dae",
+    "size": [
+      0.5595889985561371,
+      0.8460370227694511,
+      0.5511789917945862
+    ],
+    "center_offset": [
+      -0.003960505127906799,
+      0.3590005077421665,
+      0.01861751079559326
+    ]
+  },
+  {
+    "name": "NAT_Tree_Pine_Stone_C_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Pine_Stone_ABC/Resources/NAT_Tree_Pine_Stone_C_Stump.dae",
+    "size": [
+      1.4265380203723907,
+      1.591497004032135,
+      2.116226017475128
+    ],
+    "center_offset": [
+      -0.24334101378917694,
+      0.296488493680954,
+      -0.3494050204753876
+    ]
+  },
+  {
+    "name": "NAT_Tree_Pine_Stone_D_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Pine_Stone_ABC/Resources/NAT_Tree_Pine_Stone_D_Stump.dae",
+    "size": [
+      0.5964049994945526,
+      1.0252530425786972,
+      0.9429799914360046
+    ],
+    "center_offset": [
+      0.03628350794315338,
+      0.49497152119874954,
+      0.019641995429992676
+    ]
+  },
+  {
+    "name": "NAT_Tree_Pine_Stone_E_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Pine_Stone_ABC/Resources/NAT_Tree_Pine_Stone_E_Stump.dae",
+    "size": [
+      0.51835697889328,
+      1.120455026626587,
+      0.9359279870986938
+    ],
+    "center_offset": [
+      0.007646501064300537,
+      0.2340725064277649,
+      -0.14245498180389404
+    ]
+  },
+  {
+    "name": "NAT_Tree_Sweet_Chestnut_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Sweet_Chestnut_ABC/Resources/NAT_Tree_Sweet_Chestnut_A_Stump.dae",
+    "size": [
+      2.615135073661804,
+      1.0329259745776653,
+      1.6725800037384033
+    ],
+    "center_offset": [
+      0.10702651739120483,
+      0.47329198755323887,
+      -0.26080000400543213
+    ]
+  },
+  {
+    "name": "NAT_Tree_Sweet_Chestnut_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Sweet_Chestnut_ABC/Resources/NAT_Tree_Sweet_Chestnut_B_Stump.dae",
+    "size": [
+      2.6153039932250977,
+      1.155213013291359,
+      2.51248300075531
+    ],
+    "center_offset": [
+      0.2541530132293701,
+      0.4465795084834099,
+      -0.23347753286361694
+    ]
+  },
+  {
+    "name": "NAT_Tree_Sweet_Chestnut_C_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Sweet_Chestnut_ABC/Resources/NAT_Tree_Sweet_Chestnut_C_Stump.dae",
+    "size": [
+      2.089361071586609,
+      1.8053020350635052,
+      1.8058599829673767
+    ],
+    "center_offset": [
+      0.032162487506866455,
+      0.8418260160833597,
+      -0.16899898648262024
+    ]
+  },
+  {
+    "name": "NAT_Tree_Willow_A_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Willow_ABC/Resources/NAT_Tree_Willow_A_Stump.dae",
+    "size": [
+      3.1935189962387085,
+      1.4958060383796692,
+      2.543284058570862
+    ],
+    "center_offset": [
+      -0.09673351049423218,
+      0.2552100121974945,
+      0.1779729723930359
+    ]
+  },
+  {
+    "name": "NAT_Tree_Willow_B_Stump.dae",
+    "relative_path": "Nature/Trees/NAT_Tree_Willow_ABC/Resources/NAT_Tree_Willow_B_Stump.dae",
+    "size": [
+      5.5046470165252686,
+      1.5550270676612854,
+      4.43970513343811
+    ],
+    "center_offset": [
+      0.21790659427642822,
+      0.2678165137767792,
+      0.022153496742248535
+    ]
+  },
+  {
+    "name": "NAT_Underdark_Mushrooms_HangingSpores_A.dae",
+    "relative_path": "Nature/Underdark/Resources/NAT_Underdark_Mushrooms_HangingSpores_A.dae",
+    "size": [
+      3.2798460721969604,
+      4.222477912902832,
+      2.9411749839782715
+    ],
+    "center_offset": [
+      -0.15924900770187378,
+      -1.8335809707641602,
+      -0.07429850101470947
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Bridge_B.dae",
+    "relative_path": "Nature/Water/NAT_RVR_LowerCity_Bridge_B.dae",
+    "size": [
+      16.49847412109375,
+      0.0,
+      31.44688606262207
+    ],
+    "center_offset": [
+      158.70376586914062,
+      28.25,
+      4.756585121154785
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_CrashSite_Chasm.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_CrashSite_Chasm.dae",
+    "size": [
+      294.56402587890625,
+      1.5442410111427307,
+      268.8605041503906
+    ],
+    "center_offset": [
+      -281.01458740234375,
+      0.1290784776210785,
+      263.0828399658203
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_CrashSite_Wadeable.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_CrashSite_Wadeable.dae",
+    "size": [
+      192.30169677734375,
+      2.2059250622987747,
+      230.7574462890625
+    ],
+    "center_offset": [
+      -234.33843994140625,
+      1.0097615346312523,
+      300.16424560546875
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_HagSwamp_Chasm.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_HagSwamp_Chasm.dae",
+    "size": [
+      374.4626922607422,
+      3.2939321398735046,
+      219.72730255126953
+    ],
+    "center_offset": [
+      44.42456817626953,
+      1.0039240419864655,
+      229.0811424255371
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_HagSwamp_Wadeable.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_HagSwamp_Wadeable.dae",
+    "size": [
+      326.09029388427734,
+      0.9088859856128693,
+      105.26167297363281
+    ],
+    "center_offset": [
+      43.7239875793457,
+      0.08026598393917084,
+      243.24102020263672
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_RangerCamp_Chasm.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_RangerCamp_Chasm.dae",
+    "size": [
+      447.8775939941406,
+      7.57097490131855,
+      369.43145751953125
+    ],
+    "center_offset": [
+      -534.8854217529297,
+      3.854501448571682,
+      551.4286804199219
+    ]
+  },
+  {
+    "name": "NAT_RVR_Wilderness_Chiontar_RangerCamp_Wadeable.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Chiontar/Resources/NAT_RVR_Wilderness_Chiontar_RangerCamp_Wadeable.dae",
+    "size": [
+      154.10476684570312,
+      3.72617906332016,
+      231.21810913085938
+    ],
+    "center_offset": [
+      -315.09495544433594,
+      1.2704005539417267,
+      499.8883819580078
+    ]
+  },
+  {
+    "name": "NAT_RVR_Crashsite_Puddles.dae",
+    "relative_path": "Nature/Water/Act1/WLD_CrashSite/Resources/NAT_RVR_Crashsite_Puddles.dae",
+    "size": [
+      20.09820556640625,
+      0.0008910000324249268,
+      10.05303955078125
+    ],
+    "center_offset": [
+      -299.61865234375,
+      0.14955450594425201,
+      261.1190185546875
+    ]
+  },
+  {
+    "name": "NAT_RVR_Forest_Vista.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Forest/Resources/NAT_RVR_Forest_Vista.dae",
+    "size": [
+      60.50998497009277,
+      5.129201889038086,
+      50.928863525390625
+    ],
+    "center_offset": [
+      -19.999009132385254,
+      28.410698890686035,
+      422.38368225097656
+    ]
+  },
+  {
+    "name": "NAT_RVR_HagLair_Puddles.dae",
+    "relative_path": "Nature/Water/Act1/WLD_HagLair/Resources/NAT_RVR_HagLair_Puddles.dae",
+    "size": [
+      29.789310455322266,
+      0.12559986114501953,
+      20.967504501342773
+    ],
+    "center_offset": [
+      -63.61103630065918,
+      16.012799739837646,
+      1.7958860397338867
+    ]
+  },
+  {
+    "name": "NAT_RVR_Plains_Fountain.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Plains/Resources/NAT_RVR_Plains_Fountain.dae",
+    "size": [
+      7.595098495483398,
+      0.0,
+      2.9706954956054688
+    ],
+    "center_offset": [
+      8.39115047454834,
+      37.900001525878906,
+      34.31222915649414
+    ]
+  },
+  {
+    "name": "NAT_RVR_Underdark_Laboratory.dae",
+    "relative_path": "Nature/Water/Act1/WLD_Underdark/Resources/NAT_RVR_Underdark_Laboratory.dae",
+    "size": [
+      31.03697967529297,
+      0.007858000695705414,
+      23.867156982421875
+    ],
+    "center_offset": [
+      -114.48149490356445,
+      -0.09607100114226341,
+      -227.1414794921875
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Courtyard.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Courtyard.dae",
+    "size": [
+      7.641197204589844,
+      0.0,
+      7.275903701782227
+    ],
+    "center_offset": [
+      -127.54199600219727,
+      14.25,
+      19.71749973297119
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Fountain.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Fountain.dae",
+    "size": [
+      13.258407592773438,
+      0.051563262939453125,
+      15.621864318847656
+    ],
+    "center_offset": [
+      -52.57258605957031,
+      32.15222358703613,
+      43.461055755615234
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Statue.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Statue.dae",
+    "size": [
+      15.167510986328125,
+      0.1620779037475586,
+      23.16646718978882
+    ],
+    "center_offset": [
+      -74.20967864990234,
+      10.27701711654663,
+      9.143641710281372
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Temple.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Temple.dae",
+    "size": [
+      7.005802154541016,
+      0.0,
+      9.541061401367188
+    ],
+    "center_offset": [
+      -50.38709831237793,
+      21.18000030517578,
+      59.508697509765625
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Vista_Back.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Vista_Back.dae",
+    "size": [
+      109.94692611694336,
+      39.83076477050781,
+      227.88930130004883
+    ],
+    "center_offset": [
+      -81.24714851379395,
+      -26.595489501953125,
+      170.27635765075684
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Vista_Front.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Vista_Front.dae",
+    "size": [
+      231.4734344482422,
+      15.738761901855469,
+      214.4835205078125
+    ],
+    "center_offset": [
+      -63.70624542236328,
+      -40.524879455566406,
+      -127.97463989257812
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Vista_Mountains.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Vista_Mountains.dae",
+    "size": [
+      174.57987213134766,
+      24.48651933670044,
+      126.41510009765625
+    ],
+    "center_offset": [
+      -49.4543571472168,
+      7.140464544296265,
+      -227.54812622070312
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCreche_Vista_Plains.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithCreche/Resources/NAT_RVR_GithCreche_Vista_Plains.dae",
+    "size": [
+      277.93177795410156,
+      1.9073486328125e-06,
+      156.69451904296875
+    ],
+    "center_offset": [
+      -316.02489471435547,
+      16.90000057220459,
+      -154.6194610595703
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithDungeon_Hatchery.dae",
+    "relative_path": "Nature/Water/Act2/CRE_GithDungeon/Resources/NAT_RVR_GithDungeon_Hatchery.dae",
+    "size": [
+      48.69550323486328,
+      0.27846384048461914,
+      59.30614185333252
+    ],
+    "center_offset": [
+      59.14597702026367,
+      -2.4609110355377197,
+      36.95855474472046
+    ]
+  },
+  {
+    "name": "NAT_RVR_Intermezzo_Lake.dae",
+    "relative_path": "Nature/Water/Act2/SCL_Intermezzo/Resources/NAT_RVR_Intermezzo_Lake.dae",
+    "size": [
+      55.84199142456055,
+      40.0590877532959,
+      165.77043342590332
+    ],
+    "center_offset": [
+      -11.958330154418945,
+      -32.32805347442627,
+      74.84497737884521
+    ]
+  },
+  {
+    "name": "NAT_RVR_Mausoleum_Mausoleum.dae",
+    "relative_path": "Nature/Water/Act2/SCL_Mausoleum/Resources/NAT_RVR_Mausoleum_Mausoleum.dae",
+    "size": [
+      12.272259712219238,
+      0.0,
+      18.327499389648438
+    ],
+    "center_offset": [
+      -13.922818660736084,
+      -32.67821502685547,
+      136.84888458251953
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Blood_Pool.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Blood_Pool.dae",
+    "size": [
+      66.39988708496094,
+      2.958669662475586,
+      71.18106079101562
+    ],
+    "center_offset": [
+      -245.59259796142578,
+      22.39603328704834,
+      -282.17478942871094
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Brine.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Brine.dae",
+    "size": [
+      310.5892333984375,
+      64.04774904251099,
+      225.33043670654297
+    ],
+    "center_offset": [
+      -456.13824462890625,
+      -25.88285231590271,
+      -225.3402442932129
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Necromancer.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Necromancer.dae",
+    "size": [
+      10.70489501953125,
+      0.35518455505371094,
+      18.608184814453125
+    ],
+    "center_offset": [
+      -304.9931335449219,
+      10.133056640625,
+      -292.89662170410156
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Pit.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Pit.dae",
+    "size": [
+      13.72698974609375,
+      7.092397689819336,
+      42.428314208984375
+    ],
+    "center_offset": [
+      -286.1563415527344,
+      19.606619834899902,
+      -123.30632019042969
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Pit_A.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Pit_A.dae",
+    "size": [
+      1.516998291015625,
+      1.3128280639648438,
+      1.601654052734375
+    ],
+    "center_offset": [
+      -285.72267150878906,
+      17.957706451416016,
+      -123.29281616210938
+    ]
+  },
+  {
+    "name": "NAT_RVR_MindflayerColony_Pit_B.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/NAT_RVR_MindflayerColony_Pit_B.dae",
+    "size": [
+      37.81988525390625,
+      1.637068748474121,
+      71.32461547851562
+    ],
+    "center_offset": [
+      -286.32061767578125,
+      14.165615558624268,
+      -142.24864196777344
+    ]
+  },
+  {
+    "name": "WFL_SCL_MindflayerColony_Pit_A.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/WFL_SCL_MindflayerColony_Pit_A.dae",
+    "size": [
+      1.229705810546875,
+      1.3428001403808594,
+      2.1796722412109375
+    ],
+    "center_offset": [
+      -285.78550720214844,
+      17.822961807250977,
+      -122.92692565917969
+    ]
+  },
+  {
+    "name": "WFL_SCL_MindflayerColony_Pit_B.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/WFL_SCL_MindflayerColony_Pit_B.dae",
+    "size": [
+      1.2802734375,
+      0.9726333618164062,
+      1.2505416870117188
+    ],
+    "center_offset": [
+      -283.8202819824219,
+      17.70733070373535,
+      -124.40292739868164
+    ]
+  },
+  {
+    "name": "WFL_SCL_MindflayerColony_Pit_C.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/WFL_SCL_MindflayerColony_Pit_C.dae",
+    "size": [
+      1.286895751953125,
+      0.9326248168945312,
+      2.5748825073242188
+    ],
+    "center_offset": [
+      -290.7007293701172,
+      17.25408935546875,
+      -123.62531661987305
+    ]
+  },
+  {
+    "name": "WFL_SCL_MindflayerColony_Pit_D.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MindflayerColony/Resources/WFL_SCL_MindflayerColony_Pit_D.dae",
+    "size": [
+      1.6436767578125,
+      0.9236736297607422,
+      1.688201904296875
+    ],
+    "center_offset": [
+      -282.947998046875,
+      16.50949001312256,
+      -132.15478515625
+    ]
+  },
+  {
+    "name": "NAT_RVR_Moonrise_Dungeon_Exit_Lake.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MoonriseDungeon/Resources/NAT_RVR_Moonrise_Dungeon_Exit_Lake.dae",
+    "size": [
+      105.25495147705078,
+      1.0237045288085938,
+      118.88532447814941
+    ],
+    "center_offset": [
+      122.73115158081055,
+      21.18822479248047,
+      38.02495098114014
+    ]
+  },
+  {
+    "name": "NAT_RVR_Moonrise_Dungeon_Grates.dae",
+    "relative_path": "Nature/Water/Act2/SCL_MoonriseDungeon/Resources/NAT_RVR_Moonrise_Dungeon_Grates.dae",
+    "size": [
+      19.532852172851562,
+      0.0,
+      18.670150756835938
+    ],
+    "center_offset": [
+      176.07442474365234,
+      26.899999618530273,
+      142.1417007446289
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_ Lake_Haven.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_ Lake_Haven.dae",
+    "size": [
+      217.41010856628418,
+      0.9446392059326172,
+      360.5254249572754
+    ],
+    "center_offset": [
+      91.10471439361572,
+      18.067275047302246,
+      152.6329174041748
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Basement_Tollhouse.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Basement_Tollhouse.dae",
+    "size": [
+      10.508544921875,
+      0.13933700323104858,
+      19.8411865234375
+    ],
+    "center_offset": [
+      92.65059661865234,
+      -0.5303924977779388,
+      -82.56526184082031
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Chiontar.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Chiontar.dae",
+    "size": [
+      974.5322265625,
+      0.9659180250018835,
+      484.2225065231323
+    ],
+    "center_offset": [
+      113.87652587890625,
+      0.4621870117262006,
+      -257.8442826271057
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Graveyard.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Graveyard.dae",
+    "size": [
+      9.493392944335938,
+      0.06739997863769531,
+      2.9470176696777344
+    ],
+    "center_offset": [
+      151.37499237060547,
+      31.32919979095459,
+      35.835893630981445
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Lake_Haven.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Lake_Haven.dae",
+    "size": [
+      217.41010856628418,
+      0.9475479125976562,
+      359.686918258667
+    ],
+    "center_offset": [
+      91.10471439361572,
+      18.068729400634766,
+      153.052170753479
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Mortuary_Exterior.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Mortuary_Exterior.dae",
+    "size": [
+      24.243927001953125,
+      0.000499725341796875,
+      29.40315818786621
+    ],
+    "center_offset": [
+      234.99517822265625,
+      30.5002498626709,
+      37.846558570861816
+    ]
+  },
+  {
+    "name": "NAT_RVR_RuinsBattlefield_Sluice_Haven.dae",
+    "relative_path": "Nature/Water/Act2/SCL_RuinsBattlefield/Resources/NAT_RVR_RuinsBattlefield_Sluice_Haven.dae",
+    "size": [
+      41.38224411010742,
+      1.829188346862793,
+      94.5252742767334
+    ],
+    "center_offset": [
+      58.84658241271973,
+      8.69032335281372,
+      -70.3815279006958
+    ]
+  },
+  {
+    "name": "NAT_RVR_VillageSubs_Altar.dae",
+    "relative_path": "Nature/Water/Act2/SCL_VillageSubs/Resources/NAT_RVR_VillageSubs_Altar.dae",
+    "size": [
+      14.263833999633789,
+      0.36496901512145996,
+      32.94775390625
+    ],
+    "center_offset": [
+      -24.898608207702637,
+      -1.2241644859313965,
+      25.31861114501953
+    ]
+  },
+  {
+    "name": "NAT_RVR_VillageSubs_Basement_Hospital.dae",
+    "relative_path": "Nature/Water/Act2/SCL_VillageSubs/Resources/NAT_RVR_VillageSubs_Basement_Hospital.dae",
+    "size": [
+      35.43380832672119,
+      0.024466991424560547,
+      29.753997802734375
+    ],
+    "center_offset": [
+      -24.311992168426514,
+      -3.050706386566162,
+      -206.41481018066406
+    ]
+  },
+  {
+    "name": "NAT_RVR_VillageSubs_Basement_Morgue.dae",
+    "relative_path": "Nature/Water/Act2/SCL_VillageSubs/Resources/NAT_RVR_VillageSubs_Basement_Morgue.dae",
+    "size": [
+      47.24488925933838,
+      0.024776458740234375,
+      25.320144653320312
+    ],
+    "center_offset": [
+      -32.53382444381714,
+      23.962106704711914,
+      -251.66741180419922
+    ]
+  },
+  {
+    "name": "NAT_RVR_VillageSubs_Basement_Spider.dae",
+    "relative_path": "Nature/Water/Act2/SCL_VillageSubs/Resources/NAT_RVR_VillageSubs_Basement_Spider.dae",
+    "size": [
+      15.948921203613281,
+      6.239776134490967,
+      45.64351463317871
+    ],
+    "center_offset": [
+      -24.99938201904297,
+      -4.3143980503082275,
+      -14.811322212219238
+    ]
+  },
+  {
+    "name": "NAT_RVR_VillageSubs_Cellar_Haven.dae",
+    "relative_path": "Nature/Water/Act2/SCL_VillageSubs/Resources/NAT_RVR_VillageSubs_Cellar_Haven.dae",
+    "size": [
+      16.32565599679947,
+      0.026083946228027344,
+      21.94753074645996
+    ],
+    "center_offset": [
+      7.435512989759445,
+      -6.537161827087402,
+      31.538334846496582
+    ]
+  },
+  {
+    "name": "NAT_RVR_SharTemple_Exit_NightSong.dae",
+    "relative_path": "Nature/Water/Act2/WLD_SharTemple/Resources/NAT_RVR_SharTemple_Exit_NightSong.dae",
+    "size": [
+      17.582733154296875,
+      0.172760009765625,
+      17.289794921875
+    ],
+    "center_offset": [
+      -146.91651916503906,
+      -61.377418518066406,
+      248.82598876953125
+    ]
+  },
+  {
+    "name": "NAT_RVR_SharTemple_Exit_Pools.dae",
+    "relative_path": "Nature/Water/Act2/WLD_SharTemple/Resources/NAT_RVR_SharTemple_Exit_Pools.dae",
+    "size": [
+      59.01323699951172,
+      5.107199132442474,
+      65.99844360351562
+    ],
+    "center_offset": [
+      -149.29936599731445,
+      -3.4568455517292023,
+      290.3762969970703
+    ]
+  },
+  {
+    "name": "NAT_RVR_SharTemple_Vista_Waterfalls.dae",
+    "relative_path": "Nature/Water/Act2/WLD_SharTemple/Resources/NAT_RVR_SharTemple_Vista_Waterfalls.dae",
+    "size": [
+      51.42816925048828,
+      1.8070716857910156,
+      41.69171142578125
+    ],
+    "center_offset": [
+      -151.1639060974121,
+      -52.36791801452637,
+      308.7461242675781
+    ]
+  },
+  {
+    "name": "NAT_RVR_BlushingMermaidCellar_Cave.dae",
+    "relative_path": "Nature/Water/Act3/BGH_BlushingMermaidCellar/Resources/NAT_RVR_BlushingMermaidCellar_Cave.dae",
+    "size": [
+      41.565053939819336,
+      0.0,
+      43.1773681640625
+    ],
+    "center_offset": [
+      43.682271003723145,
+      2.9000000953674316,
+      161.87583923339844
+    ]
+  },
+  {
+    "name": "NAT_RVR_BonecloaksApothecary_Basement_Pool.dae",
+    "relative_path": "Nature/Water/Act3/BGH_BonecloaksApothecary_Basement/Resources/NAT_RVR_BonecloaksApothecary_Basement_Pool.dae",
+    "size": [
+      20.354239463806152,
+      0.0,
+      13.817641258239746
+    ],
+    "center_offset": [
+      12.630964756011963,
+      -7.849999904632568,
+      -18.197649478912354
+    ]
+  },
+  {
+    "name": "NAT_RVR_Waterqueenhouse_BridgePools.dae",
+    "relative_path": "Nature/Water/Act3/BGH_Waterqueenhouse/Resources/NAT_RVR_Waterqueenhouse_BridgePools.dae",
+    "size": [
+      9.841552734375,
+      0.0,
+      10.97102689743042
+    ],
+    "center_offset": [
+      31.709239959716797,
+      29.758893966674805,
+      -0.4396646022796631
+    ]
+  },
+  {
+    "name": "NAT_RVR_Waterqueenhouse_Fountain.dae",
+    "relative_path": "Nature/Water/Act3/BGH_Waterqueenhouse/Resources/NAT_RVR_Waterqueenhouse_Fountain.dae",
+    "size": [
+      34.931318283081055,
+      1.0571842193603516,
+      10.532523155212402
+    ],
+    "center_offset": [
+      3.5772695541381836,
+      27.38818645477295,
+      -0.19471359252929688
+    ]
+  },
+  {
+    "name": "NAT_RVR_BlacksmithCellar_Lake.dae",
+    "relative_path": "Nature/Water/Act3/BGO_BlacksmithCellar/Resources/NAT_RVR_BlacksmithCellar_Lake.dae",
+    "size": [
+      23.114669799804688,
+      0.0,
+      19.91425132751465
+    ],
+    "center_offset": [
+      105.1236572265625,
+      -11.914573669433594,
+      41.90879535675049
+    ]
+  },
+  {
+    "name": "NAT_RVR_BlacksmithCellar_Pump.dae",
+    "relative_path": "Nature/Water/Act3/BGO_BlacksmithCellar/Resources/NAT_RVR_BlacksmithCellar_Pump.dae",
+    "size": [
+      2.422088623046875,
+      0.0,
+      1.8999996185302734
+    ],
+    "center_offset": [
+      89.3488540649414,
+      0.6246389746665955,
+      11.100194931030273
+    ]
+  },
+  {
+    "name": "NAT_RVR_Heapside_Prison_Puddle.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Heapside_Prison/Resources/NAT_RVR_Heapside_Prison_Puddle.dae",
+    "size": [
+      6.381094932556152,
+      0.0,
+      6.752788543701172
+    ],
+    "center_offset": [
+      14.042524814605713,
+      -0.05000000074505806,
+      -28.47740936279297
+    ]
+  },
+  {
+    "name": "NAT_RVR_HouseOfHope_Boudoir.dae",
+    "relative_path": "Nature/Water/Act3/BGO_HouseOfHope/Resources/NAT_RVR_HouseOfHope_Boudoir.dae",
+    "size": [
+      9.856813430786133,
+      0.0,
+      9.763765335083008
+    ],
+    "center_offset": [
+      -18.805893898010254,
+      9.562079429626465,
+      -25.836684226989746
+    ]
+  },
+  {
+    "name": "NAT_RVR_JaheiraBasement_Cave.dae",
+    "relative_path": "Nature/Water/Act3/BGO_JaheiraBasement/Resources/NAT_RVR_JaheiraBasement_Cave.dae",
+    "size": [
+      36.99750900268555,
+      0.0,
+      40.014273166656494
+    ],
+    "center_offset": [
+      -43.81439781188965,
+      0.0,
+      -16.578003644943237
+    ]
+  },
+  {
+    "name": "NAT_RVR_JaheiraBasement_River.dae",
+    "relative_path": "Nature/Water/Act3/BGO_JaheiraBasement/Resources/NAT_RVR_JaheiraBasement_River.dae",
+    "size": [
+      18.6177978515625,
+      9.5367431640625e-07,
+      62.80279541015625
+    ],
+    "center_offset": [
+      -92.29883575439453,
+      3.700000524520874,
+      -21.004215240478516
+    ]
+  },
+  {
+    "name": "NAT_RVR_JungleOfChult_River_A.dae",
+    "relative_path": "Nature/Water/Act3/BGO_JungleOfChult/Resources/NAT_RVR_JungleOfChult_River_A.dae",
+    "size": [
+      213.353759765625,
+      38.99160146713257,
+      169.64849281311035
+    ],
+    "center_offset": [
+      -5.873870849609375,
+      -17.93928074836731,
+      -60.04027080535889
+    ]
+  },
+  {
+    "name": "NAT_RVR_JungleOfChult_River_B.dae",
+    "relative_path": "Nature/Water/Act3/BGO_JungleOfChult/Resources/NAT_RVR_JungleOfChult_River_B.dae",
+    "size": [
+      71.10306739807129,
+      25.668582439422607,
+      84.33280277252197
+    ],
+    "center_offset": [
+      -63.13994121551514,
+      -7.531456232070923,
+      30.209102153778076
+    ]
+  },
+  {
+    "name": "NAT_RVR_MorphicPool_Entrance.dae",
+    "relative_path": "Nature/Water/Act3/BGO_MorphicPool/Resources/NAT_RVR_MorphicPool_Entrance.dae",
+    "size": [
+      271.6261672973633,
+      16.059935569763184,
+      201.69444274902344
+    ],
+    "center_offset": [
+      45.39255905151367,
+      -17.318237781524658,
+      8.546607971191406
+    ]
+  },
+  {
+    "name": "NAT_RVR_MorphicPool_MorphicPool.dae",
+    "relative_path": "Nature/Water/Act3/BGO_MorphicPool/Resources/NAT_RVR_MorphicPool_MorphicPool.dae",
+    "size": [
+      155.88719177246094,
+      8.680074691772461,
+      123.28575134277344
+    ],
+    "center_offset": [
+      -27.436683654785156,
+      -19.86253833770752,
+      -139.78215789794922
+    ]
+  },
+  {
+    "name": "NAT_RVR_Sharran_Grotto_Armory_Mirror_Cave.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Sharran_Grotto/Resources/NAT_RVR_Sharran_Grotto_Armory_Mirror_Cave.dae",
+    "size": [
+      100.61313056945801,
+      2.8316307067871094,
+      92.68178176879883
+    ],
+    "center_offset": [
+      70.61828517913818,
+      18.7260684967041,
+      99.79918479919434
+    ]
+  },
+  {
+    "name": "NAT_RVR_Sharran_Grotto_Entrance.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Sharran_Grotto/Resources/NAT_RVR_Sharran_Grotto_Entrance.dae",
+    "size": [
+      74.1066665649414,
+      0.09979629516601562,
+      75.9670181274414
+    ],
+    "center_offset": [
+      -95.02273178100586,
+      34.75010108947754,
+      126.9719352722168
+    ]
+  },
+  {
+    "name": "NAT_RVR_SmugglersCave_Basement_Pool.dae",
+    "relative_path": "Nature/Water/Act3/BGO_SmugglersCave_Basement/Resources/NAT_RVR_SmugglersCave_Basement_Pool.dae",
+    "size": [
+      23.612847328186035,
+      0.10402822494506836,
+      47.638439267873764
+    ],
+    "center_offset": [
+      4.017576694488525,
+      -8.047987222671509,
+      24.262193635106087
+    ]
+  },
+  {
+    "name": "NAT_RVR_SmugglerTunnel_Bridge.dae",
+    "relative_path": "Nature/Water/Act3/BGO_SmugglerTunnel/Resources/NAT_RVR_SmugglerTunnel_Bridge.dae",
+    "size": [
+      25.50831699371338,
+      0.6637039184570312,
+      35.01533889770508
+    ],
+    "center_offset": [
+      21.859206676483154,
+      -21.092281341552734,
+      -4.134710311889648
+    ]
+  },
+  {
+    "name": "NAT_RVR_SmugglerTunnel_Outer.dae",
+    "relative_path": "Nature/Water/Act3/BGO_SmugglerTunnel/Resources/NAT_RVR_SmugglerTunnel_Outer.dae",
+    "size": [
+      42.69868850708008,
+      0.01056671142578125,
+      49.0810022354126
+    ],
+    "center_offset": [
+      58.1140193939209,
+      -19.49471664428711,
+      37.21807813644409
+    ]
+  },
+  {
+    "name": "NAT_RVR_SmugglerTunnel_Skeleton.dae",
+    "relative_path": "Nature/Water/Act3/BGO_SmugglerTunnel/Resources/NAT_RVR_SmugglerTunnel_Skeleton.dae",
+    "size": [
+      17.348800659179688,
+      0.14124298095703125,
+      24.703102111816406
+    ],
+    "center_offset": [
+      67.86190032958984,
+      -26.447124481201172,
+      -10.451333999633789
+    ]
+  },
+  {
+    "name": "NAT_RVR_SmugglerTunnel_Spikes.dae",
+    "relative_path": "Nature/Water/Act3/BGO_SmugglerTunnel/Resources/NAT_RVR_SmugglerTunnel_Spikes.dae",
+    "size": [
+      35.40395927429199,
+      0.37294960021972656,
+      50.977657318115234
+    ],
+    "center_offset": [
+      40.241822242736816,
+      -20.316899299621582,
+      -58.54667091369629
+    ]
+  },
+  {
+    "name": "NAT_RVR_CazadorChapel_Altar.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_CazadorChapel/Resources/NAT_RVR_CazadorChapel_Altar.dae",
+    "size": [
+      22.34795379638672,
+      0.0,
+      18.57994842529297
+    ],
+    "center_offset": [
+      1.309678077697754,
+      -9.46478271484375,
+      47.17595291137695
+    ]
+  },
+  {
+    "name": "NAT_RVR_CazadorChapel_Cage.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_CazadorChapel/Resources/NAT_RVR_CazadorChapel_Cage.dae",
+    "size": [
+      14.955033302307129,
+      0.12796258926391602,
+      27.382923126220703
+    ],
+    "center_offset": [
+      1.2730317115783691,
+      -6.136018514633179,
+      -49.68955421447754
+    ]
+  },
+  {
+    "name": "NAT_RVR_CazadorChapel_Pool.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_CazadorChapel/Resources/NAT_RVR_CazadorChapel_Pool.dae",
+    "size": [
+      12.674854278564453,
+      0.0,
+      13.371711730957031
+    ],
+    "center_offset": [
+      38.975080490112305,
+      -6.800000190734863,
+      -45.98445510864258
+    ]
+  },
+  {
+    "name": "NAT_RVR_GuildHall_Sewer_Ending.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_GuildHall/Resources/NAT_RVR_GuildHall_Sewer_Ending.dae",
+    "size": [
+      99.0041732788086,
+      15.080144882202148,
+      92.39653015136719
+    ],
+    "center_offset": [
+      1.688812255859375,
+      23.81356906890869,
+      -146.53240203857422
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Bhaal_Entrance.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Bhaal_Entrance.dae",
+    "size": [
+      70.10945129394531,
+      4.86566162109375,
+      36.532745361328125
+    ],
+    "center_offset": [
+      -150.48918914794922,
+      -67.43283081054688,
+      188.5667266845703
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Bhaal_Temple.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Bhaal_Temple.dae",
+    "size": [
+      97.48295593261719,
+      0.9174728393554688,
+      114.85363006591797
+    ],
+    "center_offset": [
+      -255.05606842041016,
+      -73.04126358032227,
+      169.83833694458008
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Blood_Temple.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Blood_Temple.dae",
+    "size": [
+      93.25225830078125,
+      18.19000244140625,
+      73.89286804199219
+    ],
+    "center_offset": [
+      -239.73391723632812,
+      -52.244998931884766,
+      190.13443756103516
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Camp.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Camp.dae",
+    "size": [
+      9.416269302368164,
+      0.00782400369644165,
+      15.181320190429688
+    ],
+    "center_offset": [
+      -21.183335304260254,
+      -0.9960879981517792,
+      163.2336196899414
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Lower_Ruins.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Lower_Ruins.dae",
+    "size": [
+      213.69761276245117,
+      0.14206314086914062,
+      181.97793579101562
+    ],
+    "center_offset": [
+      -45.37296485900879,
+      -32.17896842956543,
+      374.6508331298828
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Ruins_Upper_Ruins.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Ruins/Resources/NAT_RVR_UC_Ruins_Upper_Ruins.dae",
+    "size": [
+      68.70681238174438,
+      6.891440391540527,
+      26.94593048095703
+    ],
+    "center_offset": [
+      -39.64940142631531,
+      15.019678592681885,
+      113.75275802612305
+    ]
+  },
+  {
+    "name": "NAT_RVR_UC_Sewer_Waterway.dae",
+    "relative_path": "Nature/Water/Act3/BGO_UC_Sewer/Resources/NAT_RVR_UC_Sewer_Waterway.dae",
+    "size": [
+      330.7183151245117,
+      24.58987122774124,
+      202.46202087402344
+    ],
+    "center_offset": [
+      -92.80203628540039,
+      11.380578607320786,
+      63.252967834472656
+    ]
+  },
+  {
+    "name": "NAT_RVR_WellDepths_Main.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WellDepths/Resources/NAT_RVR_WellDepths_Main.dae",
+    "size": [
+      40.65467429161072,
+      0.0,
+      70.81889724731445
+    ],
+    "center_offset": [
+      -23.1389981508255,
+      12.29999828338623,
+      22.16591453552246
+    ]
+  },
+  {
+    "name": "NAT_RVR_WellDepths_Side.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WellDepths/Resources/NAT_RVR_WellDepths_Side.dae",
+    "size": [
+      21.734291076660156,
+      3.299999237060547,
+      23.428373336791992
+    ],
+    "center_offset": [
+      -126.06362533569336,
+      -21.75,
+      30.021885871887207
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmRockDungeon_Pit.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmRockDungeon/Resources/NAT_RVR_WyrmRockDungeon_Pit.dae",
+    "size": [
+      9.91065788269043,
+      0.4373321533203125,
+      9.68426513671875
+    ],
+    "center_offset": [
+      -29.2144136428833,
+      4.267333984375,
+      36.36556625366211
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsCrossing_Bath.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrmsCrossing_Bath.dae",
+    "size": [
+      3.490550994873047,
+      0.0,
+      6.7900543212890625
+    ],
+    "center_offset": [
+      -30.34187889099121,
+      51.84281539916992,
+      93.92111206054688
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsCrossing_Chiontar.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrmsCrossing_Chiontar.dae",
+    "size": [
+      2907.6513671875,
+      1.9627089500427246,
+      1197.457504272461
+    ],
+    "center_offset": [
+      279.4268798828125,
+      0.0680304765701294,
+      480.65149688720703
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsCrossing_Church.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrmsCrossing_Church.dae",
+    "size": [
+      12.210996627807617,
+      0.0,
+      7.25
+    ],
+    "center_offset": [
+      34.36559772491455,
+      44.30000305175781,
+      -4.75
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsCrossing_Spa.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrmsCrossing_Spa.dae",
+    "size": [
+      4.0,
+      0.0,
+      4.9900054931640625
+    ],
+    "center_offset": [
+      20.100000381469727,
+      51.69999694824219,
+      105.45800018310547
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrnsCrossing_Chiontar_Chasm.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrnsCrossing_Chiontar_Chasm.dae",
+    "size": [
+      2907.6513671875,
+      1.9627089500427246,
+      1197.457504272461
+    ],
+    "center_offset": [
+      279.4268798828125,
+      0.0680304765701294,
+      480.65149688720703
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrnsCrossing_Chiontar_Wadable.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmsCrossing/Resources/NAT_RVR_WyrnsCrossing_Chiontar_Wadable.dae",
+    "size": [
+      188.67965698242188,
+      0.7773150196298957,
+      178.08797454833984
+    ],
+    "center_offset": [
+      15.804946899414062,
+      -0.38110750960186124,
+      161.77197647094727
+    ]
+  },
+  {
+    "name": "NAT_RVR_InvisibleBrige.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Wyrmsway/InvisibleBridge/Resources/NAT_RVR_InvisibleBrige.dae",
+    "size": [
+      15.139876365661621,
+      1.4716262817382812,
+      16.853073120117188
+    ],
+    "center_offset": [
+      -20.715263843536377,
+      27.96217918395996,
+      234.9260482788086
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsWay_Main.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Wyrmsway/Resources/NAT_RVR_WyrmsWay_Main.dae",
+    "size": [
+      141.6674575805664,
+      15.175392150878906,
+      96.4697265625
+    ],
+    "center_offset": [
+      -48.8044548034668,
+      18.31230354309082,
+      225.548095703125
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsWay_Platform.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Wyrmsway/Resources/NAT_RVR_WyrmsWay_Platform.dae",
+    "size": [
+      17.33838653564453,
+      0.4119720458984375,
+      22.436737060546875
+    ],
+    "center_offset": [
+      -80.3664665222168,
+      33.839115142822266,
+      206.02685546875
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmsWay_Pools.dae",
+    "relative_path": "Nature/Water/Act3/BGO_Wyrmsway/Resources/NAT_RVR_WyrmsWay_Pools.dae",
+    "size": [
+      14.376495361328125,
+      2.4263153076171875,
+      19.306243896484375
+    ],
+    "center_offset": [
+      -27.21466064453125,
+      33.731536865234375,
+      175.78724670410156
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmswayArena_Drain.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmswayArena/Resources/NAT_RVR_WyrmswayArena_Drain.dae",
+    "size": [
+      139.14449882507324,
+      52.250410079956055,
+      103.66802978515625
+    ],
+    "center_offset": [
+      -41.22078800201416,
+      3.1954660415649414,
+      313.65655517578125
+    ]
+  },
+  {
+    "name": "NAT_RVR_WyrmswayArena_Drain_B.dae",
+    "relative_path": "Nature/Water/Act3/BGO_WyrmswayArena/Resources/NAT_RVR_WyrmswayArena_Drain_B.dae",
+    "size": [
+      9.74198803305626,
+      1.783517837524414,
+      10.13323974609375
+    ],
+    "center_offset": [
+      -4.65360601246357,
+      22.7601957321167,
+      310.5794982910156
+    ]
+  },
+  {
+    "name": "NAT_RVR_AncientLair_Pool.dae",
+    "relative_path": "Nature/Water/Act3/CTY_AncientLair/Resources/NAT_RVR_AncientLair_Pool.dae",
+    "size": [
+      53.455522537231445,
+      2.2234780192375183,
+      40.01259088516235
+    ],
+    "center_offset": [
+      -20.74050807952881,
+      -0.5381620228290558,
+      -14.731009244918823
+    ]
+  },
+  {
+    "name": "NAT_RVR_DjinniLamp_Bubbles.dae",
+    "relative_path": "Nature/Water/Act3/CTY_DjinniLamp/Resources/NAT_RVR_DjinniLamp_Bubbles.dae",
+    "size": [
+      1.3999998569488525,
+      0.0,
+      1.2508319690823555
+    ],
+    "center_offset": [
+      2.212499976158142,
+      1.4184459447860718,
+      -0.5077239833772182
+    ]
+  },
+  {
+    "name": "NAT_RVR_DockWarehouseBasement_Dock.dae",
+    "relative_path": "Nature/Water/Act3/CTY_DockWarehouseBasement/Resources/NAT_RVR_DockWarehouseBasement_Dock.dae",
+    "size": [
+      28.811419010162354,
+      0.609870433807373,
+      105.63065528869629
+    ],
+    "center_offset": [
+      -7.7379844188690186,
+      -8.152401208877563,
+      37.08189678192139
+    ]
+  },
+  {
+    "name": "NAT_RVR_DockWarehouseBasement_Dock_NoSub.dae",
+    "relative_path": "Nature/Water/Act3/CTY_DockWarehouseBasement/Resources/NAT_RVR_DockWarehouseBasement_Dock_NoSub.dae",
+    "size": [
+      32.00481033325195,
+      1.116380214691162,
+      107.21742057800293
+    ],
+    "center_offset": [
+      -7.714664459228516,
+      -7.701769113540649,
+      37.44699954986572
+    ]
+  },
+  {
+    "name": "NAT_RVR_DockWarehouseBasement_Grates.dae",
+    "relative_path": "Nature/Water/Act3/CTY_DockWarehouseBasement/Resources/NAT_RVR_DockWarehouseBasement_Grates.dae",
+    "size": [
+      28.231179237365723,
+      0.08264601230621338,
+      26.938568115234375
+    ],
+    "center_offset": [
+      18.487002849578857,
+      -1.0110350251197815,
+      55.24713897705078
+    ]
+  },
+  {
+    "name": "NAT_RVR_HagSurvivor_Basement_Pool.dae",
+    "relative_path": "Nature/Water/Act3/CTY_HagSurvivor_Basement/Resources/NAT_RVR_HagSurvivor_Basement_Pool.dae",
+    "size": [
+      8.352988719940186,
+      0.0,
+      7.450000762939453
+    ],
+    "center_offset": [
+      11.75263237953186,
+      1.7035859823226929,
+      -20.01921844482422
+    ]
+  },
+  {
+    "name": "NAT_RVR_LodgeBasement_Sewer.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LodgeBasement/Resources/NAT_RVR_LodgeBasement_Sewer.dae",
+    "size": [
+      28.505813598632812,
+      4.148139953613281,
+      66.14263534545898
+    ],
+    "center_offset": [
+      -45.565914154052734,
+      -1.0259299278259277,
+      21.320199966430664
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Bridge.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Bridge.dae",
+    "size": [
+      154.31112670898438,
+      7.154201507568359,
+      67.97476768493652
+    ],
+    "center_offset": [
+      227.61009216308594,
+      24.68838882446289,
+      -11.668694496154785
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Bridge_A.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Bridge_A.dae",
+    "size": [
+      133.11990356445312,
+      10.261452674865723,
+      70.932861328125
+    ],
+    "center_offset": [
+      236.00550842285156,
+      17.754849910736084,
+      -14.019920349121094
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Fountain.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Fountain.dae",
+    "size": [
+      2.500213623046875,
+      0.0,
+      2.500406265258789
+    ],
+    "center_offset": [
+      291.0466766357422,
+      27.434310913085938,
+      20.852972984313965
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Heapside_Chiontar.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Heapside_Chiontar.dae",
+    "size": [
+      1793.7288208007812,
+      0.9439029907807708,
+      987.8662910461426
+    ],
+    "center_offset": [
+      8.988128662109375,
+      0.456386495847255,
+      -541.8297939300537
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Ketheric.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Ketheric.dae",
+    "size": [
+      8.554244995117188,
+      1.4531002044677734,
+      18.611183166503906
+    ],
+    "center_offset": [
+      -107.48300170898438,
+      28.60654926300049,
+      -82.78280258178711
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Laundering.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Laundering.dae",
+    "size": [
+      6.700000762939453,
+      0.0,
+      6.681999206542969
+    ],
+    "center_offset": [
+      55.12499809265137,
+      16.0,
+      -117.45100021362305
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Park.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Park.dae",
+    "size": [
+      7.5701904296875,
+      0.9881019592285156,
+      12.910623848438263
+    ],
+    "center_offset": [
+      88.30636596679688,
+      32.24585151672363,
+      -7.411064952611923
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Park_B.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Park_B.dae",
+    "size": [
+      5.189643859863281,
+      0.0,
+      4.664834976196289
+    ],
+    "center_offset": [
+      89.97937393188477,
+      28.20425033569336,
+      -11.852517127990723
+    ]
+  },
+  {
+    "name": "NAT_RVR_LowerCity_Puddle_Alley.dae",
+    "relative_path": "Nature/Water/Act3/CTY_LowerCity/Resources/NAT_RVR_LowerCity_Puddle_Alley.dae",
+    "size": [
+      8.148311614990234,
+      0.16290283203125,
+      9.531206130981445
+    ],
+    "center_offset": [
+      -67.71457862854004,
+      40.200931549072266,
+      34.946696281433105
+    ]
+  },
+  {
+    "name": "NAT_RVR_MurderTribunal_Blood.dae",
+    "relative_path": "Nature/Water/Act3/CTY_MurderTribunal/Resources/NAT_RVR_MurderTribunal_Blood.dae",
+    "size": [
+      11.5531005859375,
+      0.0,
+      7.540000915527344
+    ],
+    "center_offset": [
+      -40.554649353027344,
+      -2.0999999046325684,
+      -42.63520050048828
+    ]
+  },
+  {
+    "name": "NAT_RVR_MurderTribunal_Puddle.dae",
+    "relative_path": "Nature/Water/Act3/CTY_MurderTribunal/Resources/NAT_RVR_MurderTribunal_Puddle.dae",
+    "size": [
+      15.348404884338379,
+      0.0,
+      28.424663543701172
+    ],
+    "center_offset": [
+      21.35714864730835,
+      -0.6399999856948853,
+      37.72524833679199
+    ]
+  },
+  {
+    "name": "NAT_RVR_MurderTribunal_River.dae",
+    "relative_path": "Nature/Water/Act3/CTY_MurderTribunal/Resources/NAT_RVR_MurderTribunal_River.dae",
+    "size": [
+      30.138091564178467,
+      1.838952898979187,
+      28.028322219848633
+    ],
+    "center_offset": [
+      -21.18983483314514,
+      -1.4380064606666565,
+      38.512248039245605
+    ]
+  },
+  {
+    "name": "NAT_RVR_Thumbo_Basement_Entrance.dae",
+    "relative_path": "Nature/Water/Act3/CTY_Thumbo_Basement/Resources/NAT_RVR_Thumbo_Basement_Entrance.dae",
+    "size": [
+      16.304969787597656,
+      0.0,
+      24.180034637451172
+    ],
+    "center_offset": [
+      25.644237518310547,
+      0.10000000149011612,
+      -36.540571212768555
+    ]
+  },
+  {
+    "name": "NAT_RVR_WQH_Basement_Cave.dae",
+    "relative_path": "Nature/Water/Act3/CTY_WQH_Basement/Resources/NAT_RVR_WQH_Basement_Cave.dae",
+    "size": [
+      23.05867576599121,
+      0.21912699937820435,
+      45.60712432861328
+    ],
+    "center_offset": [
+      38.58190631866455,
+      0.10956349968910217,
+      9.962654113769531
+    ]
+  },
+  {
+    "name": "NAT_RVR_WQH_Basement_Pools_A.dae",
+    "relative_path": "Nature/Water/Act3/CTY_WQH_Basement/Resources/NAT_RVR_WQH_Basement_Pools_A.dae",
+    "size": [
+      44.41351938247681,
+      3.5548490583896637,
+      20.10812520980835
+    ],
+    "center_offset": [
+      -19.226101636886597,
+      1.604434534907341,
+      7.698405504226685
+    ]
+  },
+  {
+    "name": "NAT_RVR_HighHall_VistaGoop.dae",
+    "relative_path": "Nature/Water/Act3/END_HighHall/Resources/NAT_RVR_HighHall_VistaGoop.dae",
+    "size": [
+      228.02624130249023,
+      0.0,
+      275.01586151123047
+    ],
+    "center_offset": [
+      -167.85965156555176,
+      -166.61978149414062,
+      69.66547012329102
+    ]
+  },
+  {
+    "name": "NAT_RVR_HighHallSewers_Minimoat.dae",
+    "relative_path": "Nature/Water/Act3/END_HighHallSewers/Resources/NAT_RVR_HighHallSewers_Minimoat.dae",
+    "size": [
+      45.67741394042969,
+      2.0597009658813477,
+      38.59123992919922
+    ],
+    "center_offset": [
+      102.92374420166016,
+      14.713049411773682,
+      11.083976745605469
+    ]
+  },
+  {
+    "name": "NAT_RVR_HighHallSewers_Tentacle.dae",
+    "relative_path": "Nature/Water/Act3/END_HighHallSewers/Resources/NAT_RVR_HighHallSewers_Tentacle.dae",
+    "size": [
+      25.22565460205078,
+      0.5841999053955078,
+      15.601898193359375
+    ],
+    "center_offset": [
+      58.53245162963867,
+      13.792160987854004,
+      23.23025131225586
+    ]
+  },
+  {
+    "name": "NAT_RVR_IronThrone_FloodedPassage.dae",
+    "relative_path": "Nature/Water/Act3/IRN_IronThrone/Resources/NAT_RVR_IronThrone_FloodedPassage.dae",
+    "size": [
+      61.994815826416016,
+      2.1683273315429688,
+      33.81217861175537
+    ],
+    "center_offset": [
+      0.14465904235839844,
+      28.615835189819336,
+      -25.205749988555908
+    ]
+  },
+  {
+    "name": "NAT_RVR_IronThrone_Grates.dae",
+    "relative_path": "Nature/Water/Act3/IRN_IronThrone/Resources/NAT_RVR_IronThrone_Grates.dae",
+    "size": [
+      72.31237983703613,
+      1.9380931854248047,
+      65.41427421569824
+    ],
+    "center_offset": [
+      -6.278353691101074,
+      28.2937650680542,
+      12.40664005279541
+    ]
+  },
+  {
+    "name": "NAT_RVR_Menuscreen_Act3.dae",
+    "relative_path": "Nature/Water/Act3/SYS_Menuscreen_Act3_B/Resources/NAT_RVR_Menuscreen_Act3.dae",
+    "size": [
+      3543.0501708984375,
+      0.9373626708984375,
+      1511.6671752929688
+    ],
+    "center_offset": [
+      102.34844970703125,
+      -174.54376983642578,
+      -175.75326538085938
+    ]
+  },
+  {
+    "name": "NAT_RVR_Farm_River.dae",
+    "relative_path": "Nature/Water/Camps/CMP_BGO_Farm/Resources/NAT_RVR_Farm_River.dae",
+    "size": [
+      119.45138931274414,
+      7.947267919778824,
+      97.38001251220703
+    ],
+    "center_offset": [
+      33.10940361022949,
+      -3.5736339539289474,
+      5.262706756591797
+    ]
+  },
+  {
+    "name": "NAT_RVR_CaveGranite_Private_Cave.dae",
+    "relative_path": "Nature/Water/Camps/CMP_CaveGranite/Resources/NAT_RVR_CaveGranite_Private_Cave.dae",
+    "size": [
+      15.285881042480469,
+      0.00499725341796875,
+      13.991798400878906
+    ],
+    "center_offset": [
+      -16.899749755859375,
+      -106.09749984741211,
+      38.49559783935547
+    ]
+  },
+  {
+    "name": "NAT_RVR_CaveSandstone.dae",
+    "relative_path": "Nature/Water/Camps/CMP_CaveSandstone/Resources/NAT_RVR_CaveSandstone.dae",
+    "size": [
+      23.423843383789062,
+      1.0004430413246155,
+      19.75851821899414
+    ],
+    "center_offset": [
+      -33.00341796875,
+      1.0724935233592987,
+      47.68018913269043
+    ]
+  },
+  {
+    "name": "NAT_RVR_Slums_Docks.dae",
+    "relative_path": "Nature/Water/Camps/CMP_CTY_Slums/Resources/NAT_RVR_Slums_Docks.dae",
+    "size": [
+      755.1079254150391,
+      0.033996001540799625,
+      748.0003967285156
+    ],
+    "center_offset": [
+      270.3597946166992,
+      0.01693100076954579,
+      -46.74900817871094
+    ]
+  },
+  {
+    "name": "NAT_RVR_GithCrecheCave_lake.dae",
+    "relative_path": "Nature/Water/Camps/CMP_GithCrecheCave/Resources/NAT_RVR_GithCrecheCave_lake.dae",
+    "size": [
+      207.83729934692383,
+      14.141647338867188,
+      201.56519317626953
+    ],
+    "center_offset": [
+      -55.94112205505371,
+      -39.34696960449219,
+      27.620677947998047
+    ]
+  },
+  {
+    "name": "NAT_RVR_HavenBeachSide_Chiontar.dae",
+    "relative_path": "Nature/Water/Camps/CMP_HavenBeachSide/Resources/NAT_RVR_HavenBeachSide_Chiontar.dae",
+    "size": [
+      388.7054443359375,
+      0.9429264068603516,
+      358.2279052734375
+    ],
+    "center_offset": [
+      87.65628051757812,
+      18.451851844787598,
+      -37.74430847167969
+    ]
+  },
+  {
+    "name": "NAT_RVR_SharTemple_Entrance.dae",
+    "relative_path": "Nature/Water/Camps/CMP_SharTemple/Resources/NAT_RVR_SharTemple_Entrance.dae",
+    "size": [
+      31.547733306884766,
+      14.375888109207153,
+      55.57924175262451
+    ],
+    "center_offset": [
+      -45.82088661193848,
+      -5.487944006919861,
+      33.294580936431885
+    ]
+  },
+  {
+    "name": "NAT_RVR_SharTemple_Viaduct.dae",
+    "relative_path": "Nature/Water/Camps/CMP_SharTemple/Resources/NAT_RVR_SharTemple_Viaduct.dae",
+    "size": [
+      37.653197288513184,
+      19.917173862457275,
+      40.772708892822266
+    ],
+    "center_offset": [
+      20.431301593780518,
+      -7.558586835861206,
+      61.07679557800293
+    ]
+  },
+  {
+    "name": "NAT_RVR_CMP_Underdark_Lake.dae",
+    "relative_path": "Nature/Water/Camps/CMP_Underdark/Resources/NAT_RVR_CMP_Underdark_Lake.dae",
+    "size": [
+      159.57605695724487,
+      14.624340295791626,
+      127.51363372802734
+    ],
+    "center_offset": [
+      -75.02825570106506,
+      -5.987829089164734,
+      17.150386810302734
+    ]
+  },
+  {
+    "name": "NAT_RVR_CMP_Underdark_Private_Lake.dae",
+    "relative_path": "Nature/Water/Camps/CMP_Underdark/Resources/NAT_RVR_CMP_Underdark_Private_Lake.dae",
+    "size": [
+      120.28021621704102,
+      0.0,
+      103.14343643188477
+    ],
+    "center_offset": [
+      -25.493452072143555,
+      -116.02761840820312,
+      10.931581497192383
+    ]
+  },
+  {
+    "name": "NAT_RVR_Campfire_Chiontar.dae",
+    "relative_path": "Nature/Water/Camps/SCL_Campfire/Resources/NAT_RVR_Campfire_Chiontar.dae",
+    "size": [
+      378.4674835205078,
+      0.9407029990106821,
+      175.87175369262695
+    ],
+    "center_offset": [
+      -19.06427764892578,
+      0.45463849883526564,
+      69.14182090759277
+    ]
+  },
+  {
+    "name": "NAT_RVR_Shadowheart_SDROM_Vista.dae",
+    "relative_path": "Nature/Water/CIN/CAMP_Shadowheart_SDROM/Resources/NAT_RVR_Shadowheart_SDROM_Vista.dae",
+    "size": [
+      374.59218406677246,
+      0.1298779956996441,
+      404.9292507171631
+    ],
+    "center_offset": [
+      182.29955005645752,
+      -0.048364998772740364,
+      216.9380235671997
+    ]
+  },
+  {
+    "name": "CTY_CIN_HalsinRomance_Lake.dae",
+    "relative_path": "Nature/Water/CIN/CTY_CIN_HalsinRomance/Resources/CTY_CIN_HalsinRomance_Lake.dae",
+    "size": [
+      52.70275020599365,
+      9.999999974752427e-07,
+      43.58113670349121
+    ],
+    "center_offset": [
+      -36.013569355010986,
+      -4.999999987376214e-07,
+      3.499300956726074
+    ]
+  },
+  {
+    "name": "NAT_RVR_Cambion_Puddles.dae",
+    "relative_path": "Nature/Water/CIN/GLO_Cambion/Resources/NAT_RVR_Cambion_Puddles.dae",
+    "size": [
+      10.907100468873978,
+      0.016795992851257324,
+      19.92007064819336
+    ],
+    "center_offset": [
+      -5.223832234740257,
+      -0.7696599960327148,
+      59.31622505187988
+    ]
+  },
+  {
+    "name": "GLO_CIN_GaleRomance_Lake.dae",
+    "relative_path": "Nature/Water/CIN/GLO_CIN_GaleRomance/Resources/GLO_CIN_GaleRomance_Lake.dae",
+    "size": [
+      80.0,
+      0.07596969604492188,
+      80.0
+    ],
+    "center_offset": [
+      0.0,
+      -9.962015151977539,
+      37.0
+    ]
+  },
+  {
+    "name": "NAT_RVR_Menuscreen_Vista.dae",
+    "relative_path": "Nature/Water/GLO/SYS_Menuscreen_Vista/Resources/NAT_RVR_Menuscreen_Vista.dae",
+    "size": [
+      4152.86279296875,
+      0.9129486083984375,
+      2114.2933349609375
+    ],
+    "center_offset": [
+      -57.744384765625,
+      -124.20352172851562,
+      -1186.7857055664062
+    ]
+  },
+  {
+    "name": "uv_test.dae",
+    "relative_path": "Nature/Water/Tools/Resources/uv_test.dae",
+    "size": [
+      56.24004504829645,
+      0.6673060357570648,
+      68.98163986206055
+    ],
+    "center_offset": [
+      -28.062247525900602,
+      0.7955870181322098,
+      3.5856990814208984
+    ]
+  },
+  {
+    "name": "WFL_BattleField_ChiontarFalls_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_BattleField_ChiontarFalls_A.dae",
+    "size": [
+      4.552757263183594,
+      9.021911144256592,
+      7.423286437988281
+    ],
+    "center_offset": [
+      24.794422149658203,
+      4.202953577041626,
+      -83.78833389282227
+    ]
+  },
+  {
+    "name": "WFL_BattleField_CollectorBasement_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_BattleField_CollectorBasement_A.dae",
+    "size": [
+      0.6841506958007812,
+      2.496451884508133,
+      0.5386962890625
+    ],
+    "center_offset": [
+      89.1049919128418,
+      0.905766949057579,
+      -79.3809585571289
+    ]
+  },
+  {
+    "name": "WFL_BeachCamp_MiniCampVista_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_BeachCamp_MiniCampVista_A.dae",
+    "size": [
+      6.816072463989258,
+      23.78643035888672,
+      5.7425689697265625
+    ],
+    "center_offset": [
+      25.4481840133667,
+      27.757675170898438,
+      112.90989685058594
+    ]
+  },
+  {
+    "name": "WFL_BeachCamp_MiniCampVista_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_BeachCamp_MiniCampVista_B.dae",
+    "size": [
+      7.407251358032227,
+      13.737508773803711,
+      5.5705108642578125
+    ],
+    "center_offset": [
+      28.744563102722168,
+      22.621527671813965,
+      107.64917755126953
+    ]
+  },
+  {
+    "name": "WFL_Creche_Back_Vista_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Back_Vista_C.dae",
+    "size": [
+      14.989234924316406,
+      22.615520477294922,
+      10.064666748046875
+    ],
+    "center_offset": [
+      -126.3158073425293,
+      1.9895915985107422,
+      82.81369018554688
+    ]
+  },
+  {
+    "name": "WFL_Creche_Back_Vista_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Back_Vista_D.dae",
+    "size": [
+      13.401908874511719,
+      17.011387825012207,
+      6.466094970703125
+    ],
+    "center_offset": [
+      -133.96474075317383,
+      17.415137767791748,
+      82.80829620361328
+    ]
+  },
+  {
+    "name": "WFL_Creche_Cave_Camp_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Cave_Camp_A.dae",
+    "size": [
+      9.548286437988281,
+      9.160587310791016,
+      10.159425735473633
+    ],
+    "center_offset": [
+      -46.96958541870117,
+      -37.239694595336914,
+      -20.543763160705566
+    ]
+  },
+  {
+    "name": "WFL_Creche_Cave_Camp_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Cave_Camp_B.dae",
+    "size": [
+      15.35505485534668,
+      10.603277206420898,
+      16.0382022857666
+    ],
+    "center_offset": [
+      -36.75888156890869,
+      -37.25391101837158,
+      -36.89791393280029
+    ]
+  },
+  {
+    "name": "WFL_Creche_Cave_Camp_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Cave_Camp_C.dae",
+    "size": [
+      10.005220413208008,
+      21.775964736938477,
+      9.04813003540039
+    ],
+    "center_offset": [
+      33.183695793151855,
+      -32.13904857635498,
+      47.43401908874512
+    ]
+  },
+  {
+    "name": "WFL_Creche_Cave_Camp_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Cave_Camp_D.dae",
+    "size": [
+      11.781301498413086,
+      31.005364418029785,
+      11.330818176269531
+    ],
+    "center_offset": [
+      -26.710530281066895,
+      -27.48487424850464,
+      88.4810905456543
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_MountainVista_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_MountainVista_A.dae",
+    "size": [
+      32.303009033203125,
+      58.937599182128906,
+      30.975723266601562
+    ],
+    "center_offset": [
+      -177.01544189453125,
+      -11.862991333007812,
+      -94.66901397705078
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_PlainVista_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_PlainVista_A.dae",
+    "size": [
+      17.753794193267822,
+      53.361915588378906,
+      18.667282104492188
+    ],
+    "center_offset": [
+      -4.388455152511597,
+      -8.720405578613281,
+      -226.7466049194336
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Steps_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Steps_A.dae",
+    "size": [
+      10.749298095703125,
+      16.653130531311035,
+      9.52032470703125
+    ],
+    "center_offset": [
+      -125.86799621582031,
+      -20.228387355804443,
+      -158.0226593017578
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Steps_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Steps_C.dae",
+    "size": [
+      7.5289306640625,
+      9.215627193450928,
+      9.797012329101562
+    ],
+    "center_offset": [
+      -127.19468688964844,
+      -9.991019487380981,
+      -163.88407135009766
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Steps_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Steps_D.dae",
+    "size": [
+      17.948944091796875,
+      18.26128578186035,
+      18.910995483398438
+    ],
+    "center_offset": [
+      -120.05343627929688,
+      -32.028510093688965,
+      -150.89958953857422
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Zipline_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Zipline_A.dae",
+    "size": [
+      7.255290985107422,
+      15.755480132997036,
+      5.875553131103516
+    ],
+    "center_offset": [
+      24.90650177001953,
+      7.9423740692436695,
+      -36.72002601623535
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Zipline_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Zipline_B.dae",
+    "size": [
+      5.907257080078125,
+      17.496322870254517,
+      5.926200866699219
+    ],
+    "center_offset": [
+      28.193832397460938,
+      -7.238912463188171,
+      -35.48602294921875
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Zipline_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Zipline_C.dae",
+    "size": [
+      7.1763916015625,
+      13.882719039916992,
+      6.445278167724609
+    ],
+    "center_offset": [
+      26.533206939697266,
+      0.28356361389160156,
+      -25.8552188873291
+    ]
+  },
+  {
+    "name": "WFL_Creche_Front_Vista_Zipline_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Front_Vista_Zipline_D.dae",
+    "size": [
+      6.121040344238281,
+      19.21681022644043,
+      4.884660720825195
+    ],
+    "center_offset": [
+      37.04301071166992,
+      0.3664083480834961,
+      -33.47744655609131
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_A.dae",
+    "size": [
+      3.749317169189453,
+      5.198828935623169,
+      1.6764192581176758
+    ],
+    "center_offset": [
+      56.90789985656738,
+      5.516343474388123,
+      13.50195837020874
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_B.dae",
+    "size": [
+      2.2207107543945312,
+      3.0822509229183197,
+      1.6075439453125
+    ],
+    "center_offset": [
+      54.79945755004883,
+      1.9910574704408646,
+      13.768054962158203
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_C.dae",
+    "size": [
+      2.550434112548828,
+      3.873891055583954,
+      2.7071914672851562
+    ],
+    "center_offset": [
+      54.80831718444824,
+      -1.3497275412082672,
+      22.102705001831055
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_D.dae",
+    "size": [
+      3.3074989318847656,
+      4.459650993347168,
+      2.1559934616088867
+    ],
+    "center_offset": [
+      53.329973220825195,
+      -0.8985915184020996,
+      14.00121545791626
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_E.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_E.dae",
+    "size": [
+      2.0249862670898438,
+      8.574167132377625,
+      3.6439666748046875
+    ],
+    "center_offset": [
+      88.14782333374023,
+      6.173016607761383,
+      52.11607360839844
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_F.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_F.dae",
+    "size": [
+      2.8295516967773438,
+      5.006666913628578,
+      3.8179874420166016
+    ],
+    "center_offset": [
+      78.06052780151367,
+      2.329188458621502,
+      23.638644218444824
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_G.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_G.dae",
+    "size": [
+      4.102256774902344,
+      3.463726907968521,
+      5.537954330444336
+    ],
+    "center_offset": [
+      77.26369094848633,
+      -1.4192264527082443,
+      26.562487602233887
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_H.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_H.dae",
+    "size": [
+      3.9717788696289062,
+      5.809383928775787,
+      3.640369415283203
+    ],
+    "center_offset": [
+      89.91970443725586,
+      3.3991629779338837,
+      38.71000862121582
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_I.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_I.dae",
+    "size": [
+      3.1508865356445312,
+      4.7401911318302155,
+      3.9569625854492188
+    ],
+    "center_offset": [
+      88.33708572387695,
+      2.7481185644865036,
+      36.46047592163086
+    ]
+  },
+  {
+    "name": "WFL_Creche_Hatchery_K.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_Hatchery_K.dae",
+    "size": [
+      2.5805740356445312,
+      4.90302000939846,
+      1.3052864074707031
+    ],
+    "center_offset": [
+      87.21161270141602,
+      2.618617005646229,
+      35.489004135131836
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_A.dae",
+    "size": [
+      7.370288848876953,
+      18.514724731445312,
+      4.204498291015625
+    ],
+    "center_offset": [
+      59.34724235534668,
+      64.28080749511719,
+      -196.53607177734375
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_B.dae",
+    "size": [
+      5.883384704589844,
+      11.489646911621094,
+      4.0545806884765625
+    ],
+    "center_offset": [
+      58.304508209228516,
+      63.20356369018555,
+      -199.6532974243164
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_C.dae",
+    "size": [
+      4.701515197753906,
+      19.296493530273438,
+      4.425628662109375
+    ],
+    "center_offset": [
+      54.233890533447266,
+      48.74436569213867,
+      -199.93487548828125
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_D.dae",
+    "size": [
+      5.966381072998047,
+      19.878517150878906,
+      4.35479736328125
+    ],
+    "center_offset": [
+      56.35235404968262,
+      47.261592864990234,
+      -196.2794647216797
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_E.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_E.dae",
+    "size": [
+      16.058082580566406,
+      40.97205352783203,
+      15.812728881835938
+    ],
+    "center_offset": [
+      46.84929275512695,
+      2.9165706634521484,
+      -193.21810150146484
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_F.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_F.dae",
+    "size": [
+      4.847015380859375,
+      9.39019775390625,
+      2.6075592041015625
+    ],
+    "center_offset": [
+      55.78288650512695,
+      60.47539520263672,
+      -200.14441680908203
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_G.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_G.dae",
+    "size": [
+      6.179756164550781,
+      16.637264251708984,
+      3.3382568359375
+    ],
+    "center_offset": [
+      73.81187057495117,
+      54.34418296813965,
+      -177.42129516601562
+    ]
+  },
+  {
+    "name": "WFL_Creche_TallFalls_H.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Creche_TallFalls_H.dae",
+    "size": [
+      4.1147003173828125,
+      7.504539489746094,
+      3.0341644287109375
+    ],
+    "center_offset": [
+      57.936771392822266,
+      60.75473403930664,
+      -197.13520050048828
+    ]
+  },
+  {
+    "name": "WFL_SCL_Campfire_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_SCL_Campfire_A.dae",
+    "size": [
+      20.426300048828125,
+      33.08079218864441,
+      20.035215377807617
+    ],
+    "center_offset": [
+      92.17569732666016,
+      20.301313042640686,
+      -1.6359138488769531
+    ]
+  },
+  {
+    "name": "WFL_SCL_Campfire_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_SCL_Campfire_B.dae",
+    "size": [
+      8.951202392578125,
+      20.893798649311066,
+      8.539692908525467
+    ],
+    "center_offset": [
+      81.52484893798828,
+      9.855747312307358,
+      3.868145450949669
+    ]
+  },
+  {
+    "name": "WFL_SCL_Campfire_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_SCL_Campfire_C.dae",
+    "size": [
+      10.07183837890625,
+      21.713668823242188,
+      10.20392918586731
+    ],
+    "center_offset": [
+      81.2200927734375,
+      17.72876739501953,
+      -1.6565436124801636
+    ]
+  },
+  {
+    "name": "WFL_SCL_Campfire_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_SCL_Campfire_D.dae",
+    "size": [
+      12.443824768066406,
+      28.21010112762451,
+      8.744859218597412
+    ],
+    "center_offset": [
+      94.14497756958008,
+      18.14176034927368,
+      9.506205797195435
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_A.dae",
+    "size": [
+      4.377599716186523,
+      9.676088094711304,
+      4.932456970214844
+    ],
+    "center_offset": [
+      33.107720375061035,
+      6.926425099372864,
+      80.9442024230957
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_B.dae",
+    "size": [
+      4.440032958984375,
+      9.676093101501465,
+      4.964347839355469
+    ],
+    "center_offset": [
+      25.875843048095703,
+      6.926422595977783,
+      80.95736312866211
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_C.dae",
+    "size": [
+      4.473409652709961,
+      9.676098108291626,
+      4.982246398925781
+    ],
+    "center_offset": [
+      18.550328254699707,
+      6.926420092582703,
+      80.96383285522461
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_D.dae",
+    "size": [
+      4.466821670532227,
+      13.915155172348022,
+      4.7505645751953125
+    ],
+    "center_offset": [
+      33.090582847595215,
+      -4.433062672615051,
+      72.24067687988281
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_E.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_E.dae",
+    "size": [
+      4.369283676147461,
+      13.915144681930542,
+      4.697517395019531
+    ],
+    "center_offset": [
+      25.68754482269287,
+      -4.433057427406311,
+      72.21940994262695
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Aquaduct_F.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Aquaduct_F.dae",
+    "size": [
+      4.512264251708984,
+      9.299298286437988,
+      4.7772674560546875
+    ],
+    "center_offset": [
+      18.394554138183594,
+      -2.125101089477539,
+      72.24932098388672
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Gate_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Gate_A.dae",
+    "size": [
+      5.065277099609375,
+      13.642380714416504,
+      4.386669158935547
+    ],
+    "center_offset": [
+      -53.1309814453125,
+      -4.8554253578186035,
+      53.488237380981445
+    ]
+  },
+  {
+    "name": "WFL_Shar_Camp_Gate_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Camp_Gate_B.dae",
+    "size": [
+      6.429752349853516,
+      6.929441928863525,
+      5.254093170166016
+    ],
+    "center_offset": [
+      -54.86136817932129,
+      8.387248754501343,
+      59.53919792175293
+    ]
+  },
+  {
+    "name": "WFL_Shar_Crumbling_Coffin_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Crumbling_Coffin_A.dae",
+    "size": [
+      4.20538330078125,
+      17.9729962348938,
+      6.487091064453125
+    ],
+    "center_offset": [
+      -208.81411743164062,
+      16.945050954818726,
+      245.9452362060547
+    ]
+  },
+  {
+    "name": "WFL_Shar_Giant_Statue_Knees_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Giant_Statue_Knees_A.dae",
+    "size": [
+      5.5069580078125,
+      15.442678451538086,
+      2.9808502197265625
+    ],
+    "center_offset": [
+      -162.91297912597656,
+      -32.362473487854004,
+      111.68881225585938
+    ]
+  },
+  {
+    "name": "WFL_Shar_Giant_Statue_Knees_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Giant_Statue_Knees_B.dae",
+    "size": [
+      5.535552978515625,
+      15.442651748657227,
+      3.08563232421875
+    ],
+    "center_offset": [
+      -162.9248046875,
+      -32.362494468688965,
+      103.66789245605469
+    ]
+  },
+  {
+    "name": "WFL_Shar_Giant_Statue_Knees_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Giant_Statue_Knees_C.dae",
+    "size": [
+      5.638427734375,
+      13.555744171142578,
+      3.5332489013671875
+    ],
+    "center_offset": [
+      -158.90045166015625,
+      -43.17797660827637,
+      111.69544982910156
+    ]
+  },
+  {
+    "name": "WFL_Shar_Giant_Statue_Knees_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Giant_Statue_Knees_D.dae",
+    "size": [
+      5.6319732666015625,
+      13.555740356445312,
+      3.4587173461914062
+    ],
+    "center_offset": [
+      -158.8979721069336,
+      -43.177974700927734,
+      103.73833084106445
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_A.dae",
+    "size": [
+      4.3514862060546875,
+      16.310321807861328,
+      4.486724853515625
+    ],
+    "center_offset": [
+      -133.38524627685547,
+      -50.316911697387695,
+      258.5308380126953
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_B.dae",
+    "size": [
+      4.31591796875,
+      16.235671997070312,
+      4.24884033203125
+    ],
+    "center_offset": [
+      -157.7796173095703,
+      -50.3505859375,
+      260.9996337890625
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_C.dae",
+    "size": [
+      5.6728057861328125,
+      13.058040618896484,
+      7.216705322265625
+    ],
+    "center_offset": [
+      -162.64667510986328,
+      -59.15163612365723,
+      284.59645080566406
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_D.dae",
+    "size": [
+      4.616455078125,
+      12.49981689453125,
+      5.662353515625
+    ],
+    "center_offset": [
+      -147.41172790527344,
+      -58.3360595703125,
+      293.48602294921875
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_E.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_E.dae",
+    "size": [
+      9.358734130859375,
+      15.814239501953125,
+      6.98492431640625
+    ],
+    "center_offset": [
+      -125.26507568359375,
+      -57.099945068359375,
+      290.27386474609375
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_F.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_F.dae",
+    "size": [
+      14.782135009765625,
+      18.54595947265625,
+      13.820831298828125
+    ],
+    "center_offset": [
+      -117.47972869873047,
+      -42.419368743896484,
+      298.59727478027344
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_G.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_G.dae",
+    "size": [
+      2.658966064453125,
+      15.328380584716797,
+      2.65679931640625
+    ],
+    "center_offset": [
+      -137.93814086914062,
+      -50.79707908630371,
+      263.81695556640625
+    ]
+  },
+  {
+    "name": "WFL_Shar_Nightsong_Exit_H.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_Nightsong_Exit_H.dae",
+    "size": [
+      4.745361328125,
+      4.431182861328125,
+      6.045806884765625
+    ],
+    "center_offset": [
+      -163.49435424804688,
+      -51.628448486328125,
+      287.7295379638672
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_A.dae",
+    "size": [
+      1.1684417724609375,
+      9.572637557983398,
+      3.4498672485351562
+    ],
+    "center_offset": [
+      -203.33509063720703,
+      -27.439324378967285,
+      122.85793685913086
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_B.dae",
+    "size": [
+      1.1705474853515625,
+      9.519712448120117,
+      3.4122238159179688
+    ],
+    "center_offset": [
+      -213.3772964477539,
+      -27.46719455718994,
+      122.87723159790039
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_C.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_C.dae",
+    "size": [
+      3.1903076171875,
+      10.427289962768555,
+      3.24444580078125
+    ],
+    "center_offset": [
+      -239.02967834472656,
+      -27.02241611480713,
+      118.38426971435547
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_D.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_D.dae",
+    "size": [
+      1.1641998291015625,
+      9.577627182006836,
+      3.4800796508789062
+    ],
+    "center_offset": [
+      -203.32947540283203,
+      -27.43850040435791,
+      101.98388290405273
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_E.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_E.dae",
+    "size": [
+      1.1705474853515625,
+      9.63758659362793,
+      3.599273681640625
+    ],
+    "center_offset": [
+      -213.35836029052734,
+      -27.41182041168213,
+      101.66665649414062
+    ]
+  },
+  {
+    "name": "WFL_Shar_TrialRoom_F.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Shar_TrialRoom_F.dae",
+    "size": [
+      3.3005218505859375,
+      10.424137115478516,
+      3.0391387939453125
+    ],
+    "center_offset": [
+      -239.08621978759766,
+      -27.020845413208008,
+      106.3636474609375
+    ]
+  },
+  {
+    "name": "WFL_Subs_SpiderBasement_A.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Subs_SpiderBasement_A.dae",
+    "size": [
+      3.0242671966552734,
+      6.730525732040405,
+      4.774883270263672
+    ],
+    "center_offset": [
+      -24.296278953552246,
+      -4.670417904853821,
+      -25.435924530029297
+    ]
+  },
+  {
+    "name": "WFL_Subs_SpiderBasement_B.dae",
+    "relative_path": "Nature/Waterfalls/Act2/Resources/WFL_Subs_SpiderBasement_B.dae",
+    "size": [
+      4.352888107299805,
+      6.55087673664093,
+      4.812021255493164
+    ],
+    "center_offset": [
+      -29.467278480529785,
+      -4.573720395565033,
+      -25.425856590270996
+    ]
+  },
+  {
+    "name": "WFL_BGO_Blacksmith_Cellar_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Blacksmith_Cellar_A.dae",
+    "size": [
+      6.8829498291015625,
+      9.682240009307861,
+      7.334205627441406
+    ],
+    "center_offset": [
+      114.72026062011719,
+      -9.104798078536987,
+      41.834808349609375
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_A.dae",
+    "size": [
+      7.63128662109375,
+      21.71476459503174,
+      5.0359344482421875
+    ],
+    "center_offset": [
+      -42.11626434326172,
+      20.494819164276123,
+      -63.80546569824219
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_C.dae",
+    "size": [
+      3.802898406982422,
+      5.386131286621094,
+      5.675262451171875
+    ],
+    "center_offset": [
+      -32.01741600036621,
+      29.834857940673828,
+      -87.0444564819336
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_D.dae",
+    "size": [
+      5.098657608032227,
+      6.28565788269043,
+      5.487037658691406
+    ],
+    "center_offset": [
+      -31.15322780609131,
+      23.403239250183105,
+      -83.36635971069336
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_E.dae",
+    "size": [
+      5.000484466552734,
+      9.961238861083984,
+      5.0499420166015625
+    ],
+    "center_offset": [
+      -28.468181610107422,
+      17.837709426879883,
+      -84.64527130126953
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_F.dae",
+    "size": [
+      8.387933731079102,
+      15.536824226379395,
+      8.268013000488281
+    ],
+    "center_offset": [
+      -34.65434169769287,
+      -0.7414803504943848,
+      -60.724239349365234
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_H.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_H.dae",
+    "size": [
+      5.927350997924805,
+      12.374544501304626,
+      5.985908508300781
+    ],
+    "center_offset": [
+      -27.235642433166504,
+      5.04231721162796,
+      -80.81908798217773
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_J.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_J.dae",
+    "size": [
+      5.725582122802734,
+      11.52838709950447,
+      5.696907043457031
+    ],
+    "center_offset": [
+      -25.785249710083008,
+      -6.162084564566612,
+      -78.84175491333008
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_K.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_K.dae",
+    "size": [
+      9.03213119506836,
+      25.378726959228516,
+      6.7859954833984375
+    ],
+    "center_offset": [
+      -29.223230361938477,
+      -22.60719871520996,
+      -59.01066207885742
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_L.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_L.dae",
+    "size": [
+      5.568046569824219,
+      8.189061164855957,
+      7.304801940917969
+    ],
+    "center_offset": [
+      -21.243080139160156,
+      -18.105342388153076,
+      -73.51900100708008
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_M.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_M.dae",
+    "size": [
+      8.18812370300293,
+      14.958927154541016,
+      10.51449966430664
+    ],
+    "center_offset": [
+      -21.0574312210083,
+      -31.905550003051758,
+      -67.78106498718262
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_N.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_N.dae",
+    "size": [
+      10.545632362365723,
+      19.09744644165039,
+      8.487056732177734
+    ],
+    "center_offset": [
+      -20.162784099578857,
+      -46.58013725280762,
+      -55.43516731262207
+    ]
+  },
+  {
+    "name": "WFL_BGO_CazadorChapel_Cliff_O.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_CazadorChapel_Cliff_O.dae",
+    "size": [
+      6.295018196105957,
+      12.461666107177734,
+      11.830810546875
+    ],
+    "center_offset": [
+      -15.510228633880615,
+      -45.954450607299805,
+      -61.05925750732422
+    ]
+  },
+  {
+    "name": "WFL_BGO_Cazador_Chapel_Chasm_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Cazador_Chapel_Chasm_A.dae",
+    "size": [
+      5.451472282409668,
+      21.957439422607422,
+      11.87808895111084
+    ],
+    "center_offset": [
+      18.108574390411377,
+      -38.06627082824707,
+      -18.45552110671997
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_A.dae",
+    "size": [
+      7.255572080612183,
+      13.896469116210938,
+      6.904815673828125
+    ],
+    "center_offset": [
+      -7.375342011451721,
+      -29.849449157714844,
+      -73.67508697509766
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_B.dae",
+    "size": [
+      6.795609951019287,
+      14.228111267089844,
+      6.77056884765625
+    ],
+    "center_offset": [
+      0.20959806442260742,
+      -30.01517105102539,
+      -67.1828842163086
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_C.dae",
+    "size": [
+      8.687881469726562,
+      14.330954432487488,
+      8.542549133300781
+    ],
+    "center_offset": [
+      21.709564208984375,
+      -5.452597200870514,
+      -108.23588180541992
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_D.dae",
+    "size": [
+      9.664291381835938,
+      14.446957543492317,
+      9.625267028808594
+    ],
+    "center_offset": [
+      28.714839935302734,
+      -6.98282577842474,
+      -102.88383102416992
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_E.dae",
+    "size": [
+      10.32855224609375,
+      12.850322723388672,
+      10.813682556152344
+    ],
+    "center_offset": [
+      18.537126541137695,
+      -16.980546951293945,
+      -102.95174789428711
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_BroadFalls_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_BroadFalls_F.dae",
+    "size": [
+      10.500350952148438,
+      10.670742988586426,
+      10.07977294921875
+    ],
+    "center_offset": [
+      24.693674087524414,
+      -18.540835857391357,
+      -98.20964050292969
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_SideTrickle_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_SideTrickle_A.dae",
+    "size": [
+      9.584236145019531,
+      18.189128875732422,
+      3.8860760629177094
+    ],
+    "center_offset": [
+      -78.10872268676758,
+      -28.485185623168945,
+      -2.28200002014637
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_SideTrickle_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_SideTrickle_B.dae",
+    "size": [
+      10.65216064453125,
+      18.586225509643555,
+      5.305086612701416
+    ],
+    "center_offset": [
+      -77.7025146484375,
+      -28.815091133117676,
+      -7.287287473678589
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_SideTrickle_H.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_SideTrickle_H.dae",
+    "size": [
+      3.9864654541015625,
+      7.193487882614136,
+      4.087503433227539
+    ],
+    "center_offset": [
+      -42.03314208984375,
+      -5.244147896766663,
+      33.34787654876709
+    ]
+  },
+  {
+    "name": "WFL_BGO_Chult_SideTrickle_I.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Chult_SideTrickle_I.dae",
+    "size": [
+      4.311485290527344,
+      7.197399854660034,
+      4.307422637939453
+    ],
+    "center_offset": [
+      -39.71279525756836,
+      -5.246101975440979,
+      36.817636489868164
+    ]
+  },
+  {
+    "name": "WFL_BGO_Farm_River_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Farm_River_A.dae",
+    "size": [
+      6.059764862060547,
+      7.625441193580627,
+      7.9757609367370605
+    ],
+    "center_offset": [
+      29.874357223510742,
+      -3.263218581676483,
+      -5.249069452285767
+    ]
+  },
+  {
+    "name": "WFL_BGO_Guildhall_CenterHall_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Guildhall_CenterHall_A.dae",
+    "size": [
+      14.339986801147461,
+      15.605818748474121,
+      14.465805053710938
+    ],
+    "center_offset": [
+      -25.421441078186035,
+      23.561848163604736,
+      -169.44559478759766
+    ]
+  },
+  {
+    "name": "WFL_BGO_Guildhall_Docks_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Guildhall_Docks_A.dae",
+    "size": [
+      1.2370259761810303,
+      6.092527389526367,
+      3.1208343505859375
+    ],
+    "center_offset": [
+      -2.589352011680603,
+      19.571494102478027,
+      -169.4428939819336
+    ]
+  },
+  {
+    "name": "WFL_BGO_Guildhall_Docks_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_Guildhall_Docks_B.dae",
+    "size": [
+      3.1595938205718994,
+      2.7093334197998047,
+      4.5116729736328125
+    ],
+    "center_offset": [
+      -2.652574896812439,
+      22.762173652648926,
+      -171.92073822021484
+    ]
+  },
+  {
+    "name": "WFL_BGO_MorphicPool_CrummyBridge_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_MorphicPool_CrummyBridge_A.dae",
+    "size": [
+      7.106754302978516,
+      7.363676071166992,
+      6.8954315185546875
+    ],
+    "center_offset": [
+      -51.73787498474121,
+      -20.01451587677002,
+      -148.56859588623047
+    ]
+  },
+  {
+    "name": "WFL_BGO_MorphicPool_CrummyBridge_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_MorphicPool_CrummyBridge_B.dae",
+    "size": [
+      9.438268661499023,
+      13.901905059814453,
+      6.634185791015625
+    ],
+    "center_offset": [
+      -31.005295753479004,
+      -10.576818466186523,
+      -158.30645751953125
+    ]
+  },
+  {
+    "name": "WFL_BGO_MorphicPool_Pool_Out_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_MorphicPool_Pool_Out_A.dae",
+    "size": [
+      5.967207133769989,
+      4.919931411743164,
+      7.155792236328125
+    ],
+    "center_offset": [
+      -2.4605115950107574,
+      -21.268603324890137,
+      -79.45560455322266
+    ]
+  },
+  {
+    "name": "WFL_BGO_MorphicPool_Pool_Out_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_MorphicPool_Pool_Out_B.dae",
+    "size": [
+      6.827933669090271,
+      4.909078598022461,
+      6.989860534667969
+    ],
+    "center_offset": [
+      4.83177787065506,
+      -21.263482093811035,
+      -79.65741348266602
+    ]
+  },
+  {
+    "name": "WFL_BGO_SmugglersTunnel_Bridge_Falls_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_SmugglersTunnel_Bridge_Falls_A.dae",
+    "size": [
+      4.0908203125,
+      8.378301620483398,
+      2.3686275482177734
+    ],
+    "center_offset": [
+      20.85588264465332,
+      -17.732840538024902,
+      -20.500388145446777
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsCrossing_Bath.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsCrossing_Bath.dae",
+    "size": [
+      0.7859535217285156,
+      0.5886573791503906,
+      1.4257278442382812
+    ],
+    "center_offset": [
+      -31.480039596557617,
+      51.89233207702637,
+      93.91260147094727
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsCrossing_Shore_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsCrossing_Shore_A.dae",
+    "size": [
+      2.58135986328125,
+      3.808452606201172,
+      3.8935813903808594
+    ],
+    "center_offset": [
+      167.0445098876953,
+      6.096317291259766,
+      61.78619956970215
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsCrossing_Shore_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsCrossing_Shore_C.dae",
+    "size": [
+      1.620452880859375,
+      5.9235769510269165,
+      4.845512390136719
+    ],
+    "center_offset": [
+      166.76370239257812,
+      2.2424184679985046,
+      65.44538497924805
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_Crystalsteps_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_Crystalsteps_A.dae",
+    "size": [
+      4.814452081918716,
+      25.784034729003906,
+      4.48211669921875
+    ],
+    "center_offset": [
+      -2.343009039759636,
+      38.95281982421875,
+      270.5627136230469
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_Crystalsteps_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_Crystalsteps_B.dae",
+    "size": [
+      5.606548309326172,
+      29.716951370239258,
+      4.07763671875
+    ],
+    "center_offset": [
+      8.387736320495605,
+      42.47253704071045,
+      250.34828186035156
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_SecretBridge_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_SecretBridge_A.dae",
+    "size": [
+      2.0836524963378906,
+      34.58249282836914,
+      4.2340545654296875
+    ],
+    "center_offset": [
+      -21.478511810302734,
+      30.393346786499023,
+      244.52596282958984
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_SecretBridge_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_SecretBridge_B.dae",
+    "size": [
+      5.062995910644531,
+      32.75382041931152,
+      2.846282958984375
+    ],
+    "center_offset": [
+      -13.51026725769043,
+      30.16426944732666,
+      233.62648010253906
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_SecretBridge_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_SecretBridge_C.dae",
+    "size": [
+      2.6549606323242188,
+      24.99901008605957,
+      3.6449737548828125
+    ],
+    "center_offset": [
+      -17.47952651977539,
+      33.334120750427246,
+      223.8296890258789
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_SecretBridge_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_SecretBridge_D.dae",
+    "size": [
+      3.5852394104003906,
+      11.19446086883545,
+      4.1280517578125
+    ],
+    "center_offset": [
+      -16.770198822021484,
+      17.18472909927368,
+      226.0330047607422
+    ]
+  },
+  {
+    "name": "WFL_BGO_WyrmsWay_SecretBridge_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_BGO_WyrmsWay_SecretBridge_E.dae",
+    "size": [
+      3.7315807342529297,
+      17.82992172241211,
+      3.280242919921875
+    ],
+    "center_offset": [
+      -23.257914543151855,
+      37.59278678894043,
+      235.3259735107422
+    ]
+  },
+  {
+    "name": "WFL_CIN_HalsinRomance_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CIN_HalsinRomance_A.dae",
+    "size": [
+      3.1405906677246094,
+      7.633263945579529,
+      2.4130021035671234
+    ],
+    "center_offset": [
+      -59.905439376831055,
+      3.4704039692878723,
+      -1.5073010474443436
+    ]
+  },
+  {
+    "name": "WFL_CIN_HalsinRomance_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CIN_HalsinRomance_B.dae",
+    "size": [
+      2.9314727783203125,
+      7.385792791843414,
+      1.9533909559249878
+    ],
+    "center_offset": [
+      -60.885990142822266,
+      3.3221974074840546,
+      0.1404314637184143
+    ]
+  },
+  {
+    "name": "WFL_CIN_HalsinRomance_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CIN_HalsinRomance_C.dae",
+    "size": [
+      2.830230712890625,
+      7.621810972690582,
+      2.2239511013031006
+    ],
+    "center_offset": [
+      -61.778419494628906,
+      3.4717964828014374,
+      1.389231562614441
+    ]
+  },
+  {
+    "name": "WFL_CIN_HalsinRomance_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CIN_HalsinRomance_D.dae",
+    "size": [
+      3.30224609375,
+      8.040179073810577,
+      1.141390085220337
+    ],
+    "center_offset": [
+      -59.232688903808594,
+      3.649416536092758,
+      -2.9399770498275757
+    ]
+  },
+  {
+    "name": "WFL_CRE_AstralPlane_Vista_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CRE_AstralPlane_Vista_A.dae",
+    "size": [
+      6.144386291503906,
+      47.44850158691406,
+      6.647674560546875
+    ],
+    "center_offset": [
+      83.49168014526367,
+      -205.99297332763672,
+      234.60943603515625
+    ]
+  },
+  {
+    "name": "WFL_CRE_AstralPlane_Vista_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CRE_AstralPlane_Vista_B.dae",
+    "size": [
+      4.1030426025390625,
+      22.98251724243164,
+      4.643669128417969
+    ],
+    "center_offset": [
+      128.22274017333984,
+      -38.75874137878418,
+      -68.30583572387695
+    ]
+  },
+  {
+    "name": "WFL_CRE_AstralPlane_Vista_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CRE_AstralPlane_Vista_C.dae",
+    "size": [
+      2.3761138916015625,
+      43.28705596923828,
+      5.403167724609375
+    ],
+    "center_offset": [
+      217.7852554321289,
+      -149.11625289916992,
+      -195.6141357421875
+    ]
+  },
+  {
+    "name": "WFL_CRE_AstralPlane_Vista_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CRE_AstralPlane_Vista_D.dae",
+    "size": [
+      3.899444580078125,
+      36.88872528076172,
+      4.174839019775391
+    ],
+    "center_offset": [
+      139.65597534179688,
+      -48.363216400146484,
+      -61.521196365356445
+    ]
+  },
+  {
+    "name": "WFL_CTY_DockWarehouse_Basement_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_DockWarehouse_Basement_A.dae",
+    "size": [
+      2.5806922912597656,
+      8.24015861749649,
+      3.274700164794922
+    ],
+    "center_offset": [
+      -18.849000930786133,
+      -4.5036313235759735,
+      59.96120643615723
+    ]
+  },
+  {
+    "name": "WFL_CTY_DockWarehouse_Basement_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_DockWarehouse_Basement_B.dae",
+    "size": [
+      2.20574951171875,
+      7.604729354381561,
+      3.180583953857422
+    ],
+    "center_offset": [
+      -19.111663818359375,
+      -4.321248680353165,
+      38.55581474304199
+    ]
+  },
+  {
+    "name": "WFL_CTY_DockWarehouse_Basement_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_DockWarehouse_Basement_C.dae",
+    "size": [
+      2.9374868869781494,
+      8.041465282440186,
+      3.4112396240234375
+    ],
+    "center_offset": [
+      3.4853204488754272,
+      -4.716168642044067,
+      59.96657943725586
+    ]
+  },
+  {
+    "name": "WFL_CTY_DockWarehouse_Basement_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_DockWarehouse_Basement_D.dae",
+    "size": [
+      2.3704042434692383,
+      7.165270179510117,
+      3.5014114379882812
+    ],
+    "center_offset": [
+      3.4217400550842285,
+      -4.009104087948799,
+      38.61760711669922
+    ]
+  },
+  {
+    "name": "WFL_CTY_LodgeBasement_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LodgeBasement_A.dae",
+    "size": [
+      2.9847068786621094,
+      4.362133979797363,
+      1.9879465103149414
+    ],
+    "center_offset": [
+      -54.67769813537598,
+      -1.065187931060791,
+      14.43501329421997
+    ]
+  },
+  {
+    "name": "WFL_CTY_LodgeBasement_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LodgeBasement_B.dae",
+    "size": [
+      2.9872360229492188,
+      4.3631778955459595,
+      2.203838348388672
+    ],
+    "center_offset": [
+      -54.67877197265625,
+      -1.0655969977378845,
+      17.5816593170166
+    ]
+  },
+  {
+    "name": "WFL_CTY_LodgeBasement_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LodgeBasement_C.dae",
+    "size": [
+      3.0753135681152344,
+      8.51795482635498,
+      3.4321861267089844
+    ],
+    "center_offset": [
+      -54.70489692687988,
+      0.7431864738464355,
+      40.45432472229004
+    ]
+  },
+  {
+    "name": "WFL_CTY_LowerCity_ChiontarFall_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LowerCity_ChiontarFall_A.dae",
+    "size": [
+      8.26611328125,
+      26.49618434906006,
+      13.277645111083984
+    ],
+    "center_offset": [
+      294.65570068359375,
+      8.809257984161377,
+      -48.03203010559082
+    ]
+  },
+  {
+    "name": "WFL_CTY_LowerCity_ChiontarFall_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LowerCity_ChiontarFall_B.dae",
+    "size": [
+      5.012847900390625,
+      12.240407347679138,
+      6.36328125
+    ],
+    "center_offset": [
+      289.9374542236328,
+      5.533897697925568,
+      -50.48459243774414
+    ]
+  },
+  {
+    "name": "WFL_CTY_LowerCity_ParkFalls_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LowerCity_ParkFalls_A.dae",
+    "size": [
+      1.8410110473632812,
+      9.561946868896484,
+      8.77689790725708
+    ],
+    "center_offset": [
+      87.81254196166992,
+      36.39777183532715,
+      1.2683298587799072
+    ]
+  },
+  {
+    "name": "WFL_CTY_LowerCity_ParkFalls_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LowerCity_ParkFalls_B.dae",
+    "size": [
+      1.9912109375,
+      4.429939270019531,
+      2.0138511657714844
+    ],
+    "center_offset": [
+      89.60928344726562,
+      30.081253051757812,
+      -11.276129722595215
+    ]
+  },
+  {
+    "name": "WFL_CTY_LowerCity_SewerGate_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_CTY_LowerCity_SewerGate_A.dae",
+    "size": [
+      2.8666534423828125,
+      8.31831169128418,
+      6.8762054443359375
+    ],
+    "center_offset": [
+      236.82527923583984,
+      24.97754955291748,
+      20.169628143310547
+    ]
+  },
+  {
+    "name": "WFL_END_Highhall_Sewer_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_END_Highhall_Sewer_A.dae",
+    "size": [
+      4.31085205078125,
+      10.039366245269775,
+      15.28567123413086
+    ],
+    "center_offset": [
+      -258.6540832519531,
+      -12.326630353927612,
+      32.07542610168457
+    ]
+  },
+  {
+    "name": "WFL_HighHall_Minimoat_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_HighHall_Minimoat_A.dae",
+    "size": [
+      0.773681640625,
+      1.2488069534301758,
+      1.3619213104248047
+    ],
+    "center_offset": [
+      93.88280487060547,
+      15.003501415252686,
+      16.266911506652832
+    ]
+  },
+  {
+    "name": "WFL_HighHall_Tentacle_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_HighHall_Tentacle_A.dae",
+    "size": [
+      1.0533065795898438,
+      16.718533515930176,
+      1.6117076873779297
+    ],
+    "center_offset": [
+      64.92837905883789,
+      21.624186992645264,
+      25.85433292388916
+    ]
+  },
+  {
+    "name": "WFL_UC_Ruins_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Ruins_A.dae",
+    "size": [
+      3.160015106201172,
+      6.918903350830078,
+      3.7646331787109375
+    ],
+    "center_offset": [
+      -38.376054763793945,
+      21.939138412475586,
+      102.73722839355469
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Arcade_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Arcade_A.dae",
+    "size": [
+      3.7017669677734375,
+      4.81126594543457,
+      1.9363174438476562
+    ],
+    "center_offset": [
+      -144.91101837158203,
+      20.54453182220459,
+      58.38641357421875
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Cistern_East_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Cistern_East_A.dae",
+    "size": [
+      1.4765090942382812,
+      2.7526187896728516,
+      0.41932106018066406
+    ],
+    "center_offset": [
+      -93.0153923034668,
+      14.622856140136719,
+      30.007323265075684
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Cistern_East_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Cistern_East_C.dae",
+    "size": [
+      2.51361083984375,
+      2.734707832336426,
+      0.6011810302734375
+    ],
+    "center_offset": [
+      -121.3287353515625,
+      15.215692043304443,
+      68.04300689697266
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Cistern_North_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Cistern_North_A.dae",
+    "size": [
+      2.5602569580078125,
+      4.506728172302246,
+      2.75518798828125
+    ],
+    "center_offset": [
+      -83.43004608154297,
+      15.216347217559814,
+      87.25121307373047
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Cistern_North_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Cistern_North_B.dae",
+    "size": [
+      3.2459716796875,
+      4.526517868041992,
+      0.755126953125
+    ],
+    "center_offset": [
+      -121.04426574707031,
+      16.81739902496338,
+      99.97313690185547
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_Hideout_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_Hideout_A.dae",
+    "size": [
+      4.88490517437458,
+      7.118354797363281,
+      1.2929153442382812
+    ],
+    "center_offset": [
+      -2.4954555854201317,
+      14.547981262207031,
+      95.88983535766602
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_KnightsShield_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_KnightsShield_A.dae",
+    "size": [
+      1.0140228271484375,
+      3.475250244140625,
+      2.956127166748047
+    ],
+    "center_offset": [
+      -173.1279067993164,
+      19.16117286682129,
+      35.778879165649414
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_KnightsShield_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_KnightsShield_B.dae",
+    "size": [
+      0.75787353515625,
+      14.981500625610352,
+      1.0709762573242188
+    ],
+    "center_offset": [
+      -171.92088317871094,
+      25.407870292663574,
+      46.438133239746094
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_KnightsShield_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_KnightsShield_C.dae",
+    "size": [
+      3.496551513671875,
+      10.830373764038086,
+      16.921833038330078
+    ],
+    "center_offset": [
+      -171.17869567871094,
+      22.30448055267334,
+      66.24416160583496
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_KnightsShield_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_KnightsShield_D.dae",
+    "size": [
+      3.5569915771484375,
+      10.093334197998047,
+      16.256301879882812
+    ],
+    "center_offset": [
+      -189.98819732666016,
+      21.783084869384766,
+      66.12322235107422
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_PipeRoom_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_PipeRoom_A.dae",
+    "size": [
+      1.7006759643554688,
+      10.713239669799805,
+      3.0336990356445312
+    ],
+    "center_offset": [
+      22.021020889282227,
+      17.150076866149902,
+      109.60848617553711
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_PipeRoom_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_PipeRoom_B.dae",
+    "size": [
+      1.7649650573730469,
+      11.079183578491211,
+      3.6717071533203125
+    ],
+    "center_offset": [
+      29.709075927734375,
+      16.9671049118042,
+      147.89867401123047
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_UpperGate_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_UpperGate_A.dae",
+    "size": [
+      2.0791015625,
+      3.3402976989746094,
+      1.9394378662109375
+    ],
+    "center_offset": [
+      -78.89640808105469,
+      23.72514533996582,
+      69.4854736328125
+    ]
+  },
+  {
+    "name": "WFL_UC_Sewer_UpperGate_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_UC_Sewer_UpperGate_B.dae",
+    "size": [
+      1.9147987365722656,
+      3.5386009216308594,
+      2.164276123046875
+    ],
+    "center_offset": [
+      -64.9024715423584,
+      23.701738357543945,
+      82.53459930419922
+    ]
+  },
+  {
+    "name": "WFL_WQH_Basement_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WQH_Basement_A.dae",
+    "size": [
+      3.6133995056152344,
+      14.219848394393921,
+      3.8305721282958984
+    ],
+    "center_offset": [
+      -41.572885513305664,
+      8.590044140815735,
+      -30.12160587310791
+    ]
+  },
+  {
+    "name": "WFL_WQH_Basement_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WQH_Basement_B.dae",
+    "size": [
+      3.292339324951172,
+      14.211225152015686,
+      3.7704520225524902
+    ],
+    "center_offset": [
+      -41.552167892456055,
+      8.590840518474579,
+      -7.2931740283966064
+    ]
+  },
+  {
+    "name": "WFL_WQH_Basement_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WQH_Basement_C.dae",
+    "size": [
+      2.1598777770996094,
+      16.833430379629135,
+      2.158562183380127
+    ],
+    "center_offset": [
+      47.73269081115723,
+      8.26727719604969,
+      7.6979968547821045
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_CrystalCrown_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_CrystalCrown_A.dae",
+    "size": [
+      4.182096898555756,
+      12.846113204956055,
+      0.632476806640625
+    ],
+    "center_offset": [
+      1.4135954678058624,
+      30.01448154449463,
+      310.30931091308594
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_CrystalCrown_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_CrystalCrown_B.dae",
+    "size": [
+      8.79011082649231,
+      6.764002799987793,
+      9.844329833984375
+    ],
+    "center_offset": [
+      -1.2455614805221558,
+      12.746548175811768,
+      298.55055236816406
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_CrystalCrown_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_CrystalCrown_C.dae",
+    "size": [
+      2.9952749013900757,
+      7.394489288330078,
+      4.983184814453125
+    ],
+    "center_offset": [
+      -2.9971774220466614,
+      19.041454315185547,
+      304.6574249267578
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_CrystalCrown_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_CrystalCrown_D.dae",
+    "size": [
+      1.9649540185928345,
+      7.6070966720581055,
+      4.192108154296875
+    ],
+    "center_offset": [
+      -1.9740700125694275,
+      19.35459566116333,
+      316.31910705566406
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_A.dae",
+    "size": [
+      8.730231285095215,
+      9.497356414794922,
+      10.2769775390625
+    ],
+    "center_offset": [
+      16.708025455474854,
+      24.252534866333008,
+      337.6047058105469
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_B.dae",
+    "size": [
+      6.8338130712509155,
+      11.110374450683594,
+      6.859344482421875
+    ],
+    "center_offset": [
+      1.9037135243415833,
+      23.589523315429688,
+      347.3737335205078
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_C.dae",
+    "size": [
+      3.5031423568725586,
+      6.178491592407227,
+      4.7012939453125
+    ],
+    "center_offset": [
+      -12.805553913116455,
+      15.54427433013916,
+      341.3724670410156
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_D.dae",
+    "size": [
+      9.516974560916424,
+      6.827380180358887,
+      8.91424560546875
+    ],
+    "center_offset": [
+      -4.717909280210733,
+      15.280460834503174,
+      338.85791015625
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_E.dae",
+    "size": [
+      8.269472122192383,
+      4.634910583496094,
+      8.2012939453125
+    ],
+    "center_offset": [
+      -15.23475170135498,
+      9.958551406860352,
+      330.7159423828125
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayLeft_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayLeft_F.dae",
+    "size": [
+      9.922398090362549,
+      7.647497177124023,
+      5.593170166015625
+    ],
+    "center_offset": [
+      -8.936421155929565,
+      12.408173561096191,
+      324.47483825683594
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_A.dae",
+    "size": [
+      9.177906036376953,
+      10.537738800048828,
+      9.4837646484375
+    ],
+    "center_offset": [
+      -68.09919548034668,
+      22.86454963684082,
+      342.0346984863281
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_B.dae",
+    "size": [
+      6.371162414550781,
+      10.43794059753418,
+      6.146270751953125
+    ],
+    "center_offset": [
+      -56.79630661010742,
+      22.75083827972412,
+      349.43739318847656
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_C.dae",
+    "size": [
+      6.8173828125,
+      10.483448028564453,
+      7.4434814453125
+    ],
+    "center_offset": [
+      -62.76023864746094,
+      22.827301025390625,
+      347.7058410644531
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_D.dae",
+    "size": [
+      7.2153778076171875,
+      10.347827911376953,
+      6.465606689453125
+    ],
+    "center_offset": [
+      -71.22891235351562,
+      22.812435150146484,
+      336.8788604736328
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_E.dae",
+    "size": [
+      5.846366882324219,
+      9.183392524719238,
+      6.787933349609375
+    ],
+    "center_offset": [
+      -53.88533020019531,
+      13.646934032440186,
+      342.49790954589844
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_F.dae",
+    "size": [
+      7.5569000244140625,
+      9.297579765319824,
+      7.888031005859375
+    ],
+    "center_offset": [
+      -58.11882400512695,
+      13.628017902374268,
+      339.25303649902344
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_G.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_G.dae",
+    "size": [
+      5.815540313720703,
+      9.210628509521484,
+      5.739288330078125
+    ],
+    "center_offset": [
+      -62.431684494018555,
+      13.637321472167969,
+      335.51100158691406
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_DoorwayRight_H.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_DoorwayRight_H.dae",
+    "size": [
+      5.923831939697266,
+      9.100481986999512,
+      5.1719970703125
+    ],
+    "center_offset": [
+      -64.76097679138184,
+      13.534189701080322,
+      331.89239501953125
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_A.dae",
+    "size": [
+      0.2782096862792969,
+      3.0550460815429688,
+      0.673858642578125
+    ],
+    "center_offset": [
+      -32.43075752258301,
+      30.47271728515625,
+      328.76063537597656
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_B.dae",
+    "size": [
+      0.4299507141113281,
+      3.06463623046875,
+      2.459747314453125
+    ],
+    "center_offset": [
+      -41.55794334411621,
+      30.4993896484375,
+      329.5203094482422
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_C.dae",
+    "size": [
+      0.3596343994140625,
+      9.387935638427734,
+      1.564422607421875
+    ],
+    "center_offset": [
+      -32.53403854370117,
+      24.255207061767578,
+      328.6468048095703
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_D.dae",
+    "size": [
+      0.23894882202148438,
+      9.925771713256836,
+      1.52734375
+    ],
+    "center_offset": [
+      -41.6489315032959,
+      24.011534690856934,
+      328.5696716308594
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_E.dae",
+    "size": [
+      2.804536819458008,
+      11.03220272064209,
+      2.1151123046875
+    ],
+    "center_offset": [
+      -31.37097454071045,
+      13.938236713409424,
+      327.9410400390625
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_Doorway_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_Doorway_F.dae",
+    "size": [
+      2.7874221801757812,
+      10.416840553283691,
+      2.109527587890625
+    ],
+    "center_offset": [
+      -42.85947036743164,
+      14.331702709197998,
+      327.6540069580078
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_RockArch_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_RockArch_A.dae",
+    "size": [
+      8.492454528808594,
+      10.261835098266602,
+      10.51422119140625
+    ],
+    "center_offset": [
+      -96.86544418334961,
+      23.66866397857666,
+      310.93505859375
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_RockArch_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_RockArch_B.dae",
+    "size": [
+      8.053840637207031,
+      12.533370971679688,
+      7.51214599609375
+    ],
+    "center_offset": [
+      -82.01710891723633,
+      22.89488410949707,
+      286.8183288574219
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_RockArch_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_RockArch_C.dae",
+    "size": [
+      7.2978515625,
+      10.294539451599121,
+      6.532745361328125
+    ],
+    "center_offset": [
+      -76.39926147460938,
+      13.248634815216064,
+      286.29383850097656
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_RockArch_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_RockArch_D.dae",
+    "size": [
+      5.705955505371094,
+      8.709930419921875,
+      6.160919189453125
+    ],
+    "center_offset": [
+      -77.78409194946289,
+      24.6957950592041,
+      271.0702362060547
+    ]
+  },
+  {
+    "name": "WFL_WyrmsArena_RockArch_F.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_WyrmsArena_RockArch_F.dae",
+    "size": [
+      7.720909118652344,
+      11.146039962768555,
+      7.57012939453125
+    ],
+    "center_offset": [
+      -74.60811996459961,
+      15.373557090759277,
+      274.8575134277344
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_Arches_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_Arches_A.dae",
+    "size": [
+      2.9501514434814453,
+      5.428470611572266,
+      3.4528656005859375
+    ],
+    "center_offset": [
+      -20.273598670959473,
+      37.53268623352051,
+      173.88240814208984
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_Arches_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_Arches_B.dae",
+    "size": [
+      5.086122512817383,
+      18.31438159942627,
+      3.72869873046875
+    ],
+    "center_offset": [
+      -27.76818561553955,
+      21.95894193649292,
+      185.36508178710938
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_CircularPlatform_A.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_CircularPlatform_A.dae",
+    "size": [
+      6.031700134277344,
+      11.826837539672852,
+      6.44000244140625
+    ],
+    "center_offset": [
+      -69.99328994750977,
+      26.414023399353027,
+      174.06231689453125
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_CircularPlatform_B.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_CircularPlatform_B.dae",
+    "size": [
+      8.39501953125,
+      9.309682846069336,
+      13.675064086914062
+    ],
+    "center_offset": [
+      -71.29502868652344,
+      16.132411003112793,
+      182.1266098022461
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_CircularPlatform_C.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_CircularPlatform_C.dae",
+    "size": [
+      7.229850769042969,
+      9.18820858001709,
+      7.2076873779296875
+    ],
+    "center_offset": [
+      -69.19430923461914,
+      15.92319917678833,
+      187.09484100341797
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_CircularPlatform_D.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_CircularPlatform_D.dae",
+    "size": [
+      3.3722915649414062,
+      24.123872756958008,
+      3.658843994140625
+    ],
+    "center_offset": [
+      -74.93815231323242,
+      21.936579704284668,
+      197.58961486816406
+    ]
+  },
+  {
+    "name": "WFL_Wyrmsway_CircularPlatform_E.dae",
+    "relative_path": "Nature/Waterfalls/Act3/Resources/WFL_Wyrmsway_CircularPlatform_E.dae",
+    "size": [
+      1.04339599609375,
+      16.460899353027344,
+      3.1097869873046875
+    ],
+    "center_offset": [
+      -85.5932388305664,
+      42.30401611328125,
+      214.75272369384766
+    ]
   }
 ]

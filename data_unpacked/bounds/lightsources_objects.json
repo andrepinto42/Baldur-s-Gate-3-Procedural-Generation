@@ -3744,5 +3744,845 @@
       1.064555547083728,
       0.0004950016736984253
     ]
+  },
+  {
+    "name": "DEC_Ansur_Statue_Dragon_A.dae",
+    "relative_path": "Lightsources/Ansur/LTS_Ansur_Torch_Dragon_ABC/Resources/DEC_Ansur_Statue_Dragon_A.dae",
+    "size": [
+      0.6162329912185669,
+      1.1002600193023682,
+      0.49044197238981724
+    ],
+    "center_offset": [
+      0.0016334950923919678,
+      -0.07232701778411865,
+      -0.27173498552292585
+    ]
+  },
+  {
+    "name": "LTS_Ansur_Torch_Dragon_A.dae",
+    "relative_path": "Lightsources/Ansur/LTS_Ansur_Torch_Dragon_ABC/Resources/LTS_Ansur_Torch_Dragon_A.dae",
+    "size": [
+      0.6162329912185669,
+      1.1002600193023682,
+      0.5169759717173292
+    ],
+    "center_offset": [
+      0.0016334950923919678,
+      -0.07232701778411865,
+      -0.25846798585916986
+    ]
+  },
+  {
+    "name": "LTS_Cursed_Roots_Bulb_A.dae",
+    "relative_path": "Lightsources/Cursed/Resources/LTS_Cursed_Roots_Bulb_A.dae",
+    "size": [
+      0.3920920044183731,
+      0.601096972823143,
+      0.43970300257205963
+    ],
+    "center_offset": [
+      -0.025404997169971466,
+      0.2632734850049019,
+      -0.021193496882915497
+    ]
+  },
+  {
+    "name": "LTS_DUN_Chandelier_Hinge_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Hinge_B.dae",
+    "size": [
+      0.2692840099334717,
+      0.3288480043411255,
+      0.17014500498771667
+    ],
+    "center_offset": [
+      0.0,
+      -0.09013000130653381,
+      0.08507250249385834
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A.dae",
+    "size": [
+      0.28093400597572327,
+      0.5971919894218445,
+      0.2755579948425293
+    ],
+    "center_offset": [
+      0.0,
+      0.29859599471092224,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A_Destruct.dae",
+    "size": [
+      0.8781900405883789,
+      0.19564100448042154,
+      1.156724989414215
+    ],
+    "center_offset": [
+      0.06429600715637207,
+      0.09105450240895152,
+      -0.23405948281288147
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A_Explode.dae",
+    "size": [
+      0.28093400597572327,
+      0.5971919894218445,
+      0.2755580022931099
+    ],
+    "center_offset": [
+      0.0,
+      0.29859599471092224,
+      -0.08489299938082695
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C.dae",
+    "size": [
+      0.3213900029659271,
+      0.6315739750862122,
+      0.2853489965200424
+    ],
+    "center_offset": [
+      0.0,
+      0.3157869875431061,
+      -4.991888999938965e-07
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A.dae",
+    "size": [
+      1.1611990332603455,
+      5.017080830169675,
+      0.45524999499320984
+    ],
+    "center_offset": [
+      0.002240508794784546,
+      2.50853941508484,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A.dae",
+    "size": [
+      1.0187579989433289,
+      4.8758039937744115,
+      0.45298799872398376
+    ],
+    "center_offset": [
+      0.0001169741153717041,
+      2.4379009968872083,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_B.dae",
+    "size": [
+      1.345840036869049,
+      4.8758039937744115,
+      0.5103370100259781
+    ],
+    "center_offset": [
+      0.01174899935722351,
+      2.4379009968872083,
+      -0.03161250799894333
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B.dae",
+    "size": [
+      1.3725919723510742,
+      4.976146221160889,
+      0.4520989954471588
+    ],
+    "center_offset": [
+      -0.005308985710144043,
+      2.4880731105804443,
+      -0.00021849572658538818
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C.dae",
+    "size": [
+      1.1238409876823425,
+      4.725265979766846,
+      0.5413380265235901
+    ],
+    "center_offset": [
+      -0.00021150708198547363,
+      2.362632989883423,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_D.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_D.dae",
+    "size": [
+      1.1611990332603455,
+      5.017080830169675,
+      0.44711199402809143
+    ],
+    "center_offset": [
+      0.002240508794784546,
+      2.50853941508484,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A.dae",
+    "size": [
+      1.303709028288722,
+      1.2083210051059723,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.6310315141454339,
+      0.44224850833415985,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B.dae",
+    "size": [
+      1.4013279676437378,
+      1.2070840150117874,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.7006639838218689,
+      0.4428670033812523,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C.dae",
+    "size": [
+      0.6019130155909806,
+      1.1415150165557861,
+      0.28331199288368225
+    ],
+    "center_offset": [
+      0.3037425078218803,
+      0.24456149339675903,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_D.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D.dae",
+    "size": [
+      1.3664569854736328,
+      1.2070840150117874,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.6832284927368164,
+      0.4428670033812523,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A.dae",
+    "size": [
+      0.8123269975185394,
+      0.7019400233402848,
+      0.8123269975185394
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.34355201153084636,
+      0.0002375096082687378
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B.dae",
+    "size": [
+      0.7052639722824097,
+      1.7310310238972306,
+      0.7052639722824097
+    ],
+    "center_offset": [
+      0.0,
+      0.8580975118093193,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C.dae",
+    "size": [
+      2.483687996864319,
+      6.344646085985005,
+      1.1901330351829529
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      3.15797204291448,
+      5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_A.dae",
+    "size": [
+      0.5023050010204315,
+      0.8661200106143951,
+      0.6275700186379254
+    ],
+    "center_offset": [
+      -0.00011749565601348877,
+      -0.1817290037870407,
+      -0.31256300932727754
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp.dae",
+    "size": [
+      0.18804800510406494,
+      0.29847002029418945,
+      0.18333402276039124
+    ],
+    "center_offset": [
+      0.0,
+      -0.42523300647735596,
+      -0.4177830070257187
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_B.dae",
+    "size": [
+      0.5023050010204315,
+      0.7066610157489777,
+      0.6592609737999737
+    ],
+    "center_offset": [
+      -0.00011749565601348877,
+      -0.10199950635433197,
+      -0.3284084869083017
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A.dae",
+    "size": [
+      0.9431339800357819,
+      1.7416640557348728,
+      0.5000739913957659
+    ],
+    "center_offset": [
+      -0.007864996790885925,
+      0.8990120273083448,
+      -0.2499039957037894
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp.dae",
+    "size": [
+      0.8745630085468292,
+      1.1755509823560715,
+      0.3811909928917885
+    ],
+    "center_offset": [
+      -0.008340492844581604,
+      0.7891984954476357,
+      -0.27575449272990227
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B.dae",
+    "size": [
+      0.9086840152740479,
+      1.7427600547671318,
+      0.6494140059221536
+    ],
+    "center_offset": [
+      0.0,
+      0.8984640277922153,
+      -0.32104000297840685
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Lamp.dae",
+    "size": [
+      0.1396230012178421,
+      1.1755499839782715,
+      0.4633079767227173
+    ],
+    "center_offset": [
+      0.0004424974322319031,
+      0.7891989946365356,
+      -0.3766239881515503
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C.dae",
+    "size": [
+      1.43231999874115,
+      2.031784988939762,
+      1.2687660455703735
+    ],
+    "center_offset": [
+      0.0,
+      0.959064494818449,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Lamp.dae",
+    "size": [
+      1.35738205909729,
+      1.175551027059555,
+      1.1966220140457153
+    ],
+    "center_offset": [
+      0.0,
+      1.0667475014925003,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Lamp.dae",
+    "size": [
+      0.19879600405693054,
+      0.2053690105676651,
+      0.19381102919578552
+    ],
+    "center_offset": [
+      0.0,
+      -0.3039975091814995,
+      -0.41548050940036774
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_A.dae",
+    "size": [
+      0.4570220112800598,
+      0.7133160252124071,
+      0.41791099309921265
+    ],
+    "center_offset": [
+      0.0,
+      -0.34663501288741827,
+      -0.0838325023651123
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Holder_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Holder_A.dae",
+    "size": [
+      0.5023050010204315,
+      0.5379340052604675,
+      0.6233889912255108
+    ],
+    "center_offset": [
+      -0.00011749565601348877,
+      -0.017636001110076904,
+      -0.31047249562107027
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_A.dae",
+    "size": [
+      0.35694898664951324,
+      0.2234330028295517,
+      0.6921399831771851
+    ],
+    "center_offset": [
+      -0.0002845004200935364,
+      0.11171650141477585,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Lamp.dae",
+    "size": [
+      0.25248199701309204,
+      0.11919400840997696,
+      0.4327159970998764
+    ],
+    "center_offset": [
+      -0.0002720057964324951,
+      0.1343660019338131,
+      -0.0026149973273277283
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A.dae",
+    "size": [
+      0.2682200074195862,
+      0.31741398572921753,
+      1.9882960319519043
+    ],
+    "center_offset": [
+      0.0,
+      0.15870699286460876,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp.dae",
+    "size": [
+      0.15767600387334824,
+      0.16057100147008896,
+      1.3390220403671265
+    ],
+    "center_offset": [
+      0.00044300034642219543,
+      0.2018445022404194,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B.dae",
+    "size": [
+      0.3120280057191849,
+      0.3832089900970459,
+      1.9882960319519043
+    ],
+    "center_offset": [
+      -0.021903999149799347,
+      0.19160449504852295,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Lamp.dae",
+    "size": [
+      0.15767600387334824,
+      0.16057100147008896,
+      1.3390339612960815
+    ],
+    "center_offset": [
+      0.00044300034642219543,
+      0.2018445022404194,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C.dae",
+    "size": [
+      0.6454300284385681,
+      0.3842270076274872,
+      1.7942860126495361
+    ],
+    "center_offset": [
+      0.0,
+      0.1921135038137436,
+      0.01532602310180664
+    ]
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Lamp.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Lamp.dae",
+    "size": [
+      0.15767600387334824,
+      0.16057100147008896,
+      1.311706006526947
+    ],
+    "center_offset": [
+      0.00044300034642219543,
+      0.2018445022404194,
+      -0.01365998387336731
+    ]
+  },
+  {
+    "name": "LTS_MF_Brain_Bulb_A.dae",
+    "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A.dae",
+    "size": [
+      1.3503860235214233,
+      1.3503860235214233,
+      1.3503860235214233
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_MF_Brain_Bulb_A_Destruct.dae",
+    "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A_Destruct.dae",
+    "size": [
+      2.7778860330581665,
+      0.4989529997110367,
+      2.344949960708618
+    ],
+    "center_offset": [
+      0.026006042957305908,
+      0.22383850067853928,
+      -0.09582996368408203
+    ]
+  },
+  {
+    "name": "LTS_MF_Brain_Bulb_A_Explode.dae",
+    "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A_Explode.dae",
+    "size": [
+      1.350829005241394,
+      1.3503860235214233,
+      1.3505120277404785
+    ],
+    "center_offset": [
+      -0.00022149085998535156,
+      0.0,
+      -6.300210952758789e-05
+    ]
+  },
+  {
+    "name": "LTS_MF_Bulb_A.dae",
+    "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Bulb_A.dae",
+    "size": [
+      1.4949569702148438,
+      1.5020610094070435,
+      1.5549499988555908
+    ],
+    "center_offset": [
+      0.00015848875045776367,
+      -0.5260505080223083,
+      0.07712298631668091
+    ]
+  },
+  {
+    "name": "LTS_MF_Lantern_A.dae",
+    "relative_path": "Lightsources/MindFlayer/LTS_MF_Lantern_ABC/Resources/LTS_MF_Lantern_A.dae",
+    "size": [
+      1.310351014137268,
+      3.7824700358323753,
+      1.2711290121078491
+    ],
+    "center_offset": [
+      0.09376847743988037,
+      1.8936580179724842,
+      -0.019645512104034424
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A.dae",
+    "size": [
+      1.0397149920463562,
+      2.6797120016999543,
+      0.9256110191345215
+    ],
+    "center_offset": [
+      0.0033124983310699463,
+      1.3419570007827133,
+      0.0004734992980957031
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Destruct.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A_Destruct.dae",
+    "size": [
+      1.8056530356407166,
+      0.40402201376855373,
+      2.299079954624176
+    ],
+    "center_offset": [
+      -0.22405651211738586,
+      0.18911100644618273,
+      -0.519489973783493
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Explode.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A_Explode.dae",
+    "size": [
+      0.9725529849529266,
+      2.6638800632208586,
+      0.9191069900989532
+    ],
+    "center_offset": [
+      -0.00047950446605682373,
+      1.3345040315762162,
+      -0.00014750659465789795
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Ceiling_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Ceiling_A.dae",
+    "size": [
+      1.2643550038337708,
+      0.5862549957819283,
+      1.153668999671936
+    ],
+    "center_offset": [
+      0.0002875030040740967,
+      -0.291990497848019,
+      -0.008474528789520264
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Long_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Long_A.dae",
+    "size": [
+      0.09415500238537788,
+      3.188213957939297,
+      0.09415499866008759
+    ],
+    "center_offset": [
+      -0.00020349957048892975,
+      1.5899559787940234,
+      0.00011650100350379944
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Medium_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Medium_A.dae",
+    "size": [
+      0.09415500238537788,
+      1.3914070264436305,
+      0.09415499866008759
+    ],
+    "center_offset": [
+      -0.00020349957048892975,
+      0.6915525130461901,
+      0.00011650100350379944
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Small_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Small_A.dae",
+    "size": [
+      0.09415500238537788,
+      0.48960898676887155,
+      0.0374799994751811
+    ],
+    "center_offset": [
+      -0.00020349957048892975,
+      0.2406534932088107,
+      0.0036529996432363987
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A.dae",
+    "size": [
+      1.048675000667572,
+      1.312447976320982,
+      0.9448070228099823
+    ],
+    "center_offset": [
+      -0.0016694962978363037,
+      -0.6098929885774851,
+      -0.12656451761722565
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Destruct.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A_Destruct.dae",
+    "size": [
+      2.093533992767334,
+      0.8528800057247281,
+      1.334646999835968
+    ],
+    "center_offset": [
+      0.030719995498657227,
+      0.4222300029359758,
+      0.06099650263786316
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Explode.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A_Explode.dae",
+    "size": [
+      0.7436800003051758,
+      1.2554439771920443,
+      0.7656309902667999
+    ],
+    "center_offset": [
+      -0.004406005144119263,
+      -0.638394988141954,
+      -0.03697650134563446
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B.dae",
+    "size": [
+      1.2250530123710632,
+      0.8817719966173172,
+      1.0646089911460876
+    ],
+    "center_offset": [
+      -0.00771448016166687,
+      -0.40628399699926376,
+      0.004602521657943726
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Destruct.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B_Destruct.dae",
+    "size": [
+      1.9060540199279785,
+      0.4414969999343157,
+      1.9507439732551575
+    ],
+    "center_offset": [
+      -0.2347869873046875,
+      0.20270649995654821,
+      -0.10990199446678162
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Explode.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B_Explode.dae",
+    "size": [
+      0.9799450039863586,
+      0.817830977961421,
+      0.8814290165901184
+    ],
+    "center_offset": [
+      -0.006584495306015015,
+      -0.43377348873764277,
+      0.006789505481719971
+    ]
+  },
+  {
+    "name": "LTS_Necromancer_Lab_Lantern_Wall_A.dae",
+    "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Wall_A.dae",
+    "size": [
+      0.7412170162424445,
+      0.6025399938225746,
+      0.0867759995162487
+    ],
+    "center_offset": [
+      -0.36563050793483853,
+      0.19958699867129326,
+      -0.0046830009669065475
+    ]
   }
 ]

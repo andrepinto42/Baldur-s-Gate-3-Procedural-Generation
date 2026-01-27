@@ -553,5 +553,1601 @@
       -0.487398486584425
     ],
     "uuid": "b62066a0-9a9b-4b59-bcd5-e83d42997e51"
+  },
+  {
+    "name": "Vista_BGO_House_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_A.dae",
+    "size": [
+      8.19467830657959,
+      10.549795150756836,
+      11.009294986724854
+    ],
+    "center_offset": [
+      0.0,
+      5.274897575378418,
+      -0.001325368881225586
+    ]
+  },
+  {
+    "name": "Vista_BGO_House_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_B.dae",
+    "size": [
+      5.642251968383789,
+      15.237065315246582,
+      5.965408086776733
+    ],
+    "center_offset": [
+      0.0,
+      7.618532657623291,
+      -0.187311053276062
+    ]
+  },
+  {
+    "name": "Vista_BGO_House_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_C.dae",
+    "size": [
+      13.774319171905518,
+      13.07168960571289,
+      16.5805721282959
+    ],
+    "center_offset": [
+      2.789820432662964,
+      6.535844802856445,
+      -2.9075870513916016
+    ]
+  },
+  {
+    "name": "Vista_BGO_Village_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_Village_A.dae",
+    "size": [
+      247.60358428955078,
+      76.77484917640686,
+      330.082275390625
+    ],
+    "center_offset": [
+      52.70835494995117,
+      35.87741458415985,
+      456.942626953125
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_A_Border_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Border_A.dae",
+    "size": [
+      232.52810668945312,
+      56.393494606018066,
+      305.91163635253906
+    ],
+    "center_offset": [
+      -470.75572204589844,
+      43.15270185470581,
+      11.620307922363281
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_A_Split_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_A.dae",
+    "size": [
+      226.10067749023438,
+      69.16238975524902,
+      323.71852111816406
+    ],
+    "center_offset": [
+      -398.67372131347656,
+      14.711392402648926,
+      29.41448211669922
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_A_Split_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_B.dae",
+    "size": [
+      169.36007690429688,
+      67.94252014160156,
+      252.5590362548828
+    ],
+    "center_offset": [
+      -509.04017639160156,
+      14.202812194824219,
+      9.811531066894531
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_A_Split_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_C.dae",
+    "size": [
+      175.20993041992188,
+      50.99251937866211,
+      218.27533721923828
+    ],
+    "center_offset": [
+      -513.6198883056641,
+      -6.096126556396484,
+      -201.70098495483398
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_B_Seatower.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Seatower.dae",
+    "size": [
+      69.72865629196167,
+      25.059646129608154,
+      50.685333251953125
+    ],
+    "center_offset": [
+      -28.55632996559143,
+      -5.844801187515259,
+      -283.99778747558594
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_B_Split_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Split_A.dae",
+    "size": [
+      299.83633518218994,
+      83.66578102111816,
+      444.3887023925781
+    ],
+    "center_offset": [
+      143.78391981124878,
+      15.10852336883545,
+      -204.6995086669922
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_B_Split_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Split_B.dae",
+    "size": [
+      311.5657958984375,
+      60.212350845336914,
+      284.7116394042969
+    ],
+    "center_offset": [
+      321.28582763671875,
+      9.614829063415527,
+      -335.4917755126953
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_C_Houses_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Houses_A.dae",
+    "size": [
+      160.0001449584961,
+      58.64161682128906,
+      143.79561233520508
+    ],
+    "center_offset": [
+      203.4748420715332,
+      12.5955810546875,
+      -54.40295219421387
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_C_Split_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_A.dae",
+    "size": [
+      376.42140197753906,
+      77.8261661529541,
+      382.95457458496094
+    ],
+    "center_offset": [
+      112.50594329833984,
+      17.853415489196777,
+      65.7458267211914
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_C_Split_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_B.dae",
+    "size": [
+      327.41475677490234,
+      84.12933349609375,
+      300.03077697753906
+    ],
+    "center_offset": [
+      -130.67079544067383,
+      23.39385986328125,
+      269.3084945678711
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_C_Split_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_C.dae",
+    "size": [
+      290.80523681640625,
+      90.72522354125977,
+      296.92751121520996
+    ],
+    "center_offset": [
+      -314.2200927734375,
+      17.652738571166992,
+      166.65846729278564
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_D.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_D.dae",
+    "size": [
+      547.9772033691406,
+      58.83557093143463,
+      742.4283447265625
+    ],
+    "center_offset": [
+      195.63819885253906,
+      31.079086482524872,
+      98.10879516601562
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_RamazithTower_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_A.dae",
+    "size": [
+      36.92695331573486,
+      99.33566084179688,
+      31.883554458618164
+    ],
+    "center_offset": [
+      -3.830859661102295,
+      49.667832420898435,
+      -1.5439062118530273
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_RamazithTower_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_B.dae",
+    "size": [
+      35.75413799285889,
+      45.533068610595706,
+      31.103879928588867
+    ],
+    "center_offset": [
+      -3.2444519996643066,
+      22.76653530529785,
+      -1.1540536880493164
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_RamazithTower_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_C.dae",
+    "size": [
+      19.59292984008789,
+      58.5927848815918,
+      19.59294891357422
+    ],
+    "center_offset": [
+      -1.33514404296875e-05,
+      29.2963924407959,
+      2.288818359375e-05
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_CountingHouse_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_CountingHouse_A.dae",
+    "size": [
+      53.41558837890625,
+      43.81717491149902,
+      49.67870330810547
+    ],
+    "center_offset": [
+      -2.756582260131836,
+      12.149064064025879,
+      -0.5572280883789062
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Foundry_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Foundry_A.dae",
+    "size": [
+      57.37308883666992,
+      17.61208951473236,
+      91.77593994140625
+    ],
+    "center_offset": [
+      1.3172454833984375,
+      8.305727779865265,
+      1.6476593017578125
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Foundry_Roof_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Foundry_Roof_A.dae",
+    "size": [
+      51.54438781738281,
+      26.194639801979065,
+      90.1169319152832
+    ],
+    "center_offset": [
+      1.6003150939941406,
+      14.684591948986053,
+      1.0742855072021484
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_LowerCity_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_A.dae",
+    "size": [
+      204.15424346923828,
+      59.72391366958618,
+      174.2687530517578
+    ],
+    "center_offset": [
+      12.395465850830078,
+      27.76282572746277,
+      14.630111694335938
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_LowerCity_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_B.dae",
+    "size": [
+      101.24898147583008,
+      20.987353324890137,
+      55.360355377197266
+    ],
+    "center_offset": [
+      1.2345561981201172,
+      7.567684650421143,
+      0.7585716247558594
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_LowerCity_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_C.dae",
+    "size": [
+      45.867469787597656,
+      15.020444750785828,
+      31.296356201171875
+    ],
+    "center_offset": [
+      0.0,
+      5.862580358982086,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_A.dae",
+    "size": [
+      148.28205108642578,
+      27.55817997455597,
+      157.83635711669922
+    ],
+    "center_offset": [
+      -1.1444091796875e-05,
+      13.08162397146225,
+      3.814697265625e-06
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_A_Optimized.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_A_Optimized.dae",
+    "size": [
+      147.7935791015625,
+      21.84824573993683,
+      152.58596801757812
+    ],
+    "center_offset": [
+      -0.08631134033203125,
+      10.403307855129242,
+      -1.4318466186523438
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_B.dae",
+    "size": [
+      117.69626235961914,
+      33.90715906023979,
+      110.80377578735352
+    ],
+    "center_offset": [
+      -9.982488632202148,
+      16.526450529694557,
+      2.1687068939208984
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_C.dae",
+    "size": [
+      188.2954559326172,
+      24.682982444763184,
+      161.5421257019043
+    ],
+    "center_offset": [
+      -22.71971893310547,
+      7.373032093048096,
+      27.53788185119629
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_D.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_D.dae",
+    "size": [
+      69.00830078125,
+      16.75194403529167,
+      69.6838150024414
+    ],
+    "center_offset": [
+      0.0,
+      7.947644010186195,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Houses_UpperCity_E.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_E.dae",
+    "size": [
+      41.27412986755371,
+      16.565937221050262,
+      46.56634712219238
+    ],
+    "center_offset": [
+      4.699389457702637,
+      8.033664613962173,
+      -0.5552778244018555
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tents_UpperCity_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Tents_UpperCity_A.dae",
+    "size": [
+      90.08492660522461,
+      10.818674802780151,
+      108.76966094970703
+    ],
+    "center_offset": [
+      3.167490005493164,
+      3.290476441383362,
+      1.0442352294921875
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tents_UpperCity_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Tents_UpperCity_B.dae",
+    "size": [
+      47.25657272338867,
+      9.468031823635101,
+      47.25657272338867
+    ],
+    "center_offset": [
+      0.0,
+      3.965797930955887,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_WaterQueenHouse_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_WaterQueenHouse_A.dae",
+    "size": [
+      43.45339775085449,
+      46.08557999134064,
+      79.04085922241211
+    ],
+    "center_offset": [
+      0.01822185516357422,
+      21.920504987239838,
+      0.10964775085449219
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tower_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A.dae",
+    "size": [
+      19.010103225708008,
+      36.87955856323242,
+      19.00084686279297
+    ],
+    "center_offset": [
+      -0.05795860290527344,
+      18.43977928161621,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tower_A_Top.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A_Top.dae",
+    "size": [
+      18.625988006591797,
+      20.696402311325073,
+      18.492176055908203
+    ],
+    "center_offset": [
+      -0.06169605255126953,
+      9.357346177101135,
+      0.04856300354003906
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tower_A_Top_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A_Top_B.dae",
+    "size": [
+      18.625986099243164,
+      20.696396589279175,
+      18.49217700958252
+    ],
+    "center_offset": [
+      -0.061695098876953125,
+      9.357343316078186,
+      0.04856252670288086
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tower_B.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_B.dae",
+    "size": [
+      11.32173776626587,
+      31.550649642944336,
+      15.525312900543213
+    ],
+    "center_offset": [
+      -5.0067901611328125e-06,
+      15.775324821472168,
+      1.9311904907226562e-05
+    ]
+  },
+  {
+    "name": "Vista_BLD_City_Tower_C.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_C.dae",
+    "size": [
+      57.44814491271973,
+      40.763118743896484,
+      19.92266273498535
+    ],
+    "center_offset": [
+      9.5367431640625e-07,
+      20.381559371948242,
+      -0.05983448028564453
+    ]
+  },
+  {
+    "name": "Vista_BLD_Wyrms_Crossing_A.dae",
+    "relative_path": "Vista/Buildings/City/Vista_BLD_Wyrm's_Crossing_ABC/Resources/Vista_BLD_Wyrms_Crossing_A.dae",
+    "size": [
+      317.536865234375,
+      127.87429237365723,
+      102.08982849121094
+    ],
+    "center_offset": [
+      0.06488037109375,
+      33.01204967498779,
+      0.6242446899414062
+    ]
+  },
+  {
+    "name": "Vista_MenuScreen_BhaalBridge_A.dae",
+    "relative_path": "Vista/Buildings/MenuScreen/Vista_MenuScreen_BhaalBridge_A/Resources/Vista_MenuScreen_BhaalBridge_A.dae",
+    "size": [
+      15.6392822265625,
+      33.00691223144531,
+      21.470458984375
+    ],
+    "center_offset": [
+      -935.0457153320312,
+      -134.06194305419922,
+      -1084.449951171875
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Arch_Big_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Arch_Big_A.dae",
+    "size": [
+      55.91652297973633,
+      38.10124969482422,
+      6.473020076751709
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Bridge_A_E_Piece_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Bridge_A_E_Piece_A.dae",
+    "size": [
+      5.927292823791504,
+      10.355898082256317,
+      4.206645965576172
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      6.052822023630142,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Bridge_A_S_Piece_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Bridge_A_S_Piece_A.dae",
+    "size": [
+      10.519450664520264,
+      11.2307710647583,
+      7.333298206329346
+    ],
+    "center_offset": [
+      0.0701744556427002,
+      5.61538553237915,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Fang_Pillar_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Fang_Pillar_A.dae",
+    "size": [
+      2.754120111465454,
+      7.592743873596191,
+      0.8608059883117676
+    ],
+    "center_offset": [
+      0.0,
+      3.7963719367980957,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Fang_Pillar_Big_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Fang_Pillar_Big_A.dae",
+    "size": [
+      6.899353981018066,
+      71.63580894470215,
+      20.651124954223633
+    ],
+    "center_offset": [
+      0.0,
+      4.488408088684082,
+      -9.5367431640625e-07
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Pillar_A_15H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_A_15H_A.dae",
+    "size": [
+      5.584033966064453,
+      15.0,
+      5.584033966064453
+    ],
+    "center_offset": [
+      0.0,
+      7.5,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Pillar_A_36H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_A_36H_A.dae",
+    "size": [
+      5.584033966064453,
+      35.96953201293945,
+      5.584033966064453
+    ],
+    "center_offset": [
+      0.0,
+      17.984766006469727,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Pillar_B_36H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_B_36H_A.dae",
+    "size": [
+      2.1055479049682617,
+      35.96953201293945,
+      2.109963893890381
+    ],
+    "center_offset": [
+      0.0,
+      17.984766006469727,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Pillar_C_34H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_C_34H_A.dae",
+    "size": [
+      11.311739921569824,
+      34.0,
+      11.311739921569824
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      17.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Pillar_C_Top_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_C_Top_A.dae",
+    "size": [
+      11.311739921569824,
+      17.306429909301755,
+      11.311739921569824
+    ],
+    "center_offset": [
+      0.0,
+      8.65321395465088,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_A.dae",
+    "size": [
+      67.3757438659668,
+      54.0651798248291,
+      68.31434631347656
+    ],
+    "center_offset": [
+      -0.16090965270996094,
+      -10.9105863571167,
+      -10.360454559326172
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_B.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_B.dae",
+    "size": [
+      24.585081100463867,
+      53.8823356628418,
+      44.13452911376953
+    ],
+    "center_offset": [
+      3.711104393005371,
+      -13.523092269897461,
+      0.8641796112060547
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_C.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_C.dae",
+    "size": [
+      17.270014762878418,
+      58.76911735534668,
+      41.559542179107666
+    ],
+    "center_offset": [
+      3.8856024742126465,
+      -13.593174934387207,
+      14.63149905204773
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_A.dae",
+    "size": [
+      24.104047775268555,
+      75.05036163330078,
+      10.848555326461792
+    ],
+    "center_offset": [
+      -0.07186222076416016,
+      -3.619720458984375,
+      1.9167195558547974
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_B.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_B.dae",
+    "size": [
+      19.894277572631836,
+      64.93238639831543,
+      18.168869256973267
+    ],
+    "center_offset": [
+      0.0,
+      -9.011853218078613,
+      5.576876521110535
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_C.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_C.dae",
+    "size": [
+      19.892562866210938,
+      73.96430587768555,
+      9.076494932174683
+    ],
+    "center_offset": [
+      0.1031351089477539,
+      20.843042373657227,
+      3.3469845056533813
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_D.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_D.dae",
+    "size": [
+      27.507762908935547,
+      54.703721046447754,
+      48.61425590515137
+    ],
+    "center_offset": [
+      -0.6583156585693359,
+      -15.854575634002686,
+      -0.8280858993530273
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_E.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_E.dae",
+    "size": [
+      59.760005950927734,
+      28.22115707397461,
+      21.399988174438477
+    ],
+    "center_offset": [
+      -0.40189361572265625,
+      -1.6200342178344727,
+      2.1391983032226562
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_F.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_F.dae",
+    "size": [
+      21.561817169189453,
+      32.52308750152588,
+      8.94882646203041
+    ],
+    "center_offset": [
+      -1.9704389572143555,
+      -3.6669516563415527,
+      -4.921678230166435
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_G.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_G.dae",
+    "size": [
+      21.261178016662598,
+      35.20523548126221,
+      7.007081031799316
+    ],
+    "center_offset": [
+      -0.004585742950439453,
+      8.647660732269287,
+      -0.00401759147644043
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_Cazador_Wall_H.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_H.dae",
+    "size": [
+      7.994887113571167,
+      36.65059566497803,
+      0.0
+    ],
+    "center_offset": [
+      7.855892181396484e-05,
+      7.924980640411377,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Arch_14D_19H_21W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Arch_14D_19H_21W_A.dae",
+    "size": [
+      21.42363929748535,
+      19.137859344482422,
+      14.379617691040039
+    ],
+    "center_offset": [
+      0.0,
+      9.568929672241211,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Arch_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Arch_A.dae",
+    "size": [
+      10.9995698928833,
+      5.592712879180908,
+      2.20729398727417
+    ],
+    "center_offset": [
+      0.0,
+      2.796356439590454,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_12W_20H_Top_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_12W_20H_Top_A.dae",
+    "size": [
+      12.365204811096191,
+      19.4141658321023,
+      2.559880018234253
+    ],
+    "center_offset": [
+      -6.182602405548096,
+      9.652377914637327,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_24H_Middle_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_3W_24H_Middle_A.dae",
+    "size": [
+      2.6894400119781494,
+      24.0,
+      2.3676140308380127
+    ],
+    "center_offset": [
+      -0.03151297569274902,
+      -12.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_8H_Middle_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_3W_8H_Middle_A.dae",
+    "size": [
+      2.6894400119781494,
+      8.000003814697266,
+      2.3676140308380127
+    ],
+    "center_offset": [
+      -0.03151297569274902,
+      -4.000001907348633,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Ceiling_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Ceiling_A.dae",
+    "size": [
+      274.0,
+      152.56271362304688,
+      305.99999791383743
+    ],
+    "center_offset": [
+      -160.47357177734375,
+      18.198394775390625,
+      153.72210797667503
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_A_24H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_A_24H_A.dae",
+    "size": [
+      2.064661979675293,
+      24.04237300157547,
+      2.078887939453125
+    ],
+    "center_offset": [
+      0.0,
+      11.978813499212265,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_B_24H_A.dae",
+    "size": [
+      5.919788122177124,
+      23.933622002601624,
+      5.92011022567749
+    ],
+    "center_offset": [
+      -0.00016105175018310547,
+      12.033188998699188,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_B.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_B_24H_B.dae",
+    "size": [
+      5.223400115966797,
+      24.0,
+      5.231729984283447
+    ],
+    "center_offset": [
+      0.0,
+      12.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_C_16H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_C_16H_A.dae",
+    "size": [
+      2.3843839168548584,
+      15.999998092651367,
+      2.3175199031829834
+    ],
+    "center_offset": [
+      0.0,
+      7.999999046325684,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_C_8H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_C_8H_A.dae",
+    "size": [
+      2.3843839168548584,
+      7.999999396502972,
+      2.3175199031829834
+    ],
+    "center_offset": [
+      0.0,
+      4.085754696279764,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_16H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_16H_A.dae",
+    "size": [
+      3.317460060119629,
+      16.00000081469716,
+      3.368082046508789
+    ],
+    "center_offset": [
+      0.0,
+      8.000003407348686,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_4H_Top_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_4H_Top_A.dae",
+    "size": [
+      3.9190781116485596,
+      2.9087620775908363,
+      3.9386301040649414
+    ],
+    "center_offset": [
+      0.0,
+      1.4543840387955242,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_8H_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_8H_A.dae",
+    "size": [
+      3.317460060119629,
+      7.999999861022843,
+      3.368082046508789
+    ],
+    "center_offset": [
+      0.0,
+      4.000002930511528,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_Bottom_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_Bottom_A.dae",
+    "size": [
+      3.947266101837158,
+      1.0000040333479774,
+      4.034174919128418
+    ],
+    "center_offset": [
+      0.0,
+      0.5000050166740948,
+      -4.76837158203125e-07
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_Middle_Broken_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_Middle_Broken_A.dae",
+    "size": [
+      3.7459239959716797,
+      4.08518591198731,
+      3.8503968715667725
+    ],
+    "center_offset": [
+      0.19834399223327637,
+      2.04259495599365,
+      -0.12993347644805908
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A.dae",
+    "size": [
+      41.19723701477051,
+      4.016619064845145,
+      9.90259838104248
+    ],
+    "center_offset": [
+      -1.145747184753418,
+      2.0037115323357284,
+      0.040081024169921875
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A_Flip.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A_Flip.dae",
+    "size": [
+      41.19723701477051,
+      4.016619064845145,
+      9.90259838104248
+    ],
+    "center_offset": [
+      1.145747184753418,
+      2.0037115323357284,
+      0.040081024169921875
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_64H_20W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_64H_20W_A.dae",
+    "size": [
+      19.989540100097656,
+      64.57791137695312,
+      10.250929832458496
+    ],
+    "center_offset": [
+      0.0,
+      32.28895568847656,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_12D_72H_54W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_12D_72H_54W_A.dae",
+    "size": [
+      54.13410568237305,
+      72.13361358642578,
+      12.261579036712646
+    ],
+    "center_offset": [
+      0.0,
+      36.06680679321289,
+      3.8870785236358643
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A.dae",
+    "size": [
+      19.921438217163086,
+      12.0,
+      13.947633743286133
+    ],
+    "center_offset": [
+      0.1631317138671875,
+      6.0,
+      0.051055908203125
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A_Flip.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A_Flip.dae",
+    "size": [
+      19.921438217163086,
+      12.0,
+      13.947633743286133
+    ],
+    "center_offset": [
+      -0.1631317138671875,
+      6.0,
+      0.051055908203125
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_12H_16W_A.dae",
+    "size": [
+      15.873129844665527,
+      12.34995324537158,
+      15.7501540184021
+    ],
+    "center_offset": [
+      -0.03208303451538086,
+      6.146061623468995,
+      -0.0036318302154541016
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_B.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_12H_16W_B.dae",
+    "size": [
+      13.305407047271729,
+      12.345158245414495,
+      6.402692079544067
+    ],
+    "center_offset": [
+      -0.8579084873199463,
+      6.148459123447537,
+      -2.0265579223632812e-06
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_36H_16W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_36H_16W_A.dae",
+    "size": [
+      15.685988903045654,
+      36.05815976858139,
+      15.685988903045654
+    ],
+    "center_offset": [
+      1.6689300537109375e-06,
+      17.97246888279915,
+      -1.6689300537109375e-06
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_18D_64H_36W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_18D_64H_36W_A.dae",
+    "size": [
+      36.29612159729004,
+      64.577916376953,
+      17.623360633850098
+    ],
+    "center_offset": [
+      -0.018654823303222656,
+      32.288953188476626,
+      0.41005563735961914
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_10W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_1D_12H_10W_A.dae",
+    "size": [
+      10.0,
+      12.022267200052738,
+      1.189208984375
+    ],
+    "center_offset": [
+      0.0,
+      5.9607825987041,
+      0.006105482578277588
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_16W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_1D_12H_16W_A.dae",
+    "size": [
+      16.0,
+      12.022267200052738,
+      1.189208984375
+    ],
+    "center_offset": [
+      0.0,
+      5.9607825987041,
+      0.006105482578277588
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_20D_16H_28W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_20D_16H_28W_A.dae",
+    "size": [
+      28.92049503326416,
+      16.0,
+      19.55162811279297
+    ],
+    "center_offset": [
+      -0.309664249420166,
+      8.0,
+      0.3582782745361328
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A.dae",
+    "size": [
+      17.51056957244873,
+      10.70363998413086,
+      12.381841659545898
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      5.35181999206543,
+      -4.992037773132324
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A_Flip.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A_Flip.dae",
+    "size": [
+      17.51056957244873,
+      10.70363998413086,
+      12.381841659545898
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      5.35181999206543,
+      -4.992037773132324
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A.dae",
+    "size": [
+      17.51056957244873,
+      11.80287737982178,
+      22.365915298461914
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      5.901439689910887,
+      -9.5367431640625e-07
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A_Flip.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A_Flip.dae",
+    "size": [
+      17.51056957244873,
+      11.80287737982178,
+      22.365915298461914
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      5.901439689910887,
+      -9.5367431640625e-07
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A.dae",
+    "size": [
+      23.39109516143799,
+      3.9227399826049805,
+      14.139469997026026
+    ],
+    "center_offset": [
+      0.030809879302978516,
+      1.9613699913024902,
+      -7.055964998435229
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A_Flip.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A_Flip.dae",
+    "size": [
+      23.391096115112305,
+      3.9227399826049805,
+      14.139469997026026
+    ],
+    "center_offset": [
+      -0.030809402465820312,
+      1.9613699913024902,
+      -7.055964998435229
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_2D_40H_17W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_2D_40H_17W_A.dae",
+    "size": [
+      16.95521831512451,
+      40.0,
+      1.981499969959259
+    ],
+    "center_offset": [
+      -2.384185791015625e-06,
+      20.0,
+      0.20361599326133728
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_2D_7H_3W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_2D_7H_3W_A.dae",
+    "size": [
+      2.9648420810699463,
+      7.0,
+      1.672279953956604
+    ],
+    "center_offset": [
+      0.0,
+      3.5,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_3D_12H_15W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_3D_12H_15W_A.dae",
+    "size": [
+      15.241459846496582,
+      12.0,
+      3.591662108898163
+    ],
+    "center_offset": [
+      -0.020718097686767578,
+      6.0,
+      1.2268530428409576
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_4D_7H_7W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_4D_7H_7W_A.dae",
+    "size": [
+      6.600899934768677,
+      6.999996999999894,
+      3.6800889372825623
+    ],
+    "center_offset": [
+      -0.28828203678131104,
+      3.500001500000053,
+      1.1721234619617462
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_5D_36H_30W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_5D_36H_30W_A.dae",
+    "size": [
+      30.17082977294922,
+      32.0,
+      5.0823822021484375
+    ],
+    "center_offset": [
+      0.0,
+      16.0,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_16H_20W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_16H_20W_A.dae",
+    "size": [
+      20.089255332946777,
+      16.185863494873047,
+      5.298612117767334
+    ],
+    "center_offset": [
+      -0.18055963516235352,
+      8.092931747436523,
+      -0.2854490280151367
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_24H_24W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_24H_24W_A.dae",
+    "size": [
+      24.51666259765625,
+      24.037914276123047,
+      6.381577968597412
+    ],
+    "center_offset": [
+      0.0,
+      12.018957138061523,
+      0.0
+    ]
+  },
+  {
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_30H_17W_A.dae",
+    "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_30H_17W_A.dae",
+    "size": [
+      16.593891143798828,
+      29.52879524230957,
+      5.6054272055625916
+    ],
+    "center_offset": [
+      0.0,
+      14.764397621154785,
+      2.2608015835285187
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Beach_GithCreche_A.dae",
+    "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_GithCreche_ABC/Resources/VISTA_NAT_Beach_GithCreche_A.dae",
+    "size": [
+      319.5503692626953,
+      10.22126293182373,
+      154.79732513427734
+    ],
+    "center_offset": [
+      -337.3110580444336,
+      17.653929233551025,
+      -133.9754981994629
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Beach_GithCreche_B.dae",
+    "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_GithCreche_ABC/Resources/VISTA_NAT_Beach_GithCreche_B.dae",
+    "size": [
+      82.0,
+      6.6416120529174805,
+      71.0
+    ],
+    "center_offset": [
+      -3.5,
+      15.417717456817627,
+      -267.0
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Beach_WyrmsCrossing_A.dae",
+    "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_WyrmsCrossing_ABC/Resources/VISTA_NAT_Beach_WyrmsCrossing_A.dae",
+    "size": [
+      360.0,
+      34.626216888427734,
+      125.0
+    ],
+    "center_offset": [
+      -233.5,
+      -10.230142593383789,
+      321.0
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Beach_WyrmsCrossing_B.dae",
+    "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_WyrmsCrossing_ABC/Resources/VISTA_NAT_Beach_WyrmsCrossing_B.dae",
+    "size": [
+      1176.0,
+      24.79192066192627,
+      366.5
+    ],
+    "center_offset": [
+      612.0,
+      -4.624637126922607,
+      222.75
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Mountain_Limestone_A.dae",
+    "relative_path": "Vista/Nature/Mountain/Resources/VISTA_NAT_Mountain_Limestone_A.dae",
+    "size": [
+      124.93899154663086,
+      45.64829659461975,
+      120.04008102416992
+    ],
+    "center_offset": [
+      0.030504226684570312,
+      24.900827288627625,
+      2.1929187774658203
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Mountain_Limestone_C.dae",
+    "relative_path": "Vista/Nature/Mountain/Resources/VISTA_NAT_Mountain_Limestone_C.dae",
+    "size": [
+      70.65815353393555,
+      47.456945568323135,
+      77.99562072753906
+    ],
+    "center_offset": [
+      0.5362453460693359,
+      23.703827783465385,
+      -3.5970993041992188
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Rock_Sandstone_Boulder_Pile_A.dae",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Boulder_ABC/Resources/VISTA_NAT_Rock_Sandstone_Boulder_Pile_A.dae",
+    "size": [
+      6.423608779907227,
+      2.5851930379867554,
+      8.480140924453735
+    ],
+    "center_offset": [
+      -0.00451350212097168,
+      0.5316725373268127,
+      -1.114923357963562
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Tree_Set_A.dae",
+    "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Set_ABC/Resources/VISTA_NAT_Tree_Set_A.dae",
+    "size": [
+      98.86667251586914,
+      43.88376501202583,
+      81.56449890136719
+    ],
+    "center_offset": [
+      -5.7220458984375e-06,
+      21.479580506682396,
+      0.0
+    ]
+  },
+  {
+    "name": "VISTA_NAT_Tree_Set_B.dae",
+    "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Set_ABC/Resources/VISTA_NAT_Tree_Set_B.dae",
+    "size": [
+      98.86667251586914,
+      43.88376501202583,
+      81.56449890136719
+    ],
+    "center_offset": [
+      -5.7220458984375e-06,
+      21.479580506682396,
+      0.0
+    ]
   }
 ]
