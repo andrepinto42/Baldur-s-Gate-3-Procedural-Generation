@@ -1,0 +1,184 @@
+[
+  {
+    "name": "CINE_MUSIC_GEN_Guitar_Lute_B.dae",
+    "relative_path": "MusicalInstruments/Resources/CINE_MUSIC_GEN_Guitar_Lute_B.dae",
+    "size": [
+      0.4288719892501831,
+      0.2045689953956753,
+      1.2882109582424164
+    ],
+    "center_offset": [
+      0.0,
+      0.09896949760150164,
+      0.39038749039173126
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Drum_Small_B_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Drum_Small_B_REF.dae",
+    "size": [
+      0.294499009847641,
+      0.33684600330889225,
+      0.2494340017437935
+    ],
+    "center_offset": [
+      -0.0009604990482330322,
+      0.1656340016052127,
+      -0.0023380033671855927
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Dulcimer_A_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Dulcimer_A_REF.dae",
+    "size": [
+      0.43705300241708755,
+      0.11739300936460495,
+      0.9354579821228981
+    ],
+    "center_offset": [
+      0.11082850024104118,
+      0.1383805014193058,
+      0.348400991410017
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Flute_A_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Flute_A_REF.dae",
+    "size": [
+      0.05520700104534626,
+      0.059033998753875494,
+      0.740776002407074
+    ],
+    "center_offset": [
+      -0.000426500104367733,
+      0.02680399944074452,
+      -0.07874500751495361
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Guitar_Lute_A.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A.dae",
+    "size": [
+      0.4027700126171112,
+      0.18894599378108978,
+      1.2680960297584534
+    ],
+    "center_offset": [
+      0.0,
+      0.09447299689054489,
+      0.4005800187587738
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Guitar_Lute_A_Broken.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A_Broken.dae",
+    "size": [
+      0.39443300664424896,
+      0.4439780116081238,
+      1.1850460171699524
+    ],
+    "center_offset": [
+      0.05254150182008743,
+      0.2219890058040619,
+      0.3127860128879547
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Guitar_Lute_A_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A_REF.dae",
+    "size": [
+      0.40276999771595,
+      0.1889459954109043,
+      1.2680949568748474
+    ],
+    "center_offset": [
+      -1.300126314163208e-05,
+      0.09165199764538556,
+      0.029486507177352905
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Guitar_Lute_B_Broken.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_B_Broken.dae",
+    "size": [
+      0.4806700050830841,
+      0.48040801123715937,
+      1.2991210222244263
+    ],
+    "center_offset": [
+      0.0258990079164505,
+      0.23688900552224368,
+      0.3811435103416443
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Guitar_Lute_B_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_B_REF.dae",
+    "size": [
+      0.4288719892501831,
+      0.20456900261342525,
+      1.2882099747657776
+    ],
+    "center_offset": [
+      0.0,
+      0.09611750114709139,
+      0.013487011194229126
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Lyre_A_REF.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Lyre_A_REF.dae",
+    "size": [
+      0.3884129971265793,
+      0.15198600012809038,
+      0.8815529942512512
+    ],
+    "center_offset": [
+      -0.0006695017218589783,
+      0.06666200002655387,
+      -0.013095498085021973
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Lyre_Spider_A.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Lyre_Spider_A.dae",
+    "size": [
+      0.38975200057029724,
+      0.14445599471218884,
+      0.8880549967288971
+    ],
+    "center_offset": [
+      0.0,
+      0.06858399731572717,
+      -0.01662449538707733
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Violin_A_Ref.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Violin_A_Ref.dae",
+    "size": [
+      0.21614200621843338,
+      0.10822600265964866,
+      0.7545099854469299
+    ],
+    "center_offset": [
+      0.0030150003731250763,
+      0.04868800123222172,
+      -0.005654007196426392
+    ]
+  },
+  {
+    "name": "MUSIC_GEN_Violin_Bow_A_Ref.dae",
+    "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Violin_Bow_A_Ref.dae",
+    "size": [
+      0.11238499917089939,
+      0.023779998999089003,
+      0.8682439923286438
+    ],
+    "center_offset": [
+      0.0755874989554286,
+      -0.008843999588862062,
+      0.2573449909687042
+    ]
+  }
+]

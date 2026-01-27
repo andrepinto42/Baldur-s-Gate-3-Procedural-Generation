@@ -1,0 +1,58 @@
+[
+  {
+    "name": "KeyArt_Book_Gale_A.dae",
+    "relative_path": "KeyArt/Resources/KeyArt_Book_Gale_A.dae",
+    "size": [
+      0.6187229752540588,
+      0.2959529981017113,
+      0.4156089872121811
+    ],
+    "center_offset": [
+      0.0010794997215270996,
+      -0.07735149934887886,
+      0.01740650087594986
+    ]
+  },
+  {
+    "name": "KeyArt_MF_Nautiloid_ship_A.dae",
+    "relative_path": "KeyArt/Resources/KeyArt_MF_Nautiloid_ship_A.dae",
+    "size": [
+      206.32203674316406,
+      83.10334396362305,
+      105.41511154174805
+    ],
+    "center_offset": [
+      28.75133514404297,
+      13.549497604370117,
+      -1.9073486328125e-06
+    ]
+  },
+  {
+    "name": "KeyArt_MF_Nautiloid_ship_B.dae",
+    "relative_path": "KeyArt/Resources/KeyArt_MF_Nautiloid_ship_B.dae",
+    "size": [
+      205.21652221679688,
+      82.6765308380127,
+      105.41511154174805
+    ],
+    "center_offset": [
+      28.198577880859375,
+      13.762904167175293,
+      -1.9073486328125e-06
+    ]
+  },
+  {
+    "name": "KeyArt_MF_Nautiloid_ship_C.dae",
+    "relative_path": "KeyArt/Resources/KeyArt_MF_Nautiloid_ship_C.dae",
+    "size": [
+      201.60137176513672,
+      78.05423545837402,
+      105.41511154174805
+    ],
+    "center_offset": [
+      26.391002655029297,
+      16.07405185699463,
+      -1.9073486328125e-06
+    ]
+  }
+]

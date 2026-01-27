@@ -1,0 +1,44 @@
+[
+  {
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_A.dae",
+    "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_A.dae",
+    "size": [
+      0.2862139940261841,
+      0.15078700560843572,
+      0.30025599896907806
+    ],
+    "center_offset": [
+      -0.006678000092506409,
+      0.07603050282341428,
+      -0.005829997360706329
+    ]
+  },
+  {
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_B.dae",
+    "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_B.dae",
+    "size": [
+      0.23999899625778198,
+      0.15460699936375022,
+      0.13113699853420258
+    ],
+    "center_offset": [
+      0.012736499309539795,
+      0.0816014998126775,
+      0.010238498449325562
+    ]
+  },
+  {
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_C.dae",
+    "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_C.dae",
+    "size": [
+      0.1458199992775917,
+      0.16567599994596094,
+      0.14279600232839584
+    ],
+    "center_offset": [
+      0.0029770024120807648,
+      0.08107299992116168,
+      -0.008439000695943832
+    ]
+  }
+]

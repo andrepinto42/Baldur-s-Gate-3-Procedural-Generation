@@ -1,0 +1,310 @@
+[
+  {
+    "name": "CONS_Drink_Beer_Mug_A_Lidless.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A_Lidless.dae",
+    "size": [
+      0.33939599990844727,
+      0.31504300236701965,
+      0.23177200555801392
+    ],
+    "center_offset": [
+      -0.05315899848937988,
+      0.15752150118350983,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Drink_Beer_Mug_A_Lidless_Empty.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A_Lidless_Empty.dae",
+    "size": [
+      0.33226799964904785,
+      0.31504300236701965,
+      0.23177200555801392
+    ],
+    "center_offset": [
+      -0.049594998359680176,
+      0.15752150118350983,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Drink_Bottle_Mermaid_Whiskey_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Bottle_Mermaid_Whiskey_A.dae",
+    "size": [
+      0.14269699901342392,
+      0.38840898871421814,
+      0.1440799981355667
+    ],
+    "center_offset": [
+      8.04997980594635e-05,
+      0.19420449435710907,
+      -0.0016430020332336426
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Skewer_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Skewer_A.dae",
+    "size": [
+      0.10360600054264069,
+      0.08742000162601471,
+      0.5917859822511673
+    ],
+    "center_offset": [
+      0.006393000483512878,
+      0.002048999071121216,
+      0.16519399732351303
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Giant_Hamster_Grilled_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Giant_Hamster_Grilled_ABC/Resources/CONS_GEN_Food_Giant_Hamster_Grilled_A.dae",
+    "size": [
+      0.555979996919632,
+      0.18530599400401115,
+      0.9910179972648621
+    ],
+    "center_offset": [
+      -0.01160798966884613,
+      0.1177509967237711,
+      -0.02928498387336731
+    ]
+  },
+  {
+    "name": "CONS_Herbs_Bixa_Root_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Bixa_Root_A.dae",
+    "size": [
+      0.596767008304596,
+      1.246006996370852,
+      0.5143949836492538
+    ],
+    "center_offset": [
+      0.012184500694274902,
+      0.6132294978015125,
+      -0.013669498264789581
+    ]
+  },
+  {
+    "name": "CONS_Herbs_Poppy_Flower_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Poppy_Flower_A.dae",
+    "size": [
+      0.608814001083374,
+      1.0145229883491993,
+      0.5543580055236816
+    ],
+    "center_offset": [
+      0.010441988706588745,
+      0.47576149366796017,
+      -0.04114800691604614
+    ]
+  },
+  {
+    "name": "CONS_Herbs_Valerian_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Valerian_A.dae",
+    "size": [
+      0.6702889800071716,
+      1.2409699577838182,
+      0.5974870026111603
+    ],
+    "center_offset": [
+      0.0016115009784698486,
+      0.6041149785742164,
+      -0.007582500576972961
+    ]
+  },
+  {
+    "name": "CONS_Potion_Oil_Of_Sharpness_A.dae",
+    "relative_path": "Consumables/CONS_Oil_Of_Sharpness_ABC/Resources/CONS_Potion_Oil_Of_Sharpness_A.dae",
+    "size": [
+      0.18717999756336212,
+      0.22318699955940247,
+      0.18761399388313293
+    ],
+    "center_offset": [
+      0.0,
+      0.11159349977970123,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Poison_Paralytic_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Paralytic_ABC/Resources/CONS_Poison_Paralytic_A.dae",
+    "size": [
+      0.22347599267959595,
+      0.44342899322509766,
+      0.22567199915647507
+    ],
+    "center_offset": [
+      0.0,
+      0.22171449661254883,
+      -0.00109800323843956
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Dragonborn.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Dragonborn.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Dwarf.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Dwarf.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Elf.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Elf.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Githyanki.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Githyanki.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Gnome.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Gnome.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_HalfElf.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_HalfElf.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Halfling.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Halfling.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_HalfOrc.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_HalfOrc.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Human.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Human.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Blood_A_Thiefling.dae",
+    "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Thiefling.dae",
+    "size": [
+      0.17382200062274933,
+      0.5115129947662354,
+      0.17815599590539932
+    ],
+    "center_offset": [
+      0.0,
+      0.2557564973831177,
+      -0.0015960000455379486
+    ]
+  },
+  {
+    "name": "CONS_Potion_Heroism_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Heroism_ABC/Resources/CONS_Potion_Heroism_A.dae",
+    "size": [
+      0.39879798889160156,
+      0.618500022799708,
+      0.29685699939727783
+    ],
+    "center_offset": [
+      0.0,
+      0.3091130114044063,
+      2.5033950805664062e-06
+    ]
+  },
+  {
+    "name": "CONS_Potion_Immortality_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Immortality_ABC/Resources/CONS_Potion_Immortality_A.dae",
+    "size": [
+      0.11502000316977501,
+      0.14054400101304054,
+      0.6690609753131866
+    ],
+    "center_offset": [
+      0.0007910002022981644,
+      0.013565002009272575,
+      0.0025504976511001587
+    ]
+  }
+]

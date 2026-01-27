@@ -65,13 +65,13 @@ def main() -> None:
         create_lsx.create_xml(
             OUTPUT_FOLDER_LSF,
             name="MY_CUSTOM_OBJECT_001",
-            template_name="d66eeacf-f186-6e58-cabf-78f03c0ab727",
+            template_name="af50fe99-a2c4-43fd-8d83-69e3c5781dec",
             position=position,
             rotation=IDENTITY_ROTATION,
-            scale=2.0,
+            scale=1.0,
         )
 
-        position += OFFSET
+        position += Vector3([-0.0527,1.41,1.678])
 
     command = build_command(DIVINE_EXE, GAME_ID, ACTION_CONVERT_RESOURCE)
     result = run_command(command)

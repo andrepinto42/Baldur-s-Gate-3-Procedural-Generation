@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "WPN_BREWER_BrewingLadle_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Brewer_BrewingLadle_A/Resources/WPN_BREWER_BrewingLadle_A.dae",
+    "size": [
+      1.4585149884223938,
+      0.9985100105404854,
+      4.358159065246582
+    ],
+    "center_offset": [
+      -0.2958014905452728,
+      0.39734500274062157,
+      -0.07407641410827637
+    ]
+  },
+  {
+    "name": "WPN_Scimitar_Djinni_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Djinni_Scimitar_A/Resources/WPN_Scimitar_Djinni_A.dae",
+    "size": [
+      0.21192999929189682,
+      0.0942700020968914,
+      1.1178680062294006
+    ],
+    "center_offset": [
+      -0.06270499899983406,
+      0.015348000451922417,
+      -0.36397799849510193
+    ]
+  },
+  {
+    "name": "WPN_Flail_Air_Myrmidon_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Flail_Air_Myrmidon_A/Resources/WPN_Flail_Air_Myrmidon_A.dae",
+    "size": [
+      0.30514299869537354,
+      0.3323349952697754,
+      1.276341050863266
+    ],
+    "center_offset": [
+      -0.00039950013160705566,
+      -2.5033950805664062e-06,
+      -0.36535151302814484
+    ]
+  },
+  {
+    "name": "WPN_Grenade_Orthon_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Grenade_Orthon_A/Resources/WPN_Grenade_Orthon_A.dae",
+    "size": [
+      0.17968899756669998,
+      0.20383699878584594,
+      0.21590500324964523
+    ],
+    "center_offset": [
+      -0.0014075003564357758,
+      0.10092249937588349,
+      -0.001348499208688736
+    ]
+  },
+  {
+    "name": "WPN_Guardian_of_Faith_Shields_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Guardian_of_Faith_Shields_ABC/Resources/WPN_Guardian_of_Faith_Shields_A.dae",
+    "size": [
+      0.740634024143219,
+      0.13879099860787392,
+      0.8178240060806274
+    ],
+    "center_offset": [
+      -9.199976921081543e-05,
+      0.03740349970757961,
+      0.08127999305725098
+    ]
+  },
+  {
+    "name": "WPN_Guardian_of_Faith_Shields_B.dae",
+    "relative_path": "Weapons/Creatures/WPN_Guardian_of_Faith_Shields_ABC/Resources/WPN_Guardian_of_Faith_Shields_B.dae",
+    "size": [
+      0.7936770021915436,
+      0.13085800036787987,
+      1.1444810032844543
+    ],
+    "center_offset": [
+      -0.01985250413417816,
+      0.03301999904215336,
+      -0.04282251000404358
+    ]
+  },
+  {
+    "name": "WPN_Guardian_of_Faith_Shields_C.dae",
+    "relative_path": "Weapons/Creatures/WPN_Guardian_of_Faith_Shields_ABC/Resources/WPN_Guardian_of_Faith_Shields_C.dae",
+    "size": [
+      0.8263980150222778,
+      0.12716400250792503,
+      1.30000501871109
+    ],
+    "center_offset": [
+      0.0,
+      0.03159000165760517,
+      -0.06395450234413147
+    ]
+  },
+  {
+    "name": "WPN_Mace_Deva_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Mace_Deva_A/Resources/WPN_Mace_Deva_A.dae",
+    "size": [
+      0.2132139950990677,
+      0.21377400681376457,
+      1.12117400765419
+    ],
+    "center_offset": [
+      -3.600120544433594e-05,
+      0.04754100181162357,
+      -0.21870599687099457
+    ]
+  },
+  {
+    "name": "MAG_TheChromatic_Staff.dae",
+    "relative_path": "Weapons/Creatures/WPN_MAG_TheChromatic_Staff_A/resources/MAG_TheChromatic_Staff.dae",
+    "size": [
+      0.347027987241745,
+      0.14701099693775177,
+      2.6384730339050293
+    ],
+    "center_offset": [
+      0.0,
+      0.01347149908542633,
+      -0.7689394950866699
+    ]
+  },
+  {
+    "name": "WPN_Moonlantern_Quarterstaff_A_0.dae",
+    "relative_path": "Weapons/Creatures/WPN_Moonlantern_Quarterstaff_A/Resources/WPN_Moonlantern_Quarterstaff_A_0.dae",
+    "size": [
+      0.27556999400258064,
+      0.2571059949696064,
+      1.1036610454320908
+    ],
+    "center_offset": [
+      -0.09678699634969234,
+      0.08903399668633938,
+      -0.767176516354084
+    ]
+  },
+  {
+    "name": "WPN_Moonlantern_Quarterstaff_A_0_Cinematic.dae",
+    "relative_path": "Weapons/Creatures/WPN_Moonlantern_Quarterstaff_A/Resources/WPN_Moonlantern_Quarterstaff_A_0_Cinematic.dae",
+    "size": [
+      0.27519499510526657,
+      0.25706199556589127,
+      1.1042080372571945
+    ],
+    "center_offset": [
+      -0.09697449579834938,
+      0.08888999745249748,
+      -0.7669030204415321
+    ]
+  },
+  {
+    "name": "WPN_MYRKUL_Apostle_Scythe_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_MYRKUL_Apostle_Scythe_A/Resources/WPN_MYRKUL_Apostle_Scythe_A.dae",
+    "size": [
+      1.8201239705085754,
+      0.18668900057673454,
+      3.1682499647140503
+    ],
+    "center_offset": [
+      0.24902495741844177,
+      0.042512500658631325,
+      -0.1493629813194275
+    ]
+  },
+  {
+    "name": "WPN_Scimitar_Fire_Myrmidon_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Scimitar_Fire_Myrmidon_A/Resources/WPN_Scimitar_Fire_Myrmidon_A.dae",
+    "size": [
+      0.2859470099210739,
+      0.1868749987334013,
+      1.6155520379543304
+    ],
+    "center_offset": [
+      -2.6501715183258057e-05,
+      0.06701149884611368,
+      -0.49699802696704865
+    ]
+  },
+  {
+    "name": "WPN_Surgeon_BoneSaw_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Surgeon_BoneSaw_A/Resources/WPN_Surgeon_BoneSaw_A.dae",
+    "size": [
+      0.19126100465655327,
+      0.09248699806630611,
+      0.9039010293781757
+    ],
+    "center_offset": [
+      -0.03920450247824192,
+      0.02572349924594164,
+      -0.38966051302850246
+    ]
+  },
+  {
+    "name": "WPN_Surgeon_Leech_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Surgeon_Leech_A/Resources/WPN_Surgeon_Leech_A.dae",
+    "size": [
+      0.19978699833154678,
+      0.19978699460625648,
+      1.0997080206871033
+    ],
+    "center_offset": [
+      1.5012919902801514e-06,
+      0.05195149593055248,
+      -0.2202959954738617
+    ]
+  },
+  {
+    "name": "WPN_Surgeon_Syringe_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Surgeon_Syringe_A/Resources/WPN_Surgeon_Syringe_A.dae",
+    "size": [
+      0.12744399905204773,
+      0.13099299743771553,
+      0.7956770062446594
+    ],
+    "center_offset": [
+      0.0,
+      0.035296497866511345,
+      -0.08421549201011658
+    ]
+  },
+  {
+    "name": "WPN_Surgeon_Trepan_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Surgeon_Trepan_A/Resources/WPN_Surgeon_Trepan_A.dae",
+    "size": [
+      0.24070200696587563,
+      0.09248700179159641,
+      1.021029993891716
+    ],
+    "center_offset": [
+      -0.07410800270736217,
+      0.015890500508248806,
+      -0.2964409962296486
+    ]
+  },
+  {
+    "name": "WPN_TheThorns_Trident_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_TheThorns_Trident_A/Resources/WPN_TheThorns_Trident_A.dae",
+    "size": [
+      0.4253619909286499,
+      0.0944489985704422,
+      2.2478880286216736
+    ],
+    "center_offset": [
+      0.0,
+      0.015198498964309692,
+      -0.610507994890213
+    ]
+  },
+  {
+    "name": "WPN_Trident_Water_Myrmidon_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Trident_Water_Myrmidon_A/Resources/WPN_Trident_Water_Myrmidon_A.dae",
+    "size": [
+      0.36311399936676025,
+      0.2066120058298111,
+      2.3153459429740906
+    ],
+    "center_offset": [
+      2.4005770683288574e-05,
+      0.016157999634742737,
+      -0.642223984003067
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Crossbow.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Crossbow/Resources/WPN_WATCHER_Crossbow.dae",
+    "size": [
+      1.6010620594024658,
+      0.3757760124281049,
+      1.8529619574546814
+    ],
+    "center_offset": [
+      0.0,
+      0.17414300655946136,
+      0.16480198502540588
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Human_Crossbow.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Crossbow/Resources/WPN_WATCHER_Human_Crossbow.dae",
+    "size": [
+      0.7277560234069824,
+      0.17080700676888227,
+      0.8422559797763824
+    ],
+    "center_offset": [
+      0.0,
+      0.07915550330653787,
+      0.0749099999666214
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Hook.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Hook/Resources/WPN_WATCHER_Hook.dae",
+    "size": [
+      0.3081510066986084,
+      0.35425999760627747,
+      0.3976920023560524
+    ],
+    "center_offset": [
+      0.04175150394439697,
+      0.00020900368690490723,
+      -0.26923299953341484
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Hook_Chain.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Hook/Resources/WPN_WATCHER_Hook_Chain.dae",
+    "size": [
+      0.02284199930727482,
+      0.026373999193310738,
+      0.4206950068473816
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.1222195029258728
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Greatsword_A.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Sword_A/Resources/WPN_WATCHER_Greatsword_A.dae",
+    "size": [
+      1.2619240283966064,
+      0.2605689913034439,
+      4.896268904209137
+    ],
+    "center_offset": [
+      0.0,
+      0.030488498508930206,
+      -1.4815914332866669
+    ]
+  },
+  {
+    "name": "WPN_WATCHER_Greatsword_B.dae",
+    "relative_path": "Weapons/Creatures/WPN_Watcher_Sword_B/Resources/WPN_WATCHER_Greatsword_B.dae",
+    "size": [
+      1.222316026687622,
+      0.23318500816822052,
+      4.4541850090026855
+    ],
+    "center_offset": [
+      0.0,
+      0.030477501451969147,
+      -1.6051545143127441
+    ]
+  },
+  {
+    "name": "UNI_Devils_Needle_Levistus_A.dae",
+    "relative_path": "Weapons/Devils/Resources/UNI_Devils_Needle_Levistus_A.dae",
+    "size": [
+      0.10429699718952179,
+      0.04021199932321906,
+      0.471621997654438
+    ],
+    "center_offset": [
+      -0.00020449981093406677,
+      0.013828999595716596,
+      -0.1500380001962185
+    ]
+  },
+  {
+    "name": "WPN_Devils_Dagger_Levistus_A_0.dae",
+    "relative_path": "Weapons/Devils/Resources/WPN_Devils_Dagger_Levistus_A_0.dae",
+    "size": [
+      0.24173499643802643,
+      0.06890699826180935,
+      0.7322640120983124
+    ],
+    "center_offset": [
+      0.0192904993891716,
+      0.01572249922901392,
+      -0.14855100214481354
+    ]
+  },
+  {
+    "name": "DLC_DD_WPN_Sebilles_Needle_A_0.dae",
+    "relative_path": "Weapons/DLC/DLC_DD_WPN_Sebilles_Needle_ABC/Resources/DLC_DD_WPN_Sebilles_Needle_A_0.dae",
+    "size": [
+      0.14652299880981445,
+      0.07244999893009663,
+      0.7967579960823059
+    ],
+    "center_offset": [
+      0.018078498542308807,
+      0.01217500027269125,
+      -0.182002991437912
+    ]
+  },
+  {
+    "name": "WPN_GTY_Orphic_Hammer_A.dae",
+    "relative_path": "Weapons/Githyanki/WPN_GTY_Orphic_Hammer_A/Resources/WPN_GTY_Orphic_Hammer_A.dae",
+    "size": [
+      0.5369899868965149,
+      0.15504500269889832,
+      1.1694699823856354
+    ],
+    "center_offset": [
+      -0.005082994699478149,
+      0.01018349826335907,
+      -0.22637300193309784
+    ]
+  },
+  {
+    "name": "WPN_HUM_Azer_Warhammer_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Azer_Warhammer/Resources/WPN_HUM_Azer_Warhammer_A.dae",
+    "size": [
+      0.40951600670814514,
+      0.15670499950647354,
+      1.0502810031175613
+    ],
+    "center_offset": [
+      -0.05586899816989899,
+      0.012154500931501389,
+      -0.28041549772024155
+    ]
+  },
+  {
+    "name": "WPN_HUM_BoneSaw_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_BoneSaw_A/Resources/WPN_HUM_BoneSaw_A.dae",
+    "size": [
+      0.1639779955148697,
+      0.0364049996715039,
+      0.7352849692106247
+    ],
+    "center_offset": [
+      -0.005065999925136566,
+      0.015463499934412539,
+      -0.15849748998880386
+    ]
+  },
+  {
+    "name": "WPN_HUM_Cazador_Staff_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Cazador_Staff_A/Resources/WPN_HUM_Cazador_Staff_A.dae",
+    "size": [
+      0.2732810005545616,
+      0.31519100069999695,
+      2.4524340629577637
+    ],
+    "center_offset": [
+      -0.04138149693608284,
+      0.01725350320339203,
+      -0.7101600170135498
+    ]
+  },
+  {
+    "name": "WPN_HUM_Circus_Hammer_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Circus_Hammer_A/Resources/WPN_HUM_Circus_Hammer_A.dae",
+    "size": [
+      0.26532499492168427,
+      0.24324999749660492,
+      1.114657998085022
+    ],
+    "center_offset": [
+      0.010132499039173126,
+      0.11357799917459488,
+      -0.246986985206604
+    ]
+  },
+  {
+    "name": "CINE_WPN_HUM_Dagger_Bhaalist_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Bhaalist_A/Resources/CINE_WPN_HUM_Dagger_Bhaalist_A.dae",
+    "size": [
+      0.12917400151491165,
+      0.06032299902290106,
+      0.7546219825744629
+    ],
+    "center_offset": [
+      -0.002234000712633133,
+      0.015600499231368303,
+      -0.1745539903640747
+    ]
+  },
+  {
+    "name": "WPN_HUM_Dagger_Bhaalist_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Bhaalist_A/Resources/WPN_HUM_Dagger_Bhaalist_A.dae",
+    "size": [
+      0.1273069977760315,
+      0.06062099803239107,
+      0.7550439834594727
+    ],
+    "center_offset": [
+      -0.0017274990677833557,
+      0.015511499252170324,
+      -0.17434298992156982
+    ]
+  },
+  {
+    "name": "CINE_WPN_HUM_Dagger_Orin_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Orin_A/Resources/CINE_WPN_HUM_Dagger_Orin_A.dae",
+    "size": [
+      0.17012400180101395,
+      0.024346000514924526,
+      0.7538219839334488
+    ],
+    "center_offset": [
+      -0.00022600218653678894,
+      0.018731000367552042,
+      -0.1737239882349968
+    ]
+  },
+  {
+    "name": "CINE_WPN_HUM_Dagger_Orin_A_Netherstone_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Orin_A/Resources/CINE_WPN_HUM_Dagger_Orin_A_Netherstone_A.dae",
+    "size": [
+      0.17012400180101395,
+      0.027933001052588224,
+      0.7538219839334488
+    ],
+    "center_offset": [
+      -0.00022600218653678894,
+      0.017388500506058335,
+      -0.1737239882349968
+    ]
+  },
+  {
+    "name": "WPN_HUM_Dagger_Orin_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Orin_A/Resources/WPN_HUM_Dagger_Orin_A.dae",
+    "size": [
+      0.16903500258922577,
+      0.024103999603539705,
+      0.7537059783935547
+    ],
+    "center_offset": [
+      -0.00017049908638000488,
+      0.01873099966906011,
+      -0.17378199100494385
+    ]
+  },
+  {
+    "name": "WPN_HUM_Dagger_Orin_A_Netherstone_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Dagger_Orin_A/Resources/WPN_HUM_Dagger_Orin_A_Netherstone_A.dae",
+    "size": [
+      0.16903500258922577,
+      0.027613999089226127,
+      0.7537059783935547
+    ],
+    "center_offset": [
+      -0.00017049908638000488,
+      0.017415999551303685,
+      -0.17378199100494385
+    ]
+  },
+  {
+    "name": "WPN_HUM_Scimitar_Flameblade_A_1.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Flameblade_A/Resources/WPN_HUM_Scimitar_Flameblade_A_1.dae",
+    "size": [
+      0.41159699857234955,
+      0.02978699980303645,
+      1.3116600215435028
+    ],
+    "center_offset": [
+      -0.0343484953045845,
+      0.01556549989618361,
+      -0.3189050108194351
+    ]
+  },
+  {
+    "name": "WPN_HUM_Scimitar_Flameblade_A_2.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Flameblade_A/Resources/WPN_HUM_Scimitar_Flameblade_A_2.dae",
+    "size": [
+      0.41373899579048157,
+      0.039402998983860016,
+      1.31324103474617
+    ],
+    "center_offset": [
+      -0.033277496695518494,
+      0.015565499663352966,
+      -0.3181145042181015
+    ]
+  },
+  {
+    "name": "WPN_HUM_Greatsword_Giantslayer_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Greatsword_Giantslayer_A/Resources/WPN_HUM_Greatsword_Giantslayer_A.dae",
+    "size": [
+      0.4367089867591858,
+      0.0979899987578392,
+      1.9081780314445496
+    ],
+    "center_offset": [
+      0.001878499984741211,
+      0.01944899931550026,
+      -0.5863570272922516
+    ]
+  },
+  {
+    "name": "WPN_HUM_Leech_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Leech_A/Resources/WPN_HUM_Leech_A.dae",
+    "size": [
+      0.09198899939656258,
+      0.09081300161778927,
+      0.5685549974441528
+    ],
+    "center_offset": [
+      -0.0005874987691640854,
+      0.01888850051909685,
+      -0.06515449285507202
+    ]
+  },
+  {
+    "name": "WPN_HUM_Legendary_Rapier_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Legendary_Rapier_A/Resources/WPN_HUM_Legendary_Rapier_A.dae",
+    "size": [
+      0.16146999970078468,
+      0.14099300280213356,
+      1.2210740149021149
+    ],
+    "center_offset": [
+      0.02500700019299984,
+      0.01817150227725506,
+      -0.38397400081157684
+    ]
+  },
+  {
+    "name": "WPN_HUM_Magicstaff_Lorroakan_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Magicstaff_Lorroakan/Resources/WPN_HUM_Magicstaff_Lorroakan_A.dae",
+    "size": [
+      0.263497993350029,
+      0.3129290044307709,
+      2.4359119534492493
+    ],
+    "center_offset": [
+      0.012682996690273285,
+      0.016227498650550842,
+      -0.644605964422226
+    ]
+  },
+  {
+    "name": "WPN_HUM_Sceptre_Karsus_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Sceptre_Karsus_A/Resources/WPN_HUM_Sceptre_Karsus_A.dae",
+    "size": [
+      0.3991229981184006,
+      0.273504008888267,
+      1.3723400235176086
+    ],
+    "center_offset": [
+      -4.991888999938965e-07,
+      0.13813600438879803,
+      -0.3698600232601166
+    ]
+  },
+  {
+    "name": "WPN_HUM_Scimitar_TheClover_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Scimitar_TheClover_A/Resources/WPN_HUM_Scimitar_TheClover_A.dae",
+    "size": [
+      0.24575600028038025,
+      0.05046100076287985,
+      0.9028040021657944
+    ],
+    "center_offset": [
+      -0.010720998048782349,
+      0.015875500161200762,
+      -0.22665000706911087
+    ]
+  },
+  {
+    "name": "WPN_HUM_Shield_Bulwark_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Shield_Bulwark_A/Resources/WPN_HUM_Shield_Bulwark_A.dae",
+    "size": [
+      0.7523220181465149,
+      0.24626100063323975,
+      1.2155719995498657
+    ],
+    "center_offset": [
+      0.0,
+      0.02909749746322632,
+      -0.09959101676940918
+    ]
+  },
+  {
+    "name": "WPN_HUM_Shortsword_TheCrimson_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Shortsword_TheCrimson_A/Resources/WPN_HUM_Shortsword_TheCrimson_A.dae",
+    "size": [
+      0.1306449994444847,
+      0.05044899974018335,
+      0.8657809793949127
+    ],
+    "center_offset": [
+      0.00011650100350379944,
+      0.011371500324457884,
+      -0.21850548684597015
+    ]
+  },
+  {
+    "name": "WPN_HUM_Sun_Mace_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Sun_Mace_A/Resources/WPN_HUM_Sun_Mace_A.dae",
+    "size": [
+      0.309908002614975,
+      0.3099069893360138,
+      0.8244999945163727
+    ],
+    "center_offset": [
+      0.0,
+      0.0002074986696243286,
+      -0.21042399108409882
+    ]
+  },
+  {
+    "name": "WPN_HUM_Sun_Mace_Lathander_Blood_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Sun_Mace_A/Resources/WPN_HUM_Sun_Mace_Lathander_Blood_A.dae",
+    "size": [
+      0.309908002614975,
+      0.3099069893360138,
+      0.8200960010290146
+    ],
+    "center_offset": [
+      0.0,
+      0.0002074986696243286,
+      -0.21262700110673904
+    ]
+  },
+  {
+    "name": "WPN_HUM_Syringe_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Syringe_A/Resources/WPN_HUM_Syringe_A.dae",
+    "size": [
+      0.08026000112295151,
+      0.07277399860322475,
+      0.5499269962310791
+    ],
+    "center_offset": [
+      0.0003810003399848938,
+      0.018888999707996845,
+      0.007713496685028076
+    ]
+  },
+  {
+    "name": "WPN_HUM_Trepan_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_Trepan_A/Resources/WPN_HUM_Trepan_A.dae",
+    "size": [
+      0.15006600320339203,
+      0.0813090018928051,
+      0.6300050020217896
+    ],
+    "center_offset": [
+      -0.03468099981546402,
+      0.009219499304890633,
+      -0.13669949769973755
+    ]
+  },
+  {
+    "name": "WPN_HUM_WoodcutterAxe_Shadow_Curse_A.dae",
+    "relative_path": "Weapons/Humans/WPN_HUM_WoodcutterAxe_A/Resources/WPN_HUM_WoodcutterAxe_Shadow_Curse_A.dae",
+    "size": [
+      0.33463500812649727,
+      0.06813400238752365,
+      1.1171799898147583
+    ],
+    "center_offset": [
+      0.11023450456559658,
+      0.01025800034403801,
+      -0.24887800216674805
+    ]
+  },
+  {
+    "name": "WPN_Djinni_Scimitar_A.dae",
+    "relative_path": "Weapons/Resources/WPN_Djinni_Scimitar_A.dae",
+    "size": [
+      0.23283400386571884,
+      0.04972299933433533,
+      1.1583510041236877
+    ],
+    "center_offset": [
+      -0.025814000517129898,
+      0.015912499278783798,
+      -0.34663650393486023
+    ]
+  },
+  {
+    "name": "WPN_DRYAD_Staff_A.dae",
+    "relative_path": "Weapons/Resources/WPN_DRYAD_Staff_A.dae",
+    "size": [
+      0.2674119919538498,
+      0.07816500216722488,
+      1.882155954837799
+    ],
+    "center_offset": [
+      0.0633699968457222,
+      0.014453500509262085,
+      -0.45465096831321716
+    ]
+  },
+  {
+    "name": "WPN_GTY_Greatsword_Vlaakith_A.dae",
+    "relative_path": "Weapons/Resources/WPN_GTY_Greatsword_Vlaakith_A.dae",
+    "size": [
+      0.5831599831581116,
+      0.07697100006043911,
+      1.8982440531253815
+    ],
+    "center_offset": [
+      3.400444984436035e-05,
+      0.020330500788986683,
+      -0.5723820179700851
+    ]
+  },
+  {
+    "name": "WPN_HUM_Flail_Myrkul_A_0.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Flail_Myrkul_A_0.dae",
+    "size": [
+      0.26791998744010925,
+      0.26242999732494354,
+      1.1612330228090286
+    ],
+    "center_offset": [
+      0.0,
+      0.004074998199939728,
+      -0.3494025096297264
+    ]
+  },
+  {
+    "name": "WPN_HUM_Flail_Myrkul_A_1.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Flail_Myrkul_A_1.dae",
+    "size": [
+      0.26791998744010925,
+      0.25331999361515045,
+      1.161915972828865
+    ],
+    "center_offset": [
+      0.0,
+      0.0020989999175071716,
+      -0.3497439846396446
+    ]
+  },
+  {
+    "name": "WPN_HUM_Moonblade_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Moonblade_A.dae",
+    "size": [
+      0.14217600226402283,
+      0.03149800002574921,
+      0.8107530027627945
+    ],
+    "center_offset": [
+      0.0052879974246025085,
+      1.2999400496482849e-05,
+      -0.21914350241422653
+    ]
+  },
+  {
+    "name": "WPN_HUM_Nailbat_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Nailbat_A.dae",
+    "size": [
+      0.168784998357296,
+      0.22136900573968887,
+      1.3471429944038391
+    ],
+    "center_offset": [
+      -0.008842501789331436,
+      0.01781250163912773,
+      -0.4765464961528778
+    ]
+  },
+  {
+    "name": "WPN_HUM_Rapier_Fire_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Rapier_Fire_A.dae",
+    "size": [
+      0.24196699261665344,
+      0.10285699740052223,
+      1.196929007768631
+    ],
+    "center_offset": [
+      -0.004396498203277588,
+      0.026358498260378838,
+      -0.401123508810997
+    ]
+  },
+  {
+    "name": "WPN_HUM_Shield_Myrkul_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Shield_Myrkul_A.dae",
+    "size": [
+      0.7516180276870728,
+      0.24700499325990677,
+      0.7555630207061768
+    ],
+    "center_offset": [
+      0.0,
+      0.07766949757933617,
+      0.20387351512908936
+    ]
+  },
+  {
+    "name": "WPN_HUM_SpearOfNight_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_SpearOfNight_A.dae",
+    "size": [
+      0.25422899425029755,
+      0.07901899889111519,
+      2.454416036605835
+    ],
+    "center_offset": [
+      -0.005916498601436615,
+      0.01382649876177311,
+      -0.7074840068817139
+    ]
+  },
+  {
+    "name": "WPN_HUM_Staff_Carrion_A.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Staff_Carrion_A.dae",
+    "size": [
+      0.2411549985408783,
+      0.24099499732255936,
+      1.9338329434394836
+    ],
+    "center_offset": [
+      -0.000514499843120575,
+      0.020590495318174362,
+      -0.43082448840141296
+    ]
+  },
+  {
+    "name": "WPN_HUM_Torch_Revocation_A_0.dae",
+    "relative_path": "Weapons/Resources/WPN_HUM_Torch_Revocation_A_0.dae",
+    "size": [
+      0.33086399734020233,
+      0.33086299896240234,
+      0.8767949938774109
+    ],
+    "center_offset": [
+      -0.0004800036549568176,
+      0.020436495542526245,
+      -0.21018949151039124
+    ]
+  },
+  {
+    "name": "WPN_JUSTIC_Greatsword_A.dae",
+    "relative_path": "Weapons/Resources/WPN_JUSTIC_Greatsword_A.dae",
+    "size": [
+      0.37331199645996094,
+      0.08230399806052446,
+      3.01098495721817
+    ],
+    "center_offset": [
+      0.0,
+      0.030488999094814062,
+      -0.9546324908733368
+    ]
+  },
+  {
+    "name": "WPN_JUSTIC_Greatsword_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_JUSTIC_Greatsword_REF.dae",
+    "size": [
+      0.752936989068985,
+      0.10717699863016605,
+      2.815472900867462
+    ],
+    "center_offset": [
+      0.0004274994134902954,
+      0.030489499680697918,
+      -0.873572438955307
+    ]
+  },
+  {
+    "name": "WPN_MFL_Staff_A.dae",
+    "relative_path": "Weapons/Resources/WPN_MFL_Staff_A.dae",
+    "size": [
+      0.5068510174751282,
+      0.11899799853563309,
+      2.5483829379081726
+    ],
+    "center_offset": [
+      -0.0005384981632232666,
+      0.015333998948335648,
+      -0.8822554647922516
+    ]
+  },
+  {
+    "name": "WPN_ORTHON_HandCrossbow_A.dae",
+    "relative_path": "Weapons/Resources/WPN_ORTHON_HandCrossbow_A.dae",
+    "size": [
+      1.6850420236587524,
+      0.4362640082836151,
+      2.0550699830055237
+    ],
+    "center_offset": [
+      0.0,
+      0.16124500334262848,
+      0.31374797224998474
+    ]
+  },
+  {
+    "name": "WPN_ORTHON_HandCrossbow_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_ORTHON_HandCrossbow_REF.dae",
+    "size": [
+      1.5232820510864258,
+      0.38472398510202765,
+      2.104658007621765
+    ],
+    "center_offset": [
+      0.0,
+      0.1893159926403314,
+      0.26579803228378296
+    ]
+  },
+  {
+    "name": "WPN_ORTHON_Shortsword_A.dae",
+    "relative_path": "Weapons/Resources/WPN_ORTHON_Shortsword_A.dae",
+    "size": [
+      0.44472500681877136,
+      0.09684300050139427,
+      2.066467046737671
+    ],
+    "center_offset": [
+      -0.0005844980478286743,
+      -0.00219850055873394,
+      -0.43033552169799805
+    ]
+  },
+  {
+    "name": "WPN_ORTHON_Shortsword_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_ORTHON_Shortsword_REF.dae",
+    "size": [
+      0.5606420040130615,
+      0.14173099771142006,
+      1.9228880405426025
+    ],
+    "center_offset": [
+      9.199976921081543e-05,
+      0.027767499908804893,
+      -0.4886130094528198
+    ]
+  },
+  {
+    "name": "WPN_ShamblingMound_Thornwhip_A.dae",
+    "relative_path": "Weapons/Resources/WPN_ShamblingMound_Thornwhip_A.dae",
+    "size": [
+      7.933169841766357,
+      0.3859819918870926,
+      0.35171300172805786
+    ],
+    "center_offset": [
+      -3.3109118938446045,
+      -0.008729003369808197,
+      0.018721505999565125
+    ]
+  },
+  {
+    "name": "WPN_SURGEON_BoneSaw_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_SURGEON_BoneSaw_REF.dae",
+    "size": [
+      0.27062399685382843,
+      0.0658059986308217,
+      1.1764549911022186
+    ],
+    "center_offset": [
+      -0.003975994884967804,
+      0.024797999765723944,
+      -0.2535964995622635
+    ]
+  },
+  {
+    "name": "WPN_SURGEON_Leech_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_SURGEON_Leech_REF.dae",
+    "size": [
+      0.19978699833154678,
+      0.19978700578212738,
+      1.2542830109596252
+    ],
+    "center_offset": [
+      1.5012919902801514e-06,
+      0.04155450314283371,
+      -0.14160850644111633
+    ]
+  },
+  {
+    "name": "WPN_SURGEON_Syringe_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_SURGEON_Syringe_REF.dae",
+    "size": [
+      0.17824800312519073,
+      0.1601019985973835,
+      1.2098399996757507
+    ],
+    "center_offset": [
+      0.0,
+      0.041555000469088554,
+      0.016970008611679077
+    ]
+  },
+  {
+    "name": "WPN_SURGEON_Trepan_REF.dae",
+    "relative_path": "Weapons/Resources/WPN_SURGEON_Trepan_REF.dae",
+    "size": [
+      0.27011899650096893,
+      0.14635499939322472,
+      1.1340080201625824
+    ],
+    "center_offset": [
+      -0.05553049594163895,
+      0.021886499598622322,
+      -0.24605901539325714
+    ]
+  },
+  {
+    "name": "WPN_TheVictory_Longbow_A.dae",
+    "relative_path": "Weapons/Resources/WPN_TheVictory_Longbow_A.dae",
+    "size": [
+      0.49318601191043854,
+      0.07457800023257732,
+      1.9967800378799438
+    ],
+    "center_offset": [
+      0.025530003011226654,
+      0.027544000186026096,
+      -3.993511199951172e-06
+    ]
+  },
+  {
+    "name": "WPN_Toll_Collector_Halberd_A.dae",
+    "relative_path": "Weapons/Resources/WPN_Toll_Collector_Halberd_A.dae",
+    "size": [
+      0.4731299951672554,
+      0.07114199921488762,
+      2.790501117706299
+    ],
+    "center_offset": [
+      0.11406799778342247,
+      0.009191999211907387,
+      -0.8371715545654297
+    ]
+  }
+]

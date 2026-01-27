@@ -1,0 +1,368 @@
+[
+  {
+    "name": "TOOL_GEN_Ladder_6H_B.dae",
+    "relative_path": "Tool/TOOL_GEN_Ladder_ABC/Resources/TOOL_GEN_Ladder_6H_B.dae",
+    "size": [
+      1.3689600229263306,
+      6.309785842895508,
+      0.29236900806427
+    ],
+    "center_offset": [
+      0.009171009063720703,
+      3.154892921447754,
+      -0.18352550268173218
+    ]
+  },
+  {
+    "name": "TOOL_GEN_Ladder_7_5H_B_Destruct.dae",
+    "relative_path": "Tool/TOOL_GEN_Ladder_ABC/Resources/TOOL_GEN_Ladder_7_5H_B_Destruct.dae",
+    "size": [
+      5.305996894836426,
+      0.8590679988265038,
+      6.177862882614136
+    ],
+    "center_offset": [
+      0.5836315155029297,
+      0.41972799971699715,
+      -2.761027455329895
+    ]
+  },
+  {
+    "name": "TOOL_GEN_Sign_Wall_A_Gold.dae",
+    "relative_path": "Tool/TOOL_GEN_Sign_ABC/Resources/TOOL_GEN_Sign_Wall_A_Gold.dae",
+    "size": [
+      0.4704340100288391,
+      0.3360239863395691,
+      0.06218900065869093
+    ],
+    "center_offset": [
+      0.0,
+      0.16801199316978455,
+      0.018905500415712595
+    ],
+    "uuid": "0cbd644f-4b14-4e73-a692-328f82eb4087"
+  },
+  {
+    "name": "TOOL_GEN_Sign_Wall_A_Wood.dae",
+    "relative_path": "Tool/TOOL_GEN_Sign_ABC/Resources/TOOL_GEN_Sign_Wall_A_Wood.dae",
+    "size": [
+      0.4704340100288391,
+      0.3760690037161112,
+      0.09291000044322573
+    ],
+    "center_offset": [
+      0.0,
+      0.16801250260323286,
+      -0.04634400022041518
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_10n5H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A.dae",
+    "size": [
+      1.5776050090789795,
+      11.815203726291656,
+      1.6117929816246033
+    ],
+    "center_offset": [
+      0.1184074878692627,
+      5.601008862257004,
+      -0.6554634869098663
+    ],
+    "uuid": "7fac2c2d-86a2-44d8-830d-331c19266f0c"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_10n5H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A_Destruct.dae",
+    "size": [
+      1.7394850254058838,
+      11.521726725623012,
+      3.273182988166809
+    ],
+    "center_offset": [
+      0.15022552013397217,
+      5.747747362591326,
+      0.17523151636123657
+    ],
+    "uuid": "2b2286bf-927f-4159-a589-feb1b19dfb7d"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_10n5H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A_Explode.dae",
+    "size": [
+      1.5776050090789795,
+      11.054707735776901,
+      1.579287976026535
+    ],
+    "center_offset": [
+      0.1184074878692627,
+      5.981256857514381,
+      -0.6717159897089005
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_12H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A.dae",
+    "size": [
+      1.5776320099830627,
+      13.338040739297867,
+      1.6117929816246033
+    ],
+    "center_offset": [
+      0.11839398741722107,
+      6.339590355753899,
+      -0.6554634869098663
+    ],
+    "uuid": "a8cf2166-9cb3-4265-983d-bf8b2cb29482"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_12H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A_Destruct.dae",
+    "size": [
+      3.405910015106201,
+      13.02279972564429,
+      4.1716530323028564
+    ],
+    "center_offset": [
+      -0.33638501167297363,
+      6.497210862580687,
+      -0.6001795530319214
+    ],
+    "uuid": "434d4bde-dd19-43c8-8edb-7fa08495e7d4"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_12H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A_Explode.dae",
+    "size": [
+      1.5776320099830627,
+      12.57754471898079,
+      1.6043309718370438
+    ],
+    "center_offset": [
+      0.11839398741722107,
+      6.719838365912437,
+      -0.6591944918036461
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_3H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A.dae",
+    "size": [
+      1.5116869807243347,
+      4.323117196559906,
+      1.618275985121727
+    ],
+    "center_offset": [
+      0.15136650204658508,
+      1.8470526039600372,
+      -0.6522219851613045
+    ],
+    "uuid": "c04c74fc-0718-4f81-9d27-b287c831ea4d"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_3H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A_Destruct.dae",
+    "size": [
+      1.5229460000991821,
+      4.017057201825082,
+      2.6931729316711426
+    ],
+    "center_offset": [
+      0.1569960117340088,
+      2.000082601327449,
+      -0.11477351188659668
+    ],
+    "uuid": "ab385ca1-826b-400e-b636-56d57277c0ef"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_3H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A_Explode.dae",
+    "size": [
+      1.5116869807243347,
+      3.59827920794487,
+      1.6165569722652435
+    ],
+    "center_offset": [
+      0.15136650204658508,
+      2.2094715982675552,
+      -0.6530814915895462
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_4n5H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A.dae",
+    "size": [
+      1.5253199934959412,
+      5.829002201557159,
+      1.5873139798641205
+    ],
+    "center_offset": [
+      0.14454999566078186,
+      2.5941101014614105,
+      -0.6677029877901077
+    ],
+    "uuid": "e491f5de-f432-46c7-b3d5-7d1620300e43"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_4n5H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A_Destruct.dae",
+    "size": [
+      2.1204599738121033,
+      5.513054202310741,
+      3.745168924331665
+    ],
+    "center_offset": [
+      -0.14176097512245178,
+      2.7520841010846198,
+      0.41122448444366455
+    ],
+    "uuid": "d0d310a3-9497-4577-9152-813326e5be28"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_4n5H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A_Explode.dae",
+    "size": [
+      1.5253199934959412,
+      5.077412188053131,
+      1.5680509805679321
+    ],
+    "center_offset": [
+      0.14454999566078186,
+      2.9699051082134247,
+      -0.6773344874382019
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_6H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A.dae",
+    "size": [
+      1.5285149812698364,
+      7.356375187635422,
+      1.618628978729248
+    ],
+    "center_offset": [
+      0.14295250177383423,
+      3.3304236084222794,
+      -0.652045488357544
+    ],
+    "uuid": "f75c4c9b-2656-4bb8-933d-8c120912c765"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_6H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A_Destruct.dae",
+    "size": [
+      1.5817720293998718,
+      7.022943202406168,
+      2.3164209723472595
+    ],
+    "center_offset": [
+      0.12758299708366394,
+      3.4971396010369062,
+      -0.3031494915485382
+    ],
+    "uuid": "0c95c537-39cf-4ac0-9add-243e7170c729"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_6H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A_Explode.dae",
+    "size": [
+      1.5285149812698364,
+      6.62387615442276,
+      1.5962899774312973
+    ],
+    "center_offset": [
+      0.14295250177383423,
+      3.6966740787029266,
+      -0.6632149890065193
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_7n5H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A.dae",
+    "size": [
+      1.6244019865989685,
+      8.852599680423737,
+      1.6158009767532349
+    ],
+    "center_offset": [
+      0.09500899910926819,
+      4.08231183886528,
+      -0.6534594893455505
+    ],
+    "uuid": "af5e123b-6f8b-4b85-a952-e4de34f97b73"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_7n5H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A_Destruct.dae",
+    "size": [
+      2.3090059757232666,
+      8.52292867936194,
+      5.249718904495239
+    ],
+    "center_offset": [
+      0.46984899044036865,
+      4.247147339396179,
+      0.7511154413223267
+    ],
+    "uuid": "5cb8d2a2-0c89-419c-92f9-42b0a100acef"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_7n5H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A_Explode.dae",
+    "size": [
+      1.6244019865989685,
+      8.092103689908981,
+      1.5863919705152512
+    ],
+    "center_offset": [
+      0.09500899910926819,
+      4.462559834122658,
+      -0.6681639924645424
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Rope_9H_A.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A.dae",
+    "size": [
+      1.6185960173606873,
+      10.365310668945312,
+      1.6261079758405685
+    ],
+    "center_offset": [
+      0.09791198372840881,
+      4.825956344604492,
+      -0.6483059898018837
+    ],
+    "uuid": "cbe097ab-ee9d-4042-bda5-87b69bdf4476"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_9H_A_Destruct.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A_Destruct.dae",
+    "size": [
+      1.9365769624710083,
+      10.02290867920965,
+      2.927043080329895
+    ],
+    "center_offset": [
+      -0.04982048273086548,
+      4.997157339472324,
+      -0.008557498455047607
+    ],
+    "uuid": "cf2f2429-ac89-4972-9c41-0e7270a56699"
+  },
+  {
+    "name": "TOOL_Ladder_Rope_9H_A_Explode.dae",
+    "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A_Explode.dae",
+    "size": [
+      1.6185960173606873,
+      9.604815691709518,
+      1.5925739705562592
+    ],
+    "center_offset": [
+      0.09791198372840881,
+      5.206203833222389,
+      -0.6650729924440384
+    ]
+  }
+]

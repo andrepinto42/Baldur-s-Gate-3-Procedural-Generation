@@ -1,0 +1,559 @@
+[
+  {
+    "name": "REF_Primitives_Cube_2n5x2n5x2n5.dae",
+    "relative_path": "_Reference/REF_Primitives_Cube_2n5x2n5x2n5.dae",
+    "size": [
+      2.5,
+      2.5,
+      2.5
+    ],
+    "center_offset": [
+      0.0,
+      1.25,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_BOOK_Book_A.dae",
+    "relative_path": "_Reference/Resources/REF_BOOK_Book_A.dae",
+    "size": [
+      0.4074680060148239,
+      0.15188999939709902,
+      0.43349599838256836
+    ],
+    "center_offset": [
+      0.00010300427675247192,
+      0.06282499944791198,
+      0.0
+    ],
+    "uuid": "13f3991e-01d3-498f-ad71-a55900c39516"
+  },
+  {
+    "name": "REF_BOOK_Letter_Map.dae",
+    "relative_path": "_Reference/Resources/REF_BOOK_Letter_Map.dae",
+    "size": [
+      1.0,
+      0.07307600043714046,
+      1.6046860218048096
+    ],
+    "center_offset": [
+      0.0,
+      0.024377000518143177,
+      0.0
+    ],
+    "uuid": "2b858e2d-1431-4208-9024-b233d271d6db"
+  },
+  {
+    "name": "REF_BOOK_Letter_Scroll_A.dae",
+    "relative_path": "_Reference/Resources/REF_BOOK_Letter_Scroll_A.dae",
+    "size": [
+      0.5954279899597168,
+      0.14195799348090077,
+      0.15444400161504745
+    ],
+    "center_offset": [
+      0.0,
+      0.07108299673927831,
+      -0.010284002870321274
+    ],
+    "uuid": "c412a7e2-d887-4c46-aedb-8e40e14eaff2"
+  },
+  {
+    "name": "REF_Cloth_Banner_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Banner_A.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.05999999865889549
+    ],
+    "center_offset": [
+      0.0,
+      1.0,
+      -0.009999999776482582
+    ],
+    "uuid": "0fe7035d-dce4-41dd-8f11-f29c9439fb0e"
+  },
+  {
+    "name": "REF_Cloth_Curtain_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Curtain_A.dae",
+    "size": [
+      1.0,
+      1.5200000405311584,
+      0.03999999910593033
+    ],
+    "center_offset": [
+      0.0,
+      1.0600000321865082,
+      -0.019999999552965164
+    ],
+    "uuid": "6467cc1b-227b-40fd-a276-afde5dd1fbb5"
+  },
+  {
+    "name": "REF_Cloth_Flag_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Flag_A.dae",
+    "size": [
+      0.9400000162422657,
+      2.0,
+      0.03999999910593033
+    ],
+    "center_offset": [
+      -0.4500000085681677,
+      1.0,
+      0.0
+    ],
+    "uuid": "26e704c2-28de-4c8e-a689-c9e2c53c9396"
+  },
+  {
+    "name": "REF_Cloth_Ribbons_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Ribbons_A.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.05999999865889549
+    ],
+    "center_offset": [
+      0.0,
+      1.0,
+      -0.009999999776482582
+    ],
+    "uuid": "1758bf6e-643f-4d0c-806f-2120d5811bb6"
+  },
+  {
+    "name": "REF_Cloth_Sail_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Sail_A.dae",
+    "size": [
+      2.0,
+      4.0,
+      0.11999999731779099
+    ],
+    "center_offset": [
+      0.0,
+      2.0,
+      -0.019999999552965164
+    ],
+    "uuid": "dd50f536-1004-4eae-86e9-05c5c68cafc2"
+  },
+  {
+    "name": "REF_Cloth_Sail_Loose_A.dae",
+    "relative_path": "_Reference/Resources/REF_Cloth_Sail_Loose_A.dae",
+    "size": [
+      2.0,
+      4.0,
+      0.5527729764580727
+    ],
+    "center_offset": [
+      0.0,
+      2.0,
+      -0.236386489123106
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "REF_CONT_Chest_A.dae",
+    "relative_path": "_Reference/Resources/REF_CONT_Chest_A.dae",
+    "size": [
+      1.5133140087127686,
+      1.3074619770050049,
+      1.0700570344924927
+    ],
+    "center_offset": [
+      0.0,
+      0.6537309885025024,
+      -0.02764749526977539
+    ]
+  },
+  {
+    "name": "REF_DEC_Statue_A.dae",
+    "relative_path": "_Reference/Resources/REF_DEC_Statue_A.dae",
+    "size": [
+      1.9025880098342896,
+      5.905127763748169,
+      1.014091968536377
+    ],
+    "center_offset": [
+      0.0,
+      2.9999998807907104,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_DEC_Statue_A_Dynamic.dae",
+    "relative_path": "_Reference/Resources/REF_DEC_Statue_A_Dynamic.dae",
+    "size": [
+      1.9025880098342896,
+      5.905127763748169,
+      1.014091968536377
+    ],
+    "center_offset": [
+      0.0,
+      2.9999998807907104,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_DOOR_Hatch_A.dae",
+    "relative_path": "_Reference/Resources/REF_DOOR_Hatch_A.dae",
+    "size": [
+      2.0,
+      0.25776898860931396,
+      2.0
+    ],
+    "center_offset": [
+      0.0,
+      0.12888449430465698,
+      0.0
+    ],
+    "uuid": "d19066e4-649d-485a-b94b-e61fae7edb88"
+  },
+  {
+    "name": "REF_FUR_Bed.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Bed.dae",
+    "size": [
+      2.5673279762268066,
+      1.0180870294570923,
+      2.9999990463256836
+    ],
+    "center_offset": [
+      0.0,
+      0.5090435147285461,
+      -4.76837158203125e-07
+    ],
+    "uuid": "f42bb689-a84b-4051-a1bb-57edd7f20acc"
+  },
+  {
+    "name": "REF_FUR_Bench.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Bench.dae",
+    "size": [
+      2.347136974334717,
+      0.603523023892194,
+      0.6826759874820709
+    ],
+    "center_offset": [
+      0.02696549892425537,
+      0.2982385118957609,
+      -0.008645996451377869
+    ],
+    "uuid": "d90384de-6ab2-45a2-aec5-3a224bca33a5"
+  },
+  {
+    "name": "REF_FUR_Chair.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Chair.dae",
+    "size": [
+      0.5800549983978271,
+      1.1296689570881426,
+      0.6187440156936646
+    ],
+    "center_offset": [
+      0.00622248649597168,
+      0.570158478571102,
+      0.036991000175476074
+    ],
+    "uuid": "5f9243d8-892f-4b4b-81ae-346c5ccd217c"
+  },
+  {
+    "name": "REF_FUR_Counter.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Counter.dae",
+    "size": [
+      2.0,
+      1.598907039500773,
+      1.0872679948806763
+    ],
+    "center_offset": [
+      0.0,
+      0.795080519746989,
+      -0.019069015979766846
+    ],
+    "uuid": "712be888-9eab-4225-a2b9-c46a2ef60c00"
+  },
+  {
+    "name": "REF_FUR_Mattress.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Mattress.dae",
+    "size": [
+      1.2300649881362915,
+      0.16601200576405972,
+      2.7215670347213745
+    ],
+    "center_offset": [
+      6.848573684692383e-05,
+      0.08439200284192339,
+      0.000511467456817627
+    ],
+    "uuid": "4d4f30a9-e61d-4943-b3bc-4c0e1186c161"
+  },
+  {
+    "name": "REF_FUR_Table.dae",
+    "relative_path": "_Reference/Resources/REF_FUR_Table.dae",
+    "size": [
+      3.0,
+      0.8999999761581421,
+      1.5
+    ],
+    "center_offset": [
+      0.0,
+      0.44999998807907104,
+      0.0
+    ],
+    "uuid": "193428a8-3b32-44f2-bd80-f3e1d402ab90"
+  },
+  {
+    "name": "REF_Level_Plane_2x4_A.dae",
+    "relative_path": "_Reference/Resources/REF_Level_Plane_2x4_A.dae",
+    "size": [
+      4.0,
+      0.0,
+      2.0
+    ],
+    "center_offset": [
+      -2.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "name": "REF_LOOT_Backpack_A.dae",
+    "relative_path": "_Reference/Resources/REF_LOOT_Backpack_A.dae",
+    "size": [
+      0.5,
+      0.6247439980506897,
+      0.3701909929513931
+    ],
+    "center_offset": [
+      0.0,
+      0.31237199902534485,
+      0.0030125007033348083
+    ],
+    "uuid": "548b0870-6103-489e-bdff-b936f73c7d12"
+  },
+  {
+    "name": "REF_LOOT_Bag_A.dae",
+    "relative_path": "_Reference/Resources/REF_LOOT_Bag_A.dae",
+    "size": [
+      0.4250580072402954,
+      0.37378498911857605,
+      0.36688899993896484
+    ],
+    "center_offset": [
+      0.0,
+      0.18689249455928802,
+      -0.003028497099876404
+    ],
+    "uuid": "6993a790-f9e2-4c79-a633-79605becdd35"
+  },
+  {
+    "name": "REF_MAP_BG_A_Buildings.dae",
+    "relative_path": "_Reference/Resources/REF_MAP_BG_A_Buildings.dae",
+    "size": [
+      5.428385019302368,
+      0.3017229959368706,
+      3.145542025566101
+    ],
+    "center_offset": [
+      -0.10087954998016357,
+      0.07138950005173683,
+      0.027324020862579346
+    ],
+    "uuid": "60ac8005-77b0-4a4c-a3b1-97c0ab743f6c"
+  },
+  {
+    "name": "REF_MAP_BG_A_Land_01.dae",
+    "relative_path": "_Reference/Resources/REF_MAP_BG_A_Land_01.dae",
+    "size": [
+      5.360059976577759,
+      0.4522650018334389,
+      3.1267330646514893
+    ],
+    "center_offset": [
+      -2.9921531677246094e-05,
+      0.12609649822115898,
+      0.05657649040222168
+    ],
+    "uuid": "b719dc29-0efc-4b10-ad7f-137a328473a0"
+  },
+  {
+    "name": "REF_MAP_BG_A_Land_02.dae",
+    "relative_path": "_Reference/Resources/REF_MAP_BG_A_Land_02.dae",
+    "size": [
+      5.510191917419434,
+      0.41828398406505585,
+      2.835539996623993
+    ],
+    "center_offset": [
+      -0.004822969436645508,
+      0.15029699355363846,
+      -2.1114980280399323
+    ],
+    "uuid": "18c006fe-b9fd-40ff-8c5f-acdc82557d66"
+  },
+  {
+    "name": "REF_MAP_BG_A_Port.dae",
+    "relative_path": "_Reference/Resources/REF_MAP_BG_A_Port.dae",
+    "size": [
+      2.23499895632267,
+      0.013826997950673103,
+      1.803725004196167
+    ],
+    "center_offset": [
+      1.2629154846072197,
+      -0.028884499333798885,
+      0.41056549549102783
+    ],
+    "uuid": "1e1f91be-767e-4934-931d-9c190236b850"
+  },
+  {
+    "name": "REF_Primitives_Cube_1x1x1.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_1x1x1.dae",
+    "size": [
+      1.0,
+      0.9999970090284478,
+      1.0
+    ],
+    "center_offset": [
+      0.0,
+      0.5002715045266086,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_Primitives_Cube_2x2x0n5.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_2x2x0n5.dae",
+    "size": [
+      2.0,
+      0.5,
+      2.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_Primitives_Cube_3x0n5x1n5.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x0n5x1n5.dae",
+    "size": [
+      1.5,
+      0.5,
+      3.0
+    ],
+    "center_offset": [
+      0.0,
+      0.25,
+      0.0
+    ],
+    "uuid": "74f6080c-c525-4dbb-9bdb-1c294303f791"
+  },
+  {
+    "name": "REF_Primitives_Cube_3x0n5x3.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x0n5x3.dae",
+    "size": [
+      3.0,
+      0.5,
+      3.0
+    ],
+    "center_offset": [
+      0.0,
+      0.25,
+      0.0
+    ],
+    "uuid": "157b16a0-3cf8-4172-8048-d2911d1bf298"
+  },
+  {
+    "name": "REF_Primitives_Cube_3x1x1.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x1x1.dae",
+    "size": [
+      3.0,
+      0.9999960090499371,
+      1.0
+    ],
+    "center_offset": [
+      0.0,
+      0.500272004515864,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_Primitives_Cube_3x3x3.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x3x3.dae",
+    "size": [
+      3.0,
+      3.0,
+      3.0
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_Primitives_Cube_5x5x5.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Cube_5x5x5.dae",
+    "size": [
+      5.0,
+      4.999996889819158,
+      5.0
+    ],
+    "center_offset": [
+      0.0,
+      2.500271444921964,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_Primitives_Slope_3x3x3.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Slope_3x3x3.dae",
+    "size": [
+      3.0,
+      2.982326973666204,
+      2.982319951057434
+    ],
+    "center_offset": [
+      0.0,
+      1.4914364868454868,
+      0.008840024471282959
+    ]
+  },
+  {
+    "name": "REF_Primitives_Slope_3x3x6.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Slope_3x3x6.dae",
+    "size": [
+      3.0,
+      2.9888169658079278,
+      5.97763991355896
+    ],
+    "center_offset": [
+      0.0,
+      1.4946814829163486,
+      0.01118004322052002
+    ]
+  },
+  {
+    "name": "REF_Primitives_Sphere_A.dae",
+    "relative_path": "_Reference/Resources/REF_Primitives_Sphere_A.dae",
+    "size": [
+      2.0,
+      2.0,
+      2.0
+    ],
+    "center_offset": [
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  {
+    "name": "REF_TOOL_Ladder_A.dae",
+    "relative_path": "_Reference/Resources/REF_TOOL_Ladder_A.dae",
+    "size": [
+      1.0761430263519287,
+      9.043948127197268,
+      0.14073000103235245
+    ],
+    "center_offset": [
+      0.0030364990234375,
+      4.5219750635986316,
+      -0.016435999423265457
+    ],
+    "uuid": "edb70fff-9a8a-4c5d-aad2-af361873bd27"
+  }
+]

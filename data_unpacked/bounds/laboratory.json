@@ -1,0 +1,30 @@
+[
+  {
+    "name": "LAB_GEN_Bottle_BodyParts_Rack_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_BodyParts_Rack_ABC/Resources/LAB_GEN_Bottle_BodyParts_Rack_A.dae",
+    "size": [
+      1.26693195104599,
+      0.6656180024147034,
+      0.4225519895553589
+    ],
+    "center_offset": [
+      0.005724996328353882,
+      0.3328090012073517,
+      0.0
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_BodyParts_Rack_B.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_BodyParts_Rack_ABC/Resources/LAB_GEN_Bottle_BodyParts_Rack_B.dae",
+    "size": [
+      1.2669320106506348,
+      0.9356469511985779,
+      0.6170350015163422
+    ],
+    "center_offset": [
+      0.04910200834274292,
+      0.9710334837436676,
+      -0.10207749903202057
+    ]
+  }
+]

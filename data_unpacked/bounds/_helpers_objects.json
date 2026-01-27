@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Helper_Invisible_A.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_A.dae",
+    "size": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "4cc75168-a81e-4a5c-85cd-1bab8d7bb641"
+  },
+  {
+    "name": "Helper_Invisible_C.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_C.dae",
+    "size": [
+      4.0,
+      0.2216539978981018,
+      4.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "8b4b3076-0434-4c53-a457-a39da41c5c19"
+  },
+  {
+    "name": "Helper_Invisible_D.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_D.dae",
+    "size": [
+      4.0,
+      0.20000000298023224,
+      4.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "da1a2696-5ee1-4874-b17b-455adc0a9f10"
+  },
+  {
+    "name": "Helper_Invisible_E.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_E.dae",
+    "size": [
+      1.9790570139884949,
+      1.2761579751968384,
+      0.07466499973088503
+    ],
+    "center_offset": [
+      -0.0016054809093475342,
+      0.0,
+      -0.02232949947938323
+    ],
+    "uuid": "ba9d5622-07bf-42f7-a936-93f2c1c54db8"
+  },
+  {
+    "name": "Helper_Invisible_F.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_F.dae",
+    "size": [
+      2.0999999046325684,
+      0.14717400074005127,
+      3.1500000953674316
+    ],
+    "center_offset": [
+      0.0,
+      0.07358700037002563,
+      0.0
+    ],
+    "uuid": "f0a25b3b-5026-4748-94d1-c634c13266fb"
+  },
+  {
+    "name": "Helper_Invisible_G.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_G.dae",
+    "size": [
+      2.003634999971837,
+      0.20000000298023224,
+      4.0
+    ],
+    "center_offset": [
+      -0.9981825000140816,
+      0.0,
+      0.0
+    ],
+    "uuid": "74e0ce27-30ba-44e2-b20a-9273737fa15f"
+  },
+  {
+    "name": "Helper_Invisible_H.dae",
+    "relative_path": "_Helpers/Helper_ABC/Resources/Helper_Invisible_H.dae",
+    "size": [
+      3.885335922241211,
+      0.20183199644088745,
+      3.885335922241211
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "0a0c1e0f-60a9-493f-a98b-d761187c7d38"
+  },
+  {
+    "name": "Helper_PortraitGeneration_Background_A.dae",
+    "relative_path": "_Helpers/Helper_PortraitGeneration_Background/Resources/Helper_PortraitGeneration_Background_A.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "center_offset": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "uuid": "49886970-33fc-4f59-a1d6-0e3829708671"
+  },
+  {
+    "name": "Helper_Occluder_4x4.dae",
+    "relative_path": "_Helpers/Resources/Helper_Occluder_4x4.dae",
+    "size": [
+      4.0,
+      0.0,
+      4.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "025d044b-d6d0-491b-851f-eb414767c0eb"
+  },
+  {
+    "name": "Helper_Occluder_4x8.dae",
+    "relative_path": "_Helpers/Resources/Helper_Occluder_4x8.dae",
+    "size": [
+      4.0,
+      0.0,
+      8.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "91d8c430-c70d-4fd6-934b-4fd509ba5206"
+  }
+]

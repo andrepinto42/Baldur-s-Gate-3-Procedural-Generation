@@ -1,0 +1,100 @@
+[
+  {
+    "name": "QUEST_Crown_Karsus_A.dae",
+    "relative_path": "Quest/QUEST_Crown_Karsus_A/Resources/QUEST_Crown_Karsus_A.dae",
+    "size": [
+      0.3237699866294861,
+      0.3027290105819702,
+      0.3237699866294861
+    ],
+    "center_offset": [
+      0.0,
+      0.1513645052909851,
+      0.0
+    ]
+  },
+  {
+    "name": "QUEST_Deadman_Switch_A.dae",
+    "relative_path": "Quest/QUEST_Deadman_Switch_A/Resources/QUEST_Deadman_Switch_A.dae",
+    "size": [
+      0.14613600075244904,
+      0.08222199976444244,
+      0.33721600472927094
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      2.100318670272827e-05
+    ]
+  },
+  {
+    "name": "QUEST_LOW_SteelWatchFoundry_ExplodingCollar_A.dae",
+    "relative_path": "Quest/QUEST_LOW_SteelWatchFoundry_ExplodingCollar_ABC/Resources/QUEST_LOW_SteelWatchFoundry_ExplodingCollar_A.dae",
+    "size": [
+      0.3295070081949234,
+      0.14701200334820896,
+      0.2987229973077774
+    ],
+    "center_offset": [
+      3.550201654434204e-05,
+      0.07275700167519972,
+      0.001108504831790924
+    ]
+  },
+  {
+    "name": "DEC_Tollhouse_Statue_Collector_A_Destruct.dae",
+    "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/DEC_Tollhouse_Statue_Collector_A_Destruct.dae",
+    "size": [
+      2.856297016143799,
+      1.1304621696472168,
+      9.09294044971466
+    ],
+    "center_offset": [
+      -0.44161248207092285,
+      -6.648936986923218,
+      -3.7221102118492126
+    ]
+  },
+  {
+    "name": "DEC_Tollhouse_Statue_Collector_A_Explode.dae",
+    "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/DEC_Tollhouse_Statue_Collector_A_Explode.dae",
+    "size": [
+      0.9665379822254181,
+      2.5557900469284505,
+      0.8610830008983612
+    ],
+    "center_offset": [
+      -0.0018189996480941772,
+      1.2741410235175863,
+      -0.031721487641334534
+    ]
+  },
+  {
+    "name": "QUEST_PLT_Collector_Floor_Destruct.dae",
+    "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/QUEST_PLT_Collector_Floor_Destruct.dae",
+    "size": [
+      9.465511083602905,
+      0.8299609730020165,
+      7.393343925476074
+    ],
+    "center_offset": [
+      -1.2842174768447876,
+      0.4010544861666858,
+      -0.4281759262084961
+    ]
+  },
+  {
+    "name": "QUEST_PLT_Collector_Floor_Explode.dae",
+    "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/QUEST_PLT_Collector_Floor_Explode.dae",
+    "size": [
+      6.651206016540527,
+      0.5662589948624372,
+      5.143244028091431
+    ],
+    "center_offset": [
+      -1.320836067199707,
+      -0.2631704965606332,
+      0.06137692928314209
+    ]
+  }
+]

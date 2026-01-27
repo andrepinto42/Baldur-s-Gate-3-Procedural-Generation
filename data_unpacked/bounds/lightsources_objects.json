@@ -1,0 +1,3748 @@
+[
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A.dae",
+    "size": [
+      0.19972899556159973,
+      0.5287900037510553,
+      0.1999880000948906
+    ],
+    "center_offset": [
+      0.0012395009398460388,
+      0.26419800187431974,
+      -0.001898001879453659
+    ],
+    "uuid": "cbc25ce0-fd97-4913-ae5d-74bbff58f228"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Destruct.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A_Destruct.dae",
+    "size": [
+      0.48693300783634186,
+      0.13140399812255055,
+      0.3304319977760315
+    ],
+    "center_offset": [
+      -0.05634450167417526,
+      0.0646819990943186,
+      -0.06797699630260468
+    ],
+    "uuid": "30446942-6379-4992-98b7-19101a4964ed"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Explode.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A_Explode.dae",
+    "size": [
+      0.19724999368190765,
+      0.5281590093218256,
+      0.19619299471378326
+    ],
+    "center_offset": [
+      0.0,
+      0.2644825046736514,
+      -4.991888999938965e-07
+    ]
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B.dae",
+    "size": [
+      0.4425549954175949,
+      0.6340309847437311,
+      0.19737499952316284
+    ],
+    "center_offset": [
+      4.550069570541382e-05,
+      0.3174184923846042,
+      -0.0005915015935897827
+    ],
+    "uuid": "10dae335-03ce-4c2f-88f0-8aa245250959"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Destruct.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B_Destruct.dae",
+    "size": [
+      0.7717970013618469,
+      0.14961700422281865,
+      0.5497290045022964
+    ],
+    "center_offset": [
+      -0.042381495237350464,
+      0.07459550210478483,
+      -0.06648250669240952
+    ],
+    "uuid": "2330e556-8636-400a-974a-5a38f46338be"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Explode.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B_Explode.dae",
+    "size": [
+      0.4424639940261841,
+      0.6339999903284479,
+      0.19619300216436386
+    ],
+    "center_offset": [
+      0.0,
+      0.3174029951769626,
+      6.249919533729553e-05
+    ]
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C.dae",
+    "size": [
+      0.44686800241470337,
+      0.7720099962316453,
+      0.19881600141525269
+    ],
+    "center_offset": [
+      -0.0005059987306594849,
+      0.3856389981228858,
+      -0.0013139992952346802
+    ],
+    "uuid": "98f0dfba-521a-415c-bd90-95758648567c"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Destruct.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C_Destruct.dae",
+    "size": [
+      0.7747589945793152,
+      0.1783580042538233,
+      0.5678279995918274
+    ],
+    "center_offset": [
+      0.06443449854850769,
+      0.0883610021264758,
+      0.03224000334739685
+    ],
+    "uuid": "03ee5c1e-520d-4cc5-bfa8-8eb718c5ec3c"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Explode.dae",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C_Explode.dae",
+    "size": [
+      0.44298601150512695,
+      0.7712100018106867,
+      0.19618800282478333
+    ],
+    "center_offset": [
+      0.0,
+      0.38600800091808196,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_Camp_Bonfire_A.dae",
+    "relative_path": "Lightsources/Camp/LTS_Camp_Bonfire_A/Resources/LTS_Camp_Bonfire_A.dae",
+    "size": [
+      3.023647904396057,
+      3.938626915216446,
+      2.6373170018196106
+    ],
+    "center_offset": [
+      -0.06806200742721558,
+      1.747091457247734,
+      -0.4376074969768524
+    ],
+    "uuid": "5da1e102-9660-4fc2-b881-4d3ce93ada92"
+  },
+  {
+    "name": "LTS_Camp_Campfire_A.dae",
+    "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_A.dae",
+    "size": [
+      1.245455026626587,
+      0.3339740037918091,
+      1.1927040219306946
+    ],
+    "center_offset": [
+      -0.035045504570007324,
+      0.13252300024032593,
+      -0.008271008729934692
+    ],
+    "uuid": "827e5d0f-eeb0-42ca-a237-012033c95c83"
+  },
+  {
+    "name": "LTS_Camp_Campfire_B.dae",
+    "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_B.dae",
+    "size": [
+      1.2431259751319885,
+      1.1408170461654663,
+      1.1927040219306946
+    ],
+    "center_offset": [
+      -0.03528699278831482,
+      0.5359445214271545,
+      -0.008271008729934692
+    ],
+    "uuid": "2b3ccb9f-6b9b-43d5-87f3-d928b2f0646d"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
+    "size": [
+      1.906999945640564,
+      0.6930729746818542,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3465364873409271,
+      0.0
+    ],
+    "uuid": "64623062-e8a6-43c9-bb0f-f16f362f1755"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A_Destruct.dae",
+    "size": [
+      2.7153480052948,
+      0.6357029713690281,
+      2.2076990008354187
+    ],
+    "center_offset": [
+      0.3508549928665161,
+      0.29835748486220837,
+      0.49209752678871155
+    ],
+    "uuid": "2e442d73-9562-4aaf-9bd9-6c8277ba4021"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A_Explode.dae",
+    "size": [
+      1.906999945640564,
+      0.6896860003471375,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3448430001735687,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
+    "size": [
+      2.0896759033203125,
+      1.152819000184536,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4982595033943653,
+      0.0
+    ],
+    "uuid": "1e803007-4a58-4543-867b-b9aa97d39e30"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B_Destruct.dae",
+    "size": [
+      2.6541210412979126,
+      0.7658420205116272,
+      2.6654850244522095
+    ],
+    "center_offset": [
+      0.10006552934646606,
+      0.30462101101875305,
+      0.08759647607803345
+    ],
+    "uuid": "98b0709d-f78c-4481-a9b5-470f20f44ccd"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B_Explode.dae",
+    "size": [
+      2.0896759033203125,
+      1.1514830216765404,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4975915141403675,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C.dae",
+    "size": [
+      2.691293954849243,
+      1.161978006362915,
+      2.3395919799804688
+    ],
+    "center_offset": [
+      0.0,
+      0.5809890031814575,
+      0.0
+    ],
+    "uuid": "68651e84-e66e-4815-b620-92effade64ca"
+  },
+  {
+    "name": "LTS_DUN_Bowls_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C_Destruct.dae",
+    "size": [
+      3.14185106754303,
+      0.7105210246518254,
+      2.977379083633423
+    ],
+    "center_offset": [
+      -0.019120514392852783,
+      0.3428705125115812,
+      -0.25151050090789795
+    ],
+    "uuid": "5b3c46f7-2b71-4293-8598-fcbd11cfb7a9"
+  },
+  {
+    "name": "LTS_DUN_Bowls_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C_Explode.dae",
+    "size": [
+      2.691293954849243,
+      1.161978006362915,
+      2.3395919799804688
+    ],
+    "center_offset": [
+      0.0,
+      0.5809890031814575,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ],
+    "uuid": "614e3fe8-1572-4811-801c-af4b4c63c722"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D_Destruct.dae",
+    "size": [
+      2.268589973449707,
+      0.5521910265088081,
+      2.64908504486084
+    ],
+    "center_offset": [
+      -0.27515101432800293,
+      0.2638465128839016,
+      -0.23888051509857178
+    ],
+    "uuid": "1dd5f0cf-e105-4720-a85e-3eacaab82bf3"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D_Explode.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_E.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ],
+    "uuid": "d4c34693-07f4-4935-b10a-73bf7324b6aa"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E_Destruct.dae",
+    "size": [
+      2.029170036315918,
+      0.6789659890346229,
+      2.650074064731598
+    ],
+    "center_offset": [
+      -0.03852999210357666,
+      0.3344379945192486,
+      0.3532550036907196
+    ],
+    "uuid": "ee4419e6-daf1-4cb7-8cb3-d1ef00d2ce8a"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E_Explode.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_F.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
+    "size": [
+      1.2258340120315552,
+      2.9393539428710938,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4696769714355469,
+      0.0
+    ],
+    "uuid": "a3b9c09c-eb1c-4b23-851d-cd05ce213332"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F_Destruct.dae",
+    "size": [
+      1.9590089917182922,
+      0.6157940132543445,
+      2.2723609805107117
+    ],
+    "center_offset": [
+      -0.1336275041103363,
+      0.29475500667467713,
+      0.31601646542549133
+    ],
+    "uuid": "c4cecf19-111f-420d-9d08-d3be8f9b4a6b"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F_Explode.dae",
+    "size": [
+      1.2258340120315552,
+      2.940864086151123,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4704320430755615,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_G.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
+    "size": [
+      1.6361780166625977,
+      0.9709190130233765,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48545950651168823,
+      0.0
+    ],
+    "uuid": "751be202-7f13-4ee8-9884-806bf2792f17"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G_Destruct.dae",
+    "size": [
+      1.9048140048980713,
+      0.7437150124460459,
+      1.8945170044898987
+    ],
+    "center_offset": [
+      0.0006060004234313965,
+      0.34945650678128004,
+      -0.013839513063430786
+    ],
+    "uuid": "1d2e6cbc-8187-4a7f-a808-368d61b19531"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G_Explode.dae",
+    "size": [
+      1.6361780166625977,
+      0.9703459739685059,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48517298698425293,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_H.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H.dae",
+    "size": [
+      1.7391740083694458,
+      0.846123993396759,
+      1.7391740083694458
+    ],
+    "center_offset": [
+      0.0,
+      0.4230619966983795,
+      0.0
+    ],
+    "uuid": "a6a67d02-7202-4628-a45f-7cce5335e9a7"
+  },
+  {
+    "name": "LTS_DUN_Bowls_H_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H_Destruct.dae",
+    "size": [
+      1.7451090216636658,
+      0.708199992775917,
+      1.8974080085754395
+    ],
+    "center_offset": [
+      0.013677507638931274,
+      0.25884299725294113,
+      -0.07440400123596191
+    ],
+    "uuid": "1be3f567-be58-43b2-9615-9640fb1be5c1"
+  },
+  {
+    "name": "LTS_DUN_Bowls_H_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H_Explode.dae",
+    "size": [
+      1.7391740083694458,
+      0.846123993396759,
+      1.7391740083694458
+    ],
+    "center_offset": [
+      0.0,
+      0.4230619966983795,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_I.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I.dae",
+    "size": [
+      1.598289966583252,
+      1.373831033706665,
+      1.598289966583252
+    ],
+    "center_offset": [
+      0.0,
+      0.6869155168533325,
+      0.0
+    ],
+    "uuid": "9746b285-9502-478d-9cd0-c0c67cb37119"
+  },
+  {
+    "name": "LTS_DUN_Bowls_I_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I_Destruct.dae",
+    "size": [
+      2.382990002632141,
+      0.4790620105341077,
+      3.4086090326309204
+    ],
+    "center_offset": [
+      -0.12447100877761841,
+      0.23408100521191955,
+      0.08324748277664185
+    ],
+    "uuid": "02684d31-8fd1-4659-a8bf-bbf1757f94bc"
+  },
+  {
+    "name": "LTS_DUN_Bowls_I_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I_Explode.dae",
+    "size": [
+      1.598289966583252,
+      1.373831033706665,
+      1.598289966583252
+    ],
+    "center_offset": [
+      0.0,
+      0.6869155168533325,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Bowls_J.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_J.dae",
+    "size": [
+      1.4182239770889282,
+      0.41705799847841263,
+      1.4182209968566895
+    ],
+    "center_offset": [
+      0.0,
+      0.13771900162100792,
+      4.76837158203125e-07
+    ],
+    "uuid": "6b42b7ea-cd5e-4e39-9c3c-d535940162d2"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ],
+    "uuid": "3d9aa5fe-277f-4bef-8c4c-d2d4b9478971"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A_Destruct.dae",
+    "size": [
+      2.542525053024292,
+      0.6386279929429293,
+      3.9022330045700073
+    ],
+    "center_offset": [
+      -0.20894551277160645,
+      0.2886599963530898,
+      -0.11951547861099243
+    ],
+    "uuid": "dd135a3c-71fa-45e7-9853-b7868da0fe8f"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A_Explode.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
+    "size": [
+      1.2258340120315552,
+      3.0252439975738525,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5126219987869263,
+      0.0
+    ],
+    "uuid": "b28a1e7a-0158-4cfd-b010-73d7360a3e1e"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B_Destruct.dae",
+    "size": [
+      3.3860100507736206,
+      0.716216990724206,
+      4.135953068733215
+    ],
+    "center_offset": [
+      -0.026629984378814697,
+      0.32814749609678984,
+      -0.8890325427055359
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B_Explode.dae",
+    "size": [
+      1.2258340120315552,
+      3.019577980041504,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.509788990020752,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C.dae",
+    "size": [
+      1.0814679861068726,
+      2.112383902815054,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.0564119514092454,
+      0.0
+    ],
+    "uuid": "86879d38-4130-4589-a184-112750f79846"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C_Destruct.dae",
+    "size": [
+      2.8587698936462402,
+      0.6090529896318913,
+      3.4097659587860107
+    ],
+    "center_offset": [
+      0.0633620023727417,
+      0.27136249653995037,
+      -0.6098109483718872
+    ],
+    "uuid": "9ae9867a-fee9-4002-ba99-6d0debb6c23f"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C_Explode.dae",
+    "size": [
+      1.0698039531707764,
+      2.1080469583394006,
+      1.0698039531707764
+    ],
+    "center_offset": [
+      0.0,
+      1.0527224791585468,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
+    "size": [
+      1.0814679861068726,
+      2.3134959347516997,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ],
+    "uuid": "27f92609-0ba1-4f02-9ba4-5f43f49ff016"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D_Destruct.dae",
+    "size": [
+      3.472417950630188,
+      0.9316730126738548,
+      3.037569046020508
+    ],
+    "center_offset": [
+      0.3889560103416443,
+      0.43369950726628304,
+      0.6601614952087402
+    ],
+    "uuid": "4d6045e4-191d-4a50-950f-9da86acaf99f"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D_Explode.dae",
+    "size": [
+      1.0698039531707764,
+      2.3134959347516997,
+      1.0698039531707764
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
+    "size": [
+      1.2258340120315552,
+      3.1967110633850098,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5983555316925049,
+      0.0
+    ],
+    "uuid": "9b126cf0-4b87-49fa-99fa-60210ca2e766"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E_Destruct.dae",
+    "size": [
+      3.320672035217285,
+      1.591949013993144,
+      4.892849087715149
+    ],
+    "center_offset": [
+      0.24391496181488037,
+      0.7679405072703958,
+      0.9469684958457947
+    ],
+    "uuid": "55d9f7fd-ce99-4238-832f-83bb8ef2f22f"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E_Explode.dae",
+    "size": [
+      1.2258340120315552,
+      3.1903209686279297,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5951604843139648,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F.dae",
+    "size": [
+      1.3998340368270874,
+      3.076781988143921,
+      1.3942850232124329
+    ],
+    "center_offset": [
+      0.0,
+      1.5383909940719604,
+      0.0027745068073272705
+    ],
+    "uuid": "987d8606-6b88-4806-8ade-b6ea8d3ac0cf"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F_Destruct.dae",
+    "size": [
+      2.2420469522476196,
+      1.582973014563322,
+      2.9964269399642944
+    ],
+    "center_offset": [
+      -0.008415520191192627,
+      0.7724285069853067,
+      -0.24252349138259888
+    ],
+    "uuid": "8bb2d974-2d40-4837-a491-3ff2c691bfc0"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F_Explode.dae",
+    "size": [
+      1.3887360095977783,
+      3.0754339694976807,
+      1.3887360095977783
+    ],
+    "center_offset": [
+      0.0,
+      1.5377169847488403,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G.dae",
+    "size": [
+      1.2258340120315552,
+      3.9409360885620117,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.9704680442810059,
+      0.0
+    ],
+    "uuid": "aefb110e-a9cf-41ee-b6ca-4607f6ebccb2"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G_Destruct.dae",
+    "size": [
+      3.3645249605178833,
+      2.1743288859725,
+      2.6683189868927
+    ],
+    "center_offset": [
+      -0.3994094729423523,
+      1.0549554415047169,
+      -0.1424194574356079
+    ],
+    "uuid": "a05962c4-8d2f-461f-b955-0129eadff995"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G_Explode.dae",
+    "size": [
+      1.2258340120315552,
+      3.9409360885620117,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.9704680442810059,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
+    "size": [
+      0.6646980047225952,
+      1.174767017364502,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3323490023612976,
+      -0.2455275058746338,
+      -1.0058283805847168e-06
+    ],
+    "uuid": "b7d278fb-cb14-439f-995f-758a1917f4fa"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A_Destruct.dae",
+    "size": [
+      1.5993149876594543,
+      0.4330669902265072,
+      1.4370900392532349
+    ],
+    "center_offset": [
+      -0.11463150382041931,
+      0.24364249594509602,
+      0.11672699451446533
+    ],
+    "uuid": "faf9ef40-63a9-478a-a69b-7504e0777333"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A_Explode.dae",
+    "size": [
+      0.6165050296112895,
+      1.1701670289039612,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3022065148688853,
+      -0.24782750010490417,
+      -1.0058283805847168e-06
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candles_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_A.dae",
+    "size": [
+      0.18649600446224213,
+      0.08438199758529663,
+      0.1865919977426529
+    ],
+    "center_offset": [
+      0.0,
+      0.027727998793125153,
+      0.0
+    ],
+    "uuid": "5970e7e5-444a-42c6-ab0a-fc642c7c6609"
+  },
+  {
+    "name": "LTS_DUN_Candles_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_B.dae",
+    "size": [
+      0.33108600974082947,
+      0.3571930006146431,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.150262501090765,
+      0.0
+    ],
+    "uuid": "7deb9590-2f6e-4913-a444-98eb100ee203"
+  },
+  {
+    "name": "LTS_DUN_Candles_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_C.dae",
+    "size": [
+      0.33108600974082947,
+      0.7481879964470863,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.3457599990069866,
+      0.0
+    ],
+    "uuid": "34df8770-06c5-4752-a7b6-25d4f64d64dc"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "4e77f7a0-29b4-4204-98e2-a84fd3657fa3"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A_Destruct.dae",
+    "size": [
+      0.9056800007820129,
+      0.12188000022433698,
+      1.3337369561195374
+    ],
+    "center_offset": [
+      0.26314499974250793,
+      0.05919600010383874,
+      -0.1578254997730255
+    ],
+    "uuid": "316bd5c6-42d3-491c-a42f-03c477782014"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A_Explode.dae",
+    "size": [
+      0.4377729892730713,
+      0.6396959833800793,
+      0.7369509935379028
+    ],
+    "center_offset": [
+      0.07346349954605103,
+      0.36670798994600773,
+      -0.01044049859046936
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B_Destruct.dae",
+    "size": [
+      0.7491399794816971,
+      0.12334999983431771,
+      0.4339900091290474
+    ],
+    "center_offset": [
+      0.26025398820638657,
+      0.06106999990879558,
+      0.10809200629591942
+    ],
+    "uuid": "155ad30e-a946-47ed-80f3-1d1c34ee1a64"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B_Explode.dae",
+    "size": [
+      0.13836600631475449,
+      0.6396959833800793,
+      0.4304639995098114
+    ],
+    "center_offset": [
+      0.14535600319504738,
+      0.36670798994600773,
+      0.023920997977256775
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "80971c3e-2079-4aa8-b142-50473f1273dc"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C_Destruct.dae",
+    "size": [
+      0.6447229981422424,
+      0.1225210008706199,
+      0.9716669917106628
+    ],
+    "center_offset": [
+      0.17075449228286743,
+      0.06107050042919582,
+      0.004892498254776001
+    ],
+    "uuid": "e145cb62-7615-4216-88cb-58f57d62a222"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C_Explode.dae",
+    "size": [
+      0.45157201401889324,
+      0.6396959833800793,
+      0.9798269867897034
+    ],
+    "center_offset": [
+      0.22132300678640604,
+      0.36670798994600773,
+      0.006494492292404175
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "c6c06c11-5b2b-4414-992b-6e5c9c8063ac"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D_Destruct.dae",
+    "size": [
+      0.7864309847354889,
+      0.12334999983431771,
+      0.8060280084609985
+    ],
+    "center_offset": [
+      0.24160848557949066,
+      0.06106999990879558,
+      -0.07792699337005615
+    ],
+    "uuid": "af0ca497-3c32-47ae-81ab-d53aa9af715f"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D_Explode.dae",
+    "size": [
+      0.2190020065754652,
+      0.6396959833800793,
+      0.72257199883461
+    ],
+    "center_offset": [
+      0.10503800306469202,
+      0.36670798994600773,
+      -0.12213300168514252
+    ]
+  },
+  {
+    "name": "LTS_DUN_Candles_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_D.dae",
+    "size": [
+      0.13533200323581696,
+      0.06413599848747253,
+      0.11452000215649605
+    ],
+    "center_offset": [
+      -0.0004329979419708252,
+      0.03206799924373627,
+      -0.0003570001572370529
+    ],
+    "uuid": "45ae4cf1-9fbd-4f80-b63f-6ca422f78966"
+  },
+  {
+    "name": "LTS_DUN_Candles_E.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_E.dae",
+    "size": [
+      0.22025100141763687,
+      0.26507699489593506,
+      0.23481999337673187
+    ],
+    "center_offset": [
+      5.029141902923584e-07,
+      0.13253849744796753,
+      0.0
+    ],
+    "uuid": "66843ac6-aca6-4003-9ab8-92f5ee1c37ba"
+  },
+  {
+    "name": "LTS_DUN_Candles_F.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_F.dae",
+    "size": [
+      0.24857600033283234,
+      0.694238007068634,
+      0.24182699620723724
+    ],
+    "center_offset": [
+      0.004458002746105194,
+      0.347119003534317,
+      -0.0022825002670288086
+    ],
+    "uuid": "ba5f854c-9b72-475f-8a11-07ed53bc6345"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "54d1aee4-3015-47ec-bdc2-8999582acbe0"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_Destruct.dae",
+    "size": [
+      2.703922986984253,
+      0.465124998241663,
+      3.887652039527893
+    ],
+    "center_offset": [
+      -0.20499050617218018,
+      0.2054894994944334,
+      -0.019005000591278076
+    ],
+    "uuid": "4ced85af-b955-4af9-806d-599d1eb68184"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_DMG.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_DMG.dae",
+    "size": [
+      2.085599958896637,
+      1.2974849678575993,
+      4.362228035926819
+    ],
+    "center_offset": [
+      -0.10012099146842957,
+      0.6299374829977751,
+      0.838591992855072
+    ],
+    "uuid": "c0878dfd-6365-4ff5-8230-6d8c0e65afbc"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_Explode.dae",
+    "size": [
+      1.4251960515975952,
+      1.7770649194717407,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -2.154951512813568,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
+    "size": [
+      1.4908980131149292,
+      2.9517138823866844,
+      1.4908980131149292
+    ],
+    "center_offset": [
+      0.0,
+      -1.4569569416344166,
+      0.0
+    ],
+    "uuid": "8aa49514-f69a-408b-98b2-67946d966522"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B_Destruct.dae",
+    "size": [
+      3.045340895652771,
+      0.42849799804389477,
+      4.145730972290039
+    ],
+    "center_offset": [
+      -0.25222450494766235,
+      0.1873819986358285,
+      -0.17701053619384766
+    ],
+    "uuid": "701e8405-2be9-47f3-b65e-38778d4b6596"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B_Explode.dae",
+    "size": [
+      1.4790780544281006,
+      1.6678019762039185,
+      1.4790780544281006
+    ],
+    "center_offset": [
+      0.0,
+      -2.0981239676475525,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
+    "size": [
+      2.3182098865509033,
+      3.3720969557762146,
+      2.3182098865509033
+    ],
+    "center_offset": [
+      0.0,
+      -1.6670794785022736,
+      0.0
+    ],
+    "uuid": "054d189d-4c0e-4013-8f38-c62db5be2dd2"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_Chain_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Chain_A.dae",
+    "size": [
+      0.07109799981117249,
+      1.5,
+      0.07109999656677246
+    ],
+    "center_offset": [
+      0.0,
+      0.75,
+      0.0
+    ],
+    "uuid": "a7882d0e-2c3b-47b2-b08e-aea07ae6e72f"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C_Destruct.dae",
+    "size": [
+      4.966422080993652,
+      0.545682992786169,
+      4.146975994110107
+    ],
+    "center_offset": [
+      -0.12897300720214844,
+      0.2215874958783388,
+      0.0790560245513916
+    ],
+    "uuid": "255f92bd-a07b-4607-bb35-7f9549f21369"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C_Explode.dae",
+    "size": [
+      2.3063900470733643,
+      1.8999038934707642,
+      2.3063900470733643
+    ],
+    "center_offset": [
+      0.0,
+      -2.2141069769859314,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Chandelier_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_D.dae",
+    "size": [
+      5.343321800231934,
+      14.959949493408203,
+      5.354946136474609
+    ],
+    "center_offset": [
+      0.0,
+      3.605426788330078,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Chandelier_E.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_E.dae",
+    "size": [
+      10.0514497756958,
+      17.59696102142334,
+      10.0514497756958
+    ],
+    "center_offset": [
+      0.0,
+      3.20151948928833,
+      0.0
+    ],
+    "uuid": "5ac3ca54-36ed-4dab-9d2f-677dee836d6e"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_Hinge_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Hinge_A.dae",
+    "size": [
+      0.21874099969863892,
+      0.3375459909439087,
+      0.22103700041770935
+    ],
+    "center_offset": [
+      4.991888999938965e-07,
+      0.00025600194931030273,
+      -4.991888999938965e-07
+    ],
+    "uuid": "5e7a35b1-649d-46ba-9739-f58fe9d23080"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A.dae",
+    "size": [
+      0.9942489862442017,
+      1.9362559899527696,
+      0.9942479729652405
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      -0.9680829949757026,
+      0.0
+    ],
+    "uuid": "e68026c9-a569-49b1-b623-520177fb551c"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A_Destruct.dae",
+    "size": [
+      1.0063659846782684,
+      0.3496760008856654,
+      1.3019710183143616
+    ],
+    "center_offset": [
+      0.00713600218296051,
+      0.16537500033155084,
+      -0.030392497777938843
+    ],
+    "uuid": "6acb7246-1ce0-4458-be27-2008529aca20"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A_Explode.dae",
+    "size": [
+      0.9845100045204163,
+      0.3561199903488159,
+      0.9845079779624939
+    ],
+    "center_offset": [
+      0.0,
+      -1.7581509947776794,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
+    "size": [
+      1.2552859783172607,
+      2.681264102226123,
+      1.2552859783172607
+    ],
+    "center_offset": [
+      0.0,
+      -1.3368660510750487,
+      0.0
+    ],
+    "uuid": "6c020872-87ed-41a5-a0f4-1b38a8d099c0"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B_Destruct.dae",
+    "size": [
+      2.325834035873413,
+      0.34158098977059126,
+      3.354774057865143
+    ],
+    "center_offset": [
+      0.25557804107666016,
+      0.16018849471583962,
+      -0.7265350520610809
+    ],
+    "uuid": "6f3036ab-842f-4a09-9d7e-954e108680bd"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B_Explode.dae",
+    "size": [
+      1.2469199895858765,
+      0.9693289995193481,
+      1.2469199895858765
+    ],
+    "center_offset": [
+      0.0,
+      -2.1801244616508484,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C.dae",
+    "size": [
+      1.5458959937095642,
+      3.5431811173912138,
+      1.504662036895752
+    ],
+    "center_offset": [
+      -0.0957690179347992,
+      -1.7730535586597398,
+      0.0
+    ],
+    "uuid": "59a595d5-3b27-4225-85f9-e0ddd9d4fbbe"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_A.dae",
+    "size": [
+      0.2692840099334717,
+      2.6530840136110783,
+      0.22103700041770935
+    ],
+    "center_offset": [
+      0.0,
+      1.2721690069884062,
+      -4.991888999938965e-07
+    ],
+    "uuid": "b442f5f2-28aa-4b83-a658-88f21d5134dc"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_B.dae",
+    "size": [
+      0.07109799981117249,
+      1.2267639636993408,
+      0.07109999656677246
+    ],
+    "center_offset": [
+      0.0,
+      0.6133819818496704,
+      0.0
+    ],
+    "uuid": "aa99ddc5-71ca-4e8e-a636-977905098904"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_C.dae",
+    "size": [
+      0.2794559895992279,
+      1.6392760276794434,
+      0.08162599802017212
+    ],
+    "center_offset": [
+      0.0,
+      0.8196380138397217,
+      0.0
+    ],
+    "uuid": "5fded4b3-17ab-4e3f-aeb9-62ee834d80a4"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_D.dae",
+    "size": [
+      0.2692840099334717,
+      2.694812059402466,
+      0.2692840099334717
+    ],
+    "center_offset": [
+      0.0,
+      1.347406029701233,
+      0.0
+    ],
+    "uuid": "88c9df04-136c-414f-acee-edc8bec52752"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_E.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_E.dae",
+    "size": [
+      0.2838520109653473,
+      2.7878189086914062,
+      0.2692840099334717
+    ],
+    "center_offset": [
+      0.0,
+      1.3939094543457031,
+      0.0
+    ],
+    "uuid": "9688c8a1-35eb-47aa-814d-0934c05d4fa1"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_Ring_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_Ring_A.dae",
+    "size": [
+      0.2878529876470566,
+      0.045382000505924225,
+      0.29864001274108887
+    ],
+    "center_offset": [
+      -0.004198499023914337,
+      0.0,
+      0.0
+    ],
+    "uuid": "0aa265f2-2e42-40d1-8c66-4d5330be0212"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C_Destruct.dae",
+    "size": [
+      2.1650919914245605,
+      0.8435090291313827,
+      1.8259570002555847
+    ],
+    "center_offset": [
+      -0.11326301097869873,
+      0.41851451457478106,
+      -0.16346147656440735
+    ],
+    "uuid": "a0b2d013-ead6-44df-80bd-2f6ed889ab51"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C_Explode.dae",
+    "size": [
+      1.5451500415802002,
+      1.9630451202392578,
+      1.504662036895752
+    ],
+    "center_offset": [
+      -0.0961419939994812,
+      -2.5631215572357178,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D.dae",
+    "size": [
+      1.302610993385315,
+      2.8173049222677946,
+      1.3026119470596313
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      -1.3906584614887834,
+      0.0
+    ],
+    "uuid": "56960503-2ce1-4eb7-9b55-8b50f0e513b0"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Destruct.dae",
+    "size": [
+      1.8767000436782837,
+      0.5735879745334387,
+      3.2018520832061768
+    ],
+    "center_offset": [
+      -0.1427820324897766,
+      0.2696129875257611,
+      0.16307401657104492
+    ],
+    "uuid": "3a12d501-4e55-42e0-aaa5-2c0eb4b85e2d"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Explode.dae",
+    "size": [
+      1.293138027191162,
+      2.094140946865082,
+      1.293138027191162
+    ],
+    "center_offset": [
+      0.0,
+      -1.7522404491901398,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Vista_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Vista_A.dae",
+    "size": [
+      1.302610993385315,
+      5.529311180114746,
+      1.3026100397109985
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      -2.764655590057373,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Hinge_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Hinge_A.dae",
+    "size": [
+      0.21874099969863892,
+      0.16869500279426575,
+      0.21742799878120422
+    ],
+    "center_offset": [
+      4.991888999938965e-07,
+      0.0029444992542266846,
+      0.0
+    ],
+    "uuid": "769e6ae6-0cdb-4e4b-ab06-10c1b8bead8f"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
+    "size": [
+      0.7306050062179565,
+      1.174767017364502,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.36530250310897827,
+      -0.2455275058746338,
+      0.0
+    ],
+    "uuid": "2fa884a9-6438-4c0d-a91c-3523de19cc74"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A_Destruct.dae",
+    "size": [
+      1.5920429825782776,
+      0.42966900719329715,
+      0.9683419764041901
+    ],
+    "center_offset": [
+      0.03747251629829407,
+      0.21091250353492796,
+      -0.24204199016094208
+    ],
+    "uuid": "e42e4e3e-5b16-4db9-a858-a14d84b9b33e"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A_Explode.dae",
+    "size": [
+      0.7390640061348677,
+      1.1701670289039612,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.3610730031505227,
+      -0.24782750010490417,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
+    "size": [
+      0.8638280034065247,
+      1.1763089895248413,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.43191400170326233,
+      -0.24629849195480347,
+      0.0
+    ],
+    "uuid": "32fc5314-17de-4a3c-844b-78b28ac44572"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B_Destruct.dae",
+    "size": [
+      1.9105899333953857,
+      0.4302709960611537,
+      1.8225560188293457
+    ],
+    "center_offset": [
+      -0.15260398387908936,
+      0.21670849801739678,
+      0.05315101146697998
+    ],
+    "uuid": "6baabe7e-1cb6-4227-9bef-d9de620cfbc2"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B_Explode.dae",
+    "size": [
+      0.8731660032644868,
+      1.1701670289039612,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.42724500177428126,
+      -0.24782750010490417,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
+    "size": [
+      0.8770310282707214,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.4385155141353607,
+      -0.3440629839897156,
+      0.0
+    ],
+    "uuid": "6a1000d4-6e55-48b0-a04e-cc9b6f92aa6f"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C_Destruct.dae",
+    "size": [
+      2.0269559621810913,
+      0.42375701293349266,
+      1.0176289677619934
+    ],
+    "center_offset": [
+      0.10793799161911011,
+      0.19068950600922108,
+      -0.06295248866081238
+    ],
+    "uuid": "1cc211fd-26b7-4e90-b4f2-b16ffb28b4f8"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C_Explode.dae",
+    "size": [
+      0.8836880284361541,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.43518701405264437,
+      -0.3440629839897156,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "fef058ec-35dc-451c-a0d1-2f2786a4eb7f"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Destruct.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D_Destruct.dae",
+    "size": [
+      2.081494987010956,
+      0.7363070137798786,
+      1.123831044882536
+    ],
+    "center_offset": [
+      -0.1237274706363678,
+      0.35142350755631924,
+      0.5745115224272013
+    ],
+    "uuid": "a1d58e10-886a-4125-8b3e-3fd3ebe119b4"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Explode.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D_Explode.dae",
+    "size": [
+      1.0447159621398896,
+      1.0748050063848495,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5194329811492935,
+      -0.41769350320100784,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_DUN_Wall_Holder_A.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_A.dae",
+    "size": [
+      0.987089991569519,
+      1.1839190125465393,
+      0.45032399892807007
+    ],
+    "center_offset": [
+      -0.4935449957847595,
+      -0.18934950232505798,
+      0.0
+    ],
+    "uuid": "d2793733-ad72-4d10-907d-c3c0aa426f31"
+  },
+  {
+    "name": "LTS_DUN_Wall_Holder_B.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_B.dae",
+    "size": [
+      1.5493049621582031,
+      1.1854739785194397,
+      0.45032399892807007
+    ],
+    "center_offset": [
+      -0.7746524810791016,
+      -0.19012698531150818,
+      0.0
+    ],
+    "uuid": "3969ae1b-c251-4fea-86c7-0f27fe8e7c8a"
+  },
+  {
+    "name": "LTS_DUN_Wall_Holder_C.dae",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_C.dae",
+    "size": [
+      2.0135529041290283,
+      1.3774029910564423,
+      0.5239179730415344
+    ],
+    "center_offset": [
+      -1.0067764520645142,
+      -0.22029449045658112,
+      0.0
+    ],
+    "uuid": "e0398a9d-61f0-4afd-9a9f-7677f0171537"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A.dae",
+    "size": [
+      0.4418399930000305,
+      0.8954129815101624,
+      0.4418399930000305
+    ],
+    "center_offset": [
+      0.0,
+      0.4477064907550812,
+      0.0
+    ],
+    "uuid": "3b89a5b7-e0b8-47f3-be55-070f9667a94a"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Destruct.dae",
+    "size": [
+      0.831497997045517,
+      0.5847399733029306,
+      1.1713370084762573
+    ],
+    "center_offset": [
+      0.09007801115512848,
+      0.2883249868173152,
+      -0.06221050024032593
+    ],
+    "uuid": "b06e267c-2fb9-49fa-beed-feafb334ac7f"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Explode.dae",
+    "size": [
+      0.4418399930000305,
+      0.8954129815101624,
+      0.4418399930000305
+    ],
+    "center_offset": [
+      0.0,
+      0.4477064907550812,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A.dae",
+    "size": [
+      0.5156779885292053,
+      1.8990570306777954,
+      0.5156790018081665
+    ],
+    "center_offset": [
+      0.0,
+      0.9495285153388977,
+      5.066394805908203e-07
+    ],
+    "uuid": "d012e575-6115-42a5-9183-50dd431c140a"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Destruct.dae",
+    "size": [
+      1.1414390206336975,
+      0.1411749969702214,
+      1.5211139619350433
+    ],
+    "center_offset": [
+      0.24101051688194275,
+      0.06668649858329445,
+      0.40306897461414337
+    ],
+    "uuid": "6d86fea3-eed7-4827-a278-f06e75047a78"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Explode.dae",
+    "size": [
+      0.5156779885292053,
+      1.8990570306777954,
+      0.5156790018081665
+    ],
+    "center_offset": [
+      0.0,
+      0.9495285153388977,
+      5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A.dae",
+    "size": [
+      0.20887999748811126,
+      0.6942320168018341,
+      0.29206299781799316
+    ],
+    "center_offset": [
+      -0.10039499890990555,
+      0.21984200179576874,
+      0.0001695007085800171
+    ],
+    "uuid": "32daab24-e429-4d39-81e8-132aa642a65b"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Destruct.dae",
+    "size": [
+      0.4407159835100174,
+      0.1551899965852499,
+      0.5461340099573135
+    ],
+    "center_offset": [
+      -0.038943998515605927,
+      0.0715379985049367,
+      0.062137000262737274
+    ],
+    "uuid": "9d6d8f2f-292f-4993-b28d-006582fc19b3"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Explode.dae",
+    "size": [
+      0.20887999748811126,
+      0.6942320168018341,
+      0.29206299781799316
+    ],
+    "center_offset": [
+      -0.10039499890990555,
+      0.21984200179576874,
+      0.0001695007085800171
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B.dae",
+    "size": [
+      0.25454801321029663,
+      0.8954129815101624,
+      0.4418399930000305
+    ],
+    "center_offset": [
+      0.0,
+      0.4477064907550812,
+      0.0004329979419708252
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B_Destruct.dae",
+    "size": [
+      0.7472690045833588,
+      0.582901006564498,
+      0.6913999915122986
+    ],
+    "center_offset": [
+      0.016386494040489197,
+      0.28924250323325396,
+      -0.05293199419975281
+    ],
+    "uuid": "713fb3ad-02f2-4750-a563-31a09c41926e"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B_Explode.dae",
+    "size": [
+      0.25454801321029663,
+      0.8954129815101624,
+      0.4418399930000305
+    ],
+    "center_offset": [
+      0.0,
+      0.4477064907550812,
+      0.0004329979419708252
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A.dae",
+    "size": [
+      0.4425959885120392,
+      0.92603999376297,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0,
+      0.463019996881485,
+      0.0
+    ],
+    "uuid": "1de375c3-a8eb-42b3-8089-4889131f6f03"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Destruct.dae",
+    "size": [
+      1.0605550408363342,
+      0.5801750137470663,
+      0.9829509854316711
+    ],
+    "center_offset": [
+      0.0092104971408844,
+      0.28864450682885945,
+      0.1596435010433197
+    ],
+    "uuid": "c5e42a7d-801c-428d-a9e6-1d3b144eb8a0"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Explode.dae",
+    "size": [
+      0.4425959885120392,
+      0.8846739940345287,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0,
+      0.4837029967457056,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A.dae",
+    "size": [
+      0.5196800231933594,
+      1.8816380500793457,
+      0.5196800231933594
+    ],
+    "center_offset": [
+      0.0,
+      0.9408190250396729,
+      0.0
+    ],
+    "uuid": "24713e2e-99e4-4e73-a53b-c31d3f45bbc4"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Destruct.dae",
+    "size": [
+      0.9751289784908295,
+      1.4149280483834445,
+      1.1772480010986328
+    ],
+    "center_offset": [
+      -0.061270490288734436,
+      0.7053700240794569,
+      0.07866501808166504
+    ],
+    "uuid": "6cf3eb96-96eb-4ff2-a628-07b68ab5a81a"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Explode.dae",
+    "size": [
+      0.5196800231933594,
+      1.8816380500793457,
+      0.5196800231933594
+    ],
+    "center_offset": [
+      0.0,
+      0.9408190250396729,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A.dae",
+    "size": [
+      0.1839460066985339,
+      0.6971109956502914,
+      0.2972380071878433
+    ],
+    "center_offset": [
+      -0.09093000332359225,
+      0.21976149827241898,
+      0.0015550032258033752
+    ],
+    "uuid": "b6f1f91d-5871-4a9e-b4ae-138dfb1619ec"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Destruct.dae",
+    "size": [
+      0.6912009865045547,
+      0.1212220024317503,
+      0.4763779938220978
+    ],
+    "center_offset": [
+      -0.11587949842214584,
+      0.047233001329004765,
+      -0.09798599779605865
+    ],
+    "uuid": "8fdb6160-9d05-4ce2-90a3-2bfe79bfa4e3"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Explode.dae",
+    "size": [
+      0.1816620014142245,
+      0.6971109956502914,
+      0.27430300414562225
+    ],
+    "center_offset": [
+      -0.08978800068143755,
+      0.21976149827241898,
+      0.0007834956049919128
+    ]
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B.dae",
+    "size": [
+      0.309689998626709,
+      0.9363129734992981,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0,
+      0.46815648674964905,
+      0.0
+    ],
+    "uuid": "bdaf6927-98ee-4489-afdf-206e0e33872d"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B_Destruct.dae",
+    "size": [
+      0.5024330168962479,
+      0.28083101380616426,
+      1.0384530127048492
+    ],
+    "center_offset": [
+      0.08884250372648239,
+      0.13432250684127212,
+      0.1109275072813034
+    ],
+    "uuid": "41b21462-c0d0-4988-96ba-7646b439a259"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B_Explode.dae",
+    "size": [
+      0.2575879991054535,
+      0.9363129734992981,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0009219944477081299,
+      0.46815648674964905,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B.dae",
+    "size": [
+      0.28093400597572327,
+      0.6005460023880005,
+      0.24329599738121033
+    ],
+    "center_offset": [
+      0.0,
+      0.30027300119400024,
+      0.0
+    ],
+    "uuid": "755f32c6-7f53-40a0-8141-85d892c9c361"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B_Destruct.dae",
+    "size": [
+      0.7678010165691376,
+      0.19095700047910213,
+      0.7872789800167084
+    ],
+    "center_offset": [
+      -0.012677505612373352,
+      0.08171450067311525,
+      -0.08485250174999237
+    ],
+    "uuid": "ad5c92d4-c9fd-4b3a-9ef5-b530d1e7cdba"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B_Explode.dae",
+    "size": [
+      0.28093400597572327,
+      0.6030349731445312,
+      0.2432970032095909
+    ],
+    "center_offset": [
+      0.0,
+      0.3015174865722656,
+      -0.08489250019192696
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C_Destruct.dae",
+    "size": [
+      0.9398240149021149,
+      0.20686200633645058,
+      0.7077570259571075
+    ],
+    "center_offset": [
+      -0.03919999301433563,
+      0.08944800309836864,
+      -0.26018451154232025
+    ],
+    "uuid": "2d58f2e1-4574-4af4-b460-959146a41f0d"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C_Explode.dae",
+    "size": [
+      0.3194980025291443,
+      0.602469022385776,
+      0.2822610028088093
+    ],
+    "center_offset": [
+      0.0,
+      0.290012510959059,
+      -0.0848935004323721
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Destruct.dae",
+    "size": [
+      3.3596760034561157,
+      0.3406070005148649,
+      4.305356979370117
+    ],
+    "center_offset": [
+      0.14994198083877563,
+      0.15083050075918436,
+      -0.29767847061157227
+    ],
+    "uuid": "d5994401-e7ce-433e-b218-bfd1d25531cc"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Explode.dae",
+    "size": [
+      1.1611990332603455,
+      5.0292808301746845,
+      0.44711199402809143
+    ],
+    "center_offset": [
+      0.002240508794784546,
+      2.5024394150823355,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Destruct.dae",
+    "size": [
+      2.8495800495147705,
+      1.0944440141320229,
+      5.0887280106544495
+    ],
+    "center_offset": [
+      -0.35154497623443604,
+      0.49141300842165947,
+      -2.11523100733757
+    ],
+    "uuid": "c5811f72-3478-46d0-956a-c124ac7512bf"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Explode.dae",
+    "size": [
+      1.3490099906921387,
+      4.873113201690671,
+      0.5240819901227951
+    ],
+    "center_offset": [
+      -0.004036009311676025,
+      2.436555600845338,
+      -0.03848499804735184
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B_Destruct.dae",
+    "size": [
+      2.575576066970825,
+      0.4830350037664175,
+      3.3189339637756348
+    ],
+    "center_offset": [
+      0.09431302547454834,
+      0.2282225014641881,
+      0.010136008262634277
+    ],
+    "uuid": "85b8076c-fa3c-4dd3-888c-e0beffa64073"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B_Explode.dae",
+    "size": [
+      1.3794639706611633,
+      4.976146221160889,
+      1.155134990811348
+    ],
+    "center_offset": [
+      0.019713014364242554,
+      2.4880731105804443,
+      -0.35401149839162827
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C_Destruct.dae",
+    "size": [
+      3.5314509868621826,
+      0.427813995629549,
+      4.72379195690155
+    ],
+    "center_offset": [
+      -0.0651174783706665,
+      0.17988899908959866,
+      -0.4711499810218811
+    ],
+    "uuid": "2a1d304e-e01b-41ca-97eb-ee03efe60b63"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C_Explode.dae",
+    "size": [
+      1.1305570006370544,
+      4.725265979766846,
+      0.5413380265235901
+    ],
+    "center_offset": [
+      -4.500150680541992e-06,
+      2.362632989883423,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A_Destruct.dae",
+    "size": [
+      1.991051971912384,
+      0.30679499730467796,
+      1.206837996840477
+    ],
+    "center_offset": [
+      0.3822689950466156,
+      0.10860049910843372,
+      0.45861000567674637
+    ],
+    "uuid": "5ca93769-43e6-469a-883f-f51b21a8fa54"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A_Explode.dae",
+    "size": [
+      1.303709028288722,
+      1.2114960104227066,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.6310315141454339,
+      0.4406610056757927,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B_Destruct.dae",
+    "size": [
+      1.8867679983377457,
+      0.2859239988029003,
+      1.4774539768695831
+    ],
+    "center_offset": [
+      0.8177120015025139,
+      0.09778800047934055,
+      -0.269350990653038
+    ],
+    "uuid": "c62f2f00-9d32-45aa-b770-19b3f11d925b"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B_Explode.dae",
+    "size": [
+      1.4013279676437378,
+      1.2070840150117874,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.7006639838218689,
+      0.4428670033812523,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C_Destruct.dae",
+    "size": [
+      1.3841760158538818,
+      0.20479799434542656,
+      1.1114960014820099
+    ],
+    "center_offset": [
+      0.4897890090942383,
+      0.07094999589025974,
+      -0.18377499282360077
+    ],
+    "uuid": "d48386fc-4ac9-418b-97a4-638d41e41f52"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C_Explode.dae",
+    "size": [
+      0.6019130155909806,
+      1.1415150165557861,
+      0.28331199288368225
+    ],
+    "center_offset": [
+      0.3037425078218803,
+      0.24456149339675903,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_D_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D_Destruct.dae",
+    "size": [
+      2.391049027442932,
+      0.26109899836592376,
+      1.5212710499763489
+    ],
+    "center_offset": [
+      0.15346449613571167,
+      0.12928949913475662,
+      -0.12867650389671326
+    ],
+    "uuid": "3d2fa3e8-94fc-4c08-b287-cbe6bbe48e80"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_D_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D_Explode.dae",
+    "size": [
+      1.3664569854736328,
+      1.2070840150117874,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.6832284927368164,
+      0.4428670033812523,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A.dae",
+    "size": [
+      0.6372780203819275,
+      1.3091689645516453,
+      0.6372780203819275
+    ],
+    "center_offset": [
+      0.0,
+      0.6544834822780103,
+      0.0
+    ],
+    "uuid": "be496ad1-8367-430f-ab76-967d259f64bc"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A_Destruct.dae",
+    "size": [
+      1.55458402633667,
+      0.563056007027626,
+      1.4359570145606995
+    ],
+    "center_offset": [
+      0.13240700960159302,
+      0.2631570026278496,
+      -0.26778849959373474
+    ],
+    "uuid": "2812319b-fd91-4d52-8d3f-f25ee4f9654e"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A_Explode.dae",
+    "size": [
+      0.6372780203819275,
+      1.309491964551853,
+      0.6372780203819275
+    ],
+    "center_offset": [
+      0.0,
+      0.6543219822779065,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B.dae",
+    "size": [
+      0.9533519744873047,
+      1.5449459430674324,
+      0.629065990447998
+    ],
+    "center_offset": [
+      0.0,
+      0.7723059715281124,
+      0.0
+    ],
+    "uuid": "63ef5abf-f51c-4d11-a393-c8c13f530020"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B_Destruct.dae",
+    "size": [
+      2.2381529808044434,
+      0.5628180271014571,
+      1.6939839124679565
+    ],
+    "center_offset": [
+      -0.3223865032196045,
+      0.2696290132589638,
+      0.20345598459243774
+    ],
+    "uuid": "ab4ac4e0-f9af-424e-b205-e907ce353dad"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B_Explode.dae",
+    "size": [
+      0.9533519744873047,
+      1.5449459430674324,
+      0.6306969821453094
+    ],
+    "center_offset": [
+      0.0,
+      0.7723059715281124,
+      0.0008154958486557007
+    ]
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C.dae",
+    "size": [
+      0.5293279886245728,
+      1.301344968873309,
+      0.5184130072593689
+    ],
+    "center_offset": [
+      -0.008430004119873047,
+      0.6502174844354158,
+      0.004131495952606201
+    ],
+    "uuid": "45d48cb3-7d74-4b06-9822-c6e5a9d18530"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C_Destruct.dae",
+    "size": [
+      1.6278990507125854,
+      0.3924420038238168,
+      2.0075040459632874
+    ],
+    "center_offset": [
+      0.12853050231933594,
+      0.18146800203248858,
+      0.2426060140132904
+    ],
+    "uuid": "bdd69c1a-84b8-44d4-8dd9-9bba3d1af51a"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C_Explode.dae",
+    "size": [
+      0.5292780101299286,
+      1.29742998292204,
+      0.5169160068035126
+    ],
+    "center_offset": [
+      -0.009251996874809265,
+      0.6486389914643951,
+      0.0023149996995925903
+    ]
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_D.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D.dae",
+    "size": [
+      0.7816839814186096,
+      1.31035405700095,
+      0.7705379724502563
+    ],
+    "center_offset": [
+      0.0,
+      0.654872028506361,
+      0.0
+    ],
+    "uuid": "d058f3bf-42e3-4a91-a6e3-87f67da0142d"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_D_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D_Destruct.dae",
+    "size": [
+      2.331358015537262,
+      0.4402659945189953,
+      2.0126149654388428
+    ],
+    "center_offset": [
+      0.5595429837703705,
+      0.18847299553453922,
+      0.1836555004119873
+    ],
+    "uuid": "1a031b70-7706-467c-b7d2-eaf307f677e6"
+  },
+  {
+    "name": "LTS_GEN_Crystal_Vase_Green_D_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D_Explode.dae",
+    "size": [
+      0.7816839814186096,
+      1.3105039506044704,
+      0.7705379724502563
+    ],
+    "center_offset": [
+      0.0,
+      0.654981975312694,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A_Destruct.dae",
+    "size": [
+      1.1675920486450195,
+      0.7289120219647884,
+      1.5309080481529236
+    ],
+    "center_offset": [
+      -0.02371799945831299,
+      0.3408880103379488,
+      0.42047300934791565
+    ],
+    "uuid": "c4cad16e-499c-41bd-ab6c-b2a6746c05c4"
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A_Explode.dae",
+    "size": [
+      0.8123269975185394,
+      0.700935029424727,
+      0.8123269975185394
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.3430495145730674,
+      0.0002375096082687378
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B_Destruct.dae",
+    "size": [
+      1.178745985031128,
+      0.48868999257683754,
+      3.2601720094680786
+    ],
+    "center_offset": [
+      0.25709599256515503,
+      0.21170599572360516,
+      0.21403104066848755
+    ],
+    "uuid": "94f5134f-1892-426b-8649-13ec872d80fa"
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B_Explode.dae",
+    "size": [
+      0.7052639722824097,
+      1.730202996172011,
+      0.7052639722824097
+    ],
+    "center_offset": [
+      0.0,
+      0.8576834979467094,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C_Destruct.dae",
+    "size": [
+      4.020155906677246,
+      1.6846710108220577,
+      4.535738110542297
+    ],
+    "center_offset": [
+      -0.3071169853210449,
+      0.7798465061932802,
+      -0.6138460040092468
+    ],
+    "uuid": "108e61ff-a376-43a6-8c49-841ee855ef24"
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C_Explode.dae",
+    "size": [
+      2.483687996864319,
+      6.344646085985005,
+      1.1901330351829529
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      3.15797204291448,
+      5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A.dae",
+    "size": [
+      0.5043600052595139,
+      1.2275529652833939,
+      0.4182880073785782
+    ],
+    "center_offset": [
+      0.00700000673532486,
+      0.45273347944021225,
+      0.017559997737407684
+    ],
+    "uuid": "ba81625d-e066-4d76-9693-f33b149c025a"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A_Destruct.dae",
+    "size": [
+      0.9967989921569824,
+      0.49545401334762573,
+      1.4968530237674713
+    ],
+    "center_offset": [
+      0.3100464940071106,
+      0.09930300712585449,
+      -0.5423595160245895
+    ],
+    "uuid": "0d56891f-e798-4ffa-94ac-09e5ed6f1d46"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A_Explode.dae",
+    "size": [
+      0.49035999178886414,
+      1.2029129415750504,
+      0.406469002366066
+    ],
+    "center_offset": [
+      0.0,
+      0.44955747574567795,
+      0.020276494324207306
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B.dae",
+    "size": [
+      0.6924030184745789,
+      1.0782959684729576,
+      0.45634500682353973
+    ],
+    "center_offset": [
+      0.0003165006637573242,
+      0.4220319874584675,
+      0.045588500797748566
+    ],
+    "uuid": "f31aa231-f511-4c69-96e8-34563acb01aa"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B_Destruct.dae",
+    "size": [
+      1.3727000057697296,
+      0.5808340013027191,
+      1.1598990112543106
+    ],
+    "center_offset": [
+      0.3617139905691147,
+      0.16957800090312958,
+      -0.34671150892972946
+    ],
+    "uuid": "e92cee5f-4e7a-46d5-9f61-6da9319cd4c2"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B_Explode.dae",
+    "size": [
+      0.6848180294036865,
+      1.063345991075039,
+      0.45507900416851044
+    ],
+    "center_offset": [
+      0.0,
+      0.41455699875950813,
+      0.04586649686098099
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C.dae",
+    "size": [
+      0.4911870062351227,
+      1.024150013923645,
+      0.46153101325035095
+    ],
+    "center_offset": [
+      0.002284497022628784,
+      0.3172760009765625,
+      0.04444350302219391
+    ],
+    "uuid": "73f05807-1d69-427f-b586-f61c89142ad8"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C_Destruct.dae",
+    "size": [
+      1.0376099944114685,
+      0.502480998635292,
+      0.6779139935970306
+    ],
+    "center_offset": [
+      0.3237279951572418,
+      0.06358649581670761,
+      -0.1262959986925125
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C_Explode.dae",
+    "size": [
+      0.4866180121898651,
+      0.9871880263090134,
+      0.45256999135017395
+    ],
+    "center_offset": [
+      0.0,
+      0.3094550147652626,
+      0.045802995562553406
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_D.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D.dae",
+    "size": [
+      0.5835370123386383,
+      1.2406200170516968,
+      0.5799189954996109
+    ],
+    "center_offset": [
+      0.0011215060949325562,
+      0.49424201250076294,
+      -0.059490494430065155
+    ],
+    "uuid": "67c050c7-ad41-4c48-83bb-e031f791d12a"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_D_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D_Destruct.dae",
+    "size": [
+      1.0087480247020721,
+      0.4985730051994324,
+      2.0926310047507286
+    ],
+    "center_offset": [
+      -0.15838201344013214,
+      0.12813550233840942,
+      -0.9480335004627705
+    ],
+    "uuid": "7cc4b270-71c0-4732-9ecc-92a846728733"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_D_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D_Explode.dae",
+    "size": [
+      0.5812940001487732,
+      1.2258770167827606,
+      0.5621260106563568
+    ],
+    "center_offset": [
+      0.0,
+      0.49212850630283356,
+      -0.0548350065946579
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
+    "size": [
+      1.0944010019302368,
+      1.6030709743499756,
+      1.1927319765090942
+    ],
+    "center_offset": [
+      -0.023241519927978516,
+      0.6179854869842529,
+      -0.1151919960975647
+    ],
+    "uuid": "9ef7a1c5-c2fb-4066-8d4d-5c02b362657e"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A_Destruct.dae",
+    "size": [
+      3.499622941017151,
+      0.6492490023374557,
+      2.753311038017273
+    ],
+    "center_offset": [
+      -0.5653354525566101,
+      0.1476135030388832,
+      -0.5682885050773621
+    ],
+    "uuid": "bc49ee8c-8f64-44e1-a261-ce26e3b74c1d"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A_Explode.dae",
+    "size": [
+      1.0932719707489014,
+      1.5949670523405075,
+      1.1866559982299805
+    ],
+    "center_offset": [
+      -0.02267700433731079,
+      0.6186855211853981,
+      -0.11822998523712158
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
+    "size": [
+      1.3709440231323242,
+      1.8609149754047394,
+      1.2979450225830078
+    ],
+    "center_offset": [
+      0.12567400932312012,
+      0.5104474872350693,
+      -0.04741048812866211
+    ],
+    "uuid": "aca9db37-c967-47e3-99e5-81f67d532392"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B_Destruct.dae",
+    "size": [
+      2.5248709321022034,
+      0.9943699687719345,
+      2.6624330282211304
+    ],
+    "center_offset": [
+      0.31845948100090027,
+      0.348658986389637,
+      -0.2753484845161438
+    ],
+    "uuid": "8238af16-f077-4166-a9b9-7b6a358c4457"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B_Explode.dae",
+    "size": [
+      1.363122045993805,
+      1.8188770413398743,
+      1.2906479835510254
+    ],
+    "center_offset": [
+      0.12958499789237976,
+      0.5113085210323334,
+      -0.04664301872253418
+    ]
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C.dae",
+    "size": [
+      1.5491830110549927,
+      1.9841820001602173,
+      1.5390769839286804
+    ],
+    "center_offset": [
+      0.2745404839515686,
+      0.4679639935493469,
+      -0.06580349802970886
+    ],
+    "uuid": "bef9e643-19de-492b-853e-a0242328ff97"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C_Destruct.dae",
+    "size": [
+      4.036197900772095,
+      0.7682920098304749,
+      2.5751360654830933
+    ],
+    "center_offset": [
+      -0.20000898838043213,
+      0.09828400611877441,
+      -0.18435698747634888
+    ],
+    "uuid": "f30d35c9-59d0-4e38-95d2-a0caaedb7da8"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C_Explode.dae",
+    "size": [
+      1.5283129513263702,
+      1.9677749872207642,
+      1.4951819777488708
+    ],
+    "center_offset": [
+      0.26970647275447845,
+      0.45976048707962036,
+      -0.08419099450111389
+    ]
+  },
+  {
+    "name": "LTS_GEN_Lantern_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A.dae",
+    "size": [
+      0.4080379903316498,
+      0.8321790099143982,
+      0.4704900085926056
+    ],
+    "center_offset": [
+      0.0,
+      0.16258850693702698,
+      -0.2352450042963028
+    ],
+    "uuid": "3a25abfa-bf78-4bb5-a44e-71e9703bddd5"
+  },
+  {
+    "name": "LTS_GEN_Lantern_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A_Destruct.dae",
+    "size": [
+      1.4414340257644653,
+      0.24376899423077703,
+      1.1092770099639893
+    ],
+    "center_offset": [
+      -0.19201600551605225,
+      0.11632449715398252,
+      0.008732497692108154
+    ],
+    "uuid": "53d69117-04bf-4382-992d-90791b37ed07"
+  },
+  {
+    "name": "LTS_GEN_Lantern_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A_Explode.dae",
+    "size": [
+      0.4080379903316498,
+      0.8321790099143982,
+      0.4704900085926056
+    ],
+    "center_offset": [
+      0.0,
+      0.16258850693702698,
+      -0.2352450042963028
+    ]
+  },
+  {
+    "name": "LTS_GEN_Lantern_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B.dae",
+    "size": [
+      0.4080369919538498,
+      1.099815011024475,
+      0.5422350093722343
+    ],
+    "center_offset": [
+      -4.991888999938965e-07,
+      0.5499075055122375,
+      -0.17149150744080544
+    ],
+    "uuid": "1fe2c9a6-0ba7-4608-8a30-d9199c274117"
+  },
+  {
+    "name": "LTS_GEN_Lantern_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B_Destruct.dae",
+    "size": [
+      1.5778760612010956,
+      0.2647919924929738,
+      1.915755033493042
+    ],
+    "center_offset": [
+      -0.3058120161294937,
+      0.13716499647125602,
+      -0.052785515785217285
+    ],
+    "uuid": "7cdc935c-a92f-407d-8b2e-423c9d036769"
+  },
+  {
+    "name": "LTS_GEN_Lantern_B_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B_Explode.dae",
+    "size": [
+      0.4080369919538498,
+      1.0966520309448242,
+      0.5386070087552071
+    ],
+    "center_offset": [
+      -4.991888999938965e-07,
+      0.5483260154724121,
+      -0.17330550774931908
+    ]
+  },
+  {
+    "name": "LTS_GEN_Sconce_Wall_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A.dae",
+    "size": [
+      0.3592720031738281,
+      0.8486799895763397,
+      0.49059900641441345
+    ],
+    "center_offset": [
+      5.6996941566467285e-05,
+      0.018713995814323425,
+      -0.1724175065755844
+    ],
+    "uuid": "27c9e0db-eec7-4b1e-97be-ff74e3773284"
+  },
+  {
+    "name": "LTS_GEN_Sconce_Wall_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A_Destruct.dae",
+    "size": [
+      1.7030070424079895,
+      0.33146399073302746,
+      0.5421580076217651
+    ],
+    "center_offset": [
+      -0.1565144956111908,
+      0.1544159958139062,
+      -0.01046299934387207
+    ],
+    "uuid": "79dd2dcf-110d-4d05-b4fd-8b9750e62f0f"
+  },
+  {
+    "name": "LTS_GEN_Sconce_Wall_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A_Explode.dae",
+    "size": [
+      0.3592720031738281,
+      0.843080997467041,
+      0.47992101311683655
+    ],
+    "center_offset": [
+      5.6996941566467285e-05,
+      0.02151349186897278,
+      -0.17756150662899017
+    ]
+  },
+  {
+    "name": "LTS_GEN_SpearTorch_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_SpearTorch_ABC/Resources/LTS_GEN_SpearTorch_A.dae",
+    "size": [
+      0.14452600479125977,
+      2.458333021728322,
+      0.05861099995672703
+    ],
+    "center_offset": [
+      0.0,
+      1.2267835108796135,
+      0.0006264997646212578
+    ],
+    "uuid": "9a8bbeba-850c-402f-bac5-ff15696e6497"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Cluster_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_A.dae",
+    "size": [
+      2.4506669640541077,
+      0.9981749877333641,
+      3.562121033668518
+    ],
+    "center_offset": [
+      -0.30403050780296326,
+      0.39174749329686165,
+      0.04187649488449097
+    ],
+    "uuid": "b0d55901-0a23-4361-8345-2eed70a2bc76"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Cluster_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_A_Destruct.dae",
+    "size": [
+      2.4506669640541077,
+      0.6314360126852989,
+      3.4971070289611816
+    ],
+    "center_offset": [
+      -0.30403050780296326,
+      0.20837800577282906,
+      0.009369492530822754
+    ],
+    "uuid": "0b41a1c9-e52c-4a92-bb40-f36c657cb032"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Cluster_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_B.dae",
+    "size": [
+      3.0280929803848267,
+      0.9845769852399826,
+      2.21410596370697
+    ],
+    "center_offset": [
+      0.36237651109695435,
+      0.3179124966263771,
+      -0.3270949721336365
+    ],
+    "uuid": "2044bba0-096e-4171-affa-9729bf79b251"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Cluster_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_B_Destruct.dae",
+    "size": [
+      3.0280929803848267,
+      0.4437289983034134,
+      2.21410596370697
+    ],
+    "center_offset": [
+      0.36237651109695435,
+      0.0474885031580925,
+      -0.3270949721336365
+    ],
+    "uuid": "f0fee1d0-e722-4897-ba3f-0a0055ae5d8a"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Hanging_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_A.dae",
+    "size": [
+      1.1416890025138855,
+      2.2702220678329468,
+      1.1022649705410004
+    ],
+    "center_offset": [
+      0.04905948042869568,
+      -1.0308440327644348,
+      0.05991549789905548
+    ],
+    "uuid": "c3c2969b-ae23-4d09-80dd-189df9614b9f"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Hanging_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_A_Destruct.dae",
+    "size": [
+      1.1416890025138855,
+      0.39771899580955505,
+      1.1022649705410004
+    ],
+    "center_offset": [
+      0.04905948042869568,
+      -0.09459249675273895,
+      0.05991549789905548
+    ],
+    "uuid": "3d221f9e-1f15-43f4-ad82-016033ab59c6"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Hanging_B.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_B.dae",
+    "size": [
+      6.694590091705322,
+      2.611806035041809,
+      2.714607000350952
+    ],
+    "center_offset": [
+      0.0,
+      -0.6613510251045227,
+      0.16896355152130127
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "LTS_GEN_Spider_Eggs_Hanging_B_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_B_Destruct.dae",
+    "size": [
+      6.694590091705322,
+      2.229810953140259,
+      2.714607000350952
+    ],
+    "center_offset": [
+      0.0,
+      -0.47035348415374756,
+      0.16896355152130127
+    ],
+    "uuid": "f6fb8319-46c4-4e05-b887-79cb4c207d99"
+  },
+  {
+    "name": "LTS_GEN_Torch_A.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A.dae",
+    "size": [
+      0.19144300371408463,
+      2.1285181045532227,
+      0.19289600104093552
+    ],
+    "center_offset": [
+      0.010626498609781265,
+      1.0642590522766113,
+      -0.0178459994494915
+    ],
+    "uuid": "9429fe44-1eb2-4589-861e-6257a2a41553"
+  },
+  {
+    "name": "LTS_GEN_Torch_A_Destruct.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A_Destruct.dae",
+    "size": [
+      1.3518039882183075,
+      0.16721400641836226,
+      1.9854090213775635
+    ],
+    "center_offset": [
+      0.24980200827121735,
+      0.07990500319283456,
+      0.6119405031204224
+    ],
+    "uuid": "fd7471b6-b642-4be1-b00e-ea4712f5f579"
+  },
+  {
+    "name": "LTS_GEN_Torch_A_Explode.dae",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A_Explode.dae",
+    "size": [
+      0.19144300371408463,
+      2.128519058227539,
+      0.19247599691152573
+    ],
+    "center_offset": [
+      0.010626498609781265,
+      1.0642595291137695,
+      -0.018056001514196396
+    ]
+  },
+  {
+    "name": "LTS_Goblins_Camp_Torch_A.dae",
+    "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A.dae",
+    "size": [
+      0.41940099000930786,
+      2.0029200054705143,
+      0.45207299292087555
+    ],
+    "center_offset": [
+      0.01956149935722351,
+      0.9550050031393766,
+      -0.00485750287771225
+    ],
+    "uuid": "584c6848-5123-4ced-9354-3791853206bb"
+  },
+  {
+    "name": "LTS_Goblins_Camp_Torch_A_Destruct.dae",
+    "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A_Destruct.dae",
+    "size": [
+      0.7727749794721603,
+      0.4387749955058098,
+      1.6799290031194687
+    ],
+    "center_offset": [
+      0.4482264891266823,
+      0.17441749945282936,
+      0.6407744958996773
+    ],
+    "uuid": "84d9bca4-3ce1-4666-b2f5-d6dfcf6f9c2a"
+  },
+  {
+    "name": "LTS_Goblins_Camp_Torch_A_Explode.dae",
+    "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A_Explode.dae",
+    "size": [
+      0.41940099000930786,
+      2.0013740062713623,
+      0.45207299292087555
+    ],
+    "center_offset": [
+      0.01956149935722351,
+      0.9557780027389526,
+      -0.00485750287771225
+    ]
+  },
+  {
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B.dae",
+    "size": [
+      1.5901179909706116,
+      1.3596199564635754,
+      1.498095989227295
+    ],
+    "center_offset": [
+      -0.001810997724533081,
+      0.6503539774566889,
+      0.0
+    ],
+    "uuid": "ce03f590-98ad-4e81-825c-654a00b30c98"
+  },
+  {
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "size": [
+      2.6404649019241333,
+      0.6004120213910937,
+      1.9452500343322754
+    ],
+    "center_offset": [
+      -0.07766050100326538,
+      0.29280501091852784,
+      -0.05601298809051514
+    ],
+    "uuid": "d590eda9-324b-44d3-975e-6722f43bac1b"
+  },
+  {
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "size": [
+      1.5864959955215454,
+      1.3596199564635754,
+      1.498095989227295
+    ],
+    "center_offset": [
+      0.0,
+      0.6503539774566889,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GOB_Camp_Firebowl_A.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_A.dae",
+    "size": [
+      2.0961899757385254,
+      10.201786041259766,
+      2.0025320053100586
+    ],
+    "center_offset": [
+      -0.046954989433288574,
+      5.100893020629883,
+      0.0
+    ],
+    "uuid": "a728776a-bd0b-49ac-a198-6183a99e9060"
+  },
+  {
+    "name": "LTS_GOB_Camp_Firebowl_B.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B.dae",
+    "size": [
+      2.650197982788086,
+      2.2660341188311577,
+      2.496828079223633
+    ],
+    "center_offset": [
+      -0.003018021583557129,
+      1.0839240588247776,
+      0.0
+    ],
+    "uuid": "2c60ad1d-d2ff-4168-8070-bca528634d37"
+  },
+  {
+    "name": "LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "size": [
+      3.9812790155410767,
+      1.033224979415536,
+      4.547264933586121
+    ],
+    "center_offset": [
+      -0.07122749090194702,
+      0.5035264892503619,
+      -0.4089534878730774
+    ],
+    "uuid": "6deecb58-90cd-4432-bc6b-e7f1b8ac93d4"
+  },
+  {
+    "name": "LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "size": [
+      2.6441619396209717,
+      2.2660341188311577,
+      2.496828079223633
+    ],
+    "center_offset": [
+      0.0,
+      1.0839240588247776,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_A.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A.dae",
+    "size": [
+      0.7240340113639832,
+      2.1768269538879395,
+      0.8284839987754822
+    ],
+    "center_offset": [
+      0.0,
+      1.0884134769439697,
+      0.0
+    ],
+    "uuid": "43ff153f-81f3-4ba1-8190-c2aa20cbf24d"
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_A_Destruct.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A_Destruct.dae",
+    "size": [
+      2.3060649633407593,
+      0.3103949981741607,
+      1.9804799556732178
+    ],
+    "center_offset": [
+      0.03231745958328247,
+      0.14913749904371798,
+      0.056033968925476074
+    ],
+    "uuid": "b08b0d53-7ee4-4ad3-ae5f-e647069e76bd"
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_A_Explode.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A_Explode.dae",
+    "size": [
+      0.7240340113639832,
+      2.1768269538879395,
+      0.8284839987754822
+    ],
+    "center_offset": [
+      0.0,
+      1.0884134769439697,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_B.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B.dae",
+    "size": [
+      1.189309000968933,
+      1.8646809794008732,
+      1.028681993484497
+    ],
+    "center_offset": [
+      0.0036734938621520996,
+      0.8997374903410673,
+      0.0
+    ],
+    "uuid": "f94a7102-ec62-4f14-8df7-3b96d419d9ed"
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_B_Destruct.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B_Destruct.dae",
+    "size": [
+      2.231603980064392,
+      0.2892350135371089,
+      2.810428887605667
+    ],
+    "center_offset": [
+      -0.5387709736824036,
+      0.14178650686517358,
+      0.9147504419088364
+    ],
+    "uuid": "a9228fa4-b2c4-43f7-adfc-3ae038a7752f"
+  },
+  {
+    "name": "LTS_GOB_Camp_Torch_B_Explode.dae",
+    "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B_Explode.dae",
+    "size": [
+      1.172984004020691,
+      1.8646809794008732,
+      1.028681993484497
+    ],
+    "center_offset": [
+      0.0,
+      0.8997374903410673,
+      0.0
+    ]
+  },
+  {
+    "name": "LTS_HAG_Torch_A.dae",
+    "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A.dae",
+    "size": [
+      0.9687209725379944,
+      2.1320530942175537,
+      0.6581839919090271
+    ],
+    "center_offset": [
+      0.039248496294021606,
+      1.064555547083728,
+      -0.020469993352890015
+    ],
+    "uuid": "4946d878-c300-44b5-bb53-1dd92bdb98c2"
+  },
+  {
+    "name": "LTS_HAG_Torch_A_Destruct.dae",
+    "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A_Destruct.dae",
+    "size": [
+      1.876358985900879,
+      0.9224919704720378,
+      2.1087509393692017
+    ],
+    "center_offset": [
+      -0.4204314947128296,
+      0.4512499854899943,
+      -0.03511852025985718
+    ],
+    "uuid": "ee652798-ea7e-4c03-b8e6-9a1eb02c08f3"
+  },
+  {
+    "name": "LTS_HAG_Torch_A_Explode.dae",
+    "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A_Explode.dae",
+    "size": [
+      0.9687209725379944,
+      2.1320530942175537,
+      0.6130360066890717
+    ],
+    "center_offset": [
+      0.039248496294021606,
+      1.064555547083728,
+      0.0004950016736984253
+    ]
+  }
+]

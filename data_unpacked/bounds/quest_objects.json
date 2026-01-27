@@ -1,0 +1,190 @@
+[
+  {
+    "name": "QUEST_Chains_A.dae",
+    "relative_path": "Quest/QUEST_Chains_ABC/Resources/QUEST_Chains_A.dae",
+    "size": [
+      1.483201026916504,
+      0.14509399607777596,
+      0.9268370270729065
+    ],
+    "center_offset": [
+      0.050903499126434326,
+      0.047411998733878136,
+      0.07146051526069641
+    ]
+  },
+  {
+    "name": "QUEST_Chains_A_Rigged_A.dae",
+    "relative_path": "Quest/QUEST_Chains_ABC/Resources/QUEST_Chains_A_Rigged_A.dae",
+    "size": [
+      0.17358800023794174,
+      0.14507600665092468,
+      2.1597400680184364
+    ],
+    "center_offset": [
+      -0.001885000616312027,
+      0.0,
+      0.9930760376155376
+    ],
+    "uuid": "2981327d-9a53-4cb1-8b06-9b6101f4edab"
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure.dae",
+    "size": [
+      5.454674005508423,
+      0.3984689861536026,
+      4.63587498664856
+    ],
+    "center_offset": [
+      -0.1500629186630249,
+      -0.17656349390745163,
+      0.0839616060256958
+    ]
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure_Destruct.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Destruct.dae",
+    "size": [
+      8.115066766738892,
+      5.319134905934334,
+      4.14753794670105
+    ],
+    "center_offset": [
+      0.9830554723739624,
+      -2.4495314583182335,
+      -0.30505096912384033
+    ],
+    "uuid": "48349626-f008-4b9f-997d-aa8884d7a5b9"
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Destruct.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Dungeon_Destruct.dae",
+    "size": [
+      11.084736347198486,
+      1.7590293884277344,
+      6.598685026168823
+    ],
+    "center_offset": [
+      1.4050509929656982,
+      -8.21735668182373,
+      0.4301964044570923
+    ],
+    "uuid": "3c858c3d-5eb9-453e-9140-a49397cb4193"
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Explode.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Dungeon_Explode.dae",
+    "size": [
+      6.0,
+      0.37847599387168884,
+      5.54863715171814
+    ],
+    "center_offset": [
+      0.0,
+      -0.15649999678134918,
+      -0.18290650844573975
+    ]
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure_Explode.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Explode.dae",
+    "size": [
+      5.454674005508423,
+      0.3684089928865433,
+      4.63587498664856
+    ],
+    "center_offset": [
+      -0.1500629186630249,
+      -0.16153349727392197,
+      0.0839616060256958
+    ],
+    "uuid": "17742f3f-9c7f-4dab-be21-0d653a80cb12"
+  },
+  {
+    "name": "QUEST_CHA_Marble_Fissure_WalkOn.dae",
+    "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_WalkOn.dae",
+    "size": [
+      6.000040054321289,
+      0.3240040149539709,
+      6.011574029922485
+    ],
+    "center_offset": [
+      2.002716064453125e-05,
+      -0.14965300727635622,
+      0.005787014961242676
+    ],
+    "uuid": "ebda31ee-3f8b-49a9-bd03-8af5d779b6e8"
+  },
+  {
+    "name": "QUEST_Dice_d20_A.dae",
+    "relative_path": "Quest/QUEST_Dice_d20_ABC/Resources/QUEST_Dice_d20_A.dae",
+    "size": [
+      0.2551960051059723,
+      0.2384829968214035,
+      0.2947009950876236
+    ],
+    "center_offset": [
+      0.0,
+      0.11924149841070175,
+      -5.649775266647339e-05
+    ]
+  },
+  {
+    "name": "QUEST_Mysterious_Puzzlebox_A.dae",
+    "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A.dae",
+    "size": [
+      0.3099530041217804,
+      0.46136100590229034,
+      0.29534800350666046
+    ],
+    "center_offset": [
+      0.0016404986381530762,
+      -0.009637497365474701,
+      -0.00013900548219680786
+    ]
+  },
+  {
+    "name": "QUEST_Mysterious_Puzzlebox_A_Cinematic.dae",
+    "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A_Cinematic.dae",
+    "size": [
+      0.1687370017170906,
+      0.2537489980459213,
+      0.16199899464845657
+    ],
+    "center_offset": [
+      -0.00048350170254707336,
+      -0.005300499498844147,
+      -0.0007514990866184235
+    ]
+  },
+  {
+    "name": "QUEST_Mysterious_Puzzlebox_A_Retracted_Spikes_A.dae",
+    "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A_Retracted_Spikes_A.dae",
+    "size": [
+      0.10848700255155563,
+      0.11819100007414818,
+      0.11208399757742882
+    ],
+    "center_offset": [
+      0.00040850043296813965,
+      -0.0004925001412630081,
+      0.0009289998561143875
+    ],
+    "uuid": "9b6d5b44-d57d-4540-966a-0df08c95c6ec"
+  },
+  {
+    "name": "QUEST_ThrowingRock_A.dae",
+    "relative_path": "Quest/QUEST_ThrowingRock_ABC/Resources/QUEST_ThrowingRock_A.dae",
+    "size": [
+      0.24149799346923828,
+      0.1461790045723319,
+      0.18481899797916412
+    ],
+    "center_offset": [
+      0.0,
+      0.06367450254037976,
+      -0.02273549884557724
+    ]
+  }
+]

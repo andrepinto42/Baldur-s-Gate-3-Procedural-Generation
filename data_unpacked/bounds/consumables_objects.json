@@ -1,0 +1,4347 @@
+[
+  {
+    "name": "Cine_Wine_Bottle_Closed_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/Cine_Wine_Bottle_Closed_A.dae",
+    "size": [
+      0.09352700039744377,
+      0.3201239852241997,
+      0.09543000161647797
+    ],
+    "center_offset": [
+      -4.650093615055084e-05,
+      0.16000699261167028,
+      0.0008729994297027588
+    ]
+  },
+  {
+    "name": "Cine_Wine_Bottle_Open_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/Cine_Wine_Bottle_Open_A.dae",
+    "size": [
+      0.09476599842309952,
+      0.30443299254693557,
+      0.09543000161647797
+    ],
+    "center_offset": [
+      -0.0006659999489784241,
+      0.15214949627261376,
+      0.0008729994297027588
+    ]
+  },
+  {
+    "name": "CONS_Drink_Beer_Mug_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A.dae",
+    "size": [
+      0.3321409970521927,
+      0.35673001408576965,
+      0.23177200555801392
+    ],
+    "center_offset": [
+      -0.049531497061252594,
+      0.17836500704288483,
+      0.0
+    ],
+    "uuid": "6f5c2259-c522-4892-a14f-f74015afd88d"
+  },
+  {
+    "name": "CONS_Drink_Beer_Pitcher_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Pitcher_A.dae",
+    "size": [
+      0.39176999032497406,
+      0.43473801016807556,
+      0.26776500046253204
+    ],
+    "center_offset": [
+      -0.039531998336315155,
+      0.21736900508403778,
+      -4.991888999938965e-07
+    ],
+    "uuid": "f08cff83-241c-4b93-9e9a-5e06b292c689"
+  },
+  {
+    "name": "CONS_Drink_Canteen_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Canteen_A.dae",
+    "size": [
+      0.25252700597047806,
+      0.5618039965629578,
+      0.23429900407791138
+    ],
+    "center_offset": [
+      -0.009114500135183334,
+      0.2809019982814789,
+      -4.991888999938965e-07
+    ],
+    "uuid": "913341fe-1edc-4782-992f-606a3c3a493c"
+  },
+  {
+    "name": "CONS_Drink_Coffee_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Coffee_A.dae",
+    "size": [
+      0.2852109968662262,
+      0.44320000329753384,
+      0.23130400478839874
+    ],
+    "center_offset": [
+      -0.02669750154018402,
+      0.22064700166811235,
+      0.0
+    ],
+    "uuid": "6b059833-31ec-481b-88b5-9c71c82340ec"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A.dae",
+    "size": [
+      0.4927469938993454,
+      0.7284270105883479,
+      0.49273601174354553
+    ],
+    "center_offset": [
+      -0.00012149661779403687,
+      0.35170050570741296,
+      -0.0009270012378692627
+    ],
+    "uuid": "56813fb8-5862-4de7-9a11-5cc5b4160753"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Destruct.dae",
+    "size": [
+      0.840382993221283,
+      0.3618510109372437,
+      0.801708996295929
+    ],
+    "center_offset": [
+      0.06016349792480469,
+      0.1739325055386871,
+      -0.03481549024581909
+    ],
+    "uuid": "fcdd7d83-bf1f-4a68-be6b-cac1e46c49c8"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Explode.dae",
+    "size": [
+      0.4927469938993454,
+      0.6587680070661008,
+      0.49273601174354553
+    ],
+    "center_offset": [
+      -0.00012149661779403687,
+      0.32530000363476574,
+      -0.0009270012378692627
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Stand_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_A.dae",
+    "size": [
+      0.5474259853363037,
+      0.8312109804246575,
+      0.550957977771759
+    ],
+    "center_offset": [
+      -0.00012099742889404297,
+      0.41371649026405066,
+      -0.0009270012378692627
+    ],
+    "uuid": "2df4a80f-710c-4f94-b469-c6ef00ff5118"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Stand_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B.dae",
+    "size": [
+      0.4966749995946884,
+      0.8622820181772113,
+      0.5337909758090973
+    ],
+    "center_offset": [
+      0.00040250271558761597,
+      0.4264040091075003,
+      0.0012644976377487183
+    ],
+    "uuid": "88df608d-dc2f-4c01-9b25-03c4ce58bb20"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Stand_B_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B_Destruct.dae",
+    "size": [
+      1.028443992137909,
+      0.30234700720757246,
+      0.9956869781017303
+    ],
+    "center_offset": [
+      -0.07531800866127014,
+      0.14019450405612588,
+      -0.02575148642063141
+    ],
+    "uuid": "76e025e0-dbfb-42d9-93fe-fd0fc7d8cb53"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_A_Stand_B_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B_Explode.dae",
+    "size": [
+      0.49723300337791443,
+      0.8157340092584491,
+      0.5337909758090973
+    ],
+    "center_offset": [
+      0.00012350082397460938,
+      0.4031300046481192,
+      0.0012644976377487183
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B.dae",
+    "size": [
+      0.5101209878921509,
+      0.807556978892535,
+      0.5057229995727539
+    ],
+    "center_offset": [
+      -0.0029765069484710693,
+      0.39661848940886557,
+      -0.0015895068645477295
+    ],
+    "uuid": "e80cb0a1-6b18-4178-97d3-4c9f2f478a91"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Destruct.dae",
+    "size": [
+      1.1973659992218018,
+      0.3388929972425103,
+      1.2013090252876282
+    ],
+    "center_offset": [
+      0.010470986366271973,
+      0.1621614987961948,
+      -0.03800651431083679
+    ],
+    "uuid": "da459caf-f454-4e83-9194-d7d67daeb2ea"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Explode.dae",
+    "size": [
+      0.5044099986553192,
+      0.7782890221569687,
+      0.5043990015983582
+    ],
+    "center_offset": [
+      -0.00012101233005523682,
+      0.3874255110276863,
+      -0.0009275078773498535
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Stand_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_A.dae",
+    "size": [
+      0.5474259853363037,
+      0.9983930087182671,
+      0.550957977771759
+    ],
+    "center_offset": [
+      -0.00012099742889404297,
+      0.49730750441085547,
+      -0.0009270012378692627
+    ],
+    "uuid": "fcb7b427-9b55-45cf-ac72-15ecd8cf202d"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Stand_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B.dae",
+    "size": [
+      0.5117200016975403,
+      0.9846899909898639,
+      0.539121001958847
+    ],
+    "center_offset": [
+      0.00418400764465332,
+      0.4876079955138266,
+      0.003929510712623596
+    ],
+    "uuid": "6aa066bd-e04a-4673-8f6f-7c230b878ce6"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Stand_B_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B_Destruct.dae",
+    "size": [
+      1.6198180317878723,
+      0.3489789981395006,
+      1.5341359972953796
+    ],
+    "center_offset": [
+      0.17824599146842957,
+      0.1579534998163581,
+      -0.20194998383522034
+    ],
+    "uuid": "1acf1a37-1580-44c9-a969-f387b8f192de"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_B_Stand_B_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B_Explode.dae",
+    "size": [
+      0.5042189955711365,
+      0.9494769973680377,
+      0.539121001958847
+    ],
+    "center_offset": [
+      0.0003024935722351074,
+      0.4700014987029135,
+      0.003929510712623596
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C.dae",
+    "size": [
+      0.4927629977464676,
+      0.7716159881092608,
+      0.49220800399780273
+    ],
+    "center_offset": [
+      0.00024249404668807983,
+      0.383810993982479,
+      -0.001242995262145996
+    ],
+    "uuid": "5768e3a1-8370-40c8-a333-bdf5fbd83896"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Destruct.dae",
+    "size": [
+      1.1681849956512451,
+      0.3917629971401766,
+      0.9148339927196503
+    ],
+    "center_offset": [
+      -0.01399850845336914,
+      0.19406549859559163,
+      -0.19888098537921906
+    ],
+    "uuid": "b20e8cc0-48c8-4d95-8c1f-fb3898031ff2"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Explode.dae",
+    "size": [
+      0.48818300664424896,
+      0.7489830206613988,
+      0.4882100075483322
+    ],
+    "center_offset": [
+      -0.00012149661779403687,
+      0.3725655103335157,
+      -0.0009149983525276184
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Stand_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_A.dae",
+    "size": [
+      0.5474259853363037,
+      0.9631869888398796,
+      0.550957977771759
+    ],
+    "center_offset": [
+      -0.00012099742889404297,
+      0.47970449447166175,
+      -0.0009270012378692627
+    ],
+    "uuid": "1f182ae8-24cf-4586-b4ab-95a2a9c4ae2b"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Stand_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B.dae",
+    "size": [
+      0.49619199335575104,
+      1.0206830305978656,
+      0.532181978225708
+    ],
+    "center_offset": [
+      -0.0021749958395957947,
+      0.5056045153178275,
+      0.00045999884605407715
+    ],
+    "uuid": "93f0c0fc-20b2-4f6d-aa2d-8a4252b25b75"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Stand_B_Destruct.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B_Destruct.dae",
+    "size": [
+      0.7670090049505234,
+      0.5227010007947683,
+      1.1770620346069336
+    ],
+    "center_offset": [
+      -0.1376594975590706,
+      0.25291450042277575,
+      0.3027780055999756
+    ],
+    "uuid": "a244e781-1a74-4d30-8fff-1b6467e27bcb"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_C_Stand_B_Explode.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B_Explode.dae",
+    "size": [
+      0.4916290044784546,
+      0.9334869785234332,
+      0.530485987663269
+    ],
+    "center_offset": [
+      -0.0025295019149780273,
+      0.4620064892806113,
+      -0.0003879964351654053
+    ]
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_Stand_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_Stand_A.dae",
+    "size": [
+      0.5474259853363037,
+      0.2858690118882805,
+      0.550957977771759
+    ],
+    "center_offset": [
+      -0.00012099742889404297,
+      0.14104550599586219,
+      -0.0009270012378692627
+    ],
+    "uuid": "06610410-2d73-49f7-8845-852d24db60c1"
+  },
+  {
+    "name": "CONS_Drink_DemiJohn_Stand_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_Stand_B.dae",
+    "size": [
+      0.48983700573444366,
+      0.2966850074008107,
+      0.5294079780578613
+    ],
+    "center_offset": [
+      0.0010024979710578918,
+      0.1436045034788549,
+      -0.0009270012378692627
+    ],
+    "uuid": "e158ec58-6a21-45e0-b4fd-f80744901ace"
+  },
+  {
+    "name": "CONS_Drink_Milk_Jug_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Milk_Jug_A.dae",
+    "size": [
+      0.2510790079832077,
+      0.37188500503543764,
+      0.2417830005288124
+    ],
+    "center_offset": [
+      -4.7497451305389404e-05,
+      0.18436050246236846,
+      -1.2498348951339722e-05
+    ],
+    "uuid": "83133248-3c85-4b6d-adf3-2c6985146875"
+  },
+  {
+    "name": "CONS_Drink_Potion_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_A.dae",
+    "size": [
+      0.2452479973435402,
+      0.5094699868932366,
+      0.21418900042772293
+    ],
+    "center_offset": [
+      0.0010319985449314117,
+      0.26307499362155795,
+      0.0005304999649524689
+    ],
+    "uuid": "27df1535-9f58-4e24-b51b-ceef2cd1d8d8"
+  },
+  {
+    "name": "CONS_Drink_Potion_A_Opened_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_A_Opened_A.dae",
+    "size": [
+      0.24397999793291092,
+      0.42180699203163385,
+      0.21418900042772293
+    ],
+    "center_offset": [
+      0.0003979988396167755,
+      0.21924349619075656,
+      0.0005304999649524689
+    ]
+  },
+  {
+    "name": "CONS_Drink_Potion_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_B.dae",
+    "size": [
+      0.2971450090408325,
+      0.4676199900241045,
+      0.3015659898519516
+    ],
+    "center_offset": [
+      7.650256156921387e-05,
+      0.23375199501060706,
+      -0.0002150014042854309
+    ],
+    "uuid": "aa15aa80-19b6-4226-a19b-4635a1ee3759"
+  },
+  {
+    "name": "CONS_Drink_Potion_C.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_C.dae",
+    "size": [
+      0.28253699839115143,
+      0.4500950048677623,
+      0.28480400145053864
+    ],
+    "center_offset": [
+      -0.0006924942135810852,
+      0.22100150235928595,
+      0.0005309954285621643
+    ],
+    "uuid": "cc7f9ba9-b284-4177-a044-649f84e64aff"
+  },
+  {
+    "name": "CONS_Drink_Potion_D.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_D.dae",
+    "size": [
+      0.38288600742816925,
+      0.4380939903203398,
+      0.3885889947414398
+    ],
+    "center_offset": [
+      -0.0007850006222724915,
+      0.217668995144777,
+      0.0005304962396621704
+    ],
+    "uuid": "35e40ea9-a89a-43fb-80ca-e427c17d6f06"
+  },
+  {
+    "name": "CONS_Drink_Rum_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Rum_A.dae",
+    "size": [
+      0.253260999917984,
+      0.597158023621887,
+      0.2534849941730499
+    ],
+    "center_offset": [
+      0.0008575022220611572,
+      0.3037820116151124,
+      0.0008655041456222534
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "CONS_Drink_Rum_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Rum_B.dae",
+    "size": [
+      0.25582100450992584,
+      0.5269549777731299,
+      0.2602449953556061
+    ],
+    "center_offset": [
+      -0.002803497016429901,
+      0.26829148875549436,
+      0.0035614967346191406
+    ],
+    "uuid": "733d5d97-97ed-4918-bc2a-e6dd75cde58c"
+  },
+  {
+    "name": "CONS_Drink_Tea_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Tea_A.dae",
+    "size": [
+      0.4194499999284744,
+      0.4187760055065155,
+      0.26213398575782776
+    ],
+    "center_offset": [
+      0.030100993812084198,
+      0.20938800275325775,
+      0.0
+    ],
+    "uuid": "2632cd60-bf42-49d4-88db-09308d030383"
+  },
+  {
+    "name": "CONS_Drink_Water_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_A.dae",
+    "size": [
+      0.2637619972229004,
+      0.5644300160929561,
+      0.26285599172115326
+    ],
+    "center_offset": [
+      0.0012660026550292969,
+      0.2768120081163943,
+      -0.0010519996285438538
+    ],
+    "uuid": "640302a8-d841-44d6-996d-2addda644306"
+  },
+  {
+    "name": "CONS_Drink_Water_A_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_A_Wicker.dae",
+    "size": [
+      0.28115200996398926,
+      0.5620689755305648,
+      0.2928039878606796
+    ],
+    "center_offset": [
+      0.004133999347686768,
+      0.2765754875726998,
+      0.0015110000967979431
+    ],
+    "uuid": "00253e1b-375c-4ef4-8808-974cab615ff7"
+  },
+  {
+    "name": "CONS_Drink_Water_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_B.dae",
+    "size": [
+      0.2637910097837448,
+      0.5233779926784337,
+      0.2633399963378906
+    ],
+    "center_offset": [
+      -3.550201654434204e-05,
+      0.2558969964738935,
+      0.0002759993076324463
+    ],
+    "uuid": "94f1d6d2-8a70-4ab9-a8cf-376dd0bc294a"
+  },
+  {
+    "name": "CONS_Drink_Water_Bottle_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Bottle_A.dae",
+    "size": [
+      0.3312310129404068,
+      0.41884899139404297,
+      0.3088180124759674
+    ],
+    "center_offset": [
+      0.011206500232219696,
+      0.20942449569702148,
+      0.0
+    ],
+    "uuid": "d8fff9cf-05b9-4aeb-b5b4-0f6bb98b7f2c"
+  },
+  {
+    "name": "CONS_Drink_Water_Bottle_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Bottle_B.dae",
+    "size": [
+      0.23073499649763107,
+      0.27567601203918457,
+      0.216171994805336
+    ],
+    "center_offset": [
+      0.007281500846147537,
+      0.13783800601959229,
+      0.0
+    ],
+    "uuid": "6f5abf98-cca0-43a7-a064-10c17643bb72"
+  },
+  {
+    "name": "CONS_Drink_Water_B_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_B_Wicker.dae",
+    "size": [
+      0.29885299503803253,
+      0.5374029763042927,
+      0.28953100740909576
+    ],
+    "center_offset": [
+      0.001296497881412506,
+      0.25927448831498623,
+      -1.9498169422149658e-05
+    ],
+    "uuid": "e8e427ac-9078-4471-85f2-4b8bbc3e00b5"
+  },
+  {
+    "name": "CONS_Drink_Water_Jug_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Jug_A.dae",
+    "size": [
+      0.325874000787735,
+      0.4380599856376648,
+      0.29937900602817535
+    ],
+    "center_offset": [
+      -0.01324799656867981,
+      0.2190299928188324,
+      -4.991888999938965e-07
+    ],
+    "uuid": "cb2e851f-8a75-4899-b705-0f079e8e55bc"
+  },
+  {
+    "name": "CONS_Drink_Wine_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_A.dae",
+    "size": [
+      0.1780479997396469,
+      0.5020290059037507,
+      0.18735600262880325
+    ],
+    "center_offset": [
+      0.0,
+      0.25153550296090543,
+      -0.0008510015904903412
+    ],
+    "uuid": "2bfa8ee0-33ef-4fd6-9262-436b5bb0d3ff"
+  },
+  {
+    "name": "CONS_Drink_Wine_A_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_A_Wicker.dae",
+    "size": [
+      0.23625300079584122,
+      0.5318350144661963,
+      0.21441400051116943
+    ],
+    "center_offset": [
+      0.0007685013115406036,
+      0.2610245074611157,
+      0.0013979971408843994
+    ],
+    "uuid": "3525b96e-81ef-4411-960a-b1b305e139c6"
+  },
+  {
+    "name": "CONS_Drink_Wine_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_B.dae",
+    "size": [
+      0.26523299515247345,
+      0.518392011988908,
+      0.22465300559997559
+    ],
+    "center_offset": [
+      -0.0012555047869682312,
+      0.2526280058082193,
+      0.0007665008306503296
+    ],
+    "uuid": "870caf9b-f767-4264-9d0a-2c3a88dc0565"
+  },
+  {
+    "name": "CONS_Drink_Wine_Bottle_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Bottle_A.dae",
+    "size": [
+      0.18882399797439575,
+      0.4877689960412681,
+      0.18882399797439575
+    ],
+    "center_offset": [
+      0.0,
+      0.24076849804259837,
+      0.0
+    ],
+    "uuid": "2a176188-5a1c-4e70-9be9-ca55502d00b2"
+  },
+  {
+    "name": "CONS_Drink_Wine_B_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_B_Wicker.dae",
+    "size": [
+      0.3124240040779114,
+      0.5511670000851154,
+      0.2356099933385849
+    ],
+    "center_offset": [
+      -8.499622344970703e-05,
+      0.2625834997743368,
+      0.0
+    ],
+    "uuid": "c9cf7e80-679e-4c30-98ac-4bd43db95294"
+  },
+  {
+    "name": "CONS_Drink_Wine_C.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_C.dae",
+    "size": [
+      0.35216400027275085,
+      0.5735949845984578,
+      0.2883079946041107
+    ],
+    "center_offset": [
+      0.0,
+      0.2819674923084676,
+      0.0
+    ],
+    "uuid": "97509a4d-13a9-4ffa-b699-20fa07d7295f"
+  },
+  {
+    "name": "CONS_Drink_Wine_C_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_C_Wicker.dae",
+    "size": [
+      0.3949579894542694,
+      0.6051180171780288,
+      0.3171379864215851
+    ],
+    "center_offset": [
+      0.0,
+      0.2986210084054619,
+      0.0
+    ],
+    "uuid": "1de26672-10cb-4659-9b0a-18b9a5bddc8c"
+  },
+  {
+    "name": "CONS_Drink_Wine_D.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_D.dae",
+    "size": [
+      0.37232598662376404,
+      0.6121150283142924,
+      0.3871859908103943
+    ],
+    "center_offset": [
+      0.00024800002574920654,
+      0.30910551408305764,
+      0.0
+    ],
+    "uuid": "1be0fe60-4aa2-4941-a48b-130b334bddb5"
+  },
+  {
+    "name": "CONS_Drink_Wine_D_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_D_Wicker.dae",
+    "size": [
+      0.5163419842720032,
+      0.6100669903680682,
+      0.42633000016212463
+    ],
+    "center_offset": [
+      0.0,
+      0.29417849564924836,
+      0.0
+    ],
+    "uuid": "35bd53bc-cfdb-4c13-99e6-493f07216e9d"
+  },
+  {
+    "name": "CONS_Drink_Wine_E.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_E.dae",
+    "size": [
+      0.35495398938655853,
+      0.726894021499902,
+      0.3543749898672104
+    ],
+    "center_offset": [
+      1.300126314163208e-05,
+      0.35595101094804704,
+      0.00030349940061569214
+    ],
+    "uuid": "75ec6992-b6a7-4435-b373-8b298fe68e28"
+  },
+  {
+    "name": "CONS_Drink_Wine_E_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_E_Wicker.dae",
+    "size": [
+      0.4483270049095154,
+      0.7585829701274633,
+      0.46247199177742004
+    ],
+    "center_offset": [
+      0.002083495259284973,
+      0.3520424859598279,
+      0.0016440004110336304
+    ],
+    "uuid": "f703b4a2-900a-4e37-9571-3e18d2f4dede"
+  },
+  {
+    "name": "CONS_Drink_Wine_F.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_F.dae",
+    "size": [
+      0.40873299539089203,
+      0.918734977953136,
+      0.4175560027360916
+    ],
+    "center_offset": [
+      7.502734661102295e-06,
+      0.4468224891461432,
+      -0.00440400093793869
+    ],
+    "uuid": "e4360d5a-a922-4411-bf45-1cc4e45f3969"
+  },
+  {
+    "name": "CONS_Drink_Wine_F_Wicker.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_F_Wicker.dae",
+    "size": [
+      0.3810050040483475,
+      0.9291860284283757,
+      0.3823320120573044
+    ],
+    "center_offset": [
+      0.00030050426721572876,
+      0.45159701397642493,
+      -0.0004360005259513855
+    ],
+    "uuid": "159b7414-2eff-4ae3-92f6-89e99cd87f50"
+  },
+  {
+    "name": "CONS_Drink_Wine_G.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_G.dae",
+    "size": [
+      0.1057020016014576,
+      0.5316789746284485,
+      0.10825800150632858
+    ],
+    "center_offset": [
+      -7.699988782405853e-05,
+      0.26583948731422424,
+      0.0010979995131492615
+    ],
+    "uuid": "ba6424eb-5f8e-44f8-ae60-96c5b615e67f"
+  },
+  {
+    "name": "CONS_Drink_Wine_Glass_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Glass_A.dae",
+    "size": [
+      0.09912800043821335,
+      0.24153099954128265,
+      0.09919600188732147
+    ],
+    "center_offset": [
+      9.499862790107727e-05,
+      0.12076549977064133,
+      -1.600012183189392e-05
+    ],
+    "uuid": "51a26c5a-ad6d-49de-b902-76b2faa70ee8"
+  },
+  {
+    "name": "CONS_Drink_Wine_H.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_H.dae",
+    "size": [
+      0.17838499695062637,
+      0.5343989729881287,
+      0.1784129962325096
+    ],
+    "center_offset": [
+      0.0017074979841709137,
+      0.26719948649406433,
+      0.0018724985420703888
+    ],
+    "uuid": "e4595365-03f3-46ac-b989-f01bacf6cf3b"
+  },
+  {
+    "name": "CONS_Drink_Wine_I.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_I.dae",
+    "size": [
+      0.15587899833917618,
+      0.5335399808827788,
+      0.15905100107192993
+    ],
+    "center_offset": [
+      -7.74972140789032e-05,
+      0.2666779904393479,
+      0.0014555007219314575
+    ],
+    "uuid": "b9b6fb26-0c0f-4ad2-8949-f29caaae25b6"
+  },
+  {
+    "name": "CONS_Drink_Wine_Pitcher_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_A.dae",
+    "size": [
+      0.21834000200033188,
+      0.5421249708160758,
+      0.21833499521017075
+    ],
+    "center_offset": [
+      -0.00010700151324272156,
+      0.2628694851882756,
+      -0.00023249909281730652
+    ],
+    "uuid": "27f5f392-7d66-4929-a50d-a33f00fbf4b7"
+  },
+  {
+    "name": "CONS_Drink_Wine_Pitcher_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_B.dae",
+    "size": [
+      0.2659289985895157,
+      0.6450620265095495,
+      0.2818420082330704
+    ],
+    "center_offset": [
+      -0.002875499427318573,
+      0.32224801325355656,
+      -0.0013540014624595642
+    ],
+    "uuid": "ec35918f-1856-45ec-a92e-cbd5a6c80411"
+  },
+  {
+    "name": "CONS_Drink_Wine_Pitcher_C.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_C.dae",
+    "size": [
+      0.2765190005302429,
+      0.6100690076127648,
+      0.27817898988723755
+    ],
+    "center_offset": [
+      0.0028855055570602417,
+      0.29804350389167666,
+      0.010862499475479126
+    ],
+    "uuid": "9d61938a-0ea8-42f6-81ab-f35860ac815a"
+  },
+  {
+    "name": "CONS_Drink_Wine_Pitcher_D.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_D.dae",
+    "size": [
+      0.30083300918340683,
+      0.620763014696422,
+      0.2376839965581894
+    ],
+    "center_offset": [
+      -0.03125550225377083,
+      0.31031050734600285,
+      0.0
+    ],
+    "uuid": "9cda864e-dbac-44e3-9fe2-0562815e1004"
+  },
+  {
+    "name": "INTERACT_CONS_Drink_Tea_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottles/Resources/INTERACT_CONS_Drink_Tea_A.dae",
+    "size": [
+      0.6278830170631409,
+      0.62322998046875,
+      0.39320001006126404
+    ],
+    "center_offset": [
+      0.045797497034072876,
+      0.311614990234375,
+      0.0
+    ],
+    "uuid": "9f547d94-55f6-4c01-b201-775de692bb70"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_A.dae",
+    "size": [
+      0.170865997672081,
+      0.3479529949836433,
+      0.17352700233459473
+    ],
+    "center_offset": [
+      -0.000523000955581665,
+      0.17684049741365016,
+      -0.00010149925947189331
+    ],
+    "uuid": "af808d7c-c8d6-4924-94a9-35bffd450803"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_B.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_B.dae",
+    "size": [
+      0.16856800019741058,
+      0.35163200460374355,
+      0.1654839962720871
+    ],
+    "center_offset": [
+      -0.0007340013980865479,
+      0.17449900228530169,
+      0.0
+    ],
+    "uuid": "ca841f8d-ce89-441e-8d68-d1dc0beb4852"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_C.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_C.dae",
+    "size": [
+      0.15024500340223312,
+      0.41217101039364934,
+      0.1550239995121956
+    ],
+    "center_offset": [
+      0.0018304996192455292,
+      0.20828750520013273,
+      0.00038800016045570374
+    ],
+    "uuid": "23eba153-fbe2-4a93-a1c5-48e92d5f7d08"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_D.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_D.dae",
+    "size": [
+      0.19629999995231628,
+      0.4532070071436465,
+      0.20251600444316864
+    ],
+    "center_offset": [
+      0.0,
+      0.22782150353305042,
+      -0.0031099990010261536
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_D_Destroyed_A.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_D_Destroyed_A.dae",
+    "size": [
+      0.7830389738082886,
+      0.23315699445083737,
+      0.8372789919376373
+    ],
+    "center_offset": [
+      -0.07410550117492676,
+      0.11372149712406099,
+      -0.030056491494178772
+    ],
+    "uuid": "cc844abb-9fb1-401a-b77d-cf5f59adefd1"
+  },
+  {
+    "name": "CONS_Drink_Bottle_Small_E.dae",
+    "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_E.dae",
+    "size": [
+      0.21850599348545074,
+      0.5055540069006383,
+      0.2164050042629242
+    ],
+    "center_offset": [
+      0.0,
+      0.24901000340469182,
+      4.991888999938965e-07
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "CONS_FOOD_Fish_Rotten_A.dae",
+    "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_A.dae",
+    "size": [
+      0.5807920098304749,
+      0.09952499670907855,
+      0.21768200397491455
+    ],
+    "center_offset": [
+      -0.0005429983139038086,
+      0.043695498490706086,
+      0.0
+    ],
+    "uuid": "0f34372c-520a-475d-a3c0-7c385fd549b7"
+  },
+  {
+    "name": "CONS_FOOD_Fish_Rotten_B.dae",
+    "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_B.dae",
+    "size": [
+      0.5356810092926025,
+      0.07290499890223145,
+      0.11581999808549881
+    ],
+    "center_offset": [
+      1.9490718841552734e-05,
+      0.03179849940352142,
+      0.0
+    ],
+    "uuid": "03a94ad3-a856-44a0-a897-8912078a9115"
+  },
+  {
+    "name": "CONS_FOOD_Fish_Rotten_C.dae",
+    "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_C.dae",
+    "size": [
+      0.5611799955368042,
+      0.0538130016066134,
+      0.11403000354766846
+    ],
+    "center_offset": [
+      -1.996755599975586e-06,
+      0.022934500826522708,
+      0.0
+    ],
+    "uuid": "53664ef4-bfda-4775-a8da-780ae07343e4"
+  },
+  {
+    "name": "CONS_FOOD_Fish_Rotten_D.dae",
+    "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_D.dae",
+    "size": [
+      0.7275739908218384,
+      0.10416399920359254,
+      0.22444799542427063
+    ],
+    "center_offset": [
+      -0.0014789998531341553,
+      0.047721999464556575,
+      0.0
+    ],
+    "uuid": "be9b2f84-2439-453e-a0e2-1c2a15943500"
+  },
+  {
+    "name": "CONS_Food_Meat_Chicken_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Chicken_A.dae",
+    "size": [
+      0.29088400304317474,
+      0.2067510038614273,
+      0.800244003534317
+    ],
+    "center_offset": [
+      -0.05584300309419632,
+      0.05096150189638138,
+      0.03178100287914276
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Chicken_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Chicken_B.dae",
+    "size": [
+      0.41437000036239624,
+      0.2565139979124069,
+      0.9319020211696625
+    ],
+    "center_offset": [
+      0.007167994976043701,
+      0.030850999057292938,
+      -0.02261500060558319
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Grilled_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_A.dae",
+    "size": [
+      0.44183701276779175,
+      0.7192069888114929,
+      0.24869999289512634
+    ],
+    "center_offset": [
+      0.00047250092029571533,
+      0.0010204911231994629,
+      0.0
+    ],
+    "uuid": "c5af4dab-0cd4-4f84-8c2a-1e1987016099"
+  },
+  {
+    "name": "CONS_Food_Meat_Grilled_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_B.dae",
+    "size": [
+      0.47261200845241547,
+      0.6817020177841187,
+      0.17382799834012985
+    ],
+    "center_offset": [
+      -0.0010790005326271057,
+      0.0,
+      -0.0002459995448589325
+    ],
+    "uuid": "df26272e-84ce-46b6-9ec7-ed4d300c3ac0"
+  },
+  {
+    "name": "CONS_Food_Meat_Grilled_C.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_C.dae",
+    "size": [
+      0.39827200770378113,
+      0.49581800401210785,
+      0.38677799701690674
+    ],
+    "center_offset": [
+      -0.022984996438026428,
+      -0.07778800278902054,
+      -0.010379001498222351
+    ],
+    "uuid": "1accb89d-27b7-486b-87a9-05a04239e239"
+  },
+  {
+    "name": "CONS_Food_Meat_PorkHead_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkHead_A.dae",
+    "size": [
+      0.518653005361557,
+      0.4628570079803467,
+      0.5036489963531494
+    ],
+    "center_offset": [
+      0.002772495150566101,
+      0.23142850399017334,
+      -0.05204349756240845
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_PorkHead_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkHead_B.dae",
+    "size": [
+      0.5136939883232117,
+      0.4397600060328841,
+      0.5040300041437149
+    ],
+    "center_offset": [
+      0.0,
+      0.20752100320532918,
+      -0.0461060032248497
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_PorkPiece_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_A.dae",
+    "size": [
+      0.3338079899549484,
+      0.2768619963899255,
+      0.6781080067157745
+    ],
+    "center_offset": [
+      0.003375999629497528,
+      0.12985099805518985,
+      0.11760000884532928
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_PorkPiece_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_B.dae",
+    "size": [
+      0.33230799436569214,
+      0.27873098850250244,
+      0.7669049799442291
+    ],
+    "center_offset": [
+      -0.008912995457649231,
+      0.1324394941329956,
+      0.09645749628543854
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_PorkPiece_C.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_C.dae",
+    "size": [
+      0.5279249846935272,
+      0.1866729985922575,
+      0.9430779814720154
+    ],
+    "center_offset": [
+      -0.025177493691444397,
+      0.07864049915224314,
+      0.03567799925804138
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_PorkPiece_D.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_D.dae",
+    "size": [
+      0.42450299859046936,
+      0.25594999454915524,
+      1.4636439681053162
+    ],
+    "center_offset": [
+      0.03703850507736206,
+      0.11925399769097567,
+      -0.1054140031337738
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_A_Hanging_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Hanging_A.dae",
+    "size": [
+      0.8415529988706112,
+      0.15138500183820724,
+      0.1811090037226677
+    ],
+    "center_offset": [
+      -0.40968249924480915,
+      0.012232501059770584,
+      0.012645501643419266
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_A_Hanging_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Hanging_B.dae",
+    "size": [
+      1.391284991055727,
+      0.17190799862146378,
+      0.16658200323581696
+    ],
+    "center_offset": [
+      -0.6830374952405691,
+      -0.016058001667261124,
+      -0.012800000607967377
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_A_Individual_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Individual_A.dae",
+    "size": [
+      0.08717299997806549,
+      0.06172599899582565,
+      0.262363001704216
+    ],
+    "center_offset": [
+      0.0016534999012947083,
+      0.027820999384857714,
+      -0.005322493612766266
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_A_Individual_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Individual_B.dae",
+    "size": [
+      0.16369099915027618,
+      0.044181000208482146,
+      0.31921499967575073
+    ],
+    "center_offset": [
+      0.0032714977860450745,
+      0.021353500080294907,
+      0.011169493198394775
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_A_Piled_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Piled_A.dae",
+    "size": [
+      0.690540000796318,
+      0.206132004968822,
+      0.43643300235271454
+    ],
+    "center_offset": [
+      0.12237600237131119,
+      0.09753900254145265,
+      0.012251503765583038
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_B_Hanging_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Hanging_A.dae",
+    "size": [
+      0.7314700037240982,
+      0.09450499713420868,
+      0.08845699951052666
+    ],
+    "center_offset": [
+      -0.34856700152158737,
+      -0.0019774995744228363,
+      -0.006306501105427742
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_B_Hanging_B.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Hanging_B.dae",
+    "size": [
+      1.2147829793393612,
+      0.09034600108861923,
+      0.09750299528241158
+    ],
+    "center_offset": [
+      -0.5915394891053438,
+      -0.00678899884223938,
+      -0.015316499397158623
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_B_Individual_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Individual_A.dae",
+    "size": [
+      0.06185599975287914,
+      0.05603999923914671,
+      0.27670300006866455
+    ],
+    "center_offset": [
+      0.0006619999185204506,
+      0.025939999613910913,
+      -0.005344495177268982
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_B_Rope_A.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Rope_A.dae",
+    "size": [
+      0.5160660147666931,
+      0.06839999835938215,
+      0.7984350174665451
+    ],
+    "center_offset": [
+      -0.051732003688812256,
+      0.02425899961963296,
+      -0.19044450670480728
+    ]
+  },
+  {
+    "name": "CONS_Food_Meat_Sausage_C.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_C.dae",
+    "size": [
+      0.12379099801182747,
+      0.12499799812212586,
+      0.4921569973230362
+    ],
+    "center_offset": [
+      0.001881500706076622,
+      0.05950299906544387,
+      0.0031685009598731995
+    ]
+  },
+  {
+    "name": "INTERACT_CONS_Food_Meat_PorkPiece_C.dae",
+    "relative_path": "Consumables/CONS_Food_Meat/Resources/INTERACT_CONS_Food_Meat_PorkPiece_C.dae",
+    "size": [
+      0.5279249846935272,
+      0.1866729985922575,
+      0.9430779814720154
+    ],
+    "center_offset": [
+      -0.025177493691444397,
+      0.07864049915224314,
+      0.03567799925804138
+    ]
+  },
+  {
+    "name": "CONS_FOOD_Nuts_Walnut_A.dae",
+    "relative_path": "Consumables/CONS_FOOD_Nuts_ABC/Resources/CONS_FOOD_Nuts_Walnut_A.dae",
+    "size": [
+      0.08522500097751617,
+      0.0687419984024018,
+      0.07160000130534172
+    ],
+    "center_offset": [
+      -0.0006024986505508423,
+      0.031243999139405787,
+      -0.00022199936211109161
+    ],
+    "uuid": "894e64ad-3d0c-4ef7-8cb0-8a130bc37561"
+  },
+  {
+    "name": "CINE_CONS_Fruit_Apple_B.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CINE_CONS_Fruit_Apple_B.dae",
+    "size": [
+      0.15846000611782074,
+      0.1796989996219054,
+      0.16502799838781357
+    ],
+    "center_offset": [
+      -0.00046399980783462524,
+      0.09106449986575171,
+      0.0007830001413822174
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Apple_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Apple_A.dae",
+    "size": [
+      0.15953800082206726,
+      0.18191099679097533,
+      0.1662369966506958
+    ],
+    "center_offset": [
+      -0.0011039972305297852,
+      0.09254149836488068,
+      0.0015804991126060486
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Apple_Eaten_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Apple_Eaten_A.dae",
+    "size": [
+      0.131911002099514,
+      0.19261500565335155,
+      0.13277900218963623
+    ],
+    "center_offset": [
+      2.9500573873519897e-05,
+      0.09106050268746912,
+      -5.14984130859375e-05
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Banana_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Banana_A.dae",
+    "size": [
+      0.42510299384593964,
+      0.060687999706715345,
+      0.16648299992084503
+    ],
+    "center_offset": [
+      0.013596497476100922,
+      0.023438999662175775,
+      -0.03652749955654144
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Grapes_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Grapes_A.dae",
+    "size": [
+      0.374114990234375,
+      0.17050999589264393,
+      0.15323299914598465
+    ],
+    "center_offset": [
+      -0.09497949481010437,
+      0.06767199840396643,
+      0.0010694973170757294
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Kiwi_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Kiwi_A.dae",
+    "size": [
+      0.11044599860906601,
+      0.12499099905835465,
+      0.16006100177764893
+    ],
+    "center_offset": [
+      0.000491999089717865,
+      0.06222949954099022,
+      0.01088549941778183
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Lemon_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Lemon_A.dae",
+    "size": [
+      0.10391099750995636,
+      0.11178399855270982,
+      0.16431300342082977
+    ],
+    "center_offset": [
+      0.006852500140666962,
+      0.05183499935083091,
+      0.004932500422000885
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Lemon_A_Rotten.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Lemon_A_Rotten.dae",
+    "size": [
+      0.09856300055980682,
+      0.08379599673207849,
+      0.16833200305700302
+    ],
+    "center_offset": [
+      0.0029715001583099365,
+      0.043324998405296355,
+      -0.0044719986617565155
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Melon_Full_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Full_A.dae",
+    "size": [
+      0.3535350114107132,
+      0.3452719855122268,
+      0.37973999977111816
+    ],
+    "center_offset": [
+      0.0024714991450309753,
+      0.16721899271942675,
+      -0.01603199541568756
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Melon_Half_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Half_A.dae",
+    "size": [
+      0.34492500126361847,
+      0.16337200161069632,
+      0.3393940031528473
+    ],
+    "center_offset": [
+      0.001833505928516388,
+      0.0725790006108582,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Melon_Piece_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Piece_A.dae",
+    "size": [
+      0.3255759924650192,
+      0.11224099760875106,
+      0.1409829966723919
+    ],
+    "center_offset": [
+      -0.0006019994616508484,
+      0.04954949882812798,
+      -0.009826498106122017
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Orange_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Orange_A.dae",
+    "size": [
+      0.15545599907636642,
+      0.12602899690682534,
+      0.15668199956417084
+    ],
+    "center_offset": [
+      -0.001040000468492508,
+      0.06283249845000682,
+      -0.0013360008597373962
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Pear_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Pear_A.dae",
+    "size": [
+      0.12899100035429,
+      0.19014099659398198,
+      0.12226100265979767
+    ],
+    "center_offset": [
+      0.0003474988043308258,
+      0.09806249826215208,
+      0.0027965009212493896
+    ]
+  },
+  {
+    "name": "CONS_Vegetable_Zucchini_A.dae",
+    "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Vegetable_Zucchini_A.dae",
+    "size": [
+      0.48525799810886383,
+      0.1396179930306971,
+      0.11502799764275551
+    ],
+    "center_offset": [
+      0.02926599234342575,
+      0.06566699664108455,
+      0.0032739993184804916
+    ]
+  },
+  {
+    "name": "CONS_Fruit_Goodberry_A.dae",
+    "relative_path": "Consumables/CONS_Fruit_Goodberry_ABC/Resources/CONS_Fruit_Goodberry_A.dae",
+    "size": [
+      0.24850499629974365,
+      0.30329400300979614,
+      0.2537050023674965
+    ],
+    "center_offset": [
+      0.0544854998588562,
+      0.03630000352859497,
+      -0.03005550429224968
+    ]
+  },
+  {
+    "name": "CONS_Fungi_Mushroom_Agaric_A.dae",
+    "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_A.dae",
+    "size": [
+      0.3784500062465668,
+      0.6424509808421135,
+      0.3756359964609146
+    ],
+    "center_offset": [
+      0.025352001190185547,
+      0.2061764933168888,
+      -0.07157399505376816
+    ],
+    "uuid": "f55f45ec-e30b-4745-9f22-431af1b308f6"
+  },
+  {
+    "name": "CONS_Fungi_Mushroom_Agaric_A_Rotten.dae",
+    "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_A_Rotten.dae",
+    "size": [
+      0.36585599184036255,
+      0.7035090178251266,
+      0.37537001073360443
+    ],
+    "center_offset": [
+      0.11068099737167358,
+      0.22162751108407974,
+      -0.08095700293779373
+    ],
+    "uuid": "42a68ee1-6d71-455e-99b2-278a53be5504"
+  },
+  {
+    "name": "CONS_Fungi_Mushroom_Agaric_B.dae",
+    "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_B.dae",
+    "size": [
+      0.35429298877716064,
+      0.5215590074658394,
+      0.3698670044541359
+    ],
+    "center_offset": [
+      0.030721500515937805,
+      0.16214850172400475,
+      -0.06277650222182274
+    ],
+    "uuid": "2399fb4a-b0fd-41f3-b15b-1d9a8e6f8293"
+  },
+  {
+    "name": "CONS_Fungi_Mushroom_Agaric_B_Rotten.dae",
+    "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_B_Rotten.dae",
+    "size": [
+      0.34164799749851227,
+      0.5233689993619919,
+      0.3543590009212494
+    ],
+    "center_offset": [
+      0.040786005556583405,
+      0.12710050493478775,
+      -0.04769749939441681
+    ],
+    "uuid": "466d35b7-3c1a-4bd7-be91-262dd297b320"
+  },
+  {
+    "name": "INTERACT_CONS_Fungi_Mushroom_Agaric_A.dae",
+    "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/INTERACT_CONS_Fungi_Mushroom_Agaric_A.dae",
+    "size": [
+      0.6373009979724884,
+      0.40514200925827026,
+      0.3928360044956207
+    ],
+    "center_offset": [
+      -0.030814513564109802,
+      0.1606920063495636,
+      0.035089001059532166
+    ],
+    "uuid": "6c088719-7fd7-4ed4-8740-747a6610b94e"
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_A.dae",
+    "size": [
+      0.267890989780426,
+      0.45286000831401907,
+      0.2644200026988983
+    ],
+    "center_offset": [
+      -0.00024349987506866455,
+      0.2263500041590305,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_B.dae",
+    "size": [
+      0.1277800053358078,
+      0.3191719949245453,
+      0.14754800498485565
+    ],
+    "center_offset": [
+      0.0,
+      0.15958599746227264,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_C.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_C.dae",
+    "size": [
+      0.31536300480365753,
+      0.6526460018358193,
+      0.31301499903202057
+    ],
+    "center_offset": [
+      0.0034644976258277893,
+      0.3258290009398479,
+      -0.0022914931178092957
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_D.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_D.dae",
+    "size": [
+      0.10015399754047394,
+      0.32101699709892273,
+      0.10011599957942963
+    ],
+    "center_offset": [
+      0.0,
+      0.16050849854946136,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_E.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_E.dae",
+    "size": [
+      0.10501400008797646,
+      0.25257098962174496,
+      0.10646399855613708
+    ],
+    "center_offset": [
+      0.00012299977242946625,
+      0.12617349480933626,
+      -0.0008479990065097809
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_F.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_F.dae",
+    "size": [
+      0.33750298619270325,
+      0.5371900200843811,
+      0.35333698987960815
+    ],
+    "center_offset": [
+      0.0012724995613098145,
+      0.26859501004219055,
+      -0.0035305023193359375
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_G.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_G.dae",
+    "size": [
+      0.30420900881290436,
+      0.4890249967575073,
+      0.3056730031967163
+    ],
+    "center_offset": [
+      0.002673499286174774,
+      0.24451249837875366,
+      0.00194549560546875
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_H.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_H.dae",
+    "size": [
+      0.2013010010123253,
+      0.47358500957489014,
+      0.20228099822998047
+    ],
+    "center_offset": [
+      -0.0028834976255893707,
+      0.23679250478744507,
+      0.0009215027093887329
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_I.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_I.dae",
+    "size": [
+      0.37277600169181824,
+      0.4774959981441498,
+      0.38098500669002533
+    ],
+    "center_offset": [
+      0.0,
+      0.2387479990720749,
+      -0.004104502499103546
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_J.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_J.dae",
+    "size": [
+      0.20654800534248352,
+      0.4556390047073364,
+      0.2949860095977783
+    ],
+    "center_offset": [
+      0.0,
+      0.2278195023536682,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Alcohol_Bottle_K.dae",
+    "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_K.dae",
+    "size": [
+      0.203077994287014,
+      0.531823992729187,
+      0.22601200640201569
+    ],
+    "center_offset": [
+      -0.003419000655412674,
+      0.2659119963645935,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Empty.dae",
+    "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Cup_Metal_A_Empty.dae",
+    "size": [
+      0.14385300129652023,
+      0.1657710070721805,
+      0.14385300129652023
+    ],
+    "center_offset": [
+      0.00025649741291999817,
+      0.08549450361169875,
+      0.00016150251030921936
+    ],
+    "uuid": "66ee4e64-a517-4570-8c37-dd7b42cab6ee"
+  },
+  {
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Flipped.dae",
+    "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Cup_Metal_A_Flipped.dae",
+    "size": [
+      0.14385300129652023,
+      0.1655459959874861,
+      0.14385300129652023
+    ],
+    "center_offset": [
+      -0.00025649741291999817,
+      0.08334499798365869,
+      0.00016150251030921936
+    ],
+    "uuid": "5bf2bda3-613d-467a-9901-b468bb326856"
+  },
+  {
+    "name": "CONS_GEN_Drink_Mug_Metal_A_Empty.dae",
+    "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Mug_Metal_A_Empty.dae",
+    "size": [
+      0.22932399809360504,
+      0.21938400669023395,
+      0.1638839989900589
+    ],
+    "center_offset": [
+      0.03256800025701523,
+      0.11103800334967673,
+      2.399832010269165e-05
+    ],
+    "uuid": "9ab9c085-4d24-4b78-85ac-e16b19107ba7"
+  },
+  {
+    "name": "CONS_GEN_Drink_Mug_Metal_A_Full.dae",
+    "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Mug_Metal_A_Full.dae",
+    "size": [
+      0.22932399809360504,
+      0.2187280065845698,
+      0.1638839989900589
+    ],
+    "center_offset": [
+      0.03256800025701523,
+      0.1113660034025088,
+      2.399832010269165e-05
+    ]
+  },
+  {
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Full.dae",
+    "relative_path": "Consumables/CONS_GEN_Drink_ABC/Resources/CONS_GEN_Drink_Cup_Metal_A_Full.dae",
+    "size": [
+      0.14385300129652023,
+      0.1657710070721805,
+      0.14385300129652023
+    ],
+    "center_offset": [
+      0.00025649741291999817,
+      0.08549450361169875,
+      0.00016150251030921936
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Poutine.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Poutine.dae",
+    "size": [
+      0.4064739942550659,
+      0.2407110035419464,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.1203555017709732,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Stew_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Stew_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.15852999687194824,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07926499843597412,
+      0.0
+    ],
+    "uuid": "70e0c819-5c33-4708-8250-3d5c9bfbfed0"
+  },
+  {
+    "name": "CONS_GEN_Food_Stew_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Stew_B.dae",
+    "size": [
+      0.4078110009431839,
+      0.15943199396133423,
+      0.40667200088500977
+    ],
+    "center_offset": [
+      0.0006685033440589905,
+      0.07971599698066711,
+      9.900331497192383e-05
+    ],
+    "uuid": "20a42fb8-cb01-47c5-9fa0-1ddfc09b032d"
+  },
+  {
+    "name": "CINE_CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CINE_CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.04768600012175739,
+      0.4183950126171112
+    ],
+    "center_offset": [
+      0.0,
+      0.02524800004903227,
+      0.0071884989738464355
+    ],
+    "uuid": "9e86e4bd-87be-4039-b33d-cc30f439b46a"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Bubble_Squeak_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Bubble_Squeak_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.14765100181102753,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07382550090551376,
+      0.0
+    ],
+    "uuid": "2d657045-d6d4-4f03-9e5e-0bdf63cc48bf"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Milk_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Milk_A.dae",
+    "size": [
+      0.5099459886550903,
+      0.17439700663089752,
+      0.5080919861793518
+    ],
+    "center_offset": [
+      0.0,
+      0.08719850331544876,
+      0.0
+    ],
+    "uuid": "99da895b-19d9-46e4-be4d-7d0ffa8ad350"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Porridge_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Porridge_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.1430560052394867,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07152800261974335,
+      0.0
+    ],
+    "uuid": "ac2561bf-1cb9-4f14-b4c0-0bf740fe9d46"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Porridge_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Porridge_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.06865500057392637,
+      0.4187130033969879
+    ],
+    "center_offset": [
+      0.0,
+      0.03427150028619508,
+      0.005921497941017151
+    ],
+    "uuid": "c1bfe892-e1a6-42a4-8ab5-317fa8e8c11c"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Mushroom_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.13780899345874786,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.06890449672937393,
+      0.0
+    ],
+    "uuid": "f7a37058-43ef-4575-aa07-5e1e42eee8fd"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.04890099848853424,
+      0.4187760055065155
+    ],
+    "center_offset": [
+      0.0,
+      0.025098499230807647,
+      0.008486002683639526
+    ],
+    "uuid": "4bafc835-9139-486c-a59a-11aaf80ffa26"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Onion_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Onion_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.15138499438762665,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07569249719381332,
+      0.0
+    ],
+    "uuid": "d5443960-1383-4a32-a07b-d0031c9872a3"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Onion_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Onion_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.07515899749705568,
+      0.4187130033969879
+    ],
+    "center_offset": [
+      0.0,
+      0.03819549872423522,
+      0.005921497941017151
+    ],
+    "uuid": "b4c45370-2f6d-417b-ac9c-07f0b9de114f"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Peas_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Peas_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.13780899345874786,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.06890449672937393,
+      0.0
+    ],
+    "uuid": "aaece7bf-7210-4ae0-8162-d0f6484b2aa8"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Peas_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Peas_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.049657999828923494,
+      0.4187760055065155
+    ],
+    "center_offset": [
+      0.0,
+      0.025476999901002273,
+      0.008486002683639526
+    ],
+    "uuid": "463d1ef7-c9d2-4d5a-b637-9ccfa6b29662"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Shrimp_A.dae",
+    "size": [
+      0.4064739942550659,
+      0.16993799805641174,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.08496899902820587,
+      0.0
+    ],
+    "uuid": "4e43d7ec-8bc2-44b5-8c75-3dc6e6ee0bf0"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.09184300067136064,
+      0.4250189960002899
+    ],
+    "center_offset": [
+      0.0,
+      0.0465375003113877,
+      0.00276850163936615
+    ],
+    "uuid": "b22952f3-1874-4320-907f-5ca2219c6f63"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Vegetable_A.dae",
+    "size": [
+      0.41089199483394623,
+      0.13780899345874786,
+      0.4079799950122833
+    ],
+    "center_offset": [
+      0.002209000289440155,
+      0.06890449672937393,
+      -0.0007530003786087036
+    ],
+    "uuid": "a2a38210-b3ad-402e-9b63-3a4c272cebc7"
+  },
+  {
+    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_Rich_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Vegetable_Rich_A.dae",
+    "size": [
+      0.41739600896835327,
+      0.05022900132462382,
+      0.4187760055065155
+    ],
+    "center_offset": [
+      0.0,
+      0.026189500698819757,
+      0.008486002683639526
+    ],
+    "uuid": "cc8d243c-8483-4430-9ba0-b1ffca792314"
+  },
+  {
+    "name": "CONS_GEN_Food_Porridge_Potatoes.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Porridge_Potatoes.dae",
+    "size": [
+      0.4064739942550659,
+      0.15710200369358063,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07855100184679031,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Soup_A_Pumpkin.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Soup_A_Pumpkin.dae",
+    "size": [
+      0.4064739942550659,
+      0.15710200369358063,
+      0.4064739942550659
+    ],
+    "center_offset": [
+      0.0,
+      0.07855100184679031,
+      0.0
+    ],
+    "uuid": "5d20cf53-e360-440f-b2b1-9eddf40eb1ce"
+  },
+  {
+    "name": "CONS_FOOD_BreadRoll_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_FOOD_BreadRoll_A.dae",
+    "size": [
+      0.15637699514627457,
+      0.07535500032827258,
+      0.15646899491548538
+    ],
+    "center_offset": [
+      -0.00020049884915351868,
+      0.035266500199213624,
+      -0.0008285008370876312
+    ],
+    "uuid": "cc4b1203-b8cc-4eea-9d2f-956ec3bfb381"
+  },
+  {
+    "name": "CONS_FOOD_Cookie_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_FOOD_Cookie_A.dae",
+    "size": [
+      0.12082699686288834,
+      0.03551299846731126,
+      0.11285000294446945
+    ],
+    "center_offset": [
+      -0.0010655000805854797,
+      0.0150054992409423,
+      0.0007119998335838318
+    ],
+    "uuid": "a5242a01-c4c6-4767-a996-eb4779484539"
+  },
+  {
+    "name": "CONS_GEN_Food_Bread_Bagel_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Bagel_A.dae",
+    "size": [
+      0.2880520075559616,
+      0.10342199995648116,
+      0.2863309979438782
+    ],
+    "center_offset": [
+      -0.0011060014367103577,
+      0.05135799996787682,
+      0.0002245008945465088
+    ],
+    "uuid": "d2d0d39b-9269-46d1-855d-dc25e18b1a6e"
+  },
+  {
+    "name": "CONS_GEN_Food_Bread_Baguette_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Baguette_A.dae",
+    "size": [
+      0.1271269954741001,
+      0.10938600229565054,
+      1.0138300061225891
+    ],
+    "center_offset": [
+      -0.004789499565958977,
+      0.05326600110856816,
+      0.00669899582862854
+    ],
+    "uuid": "7481a74a-d167-4205-b6a6-4e79ec2e17d9"
+  },
+  {
+    "name": "CONS_GEN_Food_Bread_Bun_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Bun_A.dae",
+    "size": [
+      0.17407499998807907,
+      0.1542449983098777,
+      0.17339199781417847
+    ],
+    "center_offset": [
+      -0.007107499986886978,
+      0.07734649915801128,
+      -0.001819998025894165
+    ],
+    "uuid": "e604f4cc-4c17-4f40-9864-c7de41d9c211"
+  },
+  {
+    "name": "CONS_GEN_Food_Bread_Loaf_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Loaf_A.dae",
+    "size": [
+      0.41538599133491516,
+      0.1991689980495721,
+      0.4976720064878464
+    ],
+    "center_offset": [
+      0.0,
+      0.10229249892290682,
+      0.0027960017323493958
+    ],
+    "uuid": "e9e7db6c-d210-4dc4-ab0e-8458a506d0cc"
+  },
+  {
+    "name": "CONS_GEN_Food_Bread_Loaf_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Loaf_B.dae",
+    "size": [
+      0.29575300216674805,
+      0.19645800301805139,
+      0.6109170019626617
+    ],
+    "center_offset": [
+      -0.0024044960737228394,
+      0.09291600133292377,
+      0.001989498734474182
+    ],
+    "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Blue_Piece_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Piece_A.dae",
+    "size": [
+      0.08935599774122238,
+      0.16216799686662853,
+      0.25452999770641327
+    ],
+    "center_offset": [
+      0.0,
+      0.07734499836806208,
+      -0.0008779987692832947
+    ],
+    "uuid": "48f47287-908b-49aa-ab6a-5d4679ca4117"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Blue_Piece_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Piece_B.dae",
+    "size": [
+      0.32500699162483215,
+      0.1653700047172606,
+      0.23677200078964233
+    ],
+    "center_offset": [
+      0.0007845014333724976,
+      0.07721800240688026,
+      0.0
+    ],
+    "uuid": "6c4f585b-c6d1-42fe-b3ea-282d0d3ac3a3"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Blue_Wheel_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Wheel_A.dae",
+    "size": [
+      0.38895800709724426,
+      0.16010299453046173,
+      0.49180200695991516
+    ],
+    "center_offset": [
+      0.0,
+      0.07915049727307633,
+      0.0
+    ],
+    "uuid": "1a3fa26c-f97d-4106-a0c9-c1123ca8dcbc"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Piece_A.dae",
+    "size": [
+      0.21021100133657455,
+      0.18760500103235245,
+      0.28822000324726105
+    ],
+    "center_offset": [
+      -0.0005195029079914093,
+      0.08759750053286552,
+      -0.0003359988331794739
+    ],
+    "uuid": "06474f97-0dd0-45e6-8db8-5f75009bf336"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Piece_B.dae",
+    "size": [
+      0.12119399756193161,
+      0.17701000219676644,
+      0.3012700080871582
+    ],
+    "center_offset": [
+      0.0,
+      0.08729100105119869,
+      2.7999281883239746e-05
+    ],
+    "uuid": "a213b686-7b71-4634-ab15-85ec29ac018c"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Wheel_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Wheel_A.dae",
+    "size": [
+      0.57294100522995,
+      0.18159799417480826,
+      0.5712679922580719
+    ],
+    "center_offset": [
+      0.005869507789611816,
+      0.08406499703414738,
+      -0.004172995686531067
+    ],
+    "uuid": "8cca8f05-63b2-4bff-8494-9609bf29af66"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Goat_Piece_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Piece_A.dae",
+    "size": [
+      0.3104190081357956,
+      0.14253300218842924,
+      0.35861898958683014
+    ],
+    "center_offset": [
+      -0.03726550191640854,
+      0.07313250110018998,
+      0.006025500595569611
+    ],
+    "uuid": "cb0039bf-dd5e-41f2-8241-a52fa45e5ef6"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Goat_Piece_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Piece_B.dae",
+    "size": [
+      0.3476549983024597,
+      0.14688400266459212,
+      0.32999399304389954
+    ],
+    "center_offset": [
+      0.0002795010805130005,
+      0.07374000133131631,
+      0.002240002155303955
+    ],
+    "uuid": "41fe7d01-dd8a-4c7d-87f4-d397f9b479aa"
+  },
+  {
+    "name": "CONS_GEN_Food_Cheese_Goat_Wheel_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Wheel_A.dae",
+    "size": [
+      0.6200360059738159,
+      0.14563000411726534,
+      0.31929799914360046
+    ],
+    "center_offset": [
+      0.0,
+      0.07065500214230269,
+      0.00482100248336792
+    ],
+    "uuid": "f0b27ddf-8e58-438a-8a3f-7d7c339d86e2"
+  },
+  {
+    "name": "CONS_GEN_Food_Eggs_A_Rotten.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Egg_ABC/Resources/CONS_GEN_Food_Eggs_A_Rotten.dae",
+    "size": [
+      0.40197600424289703,
+      0.19542099814862013,
+      0.32749800384044647
+    ],
+    "center_offset": [
+      -0.001990996301174164,
+      0.0886424989439547,
+      -0.017834000289440155
+    ],
+    "uuid": "be312dcb-8ff5-4f6e-bcad-516c6fb7c249"
+  },
+  {
+    "name": "CONS_GEN_Food_Egg_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Egg_ABC/Resources/CONS_GEN_Food_Egg_A.dae",
+    "size": [
+      0.16545500606298447,
+      0.14418200496584177,
+      0.13556499779224396
+    ],
+    "center_offset": [
+      -0.0008154995739459991,
+      0.06838400242850184,
+      2.8498470783233643e-05
+    ],
+    "uuid": "86849852-69de-482e-b7f6-ddc7f607c517"
+  },
+  {
+    "name": "CONS_GEN_Food_FriedRats_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_A.dae",
+    "size": [
+      0.23831000924110413,
+      0.15901600290089846,
+      0.9785820245742798
+    ],
+    "center_offset": [
+      0.021521002054214478,
+      0.07307500159367919,
+      0.04662799835205078
+    ],
+    "uuid": "5d7f94c0-2748-45af-b1b4-2ad3dabb8a76"
+  },
+  {
+    "name": "CONS_GEN_Food_FriedRats_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_B.dae",
+    "size": [
+      0.5505320131778717,
+      0.1579539980739355,
+      0.9531520009040833
+    ],
+    "center_offset": [
+      0.04337300360202789,
+      0.06329299975186586,
+      -0.0013110041618347168
+    ],
+    "uuid": "d36be5aa-6ee3-4be7-9203-fe7f446b21de"
+  },
+  {
+    "name": "CONS_GEN_Food_FriedRats_C.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_C.dae",
+    "size": [
+      0.6531800031661987,
+      0.15568200079724193,
+      1.124737024307251
+    ],
+    "center_offset": [
+      -0.06088799238204956,
+      0.07447700039483607,
+      -0.016384482383728027
+    ],
+    "uuid": "6a08713b-47db-4b72-8419-3237a45c97fa"
+  },
+  {
+    "name": "CONS_GEN_Food_Grilled_Cormorant_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Grilled_Cormorant_ABC/Resources/CONS_GEN_Food_Grilled_Cormorant_A.dae",
+    "size": [
+      1.0284900069236755,
+      0.47106098756194115,
+      0.43620799481868744
+    ],
+    "center_offset": [
+      -0.07052800059318542,
+      0.22699949331581593,
+      0.08049000054597855
+    ],
+    "uuid": "edfd76e0-17b9-4f52-a5f9-5a4e441ddca1"
+  },
+  {
+    "name": "CONS_GEN_Food_Haggis_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Haggis_ABC/Resources/CONS_GEN_Food_Haggis_A.dae",
+    "size": [
+      0.5845719873905182,
+      0.23344500362873077,
+      0.5886940062046051
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.11672250181436539,
+      -0.0012270063161849976
+    ],
+    "uuid": "c97edbc4-66ce-442d-8f61-d406f6c176bf"
+  },
+  {
+    "name": "CONS_GEN_Food_Neogi_Claws_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Neogi_Claws_ABC/Resources/CONS_GEN_Food_Neogi_Claws_A.dae",
+    "size": [
+      1.0379239916801453,
+      0.2123269960284233,
+      0.5011149942874908
+    ],
+    "center_offset": [
+      0.00947597622871399,
+      0.12644149735569954,
+      -4.917383193969727e-07
+    ],
+    "uuid": "dca82ed8-5b3d-40dd-b3c1-9521b30f04b8"
+  },
+  {
+    "name": "CONS_GEN_Food_Pastrie_Bread_Braided_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Bread_Braided_A.dae",
+    "size": [
+      0.5423289835453033,
+      0.12168799649225548,
+      0.24815000593662262
+    ],
+    "center_offset": [
+      0.00014950335025787354,
+      0.06051599825150333,
+      0.005552999675273895
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Pastrie_Roll_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Roll_A.dae",
+    "size": [
+      0.18874099850654602,
+      0.10592000279575586,
+      0.19244999438524246
+    ],
+    "center_offset": [
+      -0.003600500524044037,
+      0.056225001346319914,
+      -7.599964737892151e-05
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Pastrie_Tart_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Tart_A.dae",
+    "size": [
+      0.3016030043363571,
+      0.049289000904536806,
+      0.30352000892162323
+    ],
+    "center_offset": [
+      -0.00024149566888809204,
+      0.02451950044633122,
+      0.0006740018725395203
+    ],
+    "uuid": "f32dd8e1-cf81-4995-9868-0fe5c23428a7"
+  },
+  {
+    "name": "CONS_GEN_Food_SalmonPie_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Pie_ABC/Resources/CONS_GEN_Food_SalmonPie_A.dae",
+    "size": [
+      0.6160460114479065,
+      0.10023099929094315,
+      0.4572739899158478
+    ],
+    "center_offset": [
+      4.1991472244262695e-05,
+      0.05011549964547157,
+      0.0
+    ],
+    "uuid": "8a039e47-d991-4808-a3ea-148f0c55f976"
+  },
+  {
+    "name": "CONS_GEN_Food_Pizza_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Pizza_A/Resources/CONS_GEN_Food_Pizza_A.dae",
+    "size": [
+      0.9205940067768097,
+      0.07598700182279572,
+      0.5688760280609131
+    ],
+    "center_offset": [
+      0.16330699622631073,
+      0.03721850088913925,
+      0.0
+    ],
+    "uuid": "1267816d-2074-41e6-be8f-bfdf20b5f04f"
+  },
+  {
+    "name": "CONS_GEN_Food_Dinner_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Dinner_A.dae",
+    "size": [
+      0.5845719873905182,
+      0.1811590027064085,
+      0.642115980386734
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.08770550135523081,
+      -0.029854997992515564
+    ],
+    "uuid": "98fef0a1-726e-410b-867f-808915741d2f"
+  },
+  {
+    "name": "CONS_GEN_Food_Fries_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Fries_A.dae",
+    "size": [
+      0.5845719873905182,
+      0.14793700631707907,
+      0.6006059944629669
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.06584450276568532,
+      0.00693298876285553
+    ],
+    "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+  },
+  {
+    "name": "CONS_GEN_Food_MashedPotato_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_MashedPotato_A.dae",
+    "size": [
+      0.5845719873905182,
+      0.16086399368941784,
+      0.5845730006694794
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.07755799684673548,
+      -0.0010835081338882446
+    ],
+    "uuid": "ee4025e5-11f2-401a-8198-885120af0b6b"
+  },
+  {
+    "name": "CONS_GEN_Food_MashedPotato_A_Spill.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_MashedPotato_A_Spill.dae",
+    "size": [
+      0.40162400901317596,
+      0.11847500363364816,
+      0.8581610023975372
+    ],
+    "center_offset": [
+      -0.003201000392436981,
+      0.053010501665994525,
+      0.07688049972057343
+    ],
+    "uuid": "0c2326a3-e01a-40f4-ab46-090fa4e812c6"
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_A.dae",
+    "size": [
+      0.5946319997310638,
+      0.04766699858009815,
+      0.594631016254425
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.020959499292075634,
+      -0.0010834932327270508
+    ],
+    "uuid": "2d722150-9d33-48c0-9cc2-1dd25c10b533"
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_A_Full.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_A_Full.dae",
+    "size": [
+      0.5845719873905182,
+      0.04757100157439709,
+      0.5845730006694794
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.0209115007892251,
+      -0.0010835081338882446
+    ]
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_Beholder_Eyes_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Beholder_Eyes_A.dae",
+    "size": [
+      0.6249099969863892,
+      0.19382800161838531,
+      0.5343160033226013
+    ],
+    "center_offset": [
+      -0.0012510120868682861,
+      0.09691400080919266,
+      0.0
+    ],
+    "uuid": "d0e9c5c0-4757-45d9-9311-0f178139c181"
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_Black_Pudding_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Black_Pudding_A.dae",
+    "size": [
+      0.4188949912786484,
+      0.12042599880533089,
+      0.4136179983615875
+    ],
+    "center_offset": [
+      0.0035744979977607727,
+      0.06022699940285747,
+      0.001641005277633667
+    ],
+    "uuid": "36fc6c55-478c-464f-86a2-910573fd8d4b"
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_Neogi_Rolls_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Neogi_Rolls_A.dae",
+    "size": [
+      0.39114099740982056,
+      0.1661820042745603,
+      0.3934219926595688
+    ],
+    "center_offset": [
+      0.0010264962911605835,
+      0.08307700213708813,
+      0.0007029995322227478
+    ],
+    "uuid": "31d10a5c-078a-48c9-a48e-17cedae39c35"
+  },
+  {
+    "name": "CONS_GEN_Food_Plate_Roast_Beef_Joint_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Roast_Beef_Joint_A.dae",
+    "size": [
+      0.4417939931154251,
+      0.200091994862305,
+      0.7807300090789795
+    ],
+    "center_offset": [
+      0.000903002917766571,
+      0.10035399741900619,
+      -0.0007219910621643066
+    ],
+    "uuid": "001376e1-2f21-4306-b510-0be29fa4941d"
+  },
+  {
+    "name": "CONS_GEN_Food_Potato_Scones_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Potato_Scones_ABC/Resources/CONS_GEN_Food_Potato_Scones_A.dae",
+    "size": [
+      0.5845719873905182,
+      0.12885999493300915,
+      0.5884070098400116
+    ],
+    "center_offset": [
+      0.0010799914598464966,
+      0.06155599746853113,
+      -0.0010835081338882446
+    ],
+    "uuid": "f59f02dd-245b-473d-a401-80de43e207a4"
+  },
+  {
+    "name": "CONS_GEN_Food_Steaks_Cooked_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Steaks_ABC/Resources/CONS_GEN_Food_Steaks_Cooked_A.dae",
+    "size": [
+      0.34380099177360535,
+      0.05347700137645006,
+      0.2818710058927536
+    ],
+    "center_offset": [
+      0.00012449920177459717,
+      0.018312500324100256,
+      0.000800497829914093
+    ],
+    "uuid": "e64e5de6-9c13-4d0b-9d23-ec404a34a469"
+  },
+  {
+    "name": "CONS_GEN_Food_Steaks_Raw_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Steaks_ABC/Resources/CONS_GEN_Food_Steaks_Raw_A.dae",
+    "size": [
+      0.35095299780368805,
+      0.044017001520842314,
+      0.2780829966068268
+    ],
+    "center_offset": [
+      -0.002566494047641754,
+      0.018543500686064363,
+      -0.0025925040245056152
+    ],
+    "uuid": "caf51333-338f-41f1-8cf9-3474dad331d4"
+  },
+  {
+    "name": "CONS_GEN_Food_Tart_Treacle_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A.dae",
+    "size": [
+      0.4014759957790375,
+      0.08601299673318863,
+      0.4014759957790375
+    ],
+    "center_offset": [
+      0.0,
+      0.043006498366594315,
+      0.0
+    ],
+    "uuid": "80e17dfc-f29e-4149-9c91-7b617efb0c77"
+  },
+  {
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Eaten_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Eaten_A.dae",
+    "size": [
+      0.39477600157260895,
+      0.08531499677337706,
+      0.30980300158262253
+    ],
+    "center_offset": [
+      2.2001564502716064e-05,
+      0.04127949837129563,
+      0.045836497098207474
+    ],
+    "uuid": "03057be5-c7d9-49f9-8539-6a7ecf674f63"
+  },
+  {
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Spoiled_A.dae",
+    "size": [
+      0.4014759957790375,
+      0.08995400369167328,
+      0.4014759957790375
+    ],
+    "center_offset": [
+      0.0,
+      0.04497700184583664,
+      0.0
+    ],
+    "uuid": "c5c39373-6a83-4a74-818a-da1642b9dfd0"
+  },
+  {
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A.dae",
+    "size": [
+      0.39477600157260895,
+      0.09358900366351008,
+      0.30980300158262253
+    ],
+    "center_offset": [
+      2.2001564502716064e-05,
+      0.04315950185991824,
+      0.045836497098207474
+    ],
+    "uuid": "d10402d9-e731-4af6-b93e-a6aec0806dc9"
+  },
+  {
+    "name": "CONS_GEN_Food_Turkey_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Turkey_ABC/Resources/CONS_GEN_Food_Turkey_A.dae",
+    "size": [
+      0.7038879990577698,
+      0.342529010027647,
+      1.1395249962806702
+    ],
+    "center_offset": [
+      0.0,
+      0.14491250552237034,
+      0.010705500841140747
+    ],
+    "uuid": "cdbd82e1-c092-487a-8e5d-d1f0a48c002b"
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Pepper_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Food_Vegetable_Pepper_ABC/Resources/CONS_FOOD_Vegetable_Pepper_A.dae",
+    "size": [
+      0.11646699905395508,
+      0.10854700207710266,
+      0.41534700989723206
+    ],
+    "center_offset": [
+      -0.00748249888420105,
+      0.04376950114965439,
+      -0.011459499597549438
+    ],
+    "uuid": "56cb4280-8c36-4b16-9852-834e45942ae0"
+  },
+  {
+    "name": "CONS_GEN_Spider_Meat_Hunk_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Spider_Meat_Hunk_ABC/Resources/CONS_GEN_Spider_Meat_Hunk_A.dae",
+    "size": [
+      0.13397200405597687,
+      0.054315999150276184,
+      0.1463029980659485
+    ],
+    "center_offset": [
+      0.0,
+      -6.400048732757568e-05,
+      5.498528480529785e-06
+    ]
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Horseradish_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_A.dae",
+    "size": [
+      0.8264600038528442,
+      0.1510669975541532,
+      0.4537460058927536
+    ],
+    "center_offset": [
+      0.003630995750427246,
+      0.07040249858982861,
+      -0.020130999386310577
+    ],
+    "uuid": "0e23a410-d7e6-454f-9061-abe3c60c6f5f"
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Horseradish_ABC.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_ABC.dae",
+    "size": [
+      0.8264600038528442,
+      0.1510669975541532,
+      0.4537460058927536
+    ],
+    "center_offset": [
+      0.003630995750427246,
+      0.07040249858982861,
+      -0.020130999386310577
+    ]
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Horseradish_B.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_B.dae",
+    "size": [
+      0.780036985874176,
+      0.07787400227971375,
+      0.31540099531412125
+    ],
+    "center_offset": [
+      -0.0005764961242675781,
+      0.035076001076959074,
+      -0.05019349977374077
+    ],
+    "uuid": "5bd00d87-c85e-4796-9de2-877b41a945b2"
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Mushroom_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Mushroom_A.dae",
+    "size": [
+      0.05867299996316433,
+      0.053742000134661794,
+      0.05777999944984913
+    ],
+    "center_offset": [
+      0.0008315006271004677,
+      0.023754000081680715,
+      -0.0007139993831515312
+    ],
+    "uuid": "cd3920b3-1706-4d34-9982-7dd2ad8e67b6"
+  },
+  {
+    "name": "CONS_FOOD_Vegetable_Tomato_A_Rotten.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Tomato_A_Rotten.dae",
+    "size": [
+      0.13693199679255486,
+      0.12273200275376439,
+      0.16416999697685242
+    ],
+    "center_offset": [
+      -0.009159998968243599,
+      0.05802900134585798,
+      0.0022919997572898865
+    ],
+    "uuid": "32a3bb2c-ce98-41ec-9476-06867d354ca3"
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Cabbage_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Cabbage_A.dae",
+    "size": [
+      0.2950340062379837,
+      0.3091829940676689,
+      0.30237598717212677
+    ],
+    "center_offset": [
+      -0.0019330009818077087,
+      0.11806449666619301,
+      -0.00014200061559677124
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Carrot_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Carrot_A.dae",
+    "size": [
+      0.0689840018749237,
+      0.07381600048393011,
+      0.35345499217510223
+    ],
+    "center_offset": [
+      0.0017499998211860657,
+      0.03267400013282895,
+      -0.03897450119256973
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Carrot_A_Rotten.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Carrot_A_Rotten.dae",
+    "size": [
+      0.06183700077235699,
+      0.06310199946165085,
+      0.3490079939365387
+    ],
+    "center_offset": [
+      0.0006865011528134346,
+      0.03206999972462654,
+      -0.032840996980667114
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Garlic_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Garlic_A.dae",
+    "size": [
+      0.1357019990682602,
+      0.19572799932211637,
+      0.11876600235700607
+    ],
+    "center_offset": [
+      2.600252628326416e-05,
+      0.08888299996033311,
+      0.0004520006477832794
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Onion_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Onion_A.dae",
+    "size": [
+      0.16536499559879303,
+      0.17181100510060787,
+      0.16133300215005875
+    ],
+    "center_offset": [
+      0.0008224993944168091,
+      0.07475950289517641,
+      -0.004770498722791672
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Potato_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Potato_A.dae",
+    "size": [
+      0.22698300331830978,
+      0.14967200066894293,
+      0.16166000068187714
+    ],
+    "center_offset": [
+      -0.0015075020492076874,
+      0.06298700021579862,
+      0.0030879974365234375
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Potato_Boiled_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Potato_Boiled_A.dae",
+    "size": [
+      0.22698300331830978,
+      0.14967200066894293,
+      0.16166000068187714
+    ],
+    "center_offset": [
+      -0.0015075020492076874,
+      0.06298700021579862,
+      0.0030879974365234375
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Pumpkin_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Pumpkin_A.dae",
+    "size": [
+      0.4457480013370514,
+      0.2726790141314268,
+      0.4483399987220764
+    ],
+    "center_offset": [
+      -0.0011740028858184814,
+      0.12645650748163462,
+      -0.0022030025720596313
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Squash_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Squash_A.dae",
+    "size": [
+      0.2889540046453476,
+      0.2992640077136457,
+      0.26678599417209625
+    ],
+    "center_offset": [
+      0.01699800044298172,
+      0.1433250040281564,
+      0.0025650039315223694
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_SweetPotato_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_SweetPotato_A.dae",
+    "size": [
+      0.32513299584388733,
+      0.09912800136953592,
+      0.0967629998922348
+    ],
+    "center_offset": [
+      0.0031194984912872314,
+      0.04045600024983287,
+      -0.0011175014078617096
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Tomato_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Tomato_A.dae",
+    "size": [
+      0.1411530002951622,
+      0.1297259961720556,
+      0.14008799940347672
+    ],
+    "center_offset": [
+      -0.0006474964320659637,
+      0.06387799803633243,
+      0.0010810010135173798
+    ]
+  },
+  {
+    "name": "CONS_GEN_Vegetable_Turnip_A.dae",
+    "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Turnip_A.dae",
+    "size": [
+      0.20923899859189987,
+      0.18433399498462677,
+      0.20039299875497818
+    ],
+    "center_offset": [
+      0.004300501197576523,
+      0.07669799774885178,
+      0.0014544986188411713
+    ]
+  },
+  {
+    "name": "CONS_Herbs_Autumncrocus_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Autumncrocus_Bundle_A.dae",
+    "size": [
+      0.6842979788780212,
+      0.5724820212926716,
+      0.514814019203186
+    ],
+    "center_offset": [
+      -0.0003120005130767822,
+      0.2830250106053427,
+      0.0
+    ],
+    "uuid": "06f3a0c4-af50-4a79-8c1a-1ace6d1282f2"
+  },
+  {
+    "name": "CONS_Herbs_Autumncrocus_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Autumncrocus_Plant_A.dae",
+    "size": [
+      0.5032920092344284,
+      0.8184499964118004,
+      0.44987401366233826
+    ],
+    "center_offset": [
+      -0.013890005648136139,
+      0.3472429998219013,
+      -0.015478000044822693
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "CONS_Herbs_Balsam_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Balsam_Bundle_A.dae",
+    "size": [
+      0.34185799956321716,
+      0.3121880106627941,
+      0.8468410074710846
+    ],
+    "center_offset": [
+      0.05177199840545654,
+      0.13632900454103947,
+      0.030191496014595032
+    ],
+    "uuid": "fb318355-d2d9-48c5-8ef1-d0e574cef0d5"
+  },
+  {
+    "name": "CONS_Herbs_Balsam_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Balsam_Plant_A.dae",
+    "size": [
+      0.6898370087146759,
+      1.5383810345083475,
+      0.6141020059585571
+    ],
+    "center_offset": [
+      -0.0007074922323226929,
+      0.7534125177189708,
+      -0.037880003452301025
+    ],
+    "uuid": "9a524608-1ad1-4d01-ae99-76fb3c513b3c"
+  },
+  {
+    "name": "CONS_Herbs_Belladonna_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Belladonna_Bundle_A.dae",
+    "size": [
+      0.31804899871349335,
+      0.23855900019407272,
+      1.0304630100727081
+    ],
+    "center_offset": [
+      -0.006528504192829132,
+      0.04518349841237068,
+      -0.06508050858974457
+    ],
+    "uuid": "897f5ff9-d889-4b78-a1d7-afa88ccaadb3"
+  },
+  {
+    "name": "CONS_Herbs_Belladonna_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Belladonna_Plant_A.dae",
+    "size": [
+      0.932561993598938,
+      1.3775590173900127,
+      1.1213990449905396
+    ],
+    "center_offset": [
+      0.08215600252151489,
+      0.6470315102487803,
+      0.001739501953125
+    ],
+    "uuid": "1a7d3387-3c57-4ae7-9e7a-eb0eb0199dc3"
+  },
+  {
+    "name": "CONS_Herbs_Daggeroot_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Daggeroot_Bundle_A.dae",
+    "size": [
+      0.38349398970603943,
+      0.29667099565267563,
+      0.7607580125331879
+    ],
+    "center_offset": [
+      0.0,
+      0.03393850103020668,
+      0.006189003586769104
+    ],
+    "uuid": "12126dc3-50ce-48cd-836f-c4d769a85134"
+  },
+  {
+    "name": "CONS_Herbs_Daggeroot_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Daggeroot_Plant_A.dae",
+    "size": [
+      0.9442740082740784,
+      1.5417280197143555,
+      0.7714070081710815
+    ],
+    "center_offset": [
+      -0.08425500988960266,
+      0.7510960102081299,
+      -0.005013495683670044
+    ],
+    "uuid": "374c2898-cea4-43c9-9687-6d99a0c92ad7"
+  },
+  {
+    "name": "CONS_Herbs_Mergrass_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mergrass_Bundle_A.dae",
+    "size": [
+      0.23689399659633636,
+      0.20569899678230286,
+      0.687578022480011
+    ],
+    "center_offset": [
+      0.0,
+      0.03942149877548218,
+      0.0
+    ],
+    "uuid": "0a494c98-84c0-4055-8208-0e363bd53ed3"
+  },
+  {
+    "name": "CONS_Herbs_Mergrass_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mergrass_Plant_A.dae",
+    "size": [
+      0.7406830191612244,
+      1.2179320007562637,
+      0.5585989952087402
+    ],
+    "center_offset": [
+      -0.028334498405456543,
+      0.5467410013079643,
+      0.021282494068145752
+    ],
+    "uuid": "3e518433-1923-43f5-856f-848028ac3bad"
+  },
+  {
+    "name": "CONS_Herbs_Mugwort_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mugwort_Bundle_A.dae",
+    "size": [
+      0.3670379966497421,
+      0.30455999821424484,
+      1.0128690004348755
+    ],
+    "center_offset": [
+      -6.60046935081482e-05,
+      0.1280989982187748,
+      -0.006438493728637695
+    ],
+    "uuid": "a0776643-f25b-4aef-a025-bff959d8dd0f"
+  },
+  {
+    "name": "CONS_Herbs_Mugwort_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mugwort_Plant_A.dae",
+    "size": [
+      0.7446480095386505,
+      1.8166309660300612,
+      0.6111710071563721
+    ],
+    "center_offset": [
+      0.05978100001811981,
+      0.9079164830036461,
+      -0.018152505159378052
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "CONS_Herbs_Weavemoss_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Weavemoss_Bundle_A.dae",
+    "size": [
+      0.42503000795841217,
+      0.27273300290107727,
+      0.9739840030670166
+    ],
+    "center_offset": [
+      0.00210600346326828,
+      0.0660025030374527,
+      0.0
+    ],
+    "uuid": "0a64fa93-9123-4810-a656-2c8b27c87563"
+  },
+  {
+    "name": "CONS_Herbs_Weavemoss_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Weavemoss_Plant_A.dae",
+    "size": [
+      0.6623909771442413,
+      0.9007839784026146,
+      0.4340460002422333
+    ],
+    "center_offset": [
+      -0.06233949959278107,
+      0.37956299260258675,
+      0.006989002227783203
+    ],
+    "uuid": "35878644-f61a-47c5-9256-d724ac88217c"
+  },
+  {
+    "name": "CONS_Herbs_Wispweed_Bundle_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Wispweed_Bundle_A.dae",
+    "size": [
+      0.24029400199651718,
+      0.13501600082963705,
+      0.5216719806194305
+    ],
+    "center_offset": [
+      -0.0056970007717609406,
+      0.05771200032904744,
+      0.000992998480796814
+    ],
+    "uuid": "4faa8cef-27ee-4085-aa90-78fcf8e2e72d"
+  },
+  {
+    "name": "CONS_Herbs_Wispweed_Plant_A.dae",
+    "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Wispweed_Plant_A.dae",
+    "size": [
+      0.8713200092315674,
+      1.3463030122220516,
+      0.4698520004749298
+    ],
+    "center_offset": [
+      -0.10931599140167236,
+      0.6187645066529512,
+      -0.013151004910469055
+    ],
+    "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+  },
+  {
+    "name": "CONS_Poison_Drow_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Drow_ABC/Resources/CONS_Poison_Drow_A.dae",
+    "size": [
+      0.3021889925003052,
+      0.12608300533611327,
+      0.1273229978978634
+    ],
+    "center_offset": [
+      0.016879498958587646,
+      0.062019502685870975,
+      -0.003712499514222145
+    ]
+  },
+  {
+    "name": "CONS_Poison_Essence_Of_Ether_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Essence_Of_Ether_ABC/Resources/CONS_Poison_Essence_Of_Ether_A.dae",
+    "size": [
+      0.18816400319337845,
+      0.3239879906177521,
+      0.17566899955272675
+    ],
+    "center_offset": [
+      -0.02439500018954277,
+      0.16199399530887604,
+      -0.018408499658107758
+    ]
+  },
+  {
+    "name": "CONS_Poison_Malice_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Malice_ABC/Resources/CONS_Poison_Malice_A.dae",
+    "size": [
+      0.20258000493049622,
+      0.40927498976816423,
+      0.18653400242328644
+    ],
+    "center_offset": [
+      0.0,
+      0.20427349487727042,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Poison_Purple_Worm_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Purple_Worm_ABC/Resources/CONS_Poison_Purple_Worm_A.dae",
+    "size": [
+      0.2982740104198456,
+      0.370516007184051,
+      0.20785300433635712
+    ],
+    "center_offset": [
+      0.0012769997119903564,
+      0.18402400362538174,
+      -4.991888999938965e-07
+    ]
+  },
+  {
+    "name": "CONS_Poison_Serpent_Venom_A.dae",
+    "relative_path": "Consumables/CONS_Poison_Serpent_Venom_ABC/Resources/CONS_Poison_Serpent_Venom_A.dae",
+    "size": [
+      0.16650400310754776,
+      0.4156659906730056,
+      0.17081999778747559
+    ],
+    "center_offset": [
+      -0.0029920004308223724,
+      0.19963499577715993,
+      0.002272002398967743
+    ]
+  },
+  {
+    "name": "CONS_Potion_AnimalSpeaking_A.dae",
+    "relative_path": "Consumables/CONS_Potion_AnimalSpeaking_ABC/Resources/CONS_Potion_AnimalSpeaking_A.dae",
+    "size": [
+      0.32872000336647034,
+      0.7427609786391258,
+      0.3416079878807068
+    ],
+    "center_offset": [
+      0.0,
+      0.37007148936390877,
+      0.0
+    ],
+    "uuid": "447ee8a9-9319-4758-9dc7-2d8ba94e45b5"
+  },
+  {
+    "name": "CONS_Potion_Antitoxin_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Antitoxin_ABC/Resources/CONS_Potion_Antitoxin_A.dae",
+    "size": [
+      0.32415300607681274,
+      0.44453599138068967,
+      0.17327599972486496
+    ],
+    "center_offset": [
+      -0.022535502910614014,
+      0.22189699568843935,
+      -0.01533300057053566
+    ]
+  },
+  {
+    "name": "CONS_Potion_ArmsOfHadar_A.dae",
+    "relative_path": "Consumables/CONS_Potion_ArmsOfHadar_ABC/Resources/CONS_Potion_ArmsOfHadar_A.dae",
+    "size": [
+      0.24946599453687668,
+      0.5630350005812943,
+      0.20607300102710724
+    ],
+    "center_offset": [
+      -0.030960995703935623,
+      0.2865395003464073,
+      -0.011863499879837036
+    ]
+  },
+  {
+    "name": "CONS_Potion_Attack_Buff_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Attack_Buff_ABC/Resources/CONS_Potion_Attack_Buff_A.dae",
+    "size": [
+      0.21277600526809692,
+      0.39620098638988566,
+      0.21256600320339203
+    ],
+    "center_offset": [
+      -0.0001059994101524353,
+      0.19795249318849528,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Barkskin_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Barkskin_ABC/Resources/CONS_Potion_Barkskin_A.dae",
+    "size": [
+      0.2941740080714226,
+      0.5679390250843426,
+      0.30240000784397125
+    ],
+    "center_offset": [
+      0.04206300154328346,
+      0.28402651254327793,
+      0.006802000105381012
+    ]
+  },
+  {
+    "name": "CONS_Potion_Bottled_Breath_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Bottled_Breath_ABC/Resources/CONS_Potion_Bottled_Breath_A.dae",
+    "size": [
+      0.2058980017900467,
+      0.4908349971228745,
+      0.2058980017900467
+    ],
+    "center_offset": [
+      0.0,
+      0.24539849856228102,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Dye_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Dye_ABC/Resources/CONS_Potion_Dye_A.dae",
+    "size": [
+      0.267751008272171,
+      0.5016690167831257,
+      0.2675800025463104
+    ],
+    "center_offset": [
+      -8.550286293029785e-05,
+      0.2516445083892904,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Elixir_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Elixir_ABC/Resources/CONS_Potion_Elixir_A.dae",
+    "size": [
+      0.267751008272171,
+      0.5016690167831257,
+      0.2675800025463104
+    ],
+    "center_offset": [
+      -8.550286293029785e-05,
+      0.2516445083892904,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Enlarge_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Enlarge_ABC/Resources/CONS_Potion_Enlarge_A.dae",
+    "size": [
+      0.3486019968986511,
+      0.45890501141548157,
+      0.3436190038919449
+    ],
+    "center_offset": [
+      -0.0009209960699081421,
+      0.22945250570774078,
+      -0.00013049691915512085
+    ]
+  },
+  {
+    "name": "CONS_Potion_FireBreath_A.dae",
+    "relative_path": "Consumables/CONS_Potion_FireBreath_ABC/Resources/CONS_Potion_FireBreath_A.dae",
+    "size": [
+      0.2023179978132248,
+      0.4539859890937805,
+      0.2026979997754097
+    ],
+    "center_offset": [
+      -0.0002679973840713501,
+      0.22699299454689026,
+      -2.9999762773513794e-05
+    ]
+  },
+  {
+    "name": "CONS_Potion_Flight_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Flight/CONS_Potion_Flight_A.dae",
+    "size": [
+      0.2878020107746124,
+      0.5443019866943359,
+      0.2724199891090393
+    ],
+    "center_offset": [
+      0.0,
+      0.27215099334716797,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_GaseousForm_A.dae",
+    "relative_path": "Consumables/CONS_Potion_GaseousForm_ABC/Resources/CONS_Potion_GaseousForm_A.dae",
+    "size": [
+      0.21804000437259674,
+      0.514844007731881,
+      0.21760599315166473
+    ],
+    "center_offset": [
+      9.998679161071777e-06,
+      0.25744500386645086,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Healing_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A.dae",
+    "size": [
+      0.3497280031442642,
+      0.31152198708150536,
+      0.2703710049390793
+    ],
+    "center_offset": [
+      0.0007039979100227356,
+      0.15556199353886768,
+      0.07797550410032272
+    ],
+    "uuid": "d47006e9-8a51-453d-b200-9e0d42e9bbab"
+  },
+  {
+    "name": "CONS_Potion_Healing_A_Greater.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Greater.dae",
+    "size": [
+      0.3628010004758835,
+      0.3568660020828247,
+      0.35561399906873703
+    ],
+    "center_offset": [
+      0.03039049357175827,
+      0.17843300104141235,
+      0.11070800200104713
+    ],
+    "uuid": "e3b95c96-dc26-40fe-bfc0-baa05e1abd20"
+  },
+  {
+    "name": "CONS_Potion_Healing_A_Superior.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Superior.dae",
+    "size": [
+      0.2740139961242676,
+      0.4723289906978607,
+      0.2740139961242676
+    ],
+    "center_offset": [
+      0.0,
+      0.23616449534893036,
+      0.0
+    ],
+    "uuid": "df4f3495-abaf-4732-b82f-55bcccd561db"
+  },
+  {
+    "name": "CONS_Potion_Healing_A_Supreme.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Supreme.dae",
+    "size": [
+      0.5757449865341187,
+      0.6203809746075422,
+      0.5791409909725189
+    ],
+    "center_offset": [
+      0.006751507520675659,
+      0.30772448738571256,
+      0.09476949274539948
+    ],
+    "uuid": "7d78f227-e8d4-486d-8121-25cf0bee751d"
+  },
+  {
+    "name": "CINE_CONS_Potion_Healing_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/Resources/CINE_CONS_Potion_Healing_A.dae",
+    "size": [
+      0.11631199717521667,
+      0.3023839901579777,
+      0.1154709979891777
+    ],
+    "center_offset": [
+      0.0,
+      0.15102599508099956,
+      -2.5499612092971802e-05
+    ],
+    "uuid": "efa94853-b819-402d-a257-5c1d56c97992"
+  },
+  {
+    "name": "CINE_CONS_Potion_Healing_A_Greater.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/Resources/CINE_CONS_Potion_Healing_A_Greater.dae",
+    "size": [
+      0.24541600048542023,
+      0.3568660020828247,
+      0.1348000019788742
+    ],
+    "center_offset": [
+      0.0,
+      0.17843300104141235,
+      0.0
+    ],
+    "uuid": "d05e26c0-49a9-4e94-af79-5fcb9f1c3fa9"
+  },
+  {
+    "name": "CONS_Potion_Healing_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/Resources/CONS_Potion_Healing_A.dae",
+    "size": [
+      0.3497280031442642,
+      0.31152198708150536,
+      0.2703710049390793
+    ],
+    "center_offset": [
+      0.0007039979100227356,
+      0.15556199353886768,
+      0.07797550410032272
+    ],
+    "uuid": "d47006e9-8a51-453d-b200-9e0d42e9bbab"
+  },
+  {
+    "name": "CONS_Potion_Healing_A_Supreme.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/Resources/CONS_Potion_Healing_A_Supreme.dae",
+    "size": [
+      0.3823019862174988,
+      0.6179149746894836,
+      0.3859519958496094
+    ],
+    "center_offset": [
+      0.0,
+      0.3089574873447418,
+      -0.0018250048160552979
+    ],
+    "uuid": "7d78f227-e8d4-486d-8121-25cf0bee751d"
+  },
+  {
+    "name": "INTERACT_CONS_Potion_Healing_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Healing/Resources/INTERACT_CONS_Potion_Healing_A.dae",
+    "size": [
+      0.30238399654626846,
+      0.3023839901579777,
+      0.11642399802803993
+    ],
+    "center_offset": [
+      0.05102599784731865,
+      0.15102599508099956,
+      -2.400018274784088e-05
+    ],
+    "uuid": "6807bb1d-6ede-432f-93dd-f5dc7c7a8ece"
+  },
+  {
+    "name": "CONS_Potion_Heated_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Heated/CONS_Potion_Heated_A.dae",
+    "size": [
+      0.30235400795936584,
+      0.466170996427536,
+      0.3137350082397461
+    ],
+    "center_offset": [
+      0.0,
+      0.233085498213768,
+      -0.001328498125076294
+    ]
+  },
+  {
+    "name": "CONS_Potion_Heated_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Heated/Resources/CONS_Potion_Heated_A.dae",
+    "size": [
+      0.30235400795936584,
+      0.466170996427536,
+      0.3137350082397461
+    ],
+    "center_offset": [
+      0.0,
+      0.233085498213768,
+      -0.001328498125076294
+    ]
+  },
+  {
+    "name": "CONS_Potion_HolyWater_A.dae",
+    "relative_path": "Consumables/CONS_Potion_HolyWater_ABC/Resources/CONS_Potion_HolyWater_A.dae",
+    "size": [
+      0.24083200842142105,
+      0.5651209955103695,
+      0.46094900369644165
+    ],
+    "center_offset": [
+      0.0070610009133815765,
+      0.2782244978006929,
+      -0.05234450101852417
+    ]
+  },
+  {
+    "name": "CONS_Potion_Invisibility_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Invisibility_ABC/Resources/CONS_Potion_Invisibility_A.dae",
+    "size": [
+      0.28327199816703796,
+      0.12141399877145886,
+      0.608042985200882
+    ],
+    "center_offset": [
+      -0.007066994905471802,
+      0.05975599936209619,
+      0.03523649275302887
+    ]
+  },
+  {
+    "name": "CONS_Potion_Invisibility_A_Cinematic_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Invisibility_ABC/Resources/CONS_Potion_Invisibility_A_Cinematic_A.dae",
+    "size": [
+      0.09105599671602249,
+      0.26666300743818283,
+      0.09105599671602249
+    ],
+    "center_offset": [
+      0.0,
+      -0.011321503669023514,
+      -0.0003100000321865082
+    ]
+  },
+  {
+    "name": "CONS_Potion_Invulnerability_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Invulnerability_ABC/Resources/CONS_Potion_Invulnerability_A.dae",
+    "size": [
+      0.23497599363327026,
+      0.45618198997544823,
+      0.2370239943265915
+    ],
+    "center_offset": [
+      0.0,
+      0.22799799498534412,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Mindflayer_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_A.dae",
+    "size": [
+      0.17881999909877777,
+      0.42280300593120046,
+      0.17881999909877777
+    ],
+    "center_offset": [
+      0.0,
+      0.21094750297197606,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Mindflayer_B.dae",
+    "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_B.dae",
+    "size": [
+      0.1896970048546791,
+      0.4551650116336532,
+      0.18969599902629852
+    ],
+    "center_offset": [
+      -4.7501176595687866e-05,
+      0.22697750580846332,
+      3.100186586380005e-05
+    ]
+  },
+  {
+    "name": "CONS_Potion_Mindflayer_C.dae",
+    "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_C.dae",
+    "size": [
+      0.22899200022220612,
+      0.47105900224414654,
+      0.22899200022220612
+    ],
+    "center_offset": [
+      0.0,
+      0.23516650112287607,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Misty_Step_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Misty_Step_ABC/Resources/CONS_Potion_Misty_Step_A.dae",
+    "size": [
+      0.1682639941573143,
+      0.36872700706589967,
+      0.16201099753379822
+    ],
+    "center_offset": [
+      0.0004980005323886871,
+      0.18382550351088867,
+      0.0018725022673606873
+    ]
+  },
+  {
+    "name": "CONS_Potion_Rare_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Rare/CONS_Potion_Rare_A.dae",
+    "size": [
+      0.4909619987010956,
+      0.6587460041046143,
+      0.2669680118560791
+    ],
+    "center_offset": [
+      0.0,
+      0.32937300205230713,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Regeneration_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Regeneration/Resources/CONS_Potion_Regeneration_A.dae",
+    "size": [
+      0.2187660038471222,
+      0.6018100248107885,
+      0.22022200375795364
+    ],
+    "center_offset": [
+      0.0,
+      0.30090401240539677,
+      0.0007279999554157257
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Acid_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Acid_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Energy_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Energy_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Fire_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Fire_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Frost_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Frost_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Lightning_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Lightning_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Necro_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Necro_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Poison_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Poison_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Psy_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Psy_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.14972399920225143
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.000994998961687088
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Radiant_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Radiant_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.1502770036458969
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.0012715011835098267
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Thunder_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Thunder_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.1502770036458969
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.0012715011835098267
+    ]
+  },
+  {
+    "name": "CONS_Potion_Resistance_Universal_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Universal_A.dae",
+    "size": [
+      0.15306899696588516,
+      0.36441798896703403,
+      0.1502770036458969
+    ],
+    "center_offset": [
+      -5.650147795677185e-05,
+      0.18207799449010054,
+      -0.0012715011835098267
+    ]
+  },
+  {
+    "name": "CONS_Potion_Sleep_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Sleep_ABC/Resources/CONS_Potion_Sleep_A.dae",
+    "size": [
+      0.22005799412727356,
+      0.5906090140342712,
+      0.22005799412727356
+    ],
+    "center_offset": [
+      0.0,
+      0.2953045070171356,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Sleep_A_Opened_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Sleep_ABC/Resources/CONS_Potion_Sleep_A_Opened_A.dae",
+    "size": [
+      0.22005799412727356,
+      0.5059400200843811,
+      0.22005799412727356
+    ],
+    "center_offset": [
+      0.0,
+      0.25297001004219055,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Speed_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Speed_ABC/Resources/CONS_Potion_Speed_A.dae",
+    "size": [
+      0.3865320086479187,
+      0.3644289970397949,
+      0.24949200451374054
+    ],
+    "center_offset": [
+      0.0,
+      0.18221449851989746,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Status_Cure_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Status_Cure_A/Resources/CONS_Potion_Status_Cure_A.dae",
+    "size": [
+      0.21339799463748932,
+      0.6728890257654712,
+      0.21339800208806992
+    ],
+    "center_offset": [
+      0.0,
+      0.33600251289317384,
+      -0.004856999963521957
+    ]
+  },
+  {
+    "name": "CONS_Potion_Strength_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Strength_ABC/Resources/CONS_Potion_Strength_A.dae",
+    "size": [
+      0.2683520019054413,
+      0.4889359979570145,
+      0.2495259940624237
+    ],
+    "center_offset": [
+      0.0,
+      0.24459299898444442,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Tribal_A_Greater.dae",
+    "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Greater.dae",
+    "size": [
+      0.2561520040035248,
+      0.3329260051250458,
+      0.18728700280189514
+    ],
+    "center_offset": [
+      -0.007172003388404846,
+      0.1664630025625229,
+      0.00029049813747406006
+    ]
+  },
+  {
+    "name": "CONS_Potion_Tribal_A_Small.dae",
+    "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Small.dae",
+    "size": [
+      0.17391200363636017,
+      0.1929600018193014,
+      0.20761899650096893
+    ],
+    "center_offset": [
+      0.0,
+      0.0970080009137746,
+      -0.014866501092910767
+    ]
+  },
+  {
+    "name": "CONS_Potion_Tribal_A_Superior.dae",
+    "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Superior.dae",
+    "size": [
+      0.2714970037341118,
+      0.4335790139157325,
+      0.2405340000987053
+    ],
+    "center_offset": [
+      -0.036939505487680435,
+      0.21410650701727718,
+      -0.021458003669977188
+    ]
+  },
+  {
+    "name": "CONS_Potion_Tribal_A_Supreme.dae",
+    "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Supreme.dae",
+    "size": [
+      0.36002999544143677,
+      0.515663970290916,
+      0.29381000995635986
+    ],
+    "center_offset": [
+      -0.024352997541427612,
+      0.257498985141865,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_Vitality_A.dae",
+    "relative_path": "Consumables/CONS_Potion_Vitality_ABC/Resources/CONS_Potion_Vitality_A.dae",
+    "size": [
+      0.12941499799489975,
+      0.4367850124835968,
+      0.12909799814224243
+    ],
+    "center_offset": [
+      0.00015849992632865906,
+      0.2183925062417984,
+      0.0
+    ]
+  },
+  {
+    "name": "CONS_Potion_X_Resistance_A.dae",
+    "relative_path": "Consumables/CONS_Potion_X_Resistance_ABC/Resources/CONS_Potion_X_Resistance_A.dae",
+    "size": [
+      0.2676900029182434,
+      0.5054760250495747,
+      0.27121099829673767
+    ],
+    "center_offset": [
+      0.0,
+      0.2535480125225149,
+      0.001815497875213623
+    ]
+  }
+]

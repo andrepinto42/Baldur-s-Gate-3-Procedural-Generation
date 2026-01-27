@@ -1,0 +1,954 @@
+[
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A.dae",
+    "size": [
+      0.8837079736251781,
+      2.4363670498132706,
+      0.2790820002555847
+    ],
+    "center_offset": [
+      -0.4418519868125941,
+      1.181045524775982,
+      -0.0012940019369125366
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A_Flip.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A_Flip.dae",
+    "size": [
+      0.875245988368988,
+      2.4363670498132706,
+      0.2815150022506714
+    ],
+    "center_offset": [
+      -0.437622994184494,
+      1.181045524775982,
+      -0.0021265000104904175
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_A.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_A.dae",
+    "size": [
+      1.1123469918966293,
+      2.1091769970953465,
+      0.4608200043439865
+    ],
+    "center_offset": [
+      -0.48326749354600906,
+      1.0335414987057447,
+      0.015904001891613007
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_B.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_B.dae",
+    "size": [
+      1.0505859851837158,
+      2.1528809145092964,
+      0.5259340107440948
+    ],
+    "center_offset": [
+      -0.5252929925918579,
+      1.0132094584405422,
+      0.004111006855964661
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B.dae",
+    "size": [
+      2.1275589913129807,
+      2.285039909183979,
+      0.5313499867916107
+    ],
+    "center_offset": [
+      -1.034072495996952,
+      1.0792889557778835,
+      -0.00140400230884552
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B_Flip.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B_Flip.dae",
+    "size": [
+      2.0353550240397453,
+      2.1091769970953465,
+      0.4608200043439865
+    ],
+    "center_offset": [
+      -0.9447725154459476,
+      1.0335414987057447,
+      0.015904001891613007
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_S_Piece_A.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_S_Piece_A.dae",
+    "size": [
+      2.043912000954151,
+      2.2809569910168648,
+      0.529759019613266
+    ],
+    "center_offset": [
+      -0.9780439995229244,
+      1.0772474966943264,
+      0.002804502844810486
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_A.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_A.dae",
+    "size": [
+      4.073617048561573,
+      2.2927780225872993,
+      0.5319550037384033
+    ],
+    "center_offset": [
+      -1.9928965233266354,
+      1.0831580124795437,
+      0.0017065107822418213
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_E.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_E.dae",
+    "size": [
+      4.073617048561573,
+      2.296636112034321,
+      0.5319550037384033
+    ],
+    "center_offset": [
+      -1.9928965233266354,
+      1.0850870572030544,
+      0.0017065107822418213
+    ]
+  },
+  {
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_F.dae",
+    "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_F.dae",
+    "size": [
+      4.073617048561573,
+      2.283723071217537,
+      0.5560380220413208
+    ],
+    "center_offset": [
+      -1.9928965233266354,
+      1.0597695335745811,
+      -0.010334998369216919
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_A.dae",
+    "size": [
+      10.003088259836659,
+      7.664154767990112,
+      49.989511489868164
+    ],
+    "center_offset": [
+      -5.003844129969366,
+      5.914158463478088,
+      0.0009374618530273438
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_B.dae",
+    "size": [
+      10.234482646454126,
+      9.758291959762573,
+      49.993818283081055
+    ],
+    "center_offset": [
+      -5.114485323196277,
+      7.270456910133362,
+      0.0030908584594726562
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_C.dae",
+    "size": [
+      10.027619138360023,
+      9.396097660064697,
+      49.98779487609863
+    ],
+    "center_offset": [
+      -4.986187569797039,
+      6.868902921676636,
+      0.006104469299316406
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_D.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_D.dae",
+    "size": [
+      10.0,
+      7.545015811920166,
+      49.98779487609863
+    ],
+    "center_offset": [
+      -5.0,
+      5.966707944869995,
+      0.006102561950683594
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "size": [
+      50.00545680569485,
+      10.111282348632812,
+      49.993818283081055
+    ],
+    "center_offset": [
+      -24.99997240281664,
+      7.099612236022949,
+      0.0030908584594726562
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "size": [
+      50.02761459350586,
+      9.44499945640564,
+      49.98779487609863
+    ],
+    "center_offset": [
+      -25.01380729675293,
+      6.84703266620636,
+      0.006102561950683594
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "size": [
+      50.00545680569485,
+      10.404921531677246,
+      49.993818283081055
+    ],
+    "center_offset": [
+      -24.99997240281664,
+      7.246431827545166,
+      0.0030908584594726562
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "size": [
+      50.02761459350586,
+      9.442418813705444,
+      49.98779487609863
+    ],
+    "center_offset": [
+      -25.01380729675293,
+      6.845742344856262,
+      0.006102561950683594
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A.dae",
+    "size": [
+      16.024952120117177,
+      13.943786140764132,
+      10.301984786987305
+    ],
+    "center_offset": [
+      -8.012472060058599,
+      6.973962070303969,
+      0.09592962265014648
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A_Inset.dae",
+    "size": [
+      16.000019073486328,
+      13.938904689624906,
+      10.258049011230469
+    ],
+    "center_offset": [
+      -8.000009536743164,
+      6.985305345617235,
+      0.06463050842285156
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B.dae",
+    "size": [
+      15.97303695135497,
+      13.952585538849235,
+      10.294432163238525
+    ],
+    "center_offset": [
+      -7.986514475677495,
+      6.985199769027531,
+      0.08723998069763184
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B_Inset.dae",
+    "size": [
+      16.00002943444997,
+      13.947661282494664,
+      10.239363193511963
+    ],
+    "center_offset": [
+      -7.991000717040151,
+      6.989684640429914,
+      0.07407641410827637
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_A.dae",
+    "size": [
+      16.000003907348628,
+      13.93890555202961,
+      9.570375919342041
+    ],
+    "center_offset": [
+      -7.999999953674319,
+      6.985307775437832,
+      0.40846705436706543
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_B.dae",
+    "size": [
+      16.000001999999995,
+      13.947657281532884,
+      9.57812213897705
+    ],
+    "center_offset": [
+      -7.9999990000000025,
+      6.989686640910804,
+      0.4046969413757324
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_C.dae",
+    "size": [
+      16.002203543579526,
+      13.947673724964261,
+      9.577775001525879
+    ],
+    "center_offset": [
+      -8.001089771789339,
+      6.989689863286912,
+      0.4047994613647461
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_A.dae",
+    "size": [
+      5.927158232778311,
+      13.919006198644638,
+      10.454474925994873
+    ],
+    "center_offset": [
+      2.9605041164904833,
+      6.920804098248482,
+      -0.05401730537414551
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_B.dae",
+    "size": [
+      4.605026032653768,
+      13.80361608043313,
+      10.355536937713623
+    ],
+    "center_offset": [
+      2.3024970163269245,
+      6.905379040166736,
+      0.036008596420288086
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A.dae",
+    "size": [
+      16.0,
+      13.95695660635829,
+      10.303147792816162
+    ],
+    "center_offset": [
+      -8.0,
+      6.994335303083062,
+      0.07009387016296387
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A_Inset.dae",
+    "size": [
+      16.0260935369879,
+      13.940244557335973,
+      10.332641124725342
+    ],
+    "center_offset": [
+      -7.986962768249214,
+      6.985976277850568,
+      0.08154559135437012
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B.dae",
+    "size": [
+      16.000009639188647,
+      13.96573513187468,
+      10.304930210113525
+    ],
+    "center_offset": [
+      -7.9909858191385865,
+      6.998725566081703,
+      0.06919312477111816
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B_Inset.dae",
+    "size": [
+      16.02613289654255,
+      13.948993425816298,
+      10.339237689971924
+    ],
+    "center_offset": [
+      -7.977939449250698,
+      6.990353712812066,
+      0.07822299003601074
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_A.dae",
+    "size": [
+      16.000001999999995,
+      13.943621458485723,
+      10.317016124725342
+    ],
+    "center_offset": [
+      -7.9999990000000025,
+      6.9874807288870215,
+      0.05728316307067871
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_B.dae",
+    "size": [
+      16.000001907348633,
+      13.944440618157387,
+      10.337470054626465
+    ],
+    "center_offset": [
+      -8.000000953674316,
+      6.987891308963299,
+      0.05376005172729492
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A.dae",
+    "size": [
+      16.0,
+      13.957142665982246,
+      10.339395999908447
+    ],
+    "center_offset": [
+      -8.0,
+      6.99442633241415,
+      0.052300214767456055
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A_Inset.dae",
+    "size": [
+      16.0,
+      13.942925289273262,
+      10.316890239715576
+    ],
+    "center_offset": [
+      -8.0,
+      6.987317644059658,
+      0.06355404853820801
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B.dae",
+    "size": [
+      16.000015545636415,
+      13.965925006195903,
+      10.44400691986084
+    ],
+    "center_offset": [
+      -7.990984773263335,
+      6.998818502761424,
+      -3.337860107421875e-06
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B_Inset.dae",
+    "size": [
+      16.00001440756023,
+      13.952263668179512,
+      10.303470134735107
+    ],
+    "center_offset": [
+      -7.9909882033243775,
+      6.991986833512783,
+      0.07026505470275879
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C.dae",
+    "size": [
+      16.000006907348507,
+      13.974065616726875,
+      11.891664981842041
+    ],
+    "center_offset": [
+      -7.99999845367438,
+      7.002887807786465,
+      -0.7238304615020752
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C_Inset.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C_Inset.dae",
+    "size": [
+      16.00000881469714,
+      13.95170676894486,
+      11.891664028167725
+    ],
+    "center_offset": [
+      -7.999999407348696,
+      6.991707383655012,
+      -0.7238309383392334
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_A.dae",
+    "size": [
+      2.783561959862709,
+      10.190598964691162,
+      3.8909930735826492
+    ],
+    "center_offset": [
+      -1.3427389785647392,
+      -0.002225637435913086,
+      1.7841935381293297
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_B.dae",
+    "size": [
+      2.7911959290504456,
+      10.186150074005127,
+      3.8913390785455704
+    ],
+    "center_offset": [
+      -1.3465549647808075,
+      -1.1920928955078125e-06,
+      -1.784020535647869
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_S_Piece_A.dae",
+    "size": [
+      8.098085701465607,
+      10.12568473815918,
+      3.875100076198578
+    ],
+    "center_offset": [
+      -3.999999850988388,
+      4.76837158203125e-07,
+      1.7921400368213654
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_A.dae",
+    "size": [
+      2.7224440574645996,
+      5.12513279914856,
+      3.879566878080368
+    ],
+    "center_offset": [
+      -1.3612220287322998,
+      2.5305083990097046,
+      1.7899054437875748
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_B.dae",
+    "size": [
+      2.751548111438751,
+      5.12513279914856,
+      3.879566878080368
+    ],
+    "center_offset": [
+      -1.3267310559749603,
+      2.5305083990097046,
+      -1.7899054437875748
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_S_Piece_A.dae",
+    "size": [
+      8.044490701518953,
+      5.120673891156912,
+      3.875218093395233
+    ],
+    "center_offset": [
+      -4.026797350961715,
+      2.5025049466639757,
+      1.792199045419693
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_A.dae",
+    "size": [
+      12.501944907358848,
+      7.769280016422272,
+      46.38374710083008
+    ],
+    "center_offset": [
+      -6.249029453669209,
+      3.0402919948101044,
+      -3.8258800506591797
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_B.dae",
+    "size": [
+      12.560991954058409,
+      9.512793898582458,
+      45.87662887573242
+    ],
+    "center_offset": [
+      -6.219504976645112,
+      4.661362946033478,
+      4.079423904418945
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_C.dae",
+    "size": [
+      12.500001907348633,
+      9.084082454442978,
+      47.27090263366699
+    ],
+    "center_offset": [
+      -6.250000953674316,
+      4.246981218457222,
+      -3.3822832107543945
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_D.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_D.dae",
+    "size": [
+      12.586882956326008,
+      7.822981834411621,
+      49.99137878417969
+    ],
+    "center_offset": [
+      -6.2065594755113125,
+      2.9814229011535645,
+      1.926168441772461
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "size": [
+      50.06099100038409,
+      10.262107908725739,
+      49.82273864746094
+    ],
+    "center_offset": [
+      -24.969504499807954,
+      4.286705940961838,
+      2.10638427734375
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "size": [
+      50.00000999999975,
+      10.116248965263367,
+      50.08725547790527
+    ],
+    "center_offset": [
+      -24.999995000000126,
+      3.7806034684181213,
+      1.974106788635254
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "size": [
+      50.06099100038409,
+      10.262107908725739,
+      49.82273864746094
+    ],
+    "center_offset": [
+      -24.969504499807954,
+      4.286705940961838,
+      2.10638427734375
+    ]
+  },
+  {
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "size": [
+      50.00000999999975,
+      10.116248965263367,
+      50.08725547790527
+    ],
+    "center_offset": [
+      -24.999995000000126,
+      3.7806034684181213,
+      1.974106788635254
+    ]
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
+    "size": [
+      10.33069634437561,
+      2.2196479737758636,
+      3.6259379386901855
+    ],
+    "center_offset": [
+      -3.0848482847213745,
+      0.898621991276741,
+      -0.015321016311645508
+    ],
+    "uuid": "0384ac70-9b4d-4cee-8ff1-887d47c30dc6"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Concave.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A_Concave.dae",
+    "size": [
+      9.706565022468567,
+      2.219648078083992,
+      4.528541088104248
+    ],
+    "center_offset": [
+      -2.94422048330307,
+      0.8982700332999229,
+      -0.5239315032958984
+    ],
+    "uuid": "7a821184-cca7-40c0-931e-a231b1b45a5a"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Convex.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A_Convex.dae",
+    "size": [
+      9.014614939689636,
+      2.2196479737758636,
+      5.039461016654968
+    ],
+    "center_offset": [
+      -3.0290895104408264,
+      0.898621991276741,
+      0.7533114552497864
+    ],
+    "uuid": "8bb0b208-6164-499e-a7c4-843b9cf10fbf"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_A.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_A.dae",
+    "size": [
+      16.20536708831787,
+      1.9345899820327759,
+      7.483434200286865
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      0.0,
+      0.0
+    ],
+    "uuid": "2f49a015-b876-4647-b050-3aa0af840144"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_B.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_B.dae",
+    "size": [
+      11.86090898513794,
+      1.9374880194664001,
+      8.486984252929688
+    ],
+    "center_offset": [
+      -7.152557373046875e-07,
+      0.0015790164470672607,
+      0.0
+    ],
+    "uuid": "261c2dcf-e048-4427-8993-0fc3ce26cecd"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_C.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_C.dae",
+    "size": [
+      22.001541137695312,
+      1.5363069772720337,
+      10.495566368103027
+    ],
+    "center_offset": [
+      -1.9073486328125e-06,
+      0.0025824904441833496,
+      0.0
+    ],
+    "uuid": "16c1bb36-591f-4faf-9634-71a05b7617f6"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_D.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_D.dae",
+    "size": [
+      19.257471084594727,
+      1.937103033065796,
+      10.515125274658203
+    ],
+    "center_offset": [
+      0.0,
+      0.0013495087623596191,
+      -0.0022215843200683594
+    ],
+    "uuid": "3cb37aed-4bee-48c4-abdd-ba6a106545d2"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_E.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_E.dae",
+    "size": [
+      20.920700073242188,
+      1.9419329762458801,
+      8.89289903640747
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      0.003671497106552124,
+      7.152557373046875e-07
+    ],
+    "uuid": "7a4c45e0-5a21-4ead-9bce-a21ad50c0503"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_F.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_F.dae",
+    "size": [
+      11.014745712280273,
+      1.931604027748108,
+      6.479909896850586
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "7c101725-f943-4a5a-aabb-07ecb695b7ff"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_G.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_G.dae",
+    "size": [
+      11.853605270385742,
+      1.9368770122528076,
+      6.315535068511963
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      0.001273512840270996,
+      4.76837158203125e-07
+    ],
+    "uuid": "60d99cf7-ea07-46d6-84cc-5c1d126d2c2a"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_H.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_H.dae",
+    "size": [
+      14.122127532958984,
+      1.9369440078735352,
+      6.840060234069824
+    ],
+    "center_offset": [
+      0.0,
+      0.0011770129203796387,
+      0.0
+    ],
+    "uuid": "2a8290ad-bf8e-492c-8cc7-3ed39fde818c"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_I.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_I.dae",
+    "size": [
+      15.587396144866943,
+      1.9371240139007568,
+      7.118961811065674
+    ],
+    "center_offset": [
+      0.05042910575866699,
+      0.0012670159339904785,
+      -0.9663879871368408
+    ],
+    "uuid": "7a03557c-8546-4e29-95da-c65de2534b04"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_J.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_J.dae",
+    "size": [
+      16.670023918151855,
+      1.9364579916000366,
+      4.8813910484313965
+    ],
+    "center_offset": [
+      -2.384185791015625e-06,
+      0.0006909966468811035,
+      4.76837158203125e-07
+    ],
+    "uuid": "72c4a63d-0c8e-4781-b271-7c2d3be78ce3"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Sand_K.dae",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_K.dae",
+    "size": [
+      16.63515567779541,
+      1.5306040048599243,
+      4.94543194770813
+    ],
+    "center_offset": [
+      2.384185791015625e-06,
+      0.0,
+      -0.0004400014877319336
+    ],
+    "uuid": "5686cc12-2547-46c1-b26a-07dc6417e7fe"
+  }
+]

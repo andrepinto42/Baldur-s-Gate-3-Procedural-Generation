@@ -1,0 +1,840 @@
+[
+  {
+    "name": "LAB_GEN_Bottle_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_A.dae",
+    "size": [
+      0.17183800041675568,
+      0.32358198866131715,
+      0.17183800041675568
+    ],
+    "center_offset": [
+      0.0,
+      0.1619409943377832,
+      0.0
+    ],
+    "uuid": "71dcd540-b759-49a3-998e-500529ddc174"
+  },
+  {
+    "name": "LAB_GEN_Bottle_B.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_B.dae",
+    "size": [
+      0.1667640060186386,
+      0.44186500989599153,
+      0.130171999335289
+    ],
+    "center_offset": [
+      0.0,
+      0.22101650494732894,
+      0.0
+    ],
+    "uuid": "dab87b3c-70fe-4f33-9fe8-54a087587945"
+  },
+  {
+    "name": "LAB_GEN_Bottle_C.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_C.dae",
+    "size": [
+      0.1677819937467575,
+      0.29125098761869594,
+      0.1677819937467575
+    ],
+    "center_offset": [
+      0.0,
+      0.1449464938195888,
+      0.0
+    ],
+    "uuid": "50a7dee3-3765-41bb-98dd-ec865128e6c9"
+  },
+  {
+    "name": "LAB_GEN_Bottle_D.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_D.dae",
+    "size": [
+      0.15271000564098358,
+      0.37607599278089765,
+      0.15428000688552856
+    ],
+    "center_offset": [
+      0.0,
+      0.1880319963902366,
+      0.0
+    ],
+    "uuid": "a37864ec-6a14-43d1-9151-067eb6eab3ae"
+  },
+  {
+    "name": "LAB_GEN_Bottle_E.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_E.dae",
+    "size": [
+      0.18532399833202362,
+      0.3769629971939139,
+      0.18723000586032867
+    ],
+    "center_offset": [
+      0.0,
+      0.18841249859542586,
+      0.0
+    ],
+    "uuid": "a53967f8-595d-4ae3-92e8-06df7fa2df18"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_A.dae",
+    "size": [
+      1.0297399759292603,
+      0.3973050107015297,
+      0.2540839910507202
+    ],
+    "center_offset": [
+      0.0007770061492919922,
+      0.19970950536662713,
+      0.0
+    ],
+    "uuid": "b1410868-b5cb-44d6-a9da-5358779c57c7"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_A_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_A_Destruct.dae",
+    "size": [
+      1.5312079787254333,
+      0.21798399789258838,
+      0.9375390112400055
+    ],
+    "center_offset": [
+      -0.14601001143455505,
+      0.10761899896897376,
+      -0.0033604949712753296
+    ],
+    "uuid": "5dd8394d-fcea-4358-ae3f-5eb620c2d1d6"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_A_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_A_Explode.dae",
+    "size": [
+      1.0281869769096375,
+      0.3965759862912819,
+      0.2540839910507202
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.19934499316150323,
+      0.0
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_B.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_B.dae",
+    "size": [
+      1.0281869769096375,
+      0.4024830019334331,
+      0.25671200454235077
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.20229750097496435,
+      -7.199496030807495e-05
+    ],
+    "uuid": "bb97abea-7c7f-417e-9e8d-7e0275250661"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_B_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_B_Destruct.dae",
+    "size": [
+      1.6822589635849,
+      0.4052250024396926,
+      0.5980800092220306
+    ],
+    "center_offset": [
+      -0.12182348966598511,
+      0.20578550116624683,
+      -0.0433260053396225
+    ],
+    "uuid": "6c9d087d-f52b-42f7-bfee-4b4998ca1cb1"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_B_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_B_Explode.dae",
+    "size": [
+      1.0281869769096375,
+      0.4024830019334331,
+      0.25400200486183167
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.20229750097496435,
+      0.0
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_C.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_C.dae",
+    "size": [
+      1.0281869769096375,
+      0.4028639948228374,
+      0.25613299012184143
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.2024879974196665,
+      -0.00036150217056274414
+    ],
+    "uuid": "6bc9838f-9b0f-4bad-8717-a6f29ccb517e"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_C_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_C_Destruct.dae",
+    "size": [
+      1.6713989973068237,
+      0.2616840088739991,
+      0.7030879855155945
+    ],
+    "center_offset": [
+      -0.015615522861480713,
+      0.12535300431773067,
+      0.04584699869155884
+    ],
+    "uuid": "0d16859c-0c2f-48ce-996d-f2477206c6ae"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_C_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_C_Explode.dae",
+    "size": [
+      1.0281869769096375,
+      0.4028639948228374,
+      0.25400200486183167
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.2024879974196665,
+      0.0
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_D.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_D.dae",
+    "size": [
+      1.0281869769096375,
+      0.33224700449500233,
+      0.25687000155448914
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.16717950225574896,
+      7.0035457611083984e-06
+    ],
+    "uuid": "3db7980a-4a53-4d4c-9209-41f934d9906f"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_D_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_D_Destruct.dae",
+    "size": [
+      1.3476340174674988,
+      0.14484499557875097,
+      0.5350799933075905
+    ],
+    "center_offset": [
+      -0.22539201378822327,
+      0.07449749775696546,
+      -0.2212109975516796
+    ],
+    "uuid": "0d40cc5d-2152-420f-83df-e1c17671bfed"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_D_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_D_Explode.dae",
+    "size": [
+      1.0281869769096375,
+      0.3320230102399364,
+      0.25400200486183167
+    ],
+    "center_offset": [
+      0.0003094971179962158,
+      0.167067505128216,
+      0.0
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A.dae",
+    "size": [
+      1.305787980556488,
+      1.3450190424919128,
+      0.3202590048313141
+    ],
+    "center_offset": [
+      -0.027362018823623657,
+      1.6173705160617828,
+      0.026643499732017517
+    ],
+    "uuid": "759ac612-7755-4b21-8c34-aa003a05b67a"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A_Common.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A_Common.dae",
+    "size": [
+      1.231099009513855,
+      1.1619881391525269,
+      0.29725900292396545
+    ],
+    "center_offset": [
+      0.012281477451324463,
+      2.418134033679962,
+      0.0027344971895217896
+    ],
+    "uuid": "b09b99a8-cb80-43d7-bdae-89137d3e6ae5"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A_Common_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A_Common_Destruct.dae",
+    "size": [
+      1.6255429983139038,
+      0.23482399713248014,
+      1.5272810459136963
+    ],
+    "center_offset": [
+      -0.11504650115966797,
+      0.11172899836674333,
+      0.04141050577163696
+    ],
+    "uuid": "aebd1b71-dfcf-4939-a946-60e330d9a67e"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A_Common_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A_Common_Explode.dae",
+    "size": [
+      1.231099009513855,
+      1.161302924156189,
+      0.29725900292396545
+    ],
+    "center_offset": [
+      0.012281477451324463,
+      2.417791426181793,
+      0.0027344971895217896
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A_Destruct.dae",
+    "size": [
+      3.1180880069732666,
+      0.21211699809646234,
+      2.6440309286117554
+    ],
+    "center_offset": [
+      -0.11810004711151123,
+      0.1053164990444202,
+      0.12112551927566528
+    ],
+    "uuid": "088927f7-d71e-4eb1-91e3-3e0ae30fe656"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_A_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_A_Explode.dae",
+    "size": [
+      1.305787980556488,
+      1.3450190424919128,
+      0.31883199512958527
+    ],
+    "center_offset": [
+      -0.027362018823623657,
+      1.6173705160617828,
+      0.027357004582881927
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B.dae",
+    "size": [
+      1.305236041545868,
+      1.8147150874137878,
+      0.29546599090099335
+    ],
+    "center_offset": [
+      0.03645399212837219,
+      1.8481275141239166,
+      0.021435998380184174
+    ],
+    "uuid": "8977db5d-0e41-4088-9ac7-35511ebe1359"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B_Common.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B_Common.dae",
+    "size": [
+      1.1937450170516968,
+      2.5273979902267456,
+      0.5275449901819229
+    ],
+    "center_offset": [
+      0.001869499683380127,
+      2.5506590008735657,
+      -0.05894049257040024
+    ],
+    "uuid": "71ee92b5-8ee1-4525-9c7c-1bf81839703f"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B_Common_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B_Common_Destruct.dae",
+    "size": [
+      1.6900399923324585,
+      0.5361460237763822,
+      2.532360017299652
+    ],
+    "center_offset": [
+      0.04622602462768555,
+      0.2626940116751939,
+      0.38943400979042053
+    ],
+    "uuid": "f07b6358-2d55-4a19-a52e-12d2221d14ff"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B_Common_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B_Common_Explode.dae",
+    "size": [
+      1.1937450170516968,
+      2.499853014945984,
+      0.3481910079717636
+    ],
+    "center_offset": [
+      0.001869499683380127,
+      2.5644314885139465,
+      0.029404498636722565
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B_Destruct.dae",
+    "size": [
+      2.6079649925231934,
+      0.30047499341890216,
+      2.403562009334564
+    ],
+    "center_offset": [
+      -0.16320455074310303,
+      0.1445654968265444,
+      0.33540502190589905
+    ],
+    "uuid": "449b14b7-b08a-423e-b3fd-ca0087df0fcf"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_B_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_B_Explode.dae",
+    "size": [
+      1.305236041545868,
+      1.8144630789756775,
+      0.2933350056409836
+    ],
+    "center_offset": [
+      0.03645399212837219,
+      1.8480015099048615,
+      0.021797500550746918
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C.dae",
+    "size": [
+      1.3197609782218933,
+      2.292667031288147,
+      0.2904309928417206
+    ],
+    "center_offset": [
+      -0.03318950533866882,
+      1.6134085059165955,
+      0.010879501700401306
+    ],
+    "uuid": "b52de155-8bab-4405-85f3-c6e2128b3a96"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Common_A_2D_4H_5W_Concave_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Common_A_2D_4H_5W_Concave_A.dae",
+    "size": [
+      4.04428505897522,
+      3.2352810204029083,
+      2.0571539998054504
+    ],
+    "center_offset": [
+      -0.010361552238464355,
+      1.9037844985723495,
+      -0.18164798617362976
+    ],
+    "uuid": "6689ed3a-1b5e-4ac4-865e-e9cfe4d2e0fc"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C_Common.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C_Common.dae",
+    "size": [
+      1.231099009513855,
+      2.391712188720703,
+      0.2781350091099739
+    ],
+    "center_offset": [
+      0.007267475128173828,
+      3.0285091400146484,
+      -0.015323501080274582
+    ],
+    "uuid": "b3976031-fb8e-41b5-b7da-b6acf0ac5639"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C_Common_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C_Common_Destruct.dae",
+    "size": [
+      2.0051639676094055,
+      0.6682189810089767,
+      2.3343679308891296
+    ],
+    "center_offset": [
+      -0.23575398325920105,
+      0.3290874904487282,
+      0.25457099080085754
+    ],
+    "uuid": "9e50d545-115f-4204-b191-aa637d582776"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C_Common_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C_Common_Explode.dae",
+    "size": [
+      1.231099009513855,
+      2.391712188720703,
+      0.27754200249910355
+    ],
+    "center_offset": [
+      0.007267475128173828,
+      3.0285091400146484,
+      -0.015026997774839401
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C_Destruct.dae",
+    "size": [
+      1.899088978767395,
+      0.5519100059755147,
+      2.3593770265579224
+    ],
+    "center_offset": [
+      -0.02416151762008667,
+      0.2703100030776113,
+      0.05278652906417847
+    ],
+    "uuid": "fce78012-16ad-43ff-9992-cee5827135f1"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_C_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_C_Explode.dae",
+    "size": [
+      1.3197609782218933,
+      2.292667031288147,
+      0.2875780016183853
+    ],
+    "center_offset": [
+      -0.03318950533866882,
+      1.6134085059165955,
+      0.010879002511501312
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D.dae",
+    "size": [
+      1.3257469534873962,
+      2.2439349591732025,
+      0.29954399168491364
+    ],
+    "center_offset": [
+      0.007267504930496216,
+      1.598440483212471,
+      -0.0005759969353675842
+    ],
+    "uuid": "c8ff5e04-4e6d-49af-ad70-7a6730e13afe"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D_Common.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D_Common.dae",
+    "size": [
+      1.2427329421043396,
+      2.421609044075012,
+      0.29173099994659424
+    ],
+    "center_offset": [
+      -0.00614050030708313,
+      3.040686547756195,
+      0.0033304989337921143
+    ],
+    "uuid": "94bfa371-d34a-4d0c-bd7c-3d0b87f3c448"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D_Common_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D_Common_Destruct.dae",
+    "size": [
+      1.7229779958724976,
+      0.548860001610592,
+      2.180981993675232
+    ],
+    "center_offset": [
+      -0.018890976905822754,
+      0.2713050007587299,
+      0.5499879717826843
+    ],
+    "uuid": "b30adec5-446e-49af-a036-6bcc12b8fba1"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D_Common_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D_Common_Explode.dae",
+    "size": [
+      1.2427329421043396,
+      2.4203330278396606,
+      0.29173099994659424
+    ],
+    "center_offset": [
+      -0.00614050030708313,
+      3.0400485396385193,
+      0.0033304989337921143
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D_Destruct.dae",
+    "size": [
+      2.470960021018982,
+      0.5997419757768512,
+      2.2040629982948303
+    ],
+    "center_offset": [
+      0.14118701219558716,
+      0.29414198780432343,
+      -0.1976204812526703
+    ],
+    "uuid": "b11cc3a5-bbcd-4e50-909a-b1a83598f2b5"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_D_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_D_Explode.dae",
+    "size": [
+      1.3257469534873962,
+      2.2439349591732025,
+      0.2988789975643158
+    ],
+    "center_offset": [
+      0.007267504930496216,
+      1.598440483212471,
+      -0.00024349987506866455
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_A.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_A.dae",
+    "size": [
+      0.9141049981117249,
+      1.6561939716339111,
+      0.2825089991092682
+    ],
+    "center_offset": [
+      -0.0063565075397491455,
+      2.2571710348129272,
+      0.008630499243736267
+    ],
+    "uuid": "60a4477d-9f07-460f-b721-447b22d625c1"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_A_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_A_Destruct.dae",
+    "size": [
+      2.6717379093170166,
+      0.19278600567486137,
+      2.1951149702072144
+    ],
+    "center_offset": [
+      -0.03984999656677246,
+      0.09528300288366154,
+      -0.06346350908279419
+    ],
+    "uuid": "7bd5cfac-1e83-4c99-ab04-0a27ba4a7ca5"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_A_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_A_Explode.dae",
+    "size": [
+      0.9141049981117249,
+      1.6561939716339111,
+      0.2812259942293167
+    ],
+    "center_offset": [
+      -0.0063565075397491455,
+      2.2571710348129272,
+      0.00855400413274765
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_B.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_B.dae",
+    "size": [
+      1.4188839793205261,
+      1.6558809280395508,
+      0.45165401697158813
+    ],
+    "center_offset": [
+      0.08374598622322083,
+      2.2579615116119385,
+      -0.07943600416183472
+    ],
+    "uuid": "c3d91b1e-a915-4ab8-ab0d-0343c9978327"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_B_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_B_Destruct.dae",
+    "size": [
+      2.5013930797576904,
+      0.26447599986568093,
+      2.6892590522766113
+    ],
+    "center_offset": [
+      0.0877465009689331,
+      0.12982299993745983,
+      0.03735649585723877
+    ],
+    "uuid": "d0e05031-6726-4dae-ac23-da7696fa7401"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_B_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_B_Explode.dae",
+    "size": [
+      1.4172109961509705,
+      1.6553679704666138,
+      0.2712610065937042
+    ],
+    "center_offset": [
+      0.08458247780799866,
+      2.258217990398407,
+      0.010760501027107239
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_C.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_C.dae",
+    "size": [
+      1.07254296541214,
+      1.658666968345642,
+      0.2604440003633499
+    ],
+    "center_offset": [
+      0.006337493658065796,
+      2.2580774426460266,
+      -0.002687998116016388
+    ],
+    "uuid": "f884f566-c4da-46e8-9656-f7dbd548629c"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_C_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_C_Destruct.dae",
+    "size": [
+      1.681348979473114,
+      0.21710799960419536,
+      2.0796650052070618
+    ],
+    "center_offset": [
+      -0.023596495389938354,
+      0.10395899997092783,
+      -0.050137490034103394
+    ],
+    "uuid": "20cf8d06-eac7-4b97-b902-39881bd32a80"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_C_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_C_Explode.dae",
+    "size": [
+      1.0726929903030396,
+      1.658666968345642,
+      0.2757740020751953
+    ],
+    "center_offset": [
+      0.006412506103515625,
+      2.2580774426460266,
+      -0.008045002818107605
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_D.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_D.dae",
+    "size": [
+      1.9931140542030334,
+      1.6445461511611938,
+      0.32736898958683014
+    ],
+    "center_offset": [
+      -0.003519028425216675,
+      2.265314042568207,
+      -0.005272500216960907
+    ],
+    "uuid": "ced85ecd-c043-4e6d-8f9d-1b3da24e3347"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_D_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_D_Destruct.dae",
+    "size": [
+      2.2537810802459717,
+      0.42513900832273066,
+      1.534777045249939
+    ],
+    "center_offset": [
+      0.018885493278503418,
+      0.21034750423859805,
+      -0.5797625184059143
+    ],
+    "uuid": "01c62c42-54ec-496d-95b3-35d063a3a3ee"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_D_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_D_Explode.dae",
+    "size": [
+      1.9931140542030334,
+      1.6445461511611938,
+      0.3265700042247772
+    ],
+    "center_offset": [
+      -0.003519028425216675,
+      2.265314042568207,
+      -0.005077004432678223
+    ]
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_E.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_E.dae",
+    "size": [
+      0.9028320014476776,
+      1.656195044517517,
+      0.2812259942293167
+    ],
+    "center_offset": [
+      -0.0006140023469924927,
+      2.2571704983711243,
+      0.00855400413274765
+    ],
+    "uuid": "9ca1c7cf-d177-4270-bf0b-731552f36db6"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_E_Destruct.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_E_Destruct.dae",
+    "size": [
+      2.3620489835739136,
+      0.2778700029011816,
+      2.176752984523773
+    ],
+    "center_offset": [
+      0.03421252965927124,
+      0.13558000151533633,
+      0.3508404791355133
+    ],
+    "uuid": "7f392c14-cf35-49dd-a8e3-b0c968bba548"
+  },
+  {
+    "name": "LAB_GEN_Bottle_Rack_Multiple_Tileset_E_Explode.dae",
+    "relative_path": "Laboratory/Generic/LAB_GEN_Bottle_Rack_ABC/Resources/LAB_GEN_Bottle_Rack_Multiple_Tileset_E_Explode.dae",
+    "size": [
+      0.9028320014476776,
+      1.656195044517517,
+      0.2812259942293167
+    ],
+    "center_offset": [
+      -0.0006140023469924927,
+      2.2571704983711243,
+      0.00855400413274765
+    ]
+  }
+]

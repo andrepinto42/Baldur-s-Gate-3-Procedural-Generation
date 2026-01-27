@@ -1,0 +1,114 @@
+[
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_A.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_A.dae",
+    "size": [
+      0.16583600267767906,
+      0.165030003990978,
+      0.5460889935493469
+    ],
+    "center_offset": [
+      0.02690100111067295,
+      0.08873300184495747,
+      0.0603334903717041
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_B.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_B.dae",
+    "size": [
+      0.16537100076675415,
+      0.07853699685074389,
+      0.07489499822258949
+    ],
+    "center_offset": [
+      0.006885498762130737,
+      0.035450498457066715,
+      0.004251500591635704
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_C.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_C.dae",
+    "size": [
+      0.11999800056219101,
+      0.12352500100678299,
+      0.11931800097227097
+    ],
+    "center_offset": [
+      -0.01044199988245964,
+      0.06193250050273491,
+      0.00205099955201149
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_A.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_A.dae",
+    "size": [
+      0.18523699790239334,
+      0.06430800072848797,
+      0.10398099943995476
+    ],
+    "center_offset": [
+      -0.027169499546289444,
+      0.02606500033289194,
+      0.006574498489499092
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_B.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_B.dae",
+    "size": [
+      0.16089700162410736,
+      0.12523300165776163,
+      0.14344700425863266
+    ],
+    "center_offset": [
+      0.012867502868175507,
+      0.06080250086961314,
+      -0.001004498451948166
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_C.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_C.dae",
+    "size": [
+      0.18928200006484985,
+      0.1697269984288141,
+      0.17032499611377716
+    ],
+    "center_offset": [
+      8.100271224975586e-05,
+      0.08375149924540892,
+      0.019138500094413757
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_D.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_D.dae",
+    "size": [
+      0.44513899087905884,
+      0.11379799875430763,
+      0.1227089986205101
+    ],
+    "center_offset": [
+      -0.03189349174499512,
+      0.06047299935016781,
+      0.019458498805761337
+    ]
+  },
+  {
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Plank_A.dae",
+    "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Plank_A.dae",
+    "size": [
+      0.24418799579143524,
+      0.10437600128352642,
+      1.2589100003242493
+    ],
+    "center_offset": [
+      0.01116500049829483,
+      0.03870900068432093,
+      0.0765250027179718
+    ]
+  }
+]

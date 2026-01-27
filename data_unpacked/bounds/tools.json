@@ -1,0 +1,240 @@
+[
+  {
+    "name": "TOOL_GEN_Barber_Kit_A.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_GEN_Barber_Kit_A.dae",
+    "size": [
+      0.381289005279541,
+      0.058693000581115484,
+      0.9464690089225769
+    ],
+    "center_offset": [
+      -0.038942500948905945,
+      0.026640500174835324,
+      -0.010640501976013184
+    ]
+  },
+  {
+    "name": "TOOL_GEN_Barber_Kit_B.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_GEN_Barber_Kit_B.dae",
+    "size": [
+      0.47842299938201904,
+      0.09335899725556374,
+      0.30173200368881226
+    ],
+    "center_offset": [
+      -0.030565500259399414,
+      0.0417534988373518,
+      0.011240005493164062
+    ]
+  },
+  {
+    "name": "TOOL_Hospital_Surgery_Kit_B.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_Hospital_Surgery_Kit_B.dae",
+    "size": [
+      0.49761900305747986,
+      0.10512300208210945,
+      0.5191999971866608
+    ],
+    "center_offset": [
+      -0.020967498421669006,
+      0.04763550125062466,
+      0.033952996134757996
+    ]
+  },
+  {
+    "name": "TOOL_GEN_Plaque_Standing_Bronze_A.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Plaque_Standing_ABC/Resources/TOOL_GEN_Plaque_Standing_Bronze_A.dae",
+    "size": [
+      0.6208739876747131,
+      1.544892986828927,
+      0.32466399669647217
+    ],
+    "center_offset": [
+      0.0,
+      0.7716624934400897,
+      0.0
+    ]
+  },
+  {
+    "name": "TOOL_GEN_Tower_Bell_A.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Tower_Bell_ABC/Resources/TOOL_GEN_Tower_Bell_A.dae",
+    "size": [
+      3.0289700031280518,
+      4.288628771901131,
+      3.0289700031280518
+    ],
+    "center_offset": [
+      0.0,
+      2.0094493851065636,
+      0.0
+    ]
+  },
+  {
+    "name": "TOOL_Tower_Bell_mechanism_A.dae",
+    "relative_path": "Tools/Generic/TOOL_GEN_Tower_Bell_ABC/Resources/TOOL_Tower_Bell_mechanism_A.dae",
+    "size": [
+      6.901403188705444,
+      3.1395111083984375,
+      3.100358009338379
+    ],
+    "center_offset": [
+      -0.4782785177230835,
+      4.820011615753174,
+      0.010215997695922852
+    ]
+  },
+  {
+    "name": "CINE_TOOL_GTY_Microscope_A.dae",
+    "relative_path": "Tools/Githyanki/TOOL_GTY_Microscope_A/Resources/CINE_TOOL_GTY_Microscope_A.dae",
+    "size": [
+      0.6404809951782227,
+      0.804935010150075,
+      0.6150199770927429
+    ],
+    "center_offset": [
+      -0.010805487632751465,
+      0.4216275056824088,
+      0.0
+    ]
+  },
+  {
+    "name": "TOOL_GTY_Microscope_A.dae",
+    "relative_path": "Tools/Githyanki/TOOL_GTY_Microscope_A/Resources/TOOL_GTY_Microscope_A.dae",
+    "size": [
+      0.6406989991664886,
+      0.804935010150075,
+      0.6150199770927429
+    ],
+    "center_offset": [
+      -0.01091448962688446,
+      0.4216275056824088,
+      0.0
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Bronze_6H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_Bronze_ABC/Resources/TOOL_Ladder_Bronze_6H_A.dae",
+    "size": [
+      0.8735340237617493,
+      6.513386203216555,
+      0.21927199512720108
+    ],
+    "center_offset": [
+      0.0,
+      3.256694101608275,
+      2.000480890274048e-06
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Bronze_6H_B.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_Bronze_ABC/Resources/TOOL_Ladder_Bronze_6H_B.dae",
+    "size": [
+      0.8735340237617493,
+      6.513386203216555,
+      0.21927199512720108
+    ],
+    "center_offset": [
+      0.0,
+      3.256694101608275,
+      2.000480890274048e-06
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Cursed_Roots_3H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_3H_A.dae",
+    "size": [
+      0.7863399982452393,
+      3.3115529268980026,
+      0.8486069738864899
+    ],
+    "center_offset": [
+      -0.0625309944152832,
+      1.4386184588074684,
+      -0.11901549994945526
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_MF_Membrane_10H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_10H_A.dae",
+    "size": [
+      4.010673999786377,
+      10.129617530852556,
+      3.993802070617676
+    ],
+    "center_offset": [
+      0.10273194313049316,
+      5.079016765579581,
+      0.03493499755859375
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_MF_Membrane_3H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_3H_A.dae",
+    "size": [
+      3.5545639991760254,
+      3.1514909509569407,
+      3.7400399446487427
+    ],
+    "center_offset": [
+      0.05924999713897705,
+      1.5525544760748744,
+      0.7524330019950867
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_MF_Membrane_6H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_6H_A.dae",
+    "size": [
+      3.8152449131011963,
+      6.107353078201413,
+      3.850675940513611
+    ],
+    "center_offset": [
+      -0.002902507781982422,
+      3.040833539329469,
+      0.1670740246772766
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_MF_Membrane_8H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_8H_A.dae",
+    "size": [
+      4.016743898391724,
+      8.116521179908887,
+      3.970876932144165
+    ],
+    "center_offset": [
+      -0.14148294925689697,
+      4.056092589977197,
+      0.05811941623687744
+    ]
+  },
+  {
+    "name": "TOOL_Ladder_Roots_9H_A.dae",
+    "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_9H_A.dae",
+    "size": [
+      3.10958194732666,
+      8.980680972337723,
+      1.291821002960205
+    ],
+    "center_offset": [
+      0.16777098178863525,
+      4.634042486548424,
+      -0.28852349519729614
+    ]
+  },
+  {
+    "name": "TOOL_MF_Resonance_Crystal_Legless_A.dae",
+    "relative_path": "Tools/Mindflayer/Resources/TOOL_MF_Resonance_Crystal_Legless_A.dae",
+    "size": [
+      1.5302200317382812,
+      1.1539790462702513,
+      1.4040440320968628
+    ],
+    "center_offset": [
+      0.0,
+      0.5551555240526795,
+      0.0
+    ]
+  }
+]

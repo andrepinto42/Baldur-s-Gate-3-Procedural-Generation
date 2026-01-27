@@ -1,0 +1,1024 @@
+[
+  {
+    "name": "DOOR_Bhaal_Stone_Double_Big_A.dae",
+    "relative_path": "Doors/Bhaal/DOOR_Bhaal_Stone_ABC/Resources/DOOR_Bhaal_Stone_Double_Big_A.dae",
+    "size": [
+      3.6400989294052124,
+      10.4039051621221,
+      0.7400630116462708
+    ],
+    "center_offset": [
+      -0.03530949354171753,
+      5.200238581048325,
+      -0.0024425089359283447
+    ]
+  },
+  {
+    "name": "DOOR_City_Bhaal_House_Secret_Sliding_A.dae",
+    "relative_path": "Doors/City/DOOR_City_Bhaal_House_Secret_Sliding_ABC/Resources/DOOR_City_Bhaal_House_Secret_Sliding_A.dae",
+    "size": [
+      4.0,
+      4.056011784821749,
+      0.5529940128326416
+    ],
+    "center_offset": [
+      -2.0,
+      2.015620892867446,
+      0.00014400482177734375
+    ]
+  },
+  {
+    "name": "DOOR_City_Bhaal_House_Secret_Sliding_A_OverlayMaterial.dae",
+    "relative_path": "Doors/City/DOOR_City_Bhaal_House_Secret_Sliding_ABC/Resources/DOOR_City_Bhaal_House_Secret_Sliding_A_OverlayMaterial.dae",
+    "size": [
+      4.473459005355835,
+      4.053141784854233,
+      0.9469180107116699
+    ],
+    "center_offset": [
+      -1.7632704973220825,
+      2.0170558928512037,
+      0.0
+    ]
+  },
+  {
+    "name": "DOOR_City_Bhaal_House_Secret_Sliding_B.dae",
+    "relative_path": "Doors/City/DOOR_City_Bhaal_House_Secret_Sliding_ABC/Resources/DOOR_City_Bhaal_House_Secret_Sliding_B.dae",
+    "size": [
+      2.128972053527832,
+      3.0015749509911984,
+      0.5487410128116608
+    ],
+    "center_offset": [
+      -0.05085396766662598,
+      1.499527475447394,
+      0.016194507479667664
+    ]
+  },
+  {
+    "name": "DOOR_City_Bhaal_House_Secret_Sliding_B_Destruct.dae",
+    "relative_path": "Doors/City/DOOR_City_Bhaal_House_Secret_Sliding_ABC/Resources/DOOR_City_Bhaal_House_Secret_Sliding_B_Destruct.dae",
+    "size": [
+      5.614437103271484,
+      0.9036629647016525,
+      5.107352018356323
+    ],
+    "center_offset": [
+      0.06871843338012695,
+      0.2904054895043373,
+      0.3193870782852173
+    ]
+  },
+  {
+    "name": "DOOR_City_Bhaal_House_Secret_Sliding_B_Explode.dae",
+    "relative_path": "Doors/City/DOOR_City_Bhaal_House_Secret_Sliding_ABC/Resources/DOOR_City_Bhaal_House_Secret_Sliding_B_Explode.dae",
+    "size": [
+      2.128972053527832,
+      2.983059883117676,
+      0.5487410128116608
+    ],
+    "center_offset": [
+      -0.05085396766662598,
+      1.491529941558838,
+      0.016194507479667664
+    ]
+  },
+  {
+    "name": "DOOR_Double_Small_City_Counting_House_A.dae",
+    "relative_path": "Doors/City/DOOR_City_Counting_House_Door_ABC/Resources/DOOR_Double_Small_City_Counting_House_A.dae",
+    "size": [
+      3.0626760721206665,
+      5.692660947540389,
+      0.3816879875957966
+    ],
+    "center_offset": [
+      -4.798173904418945e-05,
+      2.8463274737700885,
+      0.14782399497926235
+    ]
+  },
+  {
+    "name": "DOOR_City_House_Secret_Sliding_A.dae",
+    "relative_path": "Doors/City/DOOR_City_House_Secret_Sliding_ABC/Resources/DOOR_City_House_Secret_Sliding_A.dae",
+    "size": [
+      2.2970850467681885,
+      3.0430829278193414,
+      0.5606689900159836
+    ],
+    "center_offset": [
+      0.0059964656829833984,
+      1.5172394637484103,
+      -0.04749850183725357
+    ]
+  },
+  {
+    "name": "DOOR_City_House_Secret_Sliding_A_Destruct.dae",
+    "relative_path": "Doors/City/DOOR_City_House_Secret_Sliding_ABC/Resources/DOOR_City_House_Secret_Sliding_A_Destruct.dae",
+    "size": [
+      4.7504788637161255,
+      1.1020649820566177,
+      5.838283061981201
+    ],
+    "center_offset": [
+      -0.3909844756126404,
+      0.402881495654583,
+      -0.20758557319641113
+    ]
+  },
+  {
+    "name": "DOOR_City_House_Secret_Sliding_A_Explode.dae",
+    "relative_path": "Doors/City/DOOR_City_House_Secret_Sliding_ABC/Resources/DOOR_City_House_Secret_Sliding_A_Explode.dae",
+    "size": [
+      2.2970850467681885,
+      3.0471279565244913,
+      0.5611930042505264
+    ],
+    "center_offset": [
+      0.0059964656829833984,
+      1.515694978646934,
+      -0.047760508954524994
+    ]
+  },
+  {
+    "name": "DOOR_City_Wooden_House_Secret_Sliding_A.dae",
+    "relative_path": "Doors/City/DOOR_City_Wooden_House_Secret_Sliding_ABC/Resources/DOOR_City_Wooden_House_Secret_Sliding_A.dae",
+    "size": [
+      3.093266010284424,
+      4.002600994140721,
+      0.3524959981441498
+    ],
+    "center_offset": [
+      -0.11905395984649658,
+      2.0012934970702645,
+      -0.10010899603366852
+    ]
+  },
+  {
+    "name": "DOOR_City_Wooden_House_Secret_Sliding_A_Destruct.dae",
+    "relative_path": "Doors/City/DOOR_City_Wooden_House_Secret_Sliding_ABC/Resources/DOOR_City_Wooden_House_Secret_Sliding_A_Destruct.dae",
+    "size": [
+      6.687071084976196,
+      0.7385579980909824,
+      5.600025177001953
+    ],
+    "center_offset": [
+      -0.369470477104187,
+      0.30687799863517284,
+      -0.6615455150604248
+    ]
+  },
+  {
+    "name": "DOOR_City_Wooden_House_Secret_Sliding_A_Explode.dae",
+    "relative_path": "Doors/City/DOOR_City_Wooden_House_Secret_Sliding_ABC/Resources/DOOR_City_Wooden_House_Secret_Sliding_A_Explode.dae",
+    "size": [
+      3.093266010284424,
+      4.000017013580418,
+      0.3524959981441498
+    ],
+    "center_offset": [
+      -0.11905395984649658,
+      2.000001506790113,
+      -0.10010899603366852
+    ]
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Ketheric_Door_Intricate_ABC/Resources/DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_A.dae",
+    "size": [
+      5.355494976043701,
+      7.3546620644629,
+      1.5089159607887268
+    ],
+    "center_offset": [
+      0.0004456043243408203,
+      3.672295032069087,
+      -0.5694579780101776
+    ]
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Left_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Ketheric_Door_Intricate_ABC/Resources/DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Left_A.dae",
+    "size": [
+      2.40263202204369,
+      7.046011094003916,
+      1.4876229614019394
+    ],
+    "center_offset": [
+      1.2014390110271052,
+      3.517969546839595,
+      -0.5803384855389595
+    ]
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Right_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Ketheric_Door_Intricate_ABC/Resources/DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Right_A.dae",
+    "size": [
+      2.4026488941162825,
+      7.040975093841553,
+      1.2915339916944504
+    ],
+    "center_offset": [
+      -1.197017447091639,
+      3.5204875469207764,
+      -0.48229799419641495
+    ]
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Frame_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Ketheric_Door_Intricate_ABC/Resources/DOOR_Double_Big_Dungeon_Ketheric_Intricate_Frame_A.dae",
+    "size": [
+      5.355494976043701,
+      7.349626064300537,
+      0.4407469928264618
+    ],
+    "center_offset": [
+      0.0004456043243408203,
+      3.6748130321502686,
+      -0.035373494029045105
+    ]
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Moonrise_Absolute_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Moonrise_Absolute_Door_ABC/Resources/DOOR_Double_Big_Dungeon_Moonrise_Absolute_A.dae",
+    "size": [
+      5.359364986419678,
+      7.133570194244385,
+      0.9847519993782043
+    ],
+    "center_offset": [
+      5.459785461425781e-05,
+      3.5667850971221924,
+      0.0011779963970184326
+    ]
+  },
+  {
+    "name": "DOOR_SharTemple_Secret_Sliding_A.dae",
+    "relative_path": "Doors/Dungeon/DOOR_SharTemple_Secret_Sliding_ABC/Resources/DOOR_SharTemple_Secret_Sliding_A.dae",
+    "size": [
+      3.5428839921951294,
+      4.281555061694235,
+      0.9765940010547638
+    ],
+    "center_offset": [
+      0.01121598482131958,
+      2.133214530767873,
+      0.012716993689537048
+    ]
+  },
+  {
+    "name": "DOOR_Foundry_Railcart_A.dae",
+    "relative_path": "Doors/Foundry/DOOR_Foundry_Railcart_ABC/Resources/DOOR_Foundry_Railcart_A.dae",
+    "size": [
+      5.0078489780426025,
+      4.000867999973707,
+      0.3753430098295212
+    ],
+    "center_offset": [
+      -0.0039244890213012695,
+      1.9995660000131465,
+      0.02985449880361557
+    ]
+  },
+  {
+    "name": "DOOR_Double_Slim_City_House_Scenery_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_Double_Slim_City_House_Scenery_A.dae",
+    "size": [
+      2.0,
+      3.9960530267486547,
+      0.3208390027284622
+    ],
+    "center_offset": [
+      0.0,
+      1.9980255133743299,
+      0.07183349877595901
+    ]
+  },
+  {
+    "name": "DOOR_Double_Slim_City_House_Scenery_A_Frameless_Top_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_Double_Slim_City_House_Scenery_A_Frameless_Top_A.dae",
+    "size": [
+      2.0,
+      3.000001953674314,
+      0.3167029991745949
+    ],
+    "center_offset": [
+      0.0,
+      1.4999999768371595,
+      0.07234149798750877
+    ]
+  },
+  {
+    "name": "DOOR_HoH_Double_Slim_House_B.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_HoH_Double_Slim_House_B.dae",
+    "size": [
+      2.5999999046325684,
+      5.189931915832517,
+      0.3592600077390671
+    ],
+    "center_offset": [
+      0.0,
+      2.594964957916261,
+      0.06709600239992142
+    ]
+  },
+  {
+    "name": "DOOR_HoH_Double_Slim_House_B_Destruct.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_HoH_Double_Slim_House_B_Destruct.dae",
+    "size": [
+      3.5511070489883423,
+      5.200727234594524,
+      4.126923859119415
+    ],
+    "center_offset": [
+      -0.349235475063324,
+      2.5915576168335974,
+      -1.194424957036972
+    ]
+  },
+  {
+    "name": "DOOR_HoH_Double_Slim_House_B_Explode.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_HoH_Double_Slim_House_B_Explode.dae",
+    "size": [
+      2.601017951965332,
+      5.191922234130857,
+      0.35580798983573914
+    ],
+    "center_offset": [
+      0.0,
+      2.595960117065431,
+      0.069022998213768
+    ]
+  },
+  {
+    "name": "DOOR_HoH_Double_Slim_House_B_Open_Explode.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_City_House_ABC/Resources/DOOR_HoH_Double_Slim_House_B_Open_Explode.dae",
+    "size": [
+      2.600022077560425,
+      5.189931915832517,
+      1.3905730098485947
+    ],
+    "center_offset": [
+      0.0,
+      2.594964957916261,
+      -0.44845450669527054
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Glasshouse_Shaft_A_1D_1H_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Glasshouse_Shaft_ABC/Resources/DOOR_GEN_Glasshouse_Shaft_A_1D_1H_A.dae",
+    "size": [
+      0.8609539866447449,
+      0.8648699820041656,
+      0.18639600276947021
+    ],
+    "center_offset": [
+      0.0,
+      0.0654119998216629,
+      -0.08082500100135803
+    ]
+  },
+  {
+    "name": "DOOR_WyrmsWay_Dragon_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Metal_ABC/Resources/DOOR_WyrmsWay_Dragon_A.dae",
+    "size": [
+      5.359569072723389,
+      7.139180051162839,
+      0.4852129817008972
+    ],
+    "center_offset": [
+      -4.744529724121094e-05,
+      3.564261025749147,
+      -0.018607497215270996
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Safe_Big_Metal_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Safe_ABC/Resources/DOOR_GEN_Safe_Big_Metal_A.dae",
+    "size": [
+      3.024976968765259,
+      3.0324450004845858,
+      0.6417009830474854
+    ],
+    "center_offset": [
+      -0.00014448165893554688,
+      1.4999994998797774,
+      -0.0032095015048980713
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Safe_Big_Metal_A_Ornate_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Safe_ABC/Resources/DOOR_GEN_Safe_Big_Metal_A_Ornate_A.dae",
+    "size": [
+      3.0249780416488647,
+      3.0324450004845858,
+      0.6373089849948883
+    ],
+    "center_offset": [
+      -5.0961971282958984e-05,
+      1.4999994998797774,
+      -0.0010135024785995483
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Safe_Big_Round_Ornate_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Safe_ABC/Resources/DOOR_GEN_Safe_Big_Round_Ornate_A.dae",
+    "size": [
+      3.382959008216858,
+      3.382806913461536,
+      0.6515920162200928
+    ],
+    "center_offset": [
+      7.051229476928711e-05,
+      1.6903094567824155,
+      -0.09733200073242188
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Safe_Medium_Metal_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Safe_ABC/Resources/DOOR_GEN_Safe_Medium_Metal_A.dae",
+    "size": [
+      2.024977922439575,
+      3.0324450004845858,
+      0.6373080015182495
+    ],
+    "center_offset": [
+      -0.00019299983978271484,
+      1.4999994998797774,
+      -0.0010139942169189453
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Safe_Medium_Metal_A_Ornate_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Safe_ABC/Resources/DOOR_GEN_Safe_Medium_Metal_A_Ornate_A.dae",
+    "size": [
+      2.0249780416488647,
+      3.0324450004845858,
+      0.6373080015182495
+    ],
+    "center_offset": [
+      -6.598234176635742e-05,
+      1.4999994998797774,
+      -0.0010139942169189453
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Tavern_Barrel_Wine_Door_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Tavern_Barrel_Wine_ABC/Resources/DOOR_GEN_Tavern_Barrel_Wine_Door_A.dae",
+    "size": [
+      0.29972999542951584,
+      1.8361629471182823,
+      1.8361629843711853
+    ],
+    "center_offset": [
+      0.08094099536538124,
+      0.9824054725468159,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Tavern_Barrel_Wine_Hull_Bottom_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Tavern_Barrel_Wine_ABC/Resources/DOOR_GEN_Tavern_Barrel_Wine_Hull_Bottom_A.dae",
+    "size": [
+      0.993401977684016,
+      0.983216013701167,
+      1.9664239883422852
+    ],
+    "center_offset": [
+      0.496698988842013,
+      0.4908020068251062,
+      0.0
+    ]
+  },
+  {
+    "name": "DOOR_GEN_Tavern_Barrel_Wine_Hull_Top_A.dae",
+    "relative_path": "Doors/Generic/DOOR_GEN_Tavern_Barrel_Wine_ABC/Resources/DOOR_GEN_Tavern_Barrel_Wine_Hull_Top_A.dae",
+    "size": [
+      0.993401977684016,
+      0.9834169745445251,
+      1.9668279886245728
+    ],
+    "center_offset": [
+      0.496698988842013,
+      1.4741105139255524,
+      0.0
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_A.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      0.5989109873771667
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.027398496866226196
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_A_Destruct.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_A_Destruct.dae",
+    "size": [
+      6.6303300857543945,
+      3.0164180006831884,
+      7.171589136123657
+    ],
+    "center_offset": [
+      -0.42266201972961426,
+      1.4917909996584058,
+      -1.4700626134872437
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_A_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_A_Explode.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      0.6002150177955627
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.027398496866226196
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_A_Frame_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_A_Frame_A.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      0.28694599866867065
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.016402006149291992
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_A_Open_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_A_Open_Explode.dae",
+    "size": [
+      4.003323793411255,
+      2.9999990000000025,
+      2.5372260212898254
+    ],
+    "center_offset": [
+      -0.0011299848556518555,
+      1.5000004999999987,
+      -1.1135660111904144
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_B.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_B.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      0.39362598955631256
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.010559000074863434
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_B_Destruct.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_B_Destruct.dae",
+    "size": [
+      4.312630891799927,
+      3.0011419999646023,
+      3.4556780457496643
+    ],
+    "center_offset": [
+      0.15631544589996338,
+      1.4994290000176989,
+      -1.5727920234203339
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_B_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_B_Explode.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      0.3767390102148056
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.0006524994969367981
+    ]
+  },
+  {
+    "name": "DOOR_Double_Medium_Glasshouse_B_Open_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Double_Medium_Glasshouse_B_Open_Explode.dae",
+    "size": [
+      4.0,
+      2.9999990000000025,
+      2.541091963648796
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      -1.1108879819512367
+    ]
+  },
+  {
+    "name": "DOOR_Glasshouse_Hatch_Bronze_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Glasshouse_Hatch_Bronze_A.dae",
+    "size": [
+      3.1691969633102417,
+      0.3950549867004156,
+      3.4846969842910767
+    ],
+    "center_offset": [
+      5.364418029785156e-07,
+      0.16896549332886934,
+      0.14604145288467407
+    ]
+  },
+  {
+    "name": "DOOR_Glasshouse_Hatch_Bronze_Frame_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Glasshouse_Hatch_Bronze_Frame_A.dae",
+    "size": [
+      4.257068157196045,
+      0.7433860003948212,
+      4.983304977416992
+    ],
+    "center_offset": [
+      0.0,
+      0.06487999856472015,
+      -0.06155252456665039
+    ]
+  },
+  {
+    "name": "DOOR_Round_Big_Glasshouse_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Round_Big_Glasshouse_A.dae",
+    "size": [
+      6.585033178329468,
+      6.4865510910749435,
+      1.3709920048713684
+    ],
+    "center_offset": [
+      0.1405395269393921,
+      3.000186540186405,
+      0.12923100590705872
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_A.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      0.5969539880752563
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.026419997215270996
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_A_Destruct.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_A_Destruct.dae",
+    "size": [
+      2.52846097946167,
+      3.0165059994906187,
+      4.038245975971222
+    ],
+    "center_offset": [
+      -0.07001948356628418,
+      1.4917470002546906,
+      -1.8640759885311127
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_A_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_A_Explode.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      0.5982570052146912
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.026419490575790405
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_A_Frame_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_A_Frame_A.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      0.2873309999704361
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      0.016594506800174713
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_A_Open_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_A_Open_Explode.dae",
+    "size": [
+      2.0065829753875732,
+      2.9999990000000025,
+      2.0260039418935776
+    ],
+    "center_offset": [
+      0.003291487693786621,
+      1.5000004999999987,
+      -0.8539009764790535
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_B.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_B.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      0.3453569859266281
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      -0.013576500117778778
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_B_Destruct.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_B_Destruct.dae",
+    "size": [
+      4.89184296131134,
+      3.016356000676751,
+      5.002456903457642
+    ],
+    "center_offset": [
+      1.2603334784507751,
+      1.4918219996616244,
+      0.3179284334182739
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_B_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_B_Explode.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      0.3474709987640381
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      -0.01398150622844696
+    ]
+  },
+  {
+    "name": "DOOR_Single_Glasshouse_B_Open_Explode.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Glasshouse_B_Open_Explode.dae",
+    "size": [
+      2.0,
+      2.9999990000000025,
+      2.0250219851732254
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004999999987,
+      -0.8527569994330406
+    ]
+  },
+  {
+    "name": "Door_Single_Small_Glasshouse_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/Door_Single_Small_Glasshouse_A.dae",
+    "size": [
+      2.007812023162842,
+      3.0,
+      0.5654799938201904
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "name": "DOOR_Single_Small_Glasshouse_Grating_A.dae",
+    "relative_path": "Doors/Glasshouse/Resources/DOOR_Single_Small_Glasshouse_Grating_A.dae",
+    "size": [
+      2.0349559783935547,
+      3.0156660079956055,
+      0.28428300470113754
+    ],
+    "center_offset": [
+      0.0,
+      1.5078330039978027,
+      0.06500250473618507
+    ]
+  },
+  {
+    "name": "DOOR_Harbor_House_Secret_Sliding_A.dae",
+    "relative_path": "Doors/Harbor/House/DOOR_Harbor_House_Secret_Sliding_ABC/Resources/DOOR_Harbor_House_Secret_Sliding_A.dae",
+    "size": [
+      5.6510329246521,
+      4.0354850850999355,
+      1.173840045928955
+    ],
+    "center_offset": [
+      -0.008805513381958008,
+      2.0004025418311357,
+      -0.0014629960060119629
+    ]
+  },
+  {
+    "name": "DOOR_Harbor_House_Secret_Sliding_B.dae",
+    "relative_path": "Doors/Harbor/House/DOOR_Harbor_House_Secret_Sliding_ABC/Resources/DOOR_Harbor_House_Secret_Sliding_B.dae",
+    "size": [
+      5.660549879074097,
+      4.094830807298422,
+      0.6019429862499237
+    ],
+    "center_offset": [
+      -0.004047036170959473,
+      2.030075402930379,
+      -0.002047494053840637
+    ]
+  },
+  {
+    "name": "DOOR_Harbor_House_Secret_Sliding_C.dae",
+    "relative_path": "Doors/Harbor/House/DOOR_Harbor_House_Secret_Sliding_ABC/Resources/DOOR_Harbor_House_Secret_Sliding_C.dae",
+    "size": [
+      3.4636369943618774,
+      4.028274059295654,
+      0.4097570111043751
+    ],
+    "center_offset": [
+      -0.03637152910232544,
+      2.014137029647827,
+      -0.2068485056515783
+    ]
+  },
+  {
+    "name": "DOOR_HoH_Fence_A_Door.dae",
+    "relative_path": "Doors/HouseOfHope/Resources/DOOR_HoH_Fence_A_Door.dae",
+    "size": [
+      2.764770030975342,
+      4.519379138946533,
+      0.1873839944601059
+    ],
+    "center_offset": [
+      0.0,
+      2.2596895694732666,
+      0.0
+    ]
+  },
+  {
+    "name": "DOOR_Lathander_Door_Double_Big_A.dae",
+    "relative_path": "Doors/Lathander/DOOR_Lathander_Door_Double_Big_ABC/Resources/DOOR_Lathander_Door_Double_Big_A.dae",
+    "size": [
+      5.480205059051514,
+      7.289065882563591,
+      0.5108339786529541
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      3.580518938601017,
+      0.0004709959030151367
+    ]
+  },
+  {
+    "name": "DOOR_Single_Lathander_Grating_A.dae",
+    "relative_path": "Doors/Lathander/DOOR_Single_Lathander_Grating_ABC/Resources/DOOR_Single_Lathander_Grating_A.dae",
+    "size": [
+      2.089920997619629,
+      3.92930006980896,
+      0.2551819942891598
+    ],
+    "center_offset": [
+      1.049041748046875e-05,
+      1.96465003490448,
+      0.08658699877560139
+    ]
+  },
+  {
+    "name": "DOOR_Single_Lathander_Grating_A_Destruct.dae",
+    "relative_path": "Doors/Lathander/DOOR_Single_Lathander_Grating_ABC/Resources/DOOR_Single_Lathander_Grating_A_Destruct.dae",
+    "size": [
+      2.089920997619629,
+      3.935846069827676,
+      4.956884026527405
+    ],
+    "center_offset": [
+      1.049041748046875e-05,
+      1.961377034895122,
+      0.7693299651145935
+    ]
+  },
+  {
+    "name": "DOOR_Single_Lathander_Grating_A_Explode.dae",
+    "relative_path": "Doors/Lathander/DOOR_Single_Lathander_Grating_ABC/Resources/DOOR_Single_Lathander_Grating_A_Explode.dae",
+    "size": [
+      2.089920997619629,
+      3.92930006980896,
+      0.21373899510217598
+    ],
+    "center_offset": [
+      1.049041748046875e-05,
+      1.96465003490448,
+      0.10698749755465542
+    ]
+  },
+  {
+    "name": "DOOR_Single_Lathander_Grating_A_Open_Explode.dae",
+    "relative_path": "Doors/Lathander/DOOR_Single_Lathander_Grating_ABC/Resources/DOOR_Single_Lathander_Grating_A_Open_Explode.dae",
+    "size": [
+      2.089920997619629,
+      3.92930006980896,
+      1.802655041217804
+    ],
+    "center_offset": [
+      1.049041748046875e-05,
+      1.96465003490448,
+      -0.6874705255031586
+    ]
+  },
+  {
+    "name": "DOOR_Temple_House_Secret_Sliding_A.dae",
+    "relative_path": "Doors/Temple/Resources/DOOR_Temple_House_Secret_Sliding_A.dae",
+    "size": [
+      5.594717979431152,
+      4.040355961769819,
+      0.5932520031929016
+    ],
+    "center_offset": [
+      -0.002532958984375,
+      1.9929259810596704,
+      -0.00010600686073303223
+    ]
+  },
+  {
+    "name": "DOOR_Temple_House_Secret_Sliding_B.dae",
+    "relative_path": "Doors/Temple/Resources/DOOR_Temple_House_Secret_Sliding_B.dae",
+    "size": [
+      2.198552966117859,
+      4.0404479913413525,
+      0.6153189837932587
+    ],
+    "center_offset": [
+      -0.004643499851226807,
+      1.992971995845437,
+      -0.005089506506919861
+    ]
+  },
+  {
+    "name": "Helper_Invisible_Door_C.dae",
+    "relative_path": "Doors/_Reference/Resources/Helper_Invisible_Door_C.dae",
+    "size": [
+      4.0,
+      6.205693021416664,
+      0.20400100201368332
+    ],
+    "center_offset": [
+      0.0,
+      3.1078435108065605,
+      0.06346050277352333
+    ]
+  },
+  {
+    "name": "Helper_Invisible_Door_D.dae",
+    "relative_path": "Doors/_Reference/Resources/Helper_Invisible_Door_D.dae",
+    "size": [
+      2.0,
+      3.0,
+      0.24401000142097473
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ]
+  },
+  {
+    "name": "Helper_Invisible_Door_E.dae",
+    "relative_path": "Doors/_Reference/Resources/Helper_Invisible_Door_E.dae",
+    "size": [
+      4.0,
+      3.0,
+      0.24401000142097473
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "name": "ATM_Backdrop_A.dae",
+    "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_A.dae",
+    "size": [
+      8.515582084655762,
+      2.0,
+      0.951729999614713
+    ],
+    "center_offset": [
+      0.0,
+      1.0,
+      0.47586399980735905
+    ]
+  },
+  {
+    "name": "ATM_Backdrop_City_Burning_Vista_A.dae",
+    "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_City_Burning_Vista_A.dae",
+    "size": [
+      8.515582084655762,
+      4.176023006439209,
+      0.951729999614713
+    ],
+    "center_offset": [
+      0.0,
+      2.0880115032196045,
+      0.47586399980735905
+    ],
+    "uuid": "30ad6147-96c5-4e86-9b3c-1576e12718ff"
+  },
+  {
+    "name": "ATM_Backdrop_Mountains_B_Cut_A.dae",
+    "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_Mountains_B_Cut_A.dae",
+    "size": [
+      5.511123061180115,
+      2.0,
+      0.9517289996147156
+    ],
+    "center_offset": [
+      -1.5022295117378235,
+      1.0,
+      0.4758644998073578
+    ],
+    "uuid": "e89e5d16-1e4b-4f61-ae91-929b474ded77"
+  },
+  {
+    "name": "ATM_GodRay_25m_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_A.dae",
+    "size": [
+      4.7471418380737305,
+      24.973525093627927,
+      4.747140884399414
+    ],
+    "center_offset": [
+      0.0,
+      -12.486761546813966,
+      4.76837158203125e-07
+    ],
+    "uuid": "f7ca4df5-ecad-4ae1-a273-0427320b75bb"
+  },
+  {
+    "name": "ATM_GodRay_25m_Cluster_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Cluster_A.dae",
+    "size": [
+      13.20951223373413,
+      24.977724075317383,
+      12.232409954071045
+    ],
+    "center_offset": [
+      0.4412209987640381,
+      12.488862037658691,
+      -0.4283010959625244
+    ],
+    "uuid": "dec291d8-e687-4bbe-a455-c16c8cabf881"
+  },
+  {
+    "name": "ATM_GodRay_25m_Cluster_B.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Cluster_B.dae",
+    "size": [
+      17.81350612640381,
+      24.974362419677732,
+      17.966111183166504
+    ],
+    "center_offset": [
+      0.009188175201416016,
+      12.487180209838868,
+      0.0005497932434082031
+    ],
+    "uuid": "016ae6c3-d190-446b-9ebb-3daefd07acf2"
+  },
+  {
+    "name": "ATM_GodRay_25m_Thin_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Thin_A.dae",
+    "size": [
+      1.8259459733963013,
+      24.942359924316406,
+      1.82594496011734
+    ],
+    "center_offset": [
+      0.0,
+      -12.471179962158203,
+      5.066394805908203e-07
+    ],
+    "uuid": "eb3bac9d-db0b-47ae-a0e2-e020285716d0"
+  },
+  {
+    "name": "ATM_GodRay_50m_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_A.dae",
+    "size": [
+      5.382564067840576,
+      49.984334038330076,
+      5.382565975189209
+    ],
+    "center_offset": [
+      0.0,
+      -24.99216601916504,
+      0.0
+    ],
+    "uuid": "3ff0fb09-de64-439c-936a-994a90511139"
+  },
+  {
+    "name": "ATM_GodRay_50m_Cluster_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_Cluster_A.dae",
+    "size": [
+      13.20951223373413,
+      49.946852637695315,
+      12.232409954071045
+    ],
+    "center_offset": [
+      0.4412209987640381,
+      24.973427318847655,
+      -0.4283010959625244
+    ],
+    "uuid": "14b39ee0-3b60-4cfa-9194-7ca928cfacc5"
+  },
+  {
+    "name": "ATM_GodRay_50m_Cluster_B.dae",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_Cluster_B.dae",
+    "size": [
+      17.813507080078125,
+      49.952796121338,
+      17.96611213684082
+    ],
+    "center_offset": [
+      0.009187698364257812,
+      24.976395060668892,
+      0.0005502700805664062
+    ],
+    "uuid": "83b18ee6-2471-4bc5-9b59-292d6c43baa7"
+  },
+  {
+    "name": "ATM_Skydome_A.dae",
+    "relative_path": "Atmospheres/Resources/ATM_Skydome_A.dae",
+    "size": [
+      20.000003814697266,
+      20.0,
+      20.000006675720215
+    ],
+    "center_offset": [
+      1.9073486328125e-06,
+      0.0,
+      2.384185791015625e-06
+    ]
+  }
+]

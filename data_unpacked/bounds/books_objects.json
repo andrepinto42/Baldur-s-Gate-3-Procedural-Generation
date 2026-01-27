@@ -1,0 +1,2255 @@
+[
+  {
+    "name": "BOOK_GEN_Books_Pile_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Pile_A.dae",
+    "size": [
+      2.463338017463684,
+      0.2044870052486658,
+      1.916707992553711
+    ],
+    "center_offset": [
+      0.11241096258163452,
+      0.09060850273817778,
+      -0.01087099313735962
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Multiple_A.dae",
+    "size": [
+      1.413290023803711,
+      2.16850608587265,
+      0.5690039992332458
+    ],
+    "center_offset": [
+      0.0,
+      1.9830880463123322,
+      2.199411392211914e-05
+    ],
+    "uuid": "96a9ec72-9fd1-4312-bf4a-892627570550"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Multiple_B.dae",
+    "size": [
+      1.2735940217971802,
+      2.308648109436035,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      0.0,
+      2.048274040222168,
+      0.0
+    ],
+    "uuid": "01df2059-dc4a-43e5-a352-4c7ef62f4085"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Single_A.dae",
+    "size": [
+      1.2600319981575012,
+      0.43059100574464537,
+      0.3157300055027008
+    ],
+    "center_offset": [
+      0.001373976469039917,
+      0.2156515028764261,
+      0.0
+    ],
+    "uuid": "cdb5ff21-33b2-46af-834b-d83958f1fa65"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Single_B.dae",
+    "size": [
+      1.2656640410423279,
+      0.42341301185660996,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      0.0024490058422088623,
+      0.21151150592777412,
+      0.0011820048093795776
+    ],
+    "uuid": "09077016-0b2e-45a6-a2be-54b9e6d930fb"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_A.dae",
+    "size": [
+      0.4821299910545349,
+      1.2491879814770073,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.0,
+      0.6246549907373264,
+      0.0
+    ],
+    "uuid": "d28e0a7e-0f39-4ad6-8bea-3b954dfe2b73"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_B.dae",
+    "size": [
+      0.4821299910545349,
+      0.8597849959041923,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.003618001937866211,
+      0.429953497950919,
+      0.017288997769355774
+    ],
+    "uuid": "1c5dcc59-f414-4b08-a967-9bea02556244"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_C.dae",
+    "size": [
+      0.42672199010849,
+      0.5616030009405222,
+      0.3470419943332672
+    ],
+    "center_offset": [
+      0.0,
+      0.28093550047196914,
+      0.0
+    ],
+    "uuid": "1a6a38a3-15fc-4ea5-b6f4-096971794dff"
+  },
+  {
+    "name": "BOOK_GEN_Book_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_A.dae",
+    "size": [
+      0.31897199153900146,
+      0.09085799811873585,
+      0.4510129988193512
+    ],
+    "center_offset": [
+      0.0,
+      0.04467999906046316,
+      0.002325505018234253
+    ],
+    "uuid": "bf6d9682-47cd-460c-972c-7a5d22514fdc"
+  },
+  {
+    "name": "BOOK_GEN_Book_A_Open.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_A_Open.dae",
+    "size": [
+      0.6961100101470947,
+      0.05960100190714002,
+      0.4479309916496277
+    ],
+    "center_offset": [
+      0.0,
+      0.03612450114451349,
+      -0.0007845014333724976
+    ],
+    "uuid": "e7eb2a78-f98e-4aec-93b3-dc3deb690c6e"
+  },
+  {
+    "name": "BOOK_GEN_Book_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_B.dae",
+    "size": [
+      0.36506399512290955,
+      0.10725399851799011,
+      0.46140599250793457
+    ],
+    "center_offset": [
+      0.0,
+      0.053626999258995056,
+      -0.0003290027379989624
+    ],
+    "uuid": "680af999-dd77-4235-90b8-3196a16eebcd"
+  },
+  {
+    "name": "BOOK_GEN_Book_B_Open.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_B_Open.dae",
+    "size": [
+      0.6020359992980957,
+      0.047856998338829726,
+      0.3888779878616333
+    ],
+    "center_offset": [
+      0.0,
+      0.023737499170238152,
+      0.0008179992437362671
+    ],
+    "uuid": "d75640df-3189-492f-bc86-22af4adfa287"
+  },
+  {
+    "name": "BOOK_GEN_Book_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_C.dae",
+    "size": [
+      0.3262670040130615,
+      0.08756799920229241,
+      0.5130240023136139
+    ],
+    "center_offset": [
+      0.004906505346298218,
+      0.04343999960110523,
+      -0.01693899929523468
+    ],
+    "uuid": "59e30a7b-355e-4373-a482-678f8826774c"
+  },
+  {
+    "name": "BOOK_GEN_Book_C_Open.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_C_Open.dae",
+    "size": [
+      0.7431069910526276,
+      0.05727100104559213,
+      0.4721810072660446
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.028035500494297594,
+      -0.0005344972014427185
+    ],
+    "uuid": "d3ba75f2-9fe3-4a24-b0f2-956ce5a16adc"
+  },
+  {
+    "name": "BOOK_GEN_Book_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_D.dae",
+    "size": [
+      0.3312020003795624,
+      0.0946590006351471,
+      0.4780299961566925
+    ],
+    "center_offset": [
+      0.0,
+      0.04732950031757355,
+      0.0
+    ],
+    "uuid": "3d15ba43-7fe8-4208-ac0a-b5a22fe5a899"
+  },
+  {
+    "name": "BOOK_GEN_Book_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_E.dae",
+    "size": [
+      0.34920699894428253,
+      0.1040950013557449,
+      0.47968000173568726
+    ],
+    "center_offset": [
+      -4.991888999938965e-07,
+      0.050988500646781176,
+      0.0008250027894973755
+    ],
+    "uuid": "db9d139f-5e81-4405-896b-125660bd0a29"
+  },
+  {
+    "name": "BOOK_GEN_Book_Rich_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_Rich_A.dae",
+    "size": [
+      0.3870149999856949,
+      0.11981500126421452,
+      0.47850899398326874
+    ],
+    "center_offset": [
+      -0.00570649653673172,
+      0.053811500780284405,
+      -0.00023949891328811646
+    ],
+    "uuid": "f458670f-17b9-43ad-9a84-072260de6281"
+  },
+  {
+    "name": "BOOK_GEN_Book_Rich_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_Rich_B.dae",
+    "size": [
+      0.3817099928855896,
+      0.10281900316476822,
+      0.5019400119781494
+    ],
+    "center_offset": [
+      0.0,
+      0.05140950158238411,
+      -0.0002599954605102539
+    ],
+    "uuid": "b2f9489a-c539-4eb5-b77d-d365797d1a42"
+  },
+  {
+    "name": "BOOK_GEN_Book_Rich_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Book_Rich_C.dae",
+    "size": [
+      0.3595139980316162,
+      0.08121600249069161,
+      0.5322120189666748
+    ],
+    "center_offset": [
+      0.0,
+      0.04065700124374416,
+      0.0
+    ],
+    "uuid": "ac76d145-75de-4fad-8faa-36e594d295b1"
+  },
+  {
+    "name": "BOOK_GEN_Envelope_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Envelope_ABC/Resources/BOOK_GEN_Envelope_A.dae",
+    "size": [
+      0.25782500207424164,
+      0.013100999574817251,
+      0.18611500412225723
+    ],
+    "center_offset": [
+      -0.0006415024399757385,
+      0.006450499789934838,
+      -0.002362500876188278
+    ],
+    "uuid": "c0de891b-f804-4d89-953d-97c5dcd54946"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Letter_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Letter_A.dae",
+    "size": [
+      0.3050920069217682,
+      0.01770400023087859,
+      0.1591550037264824
+    ],
+    "center_offset": [
+      -0.0025420039892196655,
+      0.011406000005081296,
+      0.0002554990351200104
+    ],
+    "uuid": "c0e41765-dda2-49c3-9e72-bd3b8fa45698"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Letter_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Letter_B.dae",
+    "size": [
+      0.14645900577306747,
+      0.023154999129474163,
+      0.23622800409793854
+    ],
+    "center_offset": [
+      0.00027750059962272644,
+      0.014432499650865793,
+      0.006269998848438263
+    ],
+    "uuid": "bc8b4bf8-71cb-4ec5-8f97-25b567db79a7"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Letter_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Letter_C.dae",
+    "size": [
+      0.24735800176858902,
+      0.03282099962234497,
+      0.3587220013141632
+    ],
+    "center_offset": [
+      6.9998204708099365e-06,
+      0.016410499811172485,
+      0.006852999329566956
+    ],
+    "uuid": "4d69834f-af2a-4197-9454-789049667b23"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_A.dae",
+    "size": [
+      0.7125589847564697,
+      0.03853000095114112,
+      0.6643129885196686
+    ],
+    "center_offset": [
+      -0.01117849349975586,
+      0.024957000510767102,
+      -0.0025015026330947876
+    ],
+    "uuid": "e0cd4270-b952-4c0b-ba38-0bcd60441cbd"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_B.dae",
+    "size": [
+      0.8919900059700012,
+      0.05168999935267493,
+      0.6813569962978363
+    ],
+    "center_offset": [
+      -0.030539989471435547,
+      0.026573999697575346,
+      -0.03996048867702484
+    ],
+    "uuid": "9501cb98-acd9-412e-afe6-888926df2401"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_C.dae",
+    "size": [
+      0.9192060232162476,
+      0.05896800151094794,
+      0.7503179907798767
+    ],
+    "center_offset": [
+      -0.1272590160369873,
+      0.024656000779941678,
+      0.02633899450302124
+    ],
+    "uuid": "9df30842-1b9e-41c8-a067-64b0d3e3b238"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_D.dae",
+    "size": [
+      1.449944019317627,
+      0.05016100105422083,
+      0.9031729996204376
+    ],
+    "center_offset": [
+      0.006965994834899902,
+      0.02499050052574603,
+      -0.046642497181892395
+    ],
+    "uuid": "16d6b435-7348-46aa-9034-0bea7f994653"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_E.dae",
+    "size": [
+      1.6311079859733582,
+      0.05016100105422083,
+      0.8723030090332031
+    ],
+    "center_offset": [
+      0.0975479781627655,
+      0.02499050052574603,
+      -0.008876502513885498
+    ],
+    "uuid": "fdcb2d2c-4c45-4e7c-b2e3-2d156f369f90"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_F.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_F.dae",
+    "size": [
+      0.8349030017852783,
+      0.028618999756872654,
+      0.6286310255527496
+    ],
+    "center_offset": [
+      0.020825505256652832,
+      0.024932499509304762,
+      0.057626500725746155
+    ],
+    "uuid": "9408a440-81fd-482a-9114-553e86280a0c"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Pile_G.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Pile_G.dae",
+    "size": [
+      0.6297919750213623,
+      0.03536599921062589,
+      0.5808820128440857
+    ],
+    "center_offset": [
+      -0.01566299796104431,
+      0.02433099946938455,
+      0.06678000092506409
+    ],
+    "uuid": "f90ab01d-677f-4c40-96e5-ac8ae5a1f5c9"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Poster_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Poster_A.dae",
+    "size": [
+      0.2552280128002167,
+      0.03601400135084987,
+      0.37153899669647217
+    ],
+    "center_offset": [
+      0.0018460005521774292,
+      0.024380000540986657,
+      0.0062675029039382935
+    ],
+    "uuid": "0de98cf1-d234-4a53-bfc8-05f7eeebc0e8"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Poster_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Poster_B.dae",
+    "size": [
+      0.2552279978990555,
+      0.019903999753296375,
+      0.3801259994506836
+    ],
+    "center_offset": [
+      0.0014520063996315002,
+      0.013977000024169683,
+      0.002102002501487732
+    ],
+    "uuid": "cdc04459-d1b1-4923-b073-85e85c1d0fb4"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Poster_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Poster_C.dae",
+    "size": [
+      0.25522899627685547,
+      0.03158599929884076,
+      0.3702699989080429
+    ],
+    "center_offset": [
+      0.0023265033960342407,
+      0.022835999494418502,
+      -0.002925001084804535
+    ],
+    "uuid": "6d5f9187-6457-4f20-b878-f5b3f8272c6f"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Poster_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Poster_D.dae",
+    "size": [
+      0.2552279978990555,
+      0.012442000210285187,
+      0.3801259994506836
+    ],
+    "center_offset": [
+      0.0005209967494010925,
+      0.006221000105142593,
+      0.0021899938583374023
+    ],
+    "uuid": "b9042c5b-3b1d-47a6-986b-3a7eda2a1af9"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Poster_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Poster_E.dae",
+    "size": [
+      0.6158720254898071,
+      0.0,
+      0.9095540046691895
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "e13a8888-ca85-452b-b75d-a9f78f2e45c4"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Scattered_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Scattered_A.dae",
+    "size": [
+      1.79653799533844,
+      0.003131000092253089,
+      2.676554024219513
+    ],
+    "center_offset": [
+      0.02772998809814453,
+      0.002298500039614737,
+      0.4486640393733978
+    ],
+    "uuid": "7553630b-e900-4e74-a77b-8b146918d971"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Scattered_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Scattered_B.dae",
+    "size": [
+      1.762382984161377,
+      0.0031320000416599214,
+      2.3541570901870728
+    ],
+    "center_offset": [
+      0.1748344898223877,
+      0.0024760000233072788,
+      -0.052061498165130615
+    ],
+    "uuid": "b38e19f1-2366-4a56-a791-d01775b303e7"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_A.dae",
+    "size": [
+      0.25724999606609344,
+      0.03852899977937341,
+      0.3785260021686554
+    ],
+    "center_offset": [
+      0.002383001148700714,
+      0.024503499967977405,
+      0.0005780011415481567
+    ],
+    "uuid": "cac0bc53-ce64-4ddc-a341-8279ea1c4932"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_B.dae",
+    "size": [
+      0.25964200496673584,
+      0.027786999940872192,
+      0.37306900322437286
+    ],
+    "center_offset": [
+      0.0008839964866638184,
+      0.013893499970436096,
+      -0.005434505641460419
+    ],
+    "uuid": "b789159c-025a-4190-aa75-c923d7a8c32b"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_C.dae",
+    "size": [
+      0.2581869959831238,
+      0.019029000774025917,
+      0.18988299369812012
+    ],
+    "center_offset": [
+      -7.550418376922607e-05,
+      0.013860500417649746,
+      -0.00024349987506866455
+    ],
+    "uuid": "d86d96c9-3769-4799-aaa5-78793a4da7e7"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_D.dae",
+    "size": [
+      0.2586890012025833,
+      0.019825000315904617,
+      0.3219570070505142
+    ],
+    "center_offset": [
+      -0.00023149698972702026,
+      0.009912500157952309,
+      0.005173496901988983
+    ],
+    "uuid": "4c5683af-b1c4-40d1-b0cb-9214e51197c0"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_E.dae",
+    "size": [
+      0.2552409917116165,
+      0.03575800149701536,
+      0.37676501274108887
+    ],
+    "center_offset": [
+      -0.0002204999327659607,
+      0.02031000063288957,
+      -0.002016499638557434
+    ],
+    "uuid": "aab4c957-ec24-4e74-a703-3b4d9f68f142"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_F.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_F.dae",
+    "size": [
+      0.2588240057229996,
+      0.017061999475117773,
+      0.33012598752975464
+    ],
+    "center_offset": [
+      0.0003430023789405823,
+      0.0076029997144360095,
+      7.300078868865967e-05
+    ],
+    "uuid": "3596708b-11b0-44f2-8f40-8073d2cf0084"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_G.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_G.dae",
+    "size": [
+      0.2543869912624359,
+      0.01585100032389164,
+      0.37710699439048767
+    ],
+    "center_offset": [
+      0.0015214979648590088,
+      0.00792550016194582,
+      -0.0015375018119812012
+    ],
+    "uuid": "7ac261db-55f8-455f-a79d-5298ce1c4e50"
+  },
+  {
+    "name": "BOOK_GEN_Paper_Sheet_H.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Paper_ABC/Resources/BOOK_GEN_Paper_Sheet_H.dae",
+    "size": [
+      0.2586890012025833,
+      0.019825000315904617,
+      0.3219570070505142
+    ],
+    "center_offset": [
+      -0.00023149698972702026,
+      0.009912500157952309,
+      0.005173496901988983
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Druidrite_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Druidrite_A/Resources/BOOK_GEN_Scroll_Druidrite_A.dae",
+    "size": [
+      0.2315329983830452,
+      0.2763979978626594,
+      0.6704930067062378
+    ],
+    "center_offset": [
+      -0.0038005001842975616,
+      0.13991999888094142,
+      -0.004392504692077637
+    ],
+    "uuid": "7eaa022b-ebf2-4340-bb76-59820bb3b7d8"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_A_Close.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_A_Close.dae",
+    "size": [
+      0.15480899810791016,
+      0.08148899953812361,
+      0.5916709899902344
+    ],
+    "center_offset": [
+      -0.00030150264501571655,
+      0.03924549976363778,
+      0.00011649727821350098
+    ],
+    "uuid": "0a6395dd-8703-497e-8221-d4ccb691cc11"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_A_HalfOpen.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_A_HalfOpen.dae",
+    "size": [
+      0.38593199849128723,
+      0.07587199914269149,
+      0.5980809926986694
+    ],
+    "center_offset": [
+      0.0,
+      0.04117699956987053,
+      -0.0003364980220794678
+    ],
+    "uuid": "28b098cd-2448-4193-881f-edaf67abd4e0"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_A_Open.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_A_Open.dae",
+    "size": [
+      0.5557920038700104,
+      0.0721239997074008,
+      0.5974640250205994
+    ],
+    "center_offset": [
+      -3.801286220550537e-05,
+      0.037924999836832285,
+      0.0
+    ],
+    "uuid": "3f88f731-258c-4ab7-bf66-c135edd2c1cc"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "5c05ad8a-78ec-49f1-8ac1-32c91d124d1d"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Open_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B_Open_A.dae",
+    "size": [
+      0.5146009847521782,
+      0.16988199367187917,
+      0.6164530217647552
+    ],
+    "center_offset": [
+      -0.17139849439263344,
+      0.08120599680114537,
+      0.009849503636360168
+    ],
+    "uuid": "71c2356f-0552-418f-b3d7-0e33d14f7803"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Double_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Double_A.dae",
+    "size": [
+      0.18258799612522125,
+      0.08405400160700083,
+      0.6137209832668304
+    ],
+    "center_offset": [
+      -0.006843000650405884,
+      0.04344100086018443,
+      0.00024349987506866455
+    ],
+    "uuid": "bc7f53c5-ffb2-4252-b222-8d551aec02f9"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Double_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Double_B.dae",
+    "size": [
+      0.22152400016784668,
+      0.11309500131756067,
+      0.5731559991836548
+    ],
+    "center_offset": [
+      0.0004960000514984131,
+      0.052569500636309385,
+      0.0014379918575286865
+    ],
+    "uuid": "17bf46c9-a147-44d0-a55b-2b91cecd6ab7"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Long_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Long_A.dae",
+    "size": [
+      0.5926949977874756,
+      0.9870389787829481,
+      0.8438259661197662
+    ],
+    "center_offset": [
+      0.025940507650375366,
+      0.49259548939880915,
+      -0.2771879881620407
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Long_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Long_B.dae",
+    "size": [
+      2.4883790016174316,
+      0.11580999987199903,
+      0.6096089780330658
+    ],
+    "center_offset": [
+      -0.059229493141174316,
+      0.053986999904736876,
+      -0.04820449650287628
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Long_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Long_C.dae",
+    "size": [
+      0.8285170197486877,
+      0.11309500318020582,
+      2.1518889665603638
+    ],
+    "center_offset": [
+      -0.2047325074672699,
+      0.052136501763015985,
+      -0.04418450593948364
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Long_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Long_D.dae",
+    "size": [
+      0.32681000977754593,
+      0.6673440262675285,
+      0.6120040118694305
+    ],
+    "center_offset": [
+      -0.09849300608038902,
+      -0.26131001487374306,
+      -0.010552003979682922
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Long_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Long_E.dae",
+    "size": [
+      2.75163996219635,
+      1.0137389798182994,
+      0.6062610149383545
+    ],
+    "center_offset": [
+      -0.41777700185775757,
+      0.5047904899111018,
+      0.05380550026893616
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Open_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Open_A.dae",
+    "size": [
+      0.3722219914197922,
+      0.07369699637638405,
+      0.6143419742584229
+    ],
+    "center_offset": [
+      -0.147428996860981,
+      0.036396498180693015,
+      -0.00012800097465515137
+    ],
+    "uuid": "ad8b9d6a-bfa0-4e57-bb95-36e60af9bb37"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Open_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Open_B.dae",
+    "size": [
+      0.39447199180722237,
+      0.11141700024018064,
+      0.5827690064907074
+    ],
+    "center_offset": [
+      -0.1411179956048727,
+      0.05498450013692491,
+      0.007160499691963196
+    ],
+    "uuid": "90987a60-b1ae-4c78-bb94-82d991a51259"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Open_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Open_C.dae",
+    "size": [
+      0.5241260230541229,
+      0.0753270024433732,
+      0.636929988861084
+    ],
+    "center_offset": [
+      -0.004675999283790588,
+      0.035568501334637403,
+      -0.011422008275985718
+    ],
+    "uuid": "d5a0fed6-1915-4abc-99ff-a3befbdb5455"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Single_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Single_A.dae",
+    "size": [
+      0.1067110002040863,
+      0.07531099929474294,
+      0.6143420040607452
+    ],
+    "center_offset": [
+      -0.003977499902248383,
+      0.033897499670274556,
+      -1.500546932220459e-05
+    ],
+    "uuid": "d75aa62e-6adb-401f-b9bd-6a4bf65c4498"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_C_Single_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_C_Single_B.dae",
+    "size": [
+      0.12929799780249596,
+      0.11580200295429677,
+      0.5592820048332214
+    ],
+    "center_offset": [
+      0.002348998561501503,
+      0.05650600144872442,
+      -3.0994415283203125e-05
+    ],
+    "uuid": "c97f9697-6480-4204-94d1-628b1c49aa89"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_D_Double_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_D_Double_A.dae",
+    "size": [
+      0.17407799512147903,
+      0.0926019964099396,
+      0.6135109961032867
+    ],
+    "center_offset": [
+      0.0012740008533000946,
+      0.045907998210168444,
+      0.00032348930835723877
+    ],
+    "uuid": "8300137a-25f3-4e9b-b18f-781114d88be4"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_D_Single_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_D_Single_A.dae",
+    "size": [
+      0.09804800152778625,
+      0.09324899862986058,
+      0.6135109961032867
+    ],
+    "center_offset": [
+      -0.00019700080156326294,
+      0.04612049931893125,
+      0.00032348930835723877
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_E_Open_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_E_Open_A.dae",
+    "size": [
+      0.4757470041513443,
+      0.05904800014104694,
+      0.7669270038604736
+    ],
+    "center_offset": [
+      -0.002657495439052582,
+      0.03110200009541586,
+      -0.011241495609283447
+    ],
+    "uuid": "e04b23fa-4e79-471d-a8fc-bf7a48537782"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_A.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_A.dae",
+    "size": [
+      0.35534700751304626,
+      0.17969099548645318,
+      0.4903919994831085
+    ],
+    "center_offset": [
+      -0.006194502115249634,
+      0.0866434978088364,
+      0.0061240047216415405
+    ],
+    "uuid": "58b05a2d-091d-40eb-bc61-7ff03f038a2e"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_B.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_B.dae",
+    "size": [
+      0.34923499822616577,
+      0.14573699771426618,
+      0.48980800807476044
+    ],
+    "center_offset": [
+      0.03499549627304077,
+      0.06956749886739999,
+      0.006123997271060944
+    ],
+    "uuid": "f589eaba-3a62-4d76-9c50-31956539c0a0"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_C.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_C.dae",
+    "size": [
+      0.3704969882965088,
+      0.1383249998325482,
+      1.0790749788284302
+    ],
+    "center_offset": [
+      0.024319499731063843,
+      0.06750349997309968,
+      -0.027477502822875977
+    ],
+    "uuid": "000093b1-d1e2-41dd-b91e-03b1589a3d4b"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_D.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_D.dae",
+    "size": [
+      0.3953929990530014,
+      0.17129799886606634,
+      1.131974995136261
+    ],
+    "center_offset": [
+      -0.02660449594259262,
+      0.08193699934054166,
+      0.01815149188041687
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_E.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_E.dae",
+    "size": [
+      0.771807998418808,
+      0.17337199905887246,
+      0.49355800449848175
+    ],
+    "center_offset": [
+      0.04190300405025482,
+      0.08135899971239269,
+      0.0034589990973472595
+    ],
+    "uuid": "3969772f-505d-437e-a623-cd0155424170"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_F.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_F.dae",
+    "size": [
+      0.5449890047311783,
+      0.29989199712872505,
+      0.6037999987602234
+    ],
+    "center_offset": [
+      0.058943502604961395,
+      0.14516699872910976,
+      0.015891999006271362
+    ],
+    "uuid": "6f2076f0-96a2-4dc8-ac5e-7bbdcfd37e53"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_G.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_G.dae",
+    "size": [
+      0.8563799858093262,
+      0.2148759993724525,
+      0.992438018321991
+    ],
+    "center_offset": [
+      0.011723995208740234,
+      0.10268699959851801,
+      -0.04599002003669739
+    ],
+    "uuid": "b825f8da-5bc6-4f58-a8d0-802eb6be3f16"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_H.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_H.dae",
+    "size": [
+      0.6641269773244858,
+      0.21768800681456923,
+      0.6859189867973328
+    ],
+    "center_offset": [
+      0.169187493622303,
+      0.10417900350876153,
+      -0.016518503427505493
+    ],
+    "uuid": "f494da0a-c5f6-4623-acc0-1ace002d0a57"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_I.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_I.dae",
+    "size": [
+      0.5301419794559479,
+      0.18465900095179677,
+      0.8726820051670074
+    ],
+    "center_offset": [
+      0.0025150030851364136,
+      0.08733450039289892,
+      0.06715498864650726
+    ],
+    "uuid": "cc3d7d0e-7fbe-497a-921d-51dced3a7bf2"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_Pile_J.dae",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_Pile_J.dae",
+    "size": [
+      0.7453809976577759,
+      0.10101599711924791,
+      0.7353249937295914
+    ],
+    "center_offset": [
+      -0.12189748883247375,
+      0.04600399872288108,
+      -0.1558934971690178
+    ],
+    "uuid": "4def31de-a441-4f44-b4b0-ee37d54e4b30"
+  },
+  {
+    "name": "BOOK_GEN_Books_Pile_A_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Pile_A_Destruct.dae",
+    "size": [
+      2.333761990070343,
+      0.2562689930200577,
+      1.9524869918823242
+    ],
+    "center_offset": [
+      0.2833230197429657,
+      0.11568749696016312,
+      0.5673094987869263
+    ],
+    "uuid": "d24019c7-3d45-4ab2-8765-df916b7f36ed"
+  },
+  {
+    "name": "BOOK_GEN_Books_Pile_A_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Pile_A_Explode.dae",
+    "size": [
+      2.463338017463684,
+      0.20418000500649214,
+      1.916707992553711
+    ],
+    "center_offset": [
+      0.11241096258163452,
+      0.09076200285926461,
+      -0.01087099313735962
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_A_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_A_Destruct.dae",
+    "size": [
+      3.169885039329529,
+      0.4613860007375479,
+      1.5426120162010193
+    ],
+    "center_offset": [
+      0.19909948110580444,
+      0.25480200070887804,
+      -0.5544100105762482
+    ],
+    "uuid": "98647e4f-e0d4-4f75-a539-f2c2d3cb173a"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_A_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_A_Explode.dae",
+    "size": [
+      1.413290023803711,
+      2.1677789092063904,
+      0.531811997294426
+    ],
+    "center_offset": [
+      0.0,
+      1.9831774532794952,
+      0.018617995083332062
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_B_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_B_Destruct.dae",
+    "size": [
+      3.4489060640335083,
+      0.7827249839901924,
+      1.330152004957199
+    ],
+    "center_offset": [
+      0.2215610146522522,
+      0.42167049273848534,
+      -0.44836200773715973
+    ],
+    "uuid": "acd92839-3abf-4304-aad7-e2aa307e48b5"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_B_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_B_Explode.dae",
+    "size": [
+      1.265928030014038,
+      2.308648109436035,
+      0.4328770041465759
+    ],
+    "center_offset": [
+      0.003832995891571045,
+      2.048274040222168,
+      0.0025414973497390747
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_C.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_C.dae",
+    "size": [
+      1.413290023803711,
+      1.3783750534057617,
+      0.40261900424957275
+    ],
+    "center_offset": [
+      0.0,
+      2.0753655433654785,
+      0.006491497159004211
+    ],
+    "uuid": "194d51c6-cc23-499f-b56e-c962d7096594"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_C_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_C_Destruct.dae",
+    "size": [
+      3.4199939966201782,
+      0.8291130010038614,
+      0.786110982298851
+    ],
+    "center_offset": [
+      -0.1348549723625183,
+      0.44072050135582685,
+      -0.17598748952150345
+    ],
+    "uuid": "aa8f0f8b-b655-49df-9538-17748a037281"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_C_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_C_Explode.dae",
+    "size": [
+      1.413290023803711,
+      1.3776259422302246,
+      0.31112200021743774
+    ],
+    "center_offset": [
+      0.0,
+      2.075403928756714,
+      -0.03827600181102753
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_D.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_D.dae",
+    "size": [
+      1.2735940217971802,
+      1.3720650672912598,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      0.0,
+      2.0725815296173096,
+      0.0
+    ],
+    "uuid": "22a5957f-15dd-48f8-a65e-7f9ed582a2c8"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_D_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_D_Destruct.dae",
+    "size": [
+      2.6223080158233643,
+      0.6687849834561348,
+      1.1859220117330551
+    ],
+    "center_offset": [
+      0.09779202938079834,
+      0.36584049090743065,
+      -0.39414001256227493
+    ],
+    "uuid": "10ae1dec-db29-46bc-bbca-cc20d6cf8648"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_D_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_D_Explode.dae",
+    "size": [
+      1.2735940217971802,
+      1.370313048362732,
+      0.4328770041465759
+    ],
+    "center_offset": [
+      0.0,
+      2.072125494480133,
+      0.0025414973497390747
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_A_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_A_Destruct.dae",
+    "size": [
+      1.9708529710769653,
+      0.3118960112333298,
+      0.9851530194282532
+    ],
+    "center_offset": [
+      0.03003448247909546,
+      0.1475980058312416,
+      -0.2808285057544708
+    ],
+    "uuid": "d7d9d48a-1a06-4d4d-8d8b-b96e7e548de9"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_A_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_A_Explode.dae",
+    "size": [
+      1.2600319981575012,
+      0.4302610057638958,
+      0.3157300055027008
+    ],
+    "center_offset": [
+      0.001373976469039917,
+      0.21581650286680087,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_B_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_B_Destruct.dae",
+    "size": [
+      1.9940110445022583,
+      0.3952760063111782,
+      0.853554978966713
+    ],
+    "center_offset": [
+      0.21659153699874878,
+      0.1886290032416582,
+      -0.6035104915499687
+    ],
+    "uuid": "8079aaf9-3e7e-45da-80df-3a4edd503c20"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_B_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_B_Explode.dae",
+    "size": [
+      1.2648230195045471,
+      0.4231570118572563,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      0.0020284950733184814,
+      0.21163950592745095,
+      0.0011820048093795776
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_C.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_C.dae",
+    "size": [
+      0.8137309849262238,
+      0.4265610119327903,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0002724975347518921,
+      0.20993750588968396,
+      0.0011820048093795776
+    ],
+    "uuid": "0304af1b-73d5-4322-bb7a-259c5fe7edfd"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_C_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_C_Destruct.dae",
+    "size": [
+      1.6252689957618713,
+      0.2766810115426779,
+      1.1212049797177315
+    ],
+    "center_offset": [
+      -0.08019748330116272,
+      0.13010650593787432,
+      -0.4693484865128994
+    ],
+    "uuid": "8a8bf102-8693-42dc-91d8-87e57ed25306"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_C_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_C_Explode.dae",
+    "size": [
+      0.8204729855060577,
+      0.4231570118572563,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0012045055627822876,
+      0.21163950592745095,
+      0.0011820048093795776
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_D.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_D.dae",
+    "size": [
+      0.5579150021076202,
+      0.40093099082878325,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0037714987993240356,
+      0.2002694954207982,
+      0.0011820048093795776
+    ],
+    "uuid": "398d19e6-06f4-47e1-9aea-fb44b318c7eb"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_D_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_D_Destruct.dae",
+    "size": [
+      1.5666549801826477,
+      0.3138159951195121,
+      0.7944280505180359
+    ],
+    "center_offset": [
+      -0.01942548155784607,
+      0.14653799729421735,
+      -0.7288940250873566
+    ],
+    "uuid": "87a52934-8a82-47ac-ab43-edde44c35ce9"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_D_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_D_Explode.dae",
+    "size": [
+      0.5570729970932007,
+      0.40017998617258854,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0041925013065338135,
+      0.2003079930873355,
+      0.0011820048093795776
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_A_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_A_Destruct.dae",
+    "size": [
+      0.6689329892396927,
+      0.2798510091379285,
+      1.8626309782266617
+    ],
+    "center_offset": [
+      -0.11516749113798141,
+      0.13160950457677245,
+      -0.7869664952158928
+    ],
+    "uuid": "37a16f47-bc20-4bd9-a873-f1b42e884b78"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_A_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_A_Explode.dae",
+    "size": [
+      0.4821299910545349,
+      1.2491879814770073,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.0,
+      0.6246549907373264,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_B_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_B_Destruct.dae",
+    "size": [
+      1.5995629876852036,
+      0.29806598648428917,
+      1.4717199578881264
+    ],
+    "center_offset": [
+      -0.6051305010914803,
+      0.13902299292385578,
+      -0.6684429757297039
+    ],
+    "uuid": "e1cd59b8-b9c4-4763-92b3-6d09bd77cbfd"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_B_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_B_Explode.dae",
+    "size": [
+      0.4821299910545349,
+      0.8597849959041923,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.003618001937866211,
+      0.429953497950919,
+      0.017288997769355774
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_C_Destruct.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_C_Destruct.dae",
+    "size": [
+      1.3366319686174393,
+      0.22299600532278419,
+      1.3009799644351006
+    ],
+    "center_offset": [
+      -0.4832409843802452,
+      0.10379500244744122,
+      -0.5813329853117466
+    ],
+    "uuid": "927e4cca-0511-4f52-b796-bba5b425e99e"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_C_Explode.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_C_Explode.dae",
+    "size": [
+      0.42672199010849,
+      0.5616030009405222,
+      0.3470419943332672
+    ],
+    "center_offset": [
+      0.0,
+      0.28093550047196914,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Book_B_Rigged_A.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Book_B_Rigged_A.dae",
+    "size": [
+      0.2681489959359169,
+      0.06914099678397179,
+      0.32838499546051025
+    ],
+    "center_offset": [
+      0.03427749499678612,
+      0.04245849885046482,
+      6.750226020812988e-05
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Row_Multiple_Tileset_A.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Row_Multiple_Tileset_A.dae",
+    "size": [
+      0.9486899971961975,
+      1.6184180974960327,
+      0.5013349950313568
+    ],
+    "center_offset": [
+      -0.0035650134086608887,
+      2.2433460354804993,
+      0.029318496584892273
+    ],
+    "uuid": "d9910d21-9fa3-4d56-bc14-23c1ce29274f"
+  },
+  {
+    "name": "BOOK_GEN_Row_Multiple_Tileset_B.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Row_Multiple_Tileset_B.dae",
+    "size": [
+      1.8400290608406067,
+      1.6387580633163452,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      -0.28321751952171326,
+      2.253073990345001,
+      0.0
+    ],
+    "uuid": "4825ca07-2b41-44b1-96d3-efb40a185d03"
+  },
+  {
+    "name": "BOOK_GEN_Row_Multiple_Tileset_C.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Row_Multiple_Tileset_C.dae",
+    "size": [
+      1.7961010336875916,
+      1.6442540884017944,
+      0.40261900424957275
+    ],
+    "center_offset": [
+      0.04296550154685974,
+      2.25626403093338,
+      0.006491497159004211
+    ],
+    "uuid": "ee5f1ddc-15db-4c83-95b1-a0e96044a077"
+  },
+  {
+    "name": "BOOK_GEN_Row_Multiple_Tileset_D.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Row_Multiple_Tileset_D.dae",
+    "size": [
+      1.2735940217971802,
+      1.6379450559616089,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      0.0,
+      2.2534804940223694,
+      0.0
+    ],
+    "uuid": "3e0aa9e2-b304-4d55-aaa5-bdb258cdae66"
+  },
+  {
+    "name": "BOOK_GEN_Row_Multiple_Tileset_E.dae",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Row_Multiple_Tileset_E.dae",
+    "size": [
+      0.9654639959335327,
+      1.643907070159912,
+      0.4945020079612732
+    ],
+    "center_offset": [
+      -0.00021499395370483398,
+      2.2511255741119385,
+      0.0
+    ],
+    "uuid": "4fe43136-7eee-4d26-b734-f8ca3a76754e"
+  },
+  {
+    "name": "BOOK_Tome_Diabolical_Grimoire_A.dae",
+    "relative_path": "Books/Tomes/BOOK_Tome_Diabolical_Grimoire_ABC/Resources/BOOK_Tome_Diabolical_Grimoire_A.dae",
+    "size": [
+      0.21764200180768967,
+      0.08879499696195126,
+      0.3065579980611801
+    ],
+    "center_offset": [
+      0.004403997212648392,
+      0.033302498050034046,
+      0.0025959983468055725
+    ],
+    "uuid": "8e10075c-7b8e-4a95-9b67-af66f0059849"
+  },
+  {
+    "name": "BOOK_Tome_Thayan_Necromancy_A_Gem_A.dae",
+    "relative_path": "Books/Tomes/BOOK_Tome_Thayan_Necromancy_ABC/Resources/BOOK_Tome_Thayan_Necromancy_A_Gem_A.dae",
+    "size": [
+      0.1150439977645874,
+      0.12371799722313881,
+      0.1602259948849678
+    ],
+    "center_offset": [
+      0.00035399943590164185,
+      -0.0037699993699789047,
+      0.01285799965262413
+    ],
+    "uuid": "f3b79dc6-aa5e-46a9-828e-6f6ce0021c48"
+  },
+  {
+    "name": "BOOK_GEN_Tome_Cursed_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_GEN_Tome_Cursed_A.dae",
+    "size": [
+      0.3866119980812073,
+      0.10081800015177578,
+      0.5217859745025635
+    ],
+    "center_offset": [
+      0.0,
+      0.05103400006191805,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Tome_Cursed_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_GEN_Tome_Cursed_B.dae",
+    "size": [
+      0.4101080000400543,
+      0.10764200240373611,
+      0.6358380019664764
+    ],
+    "center_offset": [
+      -0.011154994368553162,
+      0.0458110012114048,
+      0.054988011717796326
+    ]
+  },
+  {
+    "name": "BOOK_GEN_Tome_Cursed_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_GEN_Tome_Cursed_C.dae",
+    "size": [
+      0.4072929918766022,
+      0.12210299773141742,
+      0.5421680212020874
+    ],
+    "center_offset": [
+      3.1501054763793945e-05,
+      0.059949498856440187,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_A.dae",
+    "size": [
+      0.38239099085330963,
+      0.10060299676842988,
+      0.5215559899806976
+    ],
+    "center_offset": [
+      -0.010424502193927765,
+      0.05002749839331955,
+      0.00016100704669952393
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Antidote_Recipe_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Antidote_Recipe_A.dae",
+    "size": [
+      0.2936060130596161,
+      0.07663999689975753,
+      0.4007680118083954
+    ],
+    "center_offset": [
+      0.0,
+      0.03768499844591133,
+      0.0
+    ],
+    "uuid": "9fb3fddb-fa52-40cd-9be4-c17eebc86b8b"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Bottomless_Hermit_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Bottomless_Hermit_A.dae",
+    "size": [
+      0.27691400051116943,
+      0.0632820002065273,
+      0.3708620071411133
+    ],
+    "center_offset": [
+      0.0,
+      0.031681000102253165,
+      -0.00017599761486053467
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Bottomless_Hermit_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Bottomless_Hermit_B.dae",
+    "size": [
+      0.28783199191093445,
+      0.06919199822004884,
+      0.3722489923238754
+    ],
+    "center_offset": [
+      0.0013599991798400879,
+      0.03301699907751754,
+      -0.00013650208711624146
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Bottomless_Hermit_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Bottomless_Hermit_C.dae",
+    "size": [
+      0.27691400051116943,
+      0.06286900193663314,
+      0.3705100119113922
+    ],
+    "center_offset": [
+      0.0,
+      0.031716500961920246,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Bottomless_Hermit_D.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Bottomless_Hermit_D.dae",
+    "size": [
+      0.27691400051116943,
+      0.06286900193663314,
+      0.3705100119113922
+    ],
+    "center_offset": [
+      0.0,
+      0.031716500961920246,
+      0.0
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_A.dae",
+    "size": [
+      0.29414699971675873,
+      0.07738699720357545,
+      0.4011959880590439
+    ],
+    "center_offset": [
+      -0.010424502193927765,
+      0.0384824985958403,
+      0.000160999596118927
+    ],
+    "uuid": "236f5090-4188-41ab-8e33-cc7a362a0323"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_B.dae",
+    "size": [
+      0.30616599321365356,
+      0.0745260015828535,
+      0.4094260036945343
+    ],
+    "center_offset": [
+      0.0,
+      0.035841000790242106,
+      0.0
+    ],
+    "uuid": "3de2d01a-54fc-4412-98e0-218f674e8105"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_C.dae",
+    "size": [
+      0.30351901054382324,
+      0.07794299931265414,
+      0.3993079960346222
+    ],
+    "center_offset": [
+      -0.005938500165939331,
+      0.03552549972664565,
+      0.0
+    ],
+    "uuid": "0e246c08-e27d-4a5b-885a-7e1a64514cf2"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_D.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_D.dae",
+    "size": [
+      0.31298699975013733,
+      0.09719800110906363,
+      0.473673015832901
+    ],
+    "center_offset": [
+      -0.0031094998121261597,
+      0.047185000497847795,
+      0.03396950662136078
+    ],
+    "uuid": "de7fb544-04c6-42cf-9fbf-dfc9bc915a4d"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_E.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_E.dae",
+    "size": [
+      0.2958339899778366,
+      0.09248399827629328,
+      0.4548339992761612
+    ],
+    "center_offset": [
+      -0.008271999657154083,
+      0.042208998929709196,
+      0.029454998672008514
+    ],
+    "uuid": "7e96fdb9-0c68-4728-9d04-61ff06df0811"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_F.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_F.dae",
+    "size": [
+      0.3173079937696457,
+      0.07949600042775273,
+      0.4154440015554428
+    ],
+    "center_offset": [
+      -0.008097000420093536,
+      0.03695300011895597,
+      0.0007650032639503479
+    ],
+    "uuid": "0641e1dc-72c3-4227-9283-2139a12154fd"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Generic_G.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Generic_G.dae",
+    "size": [
+      0.2756659984588623,
+      0.07879200205206871,
+      0.39491599798202515
+    ],
+    "center_offset": [
+      -0.007158994674682617,
+      0.03649100102484226,
+      -0.0006169974803924561
+    ],
+    "uuid": "726871e0-b454-4e1e-93f7-ecf77a5402fd"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Open_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Open_A.dae",
+    "size": [
+      0.6192420125007629,
+      0.07577100347407395,
+      0.40104299783706665
+    ],
+    "center_offset": [
+      3.400444984436035e-05,
+      0.03782150173719856,
+      9.749829769134521e-05
+    ],
+    "uuid": "4dc392dd-27de-471e-9fda-3c21b3570c6b"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Open_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Open_B.dae",
+    "size": [
+      0.6696529984474182,
+      0.07515799929387867,
+      0.41902999579906464
+    ],
+    "center_offset": [
+      -0.002612501382827759,
+      0.034864999703131616,
+      3.2998621463775635e-05
+    ],
+    "uuid": "dec5fa85-8a93-4aa9-9fde-9363857f016c"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Open_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Open_C.dae",
+    "size": [
+      0.6675220131874084,
+      0.0746520021930337,
+      0.33125199377536774
+    ],
+    "center_offset": [
+      0.06720399856567383,
+      0.03629200113937259,
+      -7.899850606918335e-05
+    ],
+    "uuid": "bdc5b731-f88c-4506-afac-3ed47999d29a"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Open_D.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Open_D.dae",
+    "size": [
+      0.7178360223770142,
+      0.09216899977764115,
+      0.4193120002746582
+    ],
+    "center_offset": [
+      0.043348997831344604,
+      0.04543349987943657,
+      0.00016699731349945068
+    ],
+    "uuid": "e49fbe68-aa9b-4c9b-be7e-d64abbe629d3"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_A.dae",
+    "size": [
+      0.28344500064849854,
+      0.08132600365206599,
+      0.4177199900150299
+    ],
+    "center_offset": [
+      -0.004132494330406189,
+      0.039251001784577966,
+      0.0
+    ],
+    "uuid": "d27a6163-6c22-4aad-9eba-1f638ad0194b"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_B.dae",
+    "size": [
+      0.3109560012817383,
+      0.10020200023427606,
+      0.41264699399471283
+    ],
+    "center_offset": [
+      -0.003903999924659729,
+      0.04706600005738437,
+      0.0006154999136924744
+    ],
+    "uuid": "5806af5c-c288-4ed1-9533-beac7d05b18c"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_B_Cinematic_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_B_Cinematic_A.dae",
+    "size": [
+      0.3101840019226074,
+      0.0977900018915534,
+      0.41137300431728363
+    ],
+    "center_offset": [
+      0.0033819973468780518,
+      0.04731100099161267,
+      0.00018050521612167358
+    ],
+    "uuid": "763b7bbb-c75e-4493-89b0-5ff04eddd327"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_C.dae",
+    "size": [
+      0.2973940074443817,
+      0.07869700022274628,
+      0.4013740122318268
+    ],
+    "center_offset": [
+      0.0,
+      0.03868450011941604,
+      0.0
+    ],
+    "uuid": "b7d15b2f-5ad4-4884-9443-4e1ef7287157"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_D.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_D.dae",
+    "size": [
+      0.3006589859724045,
+      0.08866900192515459,
+      0.4025079905986786
+    ],
+    "center_offset": [
+      -0.010609500110149384,
+      0.044256500965275336,
+      0.0
+    ],
+    "uuid": "08bd26a0-9056-4668-bfd5-ba9de1420b12"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_E.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_E.dae",
+    "size": [
+      0.310820996761322,
+      0.09807999827899039,
+      0.46051301062107086
+    ],
+    "center_offset": [
+      -0.0022644996643066406,
+      0.046538999187760055,
+      0.028465501964092255
+    ],
+    "uuid": "2320ddd3-78eb-431f-96cf-6ea2c49d5882"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_F.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_F.dae",
+    "size": [
+      0.31556499004364014,
+      0.08280200231820345,
+      0.4891059845685959
+    ],
+    "center_offset": [
+      -0.00862950086593628,
+      0.035239001270383596,
+      0.04229799658060074
+    ],
+    "uuid": "363baac7-6089-4b4a-bf80-c931d386fbfe"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_G.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_G.dae",
+    "size": [
+      0.3133019953966141,
+      0.09392399649368599,
+      0.4170520007610321
+    ],
+    "center_offset": [
+      2.399832010269165e-05,
+      0.04611499825841747,
+      0.0
+    ],
+    "uuid": "e44e5b33-a181-4379-ada1-11dd81c8fbf4"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_H.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_H.dae",
+    "size": [
+      0.28682200610637665,
+      0.08048200074699707,
+      0.39565300941467285
+    ],
+    "center_offset": [
+      -0.013009004294872284,
+      0.039785000364645384,
+      -0.0003734976053237915
+    ],
+    "uuid": "02f7446a-8150-4401-aab3-384b7c95a0e0"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Ornate_I.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Ornate_I.dae",
+    "size": [
+      0.2857099920511246,
+      0.07163700321689248,
+      0.3729739934206009
+    ],
+    "center_offset": [
+      -0.005423001945018768,
+      0.03290750156156719,
+      0.003228001296520233
+    ]
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Shadow_Tenets_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Shadow_Tenets_A.dae",
+    "size": [
+      0.2872820049524307,
+      0.1099049961194396,
+      0.3554860055446625
+    ],
+    "center_offset": [
+      -0.0020510032773017883,
+      0.041013498324900866,
+      0.0
+    ],
+    "uuid": "81acd49e-351b-446e-b883-6027f3aa694b"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_A.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_A.dae",
+    "size": [
+      0.27691400051116943,
+      0.06275600002572901,
+      0.3705100119113922
+    ],
+    "center_offset": [
+      -0.009002000093460083,
+      0.0313700000128847,
+      0.0
+    ],
+    "uuid": "5535457f-05c6-4f1a-a8ee-6e7e747f98cf"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_B.dae",
+    "size": [
+      0.27229399234056473,
+      0.06367899966426194,
+      0.3564009964466095
+    ],
+    "center_offset": [
+      -0.011222999542951584,
+      0.03156549984123558,
+      5.498528480529785e-06
+    ],
+    "uuid": "d35a196f-f759-4908-8392-8139c57f1c97"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_C.dae",
+    "size": [
+      0.2997719943523407,
+      0.08789700164925307,
+      0.39844799041748047
+    ],
+    "center_offset": [
+      -0.003452003002166748,
+      0.04270450078183785,
+      0.0
+    ],
+    "uuid": "421229a7-6620-4d93-94bc-d0d348125f71"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_D.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_D.dae",
+    "size": [
+      0.2641090005636215,
+      0.06394299864768982,
+      0.3311229944229126
+    ],
+    "center_offset": [
+      -0.005150504410266876,
+      0.03197149932384491,
+      7.149577140808105e-05
+    ],
+    "uuid": "f4d82a7a-e1ef-4336-864c-02c85b22a501"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_E.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_E.dae",
+    "size": [
+      0.27691400051116943,
+      0.06275500164792902,
+      0.3705100119113922
+    ],
+    "center_offset": [
+      -0.009002000093460083,
+      0.03136950082398471,
+      0.0
+    ],
+    "uuid": "8b2965fd-d463-4828-b972-668887bc8a17"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Simple_F.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/BOOK_Wizards_Tome_Simple_F.dae",
+    "size": [
+      0.2931919991970062,
+      0.07663999689975753,
+      0.4007680118083954
+    ],
+    "center_offset": [
+      -0.005132004618644714,
+      0.03768499844591133,
+      0.0
+    ],
+    "uuid": "073d723d-0743-49b2-96dc-1cec58bf00c8"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Notebook_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_Notebook_Cinematic_ABC/Resources/BOOK_Wizards_Tome_Notebook_C.dae",
+    "size": [
+      0.21726299822330475,
+      0.05424500093795359,
+      0.29725900292396545
+    ],
+    "center_offset": [
+      -0.0009505003690719604,
+      0.030772500555031,
+      0.0018045008182525635
+    ],
+    "uuid": "9996c3a2-077e-4c52-b574-f43648cca71e"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Notebook_Cinematic_B.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_Notebook_Cinematic_ABC/Resources/BOOK_Wizards_Tome_Notebook_Cinematic_B.dae",
+    "size": [
+      0.40343600511550903,
+      0.08565100003033876,
+      0.6433600187301636
+    ],
+    "center_offset": [
+      0.04232099652290344,
+      0.030867499765008688,
+      -0.0020779967308044434
+    ],
+    "uuid": "d9be4806-b984-48c8-9f0a-cb180180b3a3"
+  },
+  {
+    "name": "BOOK_Wizards_Tome_Notebook_Cinematic_C.dae",
+    "relative_path": "Books/Wizards/BOOK_Wizards_Tome_Notebook_Cinematic_ABC/Resources/BOOK_Wizards_Tome_Notebook_Cinematic_C.dae",
+    "size": [
+      0.21726299822330475,
+      0.05442600161768496,
+      0.2974590063095093
+    ],
+    "center_offset": [
+      -0.0009505003690719604,
+      0.030863000894896686,
+      0.0017044991254806519
+    ],
+    "uuid": "27043d40-6433-4270-a6e1-9c5d41160548"
+  }
+]

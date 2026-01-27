@@ -1,0 +1,226 @@
+[
+  {
+    "name": "TD_Plane_4m_A.dae",
+    "relative_path": "TerrainDecals/Resources/TD_Plane_4m_A.dae",
+    "size": [
+      4.0,
+      0.0,
+      4.0
+    ],
+    "center_offset": [
+      0.0,
+      0.1043889969587326,
+      0.0
+    ]
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_A_16m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_16m_A.dae",
+    "size": [
+      16.0,
+      0.0,
+      1.3302019834518433
+    ],
+    "center_offset": [
+      8.0,
+      0.005609000101685524,
+      0.6651009917259216
+    ],
+    "uuid": "e3441da1-539a-47d8-afeb-8216502da994"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_A_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      1.3302019834518433
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.6651009917259216
+    ],
+    "uuid": "0137c068-d160-43bb-8450-182763bf37b4"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_A_Corner_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_Corner_A.dae",
+    "size": [
+      1.629922013846226,
+      0.0,
+      1.6501120348548284
+    ],
+    "center_offset": [
+      0.8142100069089793,
+      0.005609000101685524,
+      -0.8249170174312894
+    ],
+    "uuid": "09c7b7ac-1149-42d4-b1ea-7c82d9684e8d"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_B_16m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_16m_A.dae",
+    "size": [
+      15.99999713897705,
+      0.0,
+      0.4135589897632599
+    ],
+    "center_offset": [
+      7.999998569488525,
+      0.005609000101685524,
+      0.20677949488162994
+    ],
+    "uuid": "8298d0ab-d62b-4331-920a-d28e230ea94b"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_B_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      0.4135589897632599
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.20677949488162994
+    ],
+    "uuid": "6b565aee-a113-4969-80cb-d85bd8e9cc8f"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_B_Corner_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_Corner_A.dae",
+    "size": [
+      2.1784439086914062,
+      0.0,
+      2.066442996263504
+    ],
+    "center_offset": [
+      1.0892219543457031,
+      0.005609000101685524,
+      -0.6538204997777939
+    ],
+    "uuid": "3446ce13-fdaf-4d88-988a-a89eaf6e36e4"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_B_Corner_B.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_Corner_B.dae",
+    "size": [
+      0.7098259925842285,
+      0.0,
+      0.8390880227088928
+    ],
+    "center_offset": [
+      -0.35491299629211426,
+      0.005609000101685524,
+      0.4195440113544464
+    ],
+    "uuid": "efa640dc-3e28-4db2-a7a3-c9a5f20526ab"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_C_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_C_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      0.9956470131874084
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.4978235065937042
+    ],
+    "uuid": "8d1f303d-5bb8-485f-9eb8-b9ed24101010"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_D_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_D_8m_A.dae",
+    "size": [
+      8.0,
+      0.0,
+      0.9302129745483398
+    ],
+    "center_offset": [
+      4.0,
+      0.005609000101685524,
+      0.4651064872741699
+    ],
+    "uuid": "07d149be-e9d3-4eba-bb2a-82da33ed5771"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_E_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_E_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      1.3726840019226074
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.6863420009613037
+    ],
+    "uuid": "9a2dfdab-c8b9-4e16-acaa-ec8cb2b485e2"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_F_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_F_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      0.1720999926328659
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.08604999631643295
+    ],
+    "uuid": "7962528c-819d-410f-bfde-2a82cdb77860"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_G_8m_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_G_8m_A.dae",
+    "size": [
+      7.999999046325684,
+      0.0,
+      0.27933499217033386
+    ],
+    "center_offset": [
+      3.999999523162842,
+      0.005609000101685524,
+      0.13966749608516693
+    ],
+    "uuid": "13c93a39-46d3-4118-8cfd-7a22bfa01dad"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_Tile_A.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_Tile_A.dae",
+    "size": [
+      1.3692480325698853,
+      0.0,
+      1.3961690491996706
+    ],
+    "center_offset": [
+      0.6846240162849426,
+      0.005609000101685524,
+      0.6914355244953185
+    ],
+    "uuid": "5d296afa-eb34-4384-81ca-546011024583"
+  },
+  {
+    "name": "TD_Dungeon_Marble_Trim_Tile_B.dae",
+    "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_Tile_B.dae",
+    "size": [
+      2.7317090034484863,
+      0.0,
+      1.3961690491996706
+    ],
+    "center_offset": [
+      1.3658545017242432,
+      0.005609000101685524,
+      0.6914355244953185
+    ],
+    "uuid": "6d0e964c-3200-4cf1-9e09-d2ec0ac54ad2"
+  }
+]

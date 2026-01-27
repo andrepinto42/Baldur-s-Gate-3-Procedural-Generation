@@ -1,0 +1,74 @@
+[
+  {
+    "name": "DCL_GEN_Blood_Splatter_ABC.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_Blood_Splatter_ABC/Resources/DCL_GEN_Blood_Splatter_ABC.dae",
+    "size": [
+      0.9873620271682739,
+      0.0,
+      0.9873620271682739
+    ],
+    "center_offset": [
+      0.0,
+      0.009607000276446342,
+      0.0
+    ]
+  },
+  {
+    "name": "DCL_GEN_BurnSpot_A.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_BurnSpot_ABC/Resources/DCL_GEN_BurnSpot_A.dae",
+    "size": [
+      2.0,
+      0.0,
+      2.0
+    ],
+    "center_offset": [
+      0.0,
+      0.013969999738037586,
+      0.0
+    ],
+    "uuid": "0b08a0a6-a5f6-4897-9c17-ddca0d887f67"
+  },
+  {
+    "name": "DCL_GEN_FootPrints_Gnoll_A.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_FootPrints_Gnoll_A/Resources/DCL_GEN_FootPrints_Gnoll_A.dae",
+    "size": [
+      11.0,
+      0.0,
+      11.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "name": "DCL_GEN_Wall_Colored_B.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_Wall_Colored_ABC/Resources/DCL_GEN_Wall_Colored_B.dae",
+    "size": [
+      1.9747240543365479,
+      0.0,
+      0.9873620271682739
+    ],
+    "center_offset": [
+      0.0,
+      0.009607000276446342,
+      0.0
+    ],
+    "uuid": "a70c28d8-2a3f-4df7-9ecd-908bbc4eebea"
+  },
+  {
+    "name": "DCL_GEN_Waypoint_A.dae",
+    "relative_path": "Decals/Generic/DCL_GEN_Waypoint_A/Resources/DCL_GEN_Waypoint_A.dae",
+    "size": [
+      2.3937920331954956,
+      2.9981160163879395,
+      0.0
+    ],
+    "center_offset": [
+      0.0010339617729187012,
+      1.4990580081939697,
+      0.0
+    ]
+  }
+]

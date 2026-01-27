@@ -1,0 +1,2508 @@
+[
+  {
+    "name": "FUR_Cazador_Sarcophagus_A.dae",
+    "relative_path": "Furniture/Cazador/FUR_Cazador_Sarcophagus_ABC/Resources/FUR_Cazador_Sarcophagus_A.dae",
+    "size": [
+      3.843306064605713,
+      2.790132999420166,
+      5.490823030471802
+    ],
+    "center_offset": [
+      0.0,
+      1.395066499710083,
+      -0.5584825277328491
+    ]
+  },
+  {
+    "name": "FUR_Cazador_Sarcophagus_A_Lid.dae",
+    "relative_path": "Furniture/Cazador/FUR_Cazador_Sarcophagus_ABC/Resources/FUR_Cazador_Sarcophagus_A_Lid.dae",
+    "size": [
+      1.4082759618759155,
+      1.7886660695075989,
+      2.766263961791992
+    ],
+    "center_offset": [
+      0.0,
+      1.765951007604599,
+      -0.43828797340393066
+    ]
+  },
+  {
+    "name": "FUR_Cazador_Throne_A.dae",
+    "relative_path": "Furniture/Cazador/FUR_Cazador_Throne_ABC/Resources/FUR_Cazador_Throne_A.dae",
+    "size": [
+      3.0283719301223755,
+      3.1324119567871094,
+      2.6099801063537598
+    ],
+    "center_offset": [
+      -0.0010619759559631348,
+      1.5662059783935547,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_A.dae",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_Abbey_Altar_Stone_ABC/Resources/FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_A.dae",
+    "size": [
+      3.154978036880493,
+      1.2597070476040244,
+      1.4293019771575928
+    ],
+    "center_offset": [
+      0.0,
+      0.6269055237062275,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_Holder_A.dae",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_Abbey_Altar_Stone_ABC/Resources/FUR_Dungeon_Abbey_Altar_Stone_Shar_Gem_Holder_A.dae",
+    "size": [
+      0.5693140029907227,
+      0.20891594886779785,
+      0.5693150162696838
+    ],
+    "center_offset": [
+      0.0,
+      1.3368459939956665,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_Dungeon_SharTemple_Mirror_A.dae",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_SharTemple_Mirror_ABC/Resources/FUR_Dungeon_SharTemple_Mirror_A.dae",
+    "size": [
+      4.248631954193115,
+      5.985290213255212,
+      1.8564649820327759
+    ],
+    "center_offset": [
+      0.022516965866088867,
+      2.9915711065987125,
+      0.06533348560333252
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Rich_Gothic_Orin_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Rich_Gothic_ABC/Resources/FUR_GEN_Bedroom_Bed_Rich_Gothic_Orin_A.dae",
+    "size": [
+      2.602460026741028,
+      3.404453992843628,
+      3.3530030250549316
+    ],
+    "center_offset": [
+      0.003367006778717041,
+      1.702226996421814,
+      -0.040961503982543945
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Rich_Gothic_Raphael_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Rich_Gothic_ABC/Resources/FUR_GEN_Bedroom_Bed_Rich_Gothic_Raphael_A.dae",
+    "size": [
+      2.602460026741028,
+      3.404453992843628,
+      3.3530030250549316
+    ],
+    "center_offset": [
+      0.003367006778717041,
+      1.702226996421814,
+      -0.040961503982543945
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Rich_Gothic_Raphael_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Rich_Gothic_ABC/Resources/FUR_GEN_Bedroom_Bed_Rich_Gothic_Raphael_B.dae",
+    "size": [
+      3.1310319900512695,
+      3.5372560024261475,
+      4.001015901565552
+    ],
+    "center_offset": [
+      0.0,
+      1.7686280012130737,
+      -0.037860989570617676
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_H.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_H.dae",
+    "size": [
+      2.550426959991455,
+      3.724560022354126,
+      3.2532029151916504
+    ],
+    "center_offset": [
+      0.0020284652709960938,
+      1.862280011177063,
+      -0.08996748924255371
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Leaning_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Leaning_A.dae",
+    "size": [
+      2.3726049661636353,
+      0.9924840033054352,
+      0.7496929839253426
+    ],
+    "center_offset": [
+      -0.015083491802215576,
+      0.43914400041103363,
+      -0.46165749058127403
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Leaning_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Leaning_B.dae",
+    "size": [
+      3.2104068994522095,
+      0.9924840033054352,
+      1.3963230028748512
+    ],
+    "center_offset": [
+      -0.41138046979904175,
+      0.43914400041103363,
+      -0.6662545017898083
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Leaning_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Leaning_C.dae",
+    "size": [
+      3.0688499212265015,
+      1.1188029944896698,
+      0.878960981965065
+    ],
+    "center_offset": [
+      0.33303898572921753,
+      0.5023034960031509,
+      -0.3970234915614128
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Pile_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Pile_A.dae",
+    "size": [
+      2.759171962738037,
+      0.44200901221483946,
+      2.559775948524475
+    ],
+    "center_offset": [
+      -0.0942080020904541,
+      0.21359450602903962,
+      0.12246197462081909
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Pile_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Pile_B.dae",
+    "size": [
+      1.9671359658241272,
+      1.5327779948711395,
+      3.605142116546631
+    ],
+    "center_offset": [
+      -0.12217399477958679,
+      0.7092909961938858,
+      -0.2274160385131836
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Pile_B_Climbable.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Pile_B_Climbable.dae",
+    "size": [
+      1.4050049781799316,
+      1.3620599710848182,
+      2.75998592376709
+    ],
+    "center_offset": [
+      0.050655484199523926,
+      0.6842049855040386,
+      0.04725301265716553
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Mattress_Single_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Mattress_Single_ABC/Resources/FUR_GEN_Bed_Mattress_Single_B.dae",
+    "size": [
+      1.0879819989204407,
+      0.34369999542832375,
+      2.3167279958724976
+    ],
+    "center_offset": [
+      0.01907399296760559,
+      0.17502599768340588,
+      0.0009379982948303223
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Canopy_Rich_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Single_Canopy_Rich_ABC/Resources/FUR_GEN_Bed_Single_Canopy_Rich_C.dae",
+    "size": [
+      2.2412019968032837,
+      4.4140268340706825,
+      3.6278270483016968
+    ],
+    "center_offset": [
+      0.014061987400054932,
+      2.2354204170405865,
+      -0.00018149614334106445
+    ]
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Rich_Unmade_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Single_Rich_ABC/Resources/FUR_GEN_Bed_Single_Rich_Unmade_A.dae",
+    "size": [
+      3.610234022140503,
+      2.2774789796600317,
+      1.7543070316314697
+    ],
+    "center_offset": [
+      0.0,
+      1.1387384898300184,
+      0.1912745237350464
+    ]
+  },
+  {
+    "name": "FUR_GEN_BookThrone_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_BookThrone_ABC/Resources/FUR_GEN_BookThrone_A.dae",
+    "size": [
+      2.355433940887451,
+      3.195557963103056,
+      1.584712028503418
+    ],
+    "center_offset": [
+      0.0,
+      1.5601649824529886,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_BookThrone_A_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_BookThrone_ABC/Resources/FUR_GEN_BookThrone_A_Destruct.dae",
+    "size": [
+      3.5171539783477783,
+      2.2007908914238214,
+      3.181899070739746
+    ],
+    "center_offset": [
+      -0.3747960329055786,
+      1.0715744448825717,
+      -0.7985935211181641
+    ]
+  },
+  {
+    "name": "FUR_GEN_BookThrone_A_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_BookThrone_ABC/Resources/FUR_GEN_BookThrone_A_Explode.dae",
+    "size": [
+      2.355433940887451,
+      3.195557963103056,
+      1.584712028503418
+    ],
+    "center_offset": [
+      0.0,
+      1.5601649824529886,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_BookThrone_Pillars_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_BookThrone_ABC/Resources/FUR_GEN_BookThrone_Pillars_A.dae",
+    "size": [
+      3.284317970275879,
+      4.446891196072102,
+      1.9269579648971558
+    ],
+    "center_offset": [
+      0.0,
+      2.1661665998399258,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Brewer_Tavern_Bar_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Brewer_Tavern_Bar_ABC/Resources/FUR_GEN_Brewer_Tavern_Bar_A.dae",
+    "size": [
+      7.211694002151489,
+      1.3564189870148766,
+      2.2113450169563293
+    ],
+    "center_offset": [
+      0.08414900302886963,
+      0.6782064935073322,
+      0.11556252837181091
+    ]
+  },
+  {
+    "name": "FUR_GEN_Brewer_Tavern_Bar_A_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Brewer_Tavern_Bar_ABC/Resources/FUR_GEN_Brewer_Tavern_Bar_A_Destruct.dae",
+    "size": [
+      9.97828483581543,
+      1.0314550176262856,
+      8.3176189661026
+    ],
+    "center_offset": [
+      -0.5702195167541504,
+      0.45371050760149956,
+      -2.9871074557304382
+    ]
+  },
+  {
+    "name": "FUR_GEN_Brewer_Tavern_Bar_A_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Brewer_Tavern_Bar_ABC/Resources/FUR_GEN_Brewer_Tavern_Bar_A_Explode.dae",
+    "size": [
+      7.121659994125366,
+      1.3564189870148766,
+      2.1251760125160217
+    ],
+    "center_offset": [
+      0.12916600704193115,
+      0.6782064935073322,
+      0.15864798426628113
+    ]
+  },
+  {
+    "name": "FUR_GEN_Desk_Jaheira_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Desk_Jaheira_ABC/Resources/FUR_GEN_Desk_Jaheira_A.dae",
+    "size": [
+      3.627776026725769,
+      0.9439770272001624,
+      2.5374499559402466
+    ],
+    "center_offset": [
+      0.0021019577980041504,
+      0.4772065137512982,
+      0.18683797121047974
+    ]
+  },
+  {
+    "name": "FUR_GEN_Desk_Jaheira_Stairs_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Desk_Jaheira_ABC/Resources/FUR_GEN_Desk_Jaheira_Stairs_A.dae",
+    "size": [
+      4.612550973892212,
+      2.086388051509857,
+      2.5314050912857056
+    ],
+    "center_offset": [
+      -0.019353508949279785,
+      -1.2319150269031525,
+      -0.05746549367904663
+    ]
+  },
+  {
+    "name": "FUR_GEN_Diabolo_Board_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Diabolo_Board_ABC/Resources/FUR_GEN_Diabolo_Board_A.dae",
+    "size": [
+      2.352152109146118,
+      1.9198879674077034,
+      0.17379799485206604
+    ],
+    "center_offset": [
+      0.0,
+      0.9425779841840267,
+      -0.011918000876903534
+    ]
+  },
+  {
+    "name": "FUR_GEN_Diabolo_Board_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Diabolo_Board_ABC/Resources/FUR_GEN_Diabolo_Board_B.dae",
+    "size": [
+      1.219141960144043,
+      2.9135869964957237,
+      1.1350719928741455
+    ],
+    "center_offset": [
+      0.0009199976921081543,
+      1.446188498288393,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_A.dae",
+    "size": [
+      2.5982320308685303,
+      1.8049390316009521,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      0.9024695158004761,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_A_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_A_Destruct.dae",
+    "size": [
+      4.505653977394104,
+      1.1792529467493296,
+      3.2224340438842773
+    ],
+    "center_offset": [
+      -0.34129804372787476,
+      0.5632664738222957,
+      0.514369010925293
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_A_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_A_Explode.dae",
+    "size": [
+      2.5982320308685303,
+      1.8049390316009521,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      0.9024695158004761,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_B.dae",
+    "size": [
+      3.038395881652832,
+      1.814236044883728,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      0.907118022441864,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_B_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_B_Destruct.dae",
+    "size": [
+      4.865617990493774,
+      0.6823030263185501,
+      3.8420350551605225
+    ],
+    "center_offset": [
+      0.18203794956207275,
+      0.32200851291418076,
+      -0.6833435297012329
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_B_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_B_Explode.dae",
+    "size": [
+      37.04744577407837,
+      3.5562920570373535,
+      1.4751819968223572
+    ],
+    "center_offset": [
+      17.00452494621277,
+      1.7781460285186768,
+      -0.19351300597190857
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_C.dae",
+    "size": [
+      3.038395881652832,
+      2.158482074737549,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      1.0792410373687744,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_C_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_C_Destruct.dae",
+    "size": [
+      5.344356060028076,
+      1.1753200367093086,
+      3.0749469995498657
+    ],
+    "center_offset": [
+      -0.33580994606018066,
+      0.48290902003645897,
+      0.139132559299469
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_C_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_C_Explode.dae",
+    "size": [
+      3.038395881652832,
+      2.1585159301757812,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      1.0792579650878906,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_D.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_D.dae",
+    "size": [
+      2.1583240032196045,
+      2.1323790550231934,
+      0.8386009931564331
+    ],
+    "center_offset": [
+      0.0,
+      1.0661895275115967,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_D_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_D_Destruct.dae",
+    "size": [
+      4.304850101470947,
+      0.7315359860658646,
+      3.2064900398254395
+    ],
+    "center_offset": [
+      0.5651960372924805,
+      0.2909029945731163,
+      -0.11114096641540527
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_D_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_D_Explode.dae",
+    "size": [
+      2.1583240032196045,
+      2.1326540550217032,
+      0.8429949879646301
+    ],
+    "center_offset": [
+      0.0,
+      1.0660520275123417,
+      0.0005964934825897217
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_E.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_E.dae",
+    "size": [
+      0.7983239889144897,
+      1.7823790311813354,
+      0.8386009931564331
+    ],
+    "center_offset": [
+      0.0,
+      0.8911895155906677,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_E_Case_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_E_Case_A.dae",
+    "size": [
+      0.711888998746872,
+      0.7300829887390137,
+      0.7754500210285187
+    ],
+    "center_offset": [
+      0.0037104934453964233,
+      0.36504149436950684,
+      -0.01664300262928009
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_E_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_E_Destruct.dae",
+    "size": [
+      2.476104974746704,
+      0.4187800120562315,
+      2.56290602684021
+    ],
+    "center_offset": [
+      -0.007979512214660645,
+      0.1970270061865449,
+      -0.22402095794677734
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_E_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_E_Explode.dae",
+    "size": [
+      0.7983239889144897,
+      1.7826270311779808,
+      0.8386009931564331
+    ],
+    "center_offset": [
+      0.0,
+      0.891065515592345,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_E_Table_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_E_Table_A.dae",
+    "size": [
+      0.7983239889144897,
+      1.0508580207824707,
+      0.8386009931564331
+    ],
+    "center_offset": [
+      0.0,
+      0.5254290103912354,
+      -5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_F.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_F.dae",
+    "size": [
+      2.5982320308685303,
+      2.9991118907928467,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      1.4995559453964233,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_F_Destruct.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_F_Destruct.dae",
+    "size": [
+      6.054986953735352,
+      0.9324749894440174,
+      4.32654595375061
+    ],
+    "center_offset": [
+      -0.2238175868988037,
+      0.43436949513852596,
+      -0.03327906131744385
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_F_Explode.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_F_Explode.dae",
+    "size": [
+      2.5982320308685303,
+      2.9991118907928467,
+      1.08815598487854
+    ],
+    "center_offset": [
+      0.0,
+      1.4995559453964233,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Display_Case_J.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Display_Case_ABC/Resources/FUR_GEN_Display_Case_J.dae",
+    "size": [
+      4.931551933288574,
+      3.5730009542236303,
+      1.0085099935531616
+    ],
+    "center_offset": [
+      0.0,
+      1.7864994771118177,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_FigarosShop_Board_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_FigarosShop_Board_ABC/Resources/FUR_GEN_FigarosShop_Board_A.dae",
+    "size": [
+      2.3536839485168457,
+      2.9331690296530724,
+      1.1350730061531067
+    ],
+    "center_offset": [
+      0.0,
+      1.4559795148670673,
+      5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "FUR_GEN_FigarosShop_Board_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_FigarosShop_Board_ABC/Resources/FUR_GEN_FigarosShop_Board_B.dae",
+    "size": [
+      2.352154016494751,
+      1.9198890402913094,
+      0.17379799485206604
+    ],
+    "center_offset": [
+      0.0,
+      0.9425785206258297,
+      -0.011918999254703522
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Beast.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Beast.dae",
+    "size": [
+      0.8785539865493774,
+      1.301563024520874,
+      0.06336800009012222
+    ],
+    "center_offset": [
+      0.0,
+      0.004140496253967285,
+      -0.007961999624967575
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Fane.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Fane.dae",
+    "size": [
+      0.9186519980430603,
+      1.375898003578186,
+      0.058348001446574926
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.024672000901773572
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Ifan.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Ifan.dae",
+    "size": [
+      0.8934260010719299,
+      1.3507140278816223,
+      0.10971499793231487
+    ],
+    "center_offset": [
+      0.0012339949607849121,
+      0.0013929903507232666,
+      -0.052254498936235905
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Lohse.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Lohse.dae",
+    "size": [
+      0.889460027217865,
+      1.3500410318374634,
+      0.05333400168456137
+    ],
+    "center_offset": [
+      0.0,
+      -0.013665497303009033,
+      -0.02788400079589337
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Red_Prince.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Red_Prince.dae",
+    "size": [
+      0.8924050033092499,
+      1.3508490324020386,
+      0.035636999644339085
+    ],
+    "center_offset": [
+      -0.0019335001707077026,
+      -0.012714505195617676,
+      -0.013136500027030706
+    ]
+  },
+  {
+    "name": "FUR_GEN_DLC_DD_Painting_Portrait_Sebille.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_DLC_DD_Painting_Portrait_Sebille.dae",
+    "size": [
+      0.8716749846935272,
+      1.3245700001716614,
+      0.03282299917191267
+    ],
+    "center_offset": [
+      -2.3499131202697754e-05,
+      -0.006855994462966919,
+      -0.006469499785453081
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Landscape_K.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Landscape_K.dae",
+    "size": [
+      2.6134800910949707,
+      2.6193699836730957,
+      0.06437100208131596
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.03168650102452375
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Landscape_L.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Landscape_L.dae",
+    "size": [
+      2.7711129188537598,
+      2.7641700506210327,
+      0.11173199769109488
+    ],
+    "center_offset": [
+      -0.0015594959259033203,
+      0.0005950331687927246,
+      -0.04657999845221639
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Memorial_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Memorial_A.dae",
+    "size": [
+      0.5976719856262207,
+      0.7220019996166229,
+      0.035503998631611466
+    ],
+    "center_offset": [
+      0.0,
+      0.0028070062398910522,
+      -0.014196999254636467
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Bane_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Bane_A.dae",
+    "size": [
+      2.16014301776886,
+      3.4652019739151,
+      0.15544899925589561
+    ],
+    "center_offset": [
+      0.052096545696258545,
+      0.10291498899459839,
+      -0.10399849899113178
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Ketheric_Nightsong_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Ketheric_Nightsong_A.dae",
+    "size": [
+      0.23741400241851807,
+      0.36277300119400024,
+      0.016991999931633472
+    ],
+    "center_offset": [
+      0.0,
+      0.0002855062484741211,
+      -0.0017070001922547817
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Ketheric_Nightsong_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Ketheric_Nightsong_B.dae",
+    "size": [
+      0.1977660059928894,
+      0.3099159896373749,
+      0.052862000185996294
+    ],
+    "center_offset": [
+      -0.001194000244140625,
+      3.600120544433594e-05,
+      -0.021357999881729484
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Oval_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Oval_C.dae",
+    "size": [
+      0.6716679930686951,
+      0.9266999959945679,
+      0.05173999979160726
+    ],
+    "center_offset": [
+      0.008616000413894653,
+      0.004029005765914917,
+      -0.028711999882943928
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Oval_D.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Oval_D.dae",
+    "size": [
+      0.9359920024871826,
+      1.030176043510437,
+      0.18745400148327462
+    ],
+    "center_offset": [
+      0.000456005334854126,
+      0.0,
+      -0.0935700007394189
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Raphael_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Raphael_B.dae",
+    "size": [
+      7.174949884414673,
+      5.19213604927063,
+      0.31089700758457184
+    ],
+    "center_offset": [
+      -0.08873903751373291,
+      0.08870804309844971,
+      -0.10399850457906723
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Raphael_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Raphael_C.dae",
+    "size": [
+      3.396265983581543,
+      4.50826096534729,
+      0.20038900338113308
+    ],
+    "center_offset": [
+      0.0,
+      0.025826573371887207,
+      -0.08238950092345476
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Raphael_D.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Raphael_D.dae",
+    "size": [
+      1.0704020261764526,
+      1.477856993675232,
+      0.12387800309807062
+    ],
+    "center_offset": [
+      0.0,
+      0.07470148801803589,
+      -0.048803001176565886
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Rectangle_L.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Rectangle_L.dae",
+    "size": [
+      0.9303349852561951,
+      1.2604060173034668,
+      0.06821300089359283
+    ],
+    "center_offset": [
+      -7.450580596923828e-05,
+      0.003670990467071533,
+      -0.030032500624656677
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Rectangle_M.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Rectangle_M.dae",
+    "size": [
+      1.063718020915985,
+      1.063717007637024,
+      0.0762150026857853
+    ],
+    "center_offset": [
+      5.599856376647949e-05,
+      -0.0001004934310913086,
+      -0.050556501373648643
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Rectangle_N.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Rectangle_N.dae",
+    "size": [
+      1.0335719585418701,
+      0.9877099990844727,
+      0.06703899800777435
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.033519499003887177
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Rectangle_O.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Rectangle_O.dae",
+    "size": [
+      0.9878779947757721,
+      1.280465006828308,
+      0.06193400174379349
+    ],
+    "center_offset": [
+      -7.100403308868408e-05,
+      -0.0023854970932006836,
+      -0.030967000871896744
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Rectangle_P.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Rectangle_P.dae",
+    "size": [
+      1.4247080087661743,
+      1.2992960214614868,
+      0.0531499981880188
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.0265749990940094
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Square_Player_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Square_Player_A.dae",
+    "size": [
+      0.9231269955635071,
+      0.04725200030952692,
+      0.9213009774684906
+    ],
+    "center_offset": [
+      -0.0016415119171142578,
+      0.021515000145882368,
+      -0.0006854981184005737
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Vlaakith_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Vlaakith_A.dae",
+    "size": [
+      2.2471100091934204,
+      3.97930908203125,
+      0.22824399918317795
+    ],
+    "center_offset": [
+      0.000420987606048584,
+      0.05642056465148926,
+      -0.09753699973225594
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Vlaakith_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Vlaakith_B.dae",
+    "size": [
+      2.247109889984131,
+      3.0881919860839844,
+      0.22824399918317795
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.09753699973225594
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized.dae",
+    "size": [
+      2.247109889984131,
+      3.0881919860839844,
+      0.22824399918317795
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.09753699973225594
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_A.dae",
+    "size": [
+      3.3895881175994873,
+      2.8036279678344727,
+      0.07120599877089262
+    ],
+    "center_offset": [
+      0.0,
+      -0.016453981399536133,
+      -0.02639699960127473
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_A_Rich_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_A_Rich_A.dae",
+    "size": [
+      3.621367931365967,
+      3.1395180225372314,
+      0.1460129925981164
+    ],
+    "center_offset": [
+      -0.0020380020141601562,
+      -0.004896044731140137,
+      -0.060871496330946684
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_B.dae",
+    "size": [
+      2.3230639696121216,
+      3.1170260906219482,
+      0.06547999940812588
+    ],
+    "center_offset": [
+      0.013634026050567627,
+      0.0,
+      -0.024273999966681004
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_B_Rich_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_B_Rich_A.dae",
+    "size": [
+      2.7711129188537598,
+      3.26773202419281,
+      0.11211600061506033
+    ],
+    "center_offset": [
+      -0.0015594959259033203,
+      0.0007030367851257324,
+      -0.046771999914199114
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_C.dae",
+    "size": [
+      3.2667720317840576,
+      2.0747129917144775,
+      0.07972000259906054
+    ],
+    "center_offset": [
+      0.0,
+      -0.012156486511230469,
+      -0.029955001082271338
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_StillLife_C_Rich_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_StillLife_C_Rich_A.dae",
+    "size": [
+      3.3917720317840576,
+      2.509582996368408,
+      0.13675700686872005
+    ],
+    "center_offset": [
+      -0.001909017562866211,
+      0.002619504928588867,
+      -0.057012503035366535
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_A.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_B.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_C.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_C.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_D.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_D.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_E.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_E.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_F.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_F.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_G.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_G.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_H.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_H.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Painting_Trial_I.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Trial_I.dae",
+    "size": [
+      1.9793660044670105,
+      1.2765740156173706,
+      0.07982099708169699
+    ],
+    "center_offset": [
+      -0.0015600025653839111,
+      0.0,
+      -0.02491049887612462
+    ]
+  },
+  {
+    "name": "FUR_GEN_Easel_A_Oskar_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_A_PlainCanvas/Resources/FUR_GEN_Easel_A_Oskar_A.dae",
+    "size": [
+      1.0099530220031738,
+      2.4372988985851407,
+      0.829077959060669
+    ],
+    "center_offset": [
+      0.012261509895324707,
+      1.2265004492364824,
+      -0.10397899150848389
+    ]
+  },
+  {
+    "name": "FUR_GEN_ScrollShelf_1D_2n5H_2W_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_ScrollShelf_Common_ABC/Resources/FUR_GEN_ScrollShelf_1D_2n5H_2W_A.dae",
+    "size": [
+      2.0409200191497803,
+      2.965177105499265,
+      0.8131840229034424
+    ],
+    "center_offset": [
+      0.0,
+      1.482587552749635,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Shelves_Wood_A_2n5H_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Shelves_Wood_ABC/Resources/FUR_GEN_Shelves_Wood_A_2n5H_B.dae",
+    "size": [
+      1.830115020275116,
+      2.5,
+      0.9541089832782745
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      1.25,
+      -1.5050172805786133e-06
+    ]
+  },
+  {
+    "name": "FUR_GEN_Shelves_Wood_A_3n5H_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Shelves_Wood_ABC/Resources/FUR_GEN_Shelves_Wood_A_3n5H_A.dae",
+    "size": [
+      3.0512720346450806,
+      3.4987759590148926,
+      0.9541119933128357
+    ],
+    "center_offset": [
+      0.00036400556564331055,
+      1.7493879795074463,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Shelves_Wood_A_3n5H_B.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Shelves_Wood_ABC/Resources/FUR_GEN_Shelves_Wood_A_3n5H_B.dae",
+    "size": [
+      1.830115020275116,
+      3.4990949630737305,
+      0.9541089832782745
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      1.7495474815368652,
+      -1.5050172805786133e-06
+    ]
+  },
+  {
+    "name": "FUR_GEN_Smelting_Forge_Stone_Coal_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Smelting_Forge_Stone_ABC/Resources/FUR_GEN_Smelting_Forge_Stone_Coal_A.dae",
+    "size": [
+      2.3131279945373535,
+      0.5523450197651982,
+      2.032747983932495
+    ],
+    "center_offset": [
+      0.0,
+      0.2635715096257627,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_Table_Knight_Of_The_Shield_Round_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Table_Knight_Of_The_Shield_ABC/Resources/FUR_GEN_Table_Knight_Of_The_Shield_Round_A.dae",
+    "size": [
+      4.922389984130859,
+      1.1383850201964378,
+      4.914062023162842
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      0.46730150654911995,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_GEN_ScrollShelf_A_Bottles_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Bottle_Rack_ABC/Resources/FUR_GEN_ScrollShelf_A_Bottles_A.dae",
+    "size": [
+      1.312865972518921,
+      1.8002269864082336,
+      0.6152209937572479
+    ],
+    "center_offset": [
+      -0.0007079839706420898,
+      1.2506864964962006,
+      -0.0631064921617508
+    ]
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_4W2D_A_TableCloth_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_4W2D_A_TableCloth_A.dae",
+    "size": [
+      2.331686019897461,
+      0.7253950238227844,
+      4.662821888923645
+    ],
+    "center_offset": [
+      0.013617992401123047,
+      0.5510055124759674,
+      0.4304899573326111
+    ]
+  },
+  {
+    "name": "FUR_GEN_ZevorsAppeal_Painting_A.dae",
+    "relative_path": "Furniture/Generic/FUR_GEN_ZevorsAppeal_Painting_ABC/Resources/FUR_GEN_ZevorsAppeal_Painting_A.dae",
+    "size": [
+      0.9167100191116333,
+      2.2184810638427734,
+      0.08438999950885773
+    ],
+    "center_offset": [
+      0.0,
+      0.0004864931106567383,
+      -0.025867000222206116
+    ]
+  },
+  {
+    "name": "FUR_GEN_Glasshouse_SofaBench_A.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_GEN_Glasshouse_SofaBench_A/Resources/FUR_GEN_Glasshouse_SofaBench_A.dae",
+    "size": [
+      1.9934170246124268,
+      1.1767179938906338,
+      0.7805480062961578
+    ],
+    "center_offset": [
+      -0.0011435151100158691,
+      0.5878829969587969,
+      0.031133010983467102
+    ]
+  },
+  {
+    "name": "FUR_GEN_Glasshouse_SofaBench_B.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_GEN_Glasshouse_SofaBench_A/Resources/FUR_GEN_Glasshouse_SofaBench_B.dae",
+    "size": [
+      0.7114959955215454,
+      0.8731349837034941,
+      0.8097140192985535
+    ],
+    "center_offset": [
+      -0.015473008155822754,
+      0.43576949182897806,
+      0.04666599631309509
+    ]
+  },
+  {
+    "name": "FUR_GEN_Glasshouse_SofaBench_C.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_GEN_Glasshouse_SofaBench_A/Resources/FUR_GEN_Glasshouse_SofaBench_C.dae",
+    "size": [
+      5.265437126159668,
+      0.8731350025627762,
+      0.8539890050888062
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      0.43494950130116194,
+      0.00015848875045776367
+    ]
+  },
+  {
+    "name": "BLD_Glasshouse_Table_Bronze_B_Bottom_A.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_Glasshouse_Table_ABC/Resources/BLD_Glasshouse_Table_Bronze_B_Bottom_A.dae",
+    "size": [
+      1.651233971118927,
+      1.1276559829711914,
+      1.654986023902893
+    ],
+    "center_offset": [
+      -0.003004997968673706,
+      0.5638279914855957,
+      -0.00879901647567749
+    ]
+  },
+  {
+    "name": "FUR_Glasshouse_Table_Bronze_Large_A.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_Glasshouse_Table_ABC/Resources/FUR_Glasshouse_Table_Bronze_Large_A.dae",
+    "size": [
+      1.2354700565338135,
+      0.876725971698761,
+      3.7696380615234375
+    ],
+    "center_offset": [
+      0.0,
+      0.4383629858493805,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Glasshouse_Table_Bronze_Medium_A.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_Glasshouse_Table_ABC/Resources/FUR_Glasshouse_Table_Bronze_Medium_A.dae",
+    "size": [
+      1.2354700565338135,
+      0.876725971698761,
+      2.937808036804199
+    ],
+    "center_offset": [
+      0.0,
+      0.4383629858493805,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Glasshouse_Table_Bronze_Small_A.dae",
+    "relative_path": "Furniture/Glasshouse/FUR_Glasshouse_Table_ABC/Resources/FUR_Glasshouse_Table_Bronze_Small_A.dae",
+    "size": [
+      1.7682139873504639,
+      0.9094039797782898,
+      1.6026729941368103
+    ],
+    "center_offset": [
+      0.0,
+      0.4547019898891449,
+      -0.000768512487411499
+    ]
+  },
+  {
+    "name": "FUR_GOB_Throne_B.dae",
+    "relative_path": "Furniture/Goblins/FUR_GOB_Throne_ABC/Resources/FUR_GOB_Throne_B.dae",
+    "size": [
+      1.1110920310020447,
+      2.568114954046905,
+      1.197510987520218
+    ],
+    "center_offset": [
+      0.011362999677658081,
+      1.2808314771391451,
+      -0.16398148238658905
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_A.dae",
+    "size": [
+      1.0855159759521484,
+      1.3828900267835706,
+      2.2719130516052246
+    ],
+    "center_offset": [
+      -0.0017679929733276367,
+      0.6885080133797601,
+      0.09183752536773682
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_A_Broken_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_A_Broken_A.dae",
+    "size": [
+      1.1059379577636719,
+      1.064198054606095,
+      2.14793598651886
+    ],
+    "center_offset": [
+      -0.010158002376556396,
+      0.5294580272166058,
+      0.16319698095321655
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_A_Posed_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_A_Posed_A.dae",
+    "size": [
+      1.0855159759521484,
+      1.7669589926954359,
+      1.731630027294159
+    ],
+    "center_offset": [
+      -0.0017679929733276367,
+      0.8805424963356927,
+      -0.17830398678779602
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_A_Posed_B.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_A_Posed_B.dae",
+    "size": [
+      1.0855159759521484,
+      1.1505819966550916,
+      2.401855945587158
+    ],
+    "center_offset": [
+      -0.0017679929733276367,
+      0.5723539983155206,
+      0.138496994972229
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_B.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_B.dae",
+    "size": [
+      0.86217200756073,
+      1.463937980181072,
+      2.1945700645446777
+    ],
+    "center_offset": [
+      0.0,
+      0.731639990088297,
+      0.038810014724731445
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_B_Broken_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_B_Broken_A.dae",
+    "size": [
+      1.0418660044670105,
+      1.0315969660878181,
+      2.4701980352401733
+    ],
+    "center_offset": [
+      1.3023614883422852e-05,
+      0.504155483096838,
+      0.3115770220756531
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Bed_B_Posed_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Bed_ABC/Resources/FUR_Hospital_Bed_B_Posed_A.dae",
+    "size": [
+      0.86217200756073,
+      1.7572010579169728,
+      1.7672949433326721
+    ],
+    "center_offset": [
+      0.0,
+      0.8782715289562475,
+      0.12571248412132263
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Surgical_Bed_A_Goblin_Posed_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Surgical_Bed_ABC/Resources/FUR_Hospital_Surgical_Bed_A_Goblin_Posed_A.dae",
+    "size": [
+      1.0854899883270264,
+      0.9222579831257463,
+      1.8736470341682434
+    ],
+    "center_offset": [
+      0.0,
+      0.44717999128624797,
+      0.11094650626182556
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Surgical_Bed_A_Posed_A.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Surgical_Bed_ABC/Resources/FUR_Hospital_Surgical_Bed_A_Posed_A.dae",
+    "size": [
+      1.3253519535064697,
+      1.9806419832166284,
+      1.7548919916152954
+    ],
+    "center_offset": [
+      0.0,
+      0.9882129916222766,
+      0.01872497797012329
+    ]
+  },
+  {
+    "name": "FUR_Hospital_Surgical_Bed_A_Posed_B.dae",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Surgical_Bed_ABC/Resources/FUR_Hospital_Surgical_Bed_A_Posed_B.dae",
+    "size": [
+      1.0854899883270264,
+      0.8705460206256248,
+      1.8736470341682434
+    ],
+    "center_offset": [
+      0.0,
+      0.4346070103056263,
+      0.11094650626182556
+    ]
+  },
+  {
+    "name": "FUR_HoH_Painting_Rectangle_A.dae",
+    "relative_path": "Furniture/HouseOfHope/FUR_HoH_Painting_ABC/Resources/FUR_HoH_Painting_Rectangle_A.dae",
+    "size": [
+      2.0340949296951294,
+      2.5544159412384033,
+      0.20177299715578556
+    ],
+    "center_offset": [
+      0.00116652250289917,
+      0.0,
+      -0.07041149865835905
+    ]
+  },
+  {
+    "name": "FUR_HoH_Painting_Rectangle_B.dae",
+    "relative_path": "Furniture/HouseOfHope/FUR_HoH_Painting_ABC/Resources/FUR_HoH_Painting_Rectangle_B.dae",
+    "size": [
+      1.7300859689712524,
+      2.113111972808838,
+      0.05155700072646141
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.025778500363230705
+    ]
+  },
+  {
+    "name": "FUR_HoH_Painting_Rectangle_C.dae",
+    "relative_path": "Furniture/HouseOfHope/FUR_HoH_Painting_ABC/Resources/FUR_HoH_Painting_Rectangle_C.dae",
+    "size": [
+      1.7348999977111816,
+      2.110177993774414,
+      0.06335499882698059
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.031677499413490295
+    ]
+  },
+  {
+    "name": "FUR_Mausoleum_Bone_Chair_A.dae",
+    "relative_path": "Furniture/Mausoleum/Resources/FUR_Mausoleum_Bone_Chair_A.dae",
+    "size": [
+      0.8518840074539185,
+      1.5017840415239334,
+      0.8699299991130829
+    ],
+    "center_offset": [
+      -0.0048139989376068115,
+      0.6088090166449547,
+      0.0017079859972000122
+    ]
+  },
+  {
+    "name": "FUR_Mausoleum_Bone_Chair_A_Destruct.dae",
+    "relative_path": "Furniture/Mausoleum/Resources/FUR_Mausoleum_Bone_Chair_A_Destruct.dae",
+    "size": [
+      1.5179219841957092,
+      0.5272460132837296,
+      1.743134081363678
+    ],
+    "center_offset": [
+      -0.009152978658676147,
+      0.12118100374937057,
+      0.21039101481437683
+    ]
+  },
+  {
+    "name": "FUR_Mausoleum_Bone_Chair_A_Explode.dae",
+    "relative_path": "Furniture/Mausoleum/Resources/FUR_Mausoleum_Bone_Chair_A_Explode.dae",
+    "size": [
+      0.8518840074539185,
+      1.501853033900261,
+      0.8699299991130829
+    ],
+    "center_offset": [
+      -0.0048139989376068115,
+      0.6087745204567909,
+      0.0017079859972000122
+    ]
+  },
+  {
+    "name": "FUR_MF_Health_Draining_Device_A.dae",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Health_Draining_Device_ABC/Resources/FUR_MF_Health_Draining_Device_A.dae",
+    "size": [
+      4.254698991775513,
+      4.298149049282074,
+      5.214280009269714
+    ],
+    "center_offset": [
+      0.9530924558639526,
+      1.7824285328388214,
+      1.7493420243263245
+    ]
+  },
+  {
+    "name": "FUR_MF_Health_Draining_Device_Bed_A.dae",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Health_Draining_Device_ABC/Resources/FUR_MF_Health_Draining_Device_Bed_A.dae",
+    "size": [
+      1.4474560022354126,
+      1.9134809970855713,
+      3.773934006690979
+    ],
+    "center_offset": [
+      -0.02840501070022583,
+      0.41213250160217285,
+      0.9056779742240906
+    ]
+  },
+  {
+    "name": "FUR_MF_Health_Draining_Device_Pod_A.dae",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Health_Draining_Device_ABC/Resources/FUR_MF_Health_Draining_Device_Pod_A.dae",
+    "size": [
+      3.6942479610443115,
+      7.069329023361206,
+      6.03705096244812
+    ],
+    "center_offset": [
+      0.0,
+      3.206647515296936,
+      1.688315510749817
+    ]
+  },
+  {
+    "name": "FUR_MF_Throne_A.dae",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Throne_ABC/Resources/FUR_MF_Throne_A.dae",
+    "size": [
+      2.499969959259033,
+      2.7377990819513798,
+      1.7080089747905731
+    ],
+    "center_offset": [
+      0.052644968032836914,
+      1.418519539758563,
+      0.5277455002069473
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Altar_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Altar_ABC/Resources/FUR_Necromancer_Altar_A.dae",
+    "size": [
+      3.290776014328003,
+      0.867584993269702,
+      1.4775199890136719
+    ],
+    "center_offset": [
+      0.0,
+      0.43368849663602305,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_A_Beast_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_A_Beast_A.dae",
+    "size": [
+      1.416832983493805,
+      2.2143469750881195,
+      1.403384029865265
+    ],
+    "center_offset": [
+      0.03970751166343689,
+      1.4196044951677322,
+      -0.02466699481010437
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_A_Empty_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_A_Empty_A.dae",
+    "size": [
+      3.0193899869918823,
+      3.0,
+      2.615009903907776
+    ],
+    "center_offset": [
+      -3.039836883544922e-06,
+      1.5,
+      0.0003330111503601074
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_A_Full_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_A_Full_A.dae",
+    "size": [
+      3.0190439224243164,
+      3.0,
+      2.6146239042282104
+    ],
+    "center_offset": [
+      -2.9802322387695312e-06,
+      1.5,
+      0.0003330111503601074
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_B_Empty_Platform_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_B_Empty_Platform_A.dae",
+    "size": [
+      4.064812183380127,
+      0.6524860011413693,
+      3.533482074737549
+    ],
+    "center_offset": [
+      0.0,
+      0.3120480007492006,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_B_Empty_Wall_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_B_Empty_Wall_A.dae",
+    "size": [
+      3.4212100505828857,
+      3.0085909366607666,
+      2.9948959350585938
+    ],
+    "center_offset": [
+      0.0,
+      1.5042954683303833,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_Large_A_Beast_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_Large_A_Beast_A.dae",
+    "size": [
+      4.246813058853149,
+      3.250195026397705,
+      2.710611939430237
+    ],
+    "center_offset": [
+      -0.0021795034408569336,
+      1.5632305145263672,
+      -0.2241160273551941
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_Large_A_Empty_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_Large_A_Empty_A.dae",
+    "size": [
+      5.297149181365967,
+      3.0103919599205256,
+      3.296786069869995
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      1.4951959801837802,
+      -0.015118002891540527
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_Large_A_Full_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_Large_A_Full_A.dae",
+    "size": [
+      5.297149181365967,
+      3.0103919599205256,
+      3.296786069869995
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      1.4951959801837802,
+      -0.015118002891540527
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pool_Pipe_A_Standing.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Pool_ABC/Resources/FUR_Necromancer_Lab_Pool_Pipe_A_Standing.dae",
+    "size": [
+      1.7075190544128418,
+      3.407131105661392,
+      0.9837320148944855
+    ],
+    "center_offset": [
+      -0.2548145055770874,
+      1.4190185517072678,
+      -0.06610499322414398
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Balthazar_Altar_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Table_ABC/Resources/FUR_Necromancer_Lab_Balthazar_Altar_A.dae",
+    "size": [
+      0.8990220129489899,
+      1.2272850275039673,
+      0.8990220129489899
+    ],
+    "center_offset": [
+      1.1995434761047363e-05,
+      0.6136425137519836,
+      1.1995434761047363e-05
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Pedestal_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Table_ABC/Resources/FUR_Necromancer_Lab_Pedestal_A.dae",
+    "size": [
+      1.0610190033912659,
+      2.685481071472168,
+      1.225080966949463
+    ],
+    "center_offset": [
+      -1.2487173080444336e-05,
+      1.342740535736084,
+      -1.049041748046875e-05
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Table_Large_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Table_ABC/Resources/FUR_Necromancer_Lab_Table_Large_A.dae",
+    "size": [
+      1.5513129830360413,
+      1.276489019393921,
+      3.6213430166244507
+    ],
+    "center_offset": [
+      -5.513429641723633e-06,
+      0.6382445096969604,
+      -5.364418029785156e-07
+    ]
+  },
+  {
+    "name": "FUR_Necromancer_Lab_Table_Small_A.dae",
+    "relative_path": "Furniture/Necromancer/FUR_Necromancer_Lab_Table_ABC/Resources/FUR_Necromancer_Lab_Table_Small_A.dae",
+    "size": [
+      1.5513309836387634,
+      1.2765250337397447,
+      2.0688300132751465
+    ],
+    "center_offset": [
+      8.848309516906738e-05,
+      0.6380615168673103,
+      -7.987022399902344e-06
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_A.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_A.dae",
+    "size": [
+      3.991131067276001,
+      5.494547054171562,
+      3.0206008553504944
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      2.6136855259537697,
+      0.7719504535198212
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_A_Destruct.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_A_Destruct.dae",
+    "size": [
+      9.405816078186035,
+      1.8884190022945404,
+      7.378247022628784
+    ],
+    "center_offset": [
+      0.4685540199279785,
+      0.8656245023012161,
+      1.1661444902420044
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_A_Explode.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_A_Explode.dae",
+    "size": [
+      3.9894158840179443,
+      5.4902040511369705,
+      2.960093080997467
+    ],
+    "center_offset": [
+      0.0,
+      2.6158570274710655,
+      0.7416965663433075
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_Small_A.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_Small_A.dae",
+    "size": [
+      3.198754072189331,
+      4.181968852877617,
+      3.0206008553504944
+    ],
+    "center_offset": [
+      0.0,
+      1.957396425306797,
+      0.7719504535198212
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_Small_A_Destruct.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_Small_A_Destruct.dae",
+    "size": [
+      7.146492004394531,
+      2.0144540071487427,
+      6.9620198011398315
+    ],
+    "center_offset": [
+      0.15067601203918457,
+      0.8792290091514587,
+      2.055164873600006
+    ]
+  },
+  {
+    "name": "FUR_Orthon_Throne_Small_A_Explode.dae",
+    "relative_path": "Furniture/Orthon/FUR_Orthon_Throne_ABC/Resources/FUR_Orthon_Throne_Small_A_Explode.dae",
+    "size": [
+      3.1817400455474854,
+      4.172529891133308,
+      3.126711905002594
+    ],
+    "center_offset": [
+      0.0,
+      1.9570199474692345,
+      0.825005978345871
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Bench_Double_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Bench_A/Resources/FUR_Parliament_Bench_Double_A.dae",
+    "size": [
+      4.1248250007629395,
+      1.337291007861495,
+      0.6172280013561249
+    ],
+    "center_offset": [
+      -0.0006434917449951172,
+      0.6640675039961934,
+      -0.0009400099515914917
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Bench_Single_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Bench_A/Resources/FUR_Parliament_Bench_Single_A.dae",
+    "size": [
+      2.1324340105056763,
+      1.334915041923523,
+      0.6154630184173584
+    ],
+    "center_offset": [
+      -6.002187728881836e-05,
+      0.6674575209617615,
+      0.00039249658584594727
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Pannel_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Pannel_A/Resources/FUR_Parliament_Pannel_A.dae",
+    "size": [
+      0.7913049757480621,
+      2.3822249052027473,
+      0.19640100002288818
+    ],
+    "center_offset": [
+      -0.0011074990034103394,
+      1.19094545259577,
+      0.00370749831199646
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Step_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Step_A/Resources/FUR_Parliament_Step_A.dae",
+    "size": [
+      1.1267269849777222,
+      0.29859199502971023,
+      4.1155219078063965
+    ],
+    "center_offset": [
+      0.01707547903060913,
+      0.14802299748407677,
+      0.010828971862792969
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Step_Rug_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Step_A/Resources/FUR_Parliament_Step_Rug_A.dae",
+    "size": [
+      1.1259700059890747,
+      0.31137498596217483,
+      4.130306959152222
+    ],
+    "center_offset": [
+      0.018002986907958984,
+      0.15441449295030907,
+      0.010829567909240723
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Bottom_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Bottom_A.dae",
+    "size": [
+      6.102833032608032,
+      1.482917954956065,
+      1.1198520064353943
+    ],
+    "center_offset": [
+      -0.35397446155548096,
+      0.7413729774780222,
+      -0.005767017602920532
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Double_Bottom_Small_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Double_Bottom_Small_A.dae",
+    "size": [
+      2.1387280859053135,
+      1.482917954956065,
+      1.1194140315055847
+    ],
+    "center_offset": [
+      1.031646041199565,
+      0.7413729774780222,
+      -0.005986005067825317
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Double_Middle_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Double_Middle_A.dae",
+    "size": [
+      6.116351127624512,
+      3.61165289580822,
+      1.5642110109329224
+    ],
+    "center_offset": [
+      -0.35372352600097656,
+      1.8190264478325844,
+      -0.008984506130218506
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Double_Middle_Small_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Double_Middle_Small_A.dae",
+    "size": [
+      2.1571490690112114,
+      3.61084805324208,
+      1.5642110109329224
+    ],
+    "center_offset": [
+      1.0294455327093601,
+      1.8067290266626514,
+      -0.008985519409179688
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Double_Top_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Double_Top_A.dae",
+    "size": [
+      6.124078989028931,
+      1.1526409890502691,
+      4.210660934448242
+    ],
+    "center_offset": [
+      -0.34465038776397705,
+      0.5685274945572019,
+      -0.008428573608398438
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Double_Top_Small_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Double_Top_Small_A.dae",
+    "size": [
+      2.1617938987910748,
+      1.152639951556921,
+      4.210659980773926
+    ],
+    "center_offset": [
+      1.0400599483400583,
+      0.55712397582829,
+      -0.008430004119873047
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Single_Middle_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Single_Middle_A.dae",
+    "size": [
+      6.1181299686431885,
+      3.6117480366956443,
+      1.3770449757575989
+    ],
+    "center_offset": [
+      -0.3536010980606079,
+      1.8091460183495656,
+      -0.10311248898506165
+    ]
+  },
+  {
+    "name": "FUR_Parliament_Wall_Single_Top_A.dae",
+    "relative_path": "Furniture/Parliament/FUR_Parliament_Wall_A/Resources/FUR_Parliament_Wall_Single_Top_A.dae",
+    "size": [
+      6.097944974899292,
+      1.1529090339317918,
+      2.7136170864105225
+    ],
+    "center_offset": [
+      -0.34700047969818115,
+      0.5610175165347755,
+      -0.7574955224990845
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_A.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_A.dae",
+    "size": [
+      2.3632819652557373,
+      1.5647690296173096,
+      1.0809719860553741
+    ],
+    "center_offset": [
+      -0.011011004447937012,
+      0.7823845148086548,
+      -0.06645499169826508
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_A_Empty_A.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_A_Empty_A.dae",
+    "size": [
+      2.3412599563598633,
+      1.5647690296173096,
+      0.948062002658844
+    ],
+    "center_offset": [
+      0.0,
+      0.7823845148086548,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_B.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_B.dae",
+    "size": [
+      1.1549490094184875,
+      1.4264859617687762,
+      0.8369100093841553
+    ],
+    "center_offset": [
+      0.00025847554206848145,
+      0.7152049809228629,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_B_Empty_A.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_B_Empty_A.dae",
+    "size": [
+      1.1549490094184875,
+      1.4265249432064593,
+      0.8369369804859161
+    ],
+    "center_offset": [
+      0.00025847554206848145,
+      0.7152244716417044,
+      5.498528480529785e-06
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_C.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_C.dae",
+    "size": [
+      1.1549490094184875,
+      1.4264859617687762,
+      1.130748987197876
+    ],
+    "center_offset": [
+      0.00025847554206848145,
+      0.7152049809228629,
+      -0.14691948890686035
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_A.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_A.dae",
+    "size": [
+      1.118064045906067,
+      0.05752800032496452,
+      0.6402559876441956
+    ],
+    "center_offset": [
+      0.0,
+      0.02876400016248226,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_B.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_B.dae",
+    "size": [
+      1.118064045906067,
+      0.04311000183224678,
+      0.6402559876441956
+    ],
+    "center_offset": [
+      0.0,
+      0.02155500091612339,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_C.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_C.dae",
+    "size": [
+      1.118064045906067,
+      0.0574290007352829,
+      0.6402559876441956
+    ],
+    "center_offset": [
+      0.0,
+      0.02871450036764145,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_Full_A.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_Full_A.dae",
+    "size": [
+      1.1103379726409912,
+      0.03925799950957298,
+      0.9263399839401245
+    ],
+    "center_offset": [
+      0.002222001552581787,
+      0.01962899975478649,
+      0.0
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_Full_B.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_Full_B.dae",
+    "size": [
+      1.0259889960289001,
+      0.13385799527168274,
+      0.6664479970932007
+    ],
+    "center_offset": [
+      0.0026604831218719482,
+      0.06692899763584137,
+      -0.025079995393753052
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_Full_C.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_Full_C.dae",
+    "size": [
+      1.0259889960289001,
+      0.06233400106430054,
+      0.6751070022583008
+    ],
+    "center_offset": [
+      0.002681523561477661,
+      0.03116700053215027,
+      -0.0294094979763031
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_Full_D.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_Full_D.dae",
+    "size": [
+      0.633292019367218,
+      0.05236700177192688,
+      0.558553010225296
+    ],
+    "center_offset": [
+      0.0,
+      0.02618350088596344,
+      -0.02914150059223175
+    ]
+  },
+  {
+    "name": "FUR_Printshop_Drawers_Loose_Full_E.dae",
+    "relative_path": "Furniture/Printshop/FUR_Printshop_Drawers_ABC/Resources/FUR_Printshop_Drawers_Loose_Full_E.dae",
+    "size": [
+      0.3614799976348877,
+      0.05236700177192688,
+      0.35549500584602356
+    ],
+    "center_offset": [
+      0.0,
+      0.02618350088596344,
+      -0.026717498898506165
+    ]
+  },
+  {
+    "name": "FUR_Temple_Table_Stone_E.dae",
+    "relative_path": "Furniture/Temple/FUR_Temple_Table_Stone_ABC/Resources/FUR_Temple_Table_Stone_E.dae",
+    "size": [
+      5.07592499256134,
+      0.9261230008851271,
+      2.3880919218063354
+    ],
+    "center_offset": [
+      1.381992518901825,
+      0.4625975004310021,
+      -0.01266402006149292
+    ]
+  }
+]

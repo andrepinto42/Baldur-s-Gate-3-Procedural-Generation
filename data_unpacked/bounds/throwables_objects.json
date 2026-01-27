@@ -1,0 +1,147 @@
+[
+  {
+    "name": "DEC_GEN_BoilingCauldron_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_A.dae",
+    "size": [
+      0.5573379993438721,
+      0.46219701040536165,
+      0.5361630022525787
+    ],
+    "center_offset": [
+      0.0,
+      0.231435505207628,
+      -0.008167490363121033
+    ],
+    "uuid": "42e887b5-a14f-431e-bdf9-ae1abe7ea58b"
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_Broken_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_Broken_A.dae",
+    "size": [
+      0.551149994134903,
+      0.43608999671414495,
+      0.525627002120018
+    ],
+    "center_offset": [
+      -0.026076003909111023,
+      0.21084999828599393,
+      -0.018153496086597443
+    ]
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_Broken_Large_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_Broken_Large_A.dae",
+    "size": [
+      1.0842460095882416,
+      0.8652619803324342,
+      1.0475269854068756
+    ],
+    "center_offset": [
+      -0.04674501717090607,
+      0.41824099002406,
+      -0.034443482756614685
+    ]
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_Slime_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_Slime_A.dae",
+    "size": [
+      0.5573379993438721,
+      0.46219701040536165,
+      0.5326200127601624
+    ],
+    "center_offset": [
+      0.0,
+      0.231435505207628,
+      -0.006657004356384277
+    ],
+    "uuid": "eb221085-1e2f-4fbb-9828-54f268555feb"
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_Stew_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_Stew_A.dae",
+    "size": [
+      1.1146759986877441,
+      0.9243930075317621,
+      1.0652400255203247
+    ],
+    "center_offset": [
+      0.0,
+      0.46287050377577543,
+      -0.012791991233825684
+    ]
+  },
+  {
+    "name": "INTERACT_DEC_GEN_BoilingCauldron_Stew_A.dae",
+    "relative_path": "Throwables/Cauldron/Resources/INTERACT_DEC_GEN_BoilingCauldron_Stew_A.dae",
+    "size": [
+      1.0805000066757202,
+      0.9157999847084284,
+      1.0652400255203247
+    ],
+    "center_offset": [
+      0.0,
+      0.45857399236410856,
+      -0.012791991233825684
+    ]
+  },
+  {
+    "name": "THR_BrokenColumn_A.dae",
+    "relative_path": "Throwables/Column/Resources/THR_BrokenColumn_A.dae",
+    "size": [
+      0.6084029972553253,
+      0.3585340064018965,
+      0.5829160213470459
+    ],
+    "center_offset": [
+      -0.004087492823600769,
+      0.14964400324970484,
+      0.0
+    ]
+  },
+  {
+    "name": "DEC_GEN_Stoup_A.dae",
+    "relative_path": "Throwables/Stoup/Resources/DEC_GEN_Stoup_A.dae",
+    "size": [
+      0.7217479944229126,
+      1.0698460340499878,
+      0.721746027469635
+    ],
+    "center_offset": [
+      0.0,
+      0.5349230170249939,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
+  },
+  {
+    "name": "DEC_GEN_Stoup_A_HolyWater_A.dae",
+    "relative_path": "Throwables/Stoup/Resources/DEC_GEN_Stoup_A_HolyWater_A.dae",
+    "size": [
+      0.7217479944229126,
+      1.0698460340499878,
+      0.721746027469635
+    ],
+    "center_offset": [
+      0.0,
+      0.5349230170249939,
+      0.0
+    ],
+    "uuid": "dc7c483c-87d9-40f8-9c83-fee8f5bd3724"
+  },
+  {
+    "name": "DEC_GEN_Stoup_A_Milk_A.dae",
+    "relative_path": "Throwables/Stoup/Resources/DEC_GEN_Stoup_A_Milk_A.dae",
+    "size": [
+      0.7217479944229126,
+      1.0698460340499878,
+      0.721746027469635
+    ],
+    "center_offset": [
+      0.0,
+      0.5349230170249939,
+      0.0
+    ],
+    "uuid": "9e69ff82-8d2b-40bd-b958-6bc644220293"
+  }
+]

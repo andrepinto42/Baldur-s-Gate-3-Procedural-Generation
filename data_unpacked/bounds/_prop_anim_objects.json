@@ -1,0 +1,1504 @@
+[
+  {
+    "name": "Proxy_BOOK_GEN_Book_B_Rigged_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Books/Generic/Resources/Proxy_BOOK_GEN_Book_B_Rigged_A.dae",
+    "size": [
+      0.2672730013728142,
+      0.06962300185114145,
+      0.32547299563884735
+    ],
+    "center_offset": [
+      0.033839497715234756,
+      0.04291750071570277,
+      0.0006074979901313782
+    ]
+  },
+  {
+    "name": "proxy_BOOK_Tome_Thayan_Necromancy_A_Open_A_Gem.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Books/Tomes/BOOK_Tome_Thayan_Necromancy_ABC/Resources/proxy_BOOK_Tome_Thayan_Necromancy_A_Open_A_Gem.dae",
+    "size": [
+      0.1150439977645874,
+      0.12013199928333052,
+      0.1602259948849678
+    ],
+    "center_offset": [
+      0.00035399943590164185,
+      0.060313999638310634,
+      0.01285799965262413
+    ]
+  },
+  {
+    "name": "Proxy_BOOK_Wizards_Tome_Notebook_Cinematic_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/Proxy_BOOK_Wizards_Tome_Notebook_Cinematic_C.dae",
+    "size": [
+      0.21726299822330475,
+      0.05442600161768496,
+      0.2974590063095093
+    ],
+    "center_offset": [
+      -0.0009505003690719604,
+      0.030863000894896686,
+      0.0017044991254806519
+    ]
+  },
+  {
+    "name": "Proxy_BOOK_Wizards_Tome_Ornate_B_Cinematic_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Books/Wizards/BOOK_Wizards_Tome_ABC/Resources/Proxy_BOOK_Wizards_Tome_Ornate_B_Cinematic_A.dae",
+    "size": [
+      0.3097140043973923,
+      0.0977900018915534,
+      0.41137300431728363
+    ],
+    "center_offset": [
+      0.0031469985842704773,
+      0.04731100099161267,
+      0.00018050521612167358
+    ]
+  },
+  {
+    "name": "Proxy_BLD_City_Castle_Drawbridge_Wood_Bridge_D.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Buildings/City/Resources/Proxy_BLD_City_Castle_Drawbridge_Wood_Bridge_D.dae",
+    "size": [
+      20.901750564575195,
+      15.075746238231659,
+      11.703903675079346
+    ],
+    "center_offset": [
+      2.8923091888427734,
+      6.985178142786026,
+      0.05135798454284668
+    ]
+  },
+  {
+    "name": "Proxy_BLD_GEN_Crane_Elevator_D_Cabin_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Buildings/Generic/Resources/Proxy_BLD_GEN_Crane_Elevator_D_Cabin_A.dae",
+    "size": [
+      9.375404834747314,
+      23.4279146194458,
+      5.634397029876709
+    ],
+    "center_offset": [
+      2.8553884029388428,
+      -1.5053744316101074,
+      4.76837158203125e-07
+    ]
+  },
+  {
+    "name": "Proxy_BLD_Harbor_Crane_Wood_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Buildings/Harbor/Resources/Proxy_BLD_Harbor_Crane_Wood_B.dae",
+    "size": [
+      4.236577987670898,
+      11.353700544685125,
+      8.509301900863647
+    ],
+    "center_offset": [
+      -0.12853503227233887,
+      5.648937271907926,
+      1.2056089639663696
+    ]
+  },
+  {
+    "name": "Proxy_BLD_MF_Nautiloid_Mind_Draining_Device_Top.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Buildings/Mindflayers/BLD_MF_Nautiloid_MindDraining_Device_ABC/Resources/Proxy_BLD_MF_Nautiloid_Mind_Draining_Device_Top.dae",
+    "size": [
+      8.679778099060059,
+      8.344369888305664,
+      11.275552749633789
+    ],
+    "center_offset": [
+      0.4601631164550781,
+      6.123642921447754,
+      -0.10263252258300781
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Barrel_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_Barrel_ABC/Resources/Proxy_CONT_Barrel_A.dae",
+    "size": [
+      0.9533369839191437,
+      1.2632149923592806,
+      0.9547750055789948
+    ],
+    "center_offset": [
+      0.003551498055458069,
+      0.6266734963282943,
+      -0.004365488886833191
+    ]
+  },
+  {
+    "name": "Proxy_CONT_HUM_Vase_Large_C_Glazed.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_HUM_Vase_ABC/Resources/Proxy_CONT_HUM_Vase_Large_C_Glazed.dae",
+    "size": [
+      0.6588810086250305,
+      1.5217950010605819,
+      0.6594020128250122
+    ],
+    "center_offset": [
+      0.00017750263214111328,
+      0.7608905005301949,
+      2.7000904083251953e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_HUM_Vase_Medium_B_Ceramic.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_HUM_Vase_ABC/Resources/Proxy_CONT_HUM_Vase_Medium_B_Ceramic.dae",
+    "size": [
+      0.6455070078372955,
+      1.145835041999817,
+      0.6460189819335938
+    ],
+    "center_offset": [
+      0.00017349421977996826,
+      0.5729175209999084,
+      2.6494264602661133e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_HUM_Vase_Small_A_Ceramic.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_HUM_Vase_ABC/Resources/Proxy_CONT_HUM_Vase_Small_A_Ceramic.dae",
+    "size": [
+      0.7862929999828339,
+      0.736357985118957,
+      0.7132270038127899
+    ],
+    "center_offset": [
+      6.349384784698486e-05,
+      0.36812499255938747,
+      -2.4512410163879395e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_HUM_Vase_Small_B_Glazed.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_HUM_Vase_ABC/Resources/Proxy_CONT_HUM_Vase_Small_B_Glazed.dae",
+    "size": [
+      0.6950549781322479,
+      1.013245043141069,
+      0.6954939961433411
+    ],
+    "center_offset": [
+      5.950033664703369e-05,
+      0.5061375215736916,
+      -2.3990869522094727e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_HUM_Vase_Small_C_Glazed.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/CONT_HUM_Vase_ABC/Resources/Proxy_CONT_HUM_Vase_Small_C_Glazed.dae",
+    "size": [
+      0.7665469944477081,
+      0.8968530297279358,
+      0.6890740096569061
+    ],
+    "center_offset": [
+      0.00018550455570220947,
+      0.4484265148639679,
+      2.7999281883239746e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Basket_Wicker_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/Proxy_CONT_GEN_Basket_Wicker_A.dae",
+    "size": [
+      0.7629240155220032,
+      1.0437419414520264,
+      0.7607829868793488
+    ],
+    "center_offset": [
+      -0.0001640021800994873,
+      0.5218709707260132,
+      -6.45071268081665e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Basket_Wicker_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/Proxy_CONT_GEN_Basket_Wicker_B.dae",
+    "size": [
+      0.7629240155220032,
+      0.883150975278113,
+      0.7607829868793488
+    ],
+    "center_offset": [
+      -0.0001640021800994873,
+      0.4423774876340758,
+      -6.45071268081665e-05
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Basket_Wicker_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/Proxy_CONT_GEN_Basket_Wicker_C.dae",
+    "size": [
+      0.835660994052887,
+      1.2239439404802397,
+      0.835660994052887
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.6107369702658616,
+      5.066394805908203e-07
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Basket_Wicker_D.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/Proxy_CONT_GEN_Basket_Wicker_D.dae",
+    "size": [
+      1.0089799761772156,
+      1.1613719463348389,
+      1.0228630304336548
+    ],
+    "center_offset": [
+      0.00045099854469299316,
+      0.5806859731674194,
+      0.002299487590789795
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Basket_Wicker_E.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/Proxy_CONT_GEN_Basket_Wicker_E.dae",
+    "size": [
+      1.1639059782028198,
+      0.9811949701979756,
+      0.8772359788417816
+    ],
+    "center_offset": [
+      0.0,
+      0.4847844853065908,
+      -0.0011010020971298218
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_A.dae",
+    "size": [
+      0.8681059777736664,
+      0.38639599084854126,
+      0.6212550103664398
+    ],
+    "center_offset": [
+      0.030296996235847473,
+      0.12269899249076843,
+      -0.006466493010520935
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_B.dae",
+    "size": [
+      0.6172559857368469,
+      0.9888329850509763,
+      0.562701016664505
+    ],
+    "center_offset": [
+      0.03420400619506836,
+      0.4835654920898378,
+      0.04453350603580475
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_C.dae",
+    "size": [
+      0.7316929996013641,
+      0.8765189964324236,
+      0.6441720128059387
+    ],
+    "center_offset": [
+      0.029728487133979797,
+      0.41782049741595984,
+      -0.02098900079727173
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_Combine_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_Combine_A.dae",
+    "size": [
+      1.358156979084015,
+      1.3610699474811554,
+      1.636672019958496
+    ],
+    "center_offset": [
+      -0.0016075074672698975,
+      0.6144419759511948,
+      -0.22423601150512695
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_Combine_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_Combine_B.dae",
+    "size": [
+      1.0706300139427185,
+      0.6478650011122227,
+      0.9826949834823608
+    ],
+    "center_offset": [
+      0.025521010160446167,
+      0.2874264996498823,
+      0.02264249324798584
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_D.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_D.dae",
+    "size": [
+      0.7507510185241699,
+      0.7752330135554075,
+      0.7828870117664337
+    ],
+    "center_offset": [
+      -0.01445549726486206,
+      0.3568725073710084,
+      -0.061049506068229675
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_E.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_E.dae",
+    "size": [
+      0.3349519968032837,
+      0.44514098577201366,
+      0.3327849954366684
+    ],
+    "center_offset": [
+      -0.006513997912406921,
+      0.21469949278980494,
+      -0.015623502433300018
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_F.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_F.dae",
+    "size": [
+      0.6878969967365265,
+      0.27205999568104744,
+      0.6222140192985535
+    ],
+    "center_offset": [
+      0.07559649646282196,
+      0.11216299794614315,
+      -0.007203996181488037
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_I.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_I.dae",
+    "size": [
+      0.7171909809112549,
+      1.0193059537559748,
+      0.5751729905605316
+    ],
+    "center_offset": [
+      0.026532500982284546,
+      0.490347976796329,
+      -0.03555049002170563
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_J.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_J.dae",
+    "size": [
+      0.54066401720047,
+      0.43669998832046986,
+      0.6302569806575775
+    ],
+    "center_offset": [
+      -0.01321500539779663,
+      0.208703993819654,
+      -0.020711496472358704
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Burlap_Sack_K.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/Proxy_CONT_GEN_Burlap_Sack_K.dae",
+    "size": [
+      0.6602120101451874,
+      1.3011309495195746,
+      0.7193500101566315
+    ],
+    "center_offset": [
+      -0.007347002625465393,
+      0.6444114749319851,
+      0.0029269903898239136
+    ]
+  },
+  {
+    "name": "Poxy_CONT_GEN_Crate_Wood_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/Poxy_CONT_GEN_Crate_Wood_A.dae",
+    "size": [
+      0.9473400115966797,
+      0.9866950204595923,
+      1.114042043685913
+    ],
+    "center_offset": [
+      0.0,
+      0.4908495103009045,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Crate_Wood_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/Proxy_CONT_GEN_Crate_Wood_C.dae",
+    "size": [
+      0.724016010761261,
+      1.0140880183316767,
+      1.8334360122680664
+    ],
+    "center_offset": [
+      -0.0013619959354400635,
+      0.49964100937359035,
+      -0.0007979869842529297
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Globe_Rich_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/CONT_GEN_Globe_Rich_ABC/Resources/Proxy_CONT_GEN_Globe_Rich_A.dae",
+    "size": [
+      1.0725890398025513,
+      1.4836270562955178,
+      1.0735340118408203
+    ],
+    "center_offset": [
+      -0.008898496627807617,
+      0.7424625281419139,
+      0.010551989078521729
+    ]
+  },
+  {
+    "name": "Proxy_CONT_GEN_Safe_Small_Metal_A_Ornate_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Generic/Resources/Proxy_CONT_GEN_Safe_Small_Metal_A_Ornate_A.dae",
+    "size": [
+      1.0124880075454712,
+      1.0115650477819145,
+      0.2674040049314499
+    ],
+    "center_offset": [
+      0.0,
+      0.5011875240597874,
+      -0.0036999955773353577
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_A.dae",
+    "size": [
+      0.3966200053691864,
+      1.2166420560843108,
+      0.3966200053691864
+    ],
+    "center_offset": [
+      0.0,
+      0.6083460280415238,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_B.dae",
+    "size": [
+      0.5462490022182465,
+      0.8012860077851656,
+      0.4861990064382553
+    ],
+    "center_offset": [
+      0.00216849148273468,
+      0.40061800389321434,
+      4.991888999938965e-07
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_C.dae",
+    "size": [
+      0.42874500155448914,
+      1.1749180506449193,
+      0.421081006526947
+    ],
+    "center_offset": [
+      0.00013050436973571777,
+      0.5859280253062025,
+      -0.012816503643989563
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_D.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_D.dae",
+    "size": [
+      0.6514120101928711,
+      0.6789079904556274,
+      0.6520619988441467
+    ],
+    "center_offset": [
+      0.0,
+      0.3394539952278137,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_E.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_E.dae",
+    "size": [
+      0.311939999461174,
+      0.7471729998942465,
+      0.3143810033798218
+    ],
+    "center_offset": [
+      0.0017319992184638977,
+      0.37205949996132404,
+      -0.007507503032684326
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Jergal_Urn_Bones_F.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/Proxy_CONT_Jergal_Urn_Bones_F.dae",
+    "size": [
+      0.38173599541187286,
+      0.5073359709713259,
+      0.38173700869083405
+    ],
+    "center_offset": [
+      0.0012199953198432922,
+      0.25377198548449087,
+      -0.01463250070810318
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Underdark_Gnomes_Basket_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/Proxy_CONT_Underdark_Gnomes_Basket_A.dae",
+    "size": [
+      1.0152959823608398,
+      1.1700859468255658,
+      0.9676710069179535
+    ],
+    "center_offset": [
+      -0.0037559866905212402,
+      0.584650973425596,
+      -0.008984491229057312
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Underdark_Gnomes_Basket_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/Proxy_CONT_Underdark_Gnomes_Basket_B.dae",
+    "size": [
+      0.8408360183238983,
+      0.75288902875036,
+      0.845082014799118
+    ],
+    "center_offset": [
+      -0.010563001036643982,
+      0.36392951430752873,
+      -0.004764005541801453
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Underdark_Gnomes_Basket_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/Proxy_CONT_Underdark_Gnomes_Basket_C.dae",
+    "size": [
+      0.8535720109939575,
+      0.5572749972343445,
+      0.8524550199508667
+    ],
+    "center_offset": [
+      0.013709008693695068,
+      0.2335444986820221,
+      0.011699497699737549
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Underdark_Gnomes_Basket_D.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/Proxy_CONT_Underdark_Gnomes_Basket_D.dae",
+    "size": [
+      0.9447930157184601,
+      0.3384410087019205,
+      0.8859979808330536
+    ],
+    "center_offset": [
+      0.004698500037193298,
+      0.16223350446671247,
+      -0.003139004111289978
+    ]
+  },
+  {
+    "name": "Proxy_CONT_Underdark_Gnomes_Basket_H.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/Proxy_CONT_Underdark_Gnomes_Basket_H.dae",
+    "size": [
+      0.6981319785118103,
+      0.45268898643553257,
+      0.6532319784164429
+    ],
+    "center_offset": [
+      0.0,
+      0.19691649358719587,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_Alchemy_Machine_Barrel_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Alchemy/DEC_Alchemy_Machine_Distillery_ABC/Resources/Proxy_DEC_Alchemy_Machine_Barrel_A.dae",
+    "size": [
+      1.2091580033302307,
+      1.4485349673777819,
+      1.209354043006897
+    ],
+    "center_offset": [
+      9.801983833312988e-05,
+      0.7168074836954474,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_CEM_Coffin_Wood_Common_Combine_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Cemetery/DEC_CEM_Coffin_Wood_ABC/Resources/Proxy_DEC_CEM_Coffin_Wood_Common_Combine_A.dae",
+    "size": [
+      2.0894439220428467,
+      0.4624889985425398,
+      0.7154759764671326
+    ],
+    "center_offset": [
+      -0.001847982406616211,
+      0.22994649928295985,
+      -0.0006330013275146484
+    ]
+  },
+  {
+    "name": "Proxy_DEC_CEM_Coffin_Wood_Common_Combine_B2.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Cemetery/DEC_CEM_Coffin_Wood_ABC/Resources/Proxy_DEC_CEM_Coffin_Wood_Common_Combine_B2.dae",
+    "size": [
+      1.9461050033569336,
+      0.4231100082397461,
+      0.5841419994831085
+    ],
+    "center_offset": [
+      0.0023984909057617188,
+      0.21155500411987305,
+      -0.010330989956855774
+    ]
+  },
+  {
+    "name": "Proxy_DEC_CEM_Coffin_Wood_Poor_Combine_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Cemetery/DEC_CEM_Coffin_Wood_ABC/Resources/Proxy_DEC_CEM_Coffin_Wood_Poor_Combine_A.dae",
+    "size": [
+      2.0113370418548584,
+      0.2921230011852458,
+      0.6965240240097046
+    ],
+    "center_offset": [
+      0.02450251579284668,
+      0.1469915005727671,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_CEM_Coffin_Wood_Rich_Combine_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Cemetery/DEC_CEM_Coffin_Wood_ABC/Resources/Proxy_DEC_CEM_Coffin_Wood_Rich_Combine_A.dae",
+    "size": [
+      1.9720569849014282,
+      0.42275899805827066,
+      0.6622899770736694
+    ],
+    "center_offset": [
+      -3.516674041748047e-06,
+      0.21192049901583232,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_CEM_Tomb_A_Lid_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Cemetery/Resources/Proxy_DEC_CEM_Tomb_A_Lid_A.dae",
+    "size": [
+      1.3150699734687805,
+      0.37840899273578543,
+      3.05304491519928
+    ],
+    "center_offset": [
+      0.003742009401321411,
+      0.1893364963689237,
+      0.0034494996070861816
+    ]
+  },
+  {
+    "name": "Proxy_DEC_GEN_Cogwheel_Metal_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Generic/DEC_GEN_Cogwheel_Metal_ABC/Resources/Proxy_DEC_GEN_Cogwheel_Metal_A.dae",
+    "size": [
+      9.36843204498291,
+      9.370777130126953,
+      1.161378026008606
+    ],
+    "center_offset": [
+      0.0,
+      4.76837158203125e-07,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_GEN_Cogwheel_Metal_F.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Generic/DEC_GEN_Cogwheel_Metal_ABC/Resources/Proxy_DEC_GEN_Cogwheel_Metal_F.dae",
+    "size": [
+      6.534301996231079,
+      6.528084993362427,
+      0.9615699946880341
+    ],
+    "center_offset": [
+      -1.0728836059570312e-06,
+      -5.960464477539062e-07,
+      -0.00457899272441864
+    ]
+  },
+  {
+    "name": "Proxy_DEC_GEN_Statue_Guard_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Generic/DEC_GEN_Statue_Guard_ABC/Resources/Proxy_DEC_GEN_Statue_Guard_A.dae",
+    "size": [
+      0.988338977098465,
+      3.697124003432691,
+      0.9061009883880615
+    ],
+    "center_offset": [
+      0.0194694846868515,
+      1.8350780014880002,
+      -0.044563502073287964
+    ]
+  },
+  {
+    "name": "Proxy_DEC_GEN_WaterPump_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Generic/DEC_GEN_WaterPump_A/Resources/Proxy_DEC_GEN_WaterPump_A.dae",
+    "size": [
+      0.5394929945468903,
+      2.0902950240124483,
+      0.754068985581398
+    ],
+    "center_offset": [
+      -0.1543004959821701,
+      1.0449685120111099,
+      -0.19854848831892014
+    ]
+  },
+  {
+    "name": "Proxy_DEC_Ketheric_Giant_Forge_Anvil_Chamber_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Ketheric/DEC_Ketheric_Giant_Forge_ABC/Resources/Proxy_DEC_Ketheric_Giant_Forge_Anvil_Chamber_A.dae",
+    "size": [
+      4.3080480098724365,
+      3.0212531089782715,
+      4.015806198120117
+    ],
+    "center_offset": [
+      -0.14612090587615967,
+      1.5106265544891357,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_Ketheric_Giant_Forge_Grill_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Ketheric/DEC_Ketheric_Giant_Forge_ABC/Resources/Proxy_DEC_Ketheric_Giant_Forge_Grill_A.dae",
+    "size": [
+      4.8479859828948975,
+      4.829625908285379,
+      0.18635999411344528
+    ],
+    "center_offset": [
+      0.0023740530014038086,
+      2.432520953938365,
+      -0.0019080005586147308
+    ]
+  },
+  {
+    "name": "Proxy_DEC_Ketheric_Giant_Forge_Hammer_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Ketheric/DEC_Ketheric_Giant_Forge_ABC/Resources/Proxy_DEC_Ketheric_Giant_Forge_Hammer_A.dae",
+    "size": [
+      47.64688491821289,
+      32.17136001586914,
+      9.967911720275879
+    ],
+    "center_offset": [
+      0.0,
+      14.061800003051758,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DEC_Ketheric_Giant_Forge_Platform_Top_CogWheels_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/Ketheric/DEC_Ketheric_Giant_Forge_ABC/Resources/Proxy_DEC_Ketheric_Giant_Forge_Platform_Top_CogWheels_A.dae",
+    "size": [
+      22.481162071228027,
+      16.270219096913934,
+      22.481563568115234
+    ],
+    "center_offset": [
+      -9.059906005859375e-06,
+      -8.108712549321353,
+      1.9073486328125e-06
+    ]
+  },
+  {
+    "name": "Proxy_DEC_MF_Brain_Reading_Device_A_Rigged_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Decoration/MindFlayer/Resources/Proxy_DEC_MF_Brain_Reading_Device_A_Rigged_A.dae",
+    "size": [
+      5.564618110656738,
+      5.333533890545368,
+      2.3092620372772217
+    ],
+    "center_offset": [
+      3.0040740966796875e-05,
+      2.6169659458100796,
+      -0.001304030418395996
+    ]
+  },
+  {
+    "name": "INTERACT_DOOR_Single_Dungeon_Abbey_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Doors/Dungeon/Resources/INTERACT_DOOR_Single_Dungeon_Abbey_B.dae",
+    "size": [
+      2.030103921890259,
+      3.0100531046905417,
+      0.3033539950847626
+    ],
+    "center_offset": [
+      0.0,
+      1.505022552345281,
+      0.11179299652576447
+    ],
+    "uuid": "10d7245b-310c-4d10-9dd7-520b865c8e73"
+  },
+  {
+    "name": "Proxy_DOOR_DoubleBig_Dungeon_Fence_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Doors/Dungeon/Resources/Proxy_DOOR_DoubleBig_Dungeon_Fence_A.dae",
+    "size": [
+      5.999999046325684,
+      5.8285121116787195,
+      0.3569979965686798
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      2.913249055854976,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_DOOR_MF_Nautiloid_Organic_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Doors/Mindflayers/Resources/Proxy_DOOR_MF_Nautiloid_Organic_A.dae",
+    "size": [
+      7.093172073364258,
+      7.254655957221985,
+      0.6615449786186218
+    ],
+    "center_offset": [
+      -0.04405999183654785,
+      2.0921220183372498,
+      0.0073274970054626465
+    ]
+  },
+  {
+    "name": "Proxy_DOOR_DoubleBig_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Doors/Resources/Proxy_DOOR_DoubleBig_A.dae",
+    "size": [
+      5.0,
+      5.005279064178467,
+      0.34294699877500534
+    ],
+    "center_offset": [
+      0.0,
+      2.5026395320892334,
+      0.065225500613451
+    ]
+  },
+  {
+    "name": "Proxy_DOOR_Single_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Doors/Resources/Proxy_DOOR_Single_A.dae",
+    "size": [
+      2.0,
+      3.0000009536743164,
+      0.3377020061016083
+    ],
+    "center_offset": [
+      0.0,
+      1.5000004768371582,
+      0.06000000238418579
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Bookcase_Wood_Rich_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Bookcase_wood_Rich_ABC/Resources/Proxy_FUR_GEN_Bookcase_Wood_Rich_A.dae",
+    "size": [
+      4.148715972900391,
+      3.677159931991582,
+      1.5437480211257935
+    ],
+    "center_offset": [
+      0.0,
+      1.838581965995786,
+      -0.0001310110092163086
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Wardrobe_Wood_Rich_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Desk_Wood_Rich_ABC/Resources/Proxy_FUR_GEN_Wardrobe_Wood_Rich_C.dae",
+    "size": [
+      1.6687470078468323,
+      3.5963769507943653,
+      0.8680899739265442
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      1.7990364753932226,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Wardrobe_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Wardrobe_ABC/Resources/Proxy_FUR_GEN_Wardrobe_A.dae",
+    "size": [
+      1.0000140070915222,
+      2.4063498973846436,
+      1.0010690093040466
+    ],
+    "center_offset": [
+      -1.996755599975586e-06,
+      1.2031749486923218,
+      -6.851553916931152e-05
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Wardrobe_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Wardrobe_ABC/Resources/Proxy_FUR_GEN_Wardrobe_B.dae",
+    "size": [
+      1.6604480147361755,
+      2.4063498973846436,
+      1.000629961490631
+    ],
+    "center_offset": [
+      -1.996755599975586e-06,
+      1.2031749486923218,
+      5.200505256652832e-05
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Wardrobe_C.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Wardrobe_ABC/Resources/Proxy_FUR_GEN_Wardrobe_C.dae",
+    "size": [
+      2.038859009742737,
+      2.406351089477539,
+      1.2967619895935059
+    ],
+    "center_offset": [
+      -5.364418029785156e-07,
+      1.2031755447387695,
+      1.0132789611816406e-06
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Wardrobe_Wood_Poor_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/FUR_GEN_Wardrobe_Wood_Poor_ABC/Resources/Proxy_FUR_GEN_Wardrobe_Wood_Poor_A.dae",
+    "size": [
+      1.4170770049095154,
+      2.5076100826263428,
+      1.0228129625320435
+    ],
+    "center_offset": [
+      0.005767494440078735,
+      1.2538050413131714,
+      -0.035960495471954346
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_2W_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_2W_A.dae",
+    "size": [
+      1.7197999954223633,
+      1.8838779926300049,
+      0.9778569936752319
+    ],
+    "center_offset": [
+      0.0037940144538879395,
+      0.9419389963150024,
+      0.011103510856628418
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_4W_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_4W_A.dae",
+    "size": [
+      3.2049520015716553,
+      1.8914220333099365,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      -0.00359499454498291,
+      0.9457110166549683,
+      0.013802021741867065
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_6W_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/Proxy_FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_6W_A.dae",
+    "size": [
+      4.691984176635742,
+      1.891422027725639,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      0.0018529891967773438,
+      0.9457420138624002,
+      0.013802021741867065
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Closet_Wood_Rich_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/Proxy_FUR_GEN_Closet_Wood_Rich_A.dae",
+    "size": [
+      1.680609941482544,
+      2.884570918045938,
+      0.8632460236549377
+    ],
+    "center_offset": [
+      0.0,
+      1.4383774590678513,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Closet_Wood_Rich_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/Proxy_FUR_GEN_Closet_Wood_Rich_B.dae",
+    "size": [
+      1.5644420385360718,
+      3.7979530477896333,
+      0.9376680254936218
+    ],
+    "center_offset": [
+      0.0,
+      1.9013045239262283,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Desk_Wood_Rich_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/Proxy_FUR_GEN_Desk_Wood_Rich_A.dae",
+    "size": [
+      1.5260520577430725,
+      0.90183698059991,
+      0.816756010055542
+    ],
+    "center_offset": [
+      0.0008639991283416748,
+      0.4504014903213829,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Kitchen_Stove_Iron_5W_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Kitchen_Stove_Iron_ABC/Resources/Proxy_FUR_GEN_Kitchen_Stove_Iron_5W_A.dae",
+    "size": [
+      5.112653017044067,
+      1.21840500831604,
+      1.1092599630355835
+    ],
+    "center_offset": [
+      0.004135489463806152,
+      0.60920250415802,
+      -0.08514899015426636
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Kitchen_Stove_Iron_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Kitchen_Stove_Iron_ABC/Resources/Proxy_FUR_GEN_Kitchen_Stove_Iron_A.dae",
+    "size": [
+      2.0694750547409058,
+      2.716156005859375,
+      1.2928070425987244
+    ],
+    "center_offset": [
+      0.026676476001739502,
+      1.3580780029296875,
+      -0.034400492906570435
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Cabinet_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Wardrobe_ABC/Resources/Proxy_FUR_GEN_Cabinet_A.dae",
+    "size": [
+      1.0034379959106445,
+      1.100000023841858,
+      1.0056670308113098
+    ],
+    "center_offset": [
+      -6.020069122314453e-06,
+      0.550000011920929,
+      0.0025955140590667725
+    ]
+  },
+  {
+    "name": "Proxy_FUR_GEN_Cabinet_B.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Furniture/Generic/FUR_GEN_Wardrobe_ABC/Resources/Proxy_FUR_GEN_Cabinet_B.dae",
+    "size": [
+      1.6604480147361755,
+      1.100000023841858,
+      1.000629961490631
+    ],
+    "center_offset": [
+      9.834766387939453e-07,
+      0.550000011920929,
+      5.200505256652832e-05
+    ]
+  },
+  {
+    "name": "Proxy_LOOT_GEN_Amulet_Lathander_A_Rigged_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Loot/Generic/LOOT_GEN_Amulet_Lathander_ABC/Resources/Proxy_LOOT_GEN_Amulet_Lathander_A_Rigged_A.dae",
+    "size": [
+      0.46309899911284447,
+      0.011999999638646841,
+      0.06431500241160393
+    ],
+    "center_offset": [
+      0.19846549816429615,
+      -0.00037100003100931644,
+      -0.0007844995707273483
+    ]
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Wulbren_A_Hanging_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Loot/Generic/Resources/LOOT_GEN_Amulet_Wulbren_A_Hanging_A.dae",
+    "size": [
+      0.09777399897575378,
+      0.21670899167656898,
+      0.07457300089299679
+    ],
+    "center_offset": [
+      0.002018999308347702,
+      0.06157749705016613,
+      -0.015413501299917698
+    ],
+    "uuid": "1b9f07ee-f3ba-4e95-8949-ce551de3346f"
+  },
+  {
+    "name": "LOOT_Heads_Drow_Nere.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Loot/Heads/Resources/LOOT_Heads_Drow_Nere.dae",
+    "size": [
+      0.21154600381851196,
+      0.3305020034313202,
+      0.275019995868206
+    ],
+    "center_offset": [
+      0.0,
+      0.12904100120067596,
+      -0.020019996911287308
+    ]
+  },
+  {
+    "name": "LOOT_Heads_TieflingStrong_Karlach.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Loot/Heads/Resources/LOOT_Heads_TieflingStrong_Karlach.dae",
+    "size": [
+      0.386370986700058,
+      0.3969389982521534,
+      0.3123349994421005
+    ],
+    "center_offset": [
+      -0.041101500391960144,
+      0.19001649878919125,
+      -0.007073499262332916
+    ]
+  },
+  {
+    "name": "Proxy_CINE_NAT_Coastal_Plant_Bush_Pine_Medium_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Nature/Plants/NAT_Coastal_Plant_Bush_Pine_ABC/Resources/Proxy_CINE_NAT_Coastal_Plant_Bush_Pine_Medium_A.dae",
+    "size": [
+      4.099331855773926,
+      2.418225944042206,
+      3.211392045021057
+    ],
+    "center_offset": [
+      -0.047827959060668945,
+      1.1643699705600739,
+      -0.7408220171928406
+    ]
+  },
+  {
+    "name": "Proxy_CINE_NAT_Plant_Bush_Round_Small_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Nature/Plants/NAT_Plant_Bush_Round_ABC/Resources/Proxy_CINE_NAT_Plant_Bush_Round_Small_A.dae",
+    "size": [
+      2.8522759675979614,
+      1.7091579958796501,
+      2.8183419704437256
+    ],
+    "center_offset": [
+      -0.140500009059906,
+      0.7368499971926212,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Granite_A_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Granite_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Granite_A_Explode.dae",
+    "size": [
+      1.089950978755951,
+      0.25659699738025665,
+      1.251908004283905
+    ],
+    "center_offset": [
+      0.0026945173740386963,
+      0.015220500528812408,
+      -0.005369991064071655
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Granite_A_Explode_Destruct.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Granite_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Granite_A_Explode_Destruct.dae",
+    "size": [
+      1.2671369910240173,
+      0.26352599075471517,
+      1.4138120412826538
+    ],
+    "center_offset": [
+      -0.057774513959884644,
+      0.13160799537581624,
+      -0.02660900354385376
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode.dae",
+    "size": [
+      2.6185500621795654,
+      0.06317000091075897,
+      1.3086940050125122
+    ],
+    "center_offset": [
+      0.004163980484008789,
+      0.004760000854730606,
+      -0.00172501802444458
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode.dae",
+    "size": [
+      3.568337917327881,
+      0.03623600024729967,
+      0.8751400113105774
+    ],
+    "center_offset": [
+      0.0,
+      0.013503999914973974,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode.dae",
+    "size": [
+      1.2812319993972778,
+      0.04821399878710508,
+      1.2834800481796265
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      0.011329999659210443,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode.dae",
+    "size": [
+      1.2812319993972778,
+      0.04821399878710508,
+      1.2834800481796265
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      0.011329999659210443,
+      0.0
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode.dae",
+    "size": [
+      1.3588510155677795,
+      0.04520400054752827,
+      1.3668149709701538
+    ],
+    "center_offset": [
+      0.0019114911556243896,
+      0.008596000261604786,
+      -0.002947509288787842
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/Proxy_PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode.dae",
+    "size": [
+      1.3588510155677795,
+      0.04520400054752827,
+      1.3668149709701538
+    ],
+    "center_offset": [
+      0.0019114911556243896,
+      0.008596000261604786,
+      -0.002947509288787842
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_GEN_Trap_Spikes_Metal_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/Resources/Proxy_PUZ_GEN_Trap_Spikes_Metal_A.dae",
+    "size": [
+      2.203150987625122,
+      0.9147300124168396,
+      2.264353036880493
+    ],
+    "center_offset": [
+      -0.00863349437713623,
+      0.38337400555610657,
+      -0.008149504661560059
+    ]
+  },
+  {
+    "name": "PUZ_GEN_Tied_Ropes_A_Gnome_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Generic/Resources/PUZ_GEN_Tied_Ropes_A_Gnome_A.dae",
+    "size": [
+      0.6092170178890228,
+      0.31901301071047783,
+      0.38663800060749054
+    ],
+    "center_offset": [
+      0.025038495659828186,
+      0.11887150444090366,
+      0.04000600427389145
+    ],
+    "uuid": "c5fa6547-2b19-42a8-9b53-6f4a537e5e3a"
+  },
+  {
+    "name": "Proxy_PUZ_Ketheric_Giant_Forge_Lever_Floor_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Lever_ABC/Resources/Proxy_PUZ_Ketheric_Giant_Forge_Lever_Floor_A.dae",
+    "size": [
+      0.2966899871826172,
+      1.5274090021848679,
+      0.5848639905452728
+    ],
+    "center_offset": [
+      0.0,
+      0.6156494989991188,
+      0.0002980083227157593
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_Ketheric_Giant_Forge_Lever_Wall_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Lever_ABC/Resources/Proxy_PUZ_Ketheric_Giant_Forge_Lever_Wall_A.dae",
+    "size": [
+      0.2635060101747513,
+      0.8059609830379486,
+      0.5319719845429063
+    ],
+    "center_offset": [
+      0.0011890009045600891,
+      -0.09516049921512604,
+      -0.2557019921950996
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_Ketheric_Giant_Forge_Valve_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Valve_A/Resources/Proxy_PUZ_Ketheric_Giant_Forge_Valve_A.dae",
+    "size": [
+      0.9495010077953339,
+      2.0081799030303955,
+      1.7806859612464905
+    ],
+    "center_offset": [
+      0.040869489312171936,
+      1.0040899515151978,
+      -0.008123010396957397
+    ]
+  },
+  {
+    "name": "Proxy_PUZ_Lathander_Barrier_Generator_A_Hinges_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Puzzle/Lathander/PUZ_Lathander_Barrier_Generator_ABC/Resources/Proxy_PUZ_Lathander_Barrier_Generator_A_Hinges_A.dae",
+    "size": [
+      9.50803804397583,
+      0.22819599509239197,
+      9.503428936004639
+    ],
+    "center_offset": [
+      0.02212214469909668,
+      0.3682510107755661,
+      -0.014907598495483398
+    ]
+  },
+  {
+    "name": "Proxy_Simple.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Simple/Resources/Proxy_Simple.dae",
+    "size": [
+      0.600197970867157,
+      1.1932849884033203,
+      0.6072959899902344
+    ],
+    "center_offset": [
+      0.0,
+      0.5966424942016602,
+      0.04017999768257141
+    ]
+  },
+  {
+    "name": "Proxy_TOOL_GEN_Branch_Stake_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Tools/Generic/TOOL_GEN_Branch_Stake_ABC/Resources/Proxy_TOOL_GEN_Branch_Stake_A.dae",
+    "size": [
+      0.06076299771666527,
+      0.05669800180476159,
+      1.1534600257873535
+    ],
+    "center_offset": [
+      0.003868499770760536,
+      0.029433000891003758,
+      -0.008668005466461182
+    ]
+  },
+  {
+    "name": "Proxy_TOOL_GEN_Telescope_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Tools/Generic/TOOL_GEN_Telescope_A/Resources/Proxy_TOOL_GEN_Telescope_A.dae",
+    "size": [
+      0.8907399773597717,
+      1.8450499773025513,
+      1.244998037815094
+    ],
+    "center_offset": [
+      0.0,
+      0.9225249886512756,
+      0.0744830071926117
+    ]
+  },
+  {
+    "name": "Proxy_TOOL_GEN_Tong_A.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Tools/Generic/TOOL_GEN_Tong_ABC/Resources/Proxy_TOOL_GEN_Tong_A.dae",
+    "size": [
+      0.10832899808883667,
+      0.03881399898091331,
+      0.641770988702774
+    ],
+    "center_offset": [
+      0.0014165006577968597,
+      0.01843899951200001,
+      -0.008197501301765442
+    ]
+  },
+  {
+    "name": "TUT_Lab_Brain.dae",
+    "relative_path": "_PROP_ANIM/_Anims/Tutorial/Resources/TUT_Lab_Brain.dae",
+    "size": [
+      0.25425800681114197,
+      0.28879399597644806,
+      0.18084799498319626
+    ],
+    "center_offset": [
+      0.0,
+      -0.07154300063848495,
+      -0.0007099993526935577
+    ]
+  },
+  {
+    "name": "BLD_MF_Nautiloid_ship_A_Vista_B.dae",
+    "relative_path": "_PROP_ANIM/_Models/Buildings/Mindflayers/Resources/BLD_MF_Nautiloid_ship_A_Vista_B.dae",
+    "size": [
+      203.32754516601562,
+      63.75534725189209,
+      110.09716796875
+    ],
+    "center_offset": [
+      26.723007202148438,
+      23.361748218536377,
+      0.0
+    ],
+    "uuid": "1b65481e-2352-4917-8a72-9be87548b5a6"
+  }
+]
