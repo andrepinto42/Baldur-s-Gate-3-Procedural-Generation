@@ -4305,7 +4305,8 @@
       -0.03530949354171753,
       5.200238581048325,
       -0.0024425089359283447
-    ]
+    ],
+    "uuid": "b0d7c7e0-457f-4fce-8823-b168c50b1f2b"
   },
   {
     "name": "DOOR_City_Bhaal_House_Secret_Sliding_A.dae",
@@ -4319,7 +4320,8 @@
       -2.0,
       2.015620892867446,
       0.00014400482177734375
-    ]
+    ],
+    "uuid": "be0379ff-6eba-4fb3-96f4-cb637fdd2273"
   },
   {
     "name": "DOOR_City_Bhaal_House_Secret_Sliding_A_OverlayMaterial.dae",
@@ -4333,7 +4335,8 @@
       -1.7632704973220825,
       2.0170558928512037,
       0.0
-    ]
+    ],
+    "uuid": "a56753c5-0c0e-484f-8d80-9ca4e22cb0a4"
   },
   {
     "name": "DOOR_City_Bhaal_House_Secret_Sliding_B.dae",
@@ -4347,7 +4350,8 @@
       -0.05085396766662598,
       1.499527475447394,
       0.016194507479667664
-    ]
+    ],
+    "uuid": "02a1b856-9c61-4c7f-b59f-462d8001120e"
   },
   {
     "name": "DOOR_City_Bhaal_House_Secret_Sliding_B_Destruct.dae",
@@ -4361,7 +4365,8 @@
       0.06871843338012695,
       0.2904054895043373,
       0.3193870782852173
-    ]
+    ],
+    "uuid": "9b764a83-b48c-4550-a712-f329a6d8cfae"
   },
   {
     "name": "DOOR_City_Bhaal_House_Secret_Sliding_B_Explode.dae",
@@ -4389,7 +4394,8 @@
       -4.798173904418945e-05,
       2.8463274737700885,
       0.14782399497926235
-    ]
+    ],
+    "uuid": "1c0730cc-65d2-4cf2-a8a7-4fb3d53807ed"
   },
   {
     "name": "DOOR_City_House_Secret_Sliding_A.dae",
@@ -4403,7 +4409,8 @@
       0.0059964656829833984,
       1.5172394637484103,
       -0.04749850183725357
-    ]
+    ],
+    "uuid": "a891e318-1742-47ac-92ed-9e1f626bdf35"
   },
   {
     "name": "DOOR_City_House_Secret_Sliding_A_Destruct.dae",
@@ -4417,7 +4424,8 @@
       -0.3909844756126404,
       0.402881495654583,
       -0.20758557319641113
-    ]
+    ],
+    "uuid": "56dcd7bd-6e11-49d4-b746-256658590111"
   },
   {
     "name": "DOOR_City_House_Secret_Sliding_A_Explode.dae",
@@ -4445,7 +4453,8 @@
       -0.11905395984649658,
       2.0012934970702645,
       -0.10010899603366852
-    ]
+    ],
+    "uuid": "2db289b0-bad5-4145-b35a-938ee93ba90e"
   },
   {
     "name": "DOOR_City_Wooden_House_Secret_Sliding_A_Destruct.dae",
@@ -4459,7 +4468,8 @@
       -0.369470477104187,
       0.30687799863517284,
       -0.6615455150604248
-    ]
+    ],
+    "uuid": "37847100-451e-47d1-8eec-633a6235622e"
   },
   {
     "name": "DOOR_City_Wooden_House_Secret_Sliding_A_Explode.dae",
@@ -4487,7 +4497,8 @@
       0.0004456043243408203,
       3.672295032069087,
       -0.5694579780101776
-    ]
+    ],
+    "uuid": "8d0d027d-6c81-4b77-8dfd-fa39fe6efa90"
   },
   {
     "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Left_A.dae",
@@ -4501,7 +4512,8 @@
       1.2014390110271052,
       3.517969546839595,
       -0.5803384855389595
-    ]
+    ],
+    "uuid": "532c5149-fea1-4e09-96fd-e9912196ce3e"
   },
   {
     "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Destroyed_Right_A.dae",
@@ -4515,7 +4527,8 @@
       -1.197017447091639,
       3.5204875469207764,
       -0.48229799419641495
-    ]
+    ],
+    "uuid": "8a64d54b-5d25-49a3-9c31-ed7c627e8942"
   },
   {
     "name": "DOOR_Double_Big_Dungeon_Ketheric_Intricate_Frame_A.dae",
@@ -4529,7 +4542,8 @@
       0.0004456043243408203,
       3.6748130321502686,
       -0.035373494029045105
-    ]
+    ],
+    "uuid": "bd28182d-0b5a-4871-be6c-ef6dafef2f96"
   },
   {
     "name": "DOOR_Double_Big_Dungeon_Moonrise_Absolute_A.dae",
@@ -4543,7 +4557,8 @@
       5.459785461425781e-05,
       3.5667850971221924,
       0.0011779963970184326
-    ]
+    ],
+    "uuid": "f6d67087-2519-4d22-b42d-0344b58e667f"
   },
   {
     "name": "DOOR_SharTemple_Secret_Sliding_A.dae",
@@ -4557,7 +4572,8 @@
       0.01121598482131958,
       2.133214530767873,
       0.012716993689537048
-    ]
+    ],
+    "uuid": "1d37a08a-16d1-4c7a-8e53-3027d4e8ecb0"
   },
   {
     "name": "DOOR_Foundry_Railcart_A.dae",
@@ -4571,7 +4587,8 @@
       -0.0039244890213012695,
       1.9995660000131465,
       0.02985449880361557
-    ]
+    ],
+    "uuid": "d4fbab32-27e8-4a2f-ae41-62a744dab640"
   },
   {
     "name": "DOOR_Double_Slim_City_House_Scenery_A.dae",
@@ -4585,7 +4602,8 @@
       0.0,
       1.9980255133743299,
       0.07183349877595901
-    ]
+    ],
+    "uuid": "ea6633b1-ad46-49f3-868c-b5868683adbd"
   },
   {
     "name": "DOOR_Double_Slim_City_House_Scenery_A_Frameless_Top_A.dae",
@@ -4599,7 +4617,8 @@
       0.0,
       1.4999999768371595,
       0.07234149798750877
-    ]
+    ],
+    "uuid": "2ce32d99-f5ed-4757-9945-f8cde97c40ad"
   },
   {
     "name": "DOOR_HoH_Double_Slim_House_B.dae",
@@ -4613,7 +4632,8 @@
       0.0,
       2.594964957916261,
       0.06709600239992142
-    ]
+    ],
+    "uuid": "21b4c53a-92ae-43d7-8bd9-65378bd926bc"
   },
   {
     "name": "DOOR_HoH_Double_Slim_House_B_Destruct.dae",
@@ -4627,7 +4647,8 @@
       -0.349235475063324,
       2.5915576168335974,
       -1.194424957036972
-    ]
+    ],
+    "uuid": "148f2b80-6c37-45c2-89df-cb949a16e37e"
   },
   {
     "name": "DOOR_HoH_Double_Slim_House_B_Explode.dae",
@@ -4669,7 +4690,8 @@
       0.0,
       0.0654119998216629,
       -0.08082500100135803
-    ]
+    ],
+    "uuid": "c61079ac-a680-4479-8ec2-44bf70dc6b73"
   },
   {
     "name": "DOOR_WyrmsWay_Dragon_A.dae",
@@ -4683,7 +4705,8 @@
       -4.744529724121094e-05,
       3.564261025749147,
       -0.018607497215270996
-    ]
+    ],
+    "uuid": "c6807b5a-d75d-46dd-b7d3-ec3c3fb40242"
   },
   {
     "name": "DOOR_GEN_Safe_Big_Metal_A.dae",
@@ -4697,7 +4720,8 @@
       -0.00014448165893554688,
       1.4999994998797774,
       -0.0032095015048980713
-    ]
+    ],
+    "uuid": "5a9dc2b3-0361-43bf-ad50-d4b6da96b92b"
   },
   {
     "name": "DOOR_GEN_Safe_Big_Metal_A_Ornate_A.dae",
@@ -4711,7 +4735,8 @@
       -5.0961971282958984e-05,
       1.4999994998797774,
       -0.0010135024785995483
-    ]
+    ],
+    "uuid": "656e150a-b1ed-48e4-9c8b-33c118b41e4c"
   },
   {
     "name": "DOOR_GEN_Safe_Big_Round_Ornate_A.dae",
@@ -4725,7 +4750,8 @@
       7.051229476928711e-05,
       1.6903094567824155,
       -0.09733200073242188
-    ]
+    ],
+    "uuid": "387ea9f4-78b9-44af-a788-c2be70914871"
   },
   {
     "name": "DOOR_GEN_Safe_Medium_Metal_A.dae",
@@ -4739,7 +4765,8 @@
       -0.00019299983978271484,
       1.4999994998797774,
       -0.0010139942169189453
-    ]
+    ],
+    "uuid": "6de990ea-8c87-44e3-a21b-8cab97beead1"
   },
   {
     "name": "DOOR_GEN_Safe_Medium_Metal_A_Ornate_A.dae",
@@ -4753,7 +4780,8 @@
       -6.598234176635742e-05,
       1.4999994998797774,
       -0.0010139942169189453
-    ]
+    ],
+    "uuid": "498dcd9b-f52b-4db6-930e-7de2ea8f5b05"
   },
   {
     "name": "DOOR_GEN_Tavern_Barrel_Wine_Door_A.dae",
@@ -4809,7 +4837,8 @@
       0.0,
       1.5000004999999987,
       0.027398496866226196
-    ]
+    ],
+    "uuid": "430c84c4-cf9e-466f-aa33-e08d9cd2eb68"
   },
   {
     "name": "DOOR_Double_Medium_Glasshouse_A_Destruct.dae",
@@ -4823,7 +4852,8 @@
       -0.42266201972961426,
       1.4917909996584058,
       -1.4700626134872437
-    ]
+    ],
+    "uuid": "c4b2b6a3-5dd5-4cd0-8e9f-8de8010b6d3b"
   },
   {
     "name": "DOOR_Double_Medium_Glasshouse_A_Explode.dae",
@@ -4851,7 +4881,8 @@
       0.0,
       1.5000004999999987,
       0.016402006149291992
-    ]
+    ],
+    "uuid": "7f6364c4-d0c2-4982-80cc-188a5848eb7d"
   },
   {
     "name": "DOOR_Double_Medium_Glasshouse_A_Open_Explode.dae",
@@ -4879,7 +4910,8 @@
       0.0,
       1.5000004999999987,
       0.010559000074863434
-    ]
+    ],
+    "uuid": "107bc93b-1a4f-4a8b-865a-369e0f4d7fa8"
   },
   {
     "name": "DOOR_Double_Medium_Glasshouse_B_Destruct.dae",
@@ -4893,7 +4925,8 @@
       0.15631544589996338,
       1.4994290000176989,
       -1.5727920234203339
-    ]
+    ],
+    "uuid": "d84b96b0-a3f1-4bdc-a4bb-26c16808129f"
   },
   {
     "name": "DOOR_Double_Medium_Glasshouse_B_Explode.dae",
@@ -4935,7 +4968,8 @@
       5.364418029785156e-07,
       0.16896549332886934,
       0.14604145288467407
-    ]
+    ],
+    "uuid": "0e4666ea-4e6d-42a7-bcba-1ba9a6705efb"
   },
   {
     "name": "DOOR_Glasshouse_Hatch_Bronze_Frame_A.dae",
@@ -4949,7 +4983,8 @@
       0.0,
       0.06487999856472015,
       -0.06155252456665039
-    ]
+    ],
+    "uuid": "02a3a54f-dc9a-4d91-941a-1bc2e6904e71"
   },
   {
     "name": "DOOR_Round_Big_Glasshouse_A.dae",
@@ -4963,7 +4998,8 @@
       0.1405395269393921,
       3.000186540186405,
       0.12923100590705872
-    ]
+    ],
+    "uuid": "0efd29bf-44d6-4e89-b542-cbaab4057c24"
   },
   {
     "name": "DOOR_Single_Glasshouse_A.dae",
@@ -4977,7 +5013,8 @@
       0.0,
       1.5000004999999987,
       0.026419997215270996
-    ]
+    ],
+    "uuid": "9b725ce2-c979-4477-bfc3-5847885371cb"
   },
   {
     "name": "DOOR_Single_Glasshouse_A_Destruct.dae",
@@ -4991,7 +5028,8 @@
       -0.07001948356628418,
       1.4917470002546906,
       -1.8640759885311127
-    ]
+    ],
+    "uuid": "e2f55a3f-1902-4411-a788-30dfff7abce4"
   },
   {
     "name": "DOOR_Single_Glasshouse_A_Explode.dae",
@@ -5019,7 +5057,8 @@
       0.0,
       1.5000004999999987,
       0.016594506800174713
-    ]
+    ],
+    "uuid": "af4e5980-94f9-43d4-8508-fa7f1e8274c2"
   },
   {
     "name": "DOOR_Single_Glasshouse_A_Open_Explode.dae",
@@ -5047,7 +5086,8 @@
       0.0,
       1.5000004999999987,
       -0.013576500117778778
-    ]
+    ],
+    "uuid": "52791c21-4085-44a0-b723-8adf80ad9047"
   },
   {
     "name": "DOOR_Single_Glasshouse_B_Destruct.dae",
@@ -5061,7 +5101,8 @@
       1.2603334784507751,
       1.4918219996616244,
       0.3179284334182739
-    ]
+    ],
+    "uuid": "de3d6618-2f39-4d73-9c4a-2c3d48b2ad6c"
   },
   {
     "name": "DOOR_Single_Glasshouse_B_Explode.dae",
@@ -5117,7 +5158,8 @@
       0.0,
       1.5078330039978027,
       0.06500250473618507
-    ]
+    ],
+    "uuid": "cd9b0425-00bc-4ad5-9a0e-a5061758ccdc"
   },
   {
     "name": "DOOR_Harbor_House_Secret_Sliding_A.dae",
@@ -5131,7 +5173,8 @@
       -0.008805513381958008,
       2.0004025418311357,
       -0.0014629960060119629
-    ]
+    ],
+    "uuid": "f3433687-d620-4c5e-98c2-720dd78c80bb"
   },
   {
     "name": "DOOR_Harbor_House_Secret_Sliding_B.dae",
@@ -5145,7 +5188,8 @@
       -0.004047036170959473,
       2.030075402930379,
       -0.002047494053840637
-    ]
+    ],
+    "uuid": "bdff1cd7-65b8-4459-a41c-9ad937723649"
   },
   {
     "name": "DOOR_Harbor_House_Secret_Sliding_C.dae",
@@ -5159,7 +5203,8 @@
       -0.03637152910232544,
       2.014137029647827,
       -0.2068485056515783
-    ]
+    ],
+    "uuid": "9a6d6ae6-9b4a-4b29-95c9-1847e2f34612"
   },
   {
     "name": "DOOR_HoH_Fence_A_Door.dae",
@@ -5173,7 +5218,8 @@
       0.0,
       2.2596895694732666,
       0.0
-    ]
+    ],
+    "uuid": "9a2bc1a1-8989-4be9-b6b4-50aaa7bbab56"
   },
   {
     "name": "DOOR_Lathander_Door_Double_Big_A.dae",
@@ -5187,7 +5233,8 @@
       -4.76837158203125e-07,
       3.580518938601017,
       0.0004709959030151367
-    ]
+    ],
+    "uuid": "92f994a9-331a-4efe-96a7-309badac7ffb"
   },
   {
     "name": "DOOR_Single_Lathander_Grating_A.dae",
@@ -5201,7 +5248,8 @@
       1.049041748046875e-05,
       1.96465003490448,
       0.08658699877560139
-    ]
+    ],
+    "uuid": "cdbaf4d5-aed0-4522-b6b8-50d9b1130a90"
   },
   {
     "name": "DOOR_Single_Lathander_Grating_A_Destruct.dae",
@@ -5215,7 +5263,8 @@
       1.049041748046875e-05,
       1.961377034895122,
       0.7693299651145935
-    ]
+    ],
+    "uuid": "4dc23be2-7501-452d-a7a9-f963b6e2aae1"
   },
   {
     "name": "DOOR_Single_Lathander_Grating_A_Explode.dae",
@@ -5257,7 +5306,8 @@
       -0.002532958984375,
       1.9929259810596704,
       -0.00010600686073303223
-    ]
+    ],
+    "uuid": "01b94d46-9afb-454f-8e08-3b7fcfee0f78"
   },
   {
     "name": "DOOR_Temple_House_Secret_Sliding_B.dae",
@@ -5271,7 +5321,8 @@
       -0.004643499851226807,
       1.992971995845437,
       -0.005089506506919861
-    ]
+    ],
+    "uuid": "323e7a74-3781-4cbc-b79e-dcf66d81bc0a"
   },
   {
     "name": "Helper_Invisible_Door_C.dae",
@@ -5299,7 +5350,8 @@
       0.0,
       1.5,
       0.0
-    ]
+    ],
+    "uuid": "30d54598-b346-4032-9b69-dd8b950642ce"
   },
   {
     "name": "Helper_Invisible_Door_E.dae",
@@ -5313,6 +5365,7 @@
       0.0,
       1.5,
       0.0
-    ]
+    ],
+    "uuid": "f9f677be-e7e2-4492-a0d6-18e4340c070e"
   }
 ]

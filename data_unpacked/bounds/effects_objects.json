@@ -9362,7 +9362,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "bf2588e5-b828-41fb-a91b-8b8e1b00f1ff"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_02.dae",
@@ -9376,7 +9377,8 @@
       -0.11089003086090088,
       0.0,
       0.1521010398864746
-    ]
+    ],
+    "uuid": "18184a7e-f474-401a-b339-0077e67e696b"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_03.dae",
@@ -9390,7 +9392,8 @@
       -4.76837158203125e-07,
       0.0,
       -5.066394805908203e-07
-    ]
+    ],
+    "uuid": "f7ede886-c087-43e3-85b8-f059f1774950"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_04.dae",
@@ -9404,7 +9407,8 @@
       -0.8949010372161865,
       0.0,
       1.3805735111236572
-    ]
+    ],
+    "uuid": "207c669e-8591-431e-bc13-4f41d6ab2cba"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_05.dae",
@@ -9418,7 +9422,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "0a07131e-7b55-49e0-89d7-6595c6ad3f70"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_06.dae",
@@ -9432,7 +9437,8 @@
       0.2587834596633911,
       0.0,
       0.8382925987243652
-    ]
+    ],
+    "uuid": "5bccf724-b3a8-496c-b134-a6f56ccc7a6e"
   },
   {
     "name": "VFX_Static_Cazador_Fight_GlowingGrating_Helper_07.dae",
@@ -9446,7 +9452,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "0c798ed3-58b2-4fa0-8a6b-dbdd54bee351"
   },
   {
     "name": "VFX_Static_Curve_DRIDER_DFLT_CMBT_Melee_RHand_01.dae",
@@ -9782,7 +9789,8 @@
       0.7088689804077148,
       0.35854648891836405,
       -0.07127398252487183
-    ]
+    ],
+    "uuid": "0459eacd-9663-4366-bfc8-e6618bf9128a"
   },
   {
     "name": "VFX_Static_Monk_Ice_Cube_1x1x1_01_Explode.dae",
@@ -9992,7 +10000,8 @@
       0.18141698837280273,
       1.9650510177016258,
       -0.16089698672294617
-    ]
+    ],
+    "uuid": "90a169d6-c84f-4df7-8d10-a58553f2d8e8"
   },
   {
     "name": "VFX_Static_Wall_Spell_Blade_A_HighMiddle_A.dae",
@@ -10006,7 +10015,8 @@
       0.030634015798568726,
       2.112068437039852,
       -0.12327650189399719
-    ]
+    ],
+    "uuid": "4e8161b9-6483-4600-9c40-2c3e246fd6fb"
   },
   {
     "name": "VFX_Static_Wall_Spell_Blade_A_HighRight_A.dae",
@@ -10020,7 +10030,8 @@
       0.2504985183477402,
       1.9728685170412064,
       -0.08031100034713745
-    ]
+    ],
+    "uuid": "dbdb72e8-46fb-46bd-804a-2930b73a524e"
   },
   {
     "name": "VFX_Static_Wall_Spell_Blade_A_LowLeft_A.dae",
@@ -10034,7 +10045,8 @@
       -0.06321200728416443,
       1.5170379802584648,
       -0.024511992931365967
-    ]
+    ],
+    "uuid": "6ed10f20-5719-4acb-b73d-6b78c9673f4b"
   },
   {
     "name": "VFX_Static_Wall_Spell_Blade_A_LowMiddle_A.dae",
@@ -10048,7 +10060,8 @@
       0.030634015798568726,
       1.2975855022668839,
       -0.10009598731994629
-    ]
+    ],
+    "uuid": "09d90551-8045-4c85-a520-226564558030"
   },
   {
     "name": "VFX_Static_Wall_Spell_Blade_A_LowRight_A.dae",
@@ -10062,7 +10075,8 @@
       0.013788014650344849,
       1.5250044912099838,
       0.18535101413726807
-    ]
+    ],
+    "uuid": "eebcfde7-34c3-4932-a4f7-3cc868b1628e"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_HighLeft_A.dae",
@@ -10076,7 +10090,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "bbe22243-6a91-497f-9960-5b909c4cafe2"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_HighMiddle_A.dae",
@@ -10090,7 +10105,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "2c87b39b-bcd9-477f-ba17-81c4f129a658"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_HighRight_A.dae",
@@ -10104,7 +10120,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "fd9a3f71-d550-48d1-8bcf-fda018f0d4c8"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_LowLeft_A.dae",
@@ -10118,7 +10135,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "75b72a6b-2424-43c2-b297-e143bfe008fe"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_LowMiddle_A.dae",
@@ -10132,7 +10150,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "b6027e05-f141-441c-a944-1869bc8d7e7e"
   },
   {
     "name": "VFX_Static_Wall_Spell_Fire_A_LowRight_A.dae",
@@ -10146,7 +10165,8 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "uuid": "55979af9-4ce7-47cd-9337-bdae6b9d989c"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_HighLeft_A.dae",
@@ -10160,7 +10180,8 @@
       0.026715487241744995,
       1.4908189624547958,
       0.054826974868774414
-    ]
+    ],
+    "uuid": "09283999-492f-45b4-a987-9c50d0eb8b9c"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_HighLeft_A_Explode.dae",
@@ -10188,7 +10209,8 @@
       0.0005330145359039307,
       1.49966499209404,
       0.018093496561050415
-    ]
+    ],
+    "uuid": "990af72b-0a7b-47f0-aaf7-b08de31a8dfb"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_HighMiddle_A_Explode.dae",
@@ -10216,7 +10238,8 @@
       0.003345996141433716,
       1.3852959796786308,
       0.002986997365951538
-    ]
+    ],
+    "uuid": "b2d5acc4-bdec-400a-b388-95037dabf912"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_HighRight_A_Explode.dae",
@@ -10244,7 +10267,8 @@
       0.02589249610900879,
       0.9095474779605865,
       0.01987701654434204
-    ]
+    ],
+    "uuid": "c47df00f-e9a6-4222-960c-38267c6d587e"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_LowLeft_A_Explode.dae",
@@ -10272,7 +10296,8 @@
       0.019987493753433228,
       1.0920474827289581,
       0.004896998405456543
-    ]
+    ],
+    "uuid": "5384421e-6031-4ae7-aec9-dc85e349e840"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_LowMiddle_A_Explode.dae",
@@ -10300,7 +10325,8 @@
       0.06269100308418274,
       0.9643705189228058,
       0.11296850442886353
-    ]
+    ],
+    "uuid": "8bfee90c-a1bb-4d58-ae7c-9a106bdc6e77"
   },
   {
     "name": "VFX_Static_Wall_Spell_Ice_A_LowRight_A_Explode.dae",
@@ -10328,7 +10354,8 @@
       -0.0031319856643676758,
       1.4961674585938454,
       -0.09765398502349854
-    ]
+    ],
+    "uuid": "12daecf2-d13f-4b61-ae70-728336c6c7dd"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_HighLeft_A_Explode.dae",
@@ -10356,7 +10383,8 @@
       -0.006592482328414917,
       1.6982299499213696,
       -0.24618399143218994
-    ]
+    ],
+    "uuid": "8dd86988-275e-4fc1-8aa0-8cd312b425a7"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_HighMiddle_A_Explode.dae",
@@ -10384,7 +10412,8 @@
       0.0021529793739318848,
       1.6165570430457592,
       -0.13569049537181854
-    ]
+    ],
+    "uuid": "85fdc495-3d38-4514-9452-00fba79ade93"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_HighRight_A_Explode.dae",
@@ -10412,7 +10441,8 @@
       -0.06651899218559265,
       0.7154310047626495,
       0.04818600416183472
-    ]
+    ],
+    "uuid": "64989fe4-88bf-414d-b457-aa64ce7b2382"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_LowLeft_A_Explode.dae",
@@ -10440,7 +10470,8 @@
       -0.006592988967895508,
       0.9228189885616302,
       -0.05003000795841217
-    ]
+    ],
+    "uuid": "92ace281-af3a-46e5-bf8c-5caddaef8402"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_LowMiddle_A_Explode.dae",
@@ -10468,7 +10499,8 @@
       0.07854951918125153,
       0.83034548163414,
       -0.14457948505878448
-    ]
+    ],
+    "uuid": "7fd526c6-61a0-48c9-8890-724713e3afce"
   },
   {
     "name": "VFX_Static_Wall_Spell_Stone_A_LowRight_A_Explode.dae",
@@ -10496,7 +10528,8 @@
       -0.16588348150253296,
       1.7647315189242363,
       0.11090898513793945
-    ]
+    ],
+    "uuid": "44295329-00c6-463f-a30e-55e9609ae29c"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_HighMiddle_A.dae",
@@ -10510,7 +10543,8 @@
       0.2714790105819702,
       1.7493255138397217,
       -0.049860477447509766
-    ]
+    ],
+    "uuid": "4936d798-e22b-41df-af85-35f646d396de"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_HighMiddle_B.dae",
@@ -10524,7 +10558,8 @@
       -0.27147847414016724,
       1.7574320137500763,
       0.05004298686981201
-    ]
+    ],
+    "uuid": "70c00f08-192f-467a-92e0-81ab3823e24a"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_HighRight_A.dae",
@@ -10538,7 +10573,8 @@
       0.3011665344238281,
       1.4665760211646557,
       0.201433002948761
-    ]
+    ],
+    "uuid": "9b4299f5-df81-4ec4-87ed-c66549be4e74"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_LowLeft_A.dae",
@@ -10552,7 +10588,8 @@
       0.1614215075969696,
       1.065599549561739,
       0.00833350419998169
-    ]
+    ],
+    "uuid": "f2fe4566-9f82-49e3-bf72-4e2d62be100b"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_LowMiddle_A.dae",
@@ -10566,7 +10603,8 @@
       -0.2525255084037781,
       1.2093004770576954,
       -0.07742351293563843
-    ]
+    ],
+    "uuid": "74a103d6-9cac-461a-a145-b7b9bbd7698d"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_LowMiddle_B.dae",
@@ -10580,7 +10618,8 @@
       0.24231001734733582,
       1.2093004770576954,
       0.07736402750015259
-    ]
+    ],
+    "uuid": "5c4c7326-91ce-4ef8-b8ff-a3f8fae7dfaa"
   },
   {
     "name": "VFX_Static_Wall_Spell_Thorn_A_LowRight_A.dae",
@@ -10594,7 +10633,8 @@
       -0.09217900037765503,
       1.065599549561739,
       -0.01802000403404236
-    ]
+    ],
+    "uuid": "f24f3296-2df2-479b-8799-9e06b0211b3c"
   },
   {
     "name": "VFX_VAT_RBD_Ansur_Ressurection_01.dae",

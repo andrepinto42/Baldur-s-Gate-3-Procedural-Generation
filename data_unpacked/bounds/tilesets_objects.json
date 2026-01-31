@@ -48777,7 +48777,8 @@
       -4.316568970680237,
       2.2541335416026413,
       0.000464022159576416
-    ]
+    ],
+    "uuid": "81a3cdc2-c4d2-4eef-bab2-27888f90942e"
   },
   {
     "name": "WALL_City_Castlewall_Arch_A_2D_6H_8W_S_Piece_C.dae",
@@ -49799,7 +49800,8 @@
       4.76837158203125e-07,
       4.000000476837158,
       -0.0735349953174591
-    ]
+    ],
+    "uuid": "e3c9549f-8b44-4fe3-bd7d-d67df2732a55"
   },
   {
     "name": "WALL_City_Castlewall_Trim_A_0n25D_0n25H_1W_E_Piece_A.dae",
@@ -59571,7 +59573,8 @@
       0.0,
       1.0961439609527588,
       0.0034234998747706413
-    ]
+    ],
+    "uuid": "b15cfc89-cc4f-4787-8296-ead1ebd8da80"
   },
   {
     "name": "WALL_Dungeon_Fence_Ornamented_Iron_A_5H_1W_L_Piece_135_A.dae",
@@ -62147,7 +62150,8 @@
       0.08240008354187012,
       0.0,
       -0.39560797810554504
-    ]
+    ],
+    "uuid": "0322c5ca-3c36-4150-a107-c16a114e63b0"
   },
   {
     "name": "BLD_Dungeon_Temple_Ramazith_Balcony_Trim_B.dae",
@@ -62161,7 +62165,8 @@
       0.10077047348022461,
       0.0,
       -0.5243334770202637
-    ]
+    ],
+    "uuid": "53819e12-e5b0-4eb1-bd17-b877f8cc964d"
   },
   {
     "name": "BLD_Dungeon_Temple_Ramazith_Balustrade_A.dae",
@@ -62175,7 +62180,8 @@
       6.506740033626556,
       0.6037125196307898,
       -28.79345417022705
-    ]
+    ],
+    "uuid": "5b3d0c65-08cf-41fc-8393-2ac7cec0413b"
   },
   {
     "name": "BLD_Dungeon_Temple_Ramazith_Balustrade_B.dae",
@@ -62189,7 +62195,8 @@
       6.517922133207321,
       1.0194914937019348,
       -28.791831970214844
-    ]
+    ],
+    "uuid": "0c3a5cb0-6041-4faa-80f9-a7b4ef17f612"
   },
   {
     "name": "BLD_Dungeon_Temple_Ramazith_Roof_A.dae",
@@ -62203,7 +62210,8 @@
       0.0044231414794921875,
       2.3476245775818825,
       -0.9025678634643555
-    ]
+    ],
+    "uuid": "0680518c-6eaa-4210-996b-c92ac5783925"
   },
   {
     "name": "BLD_Dungeon_Temple_Ramazith_Roof_B.dae",
@@ -62217,7 +62225,8 @@
       -0.0006961822509765625,
       1.9747560024261475,
       0.16019630432128906
-    ]
+    ],
+    "uuid": "f94818e0-7a8f-4571-b040-2b16f2ee90e8"
   },
   {
     "name": "BLD_Dungeon_Temple_Roof_Ornament_A.dae",
@@ -62231,7 +62240,8 @@
       -1.0841525495052338,
       5.1862013302743435,
       0.0
-    ]
+    ],
+    "uuid": "99fa762e-c4dd-4bbc-9802-2476c6cf0570"
   },
   {
     "name": "WALL_Dungeon_Temple_Roof_B_6D_8H_1W_E_Piece_C.dae",

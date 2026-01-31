@@ -68,22 +68,23 @@ for bounds_file in os.listdir(BOUNDS_DIR):
     
     for obj in objects:
         name = str(obj.get("name")).replace(".dae", "")
-
-        if name in output_dict:
-            uuid = output_dict[name]
-            print(f"Found it: {name} -> {uuid}")
+        obj["name"] = name
+        # if name in output_dict:
+        #     uuid = output_dict[name]
+        #     print(f"Found it: {name} -> {uuid}")
             
-            # INSERT YOUR NEW DATA HERE
-            obj["uuid"] = uuid  # Example: add the UUID to the bounds object
-            # Or add other fields:
-            # obj["matched"] = True
-            # obj["output_uuid"] = uuid
+        #     # INSERT YOUR NEW DATA HERE
+        #     obj["uuid"] = uuid  # Example: add the UUID to the bounds object
+        #     # Or add other fields:
+        #     # obj["matched"] = True
+        #     # obj["output_uuid"] = uuid
             
-            modified = True
+        #     modified = True
+    modified = True
     
     # Save the bounds file if it was modified
     if modified:
         save_json(bounds_path, bounds_data)
-        print(f"✅ Saved {bounds_file}")
+        print(f"✅ Saved {bounds_data}")
 
 print("\n✅ All bounds files updated!")
