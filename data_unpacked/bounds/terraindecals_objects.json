@@ -1,6 +1,6 @@
 [
   {
-    "name": "TD_Plane_4m_A.dae",
+    "name": "TD_Plane_4m_A",
     "relative_path": "TerrainDecals/Resources/TD_Plane_4m_A.dae",
     "size": [
       4.0,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_A_16m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_A_16m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_16m_A.dae",
     "size": [
       16.0,
@@ -29,7 +29,7 @@
     "uuid": "e3441da1-539a-47d8-afeb-8216502da994"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_A_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_A_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -44,7 +44,7 @@
     "uuid": "0137c068-d160-43bb-8450-182763bf37b4"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_A_Corner_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_A_Corner_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_A_Corner_A.dae",
     "size": [
       1.629922013846226,
@@ -59,7 +59,7 @@
     "uuid": "09c7b7ac-1149-42d4-b1ea-7c82d9684e8d"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_B_16m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_B_16m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_16m_A.dae",
     "size": [
       15.99999713897705,
@@ -74,7 +74,7 @@
     "uuid": "8298d0ab-d62b-4331-920a-d28e230ea94b"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_B_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_B_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -89,7 +89,7 @@
     "uuid": "6b565aee-a113-4969-80cb-d85bd8e9cc8f"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_B_Corner_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_B_Corner_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_Corner_A.dae",
     "size": [
       2.1784439086914062,
@@ -104,7 +104,7 @@
     "uuid": "3446ce13-fdaf-4d88-988a-a89eaf6e36e4"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_B_Corner_B.dae",
+    "name": "TD_Dungeon_Marble_Trim_B_Corner_B",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_B_Corner_B.dae",
     "size": [
       0.7098259925842285,
@@ -119,7 +119,7 @@
     "uuid": "efa640dc-3e28-4db2-a7a3-c9a5f20526ab"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_C_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_C_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_C_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -134,7 +134,7 @@
     "uuid": "8d1f303d-5bb8-485f-9eb8-b9ed24101010"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_D_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_D_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_D_8m_A.dae",
     "size": [
       8.0,
@@ -149,7 +149,7 @@
     "uuid": "07d149be-e9d3-4eba-bb2a-82da33ed5771"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_E_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_E_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_E_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -164,7 +164,7 @@
     "uuid": "9a2dfdab-c8b9-4e16-acaa-ec8cb2b485e2"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_F_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_F_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_F_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -179,7 +179,7 @@
     "uuid": "7962528c-819d-410f-bfde-2a82cdb77860"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_G_8m_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_G_8m_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_G_8m_A.dae",
     "size": [
       7.999999046325684,
@@ -194,7 +194,7 @@
     "uuid": "13c93a39-46d3-4118-8cfd-7a22bfa01dad"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_Tile_A.dae",
+    "name": "TD_Dungeon_Marble_Trim_Tile_A",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_Tile_A.dae",
     "size": [
       1.3692480325698853,
@@ -209,7 +209,7 @@
     "uuid": "5d296afa-eb34-4384-81ca-546011024583"
   },
   {
-    "name": "TD_Dungeon_Marble_Trim_Tile_B.dae",
+    "name": "TD_Dungeon_Marble_Trim_Tile_B",
     "relative_path": "TerrainDecals/TD_Dungeon_Marble_Trim_ABC/Resources/TD_Dungeon_Marble_Trim_Tile_B.dae",
     "size": [
       2.7317090034484863,
@@ -224,7 +224,7 @@
     "uuid": "6d0e964c-3200-4cf1-9e09-d2ec0ac54ad2"
   },
   {
-    "name": "TD_Plane_4m_B.dae",
+    "name": "TD_Plane_4m_B",
     "relative_path": "TerrainDecals/Resources/TD_Plane_4m_B.dae",
     "size": [
       4.198998928070068,
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "name": "TD_HoH_Marble_Map_18m_A.dae",
+    "name": "TD_HoH_Marble_Map_18m_A",
     "relative_path": "TerrainDecals/TD_HoH_Marble_Map_ABC/Resources/TD_HoH_Marble_Map_18m_A.dae",
     "size": [
       18.0,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "name": "TD_HoH_Platform_Marble_A.dae",
+    "name": "TD_HoH_Platform_Marble_A",
     "relative_path": "TerrainDecals/TD_HoH_Platform_Marble_ABC/Resources/TD_HoH_Platform_Marble_A.dae",
     "size": [
       2.0,
@@ -267,7 +267,7 @@
     "uuid": "7576ae96-ab20-4069-bf97-665e1942b0fe"
   },
   {
-    "name": "TD_HoH_Temple_Trim_A_A_2W_A.dae",
+    "name": "TD_HoH_Temple_Trim_A_A_2W_A",
     "relative_path": "TerrainDecals/TD_HoH_Temple_Trim_ABC/Resources/TD_HoH_Temple_Trim_A_A_2W_A.dae",
     "size": [
       2.0,
@@ -282,7 +282,7 @@
     "uuid": "42df8a95-e195-4079-8d3f-a650510e35c5"
   },
   {
-    "name": "TD_HoH_Temple_Trim_A_A_4W_A.dae",
+    "name": "TD_HoH_Temple_Trim_A_A_4W_A",
     "relative_path": "TerrainDecals/TD_HoH_Temple_Trim_ABC/Resources/TD_HoH_Temple_Trim_A_A_4W_A.dae",
     "size": [
       4.0,
@@ -297,7 +297,7 @@
     "uuid": "6e43c158-840c-4ec2-a62b-dd7d77a50537"
   },
   {
-    "name": "TD_HoH_Temple_Trim_A_A_8W_A.dae",
+    "name": "TD_HoH_Temple_Trim_A_A_8W_A",
     "relative_path": "TerrainDecals/TD_HoH_Temple_Trim_ABC/Resources/TD_HoH_Temple_Trim_A_A_8W_A.dae",
     "size": [
       8.0,
@@ -312,7 +312,7 @@
     "uuid": "f6b650ca-ce3c-408d-8e9a-7e70c7644c3d"
   },
   {
-    "name": "TD_HoH_Temple_Trim_A_A_Corner_A.dae",
+    "name": "TD_HoH_Temple_Trim_A_A_Corner_A",
     "relative_path": "TerrainDecals/TD_HoH_Temple_Trim_ABC/Resources/TD_HoH_Temple_Trim_A_A_Corner_A.dae",
     "size": [
       1.0,

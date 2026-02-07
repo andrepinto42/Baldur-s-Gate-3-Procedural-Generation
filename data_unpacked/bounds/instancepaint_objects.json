@@ -1,6 +1,6 @@
 [
   {
-    "name": "IP_Dungeon_SharTemple_Tiles_Broken_A.dae",
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_A",
     "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_A.dae",
     "size": [
       0.2862139940261841,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "IP_Dungeon_SharTemple_Tiles_Broken_B.dae",
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_B",
     "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_B.dae",
     "size": [
       0.23999899625778198,
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "name": "IP_Dungeon_SharTemple_Tiles_Broken_C.dae",
+    "name": "IP_Dungeon_SharTemple_Tiles_Broken_C",
     "relative_path": "InstancePaint/IP_Dungeon_SharTemple_Tiles_Broken_ABC/Resources/IP_Dungeon_SharTemple_Tiles_Broken_C.dae",
     "size": [
       0.1458199992775917,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_A.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_A",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_A.dae",
     "size": [
       0.16583600267767906,
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_B.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_B",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_B.dae",
     "size": [
       0.16537100076675415,
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_C.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Bottle_C",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Bottle_C.dae",
     "size": [
       0.11999800056219101,
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_A.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_A",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_A.dae",
     "size": [
       0.18523699790239334,
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_B.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_B",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_B.dae",
     "size": [
       0.16089700162410736,
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_C.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_C",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_C.dae",
     "size": [
       0.18928200006484985,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_D.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Food_D",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Food_D.dae",
     "size": [
       0.44513899087905884,
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "name": "IP_GEN_Junk_Trash_Garbage_A_Plank_A.dae",
+    "name": "IP_GEN_Junk_Trash_Garbage_A_Plank_A",
     "relative_path": "InstancePaint/IP_GEN_Junk_Trash_Garbage_ABC/Resources/IP_GEN_Junk_Trash_Garbage_A_Plank_A.dae",
     "size": [
       0.24418799579143524,

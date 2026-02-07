@@ -1,6 +1,6 @@
 [
   {
-    "name": "REF_Primitives_Cube_2n5x2n5x2n5.dae",
+    "name": "REF_Primitives_Cube_2n5x2n5x2n5",
     "relative_path": "_Reference/REF_Primitives_Cube_2n5x2n5x2n5.dae",
     "size": [
       2.5,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "REF_BOOK_Book_A.dae",
+    "name": "REF_BOOK_Book_A",
     "relative_path": "_Reference/Resources/REF_BOOK_Book_A.dae",
     "size": [
       0.4074680060148239,
@@ -29,7 +29,7 @@
     "uuid": "13f3991e-01d3-498f-ad71-a55900c39516"
   },
   {
-    "name": "REF_BOOK_Letter_Map.dae",
+    "name": "REF_BOOK_Letter_Map",
     "relative_path": "_Reference/Resources/REF_BOOK_Letter_Map.dae",
     "size": [
       1.0,
@@ -44,7 +44,7 @@
     "uuid": "2b858e2d-1431-4208-9024-b233d271d6db"
   },
   {
-    "name": "REF_BOOK_Letter_Scroll_A.dae",
+    "name": "REF_BOOK_Letter_Scroll_A",
     "relative_path": "_Reference/Resources/REF_BOOK_Letter_Scroll_A.dae",
     "size": [
       0.5954279899597168,
@@ -59,7 +59,7 @@
     "uuid": "c412a7e2-d887-4c46-aedb-8e40e14eaff2"
   },
   {
-    "name": "REF_Cloth_Banner_A.dae",
+    "name": "REF_Cloth_Banner_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Banner_A.dae",
     "size": [
       1.0,
@@ -74,7 +74,7 @@
     "uuid": "0fe7035d-dce4-41dd-8f11-f29c9439fb0e"
   },
   {
-    "name": "REF_Cloth_Curtain_A.dae",
+    "name": "REF_Cloth_Curtain_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Curtain_A.dae",
     "size": [
       1.0,
@@ -89,7 +89,7 @@
     "uuid": "6467cc1b-227b-40fd-a276-afde5dd1fbb5"
   },
   {
-    "name": "REF_Cloth_Flag_A.dae",
+    "name": "REF_Cloth_Flag_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Flag_A.dae",
     "size": [
       0.9400000162422657,
@@ -104,7 +104,7 @@
     "uuid": "26e704c2-28de-4c8e-a689-c9e2c53c9396"
   },
   {
-    "name": "REF_Cloth_Ribbons_A.dae",
+    "name": "REF_Cloth_Ribbons_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Ribbons_A.dae",
     "size": [
       1.0,
@@ -119,7 +119,7 @@
     "uuid": "1758bf6e-643f-4d0c-806f-2120d5811bb6"
   },
   {
-    "name": "REF_Cloth_Sail_A.dae",
+    "name": "REF_Cloth_Sail_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Sail_A.dae",
     "size": [
       2.0,
@@ -134,7 +134,7 @@
     "uuid": "dd50f536-1004-4eae-86e9-05c5c68cafc2"
   },
   {
-    "name": "REF_Cloth_Sail_Loose_A.dae",
+    "name": "REF_Cloth_Sail_Loose_A",
     "relative_path": "_Reference/Resources/REF_Cloth_Sail_Loose_A.dae",
     "size": [
       2.0,
@@ -149,7 +149,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "REF_CONT_Chest_A.dae",
+    "name": "REF_CONT_Chest_A",
     "relative_path": "_Reference/Resources/REF_CONT_Chest_A.dae",
     "size": [
       1.5133140087127686,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "name": "REF_DEC_Statue_A.dae",
+    "name": "REF_DEC_Statue_A",
     "relative_path": "_Reference/Resources/REF_DEC_Statue_A.dae",
     "size": [
       1.9025880098342896,
@@ -177,7 +177,7 @@
     ]
   },
   {
-    "name": "REF_DEC_Statue_A_Dynamic.dae",
+    "name": "REF_DEC_Statue_A_Dynamic",
     "relative_path": "_Reference/Resources/REF_DEC_Statue_A_Dynamic.dae",
     "size": [
       1.9025880098342896,
@@ -191,7 +191,7 @@
     ]
   },
   {
-    "name": "REF_DOOR_Hatch_A.dae",
+    "name": "REF_DOOR_Hatch_A",
     "relative_path": "_Reference/Resources/REF_DOOR_Hatch_A.dae",
     "size": [
       2.0,
@@ -206,7 +206,7 @@
     "uuid": "d19066e4-649d-485a-b94b-e61fae7edb88"
   },
   {
-    "name": "REF_FUR_Bed.dae",
+    "name": "REF_FUR_Bed",
     "relative_path": "_Reference/Resources/REF_FUR_Bed.dae",
     "size": [
       2.5673279762268066,
@@ -221,7 +221,7 @@
     "uuid": "f42bb689-a84b-4051-a1bb-57edd7f20acc"
   },
   {
-    "name": "REF_FUR_Bench.dae",
+    "name": "REF_FUR_Bench",
     "relative_path": "_Reference/Resources/REF_FUR_Bench.dae",
     "size": [
       2.347136974334717,
@@ -236,7 +236,7 @@
     "uuid": "d90384de-6ab2-45a2-aec5-3a224bca33a5"
   },
   {
-    "name": "REF_FUR_Chair.dae",
+    "name": "REF_FUR_Chair",
     "relative_path": "_Reference/Resources/REF_FUR_Chair.dae",
     "size": [
       0.5800549983978271,
@@ -251,7 +251,7 @@
     "uuid": "5f9243d8-892f-4b4b-81ae-346c5ccd217c"
   },
   {
-    "name": "REF_FUR_Counter.dae",
+    "name": "REF_FUR_Counter",
     "relative_path": "_Reference/Resources/REF_FUR_Counter.dae",
     "size": [
       2.0,
@@ -266,7 +266,7 @@
     "uuid": "712be888-9eab-4225-a2b9-c46a2ef60c00"
   },
   {
-    "name": "REF_FUR_Mattress.dae",
+    "name": "REF_FUR_Mattress",
     "relative_path": "_Reference/Resources/REF_FUR_Mattress.dae",
     "size": [
       1.2300649881362915,
@@ -281,7 +281,7 @@
     "uuid": "4d4f30a9-e61d-4943-b3bc-4c0e1186c161"
   },
   {
-    "name": "REF_FUR_Table.dae",
+    "name": "REF_FUR_Table",
     "relative_path": "_Reference/Resources/REF_FUR_Table.dae",
     "size": [
       3.0,
@@ -296,7 +296,7 @@
     "uuid": "193428a8-3b32-44f2-bd80-f3e1d402ab90"
   },
   {
-    "name": "REF_Level_Plane_2x4_A.dae",
+    "name": "REF_Level_Plane_2x4_A",
     "relative_path": "_Reference/Resources/REF_Level_Plane_2x4_A.dae",
     "size": [
       4.0,
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "name": "REF_LOOT_Backpack_A.dae",
+    "name": "REF_LOOT_Backpack_A",
     "relative_path": "_Reference/Resources/REF_LOOT_Backpack_A.dae",
     "size": [
       0.5,
@@ -325,7 +325,7 @@
     "uuid": "548b0870-6103-489e-bdff-b936f73c7d12"
   },
   {
-    "name": "REF_LOOT_Bag_A.dae",
+    "name": "REF_LOOT_Bag_A",
     "relative_path": "_Reference/Resources/REF_LOOT_Bag_A.dae",
     "size": [
       0.4250580072402954,
@@ -340,7 +340,7 @@
     "uuid": "6993a790-f9e2-4c79-a633-79605becdd35"
   },
   {
-    "name": "REF_MAP_BG_A_Buildings.dae",
+    "name": "REF_MAP_BG_A_Buildings",
     "relative_path": "_Reference/Resources/REF_MAP_BG_A_Buildings.dae",
     "size": [
       5.428385019302368,
@@ -355,7 +355,7 @@
     "uuid": "60ac8005-77b0-4a4c-a3b1-97c0ab743f6c"
   },
   {
-    "name": "REF_MAP_BG_A_Land_01.dae",
+    "name": "REF_MAP_BG_A_Land_01",
     "relative_path": "_Reference/Resources/REF_MAP_BG_A_Land_01.dae",
     "size": [
       5.360059976577759,
@@ -370,7 +370,7 @@
     "uuid": "b719dc29-0efc-4b10-ad7f-137a328473a0"
   },
   {
-    "name": "REF_MAP_BG_A_Land_02.dae",
+    "name": "REF_MAP_BG_A_Land_02",
     "relative_path": "_Reference/Resources/REF_MAP_BG_A_Land_02.dae",
     "size": [
       5.510191917419434,
@@ -385,7 +385,7 @@
     "uuid": "18c006fe-b9fd-40ff-8c5f-acdc82557d66"
   },
   {
-    "name": "REF_MAP_BG_A_Port.dae",
+    "name": "REF_MAP_BG_A_Port",
     "relative_path": "_Reference/Resources/REF_MAP_BG_A_Port.dae",
     "size": [
       2.23499895632267,
@@ -400,7 +400,7 @@
     "uuid": "1e1f91be-767e-4934-931d-9c190236b850"
   },
   {
-    "name": "REF_Primitives_Cube_1x1x1.dae",
+    "name": "REF_Primitives_Cube_1x1x1",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_1x1x1.dae",
     "size": [
       1.0,
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Cube_2x2x0n5.dae",
+    "name": "REF_Primitives_Cube_2x2x0n5",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_2x2x0n5.dae",
     "size": [
       2.0,
@@ -428,7 +428,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Cube_3x0n5x1n5.dae",
+    "name": "REF_Primitives_Cube_3x0n5x1n5",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x0n5x1n5.dae",
     "size": [
       1.5,
@@ -443,7 +443,7 @@
     "uuid": "74f6080c-c525-4dbb-9bdb-1c294303f791"
   },
   {
-    "name": "REF_Primitives_Cube_3x0n5x3.dae",
+    "name": "REF_Primitives_Cube_3x0n5x3",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x0n5x3.dae",
     "size": [
       3.0,
@@ -458,7 +458,7 @@
     "uuid": "157b16a0-3cf8-4172-8048-d2911d1bf298"
   },
   {
-    "name": "REF_Primitives_Cube_3x1x1.dae",
+    "name": "REF_Primitives_Cube_3x1x1",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x1x1.dae",
     "size": [
       3.0,
@@ -472,7 +472,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Cube_3x3x3.dae",
+    "name": "REF_Primitives_Cube_3x3x3",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_3x3x3.dae",
     "size": [
       3.0,
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Cube_5x5x5.dae",
+    "name": "REF_Primitives_Cube_5x5x5",
     "relative_path": "_Reference/Resources/REF_Primitives_Cube_5x5x5.dae",
     "size": [
       5.0,
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Slope_3x3x3.dae",
+    "name": "REF_Primitives_Slope_3x3x3",
     "relative_path": "_Reference/Resources/REF_Primitives_Slope_3x3x3.dae",
     "size": [
       3.0,
@@ -514,7 +514,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Slope_3x3x6.dae",
+    "name": "REF_Primitives_Slope_3x3x6",
     "relative_path": "_Reference/Resources/REF_Primitives_Slope_3x3x6.dae",
     "size": [
       3.0,
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "name": "REF_Primitives_Sphere_A.dae",
+    "name": "REF_Primitives_Sphere_A",
     "relative_path": "_Reference/Resources/REF_Primitives_Sphere_A.dae",
     "size": [
       2.0,
@@ -542,7 +542,7 @@
     ]
   },
   {
-    "name": "REF_TOOL_Ladder_A.dae",
+    "name": "REF_TOOL_Ladder_A",
     "relative_path": "_Reference/Resources/REF_TOOL_Ladder_A.dae",
     "size": [
       1.0761430263519287,

@@ -1,6 +1,6 @@
 [
   {
-    "name": "QUEST_Chains_A.dae",
+    "name": "QUEST_Chains_A",
     "relative_path": "Quest/QUEST_Chains_ABC/Resources/QUEST_Chains_A.dae",
     "size": [
       1.483201026916504,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "QUEST_Chains_A_Rigged_A.dae",
+    "name": "QUEST_Chains_A_Rigged_A",
     "relative_path": "Quest/QUEST_Chains_ABC/Resources/QUEST_Chains_A_Rigged_A.dae",
     "size": [
       0.17358800023794174,
@@ -29,7 +29,7 @@
     "uuid": "2981327d-9a53-4cb1-8b06-9b6101f4edab"
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure.dae",
+    "name": "QUEST_CHA_Marble_Fissure",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure.dae",
     "size": [
       5.454674005508423,
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure_Destruct.dae",
+    "name": "QUEST_CHA_Marble_Fissure_Destruct",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Destruct.dae",
     "size": [
       8.115066766738892,
@@ -58,7 +58,7 @@
     "uuid": "48349626-f008-4b9f-997d-aa8884d7a5b9"
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Destruct.dae",
+    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Destruct",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Dungeon_Destruct.dae",
     "size": [
       11.084736347198486,
@@ -73,7 +73,7 @@
     "uuid": "3c858c3d-5eb9-453e-9140-a49397cb4193"
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Explode.dae",
+    "name": "QUEST_CHA_Marble_Fissure_Dungeon_Explode",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Dungeon_Explode.dae",
     "size": [
       6.0,
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure_Explode.dae",
+    "name": "QUEST_CHA_Marble_Fissure_Explode",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_Explode.dae",
     "size": [
       5.454674005508423,
@@ -102,7 +102,7 @@
     "uuid": "17742f3f-9c7f-4dab-be21-0d653a80cb12"
   },
   {
-    "name": "QUEST_CHA_Marble_Fissure_WalkOn.dae",
+    "name": "QUEST_CHA_Marble_Fissure_WalkOn",
     "relative_path": "Quest/QUEST_CHA_MarbleFissure/Resources/QUEST_CHA_Marble_Fissure_WalkOn.dae",
     "size": [
       6.000040054321289,
@@ -117,7 +117,7 @@
     "uuid": "ebda31ee-3f8b-49a9-bd03-8af5d779b6e8"
   },
   {
-    "name": "QUEST_Dice_d20_A.dae",
+    "name": "QUEST_Dice_d20_A",
     "relative_path": "Quest/QUEST_Dice_d20_ABC/Resources/QUEST_Dice_d20_A.dae",
     "size": [
       0.2551960051059723,
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "name": "QUEST_Mysterious_Puzzlebox_A.dae",
+    "name": "QUEST_Mysterious_Puzzlebox_A",
     "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A.dae",
     "size": [
       0.3099530041217804,
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "name": "QUEST_Mysterious_Puzzlebox_A_Cinematic.dae",
+    "name": "QUEST_Mysterious_Puzzlebox_A_Cinematic",
     "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A_Cinematic.dae",
     "size": [
       0.1687370017170906,
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "name": "QUEST_Mysterious_Puzzlebox_A_Retracted_Spikes_A.dae",
+    "name": "QUEST_Mysterious_Puzzlebox_A_Retracted_Spikes_A",
     "relative_path": "Quest/Quest_Mysterious_Puzzlebox_ABC/Resources/QUEST_Mysterious_Puzzlebox_A_Retracted_Spikes_A.dae",
     "size": [
       0.10848700255155563,
@@ -174,7 +174,7 @@
     "uuid": "9b6d5b44-d57d-4540-966a-0df08c95c6ec"
   },
   {
-    "name": "QUEST_ThrowingRock_A.dae",
+    "name": "QUEST_ThrowingRock_A",
     "relative_path": "Quest/QUEST_ThrowingRock_ABC/Resources/QUEST_ThrowingRock_A.dae",
     "size": [
       0.24149799346923828,
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "name": "QUEST_Crown_Karsus_A.dae",
+    "name": "QUEST_Crown_Karsus_A",
     "relative_path": "Quest/QUEST_Crown_Karsus_A/Resources/QUEST_Crown_Karsus_A.dae",
     "size": [
       0.3237699866294861,
@@ -203,7 +203,7 @@
     "uuid": "174904fa-69fb-4751-b40a-3fcc25774804"
   },
   {
-    "name": "QUEST_Deadman_Switch_A.dae",
+    "name": "QUEST_Deadman_Switch_A",
     "relative_path": "Quest/QUEST_Deadman_Switch_A/Resources/QUEST_Deadman_Switch_A.dae",
     "size": [
       0.14613600075244904,
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "name": "QUEST_LOW_SteelWatchFoundry_ExplodingCollar_A.dae",
+    "name": "QUEST_LOW_SteelWatchFoundry_ExplodingCollar_A",
     "relative_path": "Quest/QUEST_LOW_SteelWatchFoundry_ExplodingCollar_ABC/Resources/QUEST_LOW_SteelWatchFoundry_ExplodingCollar_A.dae",
     "size": [
       0.3295070081949234,
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "name": "DEC_Tollhouse_Statue_Collector_A_Destruct.dae",
+    "name": "DEC_Tollhouse_Statue_Collector_A_Destruct",
     "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/DEC_Tollhouse_Statue_Collector_A_Destruct.dae",
     "size": [
       2.856297016143799,
@@ -246,7 +246,7 @@
     "uuid": "d5adc23c-f86b-42f7-83ce-d4ec351f5352"
   },
   {
-    "name": "DEC_Tollhouse_Statue_Collector_A_Explode.dae",
+    "name": "DEC_Tollhouse_Statue_Collector_A_Explode",
     "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/DEC_Tollhouse_Statue_Collector_A_Explode.dae",
     "size": [
       0.9665379822254181,
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "name": "QUEST_PLT_Collector_Floor_Destruct.dae",
+    "name": "QUEST_PLT_Collector_Floor_Destruct",
     "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/QUEST_PLT_Collector_Floor_Destruct.dae",
     "size": [
       9.465511083602905,
@@ -275,7 +275,7 @@
     "uuid": "ad871cbd-aa9f-43bd-b491-16a33d1d40bf"
   },
   {
-    "name": "QUEST_PLT_Collector_Floor_Explode.dae",
+    "name": "QUEST_PLT_Collector_Floor_Explode",
     "relative_path": "Quest/QUEST_PLT_Taxcollector_Office/Resources/QUEST_PLT_Collector_Floor_Explode.dae",
     "size": [
       6.651206016540527,

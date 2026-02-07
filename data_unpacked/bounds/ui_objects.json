@@ -1,6 +1,6 @@
 [
   {
-    "name": "UI_Dice_D20_A.dae",
+    "name": "UI_Dice_D20_A",
     "relative_path": "UI/UI_Dice_ABC/Resources/UI_Dice_D20_A.dae",
     "size": [
       0.7062640190124512,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "UI_Dice_D6_A.dae",
+    "name": "UI_Dice_D6_A",
     "relative_path": "UI/UI_Dice_ABC/Resources/UI_Dice_D6_A.dae",
     "size": [
       0.5,

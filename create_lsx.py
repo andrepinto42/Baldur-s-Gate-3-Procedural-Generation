@@ -101,7 +101,7 @@ def create_object_xml(
     map_key: Optional[str] = None,
     name: Optional[str] = None,
     level_name: Optional[str] = None,
-    template_name: Optional[str] = None,
+    uuid: Optional[str] = None,
     position: Optional[Tuple[float, float, float]] = None,
     rotation: Optional[Tuple[float, float, float, float]] = None,
     scale: Optional[float] = None,
@@ -117,7 +117,7 @@ def create_object_xml(
     xml = replace_attr(xml, "MapKey", map_key)
     xml = replace_attr(xml, "Name", name)
     xml = replace_attr(xml, "LevelName", level_name)
-    xml = replace_attr(xml, "TemplateName", template_name)
+    xml = replace_attr(xml, "TemplateName", uuid)
 
     xml = replace_attr(xml, "Scale", str(scale))
     xml = replace_attr(xml, "Position", vector_to_string(position))
@@ -125,7 +125,7 @@ def create_object_xml(
 
     xml = replace_all_attr(xml, "MapKey", level_name)
     
-    print("Generating with uuid :",map_key," for object",name)
+    print("Generated object",name)
     return xml
 
 def write_xml_file(xml: str,folder: str) -> str:
@@ -153,7 +153,7 @@ def create_xml(folder: str,
     map_key: Optional[str] = None,
     name: Optional[str] = None,
     level_name: Optional[str] = None,
-    template_name: Optional[str] = None,
+    uuid: Optional[str] = None,
     position: Optional[Vector3] = None,
     rotation: Optional[Quaternion] = None,
     scale: Optional[float] = None
@@ -163,7 +163,7 @@ def create_xml(folder: str,
         map_key = map_key,
         name = name,
         level_name = level_name,
-        template_name = template_name,
+        uuid = uuid,
         position = position,
         rotation = rotation,
         scale = scale

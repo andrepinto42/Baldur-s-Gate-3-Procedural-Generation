@@ -1,6 +1,6 @@
 [
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_A.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_A",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_A.dae",
     "size": [
       0.4036659896373749,
@@ -15,7 +15,7 @@
     "uuid": "54c319ce-ee54-407e-a7c5-8627aae19e5c"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_A_Destruct.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_A_Destruct",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_A_Destruct.dae",
     "size": [
       1.9010009765625,
@@ -30,7 +30,7 @@
     "uuid": "62ff51bf-f4b5-4df7-a4ca-0df0d2a8e680"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_A_Explode.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_A_Explode",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_A_Explode.dae",
     "size": [
       0.3857109993696213,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_B.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_B",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_B.dae",
     "size": [
       0.5092599987983704,
@@ -59,7 +59,7 @@
     "uuid": "ba8d9268-9723-4a4e-8e12-de95d87e29cb"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_B_Destruct.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_B_Destruct",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_B_Destruct.dae",
     "size": [
       1.3159760236740112,
@@ -74,7 +74,7 @@
     "uuid": "caffd887-ecd3-439e-8b07-a6d2060ec2f7"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_B_Explode.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_B_Explode",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_B_Explode.dae",
     "size": [
       0.5043260157108307,
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_C.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_C",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_C.dae",
     "size": [
       0.6220409870147705,
@@ -103,7 +103,7 @@
     "uuid": "57a9c10d-310b-44c8-af4a-259f1eebc3c3"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_C_Destruct.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_C_Destruct",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_C_Destruct.dae",
     "size": [
       2.352607011795044,
@@ -118,7 +118,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_C_Explode.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_C_Explode",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_C_Explode.dae",
     "size": [
       0.6183449923992157,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_D.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_D",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_D.dae",
     "size": [
       0.7246580123901367,
@@ -147,7 +147,7 @@
     "uuid": "30d6125d-5bc1-435f-abe1-b2a5f11ffe72"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_D_Destruct.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_D_Destruct",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_D_Destruct.dae",
     "size": [
       3.380391001701355,
@@ -162,7 +162,7 @@
     "uuid": "991af0e5-6b16-4e2d-8644-10c782ca30bd"
   },
   {
-    "name": "PUZ_Cave_Speleothem_Stalactite_D_Explode.dae",
+    "name": "PUZ_Cave_Speleothem_Stalactite_D_Explode",
     "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_D_Explode.dae",
     "size": [
       0.7240250110626221,
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "name": "PUZ_Moon_Lantern_A_Broken_A.dae",
+    "name": "PUZ_Moon_Lantern_A_Broken_A",
     "relative_path": "Puzzle/Drider/PUZ_Moon_Lantern_A_Broken_A.dae",
     "size": [
       0.22634999454021454,
@@ -191,7 +191,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "PUZ_Drider_Moon_Lantern_A_Broken_A.dae",
+    "name": "PUZ_Drider_Moon_Lantern_A_Broken_A",
     "relative_path": "Puzzle/Drider/Resources/PUZ_Drider_Moon_Lantern_A_Broken_A.dae",
     "size": [
       0.24559099972248077,
@@ -205,7 +205,7 @@
     ]
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Bear_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Bear_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Bear_A.dae",
     "size": [
       0.42490899562835693,
@@ -219,7 +219,7 @@
     ]
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Eagle_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Eagle_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Eagle_A.dae",
     "size": [
       0.41716399788856506,
@@ -233,7 +233,7 @@
     ]
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Elk_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Elk_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Elk_A.dae",
     "size": [
       0.4205380082130432,
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Socket_Bear_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Socket_Bear_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Socket_Bear_A.dae",
     "size": [
       0.7645660042762756,
@@ -262,7 +262,7 @@
     "uuid": "97fb05de-678f-4fb5-99cd-4e0d176ad27c"
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Socket_Eagle_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Socket_Eagle_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Socket_Eagle_A.dae",
     "size": [
       0.7672719955444336,
@@ -277,7 +277,7 @@
     "uuid": "67e8fa4e-709b-40da-9aed-b34f3f6d1283"
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Socket_Elk_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Socket_Elk_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Socket_Elk_A.dae",
     "size": [
       0.7672719955444336,
@@ -292,7 +292,7 @@
     "uuid": "86bcd22f-980e-46c8-a697-09ba2feac17e"
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Socket_Empty_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Socket_Empty_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Socket_Empty_A.dae",
     "size": [
       0.7672719955444336,
@@ -307,7 +307,7 @@
     "uuid": "6740236f-c6ba-4d38-81fc-1798268a70a1"
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Socket_Wolf_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Socket_Wolf_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Socket_Wolf_A.dae",
     "size": [
       0.7672719955444336,
@@ -322,7 +322,7 @@
     "uuid": "c3db2da6-48ca-4875-bf20-fef526feb4b3"
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Wolf_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Wolf_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Wolf_A.dae",
     "size": [
       0.42542800307273865,
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "name": "PUZ_Druids_Rune_Stone_A_Wolf_Broken_A.dae",
+    "name": "PUZ_Druids_Rune_Stone_A_Wolf_Broken_A",
     "relative_path": "Puzzle/Druids/PUZ_Druids_Rune_Stone_A/Resources/PUZ_Druids_Rune_Stone_A_Wolf_Broken_A.dae",
     "size": [
       0.5220400094985962,
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A.dae",
+    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_SharTemple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_SharTemple_Wall_Breakable_A.dae",
     "size": [
       7.102118015289307,
@@ -365,7 +365,7 @@
     "uuid": "2f9e9c37-17ec-45fe-92e0-ce7bc59bcdd4"
   },
   {
-    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A_Destruct.dae",
+    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A_Destruct",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_SharTemple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_SharTemple_Wall_Breakable_A_Destruct.dae",
     "size": [
       7.102118015289307,
@@ -380,7 +380,7 @@
     "uuid": "417a8a15-b6ca-4b49-b414-6b3b0c7d4db9"
   },
   {
-    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A_Explode.dae",
+    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A_Explode",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_SharTemple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_SharTemple_Wall_Breakable_A_Explode.dae",
     "size": [
       7.102118015289307,
@@ -394,7 +394,7 @@
     ]
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_A.dae",
     "size": [
       4.012482166290283,
@@ -409,7 +409,7 @@
     "uuid": "aa4acbb4-a2ee-4c2c-86ca-35e2572cf088"
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A_Destruct.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A_Destruct",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_A_Destruct.dae",
     "size": [
       4.934720993041992,
@@ -424,7 +424,7 @@
     "uuid": "903a289f-fd0e-4367-b4ee-9299c32585df"
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A_Explode.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A_Explode",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_A_Explode.dae",
     "size": [
       4.012482166290283,
@@ -438,7 +438,7 @@
     ]
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_B.dae",
     "size": [
       4.008439064025879,
@@ -453,7 +453,7 @@
     "uuid": "c4ac7492-3629-468d-ad69-767492bdf55f"
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B_Destruct.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B_Destruct",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_B_Destruct.dae",
     "size": [
       7.282701015472412,
@@ -468,7 +468,7 @@
     "uuid": "26e74798-f2ae-48a4-a789-5e4fcbaff918"
   },
   {
-    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B_Explode.dae",
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B_Explode",
     "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_B_Explode.dae",
     "size": [
       4.008439064025879,
@@ -482,7 +482,7 @@
     ]
   },
   {
-    "name": "PUZ_Floor_Damaged_A.dae",
+    "name": "PUZ_Floor_Damaged_A",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A.dae",
     "size": [
       3.646738052368164,
@@ -497,7 +497,7 @@
     "uuid": "43ecb4dc-8bb7-4176-bdc7-c2155dd69a41"
   },
   {
-    "name": "PUZ_Floor_Damaged_A_Destruct.dae",
+    "name": "PUZ_Floor_Damaged_A_Destruct",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A_Destruct.dae",
     "size": [
       5.85103702545166,
@@ -512,7 +512,7 @@
     "uuid": "c8de3e7e-006b-4b38-8733-c4527e9dc6cb"
   },
   {
-    "name": "PUZ_Floor_Damaged_A_Explode.dae",
+    "name": "PUZ_Floor_Damaged_A_Explode",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A_Explode.dae",
     "size": [
       3.638551950454712,
@@ -526,7 +526,7 @@
     ]
   },
   {
-    "name": "PUZ_Floor_Damaged_A_Pillar_A.dae",
+    "name": "PUZ_Floor_Damaged_A_Pillar_A",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A_Pillar_A.dae",
     "size": [
       1.5433359742164612,
@@ -541,7 +541,7 @@
     "uuid": "dfa87205-655c-40b0-a765-82cbad3ecda1"
   },
   {
-    "name": "PUZ_Floor_Damaged_A_Pillar_A_Destruct.dae",
+    "name": "PUZ_Floor_Damaged_A_Pillar_A_Destruct",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A_Pillar_A_Destruct.dae",
     "size": [
       5.448338985443115,
@@ -556,7 +556,7 @@
     "uuid": "81f64609-8a44-437a-8fe0-6b5757640acf"
   },
   {
-    "name": "PUZ_Floor_Damaged_A_Pillar_A_Explode.dae",
+    "name": "PUZ_Floor_Damaged_A_Pillar_A_Explode",
     "relative_path": "Puzzle/Floor/PUZ_Floor_Damaged_ABC/Resources/PUZ_Floor_Damaged_A_Pillar_A_Explode.dae",
     "size": [
       1.5433359742164612,
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode_Destruct.dae",
     "size": [
       2.7140090465545654,
@@ -584,7 +584,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode_Destruct.dae",
     "size": [
       3.568337917327881,
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode_Destruct.dae",
     "size": [
       1.2812319993972778,
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode_Destruct.dae",
     "size": [
       1.2812319993972778,
@@ -626,7 +626,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode_Destruct.dae",
     "size": [
       1.3588510155677795,
@@ -640,7 +640,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode_Destruct.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode_Destruct.dae",
     "size": [
       1.3588510155677795,
@@ -654,7 +654,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_A.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_A.dae",
     "size": [
       4.079967975616455,
@@ -669,7 +669,7 @@
     "uuid": "61eba7d5-193e-4a71-9e80-bf0374c12605"
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_A_Destruct.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_A_Destruct.dae",
     "size": [
       7.2593607902526855,
@@ -684,7 +684,7 @@
     "uuid": "9999fb19-c6a1-4738-a4b2-33de269a13ba"
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_A_Explode.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_A_Explode.dae",
     "size": [
       4.0799689292907715,
@@ -698,7 +698,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_B.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_B.dae",
     "size": [
       7.909851789474487,
@@ -713,7 +713,7 @@
     "uuid": "781dd085-67d6-49bb-924c-a75b32a8224a"
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_B_Destruct.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_B_Destruct.dae",
     "size": [
       9.035075187683105,
@@ -728,7 +728,7 @@
     "uuid": "118fa6e2-a6e9-49f8-9dc5-7b49cb6d74a4"
   },
   {
-    "name": "PUZ_GEN_Abbey_Wall_Breakable_B_Explode.dae",
+    "name": "PUZ_GEN_Abbey_Wall_Breakable_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Abbey_Wall_Breakable_ABC/Resources/PUZ_GEN_Abbey_Wall_Breakable_B_Explode.dae",
     "size": [
       7.888362169265747,
@@ -742,7 +742,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Button_A.dae",
+    "name": "PUZ_GEN_Button_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Button_ABC/Resources/PUZ_GEN_Button_A.dae",
     "size": [
       0.31916001439094543,
@@ -757,7 +757,7 @@
     "uuid": "ccd075e6-b9fa-4607-b14a-b72fee5fcbe6"
   },
   {
-    "name": "PUZ_GEN_Button_B.dae",
+    "name": "PUZ_GEN_Button_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Button_ABC/Resources/PUZ_GEN_Button_B.dae",
     "size": [
       0.3860659897327423,
@@ -772,7 +772,7 @@
     "uuid": "23412538-b504-4484-9801-fc3a185f1168"
   },
   {
-    "name": "PUZ_GEN_Button_C.dae",
+    "name": "PUZ_GEN_Button_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Button_ABC/Resources/PUZ_GEN_Button_C.dae",
     "size": [
       0.28314900398254395,
@@ -787,7 +787,7 @@
     "uuid": "50558807-1eb1-45e3-aadd-23eb5fad3b8e"
   },
   {
-    "name": "PUZ_GEN_Dirt_Mound_A_Sand_A.dae",
+    "name": "PUZ_GEN_Dirt_Mound_A_Sand_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_A_Sand_A.dae",
     "size": [
       5.085672855377197,
@@ -802,7 +802,7 @@
     "uuid": "70910077-1457-46e4-828b-20b79577eeb7"
   },
   {
-    "name": "PUZ_GEN_Dirt_Mound_Digged_A.dae",
+    "name": "PUZ_GEN_Dirt_Mound_Digged_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_Digged_A.dae",
     "size": [
       5.099846124649048,
@@ -816,7 +816,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Dirt_Mound_Digged_Kobold.dae",
+    "name": "PUZ_GEN_Dirt_Mound_Digged_Kobold",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_Digged_Kobold.dae",
     "size": [
       2.6676700115203857,
@@ -830,7 +830,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Dirt_Pile_Gravel_A.dae",
+    "name": "PUZ_GEN_Dirt_Pile_Gravel_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Pile_ABC/Resources/PUZ_GEN_Dirt_Pile_Gravel_A.dae",
     "size": [
       2.291239023208618,
@@ -845,7 +845,7 @@
     "uuid": "ea591a45-ed05-4881-b4dc-4204ee9cf064"
   },
   {
-    "name": "PUZ_GEN_Dirt_Pile_Mud_A.dae",
+    "name": "PUZ_GEN_Dirt_Pile_Mud_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Pile_ABC/Resources/PUZ_GEN_Dirt_Pile_Mud_A.dae",
     "size": [
       2.291239023208618,
@@ -860,7 +860,7 @@
     "uuid": "36627fe8-cb55-47ec-8476-4c6ce0e82b9c"
   },
   {
-    "name": "PUZ_GEN_Dirt_Pile_Sand_A.dae",
+    "name": "PUZ_GEN_Dirt_Pile_Sand_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Pile_ABC/Resources/PUZ_GEN_Dirt_Pile_Sand_A.dae",
     "size": [
       2.291239023208618,
@@ -875,7 +875,7 @@
     "uuid": "90a6429c-b217-4904-ace3-9595c42b41fe"
   },
   {
-    "name": "PUZ_GEN_Key_A.dae",
+    "name": "PUZ_GEN_Key_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Key_ABC/Resources/PUZ_GEN_Key_A.dae",
     "size": [
       0.10421399772167206,
@@ -890,7 +890,7 @@
     "uuid": "15b05b8f-3a8f-485f-9e22-97b54d899b08"
   },
   {
-    "name": "PUZ_GEN_Key_Gold_A.dae",
+    "name": "PUZ_GEN_Key_Gold_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Key_ABC/Resources/PUZ_GEN_Key_Gold_A.dae",
     "size": [
       0.13229499757289886,
@@ -905,7 +905,7 @@
     "uuid": "0416d50f-a41a-4ba3-b201-d8fc6fed91f9"
   },
   {
-    "name": "PUZ_GEN_Key_Silver_A.dae",
+    "name": "PUZ_GEN_Key_Silver_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Key_ABC/Resources/PUZ_GEN_Key_Silver_A.dae",
     "size": [
       0.13229499757289886,
@@ -920,7 +920,7 @@
     "uuid": "a179ff42-5430-4ac4-869c-c52d4907e02a"
   },
   {
-    "name": "PUZ_GEN_Key_MasonGuild_A_Silver_A.dae",
+    "name": "PUZ_GEN_Key_MasonGuild_A_Silver_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Key_MasonGuild_ABC/Resources/PUZ_GEN_Key_MasonGuild_A_Silver_A.dae",
     "size": [
       0.0906130000948906,
@@ -935,7 +935,7 @@
     "uuid": "bf2622bb-f521-4cc0-bdf1-a719eee63d33"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Metal_A.dae",
+    "name": "PUZ_GEN_Lever_Floor_Metal_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Metal_A.dae",
     "size": [
       0.2616889923810959,
@@ -950,7 +950,7 @@
     "uuid": "61768222-b1d1-4db3-adf6-52220271ff51"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Rich_A.dae",
+    "name": "PUZ_GEN_Lever_Floor_Rich_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Rich_A.dae",
     "size": [
       0.22485899925231934,
@@ -965,7 +965,7 @@
     "uuid": "576d4f64-154f-4bd7-90a4-1fa2c06a201b"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Rich_B.dae",
+    "name": "PUZ_GEN_Lever_Floor_Rich_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Rich_B.dae",
     "size": [
       0.25579001009464264,
@@ -980,7 +980,7 @@
     "uuid": "0f022286-35fc-4e0d-9fa0-1dea243d7c3e"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Rich_C.dae",
+    "name": "PUZ_GEN_Lever_Floor_Rich_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Rich_C.dae",
     "size": [
       0.2721029967069626,
@@ -995,7 +995,7 @@
     "uuid": "27299685-d4c1-48bb-8b2d-77277271364e"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Stone_A.dae",
+    "name": "PUZ_GEN_Lever_Floor_Stone_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Stone_A.dae",
     "size": [
       0.2050039991736412,
@@ -1010,7 +1010,7 @@
     "uuid": "303e82a4-74e7-43de-812e-9a6779971848"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Wood_A.dae",
+    "name": "PUZ_GEN_Lever_Floor_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Wood_A.dae",
     "size": [
       0.23780399560928345,
@@ -1025,7 +1025,7 @@
     "uuid": "c39319fb-75b7-4071-b4df-58777eca6728"
   },
   {
-    "name": "PUZ_GEN_Lever_Floor_Wood_B.dae",
+    "name": "PUZ_GEN_Lever_Floor_Wood_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Floor_Wood_B.dae",
     "size": [
       0.24995700269937515,
@@ -1040,7 +1040,7 @@
     "uuid": "587aaa2b-7083-4318-af60-6034c3f9309d"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Metal_A.dae",
+    "name": "PUZ_GEN_Lever_Wall_Metal_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Metal_A.dae",
     "size": [
       0.2616889923810959,
@@ -1055,7 +1055,7 @@
     "uuid": "d24a6767-10d1-49ab-a956-d004c1d34fa9"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Rich_A.dae",
+    "name": "PUZ_GEN_Lever_Wall_Rich_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Rich_A.dae",
     "size": [
       0.22485899925231934,
@@ -1070,7 +1070,7 @@
     "uuid": "c843fb3b-6ab2-44fb-9b7e-db6f49c59e3b"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Rich_B.dae",
+    "name": "PUZ_GEN_Lever_Wall_Rich_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Rich_B.dae",
     "size": [
       0.25579001009464264,
@@ -1085,7 +1085,7 @@
     "uuid": "7b3270a1-2e7c-45b3-92a3-3aea6791d05e"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Stone_A.dae",
+    "name": "PUZ_GEN_Lever_Wall_Stone_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Stone_A.dae",
     "size": [
       0.2050039991736412,
@@ -1100,7 +1100,7 @@
     "uuid": "02a42dd9-84b8-49f5-ae01-66a6716715fe"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Wood_A.dae",
+    "name": "PUZ_GEN_Lever_Wall_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Wood_A.dae",
     "size": [
       0.2370239943265915,
@@ -1115,7 +1115,7 @@
     "uuid": "92cc315c-e5dd-47c5-8e02-03d5d382a19b"
   },
   {
-    "name": "PUZ_GEN_Lever_Wall_Wood_B.dae",
+    "name": "PUZ_GEN_Lever_Wall_Wood_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_ABC/Resources/PUZ_GEN_Lever_Wall_Wood_B.dae",
     "size": [
       0.24960799515247345,
@@ -1130,7 +1130,7 @@
     "uuid": "f648fcd0-0713-4601-a5aa-520b24eedf24"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Metal_A.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Metal_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Metal_A.dae",
     "size": [
       2.24235999584198,
@@ -1145,7 +1145,7 @@
     "uuid": "de99596d-63c1-4f88-9ae8-2d1a3f6cd25f"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Metal_B.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Metal_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Metal_B.dae",
     "size": [
       1.7302640080451965,
@@ -1160,7 +1160,7 @@
     "uuid": "7faf2c5b-3735-4280-87b0-ced1469a66da"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Wood_A.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Wood_A.dae",
     "size": [
       1.9137519598007202,
@@ -1175,7 +1175,7 @@
     "uuid": "58d30b46-4561-4339-82dd-cab17d4fd637"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Wood_B.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Wood_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Wood_B.dae",
     "size": [
       1.9341299533843994,
@@ -1190,7 +1190,7 @@
     "uuid": "d6ffea9f-ab25-4280-949c-e18548100e79"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Wood_C.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Wood_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Wood_C.dae",
     "size": [
       1.9569660425186157,
@@ -1205,7 +1205,7 @@
     "uuid": "1c6fea6e-fb8d-496f-8ea2-1d8ec48b76f1"
   },
   {
-    "name": "PUZ_GEN_Lever_Pedestal_Wood_D.dae",
+    "name": "PUZ_GEN_Lever_Pedestal_Wood_D",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Pedestal_ABC/Resources/PUZ_GEN_Lever_Pedestal_Wood_D.dae",
     "size": [
       1.4449100494384766,
@@ -1220,7 +1220,7 @@
     "uuid": "dc82591c-b39c-463b-859c-2f5d253d200b"
   },
   {
-    "name": "PUZ_GEN_Lever_Secret_Selune_A.dae",
+    "name": "PUZ_GEN_Lever_Secret_Selune_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Secret_Selune_A/Resources/PUZ_GEN_Lever_Secret_Selune_A.dae",
     "size": [
       0.9508270025253296,
@@ -1235,7 +1235,7 @@
     "uuid": "b1db5eb0-49c2-4c68-ad9b-5ed79d59eeb5"
   },
   {
-    "name": "PUZ_GEN_Lever_Secret_Selune_B.dae",
+    "name": "PUZ_GEN_Lever_Secret_Selune_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Secret_Selune_A/Resources/PUZ_GEN_Lever_Secret_Selune_B.dae",
     "size": [
       0.9508270025253296,
@@ -1250,7 +1250,7 @@
     "uuid": "ac513744-93e9-4f4f-9541-647334ee8b42"
   },
   {
-    "name": "PUZ_GEN_Lever_Wheel_Gate_CustomCliff_Sandstone_A.dae",
+    "name": "PUZ_GEN_Lever_Wheel_Gate_CustomCliff_Sandstone_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Wheel_Gate_Wood_A/Resources/PUZ_GEN_Lever_Wheel_Gate_CustomCliff_Sandstone_A.dae",
     "size": [
       10.276127815246582,
@@ -1265,7 +1265,7 @@
     "uuid": "96aa3898-40de-42c0-990f-128a6ae86b3f"
   },
   {
-    "name": "PUZ_GEN_Lever_Wheel_Gate_Platform_Wood_A.dae",
+    "name": "PUZ_GEN_Lever_Wheel_Gate_Platform_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Wheel_Gate_Wood_A/Resources/PUZ_GEN_Lever_Wheel_Gate_Platform_Wood_A.dae",
     "size": [
       4.0312559604644775,
@@ -1280,7 +1280,7 @@
     "uuid": "0abc9467-0d88-45e4-a074-c0918622a8bd"
   },
   {
-    "name": "PUZ_GEN_Lever_Wheel_Gate_Wood_A.dae",
+    "name": "PUZ_GEN_Lever_Wheel_Gate_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lever_Wheel_Gate_Wood_A/Resources/PUZ_GEN_Lever_Wheel_Gate_Wood_A.dae",
     "size": [
       2.4432599544525146,
@@ -1295,7 +1295,7 @@
     "uuid": "a02829b9-163e-47ba-b45b-19bf19a04698"
   },
   {
-    "name": "PUZ_GEN_Map_Moonrise_Dungeon_A.dae",
+    "name": "PUZ_GEN_Map_Moonrise_Dungeon_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Map_Moonrise_Dungeon_ABC/Resources/PUZ_GEN_Map_Moonrise_Dungeon_A.dae",
     "size": [
       0.918969988822937,
@@ -1310,7 +1310,7 @@
     "uuid": "927b4ffe-f8f3-4020-bf5e-0bb87bdff31f"
   },
   {
-    "name": "PUZ_GEN_Mushroom_Fairy_Ring_A.dae",
+    "name": "PUZ_GEN_Mushroom_Fairy_Ring_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Mushroom_Fairy_Ring_ABC/Resources/PUZ_GEN_Mushroom_Fairy_Ring_A.dae",
     "size": [
       3.556144952774048,
@@ -1325,7 +1325,7 @@
     "uuid": "2196d465-3fd7-48a1-a499-2bb355f7ec14"
   },
   {
-    "name": "PUZ_GEN_Mushroom_Fairy_Ring_B.dae",
+    "name": "PUZ_GEN_Mushroom_Fairy_Ring_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Mushroom_Fairy_Ring_ABC/Resources/PUZ_GEN_Mushroom_Fairy_Ring_B.dae",
     "size": [
       3.6262829303741455,
@@ -1340,7 +1340,7 @@
     "uuid": "4bea3d75-fa50-41be-b5c6-44e77d11d9e8"
   },
   {
-    "name": "PUZ_GEN_Mushroom_Fairy_Ring_C.dae",
+    "name": "PUZ_GEN_Mushroom_Fairy_Ring_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Mushroom_Fairy_Ring_ABC/Resources/PUZ_GEN_Mushroom_Fairy_Ring_C.dae",
     "size": [
       3.5797630548477173,
@@ -1355,7 +1355,7 @@
     "uuid": "bc622efe-9903-4d30-8a4e-1ad29bb6247e"
   },
   {
-    "name": "PUZ_GEN_Mushroom_Fairy_Ring_D.dae",
+    "name": "PUZ_GEN_Mushroom_Fairy_Ring_D",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Mushroom_Fairy_Ring_ABC/Resources/PUZ_GEN_Mushroom_Fairy_Ring_D.dae",
     "size": [
       3.573480010032654,
@@ -1370,7 +1370,7 @@
     "uuid": "83fd5a56-b179-40a0-babf-a1e147bd7242"
   },
   {
-    "name": "PUZ_GEN_Mushroom_Fairy_Ring_E.dae",
+    "name": "PUZ_GEN_Mushroom_Fairy_Ring_E",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Mushroom_Fairy_Ring_ABC/Resources/PUZ_GEN_Mushroom_Fairy_Ring_E.dae",
     "size": [
       3.544482946395874,
@@ -1385,7 +1385,7 @@
     "uuid": "ff32bc52-ed8a-44ac-9d1b-b1aee1da4c49"
   },
   {
-    "name": "PUZ_GEN_Orb_Magical_A.dae",
+    "name": "PUZ_GEN_Orb_Magical_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Orb_Magical_ABC/Resources/PUZ_GEN_Orb_Magical_A.dae",
     "size": [
       0.5405359864234924,
@@ -1400,7 +1400,7 @@
     "uuid": "1e6493db-69d7-42f2-8bc8-6cf844716eba"
   },
   {
-    "name": "PUZ_GEN_Orb_Magical_A_Destruct.dae",
+    "name": "PUZ_GEN_Orb_Magical_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Orb_Magical_ABC/Resources/PUZ_GEN_Orb_Magical_A_Destruct.dae",
     "size": [
       1.7370809316635132,
@@ -1415,7 +1415,7 @@
     "uuid": "122946b4-8364-4378-a9b4-cab3d31ba838"
   },
   {
-    "name": "PUZ_GEN_Orb_Magical_A_Explode.dae",
+    "name": "PUZ_GEN_Orb_Magical_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Orb_Magical_ABC/Resources/PUZ_GEN_Orb_Magical_A_Explode.dae",
     "size": [
       0.5374299883842468,
@@ -1429,7 +1429,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_PoisonousThorn_A_Cinematic.dae",
+    "name": "PUZ_GEN_PoisonousThorn_A_Cinematic",
     "relative_path": "Puzzle/Generic/PUZ_GEN_PoisonousThorn_A_Cinematic/Resources/PUZ_GEN_PoisonousThorn_A_Cinematic.dae",
     "size": [
       0.2537049949169159,
@@ -1443,7 +1443,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Granite_A.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Granite_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Granite_ABC/Resources/PUZ_GEN_Pressure_Plate_Granite_A.dae",
     "size": [
       1.103401005268097,
@@ -1458,7 +1458,7 @@
     "uuid": "0fdb871c-56bf-438c-8d23-8dc12763a854"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Granite_A_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Granite_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Granite_ABC/Resources/PUZ_GEN_Pressure_Plate_Granite_A_Explode.dae",
     "size": [
       1.089950978755951,
@@ -1472,7 +1472,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Large_A.dae",
     "size": [
       2.6185500621795654,
@@ -1487,7 +1487,7 @@
     "uuid": "28649a4b-7e06-437c-9260-3cfecde081fa"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Large_A_Explode.dae",
     "size": [
       2.6185500621795654,
@@ -1501,7 +1501,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Large_B.dae",
     "size": [
       3.568337917327881,
@@ -1516,7 +1516,7 @@
     "uuid": "7e0d2ce4-238a-4a7c-8139-6d0d2528840b"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Large_B_Explode.dae",
     "size": [
       3.568337917327881,
@@ -1530,7 +1530,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Round_A.dae",
     "size": [
       1.2812319993972778,
@@ -1545,7 +1545,7 @@
     "uuid": "17738978-03f4-4203-9417-e6fd482b1e43"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Round_A_Explode.dae",
     "size": [
       1.2812319993972778,
@@ -1559,7 +1559,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Round_B.dae",
     "size": [
       1.2812319993972778,
@@ -1574,7 +1574,7 @@
     "uuid": "b27abf58-705a-420d-9a76-43abae3c324e"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Round_B_Explode.dae",
     "size": [
       1.2812319993972778,
@@ -1588,7 +1588,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_A.dae",
     "size": [
       1.3588510155677795,
@@ -1603,7 +1603,7 @@
     "uuid": "b6191704-9d1c-45ae-83b5-b4d94dd42adf"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_A_Explode.dae",
     "size": [
       1.3588510155677795,
@@ -1617,7 +1617,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_B.dae",
     "size": [
       1.342519998550415,
@@ -1632,7 +1632,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode.dae",
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_B_Explode.dae",
     "size": [
       1.3588510155677795,
@@ -1646,7 +1646,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Prison_Cage_A.dae",
+    "name": "PUZ_GEN_Prison_Cage_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Prison_Cage_ABC/Resources/PUZ_GEN_Prison_Cage_A.dae",
     "size": [
       0.8161320090293884,
@@ -1661,7 +1661,7 @@
     "uuid": "503e7057-afaa-4738-89a1-990c5f74501c"
   },
   {
-    "name": "PUZ_GEN_Proximity_Explosive_A.dae",
+    "name": "PUZ_GEN_Proximity_Explosive_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Proximity_Explosive_ABC/Resources/PUZ_GEN_Proximity_Explosive_A.dae",
     "size": [
       1.0268820524215698,
@@ -1675,7 +1675,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_PullRope_A.dae",
+    "name": "PUZ_GEN_PullRope_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_PullRope_ABC/Resources/PUZ_GEN_PullRope_A.dae",
     "size": [
       0.28814999014139175,
@@ -1690,7 +1690,7 @@
     "uuid": "ce5f4e40-f644-41b4-a4a1-44a7aee5e13e"
   },
   {
-    "name": "PUZ_GEN_Rolling_Boulder_A.dae",
+    "name": "PUZ_GEN_Rolling_Boulder_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Rolling_Boulder_ABC/Resources/PUZ_GEN_Rolling_Boulder_A.dae",
     "size": [
       2.6486849784851074,
@@ -1705,7 +1705,7 @@
     "uuid": "28cd2778-250c-44b4-a3ad-6cdf0728d965"
   },
   {
-    "name": "PUZ_GEN_Rope_A_3H_A.dae",
+    "name": "PUZ_GEN_Rope_A_3H_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Rope_ABC/Resources/PUZ_GEN_Rope_A_3H_A.dae",
     "size": [
       0.0855569988489151,
@@ -1720,7 +1720,7 @@
     "uuid": "5d5dcb6d-ac4c-4434-bbd4-ccdcb7dfe3e5"
   },
   {
-    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A.dae",
+    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Scaffolding_Wood_Breakable_ABC/Resources/PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A.dae",
     "size": [
       3.1021809577941895,
@@ -1735,7 +1735,7 @@
     "uuid": "0ab7398d-701b-4ba5-9e03-16ddeceb9ccd"
   },
   {
-    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Destruct.dae",
+    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Scaffolding_Wood_Breakable_ABC/Resources/PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Destruct.dae",
     "size": [
       3.132130980491638,
@@ -1750,7 +1750,7 @@
     "uuid": "5426fe23-cecb-4582-b6f9-5936b6f7ab36"
   },
   {
-    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Explode.dae",
+    "name": "PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Scaffolding_Wood_Breakable_ABC/Resources/PUZ_GEN_Scaffolding_Wood_Platform_Breakable_A_Explode.dae",
     "size": [
       3.1021809577941895,
@@ -1764,7 +1764,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Cage_A_Bottom_A.dae",
+    "name": "PUZ_GEN_Trap_Cage_A_Bottom_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_GEN_Trap_Cage_A_Bottom_A.dae",
     "size": [
       1.8138999938964844,
@@ -1779,7 +1779,7 @@
     "uuid": "7f126edc-e142-42ef-8121-08ff5332c0af"
   },
   {
-    "name": "PUZ_GEN_Trap_Cage_A_Closed_A.dae",
+    "name": "PUZ_GEN_Trap_Cage_A_Closed_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_GEN_Trap_Cage_A_Closed_A.dae",
     "size": [
       3.6037250757217407,
@@ -1794,7 +1794,7 @@
     "uuid": "fe81c9a9-cd2d-4a1f-bb0e-66617cc85de6"
   },
   {
-    "name": "PUZ_GEN_Trap_Cage_A_Missing_Bottom_A.dae",
+    "name": "PUZ_GEN_Trap_Cage_A_Missing_Bottom_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_GEN_Trap_Cage_A_Missing_Bottom_A.dae",
     "size": [
       3.6037250757217407,
@@ -1809,7 +1809,7 @@
     "uuid": "74f8a44e-7e87-4be8-8152-0e29a115c817"
   },
   {
-    "name": "PUZ_GEN_Trap_Cage_A_Missing_Bottom_A_Cinematic.dae",
+    "name": "PUZ_GEN_Trap_Cage_A_Missing_Bottom_A_Cinematic",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_GEN_Trap_Cage_A_Missing_Bottom_A_Cinematic.dae",
     "size": [
       3.6037250757217407,
@@ -1823,7 +1823,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Cage_A_Open_A.dae",
+    "name": "PUZ_GEN_Trap_Cage_A_Open_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_GEN_Trap_Cage_A_Open_A.dae",
     "size": [
       8.411524057388306,
@@ -1838,7 +1838,7 @@
     "uuid": "4ada605d-4bec-4613-8cde-fc3865cb851b"
   },
   {
-    "name": "PUZ_PLT_CHA_CageBottom_Mesh_Destruct.dae",
+    "name": "PUZ_PLT_CHA_CageBottom_Mesh_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_PLT_CHA_CageBottom_Mesh_Destruct.dae",
     "size": [
       2.215083956718445,
@@ -1853,7 +1853,7 @@
     "uuid": "69ae9418-a4e8-49e1-950a-36bc203876ae"
   },
   {
-    "name": "PUZ_PLT_CHA_CageBottom_Mesh_Explode.dae",
+    "name": "PUZ_PLT_CHA_CageBottom_Mesh_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Cage_ABC/Resources/PUZ_PLT_CHA_CageBottom_Mesh_Explode.dae",
     "size": [
       1.8124719858169556,
@@ -1868,7 +1868,7 @@
     "uuid": "b83ca5d2-97a1-4c8c-ad69-8888b42f32dd"
   },
   {
-    "name": "PUZ_GEN_Trap_Collapse_A.dae",
+    "name": "PUZ_GEN_Trap_Collapse_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Collapse_ABC/Resources/PUZ_GEN_Trap_Collapse_A.dae",
     "size": [
       3.001412034034729,
@@ -1883,7 +1883,7 @@
     "uuid": "c6b35f62-4c6a-42df-b59c-54b88a78933a"
   },
   {
-    "name": "PUZ_GEN_Trap_Collapse_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Collapse_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Collapse_ABC/Resources/PUZ_GEN_Trap_Collapse_A_Destruct.dae",
     "size": [
       3.172402024269104,
@@ -1898,7 +1898,7 @@
     "uuid": "9a228ee9-79a7-4bc3-bf54-2df5388f6567"
   },
   {
-    "name": "PUZ_GEN_Trap_Collapse_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Collapse_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Collapse_ABC/Resources/PUZ_GEN_Trap_Collapse_A_Explode.dae",
     "size": [
       3.0006920099258423,
@@ -1912,7 +1912,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
     "size": [
       2.1215900182724,
@@ -1927,7 +1927,7 @@
     "uuid": "cf8869cf-b5ea-4b18-a5f6-cb11d364fb3c"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_A.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_A.dae",
     "size": [
       2.1211119890213013,
@@ -1942,7 +1942,7 @@
     "uuid": "7d2f8db5-3cfd-420a-b501-47f45faea8d3"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_B.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_B.dae",
     "size": [
       1.091863989830017,
@@ -1957,7 +1957,7 @@
     "uuid": "7c2bd436-cb99-44f7-af2a-c3c789b83808"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_C.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_C.dae",
     "size": [
       1.604979932308197,
@@ -1972,7 +1972,7 @@
     "uuid": "814bab94-1352-49f0-b2ff-83db93f504b3"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_D.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_D",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Broken_D.dae",
     "size": [
       1.6044389605522156,
@@ -1987,7 +1987,7 @@
     "uuid": "119c0ac6-fc01-4a9c-ac3c-9c8edf6a40ea"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Destruct.dae",
     "size": [
       4.49547004699707,
@@ -2002,7 +2002,7 @@
     "uuid": "e27493c8-7678-421a-9216-3d32bcdde5be"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Explode.dae",
     "size": [
       2.119227886199951,
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A.dae",
     "size": [
       0.627161979675293,
@@ -2031,7 +2031,7 @@
     "uuid": "cb6109d5-757f-449b-846a-873d8b47ff70"
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Destruct.dae",
     "size": [
       1.0896939933300018,
@@ -2045,7 +2045,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_A_Explode.dae",
     "size": [
       0.627161979675293,
@@ -2059,7 +2059,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B.dae",
     "size": [
       0.8426399827003479,
@@ -2073,7 +2073,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Destruct.dae",
     "size": [
       1.498017966747284,
@@ -2087,7 +2087,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_B_Explode.dae",
     "size": [
       0.8426399827003479,
@@ -2101,7 +2101,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C.dae",
     "size": [
       0.6319980025291443,
@@ -2115,7 +2115,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Destruct.dae",
     "size": [
       1.5296270251274109,
@@ -2129,7 +2129,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_Headface_C_Explode.dae",
     "size": [
       0.631521999835968,
@@ -2143,7 +2143,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Cave_A.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Cave_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Cave_A/Resources/PUZ_GEN_Trap_Gaspit_Cave_A.dae",
     "size": [
       1.2431259751319885,
@@ -2158,7 +2158,7 @@
     "uuid": "adb0c3c8-c68c-4149-8bc1-dcc3f70d1d16"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Cave_A/Resources/PUZ_GEN_Trap_Gaspit_Cave_A_Destruct.dae",
     "size": [
       1.301014006137848,
@@ -2173,7 +2173,7 @@
     "uuid": "4f7e4bdc-4f62-49e0-aa9f-18b674ab7646"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Cave_A/Resources/PUZ_GEN_Trap_Gaspit_Cave_A_Explode.dae",
     "size": [
       1.2431259751319885,
@@ -2187,7 +2187,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_A.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_A.dae",
     "size": [
       0.8818859755992889,
@@ -2202,7 +2202,7 @@
     "uuid": "d1731f83-865c-4346-a784-72c3aebe7a9e"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_A_Destruct.dae",
     "size": [
       0.8681979775428772,
@@ -2217,7 +2217,7 @@
     "uuid": "b7f98402-737e-4535-9b6a-76419e85af66"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_A_Explode.dae",
     "size": [
       0.8681979775428772,
@@ -2231,7 +2231,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_B.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_B.dae",
     "size": [
       0.8818829953670502,
@@ -2246,7 +2246,7 @@
     "uuid": "da227cc8-e5de-4cd8-89ea-9792a13c78fd"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_B_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_B_Destruct.dae",
     "size": [
       0.8681979775428772,
@@ -2261,7 +2261,7 @@
     "uuid": "be1dfeee-d83e-45e8-87fd-93ab23bfa18b"
   },
   {
-    "name": "PUZ_GEN_Trap_Gaspit_Temple_B_Explode.dae",
+    "name": "PUZ_GEN_Trap_Gaspit_Temple_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Temple_ABC/Resources/PUZ_GEN_Trap_Gaspit_Temple_B_Explode.dae",
     "size": [
       0.8681979775428772,
@@ -2275,7 +2275,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_A.dae",
+    "name": "PUZ_GEN_Trap_Hole_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_A.dae",
     "size": [
       0.5413099825382233,
@@ -2290,7 +2290,7 @@
     "uuid": "2f7795eb-6b3f-4763-adb8-717a994e6124"
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Hole_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_A_Destruct.dae",
     "size": [
       0.5454220026731491,
@@ -2305,7 +2305,7 @@
     "uuid": "530c4d3e-744a-4f4e-bef7-b3ff03192ad9"
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Hole_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_A_Explode.dae",
     "size": [
       0.5413099825382233,
@@ -2319,7 +2319,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_B.dae",
+    "name": "PUZ_GEN_Trap_Hole_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_B.dae",
     "size": [
       0.6175840198993683,
@@ -2334,7 +2334,7 @@
     "uuid": "433e300c-8925-4089-bf0f-14a20e22d00e"
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_B_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Hole_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_B_Destruct.dae",
     "size": [
       0.6555410027503967,
@@ -2349,7 +2349,7 @@
     "uuid": "8a01da55-3927-4c2e-b685-5f6ebfe8bbff"
   },
   {
-    "name": "PUZ_GEN_Trap_Hole_B_Explode.dae",
+    "name": "PUZ_GEN_Trap_Hole_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Hole_ABC/Resources/PUZ_GEN_Trap_Hole_B_Explode.dae",
     "size": [
       0.6175840198993683,
@@ -2363,7 +2363,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_A.dae",
+    "name": "PUZ_GEN_Trap_Mine_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A.dae",
     "size": [
       1.093291997909546,
@@ -2377,7 +2377,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Mine_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A_Destruct.dae",
     "size": [
       1.347790002822876,
@@ -2392,7 +2392,7 @@
     "uuid": "cd880043-910d-4018-925d-ae51ef0120dd"
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Mine_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A_Explode.dae",
     "size": [
       0.9672640264034271,
@@ -2406,7 +2406,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_C.dae",
+    "name": "PUZ_GEN_Trap_Mine_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_C.dae",
     "size": [
       1.093291997909546,
@@ -2420,7 +2420,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_C_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Mine_C_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_C_Destruct.dae",
     "size": [
       1.16315495967865,
@@ -2435,7 +2435,7 @@
     "uuid": "20005ba8-deaa-49d7-818e-12c6d6710c7f"
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_C_Explode.dae",
+    "name": "PUZ_GEN_Trap_Mine_C_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_C_Explode.dae",
     "size": [
       0.9672640264034271,
@@ -2449,7 +2449,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Mine_Flower_A.dae",
+    "name": "PUZ_GEN_Trap_Mine_Flower_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_Flower_ABC/Resources/PUZ_GEN_Trap_Mine_Flower_A.dae",
     "size": [
       0.7586629986763,
@@ -2463,7 +2463,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Spikes_Metal_A.dae",
+    "name": "PUZ_GEN_Trap_Spikes_Metal_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Spikes_Metal_ABC/Resources/PUZ_GEN_Trap_Spikes_Metal_A.dae",
     "size": [
       2.198533058166504,
@@ -2478,7 +2478,7 @@
     "uuid": "ebf5d35e-d0dd-4cdc-b6b8-cbcc1e054712"
   },
   {
-    "name": "PUZ_GEN_Trap_Spikes_Wood_A.dae",
+    "name": "PUZ_GEN_Trap_Spikes_Wood_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Spikes_Wood_ABC/Resources/PUZ_GEN_Trap_Spikes_Wood_A.dae",
     "size": [
       0.8860819935798645,
@@ -2493,7 +2493,7 @@
     "uuid": "672f1e5d-c653-4498-9154-e6dd6f8171b1"
   },
   {
-    "name": "PUZ_GEN_Trap_Spikes_Wood_B.dae",
+    "name": "PUZ_GEN_Trap_Spikes_Wood_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Spikes_Wood_ABC/Resources/PUZ_GEN_Trap_Spikes_Wood_B.dae",
     "size": [
       2.193902015686035,
@@ -2508,7 +2508,7 @@
     "uuid": "0c112995-73d9-4622-9a8b-ab7cab167078"
   },
   {
-    "name": "PUZ_GEN_Tripwire_A.dae",
+    "name": "PUZ_GEN_Tripwire_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_A.dae",
     "size": [
       2.1141799688339233,
@@ -2523,7 +2523,7 @@
     "uuid": "b8990625-9d03-4227-801b-95820488316a"
   },
   {
-    "name": "PUZ_GEN_Tripwire_A_Destruct.dae",
+    "name": "PUZ_GEN_Tripwire_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_A_Destruct.dae",
     "size": [
       2.1141799688339233,
@@ -2538,7 +2538,7 @@
     "uuid": "ac488739-89bb-4602-a02e-dd7076c92061"
   },
   {
-    "name": "PUZ_GEN_Tripwire_B.dae",
+    "name": "PUZ_GEN_Tripwire_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_B.dae",
     "size": [
       4.108489990234375,
@@ -2553,7 +2553,7 @@
     "uuid": "d7d9d670-783e-45ab-ba74-090fa3f97393"
   },
   {
-    "name": "PUZ_GEN_Tripwire_B_Destruct.dae",
+    "name": "PUZ_GEN_Tripwire_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_B_Destruct.dae",
     "size": [
       4.108680009841919,
@@ -2568,7 +2568,7 @@
     "uuid": "20812980-629b-47e5-a0a1-7d6787b944cb"
   },
   {
-    "name": "PUZ_GEN_Tripwire_C.dae",
+    "name": "PUZ_GEN_Tripwire_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_C.dae",
     "size": [
       6.106579065322876,
@@ -2583,7 +2583,7 @@
     "uuid": "f2b38e31-3ad5-4a6e-b38d-909ee852bf8a"
   },
   {
-    "name": "PUZ_GEN_Tripwire_C_Destruct.dae",
+    "name": "PUZ_GEN_Tripwire_C_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Tripwire_ABC/Resources/PUZ_GEN_Tripwire_C_Destruct.dae",
     "size": [
       6.106525897979736,
@@ -2598,7 +2598,7 @@
     "uuid": "ec09d103-a25c-4887-9411-a39d4bb21d87"
   },
   {
-    "name": "PUZ_GEN_Village_Obstruction_Pile_A.dae",
+    "name": "PUZ_GEN_Village_Obstruction_Pile_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Village_Obstruction_Pile_A/Resources/PUZ_GEN_Village_Obstruction_Pile_A.dae",
     "size": [
       6.34012508392334,
@@ -2613,7 +2613,7 @@
     "uuid": "dfe633e2-c1af-452e-b0d1-350a3b3435b8"
   },
   {
-    "name": "PUZ_GEN_Village_Obstruction_Pile_A_Destruct.dae",
+    "name": "PUZ_GEN_Village_Obstruction_Pile_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Village_Obstruction_Pile_A/Resources/PUZ_GEN_Village_Obstruction_Pile_A_Destruct.dae",
     "size": [
       7.534292221069336,
@@ -2628,7 +2628,7 @@
     "uuid": "409a4730-a2b8-4190-9e73-55f75f13f005"
   },
   {
-    "name": "PUZ_GEN_Village_Obstruction_Pile_A_Explode.dae",
+    "name": "PUZ_GEN_Village_Obstruction_Pile_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Village_Obstruction_Pile_A/Resources/PUZ_GEN_Village_Obstruction_Pile_A_Explode.dae",
     "size": [
       6.3367369174957275,
@@ -2642,7 +2642,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_A.dae",
     "size": [
       4.001147985458374,
@@ -2657,7 +2657,7 @@
     "uuid": "aa620984-b45d-4099-9aa7-63155408278e"
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A_Destruct.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_A_Destruct.dae",
     "size": [
       5.0450780391693115,
@@ -2672,7 +2672,7 @@
     "uuid": "13313489-1312-4baf-b943-862d4b32b594"
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A_Explode.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_A_Explode.dae",
     "size": [
       4.001147985458374,
@@ -2686,7 +2686,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_B.dae",
     "size": [
       4.001147985458374,
@@ -2701,7 +2701,7 @@
     "uuid": "137b94b7-8029-482c-8b8d-cbf6ead2bacd"
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B_Destruct.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_B_Destruct.dae",
     "size": [
       4.473735094070435,
@@ -2716,7 +2716,7 @@
     "uuid": "298fb926-8ab2-439c-92ad-9e9e512f253b"
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B_Explode.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_B_Explode.dae",
     "size": [
       4.001147985458374,
@@ -2730,7 +2730,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_C.dae",
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_C.dae",
     "size": [
       3.8841559886932373,
@@ -2745,7 +2745,7 @@
     "uuid": "8ae844b5-3eb8-4fa3-8040-929a68cea079"
   },
   {
-    "name": "PUZ_GEN_WineBarrel_A.dae",
+    "name": "PUZ_GEN_WineBarrel_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_WineBarrel_A/Resources/PUZ_GEN_WineBarrel_A.dae",
     "size": [
       2.4334300756454468,
@@ -2760,7 +2760,7 @@
     "uuid": "66e8cf5a-9d48-4821-9666-864bbb6d7862"
   },
   {
-    "name": "PUZ_GEN_WineBarrel_A_Destruct.dae",
+    "name": "PUZ_GEN_WineBarrel_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_WineBarrel_A/Resources/PUZ_GEN_WineBarrel_A_Destruct.dae",
     "size": [
       4.738221883773804,
@@ -2775,7 +2775,7 @@
     "uuid": "59b64b30-2ba9-4b4d-9002-fcdb4de54e9f"
   },
   {
-    "name": "PUZ_GEN_WineBarrel_A_Explode.dae",
+    "name": "PUZ_GEN_WineBarrel_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_WineBarrel_A/Resources/PUZ_GEN_WineBarrel_A_Explode.dae",
     "size": [
       2.4296709299087524,
@@ -2789,7 +2789,7 @@
     ]
   },
   {
-    "name": "PUZ_GOB_Floor_Breakable_A.dae",
+    "name": "PUZ_GOB_Floor_Breakable_A",
     "relative_path": "Puzzle/Goblins/PUZ_GOB_Floor_Breakable_ABC/Resources/PUZ_GOB_Floor_Breakable_A.dae",
     "size": [
       8.096901893615723,
@@ -2804,7 +2804,7 @@
     "uuid": "5f9e795a-94d2-4d0f-ac45-850043d62c63"
   },
   {
-    "name": "PUZ_GOB_Floor_Breakable_A_Destruct.dae",
+    "name": "PUZ_GOB_Floor_Breakable_A_Destruct",
     "relative_path": "Puzzle/Goblins/PUZ_GOB_Floor_Breakable_ABC/Resources/PUZ_GOB_Floor_Breakable_A_Destruct.dae",
     "size": [
       12.51977252960205,
@@ -2819,7 +2819,7 @@
     "uuid": "11874eb1-78f7-48eb-a1a4-4b753e202d66"
   },
   {
-    "name": "PUZ_GOB_Floor_Breakable_A_Explode.dae",
+    "name": "PUZ_GOB_Floor_Breakable_A_Explode",
     "relative_path": "Puzzle/Goblins/PUZ_GOB_Floor_Breakable_ABC/Resources/PUZ_GOB_Floor_Breakable_A_Explode.dae",
     "size": [
       8.147572994232178,
@@ -2834,7 +2834,7 @@
     "uuid": "f2452354-6e97-4acf-86c5-d3cc952511fc"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Bowl_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Bowl_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Bowl_A.dae",
     "size": [
       2.0961899757385254,
@@ -2849,7 +2849,7 @@
     "uuid": "01ea948d-e239-4540-9aaa-cc74974310d0"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Hinge_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Hinge_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Hinge_A.dae",
     "size": [
       0.9900089800357819,
@@ -2864,7 +2864,7 @@
     "uuid": "8b070c52-ee03-41e8-bc74-19ec6b00aa6b"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_12H_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_12H_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_12H_A.dae",
     "size": [
       0.0855569988489151,
@@ -2879,7 +2879,7 @@
     "uuid": "899736a3-984a-46fd-b54b-78bb55c42d80"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_15H_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_15H_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_15H_A.dae",
     "size": [
       0.0855569988489151,
@@ -2894,7 +2894,7 @@
     "uuid": "8074ac70-a8f5-43a8-a46e-c35cb15ce5c3"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_3H_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_3H_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_3H_A.dae",
     "size": [
       0.0855569988489151,
@@ -2909,7 +2909,7 @@
     "uuid": "36dc0a7d-a8f4-4016-83ac-4fa88a7a1b72"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_6H_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_6H_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_6H_A.dae",
     "size": [
       0.0855569988489151,
@@ -2924,7 +2924,7 @@
     "uuid": "5bfc2993-6958-467d-958f-07221ed6a3bd"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_9H_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_9H_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_9H_A.dae",
     "size": [
       0.0855569988489151,
@@ -2939,7 +2939,7 @@
     "uuid": "90f1b00f-3d10-49dc-90a6-84027215a84e"
   },
   {
-    "name": "PUZ_GOB_Firebowl_A_Rope_A.dae",
+    "name": "PUZ_GOB_Firebowl_A_Rope_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_A.dae",
     "size": [
       0.0855569988489151,
@@ -2953,7 +2953,7 @@
     ]
   },
   {
-    "name": "PUZ_GOB_Sapper_Barrel_A.dae",
+    "name": "PUZ_GOB_Sapper_Barrel_A",
     "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Sapper_Barrel_A.dae",
     "size": [
       0.6651450097560883,
@@ -2968,7 +2968,7 @@
     "uuid": "32b8c159-2fe8-4a90-9914-a971c11c7a8f"
   },
   {
-    "name": "PUZ_HAG_Lever_Wood_A.dae",
+    "name": "PUZ_HAG_Lever_Wood_A",
     "relative_path": "Puzzle/Hag/PUZ_HAG_Lever_Wood_ABC/Resources/PUZ_HAG_Lever_Wood_A.dae",
     "size": [
       1.317225992679596,
@@ -2983,7 +2983,7 @@
     "uuid": "fd1ba651-cb8a-417b-99f8-059e026d41e5"
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x2_1H_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x2_1H_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x2_1H_A.dae",
     "size": [
       0.009999999776482582,
@@ -2998,7 +2998,7 @@
     "uuid": "b318367f-1324-4a12-affb-356a354ce17a"
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x2_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x2_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x2_A.dae",
     "size": [
       0.009999999776482582,
@@ -3013,7 +3013,7 @@
     "uuid": "2db1595f-d537-439e-8726-e6370bee2117"
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x4_1H_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x4_1H_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x4_1H_A.dae",
     "size": [
       0.009999999776482582,
@@ -3028,7 +3028,7 @@
     "uuid": "4f4877ca-49c3-4d30-b0ed-14014fbe8554"
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x4_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x4_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x4_A.dae",
     "size": [
       0.009999999776482582,
@@ -3043,7 +3043,7 @@
     "uuid": "ba6d6746-e1eb-4d22-96b2-2346afbb3e58"
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x8_1H_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x8_1H_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x8_1H_A.dae",
     "size": [
       0.009999999776482582,
@@ -3057,7 +3057,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_2x8_A.dae",
+    "name": "PUZ_InvisibleBlocker_2x8_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_2x8_A.dae",
     "size": [
       0.009999999776482582,
@@ -3072,7 +3072,7 @@
     "uuid": "9055328c-4d23-41b6-b633-220345e7b0b2"
   },
   {
-    "name": "PUZ_InvisibleBlocker_3x1_0n2H_A.dae",
+    "name": "PUZ_InvisibleBlocker_3x1_0n2H_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_3x1_0n2H_A.dae",
     "size": [
       3.0,
@@ -3086,7 +3086,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_3x3_Trapezoid_Corner_A.dae",
+    "name": "PUZ_InvisibleBlocker_3x3_Trapezoid_Corner_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_3x3_Trapezoid_Corner_A.dae",
     "size": [
       3.0,
@@ -3100,7 +3100,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Cone_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Cone_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Cone_A.dae",
     "size": [
       4.206019878387451,
@@ -3115,7 +3115,7 @@
     "uuid": "065cf1a5-2f47-4071-8826-6570dcbfbd8a"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Cone_B.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Cone_B",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Cone_B.dae",
     "size": [
       4.206019878387451,
@@ -3130,7 +3130,7 @@
     "uuid": "b59afcab-272c-40cb-8d53-02c68276117c"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Pyramid_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Pyramid_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Pyramid_A.dae",
     "size": [
       4.0,
@@ -3145,7 +3145,7 @@
     "uuid": "51b12a0b-fc86-4b84-be5c-988b257126bd"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Pyramid_B.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Pyramid_B",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Pyramid_B.dae",
     "size": [
       4.0,
@@ -3160,7 +3160,7 @@
     "uuid": "eab9f62c-adc1-4922-9fb9-d70f3cd4a1b2"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Trapezoid_A.dae",
     "size": [
       4.0,
@@ -3175,7 +3175,7 @@
     "uuid": "f4e05f57-bf40-49f5-a193-23dc715e244f"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_B.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_B",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Trapezoid_B.dae",
     "size": [
       4.0,
@@ -3190,7 +3190,7 @@
     "uuid": "f66156cb-caaa-4af1-9a3e-d6246f7db57d"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_Corner_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_Corner_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Trapezoid_Corner_A.dae",
     "size": [
       4.0,
@@ -3204,7 +3204,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_Sloped_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x4_Trapezoid_Sloped_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x4_Trapezoid_Sloped_A.dae",
     "size": [
       4.0,
@@ -3219,7 +3219,7 @@
     "uuid": "c4980638-aef2-4efa-9b47-309f231e6967"
   },
   {
-    "name": "PUZ_InvisibleBlocker_4x8_Trapezoid_A.dae",
+    "name": "PUZ_InvisibleBlocker_4x8_Trapezoid_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_4x8_Trapezoid_A.dae",
     "size": [
       8.0,
@@ -3233,7 +3233,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_7x8_Trapezoid_Sloped_A.dae",
+    "name": "PUZ_InvisibleBlocker_7x8_Trapezoid_Sloped_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_7x8_Trapezoid_Sloped_A.dae",
     "size": [
       8.0,
@@ -3247,7 +3247,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_8x8_Cone_A.dae",
+    "name": "PUZ_InvisibleBlocker_8x8_Cone_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_8x8_Cone_A.dae",
     "size": [
       8.381126403808594,
@@ -3261,7 +3261,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_8x8_Pyramid_A.dae",
+    "name": "PUZ_InvisibleBlocker_8x8_Pyramid_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_8x8_Pyramid_A.dae",
     "size": [
       8.0,
@@ -3275,7 +3275,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_Cylinder_2x2_4H_A.dae",
+    "name": "PUZ_InvisibleBlocker_Cylinder_2x2_4H_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Cylinder_2x2_4H_A.dae",
     "size": [
       2.1649999618530273,
@@ -3290,7 +3290,7 @@
     "uuid": "4d2b7916-e1ee-4290-bd37-c71610f4ae22"
   },
   {
-    "name": "PUZ_InvisibleBlocker_Cylinder_2x2_A.dae",
+    "name": "PUZ_InvisibleBlocker_Cylinder_2x2_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Cylinder_2x2_A.dae",
     "size": [
       2.1649999618530273,
@@ -3305,7 +3305,7 @@
     "uuid": "a6f181ed-602a-478e-8529-29e375e63bab"
   },
   {
-    "name": "PUZ_InvisibleBlocker_Nautiloid_Disc_Slider_A.dae",
+    "name": "PUZ_InvisibleBlocker_Nautiloid_Disc_Slider_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Nautiloid_Disc_Slider_A.dae",
     "size": [
       47.573890686035156,
@@ -3319,7 +3319,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_Nautiloid_Slider_A.dae",
+    "name": "PUZ_InvisibleBlocker_Nautiloid_Slider_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Nautiloid_Slider_A.dae",
     "size": [
       79.34507751464844,
@@ -3333,7 +3333,7 @@
     ]
   },
   {
-    "name": "PUZ_InvisibleBlocker_Nautiloid_Wall_A.dae",
+    "name": "PUZ_InvisibleBlocker_Nautiloid_Wall_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Nautiloid_Wall_A.dae",
     "size": [
       66.20239639282227,
@@ -3348,7 +3348,7 @@
     "uuid": "dee6bd00-ce0a-4421-a10a-d329b14cb4bc"
   },
   {
-    "name": "PUZ_InvisibleBlocker_Nautiloid_Wall_B.dae",
+    "name": "PUZ_InvisibleBlocker_Nautiloid_Wall_B",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_Nautiloid_Wall_B.dae",
     "size": [
       41.796828269958496,
@@ -3362,7 +3362,7 @@
     ]
   },
   {
-    "name": "PUZ_UNI_InvisibleBlocker_HagLair_A.dae",
+    "name": "PUZ_UNI_InvisibleBlocker_HagLair_A",
     "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_UNI_InvisibleBlocker_HagLair_A.dae",
     "size": [
       17.269545078277588,
@@ -3376,7 +3376,7 @@
     ]
   },
   {
-    "name": "PUZ_Jergal_Lever_Skull_A.dae",
+    "name": "PUZ_Jergal_Lever_Skull_A",
     "relative_path": "Puzzle/Jergal/PUZ_Jergal_Lever_Skull_A/Resources/PUZ_Jergal_Lever_Skull_A.dae",
     "size": [
       0.5176499783992767,
@@ -3391,7 +3391,7 @@
     "uuid": "f0d306fd-6091-4b35-b460-f412f8e8825b"
   },
   {
-    "name": "PUZ_Ketheric_Giant_Forge_Lever_Floor_A.dae",
+    "name": "PUZ_Ketheric_Giant_Forge_Lever_Floor_A",
     "relative_path": "Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Lever_AB/Resources/PUZ_Ketheric_Giant_Forge_Lever_Floor_A.dae",
     "size": [
       0.2966899871826172,
@@ -3406,7 +3406,7 @@
     "uuid": "025ae26c-d003-4ecc-9cb2-4dd5e008beb9"
   },
   {
-    "name": "PUZ_Ketheric_Giant_Forge_Lever_Wall_A.dae",
+    "name": "PUZ_Ketheric_Giant_Forge_Lever_Wall_A",
     "relative_path": "Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Lever_AB/Resources/PUZ_Ketheric_Giant_Forge_Lever_Wall_A.dae",
     "size": [
       0.2635060101747513,
@@ -3421,7 +3421,7 @@
     "uuid": "36378088-c78f-40b2-838a-a6babf0846fa"
   },
   {
-    "name": "PUZ_Ketheric_Giant_Forge_Valve_A.dae",
+    "name": "PUZ_Ketheric_Giant_Forge_Valve_A",
     "relative_path": "Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Valve_A/Resources/PUZ_Ketheric_Giant_Forge_Valve_A.dae",
     "size": [
       0.9495010077953339,
@@ -3436,7 +3436,7 @@
     "uuid": "8df19728-fcdc-4875-a015-128b1a2f2f36"
   },
   {
-    "name": "PUZ_Ketheric_Giant_Forge_Valve_B.dae",
+    "name": "PUZ_Ketheric_Giant_Forge_Valve_B",
     "relative_path": "Puzzle/Ketheric/PUZ_Ketheric_Giant_Forge_Valve_A/Resources/PUZ_Ketheric_Giant_Forge_Valve_B.dae",
     "size": [
       1.7783520221710205,
@@ -3451,7 +3451,7 @@
     "uuid": "f9951cb5-97f4-444d-9ae0-6fd7b309d037"
   },
   {
-    "name": "PUZ_Lathander_Barrier_Generator_A.dae",
+    "name": "PUZ_Lathander_Barrier_Generator_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Barrier_Generator_ABC/Resources/PUZ_Lathander_Barrier_Generator_A.dae",
     "size": [
       10.268648147583008,
@@ -3466,7 +3466,7 @@
     "uuid": "c7cfd415-aa94-4f78-8218-5a37c4993c2b"
   },
   {
-    "name": "PUZ_Lathander_Barrier_Generator_A_Hinges_A.dae",
+    "name": "PUZ_Lathander_Barrier_Generator_A_Hinges_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Barrier_Generator_ABC/Resources/PUZ_Lathander_Barrier_Generator_A_Hinges_A.dae",
     "size": [
       9.50803804397583,
@@ -3481,7 +3481,7 @@
     "uuid": "e7457cb0-2062-410d-87ac-dcc6c12ee880"
   },
   {
-    "name": "PUZ_Lathander_Barrier_Generator_A_Top_A.dae",
+    "name": "PUZ_Lathander_Barrier_Generator_A_Top_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Barrier_Generator_ABC/Resources/PUZ_Lathander_Barrier_Generator_A_Top_A.dae",
     "size": [
       9.24925708770752,
@@ -3496,7 +3496,7 @@
     "uuid": "e6277fd1-c9c9-4167-8760-ce77fa935978"
   },
   {
-    "name": "PUZ_Lathander_Beam_Concentrator_A.dae",
+    "name": "PUZ_Lathander_Beam_Concentrator_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Beam_Concentrator_ABC/Resources/PUZ_Lathander_Beam_Concentrator_A.dae",
     "size": [
       3.459686040878296,
@@ -3511,7 +3511,7 @@
     "uuid": "6988b211-3891-45d7-b63d-cfb43f498fb2"
   },
   {
-    "name": "PUZ_Lathander_Crest_Panel_A.dae",
+    "name": "PUZ_Lathander_Crest_Panel_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Crest_Panel_ABC/Resources/PUZ_Lathander_Crest_Panel_A.dae",
     "size": [
       0.45774200558662415,
@@ -3526,7 +3526,7 @@
     "uuid": "15e9b49a-a583-4b37-a9e6-892a8ad6d702"
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_A.dae",
+    "name": "PUZ_Lathander_Energy_Source_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_A.dae",
     "size": [
       2.0462499856948853,
@@ -3541,7 +3541,7 @@
     "uuid": "adff38b5-be2b-4c3b-b584-adcd049bd835"
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_B.dae",
+    "name": "PUZ_Lathander_Energy_Source_B",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_B.dae",
     "size": [
       2.0462499856948853,
@@ -3556,7 +3556,7 @@
     "uuid": "b7dd8623-5542-4f5d-a7f1-1702d55370d5"
   },
   {
-    "name": "PUZ_Lathander_Shockwave_Trap_A.dae",
+    "name": "PUZ_Lathander_Shockwave_Trap_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Shockwave_Trap_ABC/Resources/PUZ_Lathander_Shockwave_Trap_A.dae",
     "size": [
       3.2843419313430786,
@@ -3571,7 +3571,7 @@
     "uuid": "27b23046-4504-458a-b4e0-2161ebe4407f"
   },
   {
-    "name": "PUZ_Lathander_Solar_Machine_A.dae",
+    "name": "PUZ_Lathander_Solar_Machine_A",
     "relative_path": "Puzzle/Lathander/Resources/PUZ_Lathander_Solar_Machine_A.dae",
     "size": [
       5.271468877792358,
@@ -3586,7 +3586,7 @@
     "uuid": "ad64d8a0-51dc-4435-bdce-3495e18463be"
   },
   {
-    "name": "PUZ_Lathander_Solar_Machine_Crystal_A.dae",
+    "name": "PUZ_Lathander_Solar_Machine_Crystal_A",
     "relative_path": "Puzzle/Lathander/Resources/PUZ_Lathander_Solar_Machine_Crystal_A.dae",
     "size": [
       22.52833366394043,
@@ -3601,7 +3601,7 @@
     "uuid": "a9a9468a-19de-4c95-8b50-1d04eb90e17d"
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_A.dae",
+    "name": "PUZ_MF_Explosive_Contraption_A",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_A.dae",
     "size": [
       0.8640620112419128,
@@ -3616,7 +3616,7 @@
     "uuid": "24e01b77-0a74-410d-869f-919918f20278"
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_A_Destruct.dae",
+    "name": "PUZ_MF_Explosive_Contraption_A_Destruct",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_A_Destruct.dae",
     "size": [
       2.113371968269348,
@@ -3631,7 +3631,7 @@
     "uuid": "c56416b4-f3c9-4ae0-a4c2-f4e12bb75c17"
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_A_Explode.dae",
+    "name": "PUZ_MF_Explosive_Contraption_A_Explode",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_A_Explode.dae",
     "size": [
       0.8640620112419128,
@@ -3645,7 +3645,7 @@
     ]
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_B.dae",
+    "name": "PUZ_MF_Explosive_Contraption_B",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_B.dae",
     "size": [
       0.8438209891319275,
@@ -3660,7 +3660,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_B_Destruct.dae",
+    "name": "PUZ_MF_Explosive_Contraption_B_Destruct",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_B_Destruct.dae",
     "size": [
       2.2636939883232117,
@@ -3675,7 +3675,7 @@
     "uuid": "60f7301d-824b-4174-8a9d-51eb3f8ad6ac"
   },
   {
-    "name": "PUZ_MF_Explosive_Contraption_B_Explode.dae",
+    "name": "PUZ_MF_Explosive_Contraption_B_Explode",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Explosive_Contraption_ABC/Resources/PUZ_MF_Explosive_Contraption_B_Explode.dae",
     "size": [
       0.8399899899959564,
@@ -3689,7 +3689,7 @@
     ]
   },
   {
-    "name": "PUZ_MF_Lever_Console_A.dae",
+    "name": "PUZ_MF_Lever_Console_A",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Lever_Console_ABC/Resources/PUZ_MF_Lever_Console_A.dae",
     "size": [
       2.2141510248184204,
@@ -3704,7 +3704,7 @@
     "uuid": "2a4e8879-f36b-4dbc-8dbf-e693dfc19740"
   },
   {
-    "name": "PUZ_NAT_Rock_Boulder_Throwable_A.dae",
+    "name": "PUZ_NAT_Rock_Boulder_Throwable_A",
     "relative_path": "Puzzle/Nature/PUZ_NAT_Rock_Boulder_Throwable_ABC/Resources/PUZ_NAT_Rock_Boulder_Throwable_A.dae",
     "size": [
       1.176347017288208,
@@ -3718,7 +3718,7 @@
     ]
   },
   {
-    "name": "PUZ_Door_SlidingWall_DungeonAbbey_A.dae",
+    "name": "PUZ_Door_SlidingWall_DungeonAbbey_A",
     "relative_path": "Puzzle/Placeholder/PUZ_Door_SlidingWall_DungeonAbbey_ABC/Resources/PUZ_Door_SlidingWall_DungeonAbbey_A.dae",
     "size": [
       2.0,
@@ -3733,7 +3733,7 @@
     "uuid": "256f1a15-3ea7-4900-8800-144ad9a04b39"
   },
   {
-    "name": "PUZ_Placeholder_Combat_A.dae",
+    "name": "PUZ_Placeholder_Combat_A",
     "relative_path": "Puzzle/Placeholder/PUZ_Placeholder_Situation_ABC/Resources/PUZ_Placeholder_Combat_A.dae",
     "size": [
       1.1188580393791199,
@@ -3748,7 +3748,7 @@
     "uuid": "f9568033-adc3-426a-a30b-d11aa3523f58"
   },
   {
-    "name": "PUZ_Placeholder_Situation_A.dae",
+    "name": "PUZ_Placeholder_Situation_A",
     "relative_path": "Puzzle/Placeholder/PUZ_Placeholder_Situation_ABC/Resources/PUZ_Placeholder_Situation_A.dae",
     "size": [
       1.630972981452942,
@@ -3763,7 +3763,7 @@
     "uuid": "c153f83f-19cc-4533-898f-5e1348c84960"
   },
   {
-    "name": "PUZ_Ship_Darklake_Raft_Tiller_Steer_A.dae",
+    "name": "PUZ_Ship_Darklake_Raft_Tiller_Steer_A",
     "relative_path": "Puzzle/Ship/PUZ_Ship_Darklake_Raft_Tiller_Steer_ABC/Resources/PUZ_Ship_Darklake_Raft_Tiller_Steer_A.dae",
     "size": [
       2.8843610286712646,
@@ -3778,7 +3778,7 @@
     "uuid": "d57e9273-9895-44a6-b700-614b87f2f7de"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_A.dae",
     "size": [
       7.246252059936523,
@@ -3792,7 +3792,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Crescent_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Crescent_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_Crescent_A.dae",
     "size": [
       1.769802987575531,
@@ -3806,7 +3806,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Full_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Full_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_Full_A.dae",
     "size": [
       1.747305989265442,
@@ -3820,7 +3820,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_New_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_New_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_New_A.dae",
     "size": [
       1.7570199966430664,
@@ -3834,7 +3834,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_LootStash_01.dae",
+    "name": "PUZ_Temple_Shar_LootStash_01",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_LootStash_ABC/Resources/PUZ_Temple_Shar_LootStash_01.dae",
     "size": [
       1.188746988773346,
@@ -3848,7 +3848,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_LootStash_02.dae",
+    "name": "PUZ_Temple_Shar_LootStash_02",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_LootStash_ABC/Resources/PUZ_Temple_Shar_LootStash_02.dae",
     "size": [
       0.9943720102310181,
@@ -3862,7 +3862,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_LootStash_03.dae",
+    "name": "PUZ_Temple_Shar_LootStash_03",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_LootStash_ABC/Resources/PUZ_Temple_Shar_LootStash_03.dae",
     "size": [
       1.1887480020523071,
@@ -3876,7 +3876,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_LootStash_04.dae",
+    "name": "PUZ_Temple_Shar_LootStash_04",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_LootStash_ABC/Resources/PUZ_Temple_Shar_LootStash_04.dae",
     "size": [
       1.1887470185756683,
@@ -3890,7 +3890,7 @@
     ]
   },
   {
-    "name": "Proxy_PUZ_Temple_Shar_Moon.dae",
+    "name": "Proxy_PUZ_Temple_Shar_Moon",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/Proxy_PUZ_Temple_Shar_Moon.dae",
     "size": [
       4.50231409072876,
@@ -3904,7 +3904,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Base_Platform_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Base_Platform_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Base_Platform_A.dae",
     "size": [
       5.501535892486572,
@@ -3919,7 +3919,7 @@
     "uuid": "cd7ca09f-0d09-4298-b6f2-8bf7f1f744a1"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Dark_Moon_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Dark_Moon_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Dark_Moon_A.dae",
     "size": [
       0.8598650097846985,
@@ -3934,7 +3934,7 @@
     "uuid": "45810767-882f-4eb9-8ce4-76e7a001f1f0"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Dark_Moon_B.dae",
+    "name": "PUZ_Temple_Shar_Moon_Dark_Moon_B",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Dark_Moon_B.dae",
     "size": [
       0.8598650097846985,
@@ -3949,7 +3949,7 @@
     "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Disc_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Disc_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Disc_A.dae",
     "size": [
       4.50231409072876,
@@ -3963,7 +3963,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Disc_B.dae",
+    "name": "PUZ_Temple_Shar_Moon_Disc_B",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Disc_B.dae",
     "size": [
       4.50231409072876,
@@ -3977,7 +3977,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Disc_C.dae",
+    "name": "PUZ_Temple_Shar_Moon_Disc_C",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Disc_C.dae",
     "size": [
       4.50231409072876,
@@ -3991,7 +3991,7 @@
     ]
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Full_Moon_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Full_Moon_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Full_Moon_A.dae",
     "size": [
       0.8598650097846985,
@@ -4006,7 +4006,7 @@
     "uuid": "5d192628-9873-4bef-b4b2-00b147d80d2b"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Full_Moon_B.dae",
+    "name": "PUZ_Temple_Shar_Moon_Full_Moon_B",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Full_Moon_B.dae",
     "size": [
       0.8598650097846985,
@@ -4021,7 +4021,7 @@
     "uuid": "921a9ac9-b2cf-4700-9c1c-b255c9f31241"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Half_Moon_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Half_Moon_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Half_Moon_A.dae",
     "size": [
       0.8598659932613373,
@@ -4036,7 +4036,7 @@
     "uuid": "157be0c6-27ae-48f4-a8f8-dfcec57b5a09"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Half_Moon_B.dae",
+    "name": "PUZ_Temple_Shar_Moon_Half_Moon_B",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Half_Moon_B.dae",
     "size": [
       0.8598650097846985,
@@ -4051,7 +4051,7 @@
     "uuid": "6772e7eb-c8ff-454e-9787-f3397ec840ec"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Hint_A.dae",
+    "name": "PUZ_Temple_Shar_Moon_Hint_A",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Hint_A.dae",
     "size": [
       2.812993049621582,
@@ -4066,7 +4066,7 @@
     "uuid": "475ce62c-75da-4475-b798-672cf4c671af"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Hint_B.dae",
+    "name": "PUZ_Temple_Shar_Moon_Hint_B",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Hint_B.dae",
     "size": [
       2.8119380474090576,
@@ -4081,7 +4081,7 @@
     "uuid": "20e7a8c9-a21d-4420-884c-66eaefad1e37"
   },
   {
-    "name": "PUZ_Temple_Shar_Moon_Hint_C.dae",
+    "name": "PUZ_Temple_Shar_Moon_Hint_C",
     "relative_path": "Puzzle/Temple/PUZ_Temple_Shar_Moon_ABC/Resources/PUZ_Temple_Shar_Moon_Hint_C.dae",
     "size": [
       2.8119380474090576,
@@ -4096,7 +4096,7 @@
     "uuid": "edd2e756-41d9-4f71-9331-30f7f34313b9"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Barrelstalk_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Barrelstalk_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Barrelstalk_A.dae",
     "size": [
       1.5106690526008606,
@@ -4111,7 +4111,7 @@
     "uuid": "4f356b78-abcb-41b7-a8d5-05812b5240ac"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_A.dae",
     "size": [
       3.128006100654602,
@@ -4126,7 +4126,7 @@
     "uuid": "ba629b1b-a058-4386-808f-bf1b08b2c0ad"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_A_Remains_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_A_Remains_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_A_Remains_A.dae",
     "size": [
       3.128006100654602,
@@ -4141,7 +4141,7 @@
     "uuid": "da90e9bf-bb45-4b90-96bf-ce442ce63a47"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_B.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_B.dae",
     "size": [
       2.3944560289382935,
@@ -4156,7 +4156,7 @@
     "uuid": "b80b4cf8-181a-4e75-bea2-2c441c6f2b04"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_B_Remain_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_B_Remain_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_B_Remain_A.dae",
     "size": [
       2.3944560289382935,
@@ -4170,7 +4170,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_C.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_C",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_C.dae",
     "size": [
       0.7747800052165985,
@@ -4185,7 +4185,7 @@
     "uuid": "86695866-3009-4ab3-a3f5-41a72d71d29f"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Bibberbang_C_Remains_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_C_Remains_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_C_Remains_A.dae",
     "size": [
       0.7747800052165985,
@@ -4200,7 +4200,7 @@
     "uuid": "8ac5273f-b250-4a58-8d21-6ea5c2e2388d"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_A.dae",
     "size": [
       1.5825550556182861,
@@ -4215,7 +4215,7 @@
     "uuid": "eb573ec5-0af1-43da-87de-7fc130b365d7"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_A_Remains_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_A_Remains_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_A_Remains_A.dae",
     "size": [
       1.5825550556182861,
@@ -4230,7 +4230,7 @@
     "uuid": "36932561-9616-40cd-8c6f-6582f648deb4"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_B.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_B.dae",
     "size": [
       2.8958510160446167,
@@ -4245,7 +4245,7 @@
     "uuid": "804767a7-1016-4e50-845f-ed5376961655"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_B_Remains_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_B_Remains_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_B_Remains_A.dae",
     "size": [
       2.8958510160446167,
@@ -4260,7 +4260,7 @@
     "uuid": "7ffca432-6a73-44f8-be47-1c76f07aed09"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_C.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_C",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_C.dae",
     "size": [
       3.2277159690856934,
@@ -4275,7 +4275,7 @@
     "uuid": "422d88f2-cc86-4dbe-a1bd-3750a78e2a56"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Exploding_C_Remains_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Exploding_C_Remains_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Exploding_C_Remains_A.dae",
     "size": [
       3.2277159690856934,
@@ -4290,7 +4290,7 @@
     "uuid": "bc5c0459-e3f4-41d1-8293-f3314e4f3aa0"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Nightlight_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Nightlight_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Nightlight_A.dae",
     "size": [
       1.9364320039749146,
@@ -4305,7 +4305,7 @@
     "uuid": "80b96bb7-0dee-4933-aa59-052073c420ad"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Nightlight_B.dae",
+    "name": "PUZ_Underdark_Mushroom_Nightlight_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Nightlight_B.dae",
     "size": [
       1.6774619817733765,
@@ -4320,7 +4320,7 @@
     "uuid": "7fd3ac42-2305-45ca-92c6-3e4ba43b4c76"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Noblestalk_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Noblestalk_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Noblestalk_A.dae",
     "size": [
       3.204493999481201,
@@ -4335,7 +4335,7 @@
     "uuid": "48c679c1-b713-4d2f-9bba-1c43ed654404"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Sentinel_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Sentinel_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Sentinel_A.dae",
     "size": [
       1.2499650120735168,
@@ -4350,7 +4350,7 @@
     "uuid": "c6fee851-1719-4cc9-a179-0c5fc88bed25"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Sentinel_B.dae",
+    "name": "PUZ_Underdark_Mushroom_Sentinel_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Sentinel_B.dae",
     "size": [
       1.312525987625122,
@@ -4365,7 +4365,7 @@
     "uuid": "93e89662-c47a-4e95-8b76-e23ee9148ecb"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Timmask_A.dae",
+    "name": "PUZ_Underdark_Mushroom_Timmask_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Timmask_A.dae",
     "size": [
       1.9830820560455322,
@@ -4380,7 +4380,7 @@
     "uuid": "c71ea964-2ea5-4a3b-aa72-e67f7bf42daf"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Timmask_B.dae",
+    "name": "PUZ_Underdark_Mushroom_Timmask_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Timmask_B.dae",
     "size": [
       1.29899001121521,
@@ -4395,7 +4395,7 @@
     "uuid": "c8ba5fc6-e171-4135-a797-5f82cc423550"
   },
   {
-    "name": "PUZ_Underdark_Mushroom_Timmask_C.dae",
+    "name": "PUZ_Underdark_Mushroom_Timmask_C",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Timmask_C.dae",
     "size": [
       0.6320329904556274,
@@ -4410,7 +4410,7 @@
     "uuid": "3550e0e2-36ed-4b09-a857-ccfd916cb183"
   },
   {
-    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A.dae",
+    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Ore_Boulder_ABC/Resources/PUZ_Underdark_Ore_Boulder_Mithral_A.dae",
     "size": [
       6.3801589012146,
@@ -4424,7 +4424,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A_Destruct.dae",
+    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A_Destruct",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Ore_Boulder_ABC/Resources/PUZ_Underdark_Ore_Boulder_Mithral_A_Destruct.dae",
     "size": [
       8.337892770767212,
@@ -4439,7 +4439,7 @@
     "uuid": "090096e7-b0ac-4fca-8a77-7bd4ebc14ca6"
   },
   {
-    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A_Explode.dae",
+    "name": "PUZ_Underdark_Ore_Boulder_Mithral_A_Explode",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_Ore_Boulder_ABC/Resources/PUZ_Underdark_Ore_Boulder_Mithral_A_Explode.dae",
     "size": [
       6.388430833816528,
@@ -4453,7 +4453,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_A.dae",
+    "name": "PUZ_Underdark_RockDebris_A",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_A.dae",
     "size": [
       7.45122504234314,
@@ -4467,7 +4467,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_A_Destruct.dae",
+    "name": "PUZ_Underdark_RockDebris_A_Destruct",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_A_Destruct.dae",
     "size": [
       12.602643013000488,
@@ -4482,7 +4482,7 @@
     "uuid": "d859a5c4-32bd-4f68-8a7c-5b1e562f8e05"
   },
   {
-    "name": "PUZ_Underdark_RockDebris_A_Explode.dae",
+    "name": "PUZ_Underdark_RockDebris_A_Explode",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_A_Explode.dae",
     "size": [
       7.457355976104736,
@@ -4496,7 +4496,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_B.dae",
+    "name": "PUZ_Underdark_RockDebris_B",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_B.dae",
     "size": [
       8.877627849578857,
@@ -4510,7 +4510,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_B_Destruct.dae",
+    "name": "PUZ_Underdark_RockDebris_B_Destruct",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_B_Destruct.dae",
     "size": [
       15.191273212432861,
@@ -4525,7 +4525,7 @@
     "uuid": "1bbcf62c-a471-42ab-851e-d7433658b102"
   },
   {
-    "name": "PUZ_Underdark_RockDebris_B_Explode.dae",
+    "name": "PUZ_Underdark_RockDebris_B_Explode",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_B_Explode.dae",
     "size": [
       8.885289907455444,
@@ -4539,7 +4539,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_C.dae",
+    "name": "PUZ_Underdark_RockDebris_C",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_C.dae",
     "size": [
       9.380076885223389,
@@ -4553,7 +4553,7 @@
     ]
   },
   {
-    "name": "PUZ_Underdark_RockDebris_C_Destruct.dae",
+    "name": "PUZ_Underdark_RockDebris_C_Destruct",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_C_Destruct.dae",
     "size": [
       12.347954273223877,
@@ -4568,7 +4568,7 @@
     "uuid": "c3e3c53f-b097-42ae-bf55-ffc337950ed6"
   },
   {
-    "name": "PUZ_Underdark_RockDebris_C_Door.dae",
+    "name": "PUZ_Underdark_RockDebris_C_Door",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_C_Door.dae",
     "size": [
       5.359933137893677,
@@ -4583,7 +4583,7 @@
     "uuid": "15847b84-dd22-48ee-a044-e6c0c05fe639"
   },
   {
-    "name": "PUZ_Underdark_RockDebris_C_Explode.dae",
+    "name": "PUZ_Underdark_RockDebris_C_Explode",
     "relative_path": "Puzzle/Underdark/PUZ_Underdark_RockDebris_A/Resources/PUZ_Underdark_RockDebris_C_Explode.dae",
     "size": [
       8.926807880401611,
@@ -4597,7 +4597,7 @@
     ]
   },
   {
-    "name": "REF_PUZ_Button_A.dae",
+    "name": "REF_PUZ_Button_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_Button_A.dae",
     "size": [
       0.19204799830913544,
@@ -4612,7 +4612,7 @@
     "uuid": "53c481bf-a37b-48db-907b-0728745877c1"
   },
   {
-    "name": "REF_PUZ_DirtPile_A.dae",
+    "name": "REF_PUZ_DirtPile_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_DirtPile_A.dae",
     "size": [
       2.216639995574951,
@@ -4626,7 +4626,7 @@
     ]
   },
   {
-    "name": "REF_PUZ_Lever_Floor_A.dae",
+    "name": "REF_PUZ_Lever_Floor_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_Lever_Floor_A.dae",
     "size": [
       0.19621799886226654,
@@ -4641,7 +4641,7 @@
     "uuid": "b2caaad3-a783-43ea-a371-dcb77628823d"
   },
   {
-    "name": "REF_PUZ_Lever_Wall_A.dae",
+    "name": "REF_PUZ_Lever_Wall_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_Lever_Wall_A.dae",
     "size": [
       0.20085600018501282,
@@ -4656,7 +4656,7 @@
     "uuid": "c42768fb-ee31-459c-b0c3-1c92efaf0304"
   },
   {
-    "name": "REF_PUZ_PressurePlate_Floor_A.dae",
+    "name": "REF_PUZ_PressurePlate_Floor_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_PressurePlate_Floor_A.dae",
     "size": [
       0.6291840076446533,
@@ -4670,7 +4670,7 @@
     ]
   },
   {
-    "name": "REF_PUZ_Trap_Mine_A.dae",
+    "name": "REF_PUZ_Trap_Mine_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_Trap_Mine_A.dae",
     "size": [
       0.952892005443573,
@@ -4685,7 +4685,7 @@
     "uuid": "b66736fc-36db-4c79-8b9d-4098787fd35f"
   },
   {
-    "name": "REF_PUZ_Trap_SpikedFloor_A.dae",
+    "name": "REF_PUZ_Trap_SpikedFloor_A",
     "relative_path": "Puzzle/_Reference/Resources/REF_PUZ_Trap_SpikedFloor_A.dae",
     "size": [
       1.2804900407791138,
@@ -4700,7 +4700,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "PUZ_Cazador_Scripture_A_A.dae",
+    "name": "PUZ_Cazador_Scripture_A_A",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Scripture_ABC/Resources/PUZ_Cazador_Scripture_A_A.dae",
     "size": [
       2.4675949811935425,
@@ -4715,7 +4715,7 @@
     "uuid": "c63d6d8b-9a20-454f-97e6-4571c4786fac"
   },
   {
-    "name": "PUZ_Cazador_Scripture_A_B.dae",
+    "name": "PUZ_Cazador_Scripture_A_B",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Scripture_ABC/Resources/PUZ_Cazador_Scripture_A_B.dae",
     "size": [
       3.096122980117798,
@@ -4730,7 +4730,7 @@
     "uuid": "b74f551f-8d1f-4461-9c58-145f2ee725cb"
   },
   {
-    "name": "PUZ_Cazador_Scripture_A_C.dae",
+    "name": "PUZ_Cazador_Scripture_A_C",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Scripture_ABC/Resources/PUZ_Cazador_Scripture_A_C.dae",
     "size": [
       7.0,
@@ -4745,7 +4745,7 @@
     "uuid": "3a8db60f-2567-435d-b2b8-d949f488bd56"
   },
   {
-    "name": "PUZ_Cazador_Scripture_B.dae",
+    "name": "PUZ_Cazador_Scripture_B",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Scripture_ABC/Resources/PUZ_Cazador_Scripture_B.dae",
     "size": [
       3.0,
@@ -4760,7 +4760,7 @@
     "uuid": "9ebcb7cb-d1d7-4fa7-ac82-fe5a238c8dea"
   },
   {
-    "name": "PUZ_Cazador_Skull_Ancient_A.dae",
+    "name": "PUZ_Cazador_Skull_Ancient_A",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Skull_Ancient_ABC/Resources/PUZ_Cazador_Skull_Ancient_A.dae",
     "size": [
       0.14999200403690338,
@@ -4775,7 +4775,7 @@
     "uuid": "0cc92889-414e-4dc9-9fba-f900325c3d64"
   },
   {
-    "name": "PUZ_Cazador_Skull_Ancient_Scroll_A.dae",
+    "name": "PUZ_Cazador_Skull_Ancient_Scroll_A",
     "relative_path": "Puzzle/Cazador/PUZ_Cazador_Skull_Ancient_ABC/Resources/PUZ_Cazador_Skull_Ancient_Scroll_A.dae",
     "size": [
       0.38633599877357483,
@@ -4790,7 +4790,7 @@
     "uuid": "08eb3977-d38b-4b68-be74-8ffd0bc8f2a6"
   },
   {
-    "name": "PUZ_CursedLand_Shadow_Sphere_A.dae",
+    "name": "PUZ_CursedLand_Shadow_Sphere_A",
     "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shadow_Sphere_ABC/Resources/PUZ_CursedLand_Shadow_Sphere_A.dae",
     "size": [
       5.707957029342651,
@@ -4805,7 +4805,7 @@
     "uuid": "ad115c97-50a1-4bd0-9046-365e7e17327a"
   },
   {
-    "name": "PUZ_CursedLand_Shooting_Flower_A.dae",
+    "name": "PUZ_CursedLand_Shooting_Flower_A",
     "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
     "size": [
       1.9155099987983704,
@@ -4819,7 +4819,7 @@
     ]
   },
   {
-    "name": "PUZ_Moon_Lantern_Holder_A.dae",
+    "name": "PUZ_Moon_Lantern_Holder_A",
     "relative_path": "Puzzle/Drider/PUZ_Moon_Lantern_Holder_A.dae",
     "size": [
       0.2513609975576401,
@@ -4834,7 +4834,7 @@
     "uuid": "433f8bda-9621-4205-a6da-111fb92889ba"
   },
   {
-    "name": "PUZ_Drider_Moon_Lantern_Holder_A.dae",
+    "name": "PUZ_Drider_Moon_Lantern_Holder_A",
     "relative_path": "Puzzle/Drider/Resources/PUZ_Drider_Moon_Lantern_Holder_A.dae",
     "size": [
       0.2513609975576401,
@@ -4848,7 +4848,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Control_Panel_A.dae",
+    "name": "PUZ_Foundry_Control_Panel_A",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Control_Panel_ABC/Resources/PUZ_Foundry_Control_Panel_A.dae",
     "size": [
       0.988275021314621,
@@ -4862,7 +4862,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Control_Panel_A_Destruct.dae",
+    "name": "PUZ_Foundry_Control_Panel_A_Destruct",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Control_Panel_ABC/Resources/PUZ_Foundry_Control_Panel_A_Destruct.dae",
     "size": [
       1.4001559615135193,
@@ -4877,7 +4877,7 @@
     "uuid": "cd04af2d-72d0-4372-a992-96a8018f3c3d"
   },
   {
-    "name": "PUZ_Foundry_Control_Panel_A_Explode.dae",
+    "name": "PUZ_Foundry_Control_Panel_A_Explode",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Control_Panel_ABC/Resources/PUZ_Foundry_Control_Panel_A_Explode.dae",
     "size": [
       0.9878679811954498,
@@ -4891,7 +4891,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Shield_Capacitor_A.dae",
+    "name": "PUZ_Foundry_Shield_Capacitor_A",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Shield_Capacitor_ABC/Resources/PUZ_Foundry_Shield_Capacitor_A.dae",
     "size": [
       1.4670480489730835,
@@ -4905,7 +4905,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Shield_Capacitor_A_Broken.dae",
+    "name": "PUZ_Foundry_Shield_Capacitor_A_Broken",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Shield_Capacitor_ABC/Resources/PUZ_Foundry_Shield_Capacitor_A_Broken.dae",
     "size": [
       1.4670480489730835,
@@ -4919,7 +4919,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Shield_Capacitor_A_Destruct.dae",
+    "name": "PUZ_Foundry_Shield_Capacitor_A_Destruct",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Shield_Capacitor_ABC/Resources/PUZ_Foundry_Shield_Capacitor_A_Destruct.dae",
     "size": [
       2.548097014427185,
@@ -4934,7 +4934,7 @@
     "uuid": "7e0e58b2-7438-426e-94fa-e522812f0248"
   },
   {
-    "name": "PUZ_Foundry_Shield_Capacitor_A_Explode.dae",
+    "name": "PUZ_Foundry_Shield_Capacitor_A_Explode",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Shield_Capacitor_ABC/Resources/PUZ_Foundry_Shield_Capacitor_A_Explode.dae",
     "size": [
       1.4604500532150269,
@@ -4948,7 +4948,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Turret_Flamethrower_A.dae",
+    "name": "PUZ_Foundry_Turret_Flamethrower_A",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Turret_Flamethrower_ABC/Resources/PUZ_Foundry_Turret_Flamethrower_A.dae",
     "size": [
       1.544651985168457,
@@ -4962,7 +4962,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Turret_Flamethrower_A_Hole_A.dae",
+    "name": "PUZ_Foundry_Turret_Flamethrower_A_Hole_A",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Turret_Flamethrower_ABC/Resources/PUZ_Foundry_Turret_Flamethrower_A_Hole_A.dae",
     "size": [
       2.2417739629745483,
@@ -4976,7 +4976,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A.dae",
+    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Turret_Grenade_Instantiator_ABC/Resources/PUZ_Foundry_Turret_Grenade_Instantiator_A.dae",
     "size": [
       1.2288709878921509,
@@ -4990,7 +4990,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A_Destruct.dae",
+    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A_Destruct",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Turret_Grenade_Instantiator_ABC/Resources/PUZ_Foundry_Turret_Grenade_Instantiator_A_Destruct.dae",
     "size": [
       2.334016978740692,
@@ -5005,7 +5005,7 @@
     "uuid": "8ae7f6cf-e57b-4493-90a0-aa44aea285f2"
   },
   {
-    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A_Explode.dae",
+    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A_Explode",
     "relative_path": "Puzzle/Foundry/PUZ_Foundry_Turret_Grenade_Instantiator_ABC/Resources/PUZ_Foundry_Turret_Grenade_Instantiator_A_Explode.dae",
     "size": [
       1.2288709878921509,
@@ -5019,7 +5019,7 @@
     ]
   },
   {
-    "name": "PUZ_Trap_Focused_Incinerator_A.dae",
+    "name": "PUZ_Trap_Focused_Incinerator_A",
     "relative_path": "Puzzle/Foundry/PUZ_Trap_Focused_Incinerator_ABC/Resources/PUZ_Trap_Focused_Incinerator_A.dae",
     "size": [
       0.9993259906768799,
@@ -5033,7 +5033,7 @@
     ]
   },
   {
-    "name": "PUZ_Trap_Focused_Incinerator_A_Destruct.dae",
+    "name": "PUZ_Trap_Focused_Incinerator_A_Destruct",
     "relative_path": "Puzzle/Foundry/PUZ_Trap_Focused_Incinerator_ABC/Resources/PUZ_Trap_Focused_Incinerator_A_Destruct.dae",
     "size": [
       2.797700047492981,
@@ -5048,7 +5048,7 @@
     "uuid": "67585948-6c63-4448-aac7-b24f58e51acb"
   },
   {
-    "name": "PUZ_Trap_Focused_Incinerator_A_Explode.dae",
+    "name": "PUZ_Trap_Focused_Incinerator_A_Explode",
     "relative_path": "Puzzle/Foundry/PUZ_Trap_Focused_Incinerator_ABC/Resources/PUZ_Trap_Focused_Incinerator_A_Explode.dae",
     "size": [
       0.9993259906768799,
@@ -5062,7 +5062,7 @@
     ]
   },
   {
-    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A.dae",
+    "name": "PUZ_Foundry_Turret_Grenade_Instantiator_A",
     "relative_path": "Puzzle/Foundry/Resources/PUZ_Foundry_Turret_Grenade_Instantiator_A.dae",
     "size": [
       1.2288709878921509,
@@ -5076,7 +5076,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Alarm_Machine_A.dae",
+    "name": "PUZ_GEN_Alarm_Machine_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Alarm_Machine_ABC/Resources/PUZ_GEN_Alarm_Machine_A.dae",
     "size": [
       1.2955920100212097,
@@ -5090,7 +5090,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Alarm_Machine_A_Destruct.dae",
+    "name": "PUZ_GEN_Alarm_Machine_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Alarm_Machine_ABC/Resources/PUZ_GEN_Alarm_Machine_A_Destruct.dae",
     "size": [
       2.442188024520874,
@@ -5105,7 +5105,7 @@
     "uuid": "66fbb85e-4bd0-4406-8be3-72ae0db9edbc"
   },
   {
-    "name": "PUZ_GEN_Alarm_Machine_A_Explode.dae",
+    "name": "PUZ_GEN_Alarm_Machine_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Alarm_Machine_ABC/Resources/PUZ_GEN_Alarm_Machine_A_Explode.dae",
     "size": [
       1.2951539754867554,
@@ -5119,7 +5119,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_BookLever_A.dae",
+    "name": "PUZ_GEN_BookLever_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_BookLever_ABC/Resources/PUZ_GEN_BookLever_A.dae",
     "size": [
       1.2649320363998413,
@@ -5133,7 +5133,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_BookLever_B.dae",
+    "name": "PUZ_GEN_BookLever_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_BookLever_ABC/Resources/PUZ_GEN_BookLever_B.dae",
     "size": [
       1.2646899819374084,
@@ -5147,7 +5147,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_BookLever_C.dae",
+    "name": "PUZ_GEN_BookLever_C",
     "relative_path": "Puzzle/Generic/PUZ_GEN_BookLever_ABC/Resources/PUZ_GEN_BookLever_C.dae",
     "size": [
       1.2699919939041138,
@@ -5161,7 +5161,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_BookLever_D.dae",
+    "name": "PUZ_GEN_BookLever_D",
     "relative_path": "Puzzle/Generic/PUZ_GEN_BookLever_ABC/Resources/PUZ_GEN_BookLever_D.dae",
     "size": [
       1.2517189979553223,
@@ -5175,7 +5175,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Button_C_Ringlock_A.dae",
+    "name": "PUZ_GEN_Button_C_Ringlock_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Button_ABC/Resources/PUZ_GEN_Button_C_Ringlock_A.dae",
     "size": [
       0.28314900398254395,
@@ -5190,7 +5190,7 @@
     "uuid": "129dcec4-6446-48c1-9c9c-4dfb0e20bdbd"
   },
   {
-    "name": "PUZ_GEN_Button_Weave_Magic_A.dae",
+    "name": "PUZ_GEN_Button_Weave_Magic_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Button_ABC/Resources/PUZ_GEN_Button_Weave_Magic_A.dae",
     "size": [
       0.7672719955444336,
@@ -5205,7 +5205,7 @@
     "uuid": "98fac288-3339-4987-ba93-a6978bbee1e3"
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_A.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_A.dae",
     "size": [
       4.310987949371338,
@@ -5220,7 +5220,7 @@
     "uuid": "183153fc-10d2-43f0-a0ca-0ced735adef5"
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_A_Destruct.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_A_Destruct.dae",
     "size": [
       5.044461965560913,
@@ -5235,7 +5235,7 @@
     "uuid": "73d10208-75ed-4386-af6d-22775557b5fe"
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_A_Explode.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_A_Explode.dae",
     "size": [
       4.310158967971802,
@@ -5249,7 +5249,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_B.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_B.dae",
     "size": [
       4.310987949371338,
@@ -5264,7 +5264,7 @@
     "uuid": "4f4defc3-6d75-43e3-b490-b19f81307848"
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_B_Destruct.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_B_Destruct.dae",
     "size": [
       5.043709993362427,
@@ -5279,7 +5279,7 @@
     "uuid": "596de54d-25d0-4e1f-87c9-2d3a1378b5ef"
   },
   {
-    "name": "PUZ_GEN_Castle_Wall_Breakable_B_Explode.dae",
+    "name": "PUZ_GEN_Castle_Wall_Breakable_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Castle_Wall_Breakable_ABC/Resources/PUZ_GEN_Castle_Wall_Breakable_B_Explode.dae",
     "size": [
       4.310160160064697,
@@ -5293,7 +5293,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Death_Bloom_A.dae",
+    "name": "PUZ_GEN_Death_Bloom_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Death_Bloom_ABC/Resources/PUZ_GEN_Death_Bloom_A.dae",
     "size": [
       1.1544399857521057,
@@ -5308,7 +5308,7 @@
     "uuid": "1051f606-c137-4504-bcd9-31f79e9ed386"
   },
   {
-    "name": "PUZ_GEN_Key_Flower_A.dae",
+    "name": "PUZ_GEN_Key_Flower_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Key_Flower_ABC/Resources/PUZ_GEN_Key_Flower_A.dae",
     "size": [
       0.15728700160980225,
@@ -5322,7 +5322,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Board_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Board_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Board_A.dae",
     "size": [
       0.9000610113143921,
@@ -5337,7 +5337,7 @@
     "uuid": "9d266cc0-c3b4-4319-a0ab-e1419ce8d115"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Board_A_Posed_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Board_A_Posed_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Board_A_Posed_A.dae",
     "size": [
       0.901496022939682,
@@ -5352,7 +5352,7 @@
     "uuid": "fb59382e-8d4f-42ad-a36d-9d456b85f4de"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Board_A_Posed_B.dae",
+    "name": "PUZ_GEN_Lanceboard_Board_A_Posed_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Board_A_Posed_B.dae",
     "size": [
       0.9020840227603912,
@@ -5367,7 +5367,7 @@
     "uuid": "be905812-03f2-4803-b4d1-65300d4d8d14"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Bishop_Dark_A.dae",
     "size": [
       0.059379998594522476,
@@ -5381,7 +5381,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Bishop_White_A.dae",
     "size": [
       0.0596419982612133,
@@ -5396,7 +5396,7 @@
     "uuid": "f1e6efa5-3a99-4b84-827f-eb19d920bfdc"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Bishop_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Bishop_White_A_Big_A.dae",
     "size": [
       0.9575380086898804,
@@ -5411,7 +5411,7 @@
     "uuid": "5b641bc5-0e04-4e3b-a3fb-cc2f0a6639b2"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_King_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_King_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_King_Dark_A.dae",
     "size": [
       0.059686001390218735,
@@ -5425,7 +5425,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_King_White_A.dae",
     "size": [
       0.05979600176215172,
@@ -5440,7 +5440,7 @@
     "uuid": "0927a2f9-408b-4086-97ab-b8872862d32f"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A.dae",
     "size": [
       0.9568069875240326,
@@ -5455,7 +5455,7 @@
     "uuid": "ba1695cb-ba7f-4b65-a733-0a06921b3c74"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Destruct.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Destruct.dae",
     "size": [
       4.194480061531067,
@@ -5470,7 +5470,7 @@
     "uuid": "4eba928c-06c3-4460-9479-272592c41618"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Explode.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_King_White_A_Big_A_Explode.dae",
     "size": [
       0.9568069875240326,
@@ -5484,7 +5484,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Knight_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Knight_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Knight_Dark_A.dae",
     "size": [
       0.07061800360679626,
@@ -5498,7 +5498,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Knight_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Knight_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Knight_White_A.dae",
     "size": [
       0.06949800252914429,
@@ -5513,7 +5513,7 @@
     "uuid": "818f42e3-dbff-426d-9816-3187fd99757f"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Knight_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Knight_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Knight_White_A_Big_A.dae",
     "size": [
       0.9518720209598541,
@@ -5528,7 +5528,7 @@
     "uuid": "f4e23afe-be93-4d76-9103-c2b0ffc4e856"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Pawn_Dark_A.dae",
     "size": [
       0.05714000016450882,
@@ -5542,7 +5542,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Pawn_White_A.dae",
     "size": [
       0.05714000016450882,
@@ -5557,7 +5557,7 @@
     "uuid": "aeb4ffee-f8bd-414a-a316-1f620215f21a"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Pawn_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Pawn_White_A_Big_A.dae",
     "size": [
       0.7647629976272583,
@@ -5572,7 +5572,7 @@
     "uuid": "f249bc7a-73ea-46cc-b174-f9ba3c4186f9"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Queen_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Queen_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Queen_Dark_A.dae",
     "size": [
       0.059686001390218735,
@@ -5586,7 +5586,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Queen_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Queen_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Queen_White_A.dae",
     "size": [
       0.05979600176215172,
@@ -5601,7 +5601,7 @@
     "uuid": "2d59564d-27c6-4564-985e-e5548db6c580"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Queen_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Queen_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Queen_White_A_Big_A.dae",
     "size": [
       0.9555869996547699,
@@ -5616,7 +5616,7 @@
     "uuid": "279a8268-5ed7-404b-b058-2b9239446a19"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Rook_Dark_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Rook_Dark_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Rook_Dark_A.dae",
     "size": [
       0.059379998594522476,
@@ -5630,7 +5630,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Rook_White_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Rook_White_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Rook_White_A.dae",
     "size": [
       0.05714000016450882,
@@ -5645,7 +5645,7 @@
     "uuid": "1824e159-7489-4c52-a0e6-c6a4892d1604"
   },
   {
-    "name": "PUZ_GEN_Lanceboard_Piece_Rook_White_A_Big_A.dae",
+    "name": "PUZ_GEN_Lanceboard_Piece_Rook_White_A_Big_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Lanceboard_ABC/Resources/PUZ_GEN_Lanceboard_Piece_Rook_White_A_Big_A.dae",
     "size": [
       0.9505980014801025,
@@ -5660,7 +5660,7 @@
     "uuid": "501db9c5-00df-4e39-95b2-4ff87d0f0ff2"
   },
   {
-    "name": "PUZ_GEN_Map_SCL_Region_A.dae",
+    "name": "PUZ_GEN_Map_SCL_Region_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Map_SCL_Region_ABC/Resources/PUZ_GEN_Map_SCL_Region_A.dae",
     "size": [
       1.141052007675171,
@@ -5675,7 +5675,7 @@
     "uuid": "e8b3a769-151d-4224-829e-36748bb18890"
   },
   {
-    "name": "PUZ_GEN_Soul_Cage_A.dae",
+    "name": "PUZ_GEN_Soul_Cage_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Soul_Cage_ABC/Resources/PUZ_GEN_Soul_Cage_A.dae",
     "size": [
       10.054196834564209,
@@ -5690,7 +5690,7 @@
     "uuid": "e56fe992-7826-4059-a02b-0880f3f50497"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Frame_A_4H_A.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Frame_A_4H_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Frame_A_4H_A.dae",
     "size": [
       0.38114500045776367,
@@ -5705,7 +5705,7 @@
     "uuid": "71c5c2e0-9c2b-440a-9dc3-9f4a73d87eed"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_A.dae",
     "size": [
       6.189558029174805,
@@ -5720,7 +5720,7 @@
     "uuid": "fd225bf3-11d1-4134-b526-7982c0628dae"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Destruct.dae",
     "size": [
       9.454738140106201,
@@ -5735,7 +5735,7 @@
     "uuid": "35b831a8-8022-492e-ba0f-b8a6401183db"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Explode.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_A_Explode.dae",
     "size": [
       6.127471923828125,
@@ -5749,7 +5749,7 @@
     ]
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_B.dae",
     "size": [
       6.127522945404053,
@@ -5764,7 +5764,7 @@
     "uuid": "1c7685da-a9bd-4b5d-a315-024224ebc7f0"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Destruct.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Destruct",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Destruct.dae",
     "size": [
       6.315290927886963,
@@ -5779,7 +5779,7 @@
     "uuid": "99b95bcc-104f-4b17-a5c8-47a6a5c00678"
   },
   {
-    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Explode.dae",
+    "name": "PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Explode",
     "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Portcullis_ABC/Resources/PUZ_GEN_Trap_Portcullis_Gate_A_4H_B_Explode.dae",
     "size": [
       6.127471923828125,
@@ -5793,7 +5793,7 @@
     ]
   },
   {
-    "name": "PUZ_GTY_Mine_A.dae",
+    "name": "PUZ_GTY_Mine_A",
     "relative_path": "Puzzle/Githyanki/PUZ_GTY_Mine_ABC/Resources/PUZ_GTY_Mine_A.dae",
     "size": [
       1.119521975517273,
@@ -5808,7 +5808,7 @@
     "uuid": "62735504-f242-4165-b59d-637d89ba2e32"
   },
   {
-    "name": "PUZ_GTY_Mine_A_Destruct.dae",
+    "name": "PUZ_GTY_Mine_A_Destruct",
     "relative_path": "Puzzle/Githyanki/PUZ_GTY_Mine_ABC/Resources/PUZ_GTY_Mine_A_Destruct.dae",
     "size": [
       2.442997932434082,
@@ -5823,7 +5823,7 @@
     "uuid": "3c07cb37-c4cc-42f2-830e-d39135adbfb5"
   },
   {
-    "name": "PUZ_GTY_Mine_A_Explode.dae",
+    "name": "PUZ_GTY_Mine_A_Explode",
     "relative_path": "Puzzle/Githyanki/PUZ_GTY_Mine_ABC/Resources/PUZ_GTY_Mine_A_Explode.dae",
     "size": [
       1.119521975517273,
@@ -5837,7 +5837,7 @@
     ]
   },
   {
-    "name": "PUZ_GTY_Turret_A.dae",
+    "name": "PUZ_GTY_Turret_A",
     "relative_path": "Puzzle/Githyanki/PUZ_GTY_Turret_ABC/Resources/PUZ_GTY_Turret_A.dae",
     "size": [
       1.2595679759979248,
@@ -5852,7 +5852,7 @@
     "uuid": "641cc4e0-b5e0-4157-989d-944de688e554"
   },
   {
-    "name": "PUZ_GTY_Ubiquity_Key_A.dae",
+    "name": "PUZ_GTY_Ubiquity_Key_A",
     "relative_path": "Puzzle/Githyanki/PUZ_GTY_Ubiquity_Key_ABC/Resources/PUZ_GTY_Ubiquity_Key_A.dae",
     "size": [
       0.38029199838638306,
@@ -5867,7 +5867,7 @@
     "uuid": "c8d7d9c8-2542-4f5a-b77f-c9e3b43356aa"
   },
   {
-    "name": "PUZ_HAG_Circle_Of_Pearls_A.dae",
+    "name": "PUZ_HAG_Circle_Of_Pearls_A",
     "relative_path": "Puzzle/Hag/PUZ_HAG_Circle_Of_Pearls_ABC/Resources/PUZ_HAG_Circle_Of_Pearls_A.dae",
     "size": [
       3.783038020133972,
@@ -5882,7 +5882,7 @@
     "uuid": "db584ca8-37fb-4d91-a8a3-efee87a6b476"
   },
   {
-    "name": "PUZ_HAG_Magic_Mushroom_A.dae",
+    "name": "PUZ_HAG_Magic_Mushroom_A",
     "relative_path": "Puzzle/Hag/PUZ_HAG_Magic_Mushroom_ABC/Resources/PUZ_HAG_Magic_Mushroom_A.dae",
     "size": [
       0.8385629951953888,
@@ -5897,7 +5897,7 @@
     "uuid": "b95a8511-d7b6-460c-80ee-0dcb01ffb2f5"
   },
   {
-    "name": "PUZ_HAG_Magic_Mushroom_B.dae",
+    "name": "PUZ_HAG_Magic_Mushroom_B",
     "relative_path": "Puzzle/Hag/PUZ_HAG_Magic_Mushroom_ABC/Resources/PUZ_HAG_Magic_Mushroom_B.dae",
     "size": [
       0.9839280247688293,
@@ -5912,7 +5912,7 @@
     "uuid": "5d6f756d-3dde-49e7-97e0-e4119e38961e"
   },
   {
-    "name": "PUZ_HAG_Magic_Mushroom_C.dae",
+    "name": "PUZ_HAG_Magic_Mushroom_C",
     "relative_path": "Puzzle/Hag/PUZ_HAG_Magic_Mushroom_ABC/Resources/PUZ_HAG_Magic_Mushroom_C.dae",
     "size": [
       1.1673670411109924,
@@ -5927,7 +5927,7 @@
     "uuid": "bfeec6d1-74d4-4549-af60-16faf3c35939"
   },
   {
-    "name": "PUZ_HoH_Rune_Console_A.dae",
+    "name": "PUZ_HoH_Rune_Console_A",
     "relative_path": "Puzzle/HouseOfHope/PUZ_HoH_Rune_Console_ABC/Resources/PUZ_HoH_Rune_Console_A.dae",
     "size": [
       1.8497610092163086,
@@ -5942,7 +5942,7 @@
     "uuid": "fbf4a31a-e1a1-44b0-9b0b-668d682fdac0"
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_A_Destruct.dae",
+    "name": "PUZ_Lathander_Energy_Source_A_Destruct",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_A_Destruct.dae",
     "size": [
       2.840673089027405,
@@ -5956,7 +5956,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_A_Explode.dae",
+    "name": "PUZ_Lathander_Energy_Source_A_Explode",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_A_Explode.dae",
     "size": [
       2.0462499856948853,
@@ -5970,7 +5970,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_B_Destruct.dae",
+    "name": "PUZ_Lathander_Energy_Source_B_Destruct",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_B_Destruct.dae",
     "size": [
       1.3941099643707275,
@@ -5984,7 +5984,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_Energy_Source_B_Explode.dae",
+    "name": "PUZ_Lathander_Energy_Source_B_Explode",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_B_Explode.dae",
     "size": [
       2.0462499856948853,
@@ -5998,7 +5998,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_Key_A.dae",
+    "name": "PUZ_Lathander_Key_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Key_ABC/Resources/PUZ_Lathander_Key_A.dae",
     "size": [
       0.19393499940633774,
@@ -6013,7 +6013,7 @@
     "uuid": "6651afbd-fdc6-474b-aa25-5db6f35b532b"
   },
   {
-    "name": "PUZ_Lathander_Laser_A.dae",
+    "name": "PUZ_Lathander_Laser_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Laser_A/Resources/PUZ_Lathander_Laser_A.dae",
     "size": [
       9.894411563873291,
@@ -6028,7 +6028,7 @@
     "uuid": "f3c164ac-f25a-4800-9170-74f4ecfc3da5"
   },
   {
-    "name": "PUZ_Lathander_Laser_Base_A.dae",
+    "name": "PUZ_Lathander_Laser_Base_A",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Laser_A/Resources/PUZ_Lathander_Laser_Base_A.dae",
     "size": [
       16.059639930725098,
@@ -6043,7 +6043,7 @@
     "uuid": "b8afd550-b766-49a0-a5d5-f67524b5a16b"
   },
   {
-    "name": "PUZ_Lathander_Shockwave_Trap_A_Destruct.dae",
+    "name": "PUZ_Lathander_Shockwave_Trap_A_Destruct",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Shockwave_Trap_ABC/Resources/PUZ_Lathander_Shockwave_Trap_A_Destruct.dae",
     "size": [
       4.356314063072205,
@@ -6057,7 +6057,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_Shockwave_Trap_A_Explode.dae",
+    "name": "PUZ_Lathander_Shockwave_Trap_A_Explode",
     "relative_path": "Puzzle/Lathander/PUZ_Lathander_Shockwave_Trap_ABC/Resources/PUZ_Lathander_Shockwave_Trap_A_Explode.dae",
     "size": [
       3.282258987426758,
@@ -6071,7 +6071,7 @@
     ]
   },
   {
-    "name": "PUZ_Lathander_RadiantSunVent_A.dae",
+    "name": "PUZ_Lathander_RadiantSunVent_A",
     "relative_path": "Puzzle/Lathander/Resources/PUZ_Lathander_RadiantSunVent_A.dae",
     "size": [
       2.0312540531158447,
@@ -6086,7 +6086,7 @@
     "uuid": "9be3148d-e8a1-4bf2-a424-29b01e8e532f"
   },
   {
-    "name": "PUZ_Lathander_Solar_Machine_A_Destruct.dae",
+    "name": "PUZ_Lathander_Solar_Machine_A_Destruct",
     "relative_path": "Puzzle/Lathander/Resources/PUZ_Lathander_Solar_Machine_A_Destruct.dae",
     "size": [
       6.901264905929565,
@@ -6101,7 +6101,7 @@
     "uuid": "78edaeda-6721-4d43-9755-3b62da25b75b"
   },
   {
-    "name": "PUZ_Lathander_Solar_Machine_A_Explode.dae",
+    "name": "PUZ_Lathander_Solar_Machine_A_Explode",
     "relative_path": "Puzzle/Lathander/Resources/PUZ_Lathander_Solar_Machine_A_Explode.dae",
     "size": [
       5.271468877792358,
@@ -6115,7 +6115,7 @@
     ]
   },
   {
-    "name": "PUZ_MF_Brain_Part_A.dae",
+    "name": "PUZ_MF_Brain_Part_A",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_A.dae",
     "size": [
       0.35680198669433594,
@@ -6130,7 +6130,7 @@
     "uuid": "c3f1d0e8-137d-4161-8ca4-3e7a1a312576"
   },
   {
-    "name": "PUZ_MF_Brain_Part_B.dae",
+    "name": "PUZ_MF_Brain_Part_B",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_B.dae",
     "size": [
       0.3422259986400604,
@@ -6145,7 +6145,7 @@
     "uuid": "cf3aa9b9-1e71-45f4-8aa2-6eb3d590096b"
   },
   {
-    "name": "PUZ_MF_Brain_Part_C.dae",
+    "name": "PUZ_MF_Brain_Part_C",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_C.dae",
     "size": [
       0.34981998801231384,
@@ -6160,7 +6160,7 @@
     "uuid": "2b0dae6b-0f49-4c35-8479-e295673d0b9b"
   },
   {
-    "name": "PUZ_MF_Brain_Part_D.dae",
+    "name": "PUZ_MF_Brain_Part_D",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_D.dae",
     "size": [
       0.2380709946155548,
@@ -6175,7 +6175,7 @@
     "uuid": "1471dd30-b37d-493e-ad09-b0e008af5768"
   },
   {
-    "name": "PUZ_MF_Brain_Part_E.dae",
+    "name": "PUZ_MF_Brain_Part_E",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_E.dae",
     "size": [
       0.18156100064516068,
@@ -6190,7 +6190,7 @@
     "uuid": "3ea70566-a70b-4cca-b458-9077992fb349"
   },
   {
-    "name": "PUZ_MF_Brain_Part_F.dae",
+    "name": "PUZ_MF_Brain_Part_F",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_F.dae",
     "size": [
       0.3852449953556061,
@@ -6205,7 +6205,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "PUZ_MF_Brain_Part_G.dae",
+    "name": "PUZ_MF_Brain_Part_G",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_G.dae",
     "size": [
       0.3157309889793396,
@@ -6220,7 +6220,7 @@
     "uuid": "d5a0e7c5-0f2e-4d43-9694-61635fe852d1"
   },
   {
-    "name": "PUZ_MF_Brain_Part_H.dae",
+    "name": "PUZ_MF_Brain_Part_H",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_H.dae",
     "size": [
       0.3227750062942505,
@@ -6235,7 +6235,7 @@
     "uuid": "9fcd7906-d14e-4f42-acbc-1f9e2330a804"
   },
   {
-    "name": "PUZ_MF_Brain_Part_I.dae",
+    "name": "PUZ_MF_Brain_Part_I",
     "relative_path": "Puzzle/Mindflayer/PUZ_MF_Brain_Part_ABC/Resources/PUZ_MF_Brain_Part_I.dae",
     "size": [
       0.19580399990081787,
@@ -6250,7 +6250,7 @@
     "uuid": "026de73b-38bc-4131-bbc0-0cc13ba826af"
   },
   {
-    "name": "PUZ_NAT_Roots_Orb_Pedestal_A.dae",
+    "name": "PUZ_NAT_Roots_Orb_Pedestal_A",
     "relative_path": "Puzzle/Nature/PUZ_NAT_Roots_Orb_Pedestal_ABC/Resources/PUZ_NAT_Roots_Orb_Pedestal_A.dae",
     "size": [
       1.3026450276374817,
@@ -6265,7 +6265,7 @@
     "uuid": "9e8e964b-677c-44aa-9183-6e6f77d129f0"
   },
   {
-    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A.dae",
+    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A",
     "relative_path": "Puzzle/Nature/PUZ_NAT_Sandstone_Wall_Breakable_ABC/Resources/PUZ_NAT_Sandstone_Wall_Breakable_A.dae",
     "size": [
       7.360005855560303,
@@ -6280,7 +6280,7 @@
     "uuid": "5412686b-2854-4970-b428-07e30f9dae01"
   },
   {
-    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A_Destruct.dae",
+    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A_Destruct",
     "relative_path": "Puzzle/Nature/PUZ_NAT_Sandstone_Wall_Breakable_ABC/Resources/PUZ_NAT_Sandstone_Wall_Breakable_A_Destruct.dae",
     "size": [
       9.656116962432861,
@@ -6295,7 +6295,7 @@
     "uuid": "f41bfe27-6524-481f-81c9-63f5856b131a"
   },
   {
-    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A_Explode.dae",
+    "name": "PUZ_NAT_Sandstone_Wall_Breakable_A_Explode",
     "relative_path": "Puzzle/Nature/PUZ_NAT_Sandstone_Wall_Breakable_ABC/Resources/PUZ_NAT_Sandstone_Wall_Breakable_A_Explode.dae",
     "size": [
       7.360005855560303,
@@ -6309,7 +6309,7 @@
     ]
   },
   {
-    "name": "PUZ_Printshop_Printing_Plate_A.dae",
+    "name": "PUZ_Printshop_Printing_Plate_A",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Plate_ABC/Resources/PUZ_Printshop_Printing_Plate_A.dae",
     "size": [
       0.6102020144462585,
@@ -6323,7 +6323,7 @@
     ]
   },
   {
-    "name": "PUZ_Printshop_Printing_Plate_Article_A.dae",
+    "name": "PUZ_Printshop_Printing_Plate_Article_A",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Plate_ABC/Resources/PUZ_Printshop_Printing_Plate_Article_A.dae",
     "size": [
       0.29048800468444824,
@@ -6337,7 +6337,7 @@
     ]
   },
   {
-    "name": "PUZ_Printshop_Printing_Plate_Article_B.dae",
+    "name": "PUZ_Printshop_Printing_Plate_Article_B",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Plate_ABC/Resources/PUZ_Printshop_Printing_Plate_Article_B.dae",
     "size": [
       0.29048800468444824,
@@ -6351,7 +6351,7 @@
     ]
   },
   {
-    "name": "PUZ_Printshop_Printing_Plate_Empty_A.dae",
+    "name": "PUZ_Printshop_Printing_Plate_Empty_A",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Plate_ABC/Resources/PUZ_Printshop_Printing_Plate_Empty_A.dae",
     "size": [
       0.6102020144462585,
@@ -6365,7 +6365,7 @@
     ]
   },
   {
-    "name": "PUZ_Printshop_Printing_Press_A.dae",
+    "name": "PUZ_Printshop_Printing_Press_A",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Press_ABC/Resources/PUZ_Printshop_Printing_Press_A.dae",
     "size": [
       4.073655128479004,
@@ -6380,7 +6380,7 @@
     "uuid": "c478da31-3a44-4835-b6c7-f96469296a89"
   },
   {
-    "name": "PUZ_Printshop_Printing_Press_A_Destruct.dae",
+    "name": "PUZ_Printshop_Printing_Press_A_Destruct",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Press_ABC/Resources/PUZ_Printshop_Printing_Press_A_Destruct.dae",
     "size": [
       8.395197868347168,
@@ -6395,7 +6395,7 @@
     "uuid": "ec504b75-7542-47d8-8d14-8d03cb2233c8"
   },
   {
-    "name": "PUZ_Printshop_Printing_Press_A_Explode.dae",
+    "name": "PUZ_Printshop_Printing_Press_A_Explode",
     "relative_path": "Puzzle/Printshop/PUZ_Printshop_Printing_Press_ABC/Resources/PUZ_Printshop_Printing_Press_A_Explode.dae",
     "size": [
       3.7713650465011597,
@@ -6409,7 +6409,7 @@
     ]
   },
   {
-    "name": "PUZ_Sewer_Gauge_A.dae",
+    "name": "PUZ_Sewer_Gauge_A",
     "relative_path": "Puzzle/Sewer/PUZ_Sewer_Gauge_ABC/Resources/PUZ_Sewer_Gauge_A.dae",
     "size": [
       1.6783360838890076,
@@ -6424,7 +6424,7 @@
     "uuid": "c1d0b6b9-ffd4-4ec7-a73d-05975e3580f6"
   },
   {
-    "name": "PUZ_Sewer_Gauge_B.dae",
+    "name": "PUZ_Sewer_Gauge_B",
     "relative_path": "Puzzle/Sewer/PUZ_Sewer_Gauge_ABC/Resources/PUZ_Sewer_Gauge_B.dae",
     "size": [
       1.6783600449562073,
@@ -6439,7 +6439,7 @@
     "uuid": "29bbb617-f2b6-43d6-8ca3-3c71c5714139"
   },
   {
-    "name": "PUZ_Sewer_Gauge_Pointer_A.dae",
+    "name": "PUZ_Sewer_Gauge_Pointer_A",
     "relative_path": "Puzzle/Sewer/PUZ_Sewer_Gauge_ABC/Resources/PUZ_Sewer_Gauge_Pointer_A.dae",
     "size": [
       0.05662300065159798,
@@ -6453,7 +6453,7 @@
     ]
   },
   {
-    "name": "PUZ_SorcerousSundries_Invisible_Walkway_A.dae",
+    "name": "PUZ_SorcerousSundries_Invisible_Walkway_A",
     "relative_path": "Puzzle/SorcerousSundries/Resources/PUZ_SorcerousSundries_Invisible_Walkway_A.dae",
     "size": [
       8.0,
@@ -6468,7 +6468,7 @@
     "uuid": "48bacd19-dbee-4e71-b8e7-226eddb2587b"
   },
   {
-    "name": "PUZ_WyrmsWay_Painting_Empty_Niche_A.dae",
+    "name": "PUZ_WyrmsWay_Painting_Empty_Niche_A",
     "relative_path": "Puzzle/WyrmsWay/PUZ_WyrmsWay_Painting_Empty_Niche_ABC/Resources/PUZ_WyrmsWay_Painting_Empty_Niche_A.dae",
     "size": [
       1.8930109739303589,

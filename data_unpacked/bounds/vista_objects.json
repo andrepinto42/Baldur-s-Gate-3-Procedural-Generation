@@ -1,6 +1,6 @@
 [
   {
-    "name": "Vista_MenuScreen_BhaalBridge_A.dae",
+    "name": "Vista_MenuScreen_BhaalBridge_A",
     "relative_path": "Vista/Buildings/MenuScreen/Vista_MenuScreen_BhaalBridge_A/Resources/Vista_MenuScreen_BhaalBridge_A.dae",
     "size": [
       15.6392822265625,
@@ -15,7 +15,7 @@
     "uuid": "0b3bfe5e-afba-4cfb-aae5-400fe93519fe"
   },
   {
-    "name": "VISTA_Lights_Battlefield_Billboard_A.dae",
+    "name": "VISTA_Lights_Battlefield_Billboard_A",
     "relative_path": "Vista/Lights/VISTA_Lights_Battlefield_Billboard_ABC/Resources/VISTA_Lights_Battlefield_Billboard_A.dae",
     "size": [
       5.0,
@@ -30,7 +30,7 @@
     "uuid": "8f02a238-88db-430c-8d4d-758bf9f3b76f"
   },
   {
-    "name": "VISTA_Lights_Torch_Billboard_A.dae",
+    "name": "VISTA_Lights_Torch_Billboard_A",
     "relative_path": "Vista/Lights/VISTA_Lights_Torch_Billboard_ABC/Resources/VISTA_Lights_Torch_Billboard_A.dae",
     "size": [
       2.200000047683716,
@@ -45,7 +45,7 @@
     "uuid": "4f11ef16-b74c-42a2-9f6d-b6002ff59414"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_A.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_A",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_A.dae",
     "size": [
       16.433971881866455,
@@ -60,7 +60,7 @@
     "uuid": "7cc2735a-02be-4e70-b525-8346fa2d35cc"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_B.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_B",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_B.dae",
     "size": [
       30.534475326538086,
@@ -75,7 +75,7 @@
     "uuid": "66cf138d-97c9-46bc-be4e-5de5186bf034"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_Base_B.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Base_B",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Base_B.dae",
     "size": [
       30.534475326538086,
@@ -90,7 +90,7 @@
     "uuid": "d21ab444-45d9-48e9-ad81-2d018294f8f8"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_Block_A.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Block_A",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Block_A.dae",
     "size": [
       13.914478302001953,
@@ -105,7 +105,7 @@
     "uuid": "15a105cb-16d5-4a25-9883-23e0542c37ff"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_A.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_A",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Slab_A.dae",
     "size": [
       11.366416454315186,
@@ -120,7 +120,7 @@
     "uuid": "55a41c7c-4671-47b6-97d5-9e1d7457d39c"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_B",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Slab_B.dae",
     "size": [
       11.518919229507446,
@@ -135,7 +135,7 @@
     "uuid": "d82d3a00-6a10-416e-af39-407ac99835e3"
   },
   {
-    "name": "VISTA_NAT_Cliff_Limestone_Layered_Top_B.dae",
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Top_B",
     "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Top_B.dae",
     "size": [
       19.660663604736328,
@@ -150,7 +150,7 @@
     "uuid": "0d97d34e-b162-43a6-9f37-cff4c4f2298e"
   },
   {
-    "name": "VISTA_NAT_Clouds_Flat_01.dae",
+    "name": "VISTA_NAT_Clouds_Flat_01",
     "relative_path": "Vista/Nature/Clouds/Resources/VISTA_NAT_Clouds_Flat_01.dae",
     "size": [
       70.64521789550781,
@@ -165,7 +165,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "VISTA_NAT_Clouds_Flat_02.dae",
+    "name": "VISTA_NAT_Clouds_Flat_02",
     "relative_path": "Vista/Nature/Clouds/Resources/VISTA_NAT_Clouds_Flat_02.dae",
     "size": [
       49.168439865112305,
@@ -180,7 +180,7 @@
     "uuid": "9db58141-9d35-49b6-bdfd-7da894fb00c7"
   },
   {
-    "name": "VISTA_NAT_Clouds_Flat_03.dae",
+    "name": "VISTA_NAT_Clouds_Flat_03",
     "relative_path": "Vista/Nature/Clouds/Resources/VISTA_NAT_Clouds_Flat_03.dae",
     "size": [
       173.33231353759766,
@@ -195,7 +195,7 @@
     "uuid": "f58d8925-fecb-416b-8147-a0ab444383f3"
   },
   {
-    "name": "VISTA_NAT_Clouds_Flat_04.dae",
+    "name": "VISTA_NAT_Clouds_Flat_04",
     "relative_path": "Vista/Nature/Clouds/Resources/VISTA_NAT_Clouds_Flat_04.dae",
     "size": [
       59.692562103271484,
@@ -210,7 +210,7 @@
     "uuid": "69591e68-5249-4a8b-9d1a-7281e3497e2f"
   },
   {
-    "name": "VISTA_NAT_Clouds_Flat_05.dae",
+    "name": "VISTA_NAT_Clouds_Flat_05",
     "relative_path": "Vista/Nature/Clouds/Resources/VISTA_NAT_Clouds_Flat_05.dae",
     "size": [
       51.64822196960449,
@@ -225,7 +225,7 @@
     "uuid": "34b54839-4721-4e68-9777-41cef6ed7be5"
   },
   {
-    "name": "VISTA_NAT_Rock_Boulder_Pile_A.dae",
+    "name": "VISTA_NAT_Rock_Boulder_Pile_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Boulder_ABC/Resources/VISTA_NAT_Rock_Boulder_Pile_A.dae",
     "size": [
       11.200639724731445,
@@ -240,7 +240,7 @@
     "uuid": "6c57e9d4-b3c3-460d-9ec2-df0c7813687b"
   },
   {
-    "name": "VISTA_NAT_Rock_Sandstone_Boulder_Scattered_A.dae",
+    "name": "VISTA_NAT_Rock_Sandstone_Boulder_Scattered_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Boulder_ABC/Resources/VISTA_NAT_Rock_Sandstone_Boulder_Scattered_A.dae",
     "size": [
       12.490216732025146,
@@ -255,7 +255,7 @@
     "uuid": "119f4bd0-0988-46cd-80ce-a23f36e6ec07"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_E.dae",
     "size": [
       7.481773853302002,
@@ -270,7 +270,7 @@
     "uuid": "802ff905-847b-441d-ae38-9fa77a6824b5"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E_ScaledDown_A.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E_ScaledDown_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_E_ScaledDown_A.dae",
     "size": [
       0.7481769919395447,
@@ -285,7 +285,7 @@
     "uuid": "79460f6f-5eaa-41d7-8858-70efde1c0950"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_F.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_F",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_F.dae",
     "size": [
       6.641949892044067,
@@ -300,7 +300,7 @@
     "uuid": "af768b54-7507-4e5c-a0e6-988aa017430f"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_G.dae",
     "size": [
       3.9994970560073853,
@@ -315,7 +315,7 @@
     "uuid": "ca8a6529-cd78-4821-8b6e-cf099aad88c5"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G_ScaledDown_A.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G_ScaledDown_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_G_ScaledDown_A.dae",
     "size": [
       0.39994899928569794,
@@ -330,7 +330,7 @@
     "uuid": "b9533003-1ca0-474b-908e-6236cc3a0e4b"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_H.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_H",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_H.dae",
     "size": [
       6.3801589012146,
@@ -345,7 +345,7 @@
     "uuid": "b18ab5f4-5ad5-49e3-a2bd-cd257cf7778c"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_I.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_I",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_I.dae",
     "size": [
       4.1053080558776855,
@@ -360,7 +360,7 @@
     "uuid": "88f60da2-5552-41a6-8844-ef54f049b9d6"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_J.dae",
     "size": [
       5.985451936721802,
@@ -375,7 +375,7 @@
     "uuid": "1477fd0c-6809-48b5-b51b-12d40d88e3ac"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J_ScaledDown_A.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J_ScaledDown_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_J_ScaledDown_A.dae",
     "size": [
       0.6016330122947693,
@@ -390,7 +390,7 @@
     "uuid": "40d27c38-2792-42bf-a6aa-49dbcc27386b"
   },
   {
-    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_D.dae",
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_D",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_D.dae",
     "size": [
       6.591914176940918,
@@ -405,7 +405,7 @@
     "uuid": "e29ab63b-47e4-4536-b285-a4237fb06bd1"
   },
   {
-    "name": "Vista_NAT_Tree_Aspen_A_Cluster_A.dae",
+    "name": "Vista_NAT_Tree_Aspen_A_Cluster_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Aspen_ABC/Resources/Vista_NAT_Tree_Aspen_A_Cluster_A.dae",
     "size": [
       29.851608276367188,
@@ -420,7 +420,7 @@
     "uuid": "ac0d87ba-094a-4059-a6dd-cbf8ab114ad5"
   },
   {
-    "name": "VISTA_NAT_Tree_Blob_A.dae",
+    "name": "VISTA_NAT_Tree_Blob_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Blob_ABC/Resources/VISTA_NAT_Tree_Blob_A.dae",
     "size": [
       20.86895751953125,
@@ -435,7 +435,7 @@
     "uuid": "794f627b-443c-4e06-bc43-09fc3b22b2bb"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_A.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_A.dae",
     "size": [
       14.153110980987549,
@@ -450,7 +450,7 @@
     "uuid": "bfdc2a4e-2e0d-4c85-a6d8-06a0981e735b"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_B.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_B",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_B.dae",
     "size": [
       14.892698764801025,
@@ -465,7 +465,7 @@
     "uuid": "c4534d54-ab41-4cb8-a621-78031d0fed78"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_C.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_C",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_C.dae",
     "size": [
       16.46433734893799,
@@ -480,7 +480,7 @@
     "uuid": "1b4d602f-32d2-4770-bf12-334727d0a932"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_D.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_D",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_D.dae",
     "size": [
       8.062204837799072,
@@ -495,7 +495,7 @@
     "uuid": "7584d279-64cd-473b-a824-c6ea5365d31e"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_E.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_E",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_E.dae",
     "size": [
       13.000736236572266,
@@ -510,7 +510,7 @@
     "uuid": "fcbc545b-5803-4242-95cc-8df5943309c1"
   },
   {
-    "name": "VISTA_NAT_Tree_Cluster_Billboard_F.dae",
+    "name": "VISTA_NAT_Tree_Cluster_Billboard_F",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Cluster_Billboard_ABC/Resources/VISTA_NAT_Tree_Cluster_Billboard_F.dae",
     "size": [
       6.926662921905518,
@@ -525,7 +525,7 @@
     "uuid": "7187cc2f-fb93-46f3-b9ae-2375c1af17c1"
   },
   {
-    "name": "VISTA_NAT_Tree_Pine_Stone_A.dae",
+    "name": "VISTA_NAT_Tree_Pine_Stone_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Pine_Stone_ABC/Resources/VISTA_NAT_Tree_Pine_Stone_A.dae",
     "size": [
       5.24043607711792,
@@ -540,7 +540,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "VISTA_NAT_Tree_Pine_Stone_Billboard_A.dae",
+    "name": "VISTA_NAT_Tree_Pine_Stone_Billboard_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Pine_Stone_Billboard_ABC/Resources/VISTA_NAT_Tree_Pine_Stone_Billboard_A.dae",
     "size": [
       5.189582109451294,
@@ -555,7 +555,7 @@
     "uuid": "b62066a0-9a9b-4b59-bcd5-e83d42997e51"
   },
   {
-    "name": "Vista_BGO_House_A.dae",
+    "name": "Vista_BGO_House_A",
     "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_A.dae",
     "size": [
       8.19467830657959,
@@ -570,7 +570,7 @@
     "uuid": "b00b74ff-43fc-4983-a77f-b0ef3fba5135"
   },
   {
-    "name": "Vista_BGO_House_B.dae",
+    "name": "Vista_BGO_House_B",
     "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_B.dae",
     "size": [
       5.642251968383789,
@@ -585,7 +585,7 @@
     "uuid": "b61787a2-be02-4924-a3d3-a79943db97ac"
   },
   {
-    "name": "Vista_BGO_House_C.dae",
+    "name": "Vista_BGO_House_C",
     "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_House_C.dae",
     "size": [
       13.774319171905518,
@@ -600,7 +600,7 @@
     "uuid": "45630e6d-e337-4795-90a9-05d6b08c460c"
   },
   {
-    "name": "Vista_BGO_Village_A.dae",
+    "name": "Vista_BGO_Village_A",
     "relative_path": "Vista/Buildings/City/Vista_BGO_Village_ABC/Resources/Vista_BGO_Village_A.dae",
     "size": [
       247.60358428955078,
@@ -615,7 +615,7 @@
     "uuid": "8d2a913a-50fb-48ca-8c13-2f902303ed03"
   },
   {
-    "name": "Vista_BLD_City_A_Border_A.dae",
+    "name": "Vista_BLD_City_A_Border_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Border_A.dae",
     "size": [
       232.52810668945312,
@@ -630,7 +630,7 @@
     "uuid": "0a7676dc-292e-4191-98e5-9e4b63512be9"
   },
   {
-    "name": "Vista_BLD_City_A_Split_A.dae",
+    "name": "Vista_BLD_City_A_Split_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_A.dae",
     "size": [
       226.10067749023438,
@@ -645,7 +645,7 @@
     "uuid": "e2a2965d-b851-487b-8180-b5d25cea2cc4"
   },
   {
-    "name": "Vista_BLD_City_A_Split_B.dae",
+    "name": "Vista_BLD_City_A_Split_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_B.dae",
     "size": [
       169.36007690429688,
@@ -660,7 +660,7 @@
     "uuid": "9f300cb0-96b2-4adb-8e84-230a8b7f7db1"
   },
   {
-    "name": "Vista_BLD_City_A_Split_C.dae",
+    "name": "Vista_BLD_City_A_Split_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_A_Split_C.dae",
     "size": [
       175.20993041992188,
@@ -675,7 +675,7 @@
     "uuid": "8f24f8df-69fd-4991-a7ea-4a89e87ae4ca"
   },
   {
-    "name": "Vista_BLD_City_B_Seatower.dae",
+    "name": "Vista_BLD_City_B_Seatower",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Seatower.dae",
     "size": [
       69.72865629196167,
@@ -690,7 +690,7 @@
     "uuid": "f51f0ce2-6004-4a09-bc65-3786241af0b8"
   },
   {
-    "name": "Vista_BLD_City_B_Split_A.dae",
+    "name": "Vista_BLD_City_B_Split_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Split_A.dae",
     "size": [
       299.83633518218994,
@@ -705,7 +705,7 @@
     "uuid": "c2c39c17-6684-45fa-82c8-a64b10503029"
   },
   {
-    "name": "Vista_BLD_City_B_Split_B.dae",
+    "name": "Vista_BLD_City_B_Split_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_B_Split_B.dae",
     "size": [
       311.5657958984375,
@@ -720,7 +720,7 @@
     "uuid": "2c46a18e-1312-4396-865c-e94682aad09e"
   },
   {
-    "name": "Vista_BLD_City_C_Houses_A.dae",
+    "name": "Vista_BLD_City_C_Houses_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Houses_A.dae",
     "size": [
       160.0001449584961,
@@ -735,7 +735,7 @@
     "uuid": "73d6abc8-2b46-4bb6-b1ce-e1ac357f30a4"
   },
   {
-    "name": "Vista_BLD_City_C_Split_A.dae",
+    "name": "Vista_BLD_City_C_Split_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_A.dae",
     "size": [
       376.42140197753906,
@@ -750,7 +750,7 @@
     "uuid": "5ad81722-c8c9-46f8-87f5-990e376d171f"
   },
   {
-    "name": "Vista_BLD_City_C_Split_B.dae",
+    "name": "Vista_BLD_City_C_Split_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_B.dae",
     "size": [
       327.41475677490234,
@@ -765,7 +765,7 @@
     "uuid": "eb215554-4ea4-4e17-b2da-7c326ce6012e"
   },
   {
-    "name": "Vista_BLD_City_C_Split_C.dae",
+    "name": "Vista_BLD_City_C_Split_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_C_Split_C.dae",
     "size": [
       290.80523681640625,
@@ -780,7 +780,7 @@
     "uuid": "c3f2b65f-da5e-46a2-971b-55bae7050b43"
   },
   {
-    "name": "Vista_BLD_City_D.dae",
+    "name": "Vista_BLD_City_D",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_D.dae",
     "size": [
       547.9772033691406,
@@ -795,7 +795,7 @@
     "uuid": "1c8a2c70-923e-4c5a-96fa-6d33d3c2ef67"
   },
   {
-    "name": "Vista_BLD_City_RamazithTower_A.dae",
+    "name": "Vista_BLD_City_RamazithTower_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_A.dae",
     "size": [
       36.92695331573486,
@@ -810,7 +810,7 @@
     "uuid": "013ee9e1-c096-40d6-8f45-92abcc8b2c29"
   },
   {
-    "name": "Vista_BLD_City_RamazithTower_B.dae",
+    "name": "Vista_BLD_City_RamazithTower_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_B.dae",
     "size": [
       35.75413799285889,
@@ -825,7 +825,7 @@
     "uuid": "015ef9d4-57c2-47d8-aa85-810cac6c9cbf"
   },
   {
-    "name": "Vista_BLD_City_RamazithTower_C.dae",
+    "name": "Vista_BLD_City_RamazithTower_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_ABC/Resources/Vista_BLD_City_RamazithTower_C.dae",
     "size": [
       19.59292984008789,
@@ -840,7 +840,7 @@
     "uuid": "a459e249-5b7f-4d3a-ad87-a8314c5ecd21"
   },
   {
-    "name": "Vista_BLD_City_CountingHouse_A.dae",
+    "name": "Vista_BLD_City_CountingHouse_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_CountingHouse_A.dae",
     "size": [
       53.41558837890625,
@@ -855,7 +855,7 @@
     "uuid": "d77a5534-731e-4e75-9049-44e319d5f077"
   },
   {
-    "name": "Vista_BLD_City_Foundry_A.dae",
+    "name": "Vista_BLD_City_Foundry_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Foundry_A.dae",
     "size": [
       57.37308883666992,
@@ -869,7 +869,7 @@
     ]
   },
   {
-    "name": "Vista_BLD_City_Foundry_Roof_A.dae",
+    "name": "Vista_BLD_City_Foundry_Roof_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Foundry_Roof_A.dae",
     "size": [
       51.54438781738281,
@@ -883,7 +883,7 @@
     ]
   },
   {
-    "name": "Vista_BLD_City_Houses_LowerCity_A.dae",
+    "name": "Vista_BLD_City_Houses_LowerCity_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_A.dae",
     "size": [
       204.15424346923828,
@@ -898,7 +898,7 @@
     "uuid": "cf3d124a-fc6f-42b2-9079-ac557a888d3e"
   },
   {
-    "name": "Vista_BLD_City_Houses_LowerCity_B.dae",
+    "name": "Vista_BLD_City_Houses_LowerCity_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_B.dae",
     "size": [
       101.24898147583008,
@@ -913,7 +913,7 @@
     "uuid": "d4cb8116-7880-4cdf-9284-8657859e1bc5"
   },
   {
-    "name": "Vista_BLD_City_Houses_LowerCity_C.dae",
+    "name": "Vista_BLD_City_Houses_LowerCity_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_LowerCity_C.dae",
     "size": [
       45.867469787597656,
@@ -928,7 +928,7 @@
     "uuid": "ba350f64-97c2-4cb8-b296-170d7c6b6ed1"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_A.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_A.dae",
     "size": [
       148.28205108642578,
@@ -943,7 +943,7 @@
     "uuid": "9492c732-331c-4aef-82cf-74193763f4a0"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_A_Optimized.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_A_Optimized",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_A_Optimized.dae",
     "size": [
       147.7935791015625,
@@ -958,7 +958,7 @@
     "uuid": "30567f81-1e85-4739-a257-fb969a219724"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_B.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_B.dae",
     "size": [
       117.69626235961914,
@@ -973,7 +973,7 @@
     "uuid": "3b027dd0-b22d-473e-b599-059e36b7bb21"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_C.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_C.dae",
     "size": [
       188.2954559326172,
@@ -988,7 +988,7 @@
     "uuid": "8c6a65a8-2128-4bfd-abe0-095335aa974d"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_D.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_D",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_D.dae",
     "size": [
       69.00830078125,
@@ -1003,7 +1003,7 @@
     "uuid": "6ffa5940-1f80-4671-85ec-6655fe413c5e"
   },
   {
-    "name": "Vista_BLD_City_Houses_UpperCity_E.dae",
+    "name": "Vista_BLD_City_Houses_UpperCity_E",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Houses_UpperCity_E.dae",
     "size": [
       41.27412986755371,
@@ -1018,7 +1018,7 @@
     "uuid": "b34d12cf-2253-4562-904a-1c48d99d1f1d"
   },
   {
-    "name": "Vista_BLD_City_Tents_UpperCity_A.dae",
+    "name": "Vista_BLD_City_Tents_UpperCity_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Tents_UpperCity_A.dae",
     "size": [
       90.08492660522461,
@@ -1033,7 +1033,7 @@
     "uuid": "dc39bc5e-2499-44fb-94db-d5c12e9570ca"
   },
   {
-    "name": "Vista_BLD_City_Tents_UpperCity_B.dae",
+    "name": "Vista_BLD_City_Tents_UpperCity_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_Tents_UpperCity_B.dae",
     "size": [
       47.25657272338867,
@@ -1048,7 +1048,7 @@
     "uuid": "dfe043b8-8427-42ff-97ae-df9284681d68"
   },
   {
-    "name": "Vista_BLD_City_WaterQueenHouse_A.dae",
+    "name": "Vista_BLD_City_WaterQueenHouse_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Houses_ABC/Resources/Vista_BLD_City_WaterQueenHouse_A.dae",
     "size": [
       43.45339775085449,
@@ -1063,7 +1063,7 @@
     "uuid": "57109b76-01b4-4ea7-a5bd-fa15ad209776"
   },
   {
-    "name": "Vista_BLD_City_Tower_A.dae",
+    "name": "Vista_BLD_City_Tower_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A.dae",
     "size": [
       19.010103225708008,
@@ -1078,7 +1078,7 @@
     "uuid": "8828c536-30a8-4859-8479-b70e45537f56"
   },
   {
-    "name": "Vista_BLD_City_Tower_A_Top.dae",
+    "name": "Vista_BLD_City_Tower_A_Top",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A_Top.dae",
     "size": [
       18.625988006591797,
@@ -1093,7 +1093,7 @@
     "uuid": "624e030e-78be-44d0-9ffd-ea9d327ced9c"
   },
   {
-    "name": "Vista_BLD_City_Tower_A_Top_B.dae",
+    "name": "Vista_BLD_City_Tower_A_Top_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_A_Top_B.dae",
     "size": [
       18.625986099243164,
@@ -1108,7 +1108,7 @@
     "uuid": "5d9391eb-a2a5-4e9a-93d3-adc990e73c9c"
   },
   {
-    "name": "Vista_BLD_City_Tower_B.dae",
+    "name": "Vista_BLD_City_Tower_B",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_B.dae",
     "size": [
       11.32173776626587,
@@ -1123,7 +1123,7 @@
     "uuid": "bab7bea8-e0ea-49df-bc33-2a69c1f153d1"
   },
   {
-    "name": "Vista_BLD_City_Tower_C.dae",
+    "name": "Vista_BLD_City_Tower_C",
     "relative_path": "Vista/Buildings/City/Vista_BLD_City_Tower_ABC/Resources/Vista_BLD_City_Tower_C.dae",
     "size": [
       57.44814491271973,
@@ -1138,7 +1138,7 @@
     "uuid": "6a6efb4b-a829-4921-a6dd-e77b78288085"
   },
   {
-    "name": "Vista_BLD_Wyrms_Crossing_A.dae",
+    "name": "Vista_BLD_Wyrms_Crossing_A",
     "relative_path": "Vista/Buildings/City/Vista_BLD_Wyrm's_Crossing_ABC/Resources/Vista_BLD_Wyrms_Crossing_A.dae",
     "size": [
       317.536865234375,
@@ -1153,7 +1153,7 @@
     "uuid": "bc3b0e7d-3e05-4ce6-81e0-52a3c8c4241c"
   },
   {
-    "name": "Vista_MenuScreen_BhaalBridge_A.dae",
+    "name": "Vista_MenuScreen_BhaalBridge_A",
     "relative_path": "Vista/Buildings/MenuScreen/Vista_MenuScreen_BhaalBridge_A/Resources/Vista_MenuScreen_BhaalBridge_A.dae",
     "size": [
       15.6392822265625,
@@ -1168,7 +1168,7 @@
     "uuid": "0b3bfe5e-afba-4cfb-aae5-400fe93519fe"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Arch_Big_A.dae",
+    "name": "Vista_Dungeon_Cazador_Arch_Big_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Arch_Big_A.dae",
     "size": [
       55.91652297973633,
@@ -1183,7 +1183,7 @@
     "uuid": "f12827ba-2882-455f-a53b-856359d75fe0"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Bridge_A_E_Piece_A.dae",
+    "name": "Vista_Dungeon_Cazador_Bridge_A_E_Piece_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Bridge_A_E_Piece_A.dae",
     "size": [
       5.927292823791504,
@@ -1198,7 +1198,7 @@
     "uuid": "63119825-32cc-41a5-aafe-d3fc39529b0f"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Bridge_A_S_Piece_A.dae",
+    "name": "Vista_Dungeon_Cazador_Bridge_A_S_Piece_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Bridge_A_S_Piece_A.dae",
     "size": [
       10.519450664520264,
@@ -1213,7 +1213,7 @@
     "uuid": "c57ba7d4-ed10-4bbc-9c20-054ee18bf384"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Fang_Pillar_A.dae",
+    "name": "Vista_Dungeon_Cazador_Fang_Pillar_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Fang_Pillar_A.dae",
     "size": [
       2.754120111465454,
@@ -1228,7 +1228,7 @@
     "uuid": "7258645e-82f6-431d-8007-77a5c7f0ccfb"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Fang_Pillar_Big_A.dae",
+    "name": "Vista_Dungeon_Cazador_Fang_Pillar_Big_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Fang_Pillar_Big_A.dae",
     "size": [
       6.899353981018066,
@@ -1243,7 +1243,7 @@
     "uuid": "d053a2af-417b-4b92-8ad1-88319b44c225"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Pillar_A_15H_A.dae",
+    "name": "Vista_Dungeon_Cazador_Pillar_A_15H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_A_15H_A.dae",
     "size": [
       5.584033966064453,
@@ -1258,7 +1258,7 @@
     "uuid": "d797de01-bf4a-4504-af9d-5919c6f03fe9"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Pillar_A_36H_A.dae",
+    "name": "Vista_Dungeon_Cazador_Pillar_A_36H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_A_36H_A.dae",
     "size": [
       5.584033966064453,
@@ -1273,7 +1273,7 @@
     "uuid": "38d5c66c-a9dc-4eab-846e-a6b1a3f2d77d"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Pillar_B_36H_A.dae",
+    "name": "Vista_Dungeon_Cazador_Pillar_B_36H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_B_36H_A.dae",
     "size": [
       2.1055479049682617,
@@ -1288,7 +1288,7 @@
     "uuid": "597c33b3-23a5-4496-857d-3025a1090f1f"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Pillar_C_34H_A.dae",
+    "name": "Vista_Dungeon_Cazador_Pillar_C_34H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_C_34H_A.dae",
     "size": [
       11.311739921569824,
@@ -1303,7 +1303,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Pillar_C_Top_A.dae",
+    "name": "Vista_Dungeon_Cazador_Pillar_C_Top_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Pillar_C_Top_A.dae",
     "size": [
       11.311739921569824,
@@ -1318,7 +1318,7 @@
     "uuid": "11411a94-6680-4cee-9d32-648d7f17aad6"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_A.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_A.dae",
     "size": [
       67.3757438659668,
@@ -1333,7 +1333,7 @@
     "uuid": "f6611b19-8949-4a08-ab39-294976e5fb05"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_B.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_B",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_B.dae",
     "size": [
       24.585081100463867,
@@ -1348,7 +1348,7 @@
     "uuid": "c9a367c5-1108-43aa-87ab-00902f0af17e"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_C.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_C",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_C.dae",
     "size": [
       17.270014762878418,
@@ -1363,7 +1363,7 @@
     "uuid": "6baa1516-1fa3-4137-88ce-ff42b2a816a6"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_Corner_A.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_A.dae",
     "size": [
       24.104047775268555,
@@ -1378,7 +1378,7 @@
     "uuid": "835b784b-93aa-42df-8f64-49df66029ac7"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_Corner_B.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_B",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_B.dae",
     "size": [
       19.894277572631836,
@@ -1393,7 +1393,7 @@
     "uuid": "a299f14c-7268-4b64-9d10-0c2f753472d4"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_Corner_C.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_Corner_C",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_Corner_C.dae",
     "size": [
       19.892562866210938,
@@ -1408,7 +1408,7 @@
     "uuid": "0f722d9c-871f-4d85-a07c-b093f1b8f747"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_D.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_D",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_D.dae",
     "size": [
       27.507762908935547,
@@ -1423,7 +1423,7 @@
     "uuid": "ac6f9d1f-47f9-4d89-9b87-b28e54f56574"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_E.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_E",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_E.dae",
     "size": [
       59.760005950927734,
@@ -1438,7 +1438,7 @@
     "uuid": "2c36d406-3105-401d-aa9b-3f5c3fcc52d7"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_F.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_F",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_F.dae",
     "size": [
       21.561817169189453,
@@ -1453,7 +1453,7 @@
     "uuid": "64667135-f379-4f14-8126-a9f2a408eb66"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_G.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_G",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_G.dae",
     "size": [
       21.261178016662598,
@@ -1468,7 +1468,7 @@
     "uuid": "4cc27e4a-7f11-48cf-aadc-b0837798fd57"
   },
   {
-    "name": "Vista_Dungeon_Cazador_Wall_H.dae",
+    "name": "Vista_Dungeon_Cazador_Wall_H",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_Cazador_ABC/Resources/Vista_Dungeon_Cazador_Wall_H.dae",
     "size": [
       7.994887113571167,
@@ -1483,7 +1483,7 @@
     "uuid": "479f2872-cc51-489e-b89a-ac00b7e429c3"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Arch_14D_19H_21W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Arch_14D_19H_21W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Arch_14D_19H_21W_A.dae",
     "size": [
       21.42363929748535,
@@ -1498,7 +1498,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Arch_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Arch_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Arch_A.dae",
     "size": [
       10.9995698928833,
@@ -1513,7 +1513,7 @@
     "uuid": "39b24842-4174-4171-9ded-02bd7f3bb573"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_12W_20H_Top_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_12W_20H_Top_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_12W_20H_Top_A.dae",
     "size": [
       12.365204811096191,
@@ -1528,7 +1528,7 @@
     "uuid": "3c1c5d5a-ff24-46c8-bb74-8ecc1381aff8"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_24H_Middle_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_24H_Middle_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_3W_24H_Middle_A.dae",
     "size": [
       2.6894400119781494,
@@ -1543,7 +1543,7 @@
     "uuid": "f63c90ee-cfed-45a6-ad23-fd5f9435c36e"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_8H_Middle_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Butress_Big_A_3W_8H_Middle_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Butress_Big_A_3W_8H_Middle_A.dae",
     "size": [
       2.6894400119781494,
@@ -1558,7 +1558,7 @@
     "uuid": "8c12e6ae-3ffc-4374-835f-09956a28a753"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Ceiling_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Ceiling_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Ceiling_A.dae",
     "size": [
       274.0,
@@ -1573,7 +1573,7 @@
     "uuid": "f2338780-e5ac-4d2e-85ef-af21b5521561"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_A_24H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_A_24H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_A_24H_A.dae",
     "size": [
       2.064661979675293,
@@ -1588,7 +1588,7 @@
     "uuid": "277c5db3-a654-4e3f-a063-4c8ff28f8a10"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_B_24H_A.dae",
     "size": [
       5.919788122177124,
@@ -1603,7 +1603,7 @@
     "uuid": "0cd7b074-7929-4f4c-ae82-630c8d340ea3"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_B.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_B_24H_B",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_B_24H_B.dae",
     "size": [
       5.223400115966797,
@@ -1618,7 +1618,7 @@
     "uuid": "884c98a2-6758-4dea-b69a-b8eb19f7744f"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_C_16H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_C_16H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_C_16H_A.dae",
     "size": [
       2.3843839168548584,
@@ -1633,7 +1633,7 @@
     "uuid": "179f331e-733e-426b-baf6-7973691c7b1b"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_C_8H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_C_8H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_C_8H_A.dae",
     "size": [
       2.3843839168548584,
@@ -1648,7 +1648,7 @@
     "uuid": "f9a757da-25d7-4381-83c7-3dabd62383dc"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_D_16H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_16H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_16H_A.dae",
     "size": [
       3.317460060119629,
@@ -1663,7 +1663,7 @@
     "uuid": "cb32feb7-0143-4fd5-9bd4-91ace96de75c"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_D_4H_Top_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_4H_Top_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_4H_Top_A.dae",
     "size": [
       3.9190781116485596,
@@ -1678,7 +1678,7 @@
     "uuid": "a9d38bfa-c93f-4a06-ace0-6f0fd02ee22e"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_D_8H_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_8H_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_8H_A.dae",
     "size": [
       3.317460060119629,
@@ -1693,7 +1693,7 @@
     "uuid": "b4fd9e35-f5ce-49fe-851f-11190d95de75"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_D_Bottom_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_Bottom_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_Bottom_A.dae",
     "size": [
       3.947266101837158,
@@ -1708,7 +1708,7 @@
     "uuid": "93ea45c0-0065-4d63-a448-3d507ef5300c"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Pillar_D_Middle_Broken_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Pillar_D_Middle_Broken_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Pillar_D_Middle_Broken_A.dae",
     "size": [
       3.7459239959716797,
@@ -1723,7 +1723,7 @@
     "uuid": "a4ab88cf-41de-40ae-ba8d-4201486778f2"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A.dae",
     "size": [
       41.19723701477051,
@@ -1738,7 +1738,7 @@
     "uuid": "7ce900a2-1002-40c2-9276-57ba7af0ac9e"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A_Flip.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A_Flip",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_4H_41W_A_Flip.dae",
     "size": [
       41.19723701477051,
@@ -1753,7 +1753,7 @@
     "uuid": "c38ccd17-1a82-4eaf-9467-902a6c7a80f3"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_10D_64H_20W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_10D_64H_20W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_10D_64H_20W_A.dae",
     "size": [
       19.989540100097656,
@@ -1768,7 +1768,7 @@
     "uuid": "b9a77848-3e39-479b-9643-3a1225b2b2e9"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_12D_72H_54W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_12D_72H_54W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_12D_72H_54W_A.dae",
     "size": [
       54.13410568237305,
@@ -1783,7 +1783,7 @@
     "uuid": "2d99dd49-2924-429a-93b4-72f065b84547"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A.dae",
     "size": [
       19.921438217163086,
@@ -1798,7 +1798,7 @@
     "uuid": "4dbe7658-89d8-4067-9ff6-f0c58c8f956b"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A_Flip.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A_Flip",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_14D_12H_20W_A_Flip.dae",
     "size": [
       19.921438217163086,
@@ -1813,7 +1813,7 @@
     "uuid": "13e0f92c-7034-4357-a18f-593ead6ac518"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_12H_16W_A.dae",
     "size": [
       15.873129844665527,
@@ -1828,7 +1828,7 @@
     "uuid": "f2494155-ab18-4384-9eb1-062539b6caee"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_B.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_12H_16W_B",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_12H_16W_B.dae",
     "size": [
       13.305407047271729,
@@ -1843,7 +1843,7 @@
     "uuid": "f6a42a8e-b96c-4ae4-97e4-117dbb407d71"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_16D_36H_16W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_16D_36H_16W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_16D_36H_16W_A.dae",
     "size": [
       15.685988903045654,
@@ -1858,7 +1858,7 @@
     "uuid": "6911fb94-b667-4273-83c2-0bc1cb96cfc6"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_18D_64H_36W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_18D_64H_36W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_18D_64H_36W_A.dae",
     "size": [
       36.29612159729004,
@@ -1873,7 +1873,7 @@
     "uuid": "0fda6136-fabd-48a3-b564-c2182177a618"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_10W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_10W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_1D_12H_10W_A.dae",
     "size": [
       10.0,
@@ -1888,7 +1888,7 @@
     "uuid": "772576c5-6076-4a7f-b1f8-1bba7c5302cf"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_16W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_1D_12H_16W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_1D_12H_16W_A.dae",
     "size": [
       16.0,
@@ -1903,7 +1903,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_20D_16H_28W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_20D_16H_28W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_20D_16H_28W_A.dae",
     "size": [
       28.92049503326416,
@@ -1918,7 +1918,7 @@
     "uuid": "4053b45b-e4f7-4add-8433-21c66a2be2e4"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A.dae",
     "size": [
       17.51056957244873,
@@ -1933,7 +1933,7 @@
     "uuid": "b4fd2d05-e382-414c-8cad-c692fbfdb16f"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A_Flip.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A_Flip",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_11H_17n5W_A_Flip.dae",
     "size": [
       17.51056957244873,
@@ -1948,7 +1948,7 @@
     "uuid": "781e126e-d844-4605-8099-2bb518bfeefa"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A.dae",
     "size": [
       17.51056957244873,
@@ -1963,7 +1963,7 @@
     "uuid": "4bd61332-b398-4198-a5ea-584f712750fb"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A_Flip.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A_Flip",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_12H_17n5W_A_Flip.dae",
     "size": [
       17.51056957244873,
@@ -1978,7 +1978,7 @@
     "uuid": "8009bf0e-956e-4e11-9518-c5a7f281376b"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A.dae",
     "size": [
       23.39109516143799,
@@ -1993,7 +1993,7 @@
     "uuid": "5922c2d4-2ae9-4772-8e8b-68b75a1240e6"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A_Flip.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A_Flip",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_22n5D_4H_17n5W_A_Flip.dae",
     "size": [
       23.391096115112305,
@@ -2008,7 +2008,7 @@
     "uuid": "63fc66a1-fc9c-433c-b890-16f10cd66e41"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_2D_40H_17W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_2D_40H_17W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_2D_40H_17W_A.dae",
     "size": [
       16.95521831512451,
@@ -2023,7 +2023,7 @@
     "uuid": "4ce76bc4-039e-443b-8e13-d56349f7e7a7"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_2D_7H_3W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_2D_7H_3W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_2D_7H_3W_A.dae",
     "size": [
       2.9648420810699463,
@@ -2038,7 +2038,7 @@
     "uuid": "c841d7b5-8629-4440-a223-12ccf8d3b410"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_3D_12H_15W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_3D_12H_15W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_3D_12H_15W_A.dae",
     "size": [
       15.241459846496582,
@@ -2053,7 +2053,7 @@
     "uuid": "8df555f6-0680-4975-b266-f3a9a0c103c0"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_4D_7H_7W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_4D_7H_7W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_4D_7H_7W_A.dae",
     "size": [
       6.600899934768677,
@@ -2068,7 +2068,7 @@
     "uuid": "628694e4-b015-4491-a0ad-ff8e8ae1af04"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_5D_36H_30W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_5D_36H_30W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_5D_36H_30W_A.dae",
     "size": [
       30.17082977294922,
@@ -2083,7 +2083,7 @@
     "uuid": "e287ac07-6dfa-4e88-83da-2eb0fd819f84"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_6D_16H_20W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_16H_20W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_16H_20W_A.dae",
     "size": [
       20.089255332946777,
@@ -2098,7 +2098,7 @@
     "uuid": "c7de5e16-0434-4787-ac4a-683f70035fa3"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_6D_24H_24W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_24H_24W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_24H_24W_A.dae",
     "size": [
       24.51666259765625,
@@ -2113,7 +2113,7 @@
     "uuid": "8365f52e-020d-4591-9670-f08add869975"
   },
   {
-    "name": "Vista_Dungeon_SharTemple_Wall_6D_30H_17W_A.dae",
+    "name": "Vista_Dungeon_SharTemple_Wall_6D_30H_17W_A",
     "relative_path": "Vista/Dungeon/Vista_Dungeon_SharTemple_ABC/Resources/Vista_Dungeon_SharTemple_Wall_6D_30H_17W_A.dae",
     "size": [
       16.593891143798828,
@@ -2128,7 +2128,7 @@
     "uuid": "d2e276db-67ce-44fb-9562-fb9603216c04"
   },
   {
-    "name": "VISTA_NAT_Beach_GithCreche_A.dae",
+    "name": "VISTA_NAT_Beach_GithCreche_A",
     "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_GithCreche_ABC/Resources/VISTA_NAT_Beach_GithCreche_A.dae",
     "size": [
       319.5503692626953,
@@ -2143,7 +2143,7 @@
     "uuid": "1e91524c-44d6-4e30-8ea3-0756192e1b2b"
   },
   {
-    "name": "VISTA_NAT_Beach_GithCreche_B.dae",
+    "name": "VISTA_NAT_Beach_GithCreche_B",
     "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_GithCreche_ABC/Resources/VISTA_NAT_Beach_GithCreche_B.dae",
     "size": [
       82.0,
@@ -2158,7 +2158,7 @@
     "uuid": "0296a50a-eaa3-483e-9e15-cc273d004629"
   },
   {
-    "name": "VISTA_NAT_Beach_WyrmsCrossing_A.dae",
+    "name": "VISTA_NAT_Beach_WyrmsCrossing_A",
     "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_WyrmsCrossing_ABC/Resources/VISTA_NAT_Beach_WyrmsCrossing_A.dae",
     "size": [
       360.0,
@@ -2173,7 +2173,7 @@
     "uuid": "39509891-776e-4c9a-915c-68f339f21f89"
   },
   {
-    "name": "VISTA_NAT_Beach_WyrmsCrossing_B.dae",
+    "name": "VISTA_NAT_Beach_WyrmsCrossing_B",
     "relative_path": "Vista/Nature/Beach/VISTA_NAT_Beach_WyrmsCrossing_ABC/Resources/VISTA_NAT_Beach_WyrmsCrossing_B.dae",
     "size": [
       1176.0,
@@ -2188,7 +2188,7 @@
     "uuid": "c4d4228b-1454-4819-8840-7852830884ef"
   },
   {
-    "name": "VISTA_NAT_Mountain_Limestone_A.dae",
+    "name": "VISTA_NAT_Mountain_Limestone_A",
     "relative_path": "Vista/Nature/Mountain/Resources/VISTA_NAT_Mountain_Limestone_A.dae",
     "size": [
       124.93899154663086,
@@ -2202,7 +2202,7 @@
     ]
   },
   {
-    "name": "VISTA_NAT_Mountain_Limestone_C.dae",
+    "name": "VISTA_NAT_Mountain_Limestone_C",
     "relative_path": "Vista/Nature/Mountain/Resources/VISTA_NAT_Mountain_Limestone_C.dae",
     "size": [
       70.65815353393555,
@@ -2216,7 +2216,7 @@
     ]
   },
   {
-    "name": "VISTA_NAT_Rock_Sandstone_Boulder_Pile_A.dae",
+    "name": "VISTA_NAT_Rock_Sandstone_Boulder_Pile_A",
     "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Boulder_ABC/Resources/VISTA_NAT_Rock_Sandstone_Boulder_Pile_A.dae",
     "size": [
       6.423608779907227,
@@ -2231,7 +2231,7 @@
     "uuid": "171bffc8-e6ef-4b04-be94-c2c686b09d08"
   },
   {
-    "name": "VISTA_NAT_Tree_Set_A.dae",
+    "name": "VISTA_NAT_Tree_Set_A",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Set_ABC/Resources/VISTA_NAT_Tree_Set_A.dae",
     "size": [
       98.86667251586914,
@@ -2246,7 +2246,7 @@
     "uuid": "3132a430-388a-40bc-a1cf-d626606a37fc"
   },
   {
-    "name": "VISTA_NAT_Tree_Set_B.dae",
+    "name": "VISTA_NAT_Tree_Set_B",
     "relative_path": "Vista/Nature/Trees/VISTA_NAT_Tree_Set_ABC/Resources/VISTA_NAT_Tree_Set_B.dae",
     "size": [
       98.86667251586914,

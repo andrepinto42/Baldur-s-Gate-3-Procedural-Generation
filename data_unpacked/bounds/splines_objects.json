@@ -1,6 +1,6 @@
 [
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A.dae",
     "size": [
       0.8837079736251781,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A_Flip.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A_Flip",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_E_Piece_A_Flip.dae",
     "size": [
       0.875245988368988,
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_A.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_A",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_A.dae",
     "size": [
       1.1123469918966293,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_B.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_B",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_1W_S_Piece_B.dae",
     "size": [
       1.0505859851837158,
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B.dae",
     "size": [
       2.1275589913129807,
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B_Flip.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B_Flip",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_E_Piece_B_Flip.dae",
     "size": [
       2.0353550240397453,
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_S_Piece_A.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_S_Piece_A",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_2W_S_Piece_A.dae",
     "size": [
       2.043912000954151,
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_A.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_A",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_A.dae",
     "size": [
       4.073617048561573,
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_E.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_E",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_E.dae",
     "size": [
       4.073617048561573,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_F.dae",
+    "name": "SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_F",
     "relative_path": "Splines/Farm/SPL_Farm_Fence_WovenBranch_ABC/Resources/SPL_Farm_Fence_WovenBranch_A_1D_2H_4W_S_Piece_F.dae",
     "size": [
       4.073617048561573,
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_A.dae",
     "size": [
       10.003088259836659,
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_B.dae",
     "size": [
       10.234482646454126,
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_C.dae",
     "size": [
       10.027619138360023,
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_D.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_D",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_10W_E_Piece_D.dae",
     "size": [
       10.0,
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_A.dae",
     "size": [
       50.00545680569485,
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_B.dae",
     "size": [
       50.02761459350586,
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_C.dae",
     "size": [
       50.00545680569485,
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "name": "SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_D",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_Vista_ABC/Resources/SPL_NAT_Cliff_Granite_Vista_A_50D_10H_50W_S_Piece_D.dae",
     "size": [
       50.02761459350586,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A.dae",
     "size": [
       16.024952120117177,
@@ -266,7 +266,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_A_Inset.dae",
     "size": [
       16.000019073486328,
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B.dae",
     "size": [
       15.97303695135497,
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D8D_12H_16W_S_Piece_B_Inset.dae",
     "size": [
       16.00002943444997,
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_A.dae",
     "size": [
       16.000003907348628,
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_B.dae",
     "size": [
       16.000001999999995,
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_3D_12H_16W_S_Piece_C.dae",
     "size": [
       16.002203543579526,
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_A.dae",
     "size": [
       5.927158232778311,
@@ -364,7 +364,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_4W_E_Piece_B.dae",
     "size": [
       4.605026032653768,
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A.dae",
     "size": [
       16.0,
@@ -392,7 +392,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_A_Inset.dae",
     "size": [
       16.0260935369879,
@@ -406,7 +406,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B.dae",
     "size": [
       16.000009639188647,
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D3D_12H_16W_S_Piece_B_Inset.dae",
     "size": [
       16.02613289654255,
@@ -434,7 +434,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_A.dae",
     "size": [
       16.000001999999995,
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D8D_12H_16W_S_Piece_A_Inset_B.dae",
     "size": [
       16.000001907348633,
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A.dae",
     "size": [
       16.0,
@@ -476,7 +476,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_A_Inset.dae",
     "size": [
       16.0,
@@ -490,7 +490,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B.dae",
     "size": [
       16.000015545636415,
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_B_Inset.dae",
     "size": [
       16.00001440756023,
@@ -518,7 +518,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C.dae",
     "size": [
       16.000006907348507,
@@ -532,7 +532,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C_Inset.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C_Inset",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_A_8D_12H_16W_S_Piece_C_Inset.dae",
     "size": [
       16.00000881469714,
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_A.dae",
     "size": [
       2.783561959862709,
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_E_Piece_B.dae",
     "size": [
       2.7911959290504456,
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_10H_8W_S_Piece_A.dae",
     "size": [
       8.098085701465607,
@@ -588,7 +588,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_A.dae",
     "size": [
       2.7224440574645996,
@@ -602,7 +602,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_E_Piece_B.dae",
     "size": [
       2.751548111438751,
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_ABC/Resources/SPL_NAT_Cliff_Sandstone_B_4D_5H_8W_S_Piece_A.dae",
     "size": [
       8.044490701518953,
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_A.dae",
     "size": [
       12.501944907358848,
@@ -644,7 +644,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_B.dae",
     "size": [
       12.560991954058409,
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_C.dae",
     "size": [
       12.500001907348633,
@@ -672,7 +672,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_D.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_D",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_12n5W_E_Piece_D.dae",
     "size": [
       12.586882956326008,
@@ -686,7 +686,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_A.dae",
     "size": [
       50.06099100038409,
@@ -700,7 +700,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_B.dae",
     "size": [
       50.00000999999975,
@@ -714,7 +714,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_C.dae",
     "size": [
       50.06099100038409,
@@ -728,7 +728,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_D.dae",
+    "name": "SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_D",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Sandstone_Vista_ABC/Resources/SPL_NAT_Cliff_Sandstone_Vista_A_50D_10H_50W_S_Piece_D.dae",
     "size": [
       50.00000999999975,
@@ -742,7 +742,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Ridge_Mud_A.dae",
+    "name": "SPL_NAT_Ridge_Mud_A",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
     "size": [
       10.33069634437561,
@@ -757,7 +757,7 @@
     "uuid": "0384ac70-9b4d-4cee-8ff1-887d47c30dc6"
   },
   {
-    "name": "SPL_NAT_Ridge_Mud_A_Concave.dae",
+    "name": "SPL_NAT_Ridge_Mud_A_Concave",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A_Concave.dae",
     "size": [
       9.706565022468567,
@@ -772,7 +772,7 @@
     "uuid": "7a821184-cca7-40c0-931e-a231b1b45a5a"
   },
   {
-    "name": "SPL_NAT_Ridge_Mud_A_Convex.dae",
+    "name": "SPL_NAT_Ridge_Mud_A_Convex",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A_Convex.dae",
     "size": [
       9.014614939689636,
@@ -787,7 +787,7 @@
     "uuid": "8bb0b208-6164-499e-a7c4-843b9cf10fbf"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_A.dae",
+    "name": "SPL_NAT_Ridge_Sand_A",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_A.dae",
     "size": [
       16.20536708831787,
@@ -802,7 +802,7 @@
     "uuid": "2f49a015-b876-4647-b050-3aa0af840144"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_B.dae",
+    "name": "SPL_NAT_Ridge_Sand_B",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_B.dae",
     "size": [
       11.86090898513794,
@@ -817,7 +817,7 @@
     "uuid": "261c2dcf-e048-4427-8993-0fc3ce26cecd"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_C.dae",
+    "name": "SPL_NAT_Ridge_Sand_C",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_C.dae",
     "size": [
       22.001541137695312,
@@ -832,7 +832,7 @@
     "uuid": "16c1bb36-591f-4faf-9634-71a05b7617f6"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_D.dae",
+    "name": "SPL_NAT_Ridge_Sand_D",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_D.dae",
     "size": [
       19.257471084594727,
@@ -847,7 +847,7 @@
     "uuid": "3cb37aed-4bee-48c4-abdd-ba6a106545d2"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_E.dae",
+    "name": "SPL_NAT_Ridge_Sand_E",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_E.dae",
     "size": [
       20.920700073242188,
@@ -862,7 +862,7 @@
     "uuid": "7a4c45e0-5a21-4ead-9bce-a21ad50c0503"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_F.dae",
+    "name": "SPL_NAT_Ridge_Sand_F",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_F.dae",
     "size": [
       11.014745712280273,
@@ -877,7 +877,7 @@
     "uuid": "7c101725-f943-4a5a-aabb-07ecb695b7ff"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_G.dae",
+    "name": "SPL_NAT_Ridge_Sand_G",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_G.dae",
     "size": [
       11.853605270385742,
@@ -892,7 +892,7 @@
     "uuid": "60d99cf7-ea07-46d6-84cc-5c1d126d2c2a"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_H.dae",
+    "name": "SPL_NAT_Ridge_Sand_H",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_H.dae",
     "size": [
       14.122127532958984,
@@ -907,7 +907,7 @@
     "uuid": "2a8290ad-bf8e-492c-8cc7-3ed39fde818c"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_I.dae",
+    "name": "SPL_NAT_Ridge_Sand_I",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_I.dae",
     "size": [
       15.587396144866943,
@@ -922,7 +922,7 @@
     "uuid": "7a03557c-8546-4e29-95da-c65de2534b04"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_J.dae",
+    "name": "SPL_NAT_Ridge_Sand_J",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_J.dae",
     "size": [
       16.670023918151855,
@@ -937,7 +937,7 @@
     "uuid": "72c4a63d-0c8e-4781-b271-7c2d3be78ce3"
   },
   {
-    "name": "SPL_NAT_Ridge_Sand_K.dae",
+    "name": "SPL_NAT_Ridge_Sand_K",
     "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Sand_ABC/Resources/SPL_NAT_Ridge_Sand_K.dae",
     "size": [
       16.63515567779541,
@@ -952,7 +952,7 @@
     "uuid": "5686cc12-2547-46c1-b26a-07dc6417e7fe"
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_A.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_A",
     "relative_path": "Splines/Buildings/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_A.dae",
     "size": [
       0.5906099788844585,
@@ -966,7 +966,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_B.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_B",
     "relative_path": "Splines/Buildings/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_1H_0n75W_E_Piece_B.dae",
     "size": [
       0.6076120249927044,
@@ -980,7 +980,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_3W_S_Piece_A.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_1H_3W_S_Piece_A",
     "relative_path": "Splines/Buildings/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_1H_3W_S_Piece_A.dae",
     "size": [
       3.000069942504979,
@@ -994,7 +994,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_A.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_A",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_A.dae",
     "size": [
       0.7285700216889381,
@@ -1008,7 +1008,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_B.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_B",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_B.dae",
     "size": [
       0.7259910218417645,
@@ -1022,7 +1022,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_C.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_C",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_C.dae",
     "size": [
       1.196519005781738,
@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_D.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_D",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_0n75W_E_Piece_D.dae",
     "size": [
       0.9226810239779297,
@@ -1050,7 +1050,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_A.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_A",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_A.dae",
     "size": [
       4.0006799984839745,
@@ -1064,7 +1064,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_B.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_B",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_B.dae",
     "size": [
       4.000686987303197,
@@ -1078,7 +1078,7 @@
     ]
   },
   {
-    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_E.dae",
+    "name": "SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_E",
     "relative_path": "Splines/Buildings/SPL_Village_House_A_Base_Stone_A_1n5D_2H_A/Resources/SPL_Village_House_A_Base_Stone_A_1n5D_2H_4W_S_Piece_E.dae",
     "size": [
       4.000678786018398,
@@ -1092,7 +1092,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_A.dae",
     "size": [
       0.9954969910904765,
@@ -1106,7 +1106,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_1W_E_Piece_B.dae",
     "size": [
       0.995510024484247,
@@ -1120,7 +1120,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_A.dae",
     "size": [
       2.0112410616129637,
@@ -1134,7 +1134,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_2W_S_Piece_B.dae",
     "size": [
       2.032158112153411,
@@ -1148,7 +1148,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_A.dae",
     "size": [
       4.005553053226322,
@@ -1162,7 +1162,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_A_0n5D_1H_4W_S_Piece_B.dae",
     "size": [
       4.007381998701021,
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_A.dae",
     "size": [
       1.0183170028030872,
@@ -1190,7 +1190,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_B.dae",
     "size": [
       1.0183170028030872,
@@ -1204,7 +1204,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_C.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_C",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_C.dae",
     "size": [
       1.0183090157806873,
@@ -1218,7 +1218,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_D.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_D",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_1W_E_Piece_D.dae",
     "size": [
       1.0183079428970814,
@@ -1232,7 +1232,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_A.dae",
     "size": [
       2.0429909713566303,
@@ -1246,7 +1246,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_B.dae",
     "size": [
       2.042208941653371,
@@ -1260,7 +1260,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_C.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_C",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_2W_S_Piece_C.dae",
     "size": [
       2.031372969970107,
@@ -1274,7 +1274,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_A.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_A.dae",
     "size": [
       4.0223110960796475,
@@ -1288,7 +1288,7 @@
     ]
   },
   {
-    "name": "SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_B.dae",
+    "name": "SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Road_ABC/Resources/SPL_City_Road_Gutter_B_0n5D_1H_4W_S_Piece_B.dae",
     "size": [
       4.022309831343591,
@@ -1302,7 +1302,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_1W_E_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_1W_E_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_1W_E_Piece_A.dae",
     "size": [
       0.6350070105323766,
@@ -1316,7 +1316,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_A.dae",
     "size": [
       4.0000009999999975,
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_B.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_B.dae",
     "size": [
       4.0000009999999975,
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_C.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_C",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_C.dae",
     "size": [
       4.0000009999999975,
@@ -1358,7 +1358,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_D.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_D",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_D.dae",
     "size": [
       4.0000009999999975,
@@ -1372,7 +1372,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_E.dae",
+    "name": "SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_E",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_4D_0n5H_4W_S_Piece_E.dae",
     "size": [
       4.004230999853462,
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_6D_0n5H_1W_E_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_6D_0n5H_1W_E_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_6D_0n5H_1W_E_Piece_A.dae",
     "size": [
       0.6388010249862646,
@@ -1400,7 +1400,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_A.dae",
     "size": [
       4.0000009999999975,
@@ -1414,7 +1414,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_B.dae",
+    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_B.dae",
     "size": [
       4.0000009999999975,
@@ -1428,7 +1428,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_C.dae",
+    "name": "SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_C",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_6D_0n5H_4W_S_Piece_C.dae",
     "size": [
       4.0000009999999975,
@@ -1442,7 +1442,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_8D_0n5H_1W_E_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_8D_0n5H_1W_E_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_8D_0n5H_1W_E_Piece_A.dae",
     "size": [
       0.6441569791564916,
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_A_8D_0n5H_4W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_A_8D_0n5H_4W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_A_8D_0n5H_4W_S_Piece_A.dae",
     "size": [
       4.0000009999999975,
@@ -1470,7 +1470,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_A.dae",
     "size": [
       8.041925236582756,
@@ -1484,7 +1484,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_B.dae",
+    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_B.dae",
     "size": [
       8.03315619006753,
@@ -1498,7 +1498,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_C.dae",
+    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_C",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_C.dae",
     "size": [
       8.052104745060205,
@@ -1512,7 +1512,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_D.dae",
+    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_D",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_D.dae",
     "size": [
       8.028455773601308,
@@ -1526,7 +1526,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_E.dae",
+    "name": "SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_E",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_4D_0n5H_8W_S_Piece_E.dae",
     "size": [
       8.042908227071166,
@@ -1540,7 +1540,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_A.dae",
     "size": [
       8.040388856083155,
@@ -1554,7 +1554,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_B.dae",
+    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_B",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_B.dae",
     "size": [
       8.052734170109034,
@@ -1568,7 +1568,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_C.dae",
+    "name": "SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_C",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_6D_0n5H_8W_S_Piece_C.dae",
     "size": [
       8.022038384806365,
@@ -1582,7 +1582,7 @@
     ]
   },
   {
-    "name": "SPL_City_Stairs_B_8D_0n5H_8W_S_Piece_A.dae",
+    "name": "SPL_City_Stairs_B_8D_0n5H_8W_S_Piece_A",
     "relative_path": "Splines/City/SPL_City_Stairs_ABC/Resources/SPL_City_Stairs_B_8D_0n5H_8W_S_Piece_A.dae",
     "size": [
       8.006387762725353,
@@ -1596,7 +1596,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Cable_0n5W_E_Piece_A.dae",
+    "name": "SPL_Foundry_Cable_0n5W_E_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Cable_0n5W_E_Piece_A.dae",
     "size": [
       0.019342000072356313,
@@ -1610,7 +1610,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Cable_1W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Cable_1W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Cable_1W_S_Piece_A.dae",
     "size": [
       0.9999870000001465,
@@ -1624,7 +1624,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_A_1W_E_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_A_1W_E_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_A_1W_E_Piece_A.dae",
     "size": [
       0.1498119996318792,
@@ -1638,7 +1638,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_A_8W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_A_8W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_A_8W_S_Piece_A.dae",
     "size": [
       7.999999046325684,
@@ -1652,7 +1652,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_B_15W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_B_15W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_B_15W_S_Piece_A.dae",
     "size": [
       15.00000290734863,
@@ -1666,7 +1666,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_B_1W_E_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_B_1W_E_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_B_1W_E_Piece_A.dae",
     "size": [
       0.1498119996318792,
@@ -1680,7 +1680,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_B_8W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_B_8W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_B_8W_S_Piece_A.dae",
     "size": [
       7.999999046325684,
@@ -1694,7 +1694,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_C_15W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_C_15W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_C_15W_S_Piece_A.dae",
     "size": [
       15.000000907348635,
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_C_8W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_C_8W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_C_8W_S_Piece_A.dae",
     "size": [
       7.999999046325684,
@@ -1722,7 +1722,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_D_15W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_D_15W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_D_15W_S_Piece_A.dae",
     "size": [
       15.000000907348635,
@@ -1736,7 +1736,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_D_1W_E_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_D_1W_E_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_D_1W_E_Piece_A.dae",
     "size": [
       0.1498119996318792,
@@ -1750,7 +1750,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_D_8W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_D_8W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_D_8W_S_Piece_A.dae",
     "size": [
       7.999999046325684,
@@ -1764,7 +1764,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_E_15W_S_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_E_15W_S_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_E_15W_S_Piece_A.dae",
     "size": [
       15.000000907348635,
@@ -1778,7 +1778,7 @@
     ]
   },
   {
-    "name": "SPL_Foundry_Tube_E_1W_E_Piece_A.dae",
+    "name": "SPL_Foundry_Tube_E_1W_E_Piece_A",
     "relative_path": "Splines/Foundry/Resources/SPL_Foundry_Tube_E_1W_E_Piece_A.dae",
     "size": [
       0.29550199372863517,
@@ -1792,7 +1792,7 @@
     ]
   },
   {
-    "name": "SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_A.dae",
+    "name": "SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_A",
     "relative_path": "Splines/FX/SPL_FX_Shadow_Curse_ABC/Resources/SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_A.dae",
     "size": [
       1.5137269496917725,
@@ -1806,7 +1806,7 @@
     ]
   },
   {
-    "name": "SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_B.dae",
+    "name": "SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_B",
     "relative_path": "Splines/FX/SPL_FX_Shadow_Curse_ABC/Resources/SPL_FX_Shadow_Curse_A_2D_6H_1W_E_Piece_B.dae",
     "size": [
       1.5137269496917725,
@@ -1820,7 +1820,7 @@
     ]
   },
   {
-    "name": "SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_A.dae",
+    "name": "SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_A",
     "relative_path": "Splines/FX/SPL_FX_Shadow_Curse_ABC/Resources/SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_A.dae",
     "size": [
       4.0,
@@ -1834,7 +1834,7 @@
     ]
   },
   {
-    "name": "SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_B.dae",
+    "name": "SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_B",
     "relative_path": "Splines/FX/SPL_FX_Shadow_Curse_ABC/Resources/SPL_FX_Shadow_Curse_A_2D_6H_4W_S_Piece_B.dae",
     "size": [
       4.0,
@@ -1848,7 +1848,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_1W_E_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_1W_E_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_1W_E_Piece_A.dae",
     "size": [
       1.0000009536743164,
@@ -1862,7 +1862,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_1W_E_Piece_B.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_1W_E_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_1W_E_Piece_B.dae",
     "size": [
       1.0000019536743139,
@@ -1876,7 +1876,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_1W_S_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_1W_S_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_1W_S_Piece_A.dae",
     "size": [
       1.0009269536822103,
@@ -1890,7 +1890,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_E_Piece_A.dae",
     "size": [
       2.003040888794203,
@@ -1904,7 +1904,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_B.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_E_Piece_B.dae",
     "size": [
       2.0,
@@ -1918,7 +1918,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_C.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_C",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_E_Piece_C.dae",
     "size": [
       2.0,
@@ -1932,7 +1932,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_D.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_E_Piece_D",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_E_Piece_D.dae",
     "size": [
       2.0,
@@ -1946,7 +1946,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_S_Piece_A.dae",
     "size": [
       2.0,
@@ -1960,7 +1960,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_B.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_S_Piece_B.dae",
     "size": [
       2.0,
@@ -1974,7 +1974,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_C.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_2W_S_Piece_C",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_2W_S_Piece_C.dae",
     "size": [
       2.0,
@@ -1988,7 +1988,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_4W_E_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_4W_E_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_4W_E_Piece_A.dae",
     "size": [
       4.0,
@@ -2002,7 +2002,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_4W_E_Piece_B.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_4W_E_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_4W_E_Piece_B.dae",
     "size": [
       4.0,
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_4W_S_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_4W_S_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_4W_S_Piece_A.dae",
     "size": [
       4.0,
@@ -2030,7 +2030,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_4W_S_Piece_B.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_4W_S_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_4W_S_Piece_B.dae",
     "size": [
       4.0,
@@ -2044,7 +2044,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Drapes_A_0n5D_8W_S_Piece_A.dae",
+    "name": "SPL_GEN_Drapes_A_0n5D_8W_S_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Drapes_ABC/Resources/SPL_GEN_Drapes_A_0n5D_8W_S_Piece_A.dae",
     "size": [
       7.999999046325684,
@@ -2058,7 +2058,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Rope_A_0n5W_E_Piece_A.dae",
+    "name": "SPL_GEN_Rope_A_0n5W_E_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Rope_A/Resources/SPL_GEN_Rope_A_0n5W_E_Piece_A.dae",
     "size": [
       0.5,
@@ -2072,7 +2072,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Rope_A_0n5W_E_Piece_B.dae",
+    "name": "SPL_GEN_Rope_A_0n5W_E_Piece_B",
     "relative_path": "Splines/Generic/SPL_GEN_Rope_A/Resources/SPL_GEN_Rope_A_0n5W_E_Piece_B.dae",
     "size": [
       0.5,
@@ -2086,7 +2086,7 @@
     ]
   },
   {
-    "name": "SPL_GEN_Rope_A_4W_S_Piece_A.dae",
+    "name": "SPL_GEN_Rope_A_4W_S_Piece_A",
     "relative_path": "Splines/Generic/SPL_GEN_Rope_A/Resources/SPL_GEN_Rope_A_4W_S_Piece_A.dae",
     "size": [
       4.0,
@@ -2100,7 +2100,7 @@
     ]
   },
   {
-    "name": "SPL_HoH_Engine_Tube_A_1W_E_Piece_A.dae",
+    "name": "SPL_HoH_Engine_Tube_A_1W_E_Piece_A",
     "relative_path": "Splines/HouseOfHope/SPL_HoH_Engine_Tube_ABC/Resources/SPL_HoH_Engine_Tube_A_1W_E_Piece_A.dae",
     "size": [
       1.237720012664795,
@@ -2114,7 +2114,7 @@
     ]
   },
   {
-    "name": "SPL_HoH_Engine_Tube_A_8W_S_Piece_A.dae",
+    "name": "SPL_HoH_Engine_Tube_A_8W_S_Piece_A",
     "relative_path": "Splines/HouseOfHope/SPL_HoH_Engine_Tube_ABC/Resources/SPL_HoH_Engine_Tube_A_8W_S_Piece_A.dae",
     "size": [
       8.0,
@@ -2128,7 +2128,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_A.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_A",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_A.dae",
     "size": [
       16.442683219909668,
@@ -2142,7 +2142,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_B.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_B",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_B.dae",
     "size": [
       16.43979263305664,
@@ -2156,7 +2156,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_C.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_C",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_C.dae",
     "size": [
       16.43979263305664,
@@ -2170,7 +2170,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_D.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_D",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_14W_S_Piece_D.dae",
     "size": [
       16.43979263305664,
@@ -2184,7 +2184,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_A.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_A",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_A.dae",
     "size": [
       4.3714210987091064,
@@ -2198,7 +2198,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_B.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_B",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_B.dae",
     "size": [
       5.596786856651306,
@@ -2212,7 +2212,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_C.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_C",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_C.dae",
     "size": [
       4.408673048019409,
@@ -2226,7 +2226,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_D.dae",
+    "name": "SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_D",
     "relative_path": "Splines/Mindflayer/SPL_MF_Colony_Platform_ABC/Resources/SPL_MF_Colony_Platform_A_8D_2H_3W_E_Piece_D.dae",
     "size": [
       5.680733799934387,
@@ -2240,7 +2240,7 @@
     ]
   },
   {
-    "name": "SPL_MF_Elder_Brain_Antenna_A_2D_2H_8W_S_Piece_A.dae",
+    "name": "SPL_MF_Elder_Brain_Antenna_A_2D_2H_8W_S_Piece_A",
     "relative_path": "Splines/Mindflayer/SPL_MF_Elder_Brain_Antenna_ABC/Resources/SPL_MF_Elder_Brain_Antenna_A_2D_2H_8W_S_Piece_A.dae",
     "size": [
       8.000269027164904,
@@ -2254,7 +2254,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_A.dae",
     "size": [
       1.177872033789754,
@@ -2268,7 +2268,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_1W_E_Piece_B.dae",
     "size": [
       1.147199034690857,
@@ -2282,7 +2282,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_A.dae",
     "size": [
       8.635199651122093,
@@ -2296,7 +2296,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_B.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_B",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_B.dae",
     "size": [
       11.423901081085205,
@@ -2310,7 +2310,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_C.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_C",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_C.dae",
     "size": [
       11.86289095878601,
@@ -2324,7 +2324,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_D.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_D",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_D.dae",
     "size": [
       12.736721992492676,
@@ -2338,7 +2338,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_E.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_E",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_E.dae",
     "size": [
       12.08241605758667,
@@ -2352,7 +2352,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_F.dae",
+    "name": "SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_F",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Granite_ABC/Resources/SPL_NAT_Cliff_Granite_A_3D_8H_8W_S_Piece_F.dae",
     "size": [
       8.0,
@@ -2366,7 +2366,7 @@
     ]
   },
   {
-    "name": "SPL_NAT_Cliff_Obsidian_A_3D_8H_8W_S_Piece_A.dae",
+    "name": "SPL_NAT_Cliff_Obsidian_A_3D_8H_8W_S_Piece_A",
     "relative_path": "Splines/Nature/Cliffs/SPL_NAT_Cliff_Obsidian_ABC/Resources/SPL_NAT_Cliff_Obsidian_A_3D_8H_8W_S_Piece_A.dae",
     "size": [
       9.910258054733276,

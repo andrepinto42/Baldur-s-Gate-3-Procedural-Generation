@@ -1,6 +1,6 @@
 [
   {
-    "name": "Cine_Wine_Bottle_Closed_A.dae",
+    "name": "Cine_Wine_Bottle_Closed_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/Cine_Wine_Bottle_Closed_A.dae",
     "size": [
       0.09352700039744377,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "Cine_Wine_Bottle_Open_A.dae",
+    "name": "Cine_Wine_Bottle_Open_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/Cine_Wine_Bottle_Open_A.dae",
     "size": [
       0.09476599842309952,
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_Beer_Mug_A.dae",
+    "name": "CONS_Drink_Beer_Mug_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A.dae",
     "size": [
       0.3321409970521927,
@@ -43,7 +43,7 @@
     "uuid": "6f5c2259-c522-4892-a14f-f74015afd88d"
   },
   {
-    "name": "CONS_Drink_Beer_Pitcher_A.dae",
+    "name": "CONS_Drink_Beer_Pitcher_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Pitcher_A.dae",
     "size": [
       0.39176999032497406,
@@ -58,7 +58,7 @@
     "uuid": "f08cff83-241c-4b93-9e9a-5e06b292c689"
   },
   {
-    "name": "CONS_Drink_Canteen_A.dae",
+    "name": "CONS_Drink_Canteen_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Canteen_A.dae",
     "size": [
       0.25252700597047806,
@@ -73,7 +73,7 @@
     "uuid": "913341fe-1edc-4782-992f-606a3c3a493c"
   },
   {
-    "name": "CONS_Drink_Coffee_A.dae",
+    "name": "CONS_Drink_Coffee_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Coffee_A.dae",
     "size": [
       0.2852109968662262,
@@ -88,7 +88,7 @@
     "uuid": "6b059833-31ec-481b-88b5-9c71c82340ec"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A.dae",
+    "name": "CONS_Drink_DemiJohn_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A.dae",
     "size": [
       0.4927469938993454,
@@ -103,7 +103,7 @@
     "uuid": "56813fb8-5862-4de7-9a11-5cc5b4160753"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_A_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Destruct.dae",
     "size": [
       0.840382993221283,
@@ -118,7 +118,7 @@
     "uuid": "fcdd7d83-bf1f-4a68-be6b-cac1e46c49c8"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_A_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Explode.dae",
     "size": [
       0.4927469938993454,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Stand_A.dae",
+    "name": "CONS_Drink_DemiJohn_A_Stand_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_A.dae",
     "size": [
       0.5474259853363037,
@@ -147,7 +147,7 @@
     "uuid": "2df4a80f-710c-4f94-b469-c6ef00ff5118"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Stand_B.dae",
+    "name": "CONS_Drink_DemiJohn_A_Stand_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B.dae",
     "size": [
       0.4966749995946884,
@@ -162,7 +162,7 @@
     "uuid": "88df608d-dc2f-4c01-9b25-03c4ce58bb20"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Stand_B_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_A_Stand_B_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B_Destruct.dae",
     "size": [
       1.028443992137909,
@@ -177,7 +177,7 @@
     "uuid": "76e025e0-dbfb-42d9-93fe-fd0fc7d8cb53"
   },
   {
-    "name": "CONS_Drink_DemiJohn_A_Stand_B_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_A_Stand_B_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_A_Stand_B_Explode.dae",
     "size": [
       0.49723300337791443,
@@ -191,7 +191,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_B.dae",
+    "name": "CONS_Drink_DemiJohn_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B.dae",
     "size": [
       0.5101209878921509,
@@ -206,7 +206,7 @@
     "uuid": "e80cb0a1-6b18-4178-97d3-4c9f2f478a91"
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_B_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Destruct.dae",
     "size": [
       1.1973659992218018,
@@ -221,7 +221,7 @@
     "uuid": "da459caf-f454-4e83-9194-d7d67daeb2ea"
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_B_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Explode.dae",
     "size": [
       0.5044099986553192,
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Stand_A.dae",
+    "name": "CONS_Drink_DemiJohn_B_Stand_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_A.dae",
     "size": [
       0.5474259853363037,
@@ -250,7 +250,7 @@
     "uuid": "fcb7b427-9b55-45cf-ac72-15ecd8cf202d"
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Stand_B.dae",
+    "name": "CONS_Drink_DemiJohn_B_Stand_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B.dae",
     "size": [
       0.5117200016975403,
@@ -265,7 +265,7 @@
     "uuid": "6aa066bd-e04a-4673-8f6f-7c230b878ce6"
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Stand_B_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_B_Stand_B_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B_Destruct.dae",
     "size": [
       1.6198180317878723,
@@ -280,7 +280,7 @@
     "uuid": "1acf1a37-1580-44c9-a969-f387b8f192de"
   },
   {
-    "name": "CONS_Drink_DemiJohn_B_Stand_B_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_B_Stand_B_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_B_Stand_B_Explode.dae",
     "size": [
       0.5042189955711365,
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_C.dae",
+    "name": "CONS_Drink_DemiJohn_C",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C.dae",
     "size": [
       0.4927629977464676,
@@ -309,7 +309,7 @@
     "uuid": "5768e3a1-8370-40c8-a333-bdf5fbd83896"
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_C_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Destruct.dae",
     "size": [
       1.1681849956512451,
@@ -324,7 +324,7 @@
     "uuid": "b20e8cc0-48c8-4d95-8c1f-fb3898031ff2"
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_C_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Explode.dae",
     "size": [
       0.48818300664424896,
@@ -338,7 +338,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Stand_A.dae",
+    "name": "CONS_Drink_DemiJohn_C_Stand_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_A.dae",
     "size": [
       0.5474259853363037,
@@ -353,7 +353,7 @@
     "uuid": "1f182ae8-24cf-4586-b4ab-95a2a9c4ae2b"
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Stand_B.dae",
+    "name": "CONS_Drink_DemiJohn_C_Stand_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B.dae",
     "size": [
       0.49619199335575104,
@@ -368,7 +368,7 @@
     "uuid": "93f0c0fc-20b2-4f6d-aa2d-8a4252b25b75"
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Stand_B_Destruct.dae",
+    "name": "CONS_Drink_DemiJohn_C_Stand_B_Destruct",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B_Destruct.dae",
     "size": [
       0.7670090049505234,
@@ -383,7 +383,7 @@
     "uuid": "a244e781-1a74-4d30-8fff-1b6467e27bcb"
   },
   {
-    "name": "CONS_Drink_DemiJohn_C_Stand_B_Explode.dae",
+    "name": "CONS_Drink_DemiJohn_C_Stand_B_Explode",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_C_Stand_B_Explode.dae",
     "size": [
       0.4916290044784546,
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_DemiJohn_Stand_A.dae",
+    "name": "CONS_Drink_DemiJohn_Stand_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_Stand_A.dae",
     "size": [
       0.5474259853363037,
@@ -412,7 +412,7 @@
     "uuid": "06610410-2d73-49f7-8845-852d24db60c1"
   },
   {
-    "name": "CONS_Drink_DemiJohn_Stand_B.dae",
+    "name": "CONS_Drink_DemiJohn_Stand_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_DemiJohn_Stand_B.dae",
     "size": [
       0.48983700573444366,
@@ -427,7 +427,7 @@
     "uuid": "e158ec58-6a21-45e0-b4fd-f80744901ace"
   },
   {
-    "name": "CONS_Drink_Milk_Jug_A.dae",
+    "name": "CONS_Drink_Milk_Jug_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Milk_Jug_A.dae",
     "size": [
       0.2510790079832077,
@@ -442,7 +442,7 @@
     "uuid": "83133248-3c85-4b6d-adf3-2c6985146875"
   },
   {
-    "name": "CONS_Drink_Potion_A.dae",
+    "name": "CONS_Drink_Potion_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_A.dae",
     "size": [
       0.2452479973435402,
@@ -457,7 +457,7 @@
     "uuid": "27df1535-9f58-4e24-b51b-ceef2cd1d8d8"
   },
   {
-    "name": "CONS_Drink_Potion_A_Opened_A.dae",
+    "name": "CONS_Drink_Potion_A_Opened_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_A_Opened_A.dae",
     "size": [
       0.24397999793291092,
@@ -471,7 +471,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_Potion_B.dae",
+    "name": "CONS_Drink_Potion_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_B.dae",
     "size": [
       0.2971450090408325,
@@ -486,7 +486,7 @@
     "uuid": "aa15aa80-19b6-4226-a19b-4635a1ee3759"
   },
   {
-    "name": "CONS_Drink_Potion_C.dae",
+    "name": "CONS_Drink_Potion_C",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_C.dae",
     "size": [
       0.28253699839115143,
@@ -501,7 +501,7 @@
     "uuid": "cc7f9ba9-b284-4177-a044-649f84e64aff"
   },
   {
-    "name": "CONS_Drink_Potion_D.dae",
+    "name": "CONS_Drink_Potion_D",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Potion_D.dae",
     "size": [
       0.38288600742816925,
@@ -516,7 +516,7 @@
     "uuid": "35e40ea9-a89a-43fb-80ca-e427c17d6f06"
   },
   {
-    "name": "CONS_Drink_Rum_A.dae",
+    "name": "CONS_Drink_Rum_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Rum_A.dae",
     "size": [
       0.253260999917984,
@@ -531,7 +531,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONS_Drink_Rum_B.dae",
+    "name": "CONS_Drink_Rum_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Rum_B.dae",
     "size": [
       0.25582100450992584,
@@ -546,7 +546,7 @@
     "uuid": "733d5d97-97ed-4918-bc2a-e6dd75cde58c"
   },
   {
-    "name": "CONS_Drink_Tea_A.dae",
+    "name": "CONS_Drink_Tea_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Tea_A.dae",
     "size": [
       0.4194499999284744,
@@ -561,7 +561,7 @@
     "uuid": "2632cd60-bf42-49d4-88db-09308d030383"
   },
   {
-    "name": "CONS_Drink_Water_A.dae",
+    "name": "CONS_Drink_Water_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_A.dae",
     "size": [
       0.2637619972229004,
@@ -576,7 +576,7 @@
     "uuid": "640302a8-d841-44d6-996d-2addda644306"
   },
   {
-    "name": "CONS_Drink_Water_A_Wicker.dae",
+    "name": "CONS_Drink_Water_A_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_A_Wicker.dae",
     "size": [
       0.28115200996398926,
@@ -591,7 +591,7 @@
     "uuid": "00253e1b-375c-4ef4-8808-974cab615ff7"
   },
   {
-    "name": "CONS_Drink_Water_B.dae",
+    "name": "CONS_Drink_Water_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_B.dae",
     "size": [
       0.2637910097837448,
@@ -606,7 +606,7 @@
     "uuid": "94f1d6d2-8a70-4ab9-a8cf-376dd0bc294a"
   },
   {
-    "name": "CONS_Drink_Water_Bottle_A.dae",
+    "name": "CONS_Drink_Water_Bottle_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Bottle_A.dae",
     "size": [
       0.3312310129404068,
@@ -621,7 +621,7 @@
     "uuid": "d8fff9cf-05b9-4aeb-b5b4-0f6bb98b7f2c"
   },
   {
-    "name": "CONS_Drink_Water_Bottle_B.dae",
+    "name": "CONS_Drink_Water_Bottle_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Bottle_B.dae",
     "size": [
       0.23073499649763107,
@@ -636,7 +636,7 @@
     "uuid": "6f5abf98-cca0-43a7-a064-10c17643bb72"
   },
   {
-    "name": "CONS_Drink_Water_B_Wicker.dae",
+    "name": "CONS_Drink_Water_B_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_B_Wicker.dae",
     "size": [
       0.29885299503803253,
@@ -651,7 +651,7 @@
     "uuid": "e8e427ac-9078-4471-85f2-4b8bbc3e00b5"
   },
   {
-    "name": "CONS_Drink_Water_Jug_A.dae",
+    "name": "CONS_Drink_Water_Jug_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Water_Jug_A.dae",
     "size": [
       0.325874000787735,
@@ -666,7 +666,7 @@
     "uuid": "cb2e851f-8a75-4899-b705-0f079e8e55bc"
   },
   {
-    "name": "CONS_Drink_Wine_A.dae",
+    "name": "CONS_Drink_Wine_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_A.dae",
     "size": [
       0.1780479997396469,
@@ -681,7 +681,7 @@
     "uuid": "2bfa8ee0-33ef-4fd6-9262-436b5bb0d3ff"
   },
   {
-    "name": "CONS_Drink_Wine_A_Wicker.dae",
+    "name": "CONS_Drink_Wine_A_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_A_Wicker.dae",
     "size": [
       0.23625300079584122,
@@ -696,7 +696,7 @@
     "uuid": "3525b96e-81ef-4411-960a-b1b305e139c6"
   },
   {
-    "name": "CONS_Drink_Wine_B.dae",
+    "name": "CONS_Drink_Wine_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_B.dae",
     "size": [
       0.26523299515247345,
@@ -711,7 +711,7 @@
     "uuid": "870caf9b-f767-4264-9d0a-2c3a88dc0565"
   },
   {
-    "name": "CONS_Drink_Wine_Bottle_A.dae",
+    "name": "CONS_Drink_Wine_Bottle_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Bottle_A.dae",
     "size": [
       0.18882399797439575,
@@ -726,7 +726,7 @@
     "uuid": "2a176188-5a1c-4e70-9be9-ca55502d00b2"
   },
   {
-    "name": "CONS_Drink_Wine_B_Wicker.dae",
+    "name": "CONS_Drink_Wine_B_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_B_Wicker.dae",
     "size": [
       0.3124240040779114,
@@ -741,7 +741,7 @@
     "uuid": "c9cf7e80-679e-4c30-98ac-4bd43db95294"
   },
   {
-    "name": "CONS_Drink_Wine_C.dae",
+    "name": "CONS_Drink_Wine_C",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_C.dae",
     "size": [
       0.35216400027275085,
@@ -756,7 +756,7 @@
     "uuid": "97509a4d-13a9-4ffa-b699-20fa07d7295f"
   },
   {
-    "name": "CONS_Drink_Wine_C_Wicker.dae",
+    "name": "CONS_Drink_Wine_C_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_C_Wicker.dae",
     "size": [
       0.3949579894542694,
@@ -771,7 +771,7 @@
     "uuid": "1de26672-10cb-4659-9b0a-18b9a5bddc8c"
   },
   {
-    "name": "CONS_Drink_Wine_D.dae",
+    "name": "CONS_Drink_Wine_D",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_D.dae",
     "size": [
       0.37232598662376404,
@@ -786,7 +786,7 @@
     "uuid": "1be0fe60-4aa2-4941-a48b-130b334bddb5"
   },
   {
-    "name": "CONS_Drink_Wine_D_Wicker.dae",
+    "name": "CONS_Drink_Wine_D_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_D_Wicker.dae",
     "size": [
       0.5163419842720032,
@@ -801,7 +801,7 @@
     "uuid": "35bd53bc-cfdb-4c13-99e6-493f07216e9d"
   },
   {
-    "name": "CONS_Drink_Wine_E.dae",
+    "name": "CONS_Drink_Wine_E",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_E.dae",
     "size": [
       0.35495398938655853,
@@ -816,7 +816,7 @@
     "uuid": "75ec6992-b6a7-4435-b373-8b298fe68e28"
   },
   {
-    "name": "CONS_Drink_Wine_E_Wicker.dae",
+    "name": "CONS_Drink_Wine_E_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_E_Wicker.dae",
     "size": [
       0.4483270049095154,
@@ -831,7 +831,7 @@
     "uuid": "f703b4a2-900a-4e37-9571-3e18d2f4dede"
   },
   {
-    "name": "CONS_Drink_Wine_F.dae",
+    "name": "CONS_Drink_Wine_F",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_F.dae",
     "size": [
       0.40873299539089203,
@@ -846,7 +846,7 @@
     "uuid": "e4360d5a-a922-4411-bf45-1cc4e45f3969"
   },
   {
-    "name": "CONS_Drink_Wine_F_Wicker.dae",
+    "name": "CONS_Drink_Wine_F_Wicker",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_F_Wicker.dae",
     "size": [
       0.3810050040483475,
@@ -861,7 +861,7 @@
     "uuid": "159b7414-2eff-4ae3-92f6-89e99cd87f50"
   },
   {
-    "name": "CONS_Drink_Wine_G.dae",
+    "name": "CONS_Drink_Wine_G",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_G.dae",
     "size": [
       0.1057020016014576,
@@ -876,7 +876,7 @@
     "uuid": "ba6424eb-5f8e-44f8-ae60-96c5b615e67f"
   },
   {
-    "name": "CONS_Drink_Wine_Glass_A.dae",
+    "name": "CONS_Drink_Wine_Glass_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Glass_A.dae",
     "size": [
       0.09912800043821335,
@@ -891,7 +891,7 @@
     "uuid": "51a26c5a-ad6d-49de-b902-76b2faa70ee8"
   },
   {
-    "name": "CONS_Drink_Wine_H.dae",
+    "name": "CONS_Drink_Wine_H",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_H.dae",
     "size": [
       0.17838499695062637,
@@ -906,7 +906,7 @@
     "uuid": "e4595365-03f3-46ac-b989-f01bacf6cf3b"
   },
   {
-    "name": "CONS_Drink_Wine_I.dae",
+    "name": "CONS_Drink_Wine_I",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_I.dae",
     "size": [
       0.15587899833917618,
@@ -921,7 +921,7 @@
     "uuid": "b9b6fb26-0c0f-4ad2-8949-f29caaae25b6"
   },
   {
-    "name": "CONS_Drink_Wine_Pitcher_A.dae",
+    "name": "CONS_Drink_Wine_Pitcher_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_A.dae",
     "size": [
       0.21834000200033188,
@@ -936,7 +936,7 @@
     "uuid": "27f5f392-7d66-4929-a50d-a33f00fbf4b7"
   },
   {
-    "name": "CONS_Drink_Wine_Pitcher_B.dae",
+    "name": "CONS_Drink_Wine_Pitcher_B",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_B.dae",
     "size": [
       0.2659289985895157,
@@ -951,7 +951,7 @@
     "uuid": "ec35918f-1856-45ec-a92e-cbd5a6c80411"
   },
   {
-    "name": "CONS_Drink_Wine_Pitcher_C.dae",
+    "name": "CONS_Drink_Wine_Pitcher_C",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_C.dae",
     "size": [
       0.2765190005302429,
@@ -966,7 +966,7 @@
     "uuid": "9d61938a-0ea8-42f6-81ab-f35860ac815a"
   },
   {
-    "name": "CONS_Drink_Wine_Pitcher_D.dae",
+    "name": "CONS_Drink_Wine_Pitcher_D",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Wine_Pitcher_D.dae",
     "size": [
       0.30083300918340683,
@@ -981,7 +981,7 @@
     "uuid": "9cda864e-dbac-44e3-9fe2-0562815e1004"
   },
   {
-    "name": "INTERACT_CONS_Drink_Tea_A.dae",
+    "name": "INTERACT_CONS_Drink_Tea_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/INTERACT_CONS_Drink_Tea_A.dae",
     "size": [
       0.6278830170631409,
@@ -996,7 +996,7 @@
     "uuid": "9f547d94-55f6-4c01-b201-775de692bb70"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_A.dae",
+    "name": "CONS_Drink_Bottle_Small_A",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_A.dae",
     "size": [
       0.170865997672081,
@@ -1011,7 +1011,7 @@
     "uuid": "af808d7c-c8d6-4924-94a9-35bffd450803"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_B.dae",
+    "name": "CONS_Drink_Bottle_Small_B",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_B.dae",
     "size": [
       0.16856800019741058,
@@ -1026,7 +1026,7 @@
     "uuid": "ca841f8d-ce89-441e-8d68-d1dc0beb4852"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_C.dae",
+    "name": "CONS_Drink_Bottle_Small_C",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_C.dae",
     "size": [
       0.15024500340223312,
@@ -1041,7 +1041,7 @@
     "uuid": "23eba153-fbe2-4a93-a1c5-48e92d5f7d08"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_D.dae",
+    "name": "CONS_Drink_Bottle_Small_D",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_D.dae",
     "size": [
       0.19629999995231628,
@@ -1056,7 +1056,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_D_Destroyed_A.dae",
+    "name": "CONS_Drink_Bottle_Small_D_Destroyed_A",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_D_Destroyed_A.dae",
     "size": [
       0.7830389738082886,
@@ -1071,7 +1071,7 @@
     "uuid": "cc844abb-9fb1-401a-b77d-cf5f59adefd1"
   },
   {
-    "name": "CONS_Drink_Bottle_Small_E.dae",
+    "name": "CONS_Drink_Bottle_Small_E",
     "relative_path": "Consumables/CONS_Drink_Bottle_Small_ABC/Resources/CONS_Drink_Bottle_Small_E.dae",
     "size": [
       0.21850599348545074,
@@ -1086,7 +1086,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONS_FOOD_Fish_Rotten_A.dae",
+    "name": "CONS_FOOD_Fish_Rotten_A",
     "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_A.dae",
     "size": [
       0.5807920098304749,
@@ -1101,7 +1101,7 @@
     "uuid": "0f34372c-520a-475d-a3c0-7c385fd549b7"
   },
   {
-    "name": "CONS_FOOD_Fish_Rotten_B.dae",
+    "name": "CONS_FOOD_Fish_Rotten_B",
     "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_B.dae",
     "size": [
       0.5356810092926025,
@@ -1116,7 +1116,7 @@
     "uuid": "03a94ad3-a856-44a0-a897-8912078a9115"
   },
   {
-    "name": "CONS_FOOD_Fish_Rotten_C.dae",
+    "name": "CONS_FOOD_Fish_Rotten_C",
     "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_C.dae",
     "size": [
       0.5611799955368042,
@@ -1131,7 +1131,7 @@
     "uuid": "53664ef4-bfda-4775-a8da-780ae07343e4"
   },
   {
-    "name": "CONS_FOOD_Fish_Rotten_D.dae",
+    "name": "CONS_FOOD_Fish_Rotten_D",
     "relative_path": "Consumables/CONS_FOOD_Fish_Rotten_ABC/Resources/CONS_FOOD_Fish_Rotten_D.dae",
     "size": [
       0.7275739908218384,
@@ -1146,7 +1146,7 @@
     "uuid": "be9b2f84-2439-453e-a0e2-1c2a15943500"
   },
   {
-    "name": "CONS_Food_Meat_Chicken_A.dae",
+    "name": "CONS_Food_Meat_Chicken_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Chicken_A.dae",
     "size": [
       0.29088400304317474,
@@ -1160,7 +1160,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Chicken_B.dae",
+    "name": "CONS_Food_Meat_Chicken_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Chicken_B.dae",
     "size": [
       0.41437000036239624,
@@ -1174,7 +1174,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Grilled_A.dae",
+    "name": "CONS_Food_Meat_Grilled_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_A.dae",
     "size": [
       0.44183701276779175,
@@ -1189,7 +1189,7 @@
     "uuid": "c5af4dab-0cd4-4f84-8c2a-1e1987016099"
   },
   {
-    "name": "CONS_Food_Meat_Grilled_B.dae",
+    "name": "CONS_Food_Meat_Grilled_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_B.dae",
     "size": [
       0.47261200845241547,
@@ -1204,7 +1204,7 @@
     "uuid": "df26272e-84ce-46b6-9ec7-ed4d300c3ac0"
   },
   {
-    "name": "CONS_Food_Meat_Grilled_C.dae",
+    "name": "CONS_Food_Meat_Grilled_C",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Grilled_C.dae",
     "size": [
       0.39827200770378113,
@@ -1219,7 +1219,7 @@
     "uuid": "1accb89d-27b7-486b-87a9-05a04239e239"
   },
   {
-    "name": "CONS_Food_Meat_PorkHead_A.dae",
+    "name": "CONS_Food_Meat_PorkHead_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkHead_A.dae",
     "size": [
       0.518653005361557,
@@ -1233,7 +1233,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_PorkHead_B.dae",
+    "name": "CONS_Food_Meat_PorkHead_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkHead_B.dae",
     "size": [
       0.5136939883232117,
@@ -1247,7 +1247,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_PorkPiece_A.dae",
+    "name": "CONS_Food_Meat_PorkPiece_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_A.dae",
     "size": [
       0.3338079899549484,
@@ -1261,7 +1261,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_PorkPiece_B.dae",
+    "name": "CONS_Food_Meat_PorkPiece_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_B.dae",
     "size": [
       0.33230799436569214,
@@ -1275,7 +1275,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_PorkPiece_C.dae",
+    "name": "CONS_Food_Meat_PorkPiece_C",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_C.dae",
     "size": [
       0.5279249846935272,
@@ -1289,7 +1289,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_PorkPiece_D.dae",
+    "name": "CONS_Food_Meat_PorkPiece_D",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_PorkPiece_D.dae",
     "size": [
       0.42450299859046936,
@@ -1303,7 +1303,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_A_Hanging_A.dae",
+    "name": "CONS_Food_Meat_Sausage_A_Hanging_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Hanging_A.dae",
     "size": [
       0.8415529988706112,
@@ -1317,7 +1317,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_A_Hanging_B.dae",
+    "name": "CONS_Food_Meat_Sausage_A_Hanging_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Hanging_B.dae",
     "size": [
       1.391284991055727,
@@ -1331,7 +1331,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_A_Individual_A.dae",
+    "name": "CONS_Food_Meat_Sausage_A_Individual_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Individual_A.dae",
     "size": [
       0.08717299997806549,
@@ -1345,7 +1345,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_A_Individual_B.dae",
+    "name": "CONS_Food_Meat_Sausage_A_Individual_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Individual_B.dae",
     "size": [
       0.16369099915027618,
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_A_Piled_A.dae",
+    "name": "CONS_Food_Meat_Sausage_A_Piled_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_A_Piled_A.dae",
     "size": [
       0.690540000796318,
@@ -1373,7 +1373,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_B_Hanging_A.dae",
+    "name": "CONS_Food_Meat_Sausage_B_Hanging_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Hanging_A.dae",
     "size": [
       0.7314700037240982,
@@ -1387,7 +1387,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_B_Hanging_B.dae",
+    "name": "CONS_Food_Meat_Sausage_B_Hanging_B",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Hanging_B.dae",
     "size": [
       1.2147829793393612,
@@ -1401,7 +1401,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_B_Individual_A.dae",
+    "name": "CONS_Food_Meat_Sausage_B_Individual_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Individual_A.dae",
     "size": [
       0.06185599975287914,
@@ -1415,7 +1415,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_B_Rope_A.dae",
+    "name": "CONS_Food_Meat_Sausage_B_Rope_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_B_Rope_A.dae",
     "size": [
       0.5160660147666931,
@@ -1429,7 +1429,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Sausage_C.dae",
+    "name": "CONS_Food_Meat_Sausage_C",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Sausage_C.dae",
     "size": [
       0.12379099801182747,
@@ -1443,7 +1443,7 @@
     ]
   },
   {
-    "name": "INTERACT_CONS_Food_Meat_PorkPiece_C.dae",
+    "name": "INTERACT_CONS_Food_Meat_PorkPiece_C",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/INTERACT_CONS_Food_Meat_PorkPiece_C.dae",
     "size": [
       0.5279249846935272,
@@ -1457,7 +1457,7 @@
     ]
   },
   {
-    "name": "CONS_FOOD_Nuts_Walnut_A.dae",
+    "name": "CONS_FOOD_Nuts_Walnut_A",
     "relative_path": "Consumables/CONS_FOOD_Nuts_ABC/Resources/CONS_FOOD_Nuts_Walnut_A.dae",
     "size": [
       0.08522500097751617,
@@ -1472,7 +1472,7 @@
     "uuid": "894e64ad-3d0c-4ef7-8cb0-8a130bc37561"
   },
   {
-    "name": "CINE_CONS_Fruit_Apple_B.dae",
+    "name": "CINE_CONS_Fruit_Apple_B",
     "relative_path": "Consumables/CONS_Fruit/Resources/CINE_CONS_Fruit_Apple_B.dae",
     "size": [
       0.15846000611782074,
@@ -1486,7 +1486,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Apple_A.dae",
+    "name": "CONS_Fruit_Apple_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Apple_A.dae",
     "size": [
       0.15953800082206726,
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Apple_Eaten_A.dae",
+    "name": "CONS_Fruit_Apple_Eaten_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Apple_Eaten_A.dae",
     "size": [
       0.131911002099514,
@@ -1514,7 +1514,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Banana_A.dae",
+    "name": "CONS_Fruit_Banana_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Banana_A.dae",
     "size": [
       0.42510299384593964,
@@ -1528,7 +1528,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Grapes_A.dae",
+    "name": "CONS_Fruit_Grapes_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Grapes_A.dae",
     "size": [
       0.374114990234375,
@@ -1542,7 +1542,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Kiwi_A.dae",
+    "name": "CONS_Fruit_Kiwi_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Kiwi_A.dae",
     "size": [
       0.11044599860906601,
@@ -1556,7 +1556,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Lemon_A.dae",
+    "name": "CONS_Fruit_Lemon_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Lemon_A.dae",
     "size": [
       0.10391099750995636,
@@ -1570,7 +1570,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Lemon_A_Rotten.dae",
+    "name": "CONS_Fruit_Lemon_A_Rotten",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Lemon_A_Rotten.dae",
     "size": [
       0.09856300055980682,
@@ -1584,7 +1584,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Melon_Full_A.dae",
+    "name": "CONS_Fruit_Melon_Full_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Full_A.dae",
     "size": [
       0.3535350114107132,
@@ -1598,7 +1598,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Melon_Half_A.dae",
+    "name": "CONS_Fruit_Melon_Half_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Half_A.dae",
     "size": [
       0.34492500126361847,
@@ -1612,7 +1612,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Melon_Piece_A.dae",
+    "name": "CONS_Fruit_Melon_Piece_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Melon_Piece_A.dae",
     "size": [
       0.3255759924650192,
@@ -1626,7 +1626,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Orange_A.dae",
+    "name": "CONS_Fruit_Orange_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Orange_A.dae",
     "size": [
       0.15545599907636642,
@@ -1640,7 +1640,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Pear_A.dae",
+    "name": "CONS_Fruit_Pear_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Fruit_Pear_A.dae",
     "size": [
       0.12899100035429,
@@ -1654,7 +1654,7 @@
     ]
   },
   {
-    "name": "CONS_Vegetable_Zucchini_A.dae",
+    "name": "CONS_Vegetable_Zucchini_A",
     "relative_path": "Consumables/CONS_Fruit/Resources/CONS_Vegetable_Zucchini_A.dae",
     "size": [
       0.48525799810886383,
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "name": "CONS_Fruit_Goodberry_A.dae",
+    "name": "CONS_Fruit_Goodberry_A",
     "relative_path": "Consumables/CONS_Fruit_Goodberry_ABC/Resources/CONS_Fruit_Goodberry_A.dae",
     "size": [
       0.24850499629974365,
@@ -1682,7 +1682,7 @@
     ]
   },
   {
-    "name": "CONS_Fungi_Mushroom_Agaric_A.dae",
+    "name": "CONS_Fungi_Mushroom_Agaric_A",
     "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_A.dae",
     "size": [
       0.3784500062465668,
@@ -1697,7 +1697,7 @@
     "uuid": "f55f45ec-e30b-4745-9f22-431af1b308f6"
   },
   {
-    "name": "CONS_Fungi_Mushroom_Agaric_A_Rotten.dae",
+    "name": "CONS_Fungi_Mushroom_Agaric_A_Rotten",
     "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_A_Rotten.dae",
     "size": [
       0.36585599184036255,
@@ -1712,7 +1712,7 @@
     "uuid": "42a68ee1-6d71-455e-99b2-278a53be5504"
   },
   {
-    "name": "CONS_Fungi_Mushroom_Agaric_B.dae",
+    "name": "CONS_Fungi_Mushroom_Agaric_B",
     "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_B.dae",
     "size": [
       0.35429298877716064,
@@ -1727,7 +1727,7 @@
     "uuid": "2399fb4a-b0fd-41f3-b15b-1d9a8e6f8293"
   },
   {
-    "name": "CONS_Fungi_Mushroom_Agaric_B_Rotten.dae",
+    "name": "CONS_Fungi_Mushroom_Agaric_B_Rotten",
     "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/CONS_Fungi_Mushroom_Agaric_B_Rotten.dae",
     "size": [
       0.34164799749851227,
@@ -1742,7 +1742,7 @@
     "uuid": "466d35b7-3c1a-4bd7-be91-262dd297b320"
   },
   {
-    "name": "INTERACT_CONS_Fungi_Mushroom_Agaric_A.dae",
+    "name": "INTERACT_CONS_Fungi_Mushroom_Agaric_A",
     "relative_path": "Consumables/CONS_Fungi_Mushroom_Agaric_ABC/Resources/INTERACT_CONS_Fungi_Mushroom_Agaric_A.dae",
     "size": [
       0.6373009979724884,
@@ -1757,7 +1757,7 @@
     "uuid": "6c088719-7fd7-4ed4-8740-747a6610b94e"
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_A.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_A",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_A.dae",
     "size": [
       0.267890989780426,
@@ -1771,7 +1771,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_B.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_B",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_B.dae",
     "size": [
       0.1277800053358078,
@@ -1785,7 +1785,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_C.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_C",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_C.dae",
     "size": [
       0.31536300480365753,
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_D.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_D",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_D.dae",
     "size": [
       0.10015399754047394,
@@ -1813,7 +1813,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_E.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_E",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_E.dae",
     "size": [
       0.10501400008797646,
@@ -1827,7 +1827,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_F.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_F",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_F.dae",
     "size": [
       0.33750298619270325,
@@ -1841,7 +1841,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_G.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_G",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_G.dae",
     "size": [
       0.30420900881290436,
@@ -1855,7 +1855,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_H.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_H",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_H.dae",
     "size": [
       0.2013010010123253,
@@ -1869,7 +1869,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_I.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_I",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_I.dae",
     "size": [
       0.37277600169181824,
@@ -1883,7 +1883,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_J.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_J",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_J.dae",
     "size": [
       0.20654800534248352,
@@ -1897,7 +1897,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Alcohol_Bottle_K.dae",
+    "name": "CONS_GEN_Alcohol_Bottle_K",
     "relative_path": "Consumables/CONS_GEN_Alcohol_Bottles_ABC/Resources/CONS_GEN_Alcohol_Bottle_K.dae",
     "size": [
       0.203077994287014,
@@ -1911,7 +1911,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Drink_Cup_Metal_A_Empty.dae",
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Empty",
     "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Cup_Metal_A_Empty.dae",
     "size": [
       0.14385300129652023,
@@ -1926,7 +1926,7 @@
     "uuid": "66ee4e64-a517-4570-8c37-dd7b42cab6ee"
   },
   {
-    "name": "CONS_GEN_Drink_Cup_Metal_A_Flipped.dae",
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Flipped",
     "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Cup_Metal_A_Flipped.dae",
     "size": [
       0.14385300129652023,
@@ -1941,7 +1941,7 @@
     "uuid": "5bf2bda3-613d-467a-9901-b468bb326856"
   },
   {
-    "name": "CONS_GEN_Drink_Mug_Metal_A_Empty.dae",
+    "name": "CONS_GEN_Drink_Mug_Metal_A_Empty",
     "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Mug_Metal_A_Empty.dae",
     "size": [
       0.22932399809360504,
@@ -1956,7 +1956,7 @@
     "uuid": "9ab9c085-4d24-4b78-85ac-e16b19107ba7"
   },
   {
-    "name": "CONS_GEN_Drink_Mug_Metal_A_Full.dae",
+    "name": "CONS_GEN_Drink_Mug_Metal_A_Full",
     "relative_path": "Consumables/CONS_GEN_Drink_ABC/CONS_GEN_Drink_Mug_Metal_A_Full.dae",
     "size": [
       0.22932399809360504,
@@ -1970,7 +1970,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Drink_Cup_Metal_A_Full.dae",
+    "name": "CONS_GEN_Drink_Cup_Metal_A_Full",
     "relative_path": "Consumables/CONS_GEN_Drink_ABC/Resources/CONS_GEN_Drink_Cup_Metal_A_Full.dae",
     "size": [
       0.14385300129652023,
@@ -1984,7 +1984,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Poutine.dae",
+    "name": "CONS_GEN_Food_Poutine",
     "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Poutine.dae",
     "size": [
       0.4064739942550659,
@@ -1998,7 +1998,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Stew_A.dae",
+    "name": "CONS_GEN_Food_Stew_A",
     "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Stew_A.dae",
     "size": [
       0.4064739942550659,
@@ -2013,7 +2013,7 @@
     "uuid": "70e0c819-5c33-4708-8250-3d5c9bfbfed0"
   },
   {
-    "name": "CONS_GEN_Food_Stew_B.dae",
+    "name": "CONS_GEN_Food_Stew_B",
     "relative_path": "Consumables/CONS_GEN_Food_ABC/Resources/CONS_GEN_Food_Stew_B.dae",
     "size": [
       0.4078110009431839,
@@ -2028,7 +2028,7 @@
     "uuid": "20a42fb8-cb01-47c5-9fa0-1ddfc09b032d"
   },
   {
-    "name": "CINE_CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "name": "CINE_CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CINE_CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2043,7 +2043,7 @@
     "uuid": "9e86e4bd-87be-4039-b33d-cc30f439b46a"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Bubble_Squeak_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Bubble_Squeak_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Bubble_Squeak_A.dae",
     "size": [
       0.4064739942550659,
@@ -2058,7 +2058,7 @@
     "uuid": "2d657045-d6d4-4f03-9e5e-0bdf63cc48bf"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Milk_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Milk_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Milk_A.dae",
     "size": [
       0.5099459886550903,
@@ -2073,7 +2073,7 @@
     "uuid": "99da895b-19d9-46e4-be4d-7d0ffa8ad350"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Porridge_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Porridge_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Porridge_A.dae",
     "size": [
       0.4064739942550659,
@@ -2088,7 +2088,7 @@
     "uuid": "ac2561bf-1cb9-4f14-b4c0-0bf740fe9d46"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Porridge_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Porridge_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Porridge_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2103,7 +2103,7 @@
     "uuid": "c1bfe892-e1a6-42a4-8ab5-317fa8e8c11c"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Mushroom_A.dae",
     "size": [
       0.4064739942550659,
@@ -2118,7 +2118,7 @@
     "uuid": "f7a37058-43ef-4575-aa07-5e1e42eee8fd"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Mushroom_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2133,7 +2133,7 @@
     "uuid": "4bafc835-9139-486c-a59a-11aaf80ffa26"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Onion_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Onion_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Onion_A.dae",
     "size": [
       0.4064739942550659,
@@ -2148,7 +2148,7 @@
     "uuid": "d5443960-1383-4a32-a07b-d0031c9872a3"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Onion_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Onion_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Onion_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2163,7 +2163,7 @@
     "uuid": "b4c45370-2f6d-417b-ac9c-07f0b9de114f"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Peas_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Peas_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Peas_A.dae",
     "size": [
       0.4064739942550659,
@@ -2178,7 +2178,7 @@
     "uuid": "aaece7bf-7210-4ae0-8162-d0f6484b2aa8"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Peas_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Peas_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Peas_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2193,7 +2193,7 @@
     "uuid": "463d1ef7-c9d2-4d5a-b637-9ccfa6b29662"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Shrimp_A.dae",
     "size": [
       0.4064739942550659,
@@ -2208,7 +2208,7 @@
     "uuid": "4e43d7ec-8bc2-44b5-8c75-3dc6e6ee0bf0"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Shrimp_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2223,7 +2223,7 @@
     "uuid": "b22952f3-1874-4320-907f-5ca2219c6f63"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Vegetable_A.dae",
     "size": [
       0.41089199483394623,
@@ -2238,7 +2238,7 @@
     "uuid": "a2a38210-b3ad-402e-9b63-3a4c272cebc7"
   },
   {
-    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_Rich_A.dae",
+    "name": "CONS_GEN_Food_Bowl_Soup_Vegetable_Rich_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Bowl_Soup_Vegetable_Rich_A.dae",
     "size": [
       0.41739600896835327,
@@ -2253,7 +2253,7 @@
     "uuid": "cc8d243c-8483-4430-9ba0-b1ffca792314"
   },
   {
-    "name": "CONS_GEN_Food_Porridge_Potatoes.dae",
+    "name": "CONS_GEN_Food_Porridge_Potatoes",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Porridge_Potatoes.dae",
     "size": [
       0.4064739942550659,
@@ -2267,7 +2267,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Soup_A_Pumpkin.dae",
+    "name": "CONS_GEN_Food_Soup_A_Pumpkin",
     "relative_path": "Consumables/CONS_GEN_Food_Bowl_ABC/Resources/CONS_GEN_Food_Soup_A_Pumpkin.dae",
     "size": [
       0.4064739942550659,
@@ -2282,7 +2282,7 @@
     "uuid": "5d20cf53-e360-440f-b2b1-9eddf40eb1ce"
   },
   {
-    "name": "CONS_FOOD_BreadRoll_A.dae",
+    "name": "CONS_FOOD_BreadRoll_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_FOOD_BreadRoll_A.dae",
     "size": [
       0.15637699514627457,
@@ -2297,7 +2297,7 @@
     "uuid": "cc4b1203-b8cc-4eea-9d2f-956ec3bfb381"
   },
   {
-    "name": "CONS_FOOD_Cookie_A.dae",
+    "name": "CONS_FOOD_Cookie_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_FOOD_Cookie_A.dae",
     "size": [
       0.12082699686288834,
@@ -2312,7 +2312,7 @@
     "uuid": "a5242a01-c4c6-4767-a996-eb4779484539"
   },
   {
-    "name": "CONS_GEN_Food_Bread_Bagel_A.dae",
+    "name": "CONS_GEN_Food_Bread_Bagel_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Bagel_A.dae",
     "size": [
       0.2880520075559616,
@@ -2327,7 +2327,7 @@
     "uuid": "d2d0d39b-9269-46d1-855d-dc25e18b1a6e"
   },
   {
-    "name": "CONS_GEN_Food_Bread_Baguette_A.dae",
+    "name": "CONS_GEN_Food_Bread_Baguette_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Baguette_A.dae",
     "size": [
       0.1271269954741001,
@@ -2342,7 +2342,7 @@
     "uuid": "7481a74a-d167-4205-b6a6-4e79ec2e17d9"
   },
   {
-    "name": "CONS_GEN_Food_Bread_Bun_A.dae",
+    "name": "CONS_GEN_Food_Bread_Bun_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Bun_A.dae",
     "size": [
       0.17407499998807907,
@@ -2357,7 +2357,7 @@
     "uuid": "e604f4cc-4c17-4f40-9864-c7de41d9c211"
   },
   {
-    "name": "CONS_GEN_Food_Bread_Loaf_A.dae",
+    "name": "CONS_GEN_Food_Bread_Loaf_A",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Loaf_A.dae",
     "size": [
       0.41538599133491516,
@@ -2372,7 +2372,7 @@
     "uuid": "e9e7db6c-d210-4dc4-ab0e-8458a506d0cc"
   },
   {
-    "name": "CONS_GEN_Food_Bread_Loaf_B.dae",
+    "name": "CONS_GEN_Food_Bread_Loaf_B",
     "relative_path": "Consumables/CONS_GEN_Food_Bread_ABC/Resources/CONS_GEN_Food_Bread_Loaf_B.dae",
     "size": [
       0.29575300216674805,
@@ -2387,7 +2387,7 @@
     "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Blue_Piece_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Blue_Piece_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Piece_A.dae",
     "size": [
       0.08935599774122238,
@@ -2402,7 +2402,7 @@
     "uuid": "48f47287-908b-49aa-ab6a-5d4679ca4117"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Blue_Piece_B.dae",
+    "name": "CONS_GEN_Food_Cheese_Blue_Piece_B",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Piece_B.dae",
     "size": [
       0.32500699162483215,
@@ -2417,7 +2417,7 @@
     "uuid": "6c4f585b-c6d1-42fe-b3ea-282d0d3ac3a3"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Blue_Wheel_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Blue_Wheel_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Blue_Wheel_A.dae",
     "size": [
       0.38895800709724426,
@@ -2432,7 +2432,7 @@
     "uuid": "1a3fa26c-f97d-4106-a0c9-c1123ca8dcbc"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Piece_A.dae",
     "size": [
       0.21021100133657455,
@@ -2447,7 +2447,7 @@
     "uuid": "06474f97-0dd0-45e6-8db8-5f75009bf336"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_B.dae",
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Piece_B",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Piece_B.dae",
     "size": [
       0.12119399756193161,
@@ -2462,7 +2462,7 @@
     "uuid": "a213b686-7b71-4634-ab15-85ec29ac018c"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Cheddar_Wheel_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Cheddar_Wheel_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Cheddar_Wheel_A.dae",
     "size": [
       0.57294100522995,
@@ -2477,7 +2477,7 @@
     "uuid": "8cca8f05-63b2-4bff-8494-9609bf29af66"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Goat_Piece_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Goat_Piece_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Piece_A.dae",
     "size": [
       0.3104190081357956,
@@ -2492,7 +2492,7 @@
     "uuid": "cb0039bf-dd5e-41f2-8241-a52fa45e5ef6"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Goat_Piece_B.dae",
+    "name": "CONS_GEN_Food_Cheese_Goat_Piece_B",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Piece_B.dae",
     "size": [
       0.3476549983024597,
@@ -2507,7 +2507,7 @@
     "uuid": "41fe7d01-dd8a-4c7d-87f4-d397f9b479aa"
   },
   {
-    "name": "CONS_GEN_Food_Cheese_Goat_Wheel_A.dae",
+    "name": "CONS_GEN_Food_Cheese_Goat_Wheel_A",
     "relative_path": "Consumables/CONS_GEN_Food_Cheese_ABC/Resources/CONS_GEN_Food_Cheese_Goat_Wheel_A.dae",
     "size": [
       0.6200360059738159,
@@ -2522,7 +2522,7 @@
     "uuid": "f0b27ddf-8e58-438a-8a3f-7d7c339d86e2"
   },
   {
-    "name": "CONS_GEN_Food_Eggs_A_Rotten.dae",
+    "name": "CONS_GEN_Food_Eggs_A_Rotten",
     "relative_path": "Consumables/CONS_GEN_Food_Egg_ABC/Resources/CONS_GEN_Food_Eggs_A_Rotten.dae",
     "size": [
       0.40197600424289703,
@@ -2537,7 +2537,7 @@
     "uuid": "be312dcb-8ff5-4f6e-bcad-516c6fb7c249"
   },
   {
-    "name": "CONS_GEN_Food_Egg_A.dae",
+    "name": "CONS_GEN_Food_Egg_A",
     "relative_path": "Consumables/CONS_GEN_Food_Egg_ABC/Resources/CONS_GEN_Food_Egg_A.dae",
     "size": [
       0.16545500606298447,
@@ -2552,7 +2552,7 @@
     "uuid": "86849852-69de-482e-b7f6-ddc7f607c517"
   },
   {
-    "name": "CONS_GEN_Food_FriedRats_A.dae",
+    "name": "CONS_GEN_Food_FriedRats_A",
     "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_A.dae",
     "size": [
       0.23831000924110413,
@@ -2567,7 +2567,7 @@
     "uuid": "5d7f94c0-2748-45af-b1b4-2ad3dabb8a76"
   },
   {
-    "name": "CONS_GEN_Food_FriedRats_B.dae",
+    "name": "CONS_GEN_Food_FriedRats_B",
     "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_B.dae",
     "size": [
       0.5505320131778717,
@@ -2582,7 +2582,7 @@
     "uuid": "d36be5aa-6ee3-4be7-9203-fe7f446b21de"
   },
   {
-    "name": "CONS_GEN_Food_FriedRats_C.dae",
+    "name": "CONS_GEN_Food_FriedRats_C",
     "relative_path": "Consumables/CONS_GEN_Food_FriedRats_ABC/Resources/CONS_GEN_Food_FriedRats_C.dae",
     "size": [
       0.6531800031661987,
@@ -2597,7 +2597,7 @@
     "uuid": "6a08713b-47db-4b72-8419-3237a45c97fa"
   },
   {
-    "name": "CONS_GEN_Food_Grilled_Cormorant_A.dae",
+    "name": "CONS_GEN_Food_Grilled_Cormorant_A",
     "relative_path": "Consumables/CONS_GEN_Food_Grilled_Cormorant_ABC/Resources/CONS_GEN_Food_Grilled_Cormorant_A.dae",
     "size": [
       1.0284900069236755,
@@ -2612,7 +2612,7 @@
     "uuid": "edfd76e0-17b9-4f52-a5f9-5a4e441ddca1"
   },
   {
-    "name": "CONS_GEN_Food_Haggis_A.dae",
+    "name": "CONS_GEN_Food_Haggis_A",
     "relative_path": "Consumables/CONS_GEN_Food_Haggis_ABC/Resources/CONS_GEN_Food_Haggis_A.dae",
     "size": [
       0.5845719873905182,
@@ -2627,7 +2627,7 @@
     "uuid": "c97edbc4-66ce-442d-8f61-d406f6c176bf"
   },
   {
-    "name": "CONS_GEN_Food_Neogi_Claws_A.dae",
+    "name": "CONS_GEN_Food_Neogi_Claws_A",
     "relative_path": "Consumables/CONS_GEN_Food_Neogi_Claws_ABC/Resources/CONS_GEN_Food_Neogi_Claws_A.dae",
     "size": [
       1.0379239916801453,
@@ -2642,7 +2642,7 @@
     "uuid": "dca82ed8-5b3d-40dd-b3c1-9521b30f04b8"
   },
   {
-    "name": "CONS_GEN_Food_Pastrie_Bread_Braided_A.dae",
+    "name": "CONS_GEN_Food_Pastrie_Bread_Braided_A",
     "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Bread_Braided_A.dae",
     "size": [
       0.5423289835453033,
@@ -2656,7 +2656,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Pastrie_Roll_A.dae",
+    "name": "CONS_GEN_Food_Pastrie_Roll_A",
     "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Roll_A.dae",
     "size": [
       0.18874099850654602,
@@ -2670,7 +2670,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Pastrie_Tart_A.dae",
+    "name": "CONS_GEN_Food_Pastrie_Tart_A",
     "relative_path": "Consumables/CONS_GEN_Food_Pastries_ABC/Resources/CONS_GEN_Food_Pastrie_Tart_A.dae",
     "size": [
       0.3016030043363571,
@@ -2685,7 +2685,7 @@
     "uuid": "f32dd8e1-cf81-4995-9868-0fe5c23428a7"
   },
   {
-    "name": "CONS_GEN_Food_SalmonPie_A.dae",
+    "name": "CONS_GEN_Food_SalmonPie_A",
     "relative_path": "Consumables/CONS_GEN_Food_Pie_ABC/Resources/CONS_GEN_Food_SalmonPie_A.dae",
     "size": [
       0.6160460114479065,
@@ -2700,7 +2700,7 @@
     "uuid": "8a039e47-d991-4808-a3ea-148f0c55f976"
   },
   {
-    "name": "CONS_GEN_Food_Pizza_A.dae",
+    "name": "CONS_GEN_Food_Pizza_A",
     "relative_path": "Consumables/CONS_GEN_Food_Pizza_A/Resources/CONS_GEN_Food_Pizza_A.dae",
     "size": [
       0.9205940067768097,
@@ -2715,7 +2715,7 @@
     "uuid": "1267816d-2074-41e6-be8f-bfdf20b5f04f"
   },
   {
-    "name": "CONS_GEN_Food_Dinner_A.dae",
+    "name": "CONS_GEN_Food_Dinner_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Dinner_A.dae",
     "size": [
       0.5845719873905182,
@@ -2730,7 +2730,7 @@
     "uuid": "98fef0a1-726e-410b-867f-808915741d2f"
   },
   {
-    "name": "CONS_GEN_Food_Fries_A.dae",
+    "name": "CONS_GEN_Food_Fries_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Fries_A.dae",
     "size": [
       0.5845719873905182,
@@ -2745,7 +2745,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "CONS_GEN_Food_MashedPotato_A.dae",
+    "name": "CONS_GEN_Food_MashedPotato_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_MashedPotato_A.dae",
     "size": [
       0.5845719873905182,
@@ -2760,7 +2760,7 @@
     "uuid": "ee4025e5-11f2-401a-8198-885120af0b6b"
   },
   {
-    "name": "CONS_GEN_Food_MashedPotato_A_Spill.dae",
+    "name": "CONS_GEN_Food_MashedPotato_A_Spill",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_MashedPotato_A_Spill.dae",
     "size": [
       0.40162400901317596,
@@ -2775,7 +2775,7 @@
     "uuid": "0c2326a3-e01a-40f4-ab46-090fa4e812c6"
   },
   {
-    "name": "CONS_GEN_Food_Plate_A.dae",
+    "name": "CONS_GEN_Food_Plate_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_A.dae",
     "size": [
       0.5946319997310638,
@@ -2790,7 +2790,7 @@
     "uuid": "2d722150-9d33-48c0-9cc2-1dd25c10b533"
   },
   {
-    "name": "CONS_GEN_Food_Plate_A_Full.dae",
+    "name": "CONS_GEN_Food_Plate_A_Full",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_A_Full.dae",
     "size": [
       0.5845719873905182,
@@ -2804,7 +2804,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Plate_Beholder_Eyes_A.dae",
+    "name": "CONS_GEN_Food_Plate_Beholder_Eyes_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Beholder_Eyes_A.dae",
     "size": [
       0.6249099969863892,
@@ -2819,7 +2819,7 @@
     "uuid": "d0e9c5c0-4757-45d9-9311-0f178139c181"
   },
   {
-    "name": "CONS_GEN_Food_Plate_Black_Pudding_A.dae",
+    "name": "CONS_GEN_Food_Plate_Black_Pudding_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Black_Pudding_A.dae",
     "size": [
       0.4188949912786484,
@@ -2834,7 +2834,7 @@
     "uuid": "36fc6c55-478c-464f-86a2-910573fd8d4b"
   },
   {
-    "name": "CONS_GEN_Food_Plate_Neogi_Rolls_A.dae",
+    "name": "CONS_GEN_Food_Plate_Neogi_Rolls_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Neogi_Rolls_A.dae",
     "size": [
       0.39114099740982056,
@@ -2849,7 +2849,7 @@
     "uuid": "31d10a5c-078a-48c9-a48e-17cedae39c35"
   },
   {
-    "name": "CONS_GEN_Food_Plate_Roast_Beef_Joint_A.dae",
+    "name": "CONS_GEN_Food_Plate_Roast_Beef_Joint_A",
     "relative_path": "Consumables/CONS_GEN_Food_Plate_ABC/Resources/CONS_GEN_Food_Plate_Roast_Beef_Joint_A.dae",
     "size": [
       0.4417939931154251,
@@ -2864,7 +2864,7 @@
     "uuid": "001376e1-2f21-4306-b510-0be29fa4941d"
   },
   {
-    "name": "CONS_GEN_Food_Potato_Scones_A.dae",
+    "name": "CONS_GEN_Food_Potato_Scones_A",
     "relative_path": "Consumables/CONS_GEN_Food_Potato_Scones_ABC/Resources/CONS_GEN_Food_Potato_Scones_A.dae",
     "size": [
       0.5845719873905182,
@@ -2879,7 +2879,7 @@
     "uuid": "f59f02dd-245b-473d-a401-80de43e207a4"
   },
   {
-    "name": "CONS_GEN_Food_Steaks_Cooked_A.dae",
+    "name": "CONS_GEN_Food_Steaks_Cooked_A",
     "relative_path": "Consumables/CONS_GEN_Food_Steaks_ABC/Resources/CONS_GEN_Food_Steaks_Cooked_A.dae",
     "size": [
       0.34380099177360535,
@@ -2894,7 +2894,7 @@
     "uuid": "e64e5de6-9c13-4d0b-9d23-ec404a34a469"
   },
   {
-    "name": "CONS_GEN_Food_Steaks_Raw_A.dae",
+    "name": "CONS_GEN_Food_Steaks_Raw_A",
     "relative_path": "Consumables/CONS_GEN_Food_Steaks_ABC/Resources/CONS_GEN_Food_Steaks_Raw_A.dae",
     "size": [
       0.35095299780368805,
@@ -2909,7 +2909,7 @@
     "uuid": "caf51333-338f-41f1-8cf9-3474dad331d4"
   },
   {
-    "name": "CONS_GEN_Food_Tart_Treacle_A.dae",
+    "name": "CONS_GEN_Food_Tart_Treacle_A",
     "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A.dae",
     "size": [
       0.4014759957790375,
@@ -2924,7 +2924,7 @@
     "uuid": "80e17dfc-f29e-4149-9c91-7b617efb0c77"
   },
   {
-    "name": "CONS_GEN_Food_Tart_Treacle_A_Eaten_A.dae",
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Eaten_A",
     "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Eaten_A.dae",
     "size": [
       0.39477600157260895,
@@ -2939,7 +2939,7 @@
     "uuid": "03057be5-c7d9-49f9-8539-6a7ecf674f63"
   },
   {
-    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A.dae",
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A",
     "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Spoiled_A.dae",
     "size": [
       0.4014759957790375,
@@ -2954,7 +2954,7 @@
     "uuid": "c5c39373-6a83-4a74-818a-da1642b9dfd0"
   },
   {
-    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A.dae",
+    "name": "CONS_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A",
     "relative_path": "Consumables/CONS_GEN_Food_Tart_Treacle_ABC/Resources/CONS_GEN_Food_Tart_Treacle_A_Spoiled_A_Eaten_A.dae",
     "size": [
       0.39477600157260895,
@@ -2969,7 +2969,7 @@
     "uuid": "d10402d9-e731-4af6-b93e-a6aec0806dc9"
   },
   {
-    "name": "CONS_GEN_Food_Turkey_A.dae",
+    "name": "CONS_GEN_Food_Turkey_A",
     "relative_path": "Consumables/CONS_GEN_Food_Turkey_ABC/Resources/CONS_GEN_Food_Turkey_A.dae",
     "size": [
       0.7038879990577698,
@@ -2984,7 +2984,7 @@
     "uuid": "cdbd82e1-c092-487a-8e5d-d1f0a48c002b"
   },
   {
-    "name": "CONS_FOOD_Vegetable_Pepper_A.dae",
+    "name": "CONS_FOOD_Vegetable_Pepper_A",
     "relative_path": "Consumables/CONS_GEN_Food_Vegetable_Pepper_ABC/Resources/CONS_FOOD_Vegetable_Pepper_A.dae",
     "size": [
       0.11646699905395508,
@@ -2999,7 +2999,7 @@
     "uuid": "56cb4280-8c36-4b16-9852-834e45942ae0"
   },
   {
-    "name": "CONS_GEN_Spider_Meat_Hunk_A.dae",
+    "name": "CONS_GEN_Spider_Meat_Hunk_A",
     "relative_path": "Consumables/CONS_GEN_Spider_Meat_Hunk_ABC/Resources/CONS_GEN_Spider_Meat_Hunk_A.dae",
     "size": [
       0.13397200405597687,
@@ -3013,7 +3013,7 @@
     ]
   },
   {
-    "name": "CONS_FOOD_Vegetable_Horseradish_A.dae",
+    "name": "CONS_FOOD_Vegetable_Horseradish_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_A.dae",
     "size": [
       0.8264600038528442,
@@ -3028,7 +3028,7 @@
     "uuid": "0e23a410-d7e6-454f-9061-abe3c60c6f5f"
   },
   {
-    "name": "CONS_FOOD_Vegetable_Horseradish_ABC.dae",
+    "name": "CONS_FOOD_Vegetable_Horseradish_ABC",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_ABC.dae",
     "size": [
       0.8264600038528442,
@@ -3042,7 +3042,7 @@
     ]
   },
   {
-    "name": "CONS_FOOD_Vegetable_Horseradish_B.dae",
+    "name": "CONS_FOOD_Vegetable_Horseradish_B",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Horseradish_B.dae",
     "size": [
       0.780036985874176,
@@ -3057,7 +3057,7 @@
     "uuid": "5bd00d87-c85e-4796-9de2-877b41a945b2"
   },
   {
-    "name": "CONS_FOOD_Vegetable_Mushroom_A.dae",
+    "name": "CONS_FOOD_Vegetable_Mushroom_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Mushroom_A.dae",
     "size": [
       0.05867299996316433,
@@ -3072,7 +3072,7 @@
     "uuid": "cd3920b3-1706-4d34-9982-7dd2ad8e67b6"
   },
   {
-    "name": "CONS_FOOD_Vegetable_Tomato_A_Rotten.dae",
+    "name": "CONS_FOOD_Vegetable_Tomato_A_Rotten",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_FOOD_Vegetable_Tomato_A_Rotten.dae",
     "size": [
       0.13693199679255486,
@@ -3087,7 +3087,7 @@
     "uuid": "32a3bb2c-ce98-41ec-9476-06867d354ca3"
   },
   {
-    "name": "CONS_GEN_Vegetable_Cabbage_A.dae",
+    "name": "CONS_GEN_Vegetable_Cabbage_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Cabbage_A.dae",
     "size": [
       0.2950340062379837,
@@ -3101,7 +3101,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Carrot_A.dae",
+    "name": "CONS_GEN_Vegetable_Carrot_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Carrot_A.dae",
     "size": [
       0.0689840018749237,
@@ -3115,7 +3115,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Carrot_A_Rotten.dae",
+    "name": "CONS_GEN_Vegetable_Carrot_A_Rotten",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Carrot_A_Rotten.dae",
     "size": [
       0.06183700077235699,
@@ -3129,7 +3129,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Garlic_A.dae",
+    "name": "CONS_GEN_Vegetable_Garlic_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Garlic_A.dae",
     "size": [
       0.1357019990682602,
@@ -3143,7 +3143,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Onion_A.dae",
+    "name": "CONS_GEN_Vegetable_Onion_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Onion_A.dae",
     "size": [
       0.16536499559879303,
@@ -3157,7 +3157,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Potato_A.dae",
+    "name": "CONS_GEN_Vegetable_Potato_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Potato_A.dae",
     "size": [
       0.22698300331830978,
@@ -3171,7 +3171,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Potato_Boiled_A.dae",
+    "name": "CONS_GEN_Vegetable_Potato_Boiled_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Potato_Boiled_A.dae",
     "size": [
       0.22698300331830978,
@@ -3185,7 +3185,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Pumpkin_A.dae",
+    "name": "CONS_GEN_Vegetable_Pumpkin_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Pumpkin_A.dae",
     "size": [
       0.4457480013370514,
@@ -3199,7 +3199,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Squash_A.dae",
+    "name": "CONS_GEN_Vegetable_Squash_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Squash_A.dae",
     "size": [
       0.2889540046453476,
@@ -3213,7 +3213,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_SweetPotato_A.dae",
+    "name": "CONS_GEN_Vegetable_SweetPotato_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_SweetPotato_A.dae",
     "size": [
       0.32513299584388733,
@@ -3227,7 +3227,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Tomato_A.dae",
+    "name": "CONS_GEN_Vegetable_Tomato_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Tomato_A.dae",
     "size": [
       0.1411530002951622,
@@ -3241,7 +3241,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Vegetable_Turnip_A.dae",
+    "name": "CONS_GEN_Vegetable_Turnip_A",
     "relative_path": "Consumables/CONS_GEN_Vegetable_ABC/Resources/CONS_GEN_Vegetable_Turnip_A.dae",
     "size": [
       0.20923899859189987,
@@ -3255,7 +3255,7 @@
     ]
   },
   {
-    "name": "CONS_Herbs_Autumncrocus_Bundle_A.dae",
+    "name": "CONS_Herbs_Autumncrocus_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Autumncrocus_Bundle_A.dae",
     "size": [
       0.6842979788780212,
@@ -3270,7 +3270,7 @@
     "uuid": "06f3a0c4-af50-4a79-8c1a-1ace6d1282f2"
   },
   {
-    "name": "CONS_Herbs_Autumncrocus_Plant_A.dae",
+    "name": "CONS_Herbs_Autumncrocus_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Autumncrocus_Plant_A.dae",
     "size": [
       0.5032920092344284,
@@ -3285,7 +3285,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONS_Herbs_Balsam_Bundle_A.dae",
+    "name": "CONS_Herbs_Balsam_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Balsam_Bundle_A.dae",
     "size": [
       0.34185799956321716,
@@ -3300,7 +3300,7 @@
     "uuid": "fb318355-d2d9-48c5-8ef1-d0e574cef0d5"
   },
   {
-    "name": "CONS_Herbs_Balsam_Plant_A.dae",
+    "name": "CONS_Herbs_Balsam_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Balsam_Plant_A.dae",
     "size": [
       0.6898370087146759,
@@ -3315,7 +3315,7 @@
     "uuid": "9a524608-1ad1-4d01-ae99-76fb3c513b3c"
   },
   {
-    "name": "CONS_Herbs_Belladonna_Bundle_A.dae",
+    "name": "CONS_Herbs_Belladonna_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Belladonna_Bundle_A.dae",
     "size": [
       0.31804899871349335,
@@ -3330,7 +3330,7 @@
     "uuid": "897f5ff9-d889-4b78-a1d7-afa88ccaadb3"
   },
   {
-    "name": "CONS_Herbs_Belladonna_Plant_A.dae",
+    "name": "CONS_Herbs_Belladonna_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Belladonna_Plant_A.dae",
     "size": [
       0.932561993598938,
@@ -3345,7 +3345,7 @@
     "uuid": "1a7d3387-3c57-4ae7-9e7a-eb0eb0199dc3"
   },
   {
-    "name": "CONS_Herbs_Daggeroot_Bundle_A.dae",
+    "name": "CONS_Herbs_Daggeroot_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Daggeroot_Bundle_A.dae",
     "size": [
       0.38349398970603943,
@@ -3360,7 +3360,7 @@
     "uuid": "12126dc3-50ce-48cd-836f-c4d769a85134"
   },
   {
-    "name": "CONS_Herbs_Daggeroot_Plant_A.dae",
+    "name": "CONS_Herbs_Daggeroot_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Daggeroot_Plant_A.dae",
     "size": [
       0.9442740082740784,
@@ -3375,7 +3375,7 @@
     "uuid": "374c2898-cea4-43c9-9687-6d99a0c92ad7"
   },
   {
-    "name": "CONS_Herbs_Mergrass_Bundle_A.dae",
+    "name": "CONS_Herbs_Mergrass_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mergrass_Bundle_A.dae",
     "size": [
       0.23689399659633636,
@@ -3390,7 +3390,7 @@
     "uuid": "0a494c98-84c0-4055-8208-0e363bd53ed3"
   },
   {
-    "name": "CONS_Herbs_Mergrass_Plant_A.dae",
+    "name": "CONS_Herbs_Mergrass_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mergrass_Plant_A.dae",
     "size": [
       0.7406830191612244,
@@ -3405,7 +3405,7 @@
     "uuid": "3e518433-1923-43f5-856f-848028ac3bad"
   },
   {
-    "name": "CONS_Herbs_Mugwort_Bundle_A.dae",
+    "name": "CONS_Herbs_Mugwort_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mugwort_Bundle_A.dae",
     "size": [
       0.3670379966497421,
@@ -3420,7 +3420,7 @@
     "uuid": "a0776643-f25b-4aef-a025-bff959d8dd0f"
   },
   {
-    "name": "CONS_Herbs_Mugwort_Plant_A.dae",
+    "name": "CONS_Herbs_Mugwort_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Mugwort_Plant_A.dae",
     "size": [
       0.7446480095386505,
@@ -3435,7 +3435,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONS_Herbs_Weavemoss_Bundle_A.dae",
+    "name": "CONS_Herbs_Weavemoss_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Weavemoss_Bundle_A.dae",
     "size": [
       0.42503000795841217,
@@ -3450,7 +3450,7 @@
     "uuid": "0a64fa93-9123-4810-a656-2c8b27c87563"
   },
   {
-    "name": "CONS_Herbs_Weavemoss_Plant_A.dae",
+    "name": "CONS_Herbs_Weavemoss_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Weavemoss_Plant_A.dae",
     "size": [
       0.6623909771442413,
@@ -3465,7 +3465,7 @@
     "uuid": "35878644-f61a-47c5-9256-d724ac88217c"
   },
   {
-    "name": "CONS_Herbs_Wispweed_Bundle_A.dae",
+    "name": "CONS_Herbs_Wispweed_Bundle_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Wispweed_Bundle_A.dae",
     "size": [
       0.24029400199651718,
@@ -3480,7 +3480,7 @@
     "uuid": "4faa8cef-27ee-4085-aa90-78fcf8e2e72d"
   },
   {
-    "name": "CONS_Herbs_Wispweed_Plant_A.dae",
+    "name": "CONS_Herbs_Wispweed_Plant_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Wispweed_Plant_A.dae",
     "size": [
       0.8713200092315674,
@@ -3495,7 +3495,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "CONS_Poison_Drow_A.dae",
+    "name": "CONS_Poison_Drow_A",
     "relative_path": "Consumables/CONS_Poison_Drow_ABC/Resources/CONS_Poison_Drow_A.dae",
     "size": [
       0.3021889925003052,
@@ -3509,7 +3509,7 @@
     ]
   },
   {
-    "name": "CONS_Poison_Essence_Of_Ether_A.dae",
+    "name": "CONS_Poison_Essence_Of_Ether_A",
     "relative_path": "Consumables/CONS_Poison_Essence_Of_Ether_ABC/Resources/CONS_Poison_Essence_Of_Ether_A.dae",
     "size": [
       0.18816400319337845,
@@ -3523,7 +3523,7 @@
     ]
   },
   {
-    "name": "CONS_Poison_Malice_A.dae",
+    "name": "CONS_Poison_Malice_A",
     "relative_path": "Consumables/CONS_Poison_Malice_ABC/Resources/CONS_Poison_Malice_A.dae",
     "size": [
       0.20258000493049622,
@@ -3537,7 +3537,7 @@
     ]
   },
   {
-    "name": "CONS_Poison_Purple_Worm_A.dae",
+    "name": "CONS_Poison_Purple_Worm_A",
     "relative_path": "Consumables/CONS_Poison_Purple_Worm_ABC/Resources/CONS_Poison_Purple_Worm_A.dae",
     "size": [
       0.2982740104198456,
@@ -3551,7 +3551,7 @@
     ]
   },
   {
-    "name": "CONS_Poison_Serpent_Venom_A.dae",
+    "name": "CONS_Poison_Serpent_Venom_A",
     "relative_path": "Consumables/CONS_Poison_Serpent_Venom_ABC/Resources/CONS_Poison_Serpent_Venom_A.dae",
     "size": [
       0.16650400310754776,
@@ -3565,7 +3565,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_AnimalSpeaking_A.dae",
+    "name": "CONS_Potion_AnimalSpeaking_A",
     "relative_path": "Consumables/CONS_Potion_AnimalSpeaking_ABC/Resources/CONS_Potion_AnimalSpeaking_A.dae",
     "size": [
       0.32872000336647034,
@@ -3580,7 +3580,7 @@
     "uuid": "447ee8a9-9319-4758-9dc7-2d8ba94e45b5"
   },
   {
-    "name": "CONS_Potion_Antitoxin_A.dae",
+    "name": "CONS_Potion_Antitoxin_A",
     "relative_path": "Consumables/CONS_Potion_Antitoxin_ABC/Resources/CONS_Potion_Antitoxin_A.dae",
     "size": [
       0.32415300607681274,
@@ -3594,7 +3594,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_ArmsOfHadar_A.dae",
+    "name": "CONS_Potion_ArmsOfHadar_A",
     "relative_path": "Consumables/CONS_Potion_ArmsOfHadar_ABC/Resources/CONS_Potion_ArmsOfHadar_A.dae",
     "size": [
       0.24946599453687668,
@@ -3608,7 +3608,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Attack_Buff_A.dae",
+    "name": "CONS_Potion_Attack_Buff_A",
     "relative_path": "Consumables/CONS_Potion_Attack_Buff_ABC/Resources/CONS_Potion_Attack_Buff_A.dae",
     "size": [
       0.21277600526809692,
@@ -3622,7 +3622,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Barkskin_A.dae",
+    "name": "CONS_Potion_Barkskin_A",
     "relative_path": "Consumables/CONS_Potion_Barkskin_ABC/Resources/CONS_Potion_Barkskin_A.dae",
     "size": [
       0.2941740080714226,
@@ -3636,7 +3636,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Bottled_Breath_A.dae",
+    "name": "CONS_Potion_Bottled_Breath_A",
     "relative_path": "Consumables/CONS_Potion_Bottled_Breath_ABC/Resources/CONS_Potion_Bottled_Breath_A.dae",
     "size": [
       0.2058980017900467,
@@ -3650,7 +3650,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Dye_A.dae",
+    "name": "CONS_Potion_Dye_A",
     "relative_path": "Consumables/CONS_Potion_Dye_ABC/Resources/CONS_Potion_Dye_A.dae",
     "size": [
       0.267751008272171,
@@ -3664,7 +3664,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Elixir_A.dae",
+    "name": "CONS_Potion_Elixir_A",
     "relative_path": "Consumables/CONS_Potion_Elixir_ABC/Resources/CONS_Potion_Elixir_A.dae",
     "size": [
       0.267751008272171,
@@ -3678,7 +3678,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Enlarge_A.dae",
+    "name": "CONS_Potion_Enlarge_A",
     "relative_path": "Consumables/CONS_Potion_Enlarge_ABC/Resources/CONS_Potion_Enlarge_A.dae",
     "size": [
       0.3486019968986511,
@@ -3692,7 +3692,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_FireBreath_A.dae",
+    "name": "CONS_Potion_FireBreath_A",
     "relative_path": "Consumables/CONS_Potion_FireBreath_ABC/Resources/CONS_Potion_FireBreath_A.dae",
     "size": [
       0.2023179978132248,
@@ -3706,7 +3706,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Flight_A.dae",
+    "name": "CONS_Potion_Flight_A",
     "relative_path": "Consumables/CONS_Potion_Flight/CONS_Potion_Flight_A.dae",
     "size": [
       0.2878020107746124,
@@ -3720,7 +3720,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_GaseousForm_A.dae",
+    "name": "CONS_Potion_GaseousForm_A",
     "relative_path": "Consumables/CONS_Potion_GaseousForm_ABC/Resources/CONS_Potion_GaseousForm_A.dae",
     "size": [
       0.21804000437259674,
@@ -3734,7 +3734,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Healing_A.dae",
+    "name": "CONS_Potion_Healing_A",
     "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A.dae",
     "size": [
       0.3497280031442642,
@@ -3749,7 +3749,7 @@
     "uuid": "d47006e9-8a51-453d-b200-9e0d42e9bbab"
   },
   {
-    "name": "CONS_Potion_Healing_A_Greater.dae",
+    "name": "CONS_Potion_Healing_A_Greater",
     "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Greater.dae",
     "size": [
       0.3628010004758835,
@@ -3764,7 +3764,7 @@
     "uuid": "e3b95c96-dc26-40fe-bfc0-baa05e1abd20"
   },
   {
-    "name": "CONS_Potion_Healing_A_Superior.dae",
+    "name": "CONS_Potion_Healing_A_Superior",
     "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Superior.dae",
     "size": [
       0.2740139961242676,
@@ -3779,7 +3779,7 @@
     "uuid": "df4f3495-abaf-4732-b82f-55bcccd561db"
   },
   {
-    "name": "CONS_Potion_Healing_A_Supreme.dae",
+    "name": "CONS_Potion_Healing_A_Supreme",
     "relative_path": "Consumables/CONS_Potion_Healing/CONS_Potion_Healing_A_Supreme.dae",
     "size": [
       0.5757449865341187,
@@ -3794,7 +3794,7 @@
     "uuid": "7d78f227-e8d4-486d-8121-25cf0bee751d"
   },
   {
-    "name": "CINE_CONS_Potion_Healing_A.dae",
+    "name": "CINE_CONS_Potion_Healing_A",
     "relative_path": "Consumables/CONS_Potion_Healing/Resources/CINE_CONS_Potion_Healing_A.dae",
     "size": [
       0.11631199717521667,
@@ -3809,7 +3809,7 @@
     "uuid": "efa94853-b819-402d-a257-5c1d56c97992"
   },
   {
-    "name": "CINE_CONS_Potion_Healing_A_Greater.dae",
+    "name": "CINE_CONS_Potion_Healing_A_Greater",
     "relative_path": "Consumables/CONS_Potion_Healing/Resources/CINE_CONS_Potion_Healing_A_Greater.dae",
     "size": [
       0.24541600048542023,
@@ -3824,7 +3824,7 @@
     "uuid": "d05e26c0-49a9-4e94-af79-5fcb9f1c3fa9"
   },
   {
-    "name": "CONS_Potion_Healing_A.dae",
+    "name": "CONS_Potion_Healing_A",
     "relative_path": "Consumables/CONS_Potion_Healing/Resources/CONS_Potion_Healing_A.dae",
     "size": [
       0.3497280031442642,
@@ -3839,7 +3839,7 @@
     "uuid": "d47006e9-8a51-453d-b200-9e0d42e9bbab"
   },
   {
-    "name": "CONS_Potion_Healing_A_Supreme.dae",
+    "name": "CONS_Potion_Healing_A_Supreme",
     "relative_path": "Consumables/CONS_Potion_Healing/Resources/CONS_Potion_Healing_A_Supreme.dae",
     "size": [
       0.3823019862174988,
@@ -3854,7 +3854,7 @@
     "uuid": "7d78f227-e8d4-486d-8121-25cf0bee751d"
   },
   {
-    "name": "INTERACT_CONS_Potion_Healing_A.dae",
+    "name": "INTERACT_CONS_Potion_Healing_A",
     "relative_path": "Consumables/CONS_Potion_Healing/Resources/INTERACT_CONS_Potion_Healing_A.dae",
     "size": [
       0.30238399654626846,
@@ -3869,7 +3869,7 @@
     "uuid": "6807bb1d-6ede-432f-93dd-f5dc7c7a8ece"
   },
   {
-    "name": "CONS_Potion_Heated_A.dae",
+    "name": "CONS_Potion_Heated_A",
     "relative_path": "Consumables/CONS_Potion_Heated/CONS_Potion_Heated_A.dae",
     "size": [
       0.30235400795936584,
@@ -3883,7 +3883,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Heated_A.dae",
+    "name": "CONS_Potion_Heated_A",
     "relative_path": "Consumables/CONS_Potion_Heated/Resources/CONS_Potion_Heated_A.dae",
     "size": [
       0.30235400795936584,
@@ -3897,7 +3897,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_HolyWater_A.dae",
+    "name": "CONS_Potion_HolyWater_A",
     "relative_path": "Consumables/CONS_Potion_HolyWater_ABC/Resources/CONS_Potion_HolyWater_A.dae",
     "size": [
       0.24083200842142105,
@@ -3911,7 +3911,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Invisibility_A.dae",
+    "name": "CONS_Potion_Invisibility_A",
     "relative_path": "Consumables/CONS_Potion_Invisibility_ABC/Resources/CONS_Potion_Invisibility_A.dae",
     "size": [
       0.28327199816703796,
@@ -3925,7 +3925,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Invisibility_A_Cinematic_A.dae",
+    "name": "CONS_Potion_Invisibility_A_Cinematic_A",
     "relative_path": "Consumables/CONS_Potion_Invisibility_ABC/Resources/CONS_Potion_Invisibility_A_Cinematic_A.dae",
     "size": [
       0.09105599671602249,
@@ -3939,7 +3939,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Invulnerability_A.dae",
+    "name": "CONS_Potion_Invulnerability_A",
     "relative_path": "Consumables/CONS_Potion_Invulnerability_ABC/Resources/CONS_Potion_Invulnerability_A.dae",
     "size": [
       0.23497599363327026,
@@ -3953,7 +3953,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Mindflayer_A.dae",
+    "name": "CONS_Potion_Mindflayer_A",
     "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_A.dae",
     "size": [
       0.17881999909877777,
@@ -3967,7 +3967,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Mindflayer_B.dae",
+    "name": "CONS_Potion_Mindflayer_B",
     "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_B.dae",
     "size": [
       0.1896970048546791,
@@ -3981,7 +3981,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Mindflayer_C.dae",
+    "name": "CONS_Potion_Mindflayer_C",
     "relative_path": "Consumables/CONS_Potion_Mindflayer_ABC/Resources/CONS_Potion_Mindflayer_C.dae",
     "size": [
       0.22899200022220612,
@@ -3995,7 +3995,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Misty_Step_A.dae",
+    "name": "CONS_Potion_Misty_Step_A",
     "relative_path": "Consumables/CONS_Potion_Misty_Step_ABC/Resources/CONS_Potion_Misty_Step_A.dae",
     "size": [
       0.1682639941573143,
@@ -4009,7 +4009,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Rare_A.dae",
+    "name": "CONS_Potion_Rare_A",
     "relative_path": "Consumables/CONS_Potion_Rare/CONS_Potion_Rare_A.dae",
     "size": [
       0.4909619987010956,
@@ -4023,7 +4023,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Regeneration_A.dae",
+    "name": "CONS_Potion_Regeneration_A",
     "relative_path": "Consumables/CONS_Potion_Regeneration/Resources/CONS_Potion_Regeneration_A.dae",
     "size": [
       0.2187660038471222,
@@ -4037,7 +4037,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Acid_A.dae",
+    "name": "CONS_Potion_Resistance_Acid_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Acid_A.dae",
     "size": [
       0.15306899696588516,
@@ -4051,7 +4051,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Energy_A.dae",
+    "name": "CONS_Potion_Resistance_Energy_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Energy_A.dae",
     "size": [
       0.15306899696588516,
@@ -4065,7 +4065,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Fire_A.dae",
+    "name": "CONS_Potion_Resistance_Fire_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Fire_A.dae",
     "size": [
       0.15306899696588516,
@@ -4079,7 +4079,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Frost_A.dae",
+    "name": "CONS_Potion_Resistance_Frost_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Frost_A.dae",
     "size": [
       0.15306899696588516,
@@ -4093,7 +4093,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Lightning_A.dae",
+    "name": "CONS_Potion_Resistance_Lightning_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Lightning_A.dae",
     "size": [
       0.15306899696588516,
@@ -4107,7 +4107,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Necro_A.dae",
+    "name": "CONS_Potion_Resistance_Necro_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Necro_A.dae",
     "size": [
       0.15306899696588516,
@@ -4121,7 +4121,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Poison_A.dae",
+    "name": "CONS_Potion_Resistance_Poison_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Poison_A.dae",
     "size": [
       0.15306899696588516,
@@ -4135,7 +4135,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Psy_A.dae",
+    "name": "CONS_Potion_Resistance_Psy_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Psy_A.dae",
     "size": [
       0.15306899696588516,
@@ -4149,7 +4149,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Radiant_A.dae",
+    "name": "CONS_Potion_Resistance_Radiant_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Radiant_A.dae",
     "size": [
       0.15306899696588516,
@@ -4163,7 +4163,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Thunder_A.dae",
+    "name": "CONS_Potion_Resistance_Thunder_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Thunder_A.dae",
     "size": [
       0.15306899696588516,
@@ -4177,7 +4177,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Resistance_Universal_A.dae",
+    "name": "CONS_Potion_Resistance_Universal_A",
     "relative_path": "Consumables/CONS_Potion_Resistance_ABC/Resources/CONS_Potion_Resistance_Universal_A.dae",
     "size": [
       0.15306899696588516,
@@ -4191,7 +4191,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Sleep_A.dae",
+    "name": "CONS_Potion_Sleep_A",
     "relative_path": "Consumables/CONS_Potion_Sleep_ABC/Resources/CONS_Potion_Sleep_A.dae",
     "size": [
       0.22005799412727356,
@@ -4205,7 +4205,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Sleep_A_Opened_A.dae",
+    "name": "CONS_Potion_Sleep_A_Opened_A",
     "relative_path": "Consumables/CONS_Potion_Sleep_ABC/Resources/CONS_Potion_Sleep_A_Opened_A.dae",
     "size": [
       0.22005799412727356,
@@ -4219,7 +4219,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Speed_A.dae",
+    "name": "CONS_Potion_Speed_A",
     "relative_path": "Consumables/CONS_Potion_Speed_ABC/Resources/CONS_Potion_Speed_A.dae",
     "size": [
       0.3865320086479187,
@@ -4233,7 +4233,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Status_Cure_A.dae",
+    "name": "CONS_Potion_Status_Cure_A",
     "relative_path": "Consumables/CONS_Potion_Status_Cure_A/Resources/CONS_Potion_Status_Cure_A.dae",
     "size": [
       0.21339799463748932,
@@ -4247,7 +4247,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Strength_A.dae",
+    "name": "CONS_Potion_Strength_A",
     "relative_path": "Consumables/CONS_Potion_Strength_ABC/Resources/CONS_Potion_Strength_A.dae",
     "size": [
       0.2683520019054413,
@@ -4261,7 +4261,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Tribal_A_Greater.dae",
+    "name": "CONS_Potion_Tribal_A_Greater",
     "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Greater.dae",
     "size": [
       0.2561520040035248,
@@ -4275,7 +4275,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Tribal_A_Small.dae",
+    "name": "CONS_Potion_Tribal_A_Small",
     "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Small.dae",
     "size": [
       0.17391200363636017,
@@ -4289,7 +4289,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Tribal_A_Superior.dae",
+    "name": "CONS_Potion_Tribal_A_Superior",
     "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Superior.dae",
     "size": [
       0.2714970037341118,
@@ -4303,7 +4303,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Tribal_A_Supreme.dae",
+    "name": "CONS_Potion_Tribal_A_Supreme",
     "relative_path": "Consumables/CONS_Potion_Tribal/Resources/CONS_Potion_Tribal_A_Supreme.dae",
     "size": [
       0.36002999544143677,
@@ -4317,7 +4317,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Vitality_A.dae",
+    "name": "CONS_Potion_Vitality_A",
     "relative_path": "Consumables/CONS_Potion_Vitality_ABC/Resources/CONS_Potion_Vitality_A.dae",
     "size": [
       0.12941499799489975,
@@ -4331,7 +4331,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_X_Resistance_A.dae",
+    "name": "CONS_Potion_X_Resistance_A",
     "relative_path": "Consumables/CONS_Potion_X_Resistance_ABC/Resources/CONS_Potion_X_Resistance_A.dae",
     "size": [
       0.2676900029182434,
@@ -4345,7 +4345,7 @@
     ]
   },
   {
-    "name": "CONS_Drink_Beer_Mug_A_Lidless.dae",
+    "name": "CONS_Drink_Beer_Mug_A_Lidless",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A_Lidless.dae",
     "size": [
       0.33939599990844727,
@@ -4360,7 +4360,7 @@
     "uuid": "88394f30-47da-415c-a8a1-1fa0c226fdff"
   },
   {
-    "name": "CONS_Drink_Beer_Mug_A_Lidless_Empty.dae",
+    "name": "CONS_Drink_Beer_Mug_A_Lidless_Empty",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Beer_Mug_A_Lidless_Empty.dae",
     "size": [
       0.33226799964904785,
@@ -4375,7 +4375,7 @@
     "uuid": "deedeae2-ebce-4dd5-a4f7-9bd89baa2d4c"
   },
   {
-    "name": "CONS_Drink_Bottle_Mermaid_Whiskey_A.dae",
+    "name": "CONS_Drink_Bottle_Mermaid_Whiskey_A",
     "relative_path": "Consumables/CONS_Drink_Bottles/Resources/CONS_Drink_Bottle_Mermaid_Whiskey_A.dae",
     "size": [
       0.14269699901342392,
@@ -4389,7 +4389,7 @@
     ]
   },
   {
-    "name": "CONS_Food_Meat_Skewer_A.dae",
+    "name": "CONS_Food_Meat_Skewer_A",
     "relative_path": "Consumables/CONS_Food_Meat/Resources/CONS_Food_Meat_Skewer_A.dae",
     "size": [
       0.10360600054264069,
@@ -4403,7 +4403,7 @@
     ]
   },
   {
-    "name": "CONS_GEN_Food_Giant_Hamster_Grilled_A.dae",
+    "name": "CONS_GEN_Food_Giant_Hamster_Grilled_A",
     "relative_path": "Consumables/CONS_GEN_Food_Giant_Hamster_Grilled_ABC/Resources/CONS_GEN_Food_Giant_Hamster_Grilled_A.dae",
     "size": [
       0.555979996919632,
@@ -4418,7 +4418,7 @@
     "uuid": "c6910189-d120-42cd-9277-1e6c7d7bb772"
   },
   {
-    "name": "CONS_Herbs_Bixa_Root_A.dae",
+    "name": "CONS_Herbs_Bixa_Root_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Bixa_Root_A.dae",
     "size": [
       0.596767008304596,
@@ -4433,7 +4433,7 @@
     "uuid": "b3baa987-efe1-4cec-b290-74408d6d4771"
   },
   {
-    "name": "CONS_Herbs_Poppy_Flower_A.dae",
+    "name": "CONS_Herbs_Poppy_Flower_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Poppy_Flower_A.dae",
     "size": [
       0.608814001083374,
@@ -4448,7 +4448,7 @@
     "uuid": "16c583b8-4729-4603-aeee-d224bf645653"
   },
   {
-    "name": "CONS_Herbs_Valerian_A.dae",
+    "name": "CONS_Herbs_Valerian_A",
     "relative_path": "Consumables/CONS_Herbs_Plants_ABC/Resources/CONS_Herbs_Valerian_A.dae",
     "size": [
       0.6702889800071716,
@@ -4463,7 +4463,7 @@
     "uuid": "cfdb70fc-7fc1-4f18-9317-79704886e4d9"
   },
   {
-    "name": "CONS_Potion_Oil_Of_Sharpness_A.dae",
+    "name": "CONS_Potion_Oil_Of_Sharpness_A",
     "relative_path": "Consumables/CONS_Oil_Of_Sharpness_ABC/Resources/CONS_Potion_Oil_Of_Sharpness_A.dae",
     "size": [
       0.18717999756336212,
@@ -4477,7 +4477,7 @@
     ]
   },
   {
-    "name": "CONS_Poison_Paralytic_A.dae",
+    "name": "CONS_Poison_Paralytic_A",
     "relative_path": "Consumables/CONS_Poison_Paralytic_ABC/Resources/CONS_Poison_Paralytic_A.dae",
     "size": [
       0.22347599267959595,
@@ -4491,7 +4491,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Dragonborn.dae",
+    "name": "CONS_Potion_Blood_A_Dragonborn",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Dragonborn.dae",
     "size": [
       0.17382200062274933,
@@ -4505,7 +4505,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Dwarf.dae",
+    "name": "CONS_Potion_Blood_A_Dwarf",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Dwarf.dae",
     "size": [
       0.17382200062274933,
@@ -4519,7 +4519,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Elf.dae",
+    "name": "CONS_Potion_Blood_A_Elf",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Elf.dae",
     "size": [
       0.17382200062274933,
@@ -4533,7 +4533,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Githyanki.dae",
+    "name": "CONS_Potion_Blood_A_Githyanki",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Githyanki.dae",
     "size": [
       0.17382200062274933,
@@ -4547,7 +4547,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Gnome.dae",
+    "name": "CONS_Potion_Blood_A_Gnome",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Gnome.dae",
     "size": [
       0.17382200062274933,
@@ -4561,7 +4561,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_HalfElf.dae",
+    "name": "CONS_Potion_Blood_A_HalfElf",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_HalfElf.dae",
     "size": [
       0.17382200062274933,
@@ -4575,7 +4575,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Halfling.dae",
+    "name": "CONS_Potion_Blood_A_Halfling",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Halfling.dae",
     "size": [
       0.17382200062274933,
@@ -4589,7 +4589,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_HalfOrc.dae",
+    "name": "CONS_Potion_Blood_A_HalfOrc",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_HalfOrc.dae",
     "size": [
       0.17382200062274933,
@@ -4603,7 +4603,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Human.dae",
+    "name": "CONS_Potion_Blood_A_Human",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Human.dae",
     "size": [
       0.17382200062274933,
@@ -4617,7 +4617,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Blood_A_Thiefling.dae",
+    "name": "CONS_Potion_Blood_A_Thiefling",
     "relative_path": "Consumables/CONS_Potion_Blood_ABC/Resources/CONS_Potion_Blood_A_Thiefling.dae",
     "size": [
       0.17382200062274933,
@@ -4631,7 +4631,7 @@
     ]
   },
   {
-    "name": "CONS_Potion_Heroism_A.dae",
+    "name": "CONS_Potion_Heroism_A",
     "relative_path": "Consumables/CONS_Potion_Heroism_ABC/Resources/CONS_Potion_Heroism_A.dae",
     "size": [
       0.39879798889160156,
@@ -4646,7 +4646,7 @@
     "uuid": "bb27cc17-5af9-4d53-818b-3e620f3f59f2"
   },
   {
-    "name": "CONS_Potion_Immortality_A.dae",
+    "name": "CONS_Potion_Immortality_A",
     "relative_path": "Consumables/CONS_Potion_Immortality_ABC/Resources/CONS_Potion_Immortality_A.dae",
     "size": [
       0.11502000316977501,

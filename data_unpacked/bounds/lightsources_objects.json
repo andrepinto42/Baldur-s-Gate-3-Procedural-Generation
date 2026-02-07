@@ -1,6 +1,6 @@
 [
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A.dae",
     "size": [
       0.19972899556159973,
@@ -15,7 +15,7 @@
     "uuid": "cbc25ce0-fd97-4913-ae5d-74bbff58f228"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Destruct.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Destruct",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A_Destruct.dae",
     "size": [
       0.48693300783634186,
@@ -30,7 +30,7 @@
     "uuid": "30446942-6379-4992-98b7-19101a4964ed"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Explode.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_Explode",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A_Explode.dae",
     "size": [
       0.19724999368190765,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B.dae",
     "size": [
       0.4425549954175949,
@@ -59,7 +59,7 @@
     "uuid": "10dae335-03ce-4c2f-88f0-8aa245250959"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Destruct.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Destruct",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B_Destruct.dae",
     "size": [
       0.7717970013618469,
@@ -74,7 +74,7 @@
     "uuid": "2330e556-8636-400a-974a-5a38f46338be"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Explode.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_B_Explode",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_B_Explode.dae",
     "size": [
       0.4424639940261841,
@@ -88,7 +88,7 @@
     ]
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C.dae",
     "size": [
       0.44686800241470337,
@@ -103,7 +103,7 @@
     "uuid": "98f0dfba-521a-415c-bd90-95758648567c"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Destruct.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Destruct",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C_Destruct.dae",
     "size": [
       0.7747589945793152,
@@ -118,7 +118,7 @@
     "uuid": "03ee5c1e-520d-4cc5-bfa8-8eb718c5ec3c"
   },
   {
-    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Explode.dae",
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_Explode",
     "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C_Explode.dae",
     "size": [
       0.44298601150512695,
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "name": "LTS_Camp_Bonfire_A.dae",
+    "name": "LTS_Camp_Bonfire_A",
     "relative_path": "Lightsources/Camp/LTS_Camp_Bonfire_A/Resources/LTS_Camp_Bonfire_A.dae",
     "size": [
       3.023647904396057,
@@ -147,7 +147,7 @@
     "uuid": "5da1e102-9660-4fc2-b881-4d3ce93ada92"
   },
   {
-    "name": "LTS_Camp_Campfire_A.dae",
+    "name": "LTS_Camp_Campfire_A",
     "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_A.dae",
     "size": [
       1.245455026626587,
@@ -162,7 +162,7 @@
     "uuid": "827e5d0f-eeb0-42ca-a237-012033c95c83"
   },
   {
-    "name": "LTS_Camp_Campfire_B.dae",
+    "name": "LTS_Camp_Campfire_B",
     "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_B.dae",
     "size": [
       1.2431259751319885,
@@ -177,7 +177,7 @@
     "uuid": "2b3ccb9f-6b9b-43d5-87f3-d928b2f0646d"
   },
   {
-    "name": "LTS_DUN_Bowls_A.dae",
+    "name": "LTS_DUN_Bowls_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
     "size": [
       1.906999945640564,
@@ -192,7 +192,7 @@
     "uuid": "64623062-e8a6-43c9-bb0f-f16f362f1755"
   },
   {
-    "name": "LTS_DUN_Bowls_A_Destruct.dae",
+    "name": "LTS_DUN_Bowls_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A_Destruct.dae",
     "size": [
       2.7153480052948,
@@ -207,7 +207,7 @@
     "uuid": "2e442d73-9562-4aaf-9bd9-6c8277ba4021"
   },
   {
-    "name": "LTS_DUN_Bowls_A_Explode.dae",
+    "name": "LTS_DUN_Bowls_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A_Explode.dae",
     "size": [
       1.906999945640564,
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_B.dae",
+    "name": "LTS_DUN_Bowls_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
     "size": [
       2.0896759033203125,
@@ -236,7 +236,7 @@
     "uuid": "1e803007-4a58-4543-867b-b9aa97d39e30"
   },
   {
-    "name": "LTS_DUN_Bowls_B_Destruct.dae",
+    "name": "LTS_DUN_Bowls_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B_Destruct.dae",
     "size": [
       2.6541210412979126,
@@ -251,7 +251,7 @@
     "uuid": "98b0709d-f78c-4481-a9b5-470f20f44ccd"
   },
   {
-    "name": "LTS_DUN_Bowls_B_Explode.dae",
+    "name": "LTS_DUN_Bowls_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B_Explode.dae",
     "size": [
       2.0896759033203125,
@@ -265,7 +265,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_C.dae",
+    "name": "LTS_DUN_Bowls_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C.dae",
     "size": [
       2.691293954849243,
@@ -280,7 +280,7 @@
     "uuid": "68651e84-e66e-4815-b620-92effade64ca"
   },
   {
-    "name": "LTS_DUN_Bowls_C_Destruct.dae",
+    "name": "LTS_DUN_Bowls_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C_Destruct.dae",
     "size": [
       3.14185106754303,
@@ -295,7 +295,7 @@
     "uuid": "5b3c46f7-2b71-4293-8598-fcbd11cfb7a9"
   },
   {
-    "name": "LTS_DUN_Bowls_C_Explode.dae",
+    "name": "LTS_DUN_Bowls_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C_Explode.dae",
     "size": [
       2.691293954849243,
@@ -309,7 +309,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_D.dae",
+    "name": "LTS_DUN_Bowls_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
     "size": [
       1.5758739709854126,
@@ -324,7 +324,7 @@
     "uuid": "614e3fe8-1572-4811-801c-af4b4c63c722"
   },
   {
-    "name": "LTS_DUN_Bowls_D_Destruct.dae",
+    "name": "LTS_DUN_Bowls_D_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D_Destruct.dae",
     "size": [
       2.268589973449707,
@@ -339,7 +339,7 @@
     "uuid": "1dd5f0cf-e105-4720-a85e-3eacaab82bf3"
   },
   {
-    "name": "LTS_DUN_Bowls_D_Explode.dae",
+    "name": "LTS_DUN_Bowls_D_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D_Explode.dae",
     "size": [
       1.5758739709854126,
@@ -353,7 +353,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_E.dae",
+    "name": "LTS_DUN_Bowls_E",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
     "size": [
       1.4495420455932617,
@@ -368,7 +368,7 @@
     "uuid": "d4c34693-07f4-4935-b10a-73bf7324b6aa"
   },
   {
-    "name": "LTS_DUN_Bowls_E_Destruct.dae",
+    "name": "LTS_DUN_Bowls_E_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E_Destruct.dae",
     "size": [
       2.029170036315918,
@@ -383,7 +383,7 @@
     "uuid": "ee4419e6-daf1-4cb7-8cb3-d1ef00d2ce8a"
   },
   {
-    "name": "LTS_DUN_Bowls_E_Explode.dae",
+    "name": "LTS_DUN_Bowls_E_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E_Explode.dae",
     "size": [
       1.4495420455932617,
@@ -397,7 +397,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_F.dae",
+    "name": "LTS_DUN_Bowls_F",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
     "size": [
       1.2258340120315552,
@@ -412,7 +412,7 @@
     "uuid": "a3b9c09c-eb1c-4b23-851d-cd05ce213332"
   },
   {
-    "name": "LTS_DUN_Bowls_F_Destruct.dae",
+    "name": "LTS_DUN_Bowls_F_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F_Destruct.dae",
     "size": [
       1.9590089917182922,
@@ -427,7 +427,7 @@
     "uuid": "c4cecf19-111f-420d-9d08-d3be8f9b4a6b"
   },
   {
-    "name": "LTS_DUN_Bowls_F_Explode.dae",
+    "name": "LTS_DUN_Bowls_F_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F_Explode.dae",
     "size": [
       1.2258340120315552,
@@ -441,7 +441,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_G.dae",
+    "name": "LTS_DUN_Bowls_G",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
     "size": [
       1.6361780166625977,
@@ -456,7 +456,7 @@
     "uuid": "751be202-7f13-4ee8-9884-806bf2792f17"
   },
   {
-    "name": "LTS_DUN_Bowls_G_Destruct.dae",
+    "name": "LTS_DUN_Bowls_G_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G_Destruct.dae",
     "size": [
       1.9048140048980713,
@@ -471,7 +471,7 @@
     "uuid": "1d2e6cbc-8187-4a7f-a808-368d61b19531"
   },
   {
-    "name": "LTS_DUN_Bowls_G_Explode.dae",
+    "name": "LTS_DUN_Bowls_G_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G_Explode.dae",
     "size": [
       1.6361780166625977,
@@ -485,7 +485,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_H.dae",
+    "name": "LTS_DUN_Bowls_H",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H.dae",
     "size": [
       1.7391740083694458,
@@ -500,7 +500,7 @@
     "uuid": "a6a67d02-7202-4628-a45f-7cce5335e9a7"
   },
   {
-    "name": "LTS_DUN_Bowls_H_Destruct.dae",
+    "name": "LTS_DUN_Bowls_H_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H_Destruct.dae",
     "size": [
       1.7451090216636658,
@@ -515,7 +515,7 @@
     "uuid": "1be3f567-be58-43b2-9615-9640fb1be5c1"
   },
   {
-    "name": "LTS_DUN_Bowls_H_Explode.dae",
+    "name": "LTS_DUN_Bowls_H_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H_Explode.dae",
     "size": [
       1.7391740083694458,
@@ -529,7 +529,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_I.dae",
+    "name": "LTS_DUN_Bowls_I",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I.dae",
     "size": [
       1.598289966583252,
@@ -544,7 +544,7 @@
     "uuid": "9746b285-9502-478d-9cd0-c0c67cb37119"
   },
   {
-    "name": "LTS_DUN_Bowls_I_Destruct.dae",
+    "name": "LTS_DUN_Bowls_I_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I_Destruct.dae",
     "size": [
       2.382990002632141,
@@ -559,7 +559,7 @@
     "uuid": "02684d31-8fd1-4659-a8bf-bbf1757f94bc"
   },
   {
-    "name": "LTS_DUN_Bowls_I_Explode.dae",
+    "name": "LTS_DUN_Bowls_I_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I_Explode.dae",
     "size": [
       1.598289966583252,
@@ -573,7 +573,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Bowls_J.dae",
+    "name": "LTS_DUN_Bowls_J",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_J.dae",
     "size": [
       1.4182239770889282,
@@ -588,7 +588,7 @@
     "uuid": "6b42b7ea-cd5e-4e39-9c3c-d535940162d2"
   },
   {
-    "name": "LTS_DUN_Candlestick_A.dae",
+    "name": "LTS_DUN_Candlestick_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
     "size": [
       1.2258340120315552,
@@ -603,7 +603,7 @@
     "uuid": "3d9aa5fe-277f-4bef-8c4c-d2d4b9478971"
   },
   {
-    "name": "LTS_DUN_Candlestick_A_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A_Destruct.dae",
     "size": [
       2.542525053024292,
@@ -618,7 +618,7 @@
     "uuid": "dd135a3c-71fa-45e7-9853-b7868da0fe8f"
   },
   {
-    "name": "LTS_DUN_Candlestick_A_Explode.dae",
+    "name": "LTS_DUN_Candlestick_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A_Explode.dae",
     "size": [
       1.2258340120315552,
@@ -632,7 +632,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_B.dae",
+    "name": "LTS_DUN_Candlestick_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
     "size": [
       1.2258340120315552,
@@ -647,7 +647,7 @@
     "uuid": "b28a1e7a-0158-4cfd-b010-73d7360a3e1e"
   },
   {
-    "name": "LTS_DUN_Candlestick_B_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B_Destruct.dae",
     "size": [
       3.3860100507736206,
@@ -662,7 +662,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_DUN_Candlestick_B_Explode.dae",
+    "name": "LTS_DUN_Candlestick_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B_Explode.dae",
     "size": [
       1.2258340120315552,
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_C.dae",
+    "name": "LTS_DUN_Candlestick_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C.dae",
     "size": [
       1.0814679861068726,
@@ -691,7 +691,7 @@
     "uuid": "86879d38-4130-4589-a184-112750f79846"
   },
   {
-    "name": "LTS_DUN_Candlestick_C_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C_Destruct.dae",
     "size": [
       2.8587698936462402,
@@ -706,7 +706,7 @@
     "uuid": "9ae9867a-fee9-4002-ba99-6d0debb6c23f"
   },
   {
-    "name": "LTS_DUN_Candlestick_C_Explode.dae",
+    "name": "LTS_DUN_Candlestick_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C_Explode.dae",
     "size": [
       1.0698039531707764,
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_D.dae",
+    "name": "LTS_DUN_Candlestick_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
     "size": [
       1.0814679861068726,
@@ -735,7 +735,7 @@
     "uuid": "27f92609-0ba1-4f02-9ba4-5f43f49ff016"
   },
   {
-    "name": "LTS_DUN_Candlestick_D_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_D_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D_Destruct.dae",
     "size": [
       3.472417950630188,
@@ -750,7 +750,7 @@
     "uuid": "4d6045e4-191d-4a50-950f-9da86acaf99f"
   },
   {
-    "name": "LTS_DUN_Candlestick_D_Explode.dae",
+    "name": "LTS_DUN_Candlestick_D_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D_Explode.dae",
     "size": [
       1.0698039531707764,
@@ -764,7 +764,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_E.dae",
+    "name": "LTS_DUN_Candlestick_E",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
     "size": [
       1.2258340120315552,
@@ -779,7 +779,7 @@
     "uuid": "9b126cf0-4b87-49fa-99fa-60210ca2e766"
   },
   {
-    "name": "LTS_DUN_Candlestick_E_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_E_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E_Destruct.dae",
     "size": [
       3.320672035217285,
@@ -794,7 +794,7 @@
     "uuid": "55d9f7fd-ce99-4238-832f-83bb8ef2f22f"
   },
   {
-    "name": "LTS_DUN_Candlestick_E_Explode.dae",
+    "name": "LTS_DUN_Candlestick_E_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E_Explode.dae",
     "size": [
       1.2258340120315552,
@@ -808,7 +808,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_F.dae",
+    "name": "LTS_DUN_Candlestick_F",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F.dae",
     "size": [
       1.3998340368270874,
@@ -823,7 +823,7 @@
     "uuid": "987d8606-6b88-4806-8ade-b6ea8d3ac0cf"
   },
   {
-    "name": "LTS_DUN_Candlestick_F_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_F_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F_Destruct.dae",
     "size": [
       2.2420469522476196,
@@ -838,7 +838,7 @@
     "uuid": "8bb2d974-2d40-4837-a491-3ff2c691bfc0"
   },
   {
-    "name": "LTS_DUN_Candlestick_F_Explode.dae",
+    "name": "LTS_DUN_Candlestick_F_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F_Explode.dae",
     "size": [
       1.3887360095977783,
@@ -852,7 +852,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_G.dae",
+    "name": "LTS_DUN_Candlestick_G",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G.dae",
     "size": [
       1.2258340120315552,
@@ -867,7 +867,7 @@
     "uuid": "aefb110e-a9cf-41ee-b6ca-4607f6ebccb2"
   },
   {
-    "name": "LTS_DUN_Candlestick_G_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_G_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G_Destruct.dae",
     "size": [
       3.3645249605178833,
@@ -882,7 +882,7 @@
     "uuid": "a05962c4-8d2f-461f-b955-0129eadff995"
   },
   {
-    "name": "LTS_DUN_Candlestick_G_Explode.dae",
+    "name": "LTS_DUN_Candlestick_G_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G_Explode.dae",
     "size": [
       1.2258340120315552,
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candlestick_Wall_A.dae",
+    "name": "LTS_DUN_Candlestick_Wall_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
     "size": [
       0.6646980047225952,
@@ -911,7 +911,7 @@
     "uuid": "b7d278fb-cb14-439f-995f-758a1917f4fa"
   },
   {
-    "name": "LTS_DUN_Candlestick_Wall_A_Destruct.dae",
+    "name": "LTS_DUN_Candlestick_Wall_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A_Destruct.dae",
     "size": [
       1.5993149876594543,
@@ -926,7 +926,7 @@
     "uuid": "faf9ef40-63a9-478a-a69b-7504e0777333"
   },
   {
-    "name": "LTS_DUN_Candlestick_Wall_A_Explode.dae",
+    "name": "LTS_DUN_Candlestick_Wall_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A_Explode.dae",
     "size": [
       0.6165050296112895,
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candles_A.dae",
+    "name": "LTS_DUN_Candles_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_A.dae",
     "size": [
       0.18649600446224213,
@@ -955,7 +955,7 @@
     "uuid": "5970e7e5-444a-42c6-ab0a-fc642c7c6609"
   },
   {
-    "name": "LTS_DUN_Candles_B.dae",
+    "name": "LTS_DUN_Candles_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_B.dae",
     "size": [
       0.33108600974082947,
@@ -970,7 +970,7 @@
     "uuid": "7deb9590-2f6e-4913-a444-98eb100ee203"
   },
   {
-    "name": "LTS_DUN_Candles_C.dae",
+    "name": "LTS_DUN_Candles_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_C.dae",
     "size": [
       0.33108600974082947,
@@ -985,7 +985,7 @@
     "uuid": "34df8770-06c5-4752-a7b6-25d4f64d64dc"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_A.dae",
+    "name": "LTS_DUN_Candles_Cluster_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
     "size": [
       0.6348670125007629,
@@ -1000,7 +1000,7 @@
     "uuid": "4e77f7a0-29b4-4204-98e2-a84fd3657fa3"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_A_Destruct.dae",
+    "name": "LTS_DUN_Candles_Cluster_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A_Destruct.dae",
     "size": [
       0.9056800007820129,
@@ -1015,7 +1015,7 @@
     "uuid": "316bd5c6-42d3-491c-a42f-03c477782014"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_A_Explode.dae",
+    "name": "LTS_DUN_Candles_Cluster_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A_Explode.dae",
     "size": [
       0.4377729892730713,
@@ -1029,7 +1029,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_B.dae",
+    "name": "LTS_DUN_Candles_Cluster_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
     "size": [
       0.5049059987068176,
@@ -1044,7 +1044,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_B_Destruct.dae",
+    "name": "LTS_DUN_Candles_Cluster_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B_Destruct.dae",
     "size": [
       0.7491399794816971,
@@ -1059,7 +1059,7 @@
     "uuid": "155ad30e-a946-47ed-80f3-1d1c34ee1a64"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_B_Explode.dae",
+    "name": "LTS_DUN_Candles_Cluster_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B_Explode.dae",
     "size": [
       0.13836600631475449,
@@ -1073,7 +1073,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_C.dae",
+    "name": "LTS_DUN_Candles_Cluster_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
     "size": [
       0.6543140113353729,
@@ -1088,7 +1088,7 @@
     "uuid": "80971c3e-2079-4aa8-b142-50473f1273dc"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_C_Destruct.dae",
+    "name": "LTS_DUN_Candles_Cluster_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C_Destruct.dae",
     "size": [
       0.6447229981422424,
@@ -1103,7 +1103,7 @@
     "uuid": "e145cb62-7615-4216-88cb-58f57d62a222"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_C_Explode.dae",
+    "name": "LTS_DUN_Candles_Cluster_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C_Explode.dae",
     "size": [
       0.45157201401889324,
@@ -1117,7 +1117,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_D.dae",
+    "name": "LTS_DUN_Candles_Cluster_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
     "size": [
       0.4138149917125702,
@@ -1132,7 +1132,7 @@
     "uuid": "c6c06c11-5b2b-4414-992b-6e5c9c8063ac"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_D_Destruct.dae",
+    "name": "LTS_DUN_Candles_Cluster_D_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D_Destruct.dae",
     "size": [
       0.7864309847354889,
@@ -1147,7 +1147,7 @@
     "uuid": "af0ca497-3c32-47ae-81ab-d53aa9af715f"
   },
   {
-    "name": "LTS_DUN_Candles_Cluster_D_Explode.dae",
+    "name": "LTS_DUN_Candles_Cluster_D_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D_Explode.dae",
     "size": [
       0.2190020065754652,
@@ -1161,7 +1161,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Candles_D.dae",
+    "name": "LTS_DUN_Candles_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_D.dae",
     "size": [
       0.13533200323581696,
@@ -1176,7 +1176,7 @@
     "uuid": "45ae4cf1-9fbd-4f80-b63f-6ca422f78966"
   },
   {
-    "name": "LTS_DUN_Candles_E.dae",
+    "name": "LTS_DUN_Candles_E",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_E.dae",
     "size": [
       0.22025100141763687,
@@ -1191,7 +1191,7 @@
     "uuid": "66843ac6-aca6-4003-9ab8-92f5ee1c37ba"
   },
   {
-    "name": "LTS_DUN_Candles_F.dae",
+    "name": "LTS_DUN_Candles_F",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_F.dae",
     "size": [
       0.24857600033283234,
@@ -1206,7 +1206,7 @@
     "uuid": "ba5f854c-9b72-475f-8a11-07ed53bc6345"
   },
   {
-    "name": "LTS_DUN_Chandelier_A.dae",
+    "name": "LTS_DUN_Chandelier_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
     "size": [
       1.4251960515975952,
@@ -1221,7 +1221,7 @@
     "uuid": "54d1aee4-3015-47ec-bdc2-8999582acbe0"
   },
   {
-    "name": "LTS_DUN_Chandelier_A_Destruct.dae",
+    "name": "LTS_DUN_Chandelier_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_Destruct.dae",
     "size": [
       2.703922986984253,
@@ -1236,7 +1236,7 @@
     "uuid": "4ced85af-b955-4af9-806d-599d1eb68184"
   },
   {
-    "name": "LTS_DUN_Chandelier_A_DMG.dae",
+    "name": "LTS_DUN_Chandelier_A_DMG",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_DMG.dae",
     "size": [
       2.085599958896637,
@@ -1251,7 +1251,7 @@
     "uuid": "c0878dfd-6365-4ff5-8230-6d8c0e65afbc"
   },
   {
-    "name": "LTS_DUN_Chandelier_A_Explode.dae",
+    "name": "LTS_DUN_Chandelier_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A_Explode.dae",
     "size": [
       1.4251960515975952,
@@ -1265,7 +1265,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Chandelier_B.dae",
+    "name": "LTS_DUN_Chandelier_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
     "size": [
       1.4908980131149292,
@@ -1280,7 +1280,7 @@
     "uuid": "8aa49514-f69a-408b-98b2-67946d966522"
   },
   {
-    "name": "LTS_DUN_Chandelier_B_Destruct.dae",
+    "name": "LTS_DUN_Chandelier_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B_Destruct.dae",
     "size": [
       3.045340895652771,
@@ -1295,7 +1295,7 @@
     "uuid": "701e8405-2be9-47f3-b65e-38778d4b6596"
   },
   {
-    "name": "LTS_DUN_Chandelier_B_Explode.dae",
+    "name": "LTS_DUN_Chandelier_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B_Explode.dae",
     "size": [
       1.4790780544281006,
@@ -1309,7 +1309,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Chandelier_C.dae",
+    "name": "LTS_DUN_Chandelier_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
     "size": [
       2.3182098865509033,
@@ -1324,7 +1324,7 @@
     "uuid": "054d189d-4c0e-4013-8f38-c62db5be2dd2"
   },
   {
-    "name": "LTS_DUN_Chandelier_Chain_A.dae",
+    "name": "LTS_DUN_Chandelier_Chain_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Chain_A.dae",
     "size": [
       0.07109799981117249,
@@ -1339,7 +1339,7 @@
     "uuid": "a7882d0e-2c3b-47b2-b08e-aea07ae6e72f"
   },
   {
-    "name": "LTS_DUN_Chandelier_C_Destruct.dae",
+    "name": "LTS_DUN_Chandelier_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C_Destruct.dae",
     "size": [
       4.966422080993652,
@@ -1354,7 +1354,7 @@
     "uuid": "255f92bd-a07b-4607-bb35-7f9549f21369"
   },
   {
-    "name": "LTS_DUN_Chandelier_C_Explode.dae",
+    "name": "LTS_DUN_Chandelier_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C_Explode.dae",
     "size": [
       2.3063900470733643,
@@ -1368,7 +1368,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Chandelier_D.dae",
+    "name": "LTS_DUN_Chandelier_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_D.dae",
     "size": [
       5.343321800231934,
@@ -1382,7 +1382,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Chandelier_E.dae",
+    "name": "LTS_DUN_Chandelier_E",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_E.dae",
     "size": [
       10.0514497756958,
@@ -1397,7 +1397,7 @@
     "uuid": "5ac3ca54-36ed-4dab-9d2f-677dee836d6e"
   },
   {
-    "name": "LTS_DUN_Chandelier_Hinge_A.dae",
+    "name": "LTS_DUN_Chandelier_Hinge_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Hinge_A.dae",
     "size": [
       0.21874099969863892,
@@ -1412,7 +1412,7 @@
     "uuid": "5e7a35b1-649d-46ba-9739-f58fe9d23080"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_A.dae",
+    "name": "LTS_DUN_Hanging_Bowls_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A.dae",
     "size": [
       0.9942489862442017,
@@ -1427,7 +1427,7 @@
     "uuid": "e68026c9-a569-49b1-b623-520177fb551c"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_A_Destruct.dae",
+    "name": "LTS_DUN_Hanging_Bowls_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A_Destruct.dae",
     "size": [
       1.0063659846782684,
@@ -1442,7 +1442,7 @@
     "uuid": "6acb7246-1ce0-4458-be27-2008529aca20"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_A_Explode.dae",
+    "name": "LTS_DUN_Hanging_Bowls_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A_Explode.dae",
     "size": [
       0.9845100045204163,
@@ -1456,7 +1456,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_B.dae",
+    "name": "LTS_DUN_Hanging_Bowls_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
     "size": [
       1.2552859783172607,
@@ -1471,7 +1471,7 @@
     "uuid": "6c020872-87ed-41a5-a0f4-1b38a8d099c0"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_B_Destruct.dae",
+    "name": "LTS_DUN_Hanging_Bowls_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B_Destruct.dae",
     "size": [
       2.325834035873413,
@@ -1486,7 +1486,7 @@
     "uuid": "6f3036ab-842f-4a09-9d7e-954e108680bd"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_B_Explode.dae",
+    "name": "LTS_DUN_Hanging_Bowls_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B_Explode.dae",
     "size": [
       1.2469199895858765,
@@ -1500,7 +1500,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_C.dae",
+    "name": "LTS_DUN_Hanging_Bowls_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C.dae",
     "size": [
       1.5458959937095642,
@@ -1515,7 +1515,7 @@
     "uuid": "59a595d5-3b27-4225-85f9-e0ddd9d4fbbe"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_A.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_A.dae",
     "size": [
       0.2692840099334717,
@@ -1530,7 +1530,7 @@
     "uuid": "b442f5f2-28aa-4b83-a658-88f21d5134dc"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_B.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_B.dae",
     "size": [
       0.07109799981117249,
@@ -1545,7 +1545,7 @@
     "uuid": "aa99ddc5-71ca-4e8e-a636-977905098904"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_C.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_C.dae",
     "size": [
       0.2794559895992279,
@@ -1560,7 +1560,7 @@
     "uuid": "5fded4b3-17ab-4e3f-aeb9-62ee834d80a4"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_D.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_D.dae",
     "size": [
       0.2692840099334717,
@@ -1575,7 +1575,7 @@
     "uuid": "88c9df04-136c-414f-acee-edc8bec52752"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_E.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_E",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_E.dae",
     "size": [
       0.2838520109653473,
@@ -1590,7 +1590,7 @@
     "uuid": "9688c8a1-35eb-47aa-814d-0934c05d4fa1"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Chain_Ring_A.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Chain_Ring_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_Ring_A.dae",
     "size": [
       0.2878529876470566,
@@ -1605,7 +1605,7 @@
     "uuid": "0aa265f2-2e42-40d1-8c66-4d5330be0212"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_C_Destruct.dae",
+    "name": "LTS_DUN_Hanging_Bowls_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C_Destruct.dae",
     "size": [
       2.1650919914245605,
@@ -1620,7 +1620,7 @@
     "uuid": "a0b2d013-ead6-44df-80bd-2f6ed889ab51"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_C_Explode.dae",
+    "name": "LTS_DUN_Hanging_Bowls_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C_Explode.dae",
     "size": [
       1.5451500415802002,
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_D.dae",
+    "name": "LTS_DUN_Hanging_Bowls_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D.dae",
     "size": [
       1.302610993385315,
@@ -1649,7 +1649,7 @@
     "uuid": "56960503-2ce1-4eb7-9b55-8b50f0e513b0"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_D_Destruct.dae",
+    "name": "LTS_DUN_Hanging_Bowls_D_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Destruct.dae",
     "size": [
       1.8767000436782837,
@@ -1664,7 +1664,7 @@
     "uuid": "3a12d501-4e55-42e0-aaa5-2c0eb4b85e2d"
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_D_Explode.dae",
+    "name": "LTS_DUN_Hanging_Bowls_D_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Explode.dae",
     "size": [
       1.293138027191162,
@@ -1678,7 +1678,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_D_Vista_A.dae",
+    "name": "LTS_DUN_Hanging_Bowls_D_Vista_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D_Vista_A.dae",
     "size": [
       1.302610993385315,
@@ -1692,7 +1692,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Hanging_Bowls_Hinge_A.dae",
+    "name": "LTS_DUN_Hanging_Bowls_Hinge_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Hinge_A.dae",
     "size": [
       0.21874099969863892,
@@ -1707,7 +1707,7 @@
     "uuid": "769e6ae6-0cdb-4e4b-ab06-10c1b8bead8f"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_A.dae",
+    "name": "LTS_DUN_Wall_Bowls_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
     "size": [
       0.7306050062179565,
@@ -1722,7 +1722,7 @@
     "uuid": "2fa884a9-6438-4c0d-a91c-3523de19cc74"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_A_Destruct.dae",
+    "name": "LTS_DUN_Wall_Bowls_A_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A_Destruct.dae",
     "size": [
       1.5920429825782776,
@@ -1737,7 +1737,7 @@
     "uuid": "e42e4e3e-5b16-4db9-a858-a14d84b9b33e"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_A_Explode.dae",
+    "name": "LTS_DUN_Wall_Bowls_A_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A_Explode.dae",
     "size": [
       0.7390640061348677,
@@ -1751,7 +1751,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_B.dae",
+    "name": "LTS_DUN_Wall_Bowls_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
     "size": [
       0.8638280034065247,
@@ -1766,7 +1766,7 @@
     "uuid": "32fc5314-17de-4a3c-844b-78b28ac44572"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_B_Destruct.dae",
+    "name": "LTS_DUN_Wall_Bowls_B_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B_Destruct.dae",
     "size": [
       1.9105899333953857,
@@ -1781,7 +1781,7 @@
     "uuid": "6baabe7e-1cb6-4227-9bef-d9de620cfbc2"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_B_Explode.dae",
+    "name": "LTS_DUN_Wall_Bowls_B_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B_Explode.dae",
     "size": [
       0.8731660032644868,
@@ -1795,7 +1795,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_C.dae",
+    "name": "LTS_DUN_Wall_Bowls_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
     "size": [
       0.8770310282707214,
@@ -1810,7 +1810,7 @@
     "uuid": "6a1000d4-6e55-48b0-a04e-cc9b6f92aa6f"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_C_Destruct.dae",
+    "name": "LTS_DUN_Wall_Bowls_C_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C_Destruct.dae",
     "size": [
       2.0269559621810913,
@@ -1825,7 +1825,7 @@
     "uuid": "1cc211fd-26b7-4e90-b4f2-b16ffb28b4f8"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_C_Explode.dae",
+    "name": "LTS_DUN_Wall_Bowls_C_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C_Explode.dae",
     "size": [
       0.8836880284361541,
@@ -1839,7 +1839,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_D.dae",
+    "name": "LTS_DUN_Wall_Bowls_D",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
     "size": [
       1.0417909622192383,
@@ -1854,7 +1854,7 @@
     "uuid": "fef058ec-35dc-451c-a0d1-2f2786a4eb7f"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_D_Destruct.dae",
+    "name": "LTS_DUN_Wall_Bowls_D_Destruct",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D_Destruct.dae",
     "size": [
       2.081494987010956,
@@ -1869,7 +1869,7 @@
     "uuid": "a1d58e10-886a-4125-8b3e-3fd3ebe119b4"
   },
   {
-    "name": "LTS_DUN_Wall_Bowls_D_Explode.dae",
+    "name": "LTS_DUN_Wall_Bowls_D_Explode",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D_Explode.dae",
     "size": [
       1.0447159621398896,
@@ -1883,7 +1883,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Wall_Holder_A.dae",
+    "name": "LTS_DUN_Wall_Holder_A",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_A.dae",
     "size": [
       0.987089991569519,
@@ -1898,7 +1898,7 @@
     "uuid": "d2793733-ad72-4d10-907d-c3c0aa426f31"
   },
   {
-    "name": "LTS_DUN_Wall_Holder_B.dae",
+    "name": "LTS_DUN_Wall_Holder_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_B.dae",
     "size": [
       1.5493049621582031,
@@ -1913,7 +1913,7 @@
     "uuid": "3969ae1b-c251-4fea-86c7-0f27fe8e7c8a"
   },
   {
-    "name": "LTS_DUN_Wall_Holder_C.dae",
+    "name": "LTS_DUN_Wall_Holder_C",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Holder_C.dae",
     "size": [
       2.0135529041290283,
@@ -1928,7 +1928,7 @@
     "uuid": "e0398a9d-61f0-4afd-9a9f-7677f0171537"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A.dae",
     "size": [
       0.4418399930000305,
@@ -1943,7 +1943,7 @@
     "uuid": "3b89a5b7-e0b8-47f3-be55-070f9667a94a"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Destruct.dae",
     "size": [
       0.831497997045517,
@@ -1958,7 +1958,7 @@
     "uuid": "b06e267c-2fb9-49fa-beed-feafb334ac7f"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Explode.dae",
     "size": [
       0.4418399930000305,
@@ -1972,7 +1972,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A.dae",
     "size": [
       0.5156779885292053,
@@ -1987,7 +1987,7 @@
     "uuid": "d012e575-6115-42a5-9183-50dd431c140a"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Destruct.dae",
     "size": [
       1.1414390206336975,
@@ -2002,7 +2002,7 @@
     "uuid": "6d86fea3-eed7-4827-a278-f06e75047a78"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A_Explode.dae",
     "size": [
       0.5156779885292053,
@@ -2016,7 +2016,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A.dae",
     "size": [
       0.20887999748811126,
@@ -2031,7 +2031,7 @@
     "uuid": "32daab24-e429-4d39-81e8-132aa642a65b"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Destruct.dae",
     "size": [
       0.4407159835100174,
@@ -2046,7 +2046,7 @@
     "uuid": "9d6d8f2f-292f-4993-b28d-006582fc19b3"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A_Explode.dae",
     "size": [
       0.20887999748811126,
@@ -2060,7 +2060,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_B.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B.dae",
     "size": [
       0.25454801321029663,
@@ -2075,7 +2075,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_B_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B_Destruct.dae",
     "size": [
       0.7472690045833588,
@@ -2090,7 +2090,7 @@
     "uuid": "713fb3ad-02f2-4750-a563-31a09c41926e"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Common_B_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Common_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_B_Explode.dae",
     "size": [
       0.25454801321029663,
@@ -2104,7 +2104,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A.dae",
     "size": [
       0.4425959885120392,
@@ -2119,7 +2119,7 @@
     "uuid": "1de375c3-a8eb-42b3-8089-4889131f6f03"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Destruct.dae",
     "size": [
       1.0605550408363342,
@@ -2134,7 +2134,7 @@
     "uuid": "c5e42a7d-801c-428d-a9e6-1d3b144eb8a0"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Explode.dae",
     "size": [
       0.4425959885120392,
@@ -2148,7 +2148,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A.dae",
     "size": [
       0.5196800231933594,
@@ -2163,7 +2163,7 @@
     "uuid": "24713e2e-99e4-4e73-a53b-c31d3f45bbc4"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Destruct.dae",
     "size": [
       0.9751289784908295,
@@ -2178,7 +2178,7 @@
     "uuid": "6cf3eb96-96eb-4ff2-a628-07b68ab5a81a"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_Explode.dae",
     "size": [
       0.5196800231933594,
@@ -2192,7 +2192,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A.dae",
     "size": [
       0.1839460066985339,
@@ -2207,7 +2207,7 @@
     "uuid": "b6f1f91d-5871-4a9e-b4ae-138dfb1619ec"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Destruct.dae",
     "size": [
       0.6912009865045547,
@@ -2222,7 +2222,7 @@
     "uuid": "8fdb6160-9d05-4ce2-90a3-2bfe79bfa4e3"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_Explode.dae",
     "size": [
       0.1816620014142245,
@@ -2236,7 +2236,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_B.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B.dae",
     "size": [
       0.309689998626709,
@@ -2251,7 +2251,7 @@
     "uuid": "bdaf6927-98ee-4489-afdf-206e0e33872d"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Destruct.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B_Destruct.dae",
     "size": [
       0.5024330168962479,
@@ -2266,7 +2266,7 @@
     "uuid": "41b21462-c0d0-4988-96ba-7646b439a259"
   },
   {
-    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Explode.dae",
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B_Explode.dae",
     "size": [
       0.2575879991054535,
@@ -2280,7 +2280,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_B.dae",
+    "name": "LTS_GEN_City_Lantern_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B.dae",
     "size": [
       0.28093400597572327,
@@ -2295,7 +2295,7 @@
     "uuid": "755f32c6-7f53-40a0-8141-85d892c9c361"
   },
   {
-    "name": "LTS_GEN_City_Lantern_B_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B_Destruct.dae",
     "size": [
       0.7678010165691376,
@@ -2310,7 +2310,7 @@
     "uuid": "ad5c92d4-c9fd-4b3a-9ef5-b530d1e7cdba"
   },
   {
-    "name": "LTS_GEN_City_Lantern_B_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_B_Explode.dae",
     "size": [
       0.28093400597572327,
@@ -2324,7 +2324,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_C_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C_Destruct.dae",
     "size": [
       0.9398240149021149,
@@ -2339,7 +2339,7 @@
     "uuid": "2d58f2e1-4574-4af4-b460-959146a41f0d"
   },
   {
-    "name": "LTS_GEN_City_Lantern_C_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C_Explode.dae",
     "size": [
       0.3194980025291443,
@@ -2353,7 +2353,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Destruct.dae",
     "size": [
       3.3596760034561157,
@@ -2368,7 +2368,7 @@
     "uuid": "d5994401-e7ce-433e-b218-bfd1d25531cc"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Explode.dae",
     "size": [
       1.1611990332603455,
@@ -2382,7 +2382,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Destruct.dae",
     "size": [
       2.8495800495147705,
@@ -2397,7 +2397,7 @@
     "uuid": "c5811f72-3478-46d0-956a-c124ac7512bf"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A_Explode.dae",
     "size": [
       1.3490099906921387,
@@ -2411,7 +2411,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_B_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B_Destruct.dae",
     "size": [
       2.575576066970825,
@@ -2426,7 +2426,7 @@
     "uuid": "85b8076c-fa3c-4dd3-888c-e0beffa64073"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_B_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B_Explode.dae",
     "size": [
       1.3794639706611633,
@@ -2440,7 +2440,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_C_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C_Destruct.dae",
     "size": [
       3.5314509868621826,
@@ -2455,7 +2455,7 @@
     "uuid": "2a1d304e-e01b-41ca-97eb-ee03efe60b63"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_C_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C_Explode.dae",
     "size": [
       1.1305570006370544,
@@ -2469,7 +2469,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_A_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A_Destruct.dae",
     "size": [
       1.991051971912384,
@@ -2484,7 +2484,7 @@
     "uuid": "5ca93769-43e6-469a-883f-f51b21a8fa54"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_A_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A_Explode.dae",
     "size": [
       1.303709028288722,
@@ -2498,7 +2498,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_B_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B_Destruct.dae",
     "size": [
       1.8867679983377457,
@@ -2513,7 +2513,7 @@
     "uuid": "c62f2f00-9d32-45aa-b770-19b3f11d925b"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_B_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B_Explode.dae",
     "size": [
       1.4013279676437378,
@@ -2527,7 +2527,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_C_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C_Destruct.dae",
     "size": [
       1.3841760158538818,
@@ -2542,7 +2542,7 @@
     "uuid": "d48386fc-4ac9-418b-97a4-638d41e41f52"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_C_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C_Explode.dae",
     "size": [
       0.6019130155909806,
@@ -2556,7 +2556,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_D_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_D_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D_Destruct.dae",
     "size": [
       2.391049027442932,
@@ -2571,7 +2571,7 @@
     "uuid": "3d2fa3e8-94fc-4c08-b287-cbe6bbe48e80"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_D_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_D_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D_Explode.dae",
     "size": [
       1.3664569854736328,
@@ -2585,7 +2585,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_A.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A.dae",
     "size": [
       0.6372780203819275,
@@ -2600,7 +2600,7 @@
     "uuid": "be496ad1-8367-430f-ab76-967d259f64bc"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_A_Destruct.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A_Destruct.dae",
     "size": [
       1.55458402633667,
@@ -2615,7 +2615,7 @@
     "uuid": "2812319b-fd91-4d52-8d3f-f25ee4f9654e"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_A_Explode.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_A_Explode.dae",
     "size": [
       0.6372780203819275,
@@ -2629,7 +2629,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_B.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B.dae",
     "size": [
       0.9533519744873047,
@@ -2644,7 +2644,7 @@
     "uuid": "63ef5abf-f51c-4d11-a393-c8c13f530020"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_B_Destruct.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B_Destruct.dae",
     "size": [
       2.2381529808044434,
@@ -2659,7 +2659,7 @@
     "uuid": "ab4ac4e0-f9af-424e-b205-e907ce353dad"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_B_Explode.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_B_Explode.dae",
     "size": [
       0.9533519744873047,
@@ -2673,7 +2673,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_C.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C.dae",
     "size": [
       0.5293279886245728,
@@ -2688,7 +2688,7 @@
     "uuid": "45d48cb3-7d74-4b06-9822-c6e5a9d18530"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_C_Destruct.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C_Destruct.dae",
     "size": [
       1.6278990507125854,
@@ -2703,7 +2703,7 @@
     "uuid": "bdd69c1a-84b8-44d4-8dd9-9bba3d1af51a"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_C_Explode.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_C_Explode.dae",
     "size": [
       0.5292780101299286,
@@ -2717,7 +2717,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_D.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_D",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D.dae",
     "size": [
       0.7816839814186096,
@@ -2732,7 +2732,7 @@
     "uuid": "d058f3bf-42e3-4a91-a6e3-87f67da0142d"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_D_Destruct.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_D_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D_Destruct.dae",
     "size": [
       2.331358015537262,
@@ -2747,7 +2747,7 @@
     "uuid": "1a031b70-7706-467c-b7d2-eaf307f677e6"
   },
   {
-    "name": "LTS_GEN_Crystal_Vase_Green_D_Explode.dae",
+    "name": "LTS_GEN_Crystal_Vase_Green_D_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Crystal_Vase_Green_A/Resources/LTS_GEN_Crystal_Vase_Green_D_Explode.dae",
     "size": [
       0.7816839814186096,
@@ -2761,7 +2761,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Fire_Basket_A_Destruct.dae",
+    "name": "LTS_GEN_Fire_Basket_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A_Destruct.dae",
     "size": [
       1.1675920486450195,
@@ -2776,7 +2776,7 @@
     "uuid": "c4cad16e-499c-41bd-ab6c-b2a6746c05c4"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_A_Explode.dae",
+    "name": "LTS_GEN_Fire_Basket_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A_Explode.dae",
     "size": [
       0.8123269975185394,
@@ -2790,7 +2790,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Fire_Basket_B_Destruct.dae",
+    "name": "LTS_GEN_Fire_Basket_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B_Destruct.dae",
     "size": [
       1.178745985031128,
@@ -2805,7 +2805,7 @@
     "uuid": "94f5134f-1892-426b-8649-13ec872d80fa"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_B_Explode.dae",
+    "name": "LTS_GEN_Fire_Basket_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B_Explode.dae",
     "size": [
       0.7052639722824097,
@@ -2819,7 +2819,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Fire_Basket_C_Destruct.dae",
+    "name": "LTS_GEN_Fire_Basket_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C_Destruct.dae",
     "size": [
       4.020155906677246,
@@ -2834,7 +2834,7 @@
     "uuid": "108e61ff-a376-43a6-8c49-841ee855ef24"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_C_Explode.dae",
+    "name": "LTS_GEN_Fire_Basket_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C_Explode.dae",
     "size": [
       2.483687996864319,
@@ -2848,7 +2848,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_A.dae",
+    "name": "LTS_GEN_Gem_Glowing_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A.dae",
     "size": [
       0.5043600052595139,
@@ -2863,7 +2863,7 @@
     "uuid": "ba81625d-e066-4d76-9693-f33b149c025a"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_A_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A_Destruct.dae",
     "size": [
       0.9967989921569824,
@@ -2878,7 +2878,7 @@
     "uuid": "0d56891f-e798-4ffa-94ac-09e5ed6f1d46"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_A_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A_Explode.dae",
     "size": [
       0.49035999178886414,
@@ -2892,7 +2892,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_B.dae",
+    "name": "LTS_GEN_Gem_Glowing_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B.dae",
     "size": [
       0.6924030184745789,
@@ -2907,7 +2907,7 @@
     "uuid": "f31aa231-f511-4c69-96e8-34563acb01aa"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_B_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B_Destruct.dae",
     "size": [
       1.3727000057697296,
@@ -2922,7 +2922,7 @@
     "uuid": "e92cee5f-4e7a-46d5-9f61-6da9319cd4c2"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_B_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B_Explode.dae",
     "size": [
       0.6848180294036865,
@@ -2936,7 +2936,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_C.dae",
+    "name": "LTS_GEN_Gem_Glowing_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C.dae",
     "size": [
       0.4911870062351227,
@@ -2951,7 +2951,7 @@
     "uuid": "73f05807-1d69-427f-b586-f61c89142ad8"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_C_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C_Destruct.dae",
     "size": [
       1.0376099944114685,
@@ -2966,7 +2966,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_C_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C_Explode.dae",
     "size": [
       0.4866180121898651,
@@ -2980,7 +2980,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_D.dae",
+    "name": "LTS_GEN_Gem_Glowing_D",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D.dae",
     "size": [
       0.5835370123386383,
@@ -2995,7 +2995,7 @@
     "uuid": "67c050c7-ad41-4c48-83bb-e031f791d12a"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_D_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_D_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D_Destruct.dae",
     "size": [
       1.0087480247020721,
@@ -3010,7 +3010,7 @@
     "uuid": "7cc4b270-71c0-4732-9ecc-92a846728733"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_D_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_D_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D_Explode.dae",
     "size": [
       0.5812940001487732,
@@ -3024,7 +3024,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_A.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
     "size": [
       1.0944010019302368,
@@ -3039,7 +3039,7 @@
     "uuid": "9ef7a1c5-c2fb-4066-8d4d-5c02b362657e"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_A_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A_Destruct.dae",
     "size": [
       3.499622941017151,
@@ -3054,7 +3054,7 @@
     "uuid": "bc49ee8c-8f64-44e1-a261-ce26e3b74c1d"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_A_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A_Explode.dae",
     "size": [
       1.0932719707489014,
@@ -3068,7 +3068,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_B.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
     "size": [
       1.3709440231323242,
@@ -3083,7 +3083,7 @@
     "uuid": "aca9db37-c967-47e3-99e5-81f67d532392"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_B_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B_Destruct.dae",
     "size": [
       2.5248709321022034,
@@ -3098,7 +3098,7 @@
     "uuid": "8238af16-f077-4166-a9b9-7b6a358c4457"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_B_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B_Explode.dae",
     "size": [
       1.363122045993805,
@@ -3112,7 +3112,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_C.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C.dae",
     "size": [
       1.5491830110549927,
@@ -3127,7 +3127,7 @@
     "uuid": "bef9e643-19de-492b-853e-a0242328ff97"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_C_Destruct.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C_Destruct.dae",
     "size": [
       4.036197900772095,
@@ -3142,7 +3142,7 @@
     "uuid": "f30d35c9-59d0-4e38-95d2-a0caaedb7da8"
   },
   {
-    "name": "LTS_GEN_Gem_Glowing_Family_C_Explode.dae",
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C_Explode.dae",
     "size": [
       1.5283129513263702,
@@ -3156,7 +3156,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Lantern_A.dae",
+    "name": "LTS_GEN_Lantern_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A.dae",
     "size": [
       0.4080379903316498,
@@ -3171,7 +3171,7 @@
     "uuid": "3a25abfa-bf78-4bb5-a44e-71e9703bddd5"
   },
   {
-    "name": "LTS_GEN_Lantern_A_Destruct.dae",
+    "name": "LTS_GEN_Lantern_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A_Destruct.dae",
     "size": [
       1.4414340257644653,
@@ -3186,7 +3186,7 @@
     "uuid": "53d69117-04bf-4382-992d-90791b37ed07"
   },
   {
-    "name": "LTS_GEN_Lantern_A_Explode.dae",
+    "name": "LTS_GEN_Lantern_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A_Explode.dae",
     "size": [
       0.4080379903316498,
@@ -3200,7 +3200,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Lantern_B.dae",
+    "name": "LTS_GEN_Lantern_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B.dae",
     "size": [
       0.4080369919538498,
@@ -3215,7 +3215,7 @@
     "uuid": "1fe2c9a6-0ba7-4608-8a30-d9199c274117"
   },
   {
-    "name": "LTS_GEN_Lantern_B_Destruct.dae",
+    "name": "LTS_GEN_Lantern_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B_Destruct.dae",
     "size": [
       1.5778760612010956,
@@ -3230,7 +3230,7 @@
     "uuid": "7cdc935c-a92f-407d-8b2e-423c9d036769"
   },
   {
-    "name": "LTS_GEN_Lantern_B_Explode.dae",
+    "name": "LTS_GEN_Lantern_B_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B_Explode.dae",
     "size": [
       0.4080369919538498,
@@ -3244,7 +3244,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_Sconce_Wall_A.dae",
+    "name": "LTS_GEN_Sconce_Wall_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A.dae",
     "size": [
       0.3592720031738281,
@@ -3259,7 +3259,7 @@
     "uuid": "27c9e0db-eec7-4b1e-97be-ff74e3773284"
   },
   {
-    "name": "LTS_GEN_Sconce_Wall_A_Destruct.dae",
+    "name": "LTS_GEN_Sconce_Wall_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A_Destruct.dae",
     "size": [
       1.7030070424079895,
@@ -3274,7 +3274,7 @@
     "uuid": "79dd2dcf-110d-4d05-b4fd-8b9750e62f0f"
   },
   {
-    "name": "LTS_GEN_Sconce_Wall_A_Explode.dae",
+    "name": "LTS_GEN_Sconce_Wall_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A_Explode.dae",
     "size": [
       0.3592720031738281,
@@ -3288,7 +3288,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_SpearTorch_A.dae",
+    "name": "LTS_GEN_SpearTorch_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_SpearTorch_ABC/Resources/LTS_GEN_SpearTorch_A.dae",
     "size": [
       0.14452600479125977,
@@ -3303,7 +3303,7 @@
     "uuid": "9a8bbeba-850c-402f-bac5-ff15696e6497"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Cluster_A.dae",
+    "name": "LTS_GEN_Spider_Eggs_Cluster_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_A.dae",
     "size": [
       2.4506669640541077,
@@ -3318,7 +3318,7 @@
     "uuid": "b0d55901-0a23-4361-8345-2eed70a2bc76"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Cluster_A_Destruct.dae",
+    "name": "LTS_GEN_Spider_Eggs_Cluster_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_A_Destruct.dae",
     "size": [
       2.4506669640541077,
@@ -3333,7 +3333,7 @@
     "uuid": "0b41a1c9-e52c-4a92-bb40-f36c657cb032"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Cluster_B.dae",
+    "name": "LTS_GEN_Spider_Eggs_Cluster_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_B.dae",
     "size": [
       3.0280929803848267,
@@ -3348,7 +3348,7 @@
     "uuid": "2044bba0-096e-4171-affa-9729bf79b251"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Cluster_B_Destruct.dae",
+    "name": "LTS_GEN_Spider_Eggs_Cluster_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Cluster_B_Destruct.dae",
     "size": [
       3.0280929803848267,
@@ -3363,7 +3363,7 @@
     "uuid": "f0fee1d0-e722-4897-ba3f-0a0055ae5d8a"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Hanging_A.dae",
+    "name": "LTS_GEN_Spider_Eggs_Hanging_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_A.dae",
     "size": [
       1.1416890025138855,
@@ -3378,7 +3378,7 @@
     "uuid": "c3c2969b-ae23-4d09-80dd-189df9614b9f"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Hanging_A_Destruct.dae",
+    "name": "LTS_GEN_Spider_Eggs_Hanging_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_A_Destruct.dae",
     "size": [
       1.1416890025138855,
@@ -3393,7 +3393,7 @@
     "uuid": "3d221f9e-1f15-43f4-ad82-016033ab59c6"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Hanging_B.dae",
+    "name": "LTS_GEN_Spider_Eggs_Hanging_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_B.dae",
     "size": [
       6.694590091705322,
@@ -3408,7 +3408,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_GEN_Spider_Eggs_Hanging_B_Destruct.dae",
+    "name": "LTS_GEN_Spider_Eggs_Hanging_B_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Spider_Eggs_ABC/Resources/LTS_GEN_Spider_Eggs_Hanging_B_Destruct.dae",
     "size": [
       6.694590091705322,
@@ -3423,7 +3423,7 @@
     "uuid": "f6fb8319-46c4-4e05-b887-79cb4c207d99"
   },
   {
-    "name": "LTS_GEN_Torch_A.dae",
+    "name": "LTS_GEN_Torch_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A.dae",
     "size": [
       0.19144300371408463,
@@ -3438,7 +3438,7 @@
     "uuid": "9429fe44-1eb2-4589-861e-6257a2a41553"
   },
   {
-    "name": "LTS_GEN_Torch_A_Destruct.dae",
+    "name": "LTS_GEN_Torch_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A_Destruct.dae",
     "size": [
       1.3518039882183075,
@@ -3453,7 +3453,7 @@
     "uuid": "fd7471b6-b642-4be1-b00e-ea4712f5f579"
   },
   {
-    "name": "LTS_GEN_Torch_A_Explode.dae",
+    "name": "LTS_GEN_Torch_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A_Explode.dae",
     "size": [
       0.19144300371408463,
@@ -3467,7 +3467,7 @@
     ]
   },
   {
-    "name": "LTS_Goblins_Camp_Torch_A.dae",
+    "name": "LTS_Goblins_Camp_Torch_A",
     "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A.dae",
     "size": [
       0.41940099000930786,
@@ -3482,7 +3482,7 @@
     "uuid": "584c6848-5123-4ced-9354-3791853206bb"
   },
   {
-    "name": "LTS_Goblins_Camp_Torch_A_Destruct.dae",
+    "name": "LTS_Goblins_Camp_Torch_A_Destruct",
     "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A_Destruct.dae",
     "size": [
       0.7727749794721603,
@@ -3497,7 +3497,7 @@
     "uuid": "84d9bca4-3ce1-4666-b2f5-d6dfcf6f9c2a"
   },
   {
-    "name": "LTS_Goblins_Camp_Torch_A_Explode.dae",
+    "name": "LTS_Goblins_Camp_Torch_A_Explode",
     "relative_path": "Lightsources/Goblins/LTS_Goblins_Camp_Torch_ABC/Resources/LTS_Goblins_Camp_Torch_A_Explode.dae",
     "size": [
       0.41940099000930786,
@@ -3511,7 +3511,7 @@
     ]
   },
   {
-    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B.dae",
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B.dae",
     "size": [
       1.5901179909706116,
@@ -3526,7 +3526,7 @@
     "uuid": "ce03f590-98ad-4e81-825c-654a00b30c98"
   },
   {
-    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Destruct",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B_Destruct.dae",
     "size": [
       2.6404649019241333,
@@ -3541,7 +3541,7 @@
     "uuid": "d590eda9-324b-44d3-975e-6722f43bac1b"
   },
   {
-    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "name": "INTERACT_LTS_GOB_Camp_Firebowl_B_Explode",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/INTERACT_LTS_GOB_Camp_Firebowl_B_Explode.dae",
     "size": [
       1.5864959955215454,
@@ -3555,7 +3555,7 @@
     ]
   },
   {
-    "name": "LTS_GOB_Camp_Firebowl_A.dae",
+    "name": "LTS_GOB_Camp_Firebowl_A",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_A.dae",
     "size": [
       2.0961899757385254,
@@ -3570,7 +3570,7 @@
     "uuid": "a728776a-bd0b-49ac-a198-6183a99e9060"
   },
   {
-    "name": "LTS_GOB_Camp_Firebowl_B.dae",
+    "name": "LTS_GOB_Camp_Firebowl_B",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B.dae",
     "size": [
       2.650197982788086,
@@ -3585,7 +3585,7 @@
     "uuid": "2c60ad1d-d2ff-4168-8070-bca528634d37"
   },
   {
-    "name": "LTS_GOB_Camp_Firebowl_B_Destruct.dae",
+    "name": "LTS_GOB_Camp_Firebowl_B_Destruct",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B_Destruct.dae",
     "size": [
       3.9812790155410767,
@@ -3600,7 +3600,7 @@
     "uuid": "6deecb58-90cd-4432-bc6b-e7f1b8ac93d4"
   },
   {
-    "name": "LTS_GOB_Camp_Firebowl_B_Explode.dae",
+    "name": "LTS_GOB_Camp_Firebowl_B_Explode",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Firebowl_B_Explode.dae",
     "size": [
       2.6441619396209717,
@@ -3614,7 +3614,7 @@
     ]
   },
   {
-    "name": "LTS_GOB_Camp_Torch_A.dae",
+    "name": "LTS_GOB_Camp_Torch_A",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A.dae",
     "size": [
       0.7240340113639832,
@@ -3629,7 +3629,7 @@
     "uuid": "43ff153f-81f3-4ba1-8190-c2aa20cbf24d"
   },
   {
-    "name": "LTS_GOB_Camp_Torch_A_Destruct.dae",
+    "name": "LTS_GOB_Camp_Torch_A_Destruct",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A_Destruct.dae",
     "size": [
       2.3060649633407593,
@@ -3644,7 +3644,7 @@
     "uuid": "b08b0d53-7ee4-4ad3-ae5f-e647069e76bd"
   },
   {
-    "name": "LTS_GOB_Camp_Torch_A_Explode.dae",
+    "name": "LTS_GOB_Camp_Torch_A_Explode",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_A_Explode.dae",
     "size": [
       0.7240340113639832,
@@ -3658,7 +3658,7 @@
     ]
   },
   {
-    "name": "LTS_GOB_Camp_Torch_B.dae",
+    "name": "LTS_GOB_Camp_Torch_B",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B.dae",
     "size": [
       1.189309000968933,
@@ -3673,7 +3673,7 @@
     "uuid": "f94a7102-ec62-4f14-8df7-3b96d419d9ed"
   },
   {
-    "name": "LTS_GOB_Camp_Torch_B_Destruct.dae",
+    "name": "LTS_GOB_Camp_Torch_B_Destruct",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B_Destruct.dae",
     "size": [
       2.231603980064392,
@@ -3688,7 +3688,7 @@
     "uuid": "a9228fa4-b2c4-43f7-adfc-3ae038a7752f"
   },
   {
-    "name": "LTS_GOB_Camp_Torch_B_Explode.dae",
+    "name": "LTS_GOB_Camp_Torch_B_Explode",
     "relative_path": "Lightsources/Goblins/LTS_GOB_Camp_Lightsources_ABC/Resources/LTS_GOB_Camp_Torch_B_Explode.dae",
     "size": [
       1.172984004020691,
@@ -3702,7 +3702,7 @@
     ]
   },
   {
-    "name": "LTS_HAG_Torch_A.dae",
+    "name": "LTS_HAG_Torch_A",
     "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A.dae",
     "size": [
       0.9687209725379944,
@@ -3717,7 +3717,7 @@
     "uuid": "4946d878-c300-44b5-bb53-1dd92bdb98c2"
   },
   {
-    "name": "LTS_HAG_Torch_A_Destruct.dae",
+    "name": "LTS_HAG_Torch_A_Destruct",
     "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A_Destruct.dae",
     "size": [
       1.876358985900879,
@@ -3732,7 +3732,7 @@
     "uuid": "ee652798-ea7e-4c03-b8e6-9a1eb02c08f3"
   },
   {
-    "name": "LTS_HAG_Torch_A_Explode.dae",
+    "name": "LTS_HAG_Torch_A_Explode",
     "relative_path": "Lightsources/Hag/LTS_HAG_Torch_ABC/Resources/LTS_HAG_Torch_A_Explode.dae",
     "size": [
       0.9687209725379944,
@@ -3746,7 +3746,7 @@
     ]
   },
   {
-    "name": "DEC_Ansur_Statue_Dragon_A.dae",
+    "name": "DEC_Ansur_Statue_Dragon_A",
     "relative_path": "Lightsources/Ansur/LTS_Ansur_Torch_Dragon_ABC/Resources/DEC_Ansur_Statue_Dragon_A.dae",
     "size": [
       0.6162329912185669,
@@ -3761,7 +3761,7 @@
     "uuid": "9da4da99-86ea-476c-ab61-781fad8ba09c"
   },
   {
-    "name": "LTS_Ansur_Torch_Dragon_A.dae",
+    "name": "LTS_Ansur_Torch_Dragon_A",
     "relative_path": "Lightsources/Ansur/LTS_Ansur_Torch_Dragon_ABC/Resources/LTS_Ansur_Torch_Dragon_A.dae",
     "size": [
       0.6162329912185669,
@@ -3776,7 +3776,7 @@
     "uuid": "1c2b6556-b4d1-4eb7-a727-cbf2383d765b"
   },
   {
-    "name": "LTS_Cursed_Roots_Bulb_A.dae",
+    "name": "LTS_Cursed_Roots_Bulb_A",
     "relative_path": "Lightsources/Cursed/Resources/LTS_Cursed_Roots_Bulb_A.dae",
     "size": [
       0.3920920044183731,
@@ -3790,7 +3790,7 @@
     ]
   },
   {
-    "name": "LTS_DUN_Chandelier_Hinge_B.dae",
+    "name": "LTS_DUN_Chandelier_Hinge_B",
     "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Hinge_B.dae",
     "size": [
       0.2692840099334717,
@@ -3805,7 +3805,7 @@
     "uuid": "fbe8ccf1-db5c-464a-ac2d-bcab4111b47d"
   },
   {
-    "name": "LTS_GEN_City_Lantern_A.dae",
+    "name": "LTS_GEN_City_Lantern_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A.dae",
     "size": [
       0.28093400597572327,
@@ -3820,7 +3820,7 @@
     "uuid": "7ca40eda-c31d-42bd-ac86-306d499ce97b"
   },
   {
-    "name": "LTS_GEN_City_Lantern_A_Destruct.dae",
+    "name": "LTS_GEN_City_Lantern_A_Destruct",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A_Destruct.dae",
     "size": [
       0.8781900405883789,
@@ -3835,7 +3835,7 @@
     "uuid": "4ffad679-ea22-4ce8-86d5-1f1b20b35a52"
   },
   {
-    "name": "LTS_GEN_City_Lantern_A_Explode.dae",
+    "name": "LTS_GEN_City_Lantern_A_Explode",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_A_Explode.dae",
     "size": [
       0.28093400597572327,
@@ -3849,7 +3849,7 @@
     ]
   },
   {
-    "name": "LTS_GEN_City_Lantern_C.dae",
+    "name": "LTS_GEN_City_Lantern_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_C.dae",
     "size": [
       0.3213900029659271,
@@ -3864,7 +3864,7 @@
     "uuid": "b197a407-79d0-4c06-a1b8-2bb63a31aa3e"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A.dae",
     "size": [
       1.1611990332603455,
@@ -3879,7 +3879,7 @@
     "uuid": "5f48daaa-ff07-4405-b5b7-093656051c1a"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_A.dae",
     "size": [
       1.0187579989433289,
@@ -3894,7 +3894,7 @@
     "uuid": "70c46b12-1b59-4874-a9bb-15fe3f6912dc"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_B.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_A_Moonlantern_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_A_Moonlantern_B.dae",
     "size": [
       1.345840036869049,
@@ -3909,7 +3909,7 @@
     "uuid": "2936ea8c-72b2-4c45-84f9-1e13c7bcbac6"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_B.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_B.dae",
     "size": [
       1.3725919723510742,
@@ -3924,7 +3924,7 @@
     "uuid": "232c9cca-226b-48d6-a452-55e81b2256f0"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_C.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C.dae",
     "size": [
       1.1238409876823425,
@@ -3939,7 +3939,7 @@
     "uuid": "0fefe705-2782-4a34-b842-40896a5c0efc"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Pole_D.dae",
+    "name": "LTS_GEN_City_Lantern_Pole_D",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_D.dae",
     "size": [
       1.1611990332603455,
@@ -3954,7 +3954,7 @@
     "uuid": "5257ad7d-51cb-4643-b99e-33d555cdef47"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_A.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A.dae",
     "size": [
       1.303709028288722,
@@ -3969,7 +3969,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_B.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B.dae",
     "size": [
       1.4013279676437378,
@@ -3984,7 +3984,7 @@
     "uuid": "883acfb7-1c9d-4c40-895a-97c09aa95663"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_C.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C.dae",
     "size": [
       0.6019130155909806,
@@ -3999,7 +3999,7 @@
     "uuid": "4ba498e6-b3c7-40a4-ade9-7b41193ffb0e"
   },
   {
-    "name": "LTS_GEN_City_Lantern_Wall_D.dae",
+    "name": "LTS_GEN_City_Lantern_Wall_D",
     "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_D.dae",
     "size": [
       1.3664569854736328,
@@ -4014,7 +4014,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_A.dae",
+    "name": "LTS_GEN_Fire_Basket_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A.dae",
     "size": [
       0.8123269975185394,
@@ -4029,7 +4029,7 @@
     "uuid": "22c24ea2-922a-49f5-92c2-d53578528b0f"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_B.dae",
+    "name": "LTS_GEN_Fire_Basket_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_B.dae",
     "size": [
       0.7052639722824097,
@@ -4044,7 +4044,7 @@
     "uuid": "92e6b32e-e9f7-4f1d-8903-67293cf03221"
   },
   {
-    "name": "LTS_GEN_Fire_Basket_C.dae",
+    "name": "LTS_GEN_Fire_Basket_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_C.dae",
     "size": [
       2.483687996864319,
@@ -4059,7 +4059,7 @@
     "uuid": "4a2a16b4-2545-4054-afe9-6b5ab69689df"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_A.dae",
     "size": [
       0.5023050010204315,
@@ -4074,7 +4074,7 @@
     "uuid": "8dd5ad60-161c-482b-a356-c52e31cc5b7c"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp.dae",
     "size": [
       0.18804800510406494,
@@ -4089,7 +4089,7 @@
     "uuid": "f36426ca-29f5-443b-89e2-2cf377e15bdd"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_B.dae",
     "size": [
       0.5023050010204315,
@@ -4104,7 +4104,7 @@
     "uuid": "18b7e5e7-6f9a-472d-8e38-f1e03549ba22"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A.dae",
     "size": [
       0.9431339800357819,
@@ -4119,7 +4119,7 @@
     "uuid": "8bc8c22b-2005-4a5d-8c3b-3b2f380b8718"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp.dae",
     "size": [
       0.8745630085468292,
@@ -4134,7 +4134,7 @@
     "uuid": "1289307d-9dae-4472-b31d-e17c7cffdfb8"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B.dae",
     "size": [
       0.9086840152740479,
@@ -4149,7 +4149,7 @@
     "uuid": "93d14215-1991-4b7f-b1ec-cab188890263"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_B_Lamp.dae",
     "size": [
       0.1396230012178421,
@@ -4164,7 +4164,7 @@
     "uuid": "83e0f5b6-e1d7-43a7-97d5-60657441c470"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C.dae",
     "size": [
       1.43231999874115,
@@ -4179,7 +4179,7 @@
     "uuid": "cb201471-a5e8-48f7-926e-5d9b07b50487"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_C_Lamp.dae",
     "size": [
       1.35738205909729,
@@ -4194,7 +4194,7 @@
     "uuid": "8ad3792c-fd31-409e-8ce6-8e5315112952"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_B_Lamp.dae",
     "size": [
       0.19879600405693054,
@@ -4209,7 +4209,7 @@
     "uuid": "02ba1b42-7ee1-4e3a-96e7-0656efcd7aa8"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_A.dae",
     "size": [
       0.4570220112800598,
@@ -4224,7 +4224,7 @@
     "uuid": "3f77e766-6218-47c4-9dd5-6b5277d8d519"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Holder_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Holder_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Spotlight_Holder_A.dae",
     "size": [
       0.5023050010204315,
@@ -4239,7 +4239,7 @@
     "uuid": "2c0592ba-9d54-4e26-b3f3-18d0311b955c"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_A.dae",
     "size": [
       0.35694898664951324,
@@ -4254,7 +4254,7 @@
     "uuid": "2b905655-09ba-48f4-9917-5d9fdb5106bb"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_A_Lamp.dae",
     "size": [
       0.25248199701309204,
@@ -4269,7 +4269,7 @@
     "uuid": "67da60a4-fdc5-4756-9d0a-a43a18050a82"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A.dae",
     "size": [
       0.2682200074195862,
@@ -4284,7 +4284,7 @@
     "uuid": "71039c70-26d8-4f83-b138-b56fe1b72d88"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp.dae",
     "size": [
       0.15767600387334824,
@@ -4299,7 +4299,7 @@
     "uuid": "50dc143d-4951-41c3-8823-740038f9b7fc"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B.dae",
     "size": [
       0.3120280057191849,
@@ -4314,7 +4314,7 @@
     "uuid": "7c722e7c-f9a3-43d9-ac6a-d5c0f5ce1844"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_B_Lamp.dae",
     "size": [
       0.15767600387334824,
@@ -4329,7 +4329,7 @@
     "uuid": "3ff01e50-a5ed-4e1c-927d-2d522aa36823"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C.dae",
     "size": [
       0.6454300284385681,
@@ -4344,7 +4344,7 @@
     "uuid": "a9385ec2-8703-40e9-acd5-b11a3ef153c0"
   },
   {
-    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Lamp.dae",
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Lamp",
     "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_C_Lamp.dae",
     "size": [
       0.15767600387334824,
@@ -4359,7 +4359,7 @@
     "uuid": "c96c66a8-5d5f-406a-9fef-018e9224fcf2"
   },
   {
-    "name": "LTS_MF_Brain_Bulb_A.dae",
+    "name": "LTS_MF_Brain_Bulb_A",
     "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A.dae",
     "size": [
       1.3503860235214233,
@@ -4374,7 +4374,7 @@
     "uuid": "95d75278-023a-41b0-b26d-8a797558d308"
   },
   {
-    "name": "LTS_MF_Brain_Bulb_A_Destruct.dae",
+    "name": "LTS_MF_Brain_Bulb_A_Destruct",
     "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A_Destruct.dae",
     "size": [
       2.7778860330581665,
@@ -4389,7 +4389,7 @@
     "uuid": "4d2f13ef-cbd8-44e4-8545-39023072b1a9"
   },
   {
-    "name": "LTS_MF_Brain_Bulb_A_Explode.dae",
+    "name": "LTS_MF_Brain_Bulb_A_Explode",
     "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Brain_Bulb_A_Explode.dae",
     "size": [
       1.350829005241394,
@@ -4403,7 +4403,7 @@
     ]
   },
   {
-    "name": "LTS_MF_Bulb_A.dae",
+    "name": "LTS_MF_Bulb_A",
     "relative_path": "Lightsources/MindFlayer/LTS_MF_Bulb_ABC/Resources/LTS_MF_Bulb_A.dae",
     "size": [
       1.4949569702148438,
@@ -4418,7 +4418,7 @@
     "uuid": "4f8905de-0132-46a1-8dc3-d9c04db2c281"
   },
   {
-    "name": "LTS_MF_Lantern_A.dae",
+    "name": "LTS_MF_Lantern_A",
     "relative_path": "Lightsources/MindFlayer/LTS_MF_Lantern_ABC/Resources/LTS_MF_Lantern_A.dae",
     "size": [
       1.310351014137268,
@@ -4433,7 +4433,7 @@
     "uuid": "c62cd1fa-7eb4-4327-a1f2-6f73fe4ee329"
   },
   {
-    "name": "LTS_Necromancer_Lab_Bowl_Stands_A.dae",
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A.dae",
     "size": [
       1.0397149920463562,
@@ -4448,7 +4448,7 @@
     "uuid": "7f4beb90-f8cb-49ee-8e99-e4e9ef104385"
   },
   {
-    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Destruct.dae",
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Destruct",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A_Destruct.dae",
     "size": [
       1.8056530356407166,
@@ -4463,7 +4463,7 @@
     "uuid": "7c4efc9d-c884-4416-b166-55d01f97ef2e"
   },
   {
-    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Explode.dae",
+    "name": "LTS_Necromancer_Lab_Bowl_Stands_A_Explode",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Bowl_Stands_A_Explode.dae",
     "size": [
       0.9725529849529266,
@@ -4477,7 +4477,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Ceiling_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Ceiling_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Ceiling_A.dae",
     "size": [
       1.2643550038337708,
@@ -4492,7 +4492,7 @@
     "uuid": "0ba21e7a-e302-4e72-abcb-b74c5fb11b40"
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Chain_Long_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Long_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Long_A.dae",
     "size": [
       0.09415500238537788,
@@ -4507,7 +4507,7 @@
     "uuid": "caae20e9-8c2d-45ce-b50d-62c49e6f5890"
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Chain_Medium_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Medium_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Medium_A.dae",
     "size": [
       0.09415500238537788,
@@ -4522,7 +4522,7 @@
     "uuid": "b40da784-d983-44c6-83e5-e141e6620709"
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Chain_Small_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Chain_Small_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Chain_Small_A.dae",
     "size": [
       0.09415500238537788,
@@ -4536,7 +4536,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A.dae",
     "size": [
       1.048675000667572,
@@ -4550,7 +4550,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Destruct.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Destruct",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A_Destruct.dae",
     "size": [
       2.093533992767334,
@@ -4565,7 +4565,7 @@
     "uuid": "24e51c39-aa95-40c6-ad95-9780441256de"
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Explode.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_A_Explode",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_A_Explode.dae",
     "size": [
       0.7436800003051758,
@@ -4579,7 +4579,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B.dae",
     "size": [
       1.2250530123710632,
@@ -4593,7 +4593,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Destruct.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Destruct",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B_Destruct.dae",
     "size": [
       1.9060540199279785,
@@ -4608,7 +4608,7 @@
     "uuid": "12b6bd49-9aa9-4703-b2d2-94d1644301de"
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Explode.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Hangings_B_Explode",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Hangings_B_Explode.dae",
     "size": [
       0.9799450039863586,
@@ -4622,7 +4622,7 @@
     ]
   },
   {
-    "name": "LTS_Necromancer_Lab_Lantern_Wall_A.dae",
+    "name": "LTS_Necromancer_Lab_Lantern_Wall_A",
     "relative_path": "Lightsources/Necromancer/LTS_Necromancer_Lab_Lightsources_ABC/Resources/LTS_Necromancer_Lab_Lantern_Wall_A.dae",
     "size": [
       0.7412170162424445,

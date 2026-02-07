@@ -1,6 +1,6 @@
 [
   {
-    "name": "CONT_Barrel_A.dae",
+    "name": "CONT_Barrel_A",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_A.dae",
     "size": [
       0.9533369839191437,
@@ -15,7 +15,7 @@
     "uuid": "1849ce97-45ac-43ea-9518-9f80aaa0c005"
   },
   {
-    "name": "CONT_Barrel_A_Destruct.dae",
+    "name": "CONT_Barrel_A_Destruct",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_A_Destruct.dae",
     "size": [
       2.462290048599243,
@@ -30,7 +30,7 @@
     "uuid": "82c2ddd2-abd7-4ca9-ae3c-0a786ffcc7ce"
   },
   {
-    "name": "CONT_Barrel_A_Explode.dae",
+    "name": "CONT_Barrel_A_Explode",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_A_Explode.dae",
     "size": [
       0.946152001619339,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "CONT_Barrel_Runepowder_A.dae",
+    "name": "CONT_Barrel_Runepowder_A",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Runepowder_A.dae",
     "size": [
       0.6137170195579529,
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "name": "CONT_Barrel_Runepowder_A_Destruct.dae",
+    "name": "CONT_Barrel_Runepowder_A_Destruct",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Runepowder_A_Destruct.dae",
     "size": [
       2.680190920829773,
@@ -73,7 +73,7 @@
     "uuid": "c9d78435-c081-4871-b426-9be4f7c9cd60"
   },
   {
-    "name": "CONT_Barrel_Runepowder_A_Explode.dae",
+    "name": "CONT_Barrel_Runepowder_A_Explode",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Runepowder_A_Explode.dae",
     "size": [
       0.6229380071163177,
@@ -87,7 +87,7 @@
     ]
   },
   {
-    "name": "CONT_Barrel_Runepowder_Open_A.dae",
+    "name": "CONT_Barrel_Runepowder_Open_A",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Runepowder_Open_A.dae",
     "size": [
       0.6126869916915894,
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "name": "CONT_Barrel_Smokepowder_Trapped_A.dae",
+    "name": "CONT_Barrel_Smokepowder_Trapped_A",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Smokepowder_Trapped_A.dae",
     "size": [
       2.6368069648742676,
@@ -116,7 +116,7 @@
     "uuid": "fba953c3-804c-4b3b-b82a-7ea6110dd29d"
   },
   {
-    "name": "CONT_Barrel_Smokepowder_Trapped_A_Destruct.dae",
+    "name": "CONT_Barrel_Smokepowder_Trapped_A_Destruct",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Smokepowder_Trapped_A_Destruct.dae",
     "size": [
       2.6368069648742676,
@@ -131,7 +131,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONT_Barrel_Smokepowder_Trapped_B.dae",
+    "name": "CONT_Barrel_Smokepowder_Trapped_B",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Smokepowder_Trapped_B.dae",
     "size": [
       2.903838038444519,
@@ -146,7 +146,7 @@
     "uuid": "b749759b-d1c1-4767-87c0-fc9a7c7f575d"
   },
   {
-    "name": "CONT_Barrel_Smokepowder_Trapped_B_Destruct.dae",
+    "name": "CONT_Barrel_Smokepowder_Trapped_B_Destruct",
     "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_Smokepowder_Trapped_B_Destruct.dae",
     "size": [
       2.903838038444519,
@@ -161,7 +161,7 @@
     "uuid": "f516c467-f74f-460b-8770-59241bc7360b"
   },
   {
-    "name": "CONT_Basket_A.dae",
+    "name": "CONT_Basket_A",
     "relative_path": "Containers/CONT_Basket_ABC/Resources/CONT_Basket_A.dae",
     "size": [
       0.8806340098381042,
@@ -176,7 +176,7 @@
     "uuid": "c2e4033b-1338-41e7-980d-4201265731e3"
   },
   {
-    "name": "CONT_Basket_B.dae",
+    "name": "CONT_Basket_B",
     "relative_path": "Containers/CONT_Basket_ABC/Resources/CONT_Basket_B.dae",
     "size": [
       0.776854008436203,
@@ -191,7 +191,7 @@
     "uuid": "b413d4e4-f238-4345-a3b2-3ceed3cf83d3"
   },
   {
-    "name": "CONT_Basket_C.dae",
+    "name": "CONT_Basket_C",
     "relative_path": "Containers/CONT_Basket_ABC/Resources/CONT_Basket_C.dae",
     "size": [
       0.963047981262207,
@@ -206,7 +206,7 @@
     "uuid": "daa55274-fc44-4f71-aa85-a2dfc3c9a0a5"
   },
   {
-    "name": "CONT_Egg_Owlbear_A.dae",
+    "name": "CONT_Egg_Owlbear_A",
     "relative_path": "Containers/CONT_Egg_Owlbear_ABC/Resources/CONT_Egg_Owlbear_A.dae",
     "size": [
       0.5594100058078766,
@@ -221,7 +221,7 @@
     "uuid": "5447e710-4fcf-4635-a6af-c7c62de06a93"
   },
   {
-    "name": "CONT_Egg_Owlbear_Pile_A.dae",
+    "name": "CONT_Egg_Owlbear_Pile_A",
     "relative_path": "Containers/CONT_Egg_Owlbear_ABC/Resources/CONT_Egg_Owlbear_Pile_A.dae",
     "size": [
       2.5545400381088257,
@@ -236,7 +236,7 @@
     "uuid": "94bc3d28-78e4-49a9-a7bb-6fe89e41c879"
   },
   {
-    "name": "CONT_Egg_Spider_A.dae",
+    "name": "CONT_Egg_Spider_A",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_A.dae",
     "size": [
       2.0634159445762634,
@@ -251,7 +251,7 @@
     "uuid": "ff899708-394a-43f9-8340-bcd1a0552976"
   },
   {
-    "name": "CONT_Egg_Spider_A_CombatThrowable.dae",
+    "name": "CONT_Egg_Spider_A_CombatThrowable",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_A_CombatThrowable.dae",
     "size": [
       0.5793800055980682,
@@ -266,7 +266,7 @@
     "uuid": "93f8c64b-2d55-4784-aca5-077f75a7ee4d"
   },
   {
-    "name": "CONT_Egg_Spider_A_Destruct.dae",
+    "name": "CONT_Egg_Spider_A_Destruct",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_A_Destruct.dae",
     "size": [
       1.1035370230674744,
@@ -281,7 +281,7 @@
     "uuid": "b17c3d4c-de86-403b-9754-caea06e105f2"
   },
   {
-    "name": "CONT_Egg_Spider_B.dae",
+    "name": "CONT_Egg_Spider_B",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_B.dae",
     "size": [
       2.0634159445762634,
@@ -296,7 +296,7 @@
     "uuid": "8e4d913b-1dd2-4494-9e8c-265117df0b9a"
   },
   {
-    "name": "CONT_Egg_Spider_B_CombatThrowable.dae",
+    "name": "CONT_Egg_Spider_B_CombatThrowable",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_B_CombatThrowable.dae",
     "size": [
       0.5794149935245514,
@@ -311,7 +311,7 @@
     "uuid": "b266897b-065d-4a23-bfab-c6f82f6512a7"
   },
   {
-    "name": "CONT_Egg_Spider_Phase_A.dae",
+    "name": "CONT_Egg_Spider_Phase_A",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_Phase_A.dae",
     "size": [
       2.0634159445762634,
@@ -326,7 +326,7 @@
     "uuid": "23a64aa6-922b-40c6-9c4d-1c7486df0fc8"
   },
   {
-    "name": "CONT_Egg_Spider_Phase_A_CombatThrowable.dae",
+    "name": "CONT_Egg_Spider_Phase_A_CombatThrowable",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_Phase_A_CombatThrowable.dae",
     "size": [
       0.5793800055980682,
@@ -341,7 +341,7 @@
     "uuid": "3c65dc67-b235-4af3-9ffe-f078e58a8391"
   },
   {
-    "name": "CONT_Egg_Spider_Phase_A_Destruct.dae",
+    "name": "CONT_Egg_Spider_Phase_A_Destruct",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_Phase_A_Destruct.dae",
     "size": [
       1.1035370230674744,
@@ -356,7 +356,7 @@
     "uuid": "5f4bf5c9-c0bc-47f3-8648-98e135cffcb7"
   },
   {
-    "name": "CONT_Egg_Spider_Phase_B.dae",
+    "name": "CONT_Egg_Spider_Phase_B",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_Phase_B.dae",
     "size": [
       2.0634159445762634,
@@ -371,7 +371,7 @@
     "uuid": "ac97e08c-202d-47f4-9420-906f45fea59c"
   },
   {
-    "name": "CONT_Egg_Spider_Phase_B_CombatThrowable.dae",
+    "name": "CONT_Egg_Spider_Phase_B_CombatThrowable",
     "relative_path": "Containers/CONT_Egg_Spider_ABC/Resources/CONT_Egg_Spider_Phase_B_CombatThrowable.dae",
     "size": [
       0.5794149935245514,
@@ -386,7 +386,7 @@
     "uuid": "8e269d9d-d21f-48a9-8b9d-32d20e132823"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Glazed.dae",
+    "name": "CONT_HUM_Vase_Large_A_Glazed",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Glazed.dae",
     "size": [
       0.5399850010871887,
@@ -401,7 +401,7 @@
     "uuid": "a45c6f00-063b-4f64-bab3-43143762c57b"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Glazed_Broken.dae",
+    "name": "CONT_HUM_Vase_Large_A_Glazed_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Glazed_Broken.dae",
     "size": [
       0.5538130104541779,
@@ -416,7 +416,7 @@
     "uuid": "30a7abd6-9024-4482-84df-8d65cd2d1299"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Glazed_Damaged.dae",
+    "name": "CONT_HUM_Vase_Large_A_Glazed_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Glazed_Damaged.dae",
     "size": [
       0.5588539838790894,
@@ -431,7 +431,7 @@
     "uuid": "e3fe6c0f-97f7-4969-be7c-3191785e883f"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Glazed_Destruct.dae",
+    "name": "CONT_HUM_Vase_Large_A_Glazed_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Glazed_Destruct.dae",
     "size": [
       2.268323004245758,
@@ -446,7 +446,7 @@
     "uuid": "b82ba2ff-3077-4f70-80d7-670220d58e24"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Glazed_Explode.dae",
+    "name": "CONT_HUM_Vase_Large_A_Glazed_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Glazed_Explode.dae",
     "size": [
       0.5319789946079254,
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Large_A_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Porcelain.dae",
     "size": [
       0.5399850010871887,
@@ -475,7 +475,7 @@
     "uuid": "2b490b8b-b896-4ee9-a044-17b966e1dbac"
   },
   {
-    "name": "CONT_HUM_Vase_Large_A_Porcelain_Damaged.dae",
+    "name": "CONT_HUM_Vase_Large_A_Porcelain_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_A_Porcelain_Damaged.dae",
     "size": [
       0.5588539838790894,
@@ -490,7 +490,7 @@
     "uuid": "dcc6e6fc-37ad-460f-9470-9fe0890a7af8"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Ceramic.dae",
+    "name": "CONT_HUM_Vase_Large_B_Ceramic",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Ceramic.dae",
     "size": [
       0.5319789946079254,
@@ -505,7 +505,7 @@
     "uuid": "ed663f8c-80fb-4a33-ad9c-0aed42da5ba2"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Large_B_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Ceramic_Broken.dae",
     "size": [
       0.41350799798965454,
@@ -520,7 +520,7 @@
     "uuid": "ed5ff67b-0a29-4d4d-9ca3-bb069732ca14"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Ceramic_Destruct.dae",
+    "name": "CONT_HUM_Vase_Large_B_Ceramic_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Ceramic_Destruct.dae",
     "size": [
       1.5436630249023438,
@@ -535,7 +535,7 @@
     "uuid": "e8e02b20-d680-4c62-bcba-67ba16d00c0c"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Ceramic_Explode.dae",
+    "name": "CONT_HUM_Vase_Large_B_Ceramic_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Ceramic_Explode.dae",
     "size": [
       0.5319789946079254,
@@ -549,7 +549,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Glazed_Damaged.dae",
+    "name": "CONT_HUM_Vase_Large_B_Glazed_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Glazed_Damaged.dae",
     "size": [
       0.5418060123920441,
@@ -564,7 +564,7 @@
     "uuid": "4bda81d5-4145-4bef-ad3f-7fbb9703ced8"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Large_B_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Porcelain.dae",
     "size": [
       0.5319789946079254,
@@ -579,7 +579,7 @@
     "uuid": "390db5d3-628d-47fe-b3aa-9b5c1498d79b"
   },
   {
-    "name": "CONT_HUM_Vase_Large_B_Porcelain_Rigged.dae",
+    "name": "CONT_HUM_Vase_Large_B_Porcelain_Rigged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Porcelain_Rigged.dae",
     "size": [
       0.5319789946079254,
@@ -594,7 +594,7 @@
     "uuid": "057e0716-98c1-4288-8249-750f3d1c8ffb"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Large_C_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Ceramic_Broken.dae",
     "size": [
       0.6649510264396667,
@@ -609,7 +609,7 @@
     "uuid": "346b5002-0aa4-4fb9-b494-06bfcd3e1e0c"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Glazed.dae",
+    "name": "CONT_HUM_Vase_Large_C_Glazed",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Glazed.dae",
     "size": [
       0.6588810086250305,
@@ -624,7 +624,7 @@
     "uuid": "39c62c70-d23d-49cc-9973-aae2b4d8a6a2"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain.dae",
     "size": [
       0.6588799953460693,
@@ -639,7 +639,7 @@
     "uuid": "870e589c-4907-44b4-8e1d-f28d2125df7f"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain_Broken.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain_Broken.dae",
     "size": [
       0.6649510264396667,
@@ -654,7 +654,7 @@
     "uuid": "28e5fb70-af8e-42da-8c79-00ef583c3611"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain_Damaged.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain_Damaged.dae",
     "size": [
       0.6649510264396667,
@@ -669,7 +669,7 @@
     "uuid": "ad3a85ec-734a-4929-b2b7-f468d71c59d7"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain_Destruct.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain_Destruct.dae",
     "size": [
       1.6266440153121948,
@@ -684,7 +684,7 @@
     "uuid": "f543c043-3727-469c-b0a1-f60aa433a9b6"
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain_Explode.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain_Explode.dae",
     "size": [
       0.6588799953460693,
@@ -698,7 +698,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Large_C_Porcelain_Rigged.dae",
+    "name": "CONT_HUM_Vase_Large_C_Porcelain_Rigged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_C_Porcelain_Rigged.dae",
     "size": [
       0.6588799953460693,
@@ -713,7 +713,7 @@
     "uuid": "64674f0f-5f7f-4459-8392-ce00c113c1d0"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_A_Ceramic.dae",
+    "name": "CONT_HUM_Vase_Medium_A_Ceramic",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_A_Ceramic.dae",
     "size": [
       0.5393469929695129,
@@ -728,7 +728,7 @@
     "uuid": "c7010486-261c-4372-81dc-e4bbeba5e5d5"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_A_Ceramic_Broken.dae",
     "size": [
       0.5544059872627258,
@@ -743,7 +743,7 @@
     "uuid": "f00a5f16-cc65-401e-8c53-c6d0010aaa12"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Destruct.dae",
+    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_A_Ceramic_Destruct.dae",
     "size": [
       1.576811969280243,
@@ -758,7 +758,7 @@
     "uuid": "dca36f46-92a4-438e-9b28-5036d4262d90"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Explode.dae",
+    "name": "CONT_HUM_Vase_Medium_A_Ceramic_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_A_Ceramic_Explode.dae",
     "size": [
       0.5319789946079254,
@@ -772,7 +772,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Medium_A_Glazed_Damaged.dae",
+    "name": "CONT_HUM_Vase_Medium_A_Glazed_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_A_Glazed_Damaged.dae",
     "size": [
       0.5419739782810211,
@@ -787,7 +787,7 @@
     "uuid": "8a55325d-deba-4002-80b6-7e470c444644"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Ceramic.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Ceramic",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Ceramic.dae",
     "size": [
       0.6455070078372955,
@@ -802,7 +802,7 @@
     "uuid": "b42df74b-acfb-487d-8879-0b812edf6d4b"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Ceramic_Broken.dae",
     "size": [
       0.6274069845676422,
@@ -817,7 +817,7 @@
     "uuid": "1e36778b-0202-438f-a20a-c6efc9d46cb0"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Ceramic_Damaged.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Ceramic_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Ceramic_Damaged.dae",
     "size": [
       0.6274069845676422,
@@ -832,7 +832,7 @@
     "uuid": "10a5790a-fbee-40e4-96f1-52abc927c9b9"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Glazed.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Glazed",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Glazed.dae",
     "size": [
       0.6455070078372955,
@@ -847,7 +847,7 @@
     "uuid": "20edc78d-8948-4f9c-a14b-c3fea7c2249a"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Glazed_Destruct.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Glazed_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Glazed_Destruct.dae",
     "size": [
       1.6178749799728394,
@@ -862,7 +862,7 @@
     "uuid": "b8f2615c-50b2-40a1-843a-474979516fb9"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Glazed_Explode.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Glazed_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Glazed_Explode.dae",
     "size": [
       0.6455070078372955,
@@ -876,7 +876,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Porcelain.dae",
     "size": [
       0.6455070078372955,
@@ -891,7 +891,7 @@
     "uuid": "f2ce3fcd-6a2b-473c-ba2c-93d822c0858b"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Porcelain_Broken.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Porcelain_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Porcelain_Broken.dae",
     "size": [
       0.6274069845676422,
@@ -906,7 +906,7 @@
     "uuid": "d38efd16-5840-4826-8c76-75ba23c449d4"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_B_Porcelain_Damaged.dae",
+    "name": "CONT_HUM_Vase_Medium_B_Porcelain_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_B_Porcelain_Damaged.dae",
     "size": [
       0.6274080276489258,
@@ -921,7 +921,7 @@
     "uuid": "ebbb7635-567c-4304-a055-a40446244d27"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Ceramic.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Ceramic",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Ceramic.dae",
     "size": [
       0.7127780020236969,
@@ -936,7 +936,7 @@
     "uuid": "5255920f-4d50-4fe7-bfb7-b2beb1b61f39"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Damaged.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Ceramic_Damaged.dae",
     "size": [
       0.7127780020236969,
@@ -951,7 +951,7 @@
     "uuid": "fd158b62-a920-49ae-bc74-56fe66b7b3d6"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Destruct.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Ceramic_Destruct.dae",
     "size": [
       1.2774240374565125,
@@ -966,7 +966,7 @@
     "uuid": "2aa78cc7-cf3c-4ec5-8da3-86bf8bd6aa37"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Explode.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Ceramic_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Ceramic_Explode.dae",
     "size": [
       0.7127729952335358,
@@ -980,7 +980,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Glazed_Broken.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Glazed_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Glazed_Broken.dae",
     "size": [
       0.7127780020236969,
@@ -995,7 +995,7 @@
     "uuid": "a08a1ad7-0c18-4ef9-8b65-04352c6f8d99"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Glazed_Damaged.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Glazed_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Glazed_Damaged.dae",
     "size": [
       0.7127780020236969,
@@ -1010,7 +1010,7 @@
     "uuid": "3332183b-4318-420a-9686-53cb83264b43"
   },
   {
-    "name": "CONT_HUM_Vase_Medium_C_Porcelain_Broken.dae",
+    "name": "CONT_HUM_Vase_Medium_C_Porcelain_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Medium_C_Porcelain_Broken.dae",
     "size": [
       0.7127780020236969,
@@ -1025,7 +1025,7 @@
     "uuid": "73de9268-009c-4bbf-b849-b860315f7ff0"
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Ceramic.dae",
+    "name": "CONT_HUM_Vase_Small_A_Ceramic",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Ceramic.dae",
     "size": [
       0.7862929999828339,
@@ -1040,7 +1040,7 @@
     "uuid": "d1a4f818-25e8-44e0-af6c-4182d5bcec0a"
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Small_A_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Ceramic_Broken.dae",
     "size": [
       0.7134380042552948,
@@ -1055,7 +1055,7 @@
     "uuid": "20840051-1e97-48fb-ad95-3bd2dd12651e"
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Ceramic_Destruct.dae",
+    "name": "CONT_HUM_Vase_Small_A_Ceramic_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Ceramic_Destruct.dae",
     "size": [
       2.1618069410324097,
@@ -1070,7 +1070,7 @@
     "uuid": "11d9cef8-0652-441d-bb04-63262dd9ae66"
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Ceramic_Explode.dae",
+    "name": "CONT_HUM_Vase_Small_A_Ceramic_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Ceramic_Explode.dae",
     "size": [
       0.7862929999828339,
@@ -1084,7 +1084,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Glazed_Damaged.dae",
+    "name": "CONT_HUM_Vase_Small_A_Glazed_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Glazed_Damaged.dae",
     "size": [
       0.7396720051765442,
@@ -1099,7 +1099,7 @@
     "uuid": "eda1053a-e756-4a6f-bfde-35d80b1a088f"
   },
   {
-    "name": "CONT_HUM_Vase_Small_A_Porcelain_Broken.dae",
+    "name": "CONT_HUM_Vase_Small_A_Porcelain_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_A_Porcelain_Broken.dae",
     "size": [
       0.7134380042552948,
@@ -1114,7 +1114,7 @@
     "uuid": "68d2eca0-4518-4bd6-a51b-bb03d75440e8"
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Glazed.dae",
+    "name": "CONT_HUM_Vase_Small_B_Glazed",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Glazed.dae",
     "size": [
       0.6950549781322479,
@@ -1129,7 +1129,7 @@
     "uuid": "743531ee-ee41-47f4-84c5-f355209532fe"
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Glazed_Broken.dae",
+    "name": "CONT_HUM_Vase_Small_B_Glazed_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Glazed_Broken.dae",
     "size": [
       0.7054489850997925,
@@ -1144,7 +1144,7 @@
     "uuid": "4f763f10-9e2e-4523-848a-48825f65c08b"
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Glazed_Destruct.dae",
+    "name": "CONT_HUM_Vase_Small_B_Glazed_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Glazed_Destruct.dae",
     "size": [
       1.2719079852104187,
@@ -1159,7 +1159,7 @@
     "uuid": "be4ccaa9-5c9b-4c75-a9e3-b4e27ffe4200"
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Glazed_Explode.dae",
+    "name": "CONT_HUM_Vase_Small_B_Glazed_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Glazed_Explode.dae",
     "size": [
       0.6950500011444092,
@@ -1173,7 +1173,7 @@
     ]
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Small_B_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Porcelain.dae",
     "size": [
       0.6950550079345703,
@@ -1188,7 +1188,7 @@
     "uuid": "9de37266-8329-43aa-9dc4-0f00ae5699a5"
   },
   {
-    "name": "CONT_HUM_Vase_Small_B_Porcelain_Damaged.dae",
+    "name": "CONT_HUM_Vase_Small_B_Porcelain_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_B_Porcelain_Damaged.dae",
     "size": [
       0.7054480016231537,
@@ -1203,7 +1203,7 @@
     "uuid": "999c7f94-54bd-4031-be78-12ea5a360e9f"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Ceramic_Broken.dae",
+    "name": "CONT_HUM_Vase_Small_C_Ceramic_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Ceramic_Broken.dae",
     "size": [
       0.6600100100040436,
@@ -1218,7 +1218,7 @@
     "uuid": "ac033b22-75be-4b8b-a58e-12479d2bb732"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Ceramic_Damaged.dae",
+    "name": "CONT_HUM_Vase_Small_C_Ceramic_Damaged",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Ceramic_Damaged.dae",
     "size": [
       0.6906200051307678,
@@ -1233,7 +1233,7 @@
     "uuid": "41797ed6-3922-4410-92d3-b6b5b1f4f157"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Glazed.dae",
+    "name": "CONT_HUM_Vase_Small_C_Glazed",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Glazed.dae",
     "size": [
       0.7665469944477081,
@@ -1248,7 +1248,7 @@
     "uuid": "fb080082-2b56-49dd-9031-bf02ce3260f8"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Glazed_Broken.dae",
+    "name": "CONT_HUM_Vase_Small_C_Glazed_Broken",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Glazed_Broken.dae",
     "size": [
       0.6600100100040436,
@@ -1263,7 +1263,7 @@
     "uuid": "7b068873-5fe1-406e-97d9-132b350911ec"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Porcelain.dae",
+    "name": "CONT_HUM_Vase_Small_C_Porcelain",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Porcelain.dae",
     "size": [
       0.7653349936008453,
@@ -1278,7 +1278,7 @@
     "uuid": "2092be3c-783c-41d0-b830-509959953bf7"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Porcelain_Destruct.dae",
+    "name": "CONT_HUM_Vase_Small_C_Porcelain_Destruct",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Porcelain_Destruct.dae",
     "size": [
       2.089348077774048,
@@ -1293,7 +1293,7 @@
     "uuid": "f1daa12d-79ca-42b6-8696-c6661994e2b0"
   },
   {
-    "name": "CONT_HUM_Vase_Small_C_Porcelain_Explode.dae",
+    "name": "CONT_HUM_Vase_Small_C_Porcelain_Explode",
     "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Small_C_Porcelain_Explode.dae",
     "size": [
       0.7504830062389374,
@@ -1307,7 +1307,7 @@
     ]
   },
   {
-    "name": "CONT_TreasurePile_A_Empty.dae",
+    "name": "CONT_TreasurePile_A_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_A_Empty.dae",
     "size": [
       8.719435691833496,
@@ -1322,7 +1322,7 @@
     "uuid": "0c5e6db6-75cc-4136-ba1c-5605c77a2059"
   },
   {
-    "name": "CONT_TreasurePile_A_Full.dae",
+    "name": "CONT_TreasurePile_A_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_A_Full.dae",
     "size": [
       10.170602321624756,
@@ -1337,7 +1337,7 @@
     "uuid": "fa6fba1c-d4b8-4280-9687-725d41e73db6"
   },
   {
-    "name": "CONT_TreasurePile_B_Empty.dae",
+    "name": "CONT_TreasurePile_B_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_B_Empty.dae",
     "size": [
       5.912658929824829,
@@ -1352,7 +1352,7 @@
     "uuid": "95608c9f-3366-436a-b446-e8706cc7a5c9"
   },
   {
-    "name": "CONT_TreasurePile_B_Full.dae",
+    "name": "CONT_TreasurePile_B_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_B_Full.dae",
     "size": [
       6.871556878089905,
@@ -1367,7 +1367,7 @@
     "uuid": "5c76d4a0-c051-4863-8871-67dae124ec80"
   },
   {
-    "name": "CONT_TreasurePile_C_Empty.dae",
+    "name": "CONT_TreasurePile_C_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_C_Empty.dae",
     "size": [
       8.768723964691162,
@@ -1382,7 +1382,7 @@
     "uuid": "9c9d8a6d-11c9-4c8c-9b2e-3e22faf34dca"
   },
   {
-    "name": "CONT_TreasurePile_C_Full.dae",
+    "name": "CONT_TreasurePile_C_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_C_Full.dae",
     "size": [
       9.33891487121582,
@@ -1397,7 +1397,7 @@
     "uuid": "0e03cbe2-b668-4579-8349-690b7ab63bf2"
   },
   {
-    "name": "CONT_TreasurePile_D_Empty.dae",
+    "name": "CONT_TreasurePile_D_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_D_Empty.dae",
     "size": [
       5.478964030742645,
@@ -1412,7 +1412,7 @@
     "uuid": "8fd4f9d9-527a-494f-976e-7018a9ef452e"
   },
   {
-    "name": "CONT_TreasurePile_D_Full.dae",
+    "name": "CONT_TreasurePile_D_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_D_Full.dae",
     "size": [
       6.1665778160095215,
@@ -1427,7 +1427,7 @@
     "uuid": "e3a16af1-201a-41c3-8626-4a6686aa2107"
   },
   {
-    "name": "CONT_TreasurePile_E_Empty.dae",
+    "name": "CONT_TreasurePile_E_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_E_Empty.dae",
     "size": [
       5.876253128051758,
@@ -1442,7 +1442,7 @@
     "uuid": "1cab2bf1-a997-4a18-acd0-ae005cd5a465"
   },
   {
-    "name": "CONT_TreasurePile_E_Full.dae",
+    "name": "CONT_TreasurePile_E_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_E_Full.dae",
     "size": [
       6.3097429275512695,
@@ -1457,7 +1457,7 @@
     "uuid": "2a5e286c-11cd-41e4-9f9f-5d67d1e9f203"
   },
   {
-    "name": "CONT_TreasurePile_F_Empty.dae",
+    "name": "CONT_TreasurePile_F_Empty",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_F_Empty.dae",
     "size": [
       6.147570848464966,
@@ -1472,7 +1472,7 @@
     "uuid": "1da1e293-17d9-420e-85cb-4562593ad1c8"
   },
   {
-    "name": "CONT_TreasurePile_F_Full.dae",
+    "name": "CONT_TreasurePile_F_Full",
     "relative_path": "Containers/CONT_TreasurePile_ABC/Resources/CONT_TreasurePile_F_Full.dae",
     "size": [
       6.147570848464966,
@@ -1487,7 +1487,7 @@
     "uuid": "526efaaf-0d39-4d60-9c82-3c4554327309"
   },
   {
-    "name": "CONT_UNI_Playercampchest_A.dae",
+    "name": "CONT_UNI_Playercampchest_A",
     "relative_path": "Containers/CONT_UNI_Playercampchest/Resources/CONT_UNI_Playercampchest_A.dae",
     "size": [
       1.690185010433197,
@@ -1501,7 +1501,7 @@
     ]
   },
   {
-    "name": "CONT_Corpse_Burned_A.dae",
+    "name": "CONT_Corpse_Burned_A",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_Corpse_Burned_A.dae",
     "size": [
       0.9936949908733368,
@@ -1516,7 +1516,7 @@
     "uuid": "bea61a7c-f27c-4817-ad59-dffa2e785f8a"
   },
   {
-    "name": "CONT_Corpse_Burned_B.dae",
+    "name": "CONT_Corpse_Burned_B",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_Corpse_Burned_B.dae",
     "size": [
       0.7542439997196198,
@@ -1531,7 +1531,7 @@
     "uuid": "661d9dfd-5f84-4c3b-8d82-1502d3414bf6"
   },
   {
-    "name": "CONT_Corpse_Burned_C.dae",
+    "name": "CONT_Corpse_Burned_C",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_Corpse_Burned_C.dae",
     "size": [
       0.5948860049247742,
@@ -1546,7 +1546,7 @@
     "uuid": "65f146d3-5130-4554-8809-864ec27d7474"
   },
   {
-    "name": "CONT_Corpse_Burned_D.dae",
+    "name": "CONT_Corpse_Burned_D",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_Corpse_Burned_D.dae",
     "size": [
       0.7815439999103546,
@@ -1561,7 +1561,7 @@
     "uuid": "4cf14ee5-f594-4b83-9873-45da33d91aff"
   },
   {
-    "name": "CONT_GOB_Corpse_Burned_A.dae",
+    "name": "CONT_GOB_Corpse_Burned_A",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_GOB_Corpse_Burned_A.dae",
     "size": [
       0.7743139863014221,
@@ -1576,7 +1576,7 @@
     "uuid": "9f8a4a8c-c895-4123-be85-876fc7798c16"
   },
   {
-    "name": "CONT_GOB_Corpse_Burned_B.dae",
+    "name": "CONT_GOB_Corpse_Burned_B",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_GOB_Corpse_Burned_B.dae",
     "size": [
       1.6110990047454834,
@@ -1591,7 +1591,7 @@
     "uuid": "2a3f0ff6-e692-40a5-8989-d7288f4916cd"
   },
   {
-    "name": "CONT_GOB_Corpse_Burned_C.dae",
+    "name": "CONT_GOB_Corpse_Burned_C",
     "relative_path": "Containers/Corpse/CONT_Corpse_Burned_ABC/Resources/CONT_GOB_Corpse_Burned_C.dae",
     "size": [
       0.7920279800891876,
@@ -1606,7 +1606,7 @@
     "uuid": "901758c1-32e3-46f1-ad02-6c6a72667239"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_A.dae",
     "size": [
       1.2634440064430237,
@@ -1621,7 +1621,7 @@
     "uuid": "d12653f5-d98c-48ca-8318-178bf5f4eed4"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A_Destruct.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_A_Destruct.dae",
     "size": [
       1.9465150237083435,
@@ -1636,7 +1636,7 @@
     "uuid": "bd3a4e58-de0c-4ba3-a741-ce49b1e256bf"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A_Explode.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_A_Explode.dae",
     "size": [
       1.2634440064430237,
@@ -1650,7 +1650,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_B.dae",
     "size": [
       1.7058550119400024,
@@ -1665,7 +1665,7 @@
     "uuid": "dfd1d2a2-a79e-4706-b7ff-f034b17556b7"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B_Destruct.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_B_Destruct.dae",
     "size": [
       2.6647889614105225,
@@ -1680,7 +1680,7 @@
     "uuid": "8c1e1c32-d4c2-40ff-b426-488e3dc35236"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B_Explode.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_B_Explode.dae",
     "size": [
       1.7058550119400024,
@@ -1694,7 +1694,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_C.dae",
     "size": [
       1.3538600206375122,
@@ -1709,7 +1709,7 @@
     "uuid": "7e075b93-bc5a-4845-a053-cf103a579f81"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C_Destruct.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_C_Destruct.dae",
     "size": [
       3.1146740913391113,
@@ -1724,7 +1724,7 @@
     "uuid": "fc617060-ebf3-469e-a164-c91b470b4c20"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C_Explode.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_C_Explode.dae",
     "size": [
       1.353859007358551,
@@ -1738,7 +1738,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_D.dae",
     "size": [
       1.4427640438079834,
@@ -1753,7 +1753,7 @@
     "uuid": "6ee2c3bf-0627-4c94-b6f1-596fe8b2dd86"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D_Destruct.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_D_Destruct.dae",
     "size": [
       2.3546630144119263,
@@ -1768,7 +1768,7 @@
     "uuid": "5702e99f-992a-44f8-86f6-a4a3658107f9"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D_Explode.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_D_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_D_Explode.dae",
     "size": [
       1.4427640438079834,
@@ -1782,7 +1782,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_E.dae",
     "size": [
       1.344681978225708,
@@ -1797,7 +1797,7 @@
     "uuid": "f9581491-afbc-49b4-9216-7c19c45a697c"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E_Destruct.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_E_Destruct.dae",
     "size": [
       2.0612520575523376,
@@ -1812,7 +1812,7 @@
     "uuid": "c78c3aa6-80f4-4873-bea1-026dbd3e40dc"
   },
   {
-    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E_Explode.dae",
+    "name": "CONT_GEN_Alcohol_Bottle_Shelf_E_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Alcohol_Bottle_Shelf_ABC/Resources/CONT_GEN_Alcohol_Bottle_Shelf_E_Explode.dae",
     "size": [
       1.344681978225708,
@@ -1826,7 +1826,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Ash_Pile_A.dae",
+    "name": "CONT_GEN_Ash_Pile_A",
     "relative_path": "Containers/Generic/CONT_GEN_Ash_Pile_A/Resources/CONT_GEN_Ash_Pile_A.dae",
     "size": [
       0.8523640036582947,
@@ -1840,7 +1840,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Ash_Pile_A_Large_A.dae",
+    "name": "CONT_GEN_Ash_Pile_A_Large_A",
     "relative_path": "Containers/Generic/CONT_GEN_Ash_Pile_A/Resources/CONT_GEN_Ash_Pile_A_Large_A.dae",
     "size": [
       2.4366239309310913,
@@ -1855,7 +1855,7 @@
     "uuid": "4c0805a4-0701-4043-972d-9022cb74c3c0"
   },
   {
-    "name": "CONT_GEN_Ash_Pile_A_Medium_A.dae",
+    "name": "CONT_GEN_Ash_Pile_A_Medium_A",
     "relative_path": "Containers/Generic/CONT_GEN_Ash_Pile_A/Resources/CONT_GEN_Ash_Pile_A_Medium_A.dae",
     "size": [
       1.278548002243042,
@@ -1870,7 +1870,7 @@
     "uuid": "36b27732-b89e-40d4-9ada-6d6388b14cf8"
   },
   {
-    "name": "CONT_GEN_Ash_Pile_A_Small_A.dae",
+    "name": "CONT_GEN_Ash_Pile_A_Small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Ash_Pile_A/Resources/CONT_GEN_Ash_Pile_A_Small_A.dae",
     "size": [
       0.6636659801006317,
@@ -1885,7 +1885,7 @@
     "uuid": "b4f1667c-fc81-4b63-9686-7722f7919b6c"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_A.dae",
+    "name": "CONT_GEN_Basket_Wicker_A",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_A.dae",
     "size": [
       0.7629240155220032,
@@ -1900,7 +1900,7 @@
     "uuid": "a2920b2d-b6b4-4533-97fd-6298f38a0ba1"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_B.dae",
+    "name": "CONT_GEN_Basket_Wicker_B",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_B.dae",
     "size": [
       0.7629240155220032,
@@ -1915,7 +1915,7 @@
     "uuid": "15f5a106-ddb5-4075-af7f-f1cb550e012a"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_Bin_A.dae",
+    "name": "CONT_GEN_Basket_Wicker_Bin_A",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_Bin_A.dae",
     "size": [
       1.0195109844207764,
@@ -1930,7 +1930,7 @@
     "uuid": "7236114f-8fc0-4445-b9fe-e4dcc85d5054"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_C.dae",
+    "name": "CONT_GEN_Basket_Wicker_C",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_C.dae",
     "size": [
       0.835660994052887,
@@ -1945,7 +1945,7 @@
     "uuid": "73882c7c-7624-4b62-93db-c9387b991113"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_D.dae",
+    "name": "CONT_GEN_Basket_Wicker_D",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_D.dae",
     "size": [
       1.0089799761772156,
@@ -1960,7 +1960,7 @@
     "uuid": "e0a0d56e-6c23-4d98-a863-cedc6f91a0a8"
   },
   {
-    "name": "CONT_GEN_Basket_Wicker_E.dae",
+    "name": "CONT_GEN_Basket_Wicker_E",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Wicker_ABC/Resources/CONT_GEN_Basket_Wicker_E.dae",
     "size": [
       1.1639059782028198,
@@ -1975,7 +1975,7 @@
     "uuid": "da4a06d1-07ac-48e9-bf9d-29d75aa23900"
   },
   {
-    "name": "CONT_GEN_Beehive_A.dae",
+    "name": "CONT_GEN_Beehive_A",
     "relative_path": "Containers/Generic/CONT_GEN_Beehive_ABC/Resources/CONT_GEN_Beehive_A.dae",
     "size": [
       0.7534309923648834,
@@ -1990,7 +1990,7 @@
     "uuid": "583d991e-3687-417e-8740-9f0e208e853c"
   },
   {
-    "name": "LOOT_GEN_Honey_Comb_A.dae",
+    "name": "LOOT_GEN_Honey_Comb_A",
     "relative_path": "Containers/Generic/CONT_GEN_Beehive_ABC/Resources/LOOT_GEN_Honey_Comb_A.dae",
     "size": [
       0.5548209846019745,
@@ -2004,7 +2004,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Berry_Bush_A.dae",
+    "name": "CONT_GEN_Berry_Bush_A",
     "relative_path": "Containers/Generic/CONT_GEN_Berry_Bush_ABC/Resources/CONT_GEN_Berry_Bush_A.dae",
     "size": [
       2.8522759675979614,
@@ -2019,7 +2019,7 @@
     "uuid": "4c8f5873-ece7-4dd9-84b1-a7446b819d4e"
   },
   {
-    "name": "CONT_GEN_Berry_Bush_A_Empty.dae",
+    "name": "CONT_GEN_Berry_Bush_A_Empty",
     "relative_path": "Containers/Generic/CONT_GEN_Berry_Bush_ABC/Resources/CONT_GEN_Berry_Bush_A_Empty.dae",
     "size": [
       2.8522759675979614,
@@ -2033,7 +2033,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Books_Stack_A.dae",
+    "name": "CONT_GEN_Books_Stack_A",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_A.dae",
     "size": [
       2.8464128971099854,
@@ -2048,7 +2048,7 @@
     "uuid": "5781bc19-ecfc-4d84-b3ec-4dc7d11bd431"
   },
   {
-    "name": "CONT_GEN_Books_Stack_A_Destruct.dae",
+    "name": "CONT_GEN_Books_Stack_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_A_Destruct.dae",
     "size": [
       3.779118061065674,
@@ -2063,7 +2063,7 @@
     "uuid": "ee1ac7a5-45a4-499d-961f-8f9fd9951460"
   },
   {
-    "name": "CONT_GEN_Books_Stack_A_Explode.dae",
+    "name": "CONT_GEN_Books_Stack_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_A_Explode.dae",
     "size": [
       2.8464128971099854,
@@ -2077,7 +2077,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Books_Stack_B.dae",
+    "name": "CONT_GEN_Books_Stack_B",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_B.dae",
     "size": [
       2.7093030214309692,
@@ -2092,7 +2092,7 @@
     "uuid": "aa7096af-0789-4612-920b-d5dfcc8ad5bd"
   },
   {
-    "name": "CONT_GEN_Books_Stack_B_Destruct.dae",
+    "name": "CONT_GEN_Books_Stack_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_B_Destruct.dae",
     "size": [
       3.671627998352051,
@@ -2107,7 +2107,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONT_GEN_Books_Stack_B_Explode.dae",
+    "name": "CONT_GEN_Books_Stack_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Books_Stack_ABC/Resources/CONT_GEN_Books_Stack_B_Explode.dae",
     "size": [
       2.7083120346069336,
@@ -2121,7 +2121,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_A.dae",
+    "name": "CONT_GEN_Burlap_Sack_A",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_A.dae",
     "size": [
       0.8774009943008423,
@@ -2136,7 +2136,7 @@
     "uuid": "d1435fc0-eca6-47c5-a346-013d294a8457"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_A_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_A_Destruct.dae",
     "size": [
       2.5394319891929626,
@@ -2151,7 +2151,7 @@
     "uuid": "d098ac24-5ca2-40e5-a04f-154edd26aca2"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_B.dae",
+    "name": "CONT_GEN_Burlap_Sack_B",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_B.dae",
     "size": [
       0.6172559857368469,
@@ -2166,7 +2166,7 @@
     "uuid": "30f02c80-a799-4747-a22e-77db211575b3"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_B_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_B_Destruct.dae",
     "size": [
       2.463486969470978,
@@ -2181,7 +2181,7 @@
     "uuid": "daac7801-13f7-4b55-b3cd-52d0d14fd510"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_C.dae",
+    "name": "CONT_GEN_Burlap_Sack_C",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_C.dae",
     "size": [
       0.7316929996013641,
@@ -2196,7 +2196,7 @@
     "uuid": "c255f282-918c-48da-9fcd-59c9f29e1657"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_Combine_B.dae",
+    "name": "CONT_GEN_Burlap_Sack_Combine_B",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_Combine_B.dae",
     "size": [
       1.0706300139427185,
@@ -2210,7 +2210,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_Combine_B_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_Combine_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_Combine_B_Destruct.dae",
     "size": [
       1.063418984413147,
@@ -2225,7 +2225,7 @@
     "uuid": "3dcfe7d1-d29f-44b2-9905-7c571f4abc37"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_C_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_C_Destruct.dae",
     "size": [
       0.7746839821338654,
@@ -2240,7 +2240,7 @@
     "uuid": "331841cf-c06a-44e2-b52d-9bae5d6fbe37"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_D.dae",
+    "name": "CONT_GEN_Burlap_Sack_D",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_D.dae",
     "size": [
       0.7550980150699615,
@@ -2255,7 +2255,7 @@
     "uuid": "25c02e53-02e8-4fed-8588-0601c1ee4847"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_D_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_D_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_D_Destruct.dae",
     "size": [
       0.8296899795532227,
@@ -2270,7 +2270,7 @@
     "uuid": "dde82d0c-aae7-4339-aa5f-159b7549c8f2"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_E.dae",
+    "name": "CONT_GEN_Burlap_Sack_E",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_E.dae",
     "size": [
       0.3349519968032837,
@@ -2285,7 +2285,7 @@
     "uuid": "ed2bfb63-358b-427d-a783-3a9d4aedbee7"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_E_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_E_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_E_Destruct.dae",
     "size": [
       2.6648828983306885,
@@ -2300,7 +2300,7 @@
     "uuid": "bc70163d-5511-481e-8974-efc7fac2d310"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_F.dae",
+    "name": "CONT_GEN_Burlap_Sack_F",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_F.dae",
     "size": [
       0.6943539977073669,
@@ -2315,7 +2315,7 @@
     "uuid": "8bce3e19-86dd-41f2-adb6-c8a47b9660cb"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_F_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_F_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_F_Destruct.dae",
     "size": [
       2.6648828983306885,
@@ -2330,7 +2330,7 @@
     "uuid": "a6e8b579-303b-4b64-a7dd-daa8a2c915e4"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_G.dae",
+    "name": "CONT_GEN_Burlap_Sack_G",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_G.dae",
     "size": [
       0.6095510125160217,
@@ -2345,7 +2345,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_H.dae",
+    "name": "CONT_GEN_Burlap_Sack_H",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_H.dae",
     "size": [
       0.8071979880332947,
@@ -2360,7 +2360,7 @@
     "uuid": "c38da1f8-aa6a-48f3-9060-e7b7bd349941"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_I.dae",
+    "name": "CONT_GEN_Burlap_Sack_I",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_I.dae",
     "size": [
       0.7186149954795837,
@@ -2375,7 +2375,7 @@
     "uuid": "161aa0cd-8b55-4fa6-8d5d-4168574c9a64"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_I_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_I_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_I_Destruct.dae",
     "size": [
       2.299031972885132,
@@ -2390,7 +2390,7 @@
     "uuid": "ffb4a2a7-612a-4911-8561-3ffbf6ccf482"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_J.dae",
+    "name": "CONT_GEN_Burlap_Sack_J",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_J.dae",
     "size": [
       0.5460100173950195,
@@ -2405,7 +2405,7 @@
     "uuid": "878125fe-6b5f-4942-be8e-5410e4581d02"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_J_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_J_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_J_Destruct.dae",
     "size": [
       1.8741629719734192,
@@ -2420,7 +2420,7 @@
     "uuid": "c31d3644-3845-4011-9347-818276f51fe9"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_K.dae",
+    "name": "CONT_GEN_Burlap_Sack_K",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_K.dae",
     "size": [
       0.6602120101451874,
@@ -2435,7 +2435,7 @@
     "uuid": "1bc7cb6c-4634-4f60-b686-4ff8214b080e"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_K_Destruct.dae",
+    "name": "CONT_GEN_Burlap_Sack_K_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/CONT_GEN_Burlap_Sack_K_Destruct.dae",
     "size": [
       2.373634934425354,
@@ -2450,7 +2450,7 @@
     "uuid": "d02fdd63-eeae-4a7f-877f-cbe9db168685"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_Pile_A.dae",
+    "name": "CONT_GEN_Burlap_Sack_Pile_A",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_Pile_ABC/Resources/CONT_GEN_Burlap_Sack_Pile_A.dae",
     "size": [
       1.853255033493042,
@@ -2465,7 +2465,7 @@
     "uuid": "1b3f2e3c-7d15-4427-8b01-14578d5e1c6f"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_Pile_B.dae",
+    "name": "CONT_GEN_Burlap_Sack_Pile_B",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_Pile_ABC/Resources/CONT_GEN_Burlap_Sack_Pile_B.dae",
     "size": [
       2.568618953227997,
@@ -2480,7 +2480,7 @@
     "uuid": "25e02e6b-56b3-4f1c-a952-14c04b114bd8"
   },
   {
-    "name": "CONT_GEN_Burlap_Sack_Pile_C.dae",
+    "name": "CONT_GEN_Burlap_Sack_Pile_C",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_Pile_ABC/Resources/CONT_GEN_Burlap_Sack_Pile_C.dae",
     "size": [
       1.8863749504089355,
@@ -2495,7 +2495,7 @@
     "uuid": "5106d7e1-e7cb-48ca-b01e-d08237054a6b"
   },
   {
-    "name": "CONT_GEN_Burrow_Collapsed_A.dae",
+    "name": "CONT_GEN_Burrow_Collapsed_A",
     "relative_path": "Containers/Generic/CONT_GEN_Burrow_Collapsed_ABC/Resources/CONT_GEN_Burrow_Collapsed_A.dae",
     "size": [
       4.253880977630615,
@@ -2510,7 +2510,7 @@
     "uuid": "42cddc9f-1bdc-48a6-b441-d9369c5a759a"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A.dae",
+    "name": "CONT_GEN_Chest_Common_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A.dae",
     "size": [
       1.8509360551834106,
@@ -2525,7 +2525,7 @@
     "uuid": "abc4056e-f96d-473c-bfa8-0da70b8d2d8a"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_Covered_A.dae",
+    "name": "CONT_GEN_Chest_Common_A_Covered_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_Covered_A.dae",
     "size": [
       2.197982907295227,
@@ -2540,7 +2540,7 @@
     "uuid": "a5ee3665-2df3-47f5-81ea-4a721cb0c0c4"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Common_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_Destruct.dae",
     "size": [
       2.9463640451431274,
@@ -2555,7 +2555,7 @@
     "uuid": "60c80d73-5eef-4df4-aa68-7c52e47986e6"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Common_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_Explode.dae",
     "size": [
       1.731777012348175,
@@ -2569,7 +2569,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_small_A.dae",
+    "name": "CONT_GEN_Chest_Common_A_small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_small_A.dae",
     "size": [
       1.4933800101280212,
@@ -2584,7 +2584,7 @@
     "uuid": "8c5f95d0-64d7-48ce-a871-48cd43c1e019"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_Small_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Common_A_Small_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_Small_A_Destruct.dae",
     "size": [
       2.09352707862854,
@@ -2599,7 +2599,7 @@
     "uuid": "e748bf53-6891-4b7e-b534-b46e1ee8c839"
   },
   {
-    "name": "CONT_GEN_Chest_Common_A_Small_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Common_A_Small_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_A_Small_A_Explode.dae",
     "size": [
       1.3840789794921875,
@@ -2613,7 +2613,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Common_B.dae",
+    "name": "CONT_GEN_Chest_Common_B",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B.dae",
     "size": [
       1.784961998462677,
@@ -2628,7 +2628,7 @@
     "uuid": "335571b1-0d14-49df-bf02-af286c99ad97"
   },
   {
-    "name": "CONT_GEN_Chest_Common_B_Destruct.dae",
+    "name": "CONT_GEN_Chest_Common_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B_Destruct.dae",
     "size": [
       2.8292019367218018,
@@ -2643,7 +2643,7 @@
     "uuid": "b013c177-056c-423f-9470-1cdb0cfc531f"
   },
   {
-    "name": "CONT_GEN_Chest_Common_B_Explode.dae",
+    "name": "CONT_GEN_Chest_Common_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B_Explode.dae",
     "size": [
       1.784961998462677,
@@ -2657,7 +2657,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Common_B_Small_A.dae",
+    "name": "CONT_GEN_Chest_Common_B_Small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B_Small_A.dae",
     "size": [
       1.1082560420036316,
@@ -2672,7 +2672,7 @@
     "uuid": "3339e045-a078-407b-9fb8-2af0d297e62a"
   },
   {
-    "name": "CONT_GEN_Chest_Common_B_Small_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Common_B_Small_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B_Small_A_Destruct.dae",
     "size": [
       1.9381329417228699,
@@ -2687,7 +2687,7 @@
     "uuid": "4fb886e2-e545-4cf9-921b-e7f67abfc5d7"
   },
   {
-    "name": "CONT_GEN_Chest_Common_B_Small_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Common_B_Small_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Common_ABC/Resources/CONT_GEN_Chest_Common_B_Small_A_Explode.dae",
     "size": [
       1.1082560420036316,
@@ -2701,7 +2701,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A.dae",
+    "name": "CONT_GEN_Chest_Heavy_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A.dae",
     "size": [
       1.887995958328247,
@@ -2716,7 +2716,7 @@
     "uuid": "0b90bf9d-66fd-4741-be1f-39181efca97a"
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Heavy_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A_Destruct.dae",
     "size": [
       2.8860570192337036,
@@ -2731,7 +2731,7 @@
     "uuid": "9ebcc1d3-9911-4f6f-97fb-b77a5d4d2ca6"
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Heavy_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A_Explode.dae",
     "size": [
       1.8419049978256226,
@@ -2745,7 +2745,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A_Small_A.dae",
+    "name": "CONT_GEN_Chest_Heavy_A_Small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A_Small_A.dae",
     "size": [
       0.8959159851074219,
@@ -2760,7 +2760,7 @@
     "uuid": "e08b2a75-424d-4827-a9c8-adf00a314f2b"
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A_Small_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Heavy_A_Small_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A_Small_A_Destruct.dae",
     "size": [
       2.0299299359321594,
@@ -2775,7 +2775,7 @@
     "uuid": "02f542b1-bf7d-4aca-b233-085ff36223d2"
   },
   {
-    "name": "CONT_GEN_Chest_Heavy_A_Small_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Heavy_A_Small_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Heavy_ABC/Resources/CONT_GEN_Chest_Heavy_A_Small_A_Explode.dae",
     "size": [
       0.7893309891223907,
@@ -2789,7 +2789,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_A.dae",
+    "name": "CONT_GEN_Chest_Jewel_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_A.dae",
     "size": [
       1.2908040285110474,
@@ -2804,7 +2804,7 @@
     "uuid": "7aef0ad4-113a-402b-8491-e2dbff9add19"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Jewel_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_A_Destruct.dae",
     "size": [
       2.3255199790000916,
@@ -2819,7 +2819,7 @@
     "uuid": "a964a6a3-8f0a-48cb-b8ae-43bc0e5a4126"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Jewel_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_A_Explode.dae",
     "size": [
       1.2908040285110474,
@@ -2833,7 +2833,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_B.dae",
+    "name": "CONT_GEN_Chest_Jewel_B",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_B.dae",
     "size": [
       1.3248380422592163,
@@ -2848,7 +2848,7 @@
     "uuid": "a87debb4-a746-41b8-8441-7c436a91cc2d"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_B_Destruct.dae",
+    "name": "CONT_GEN_Chest_Jewel_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_B_Destruct.dae",
     "size": [
       2.0468879342079163,
@@ -2863,7 +2863,7 @@
     "uuid": "bb8d9215-15a3-4303-a15c-88d0df1aab8c"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_B_Explode.dae",
+    "name": "CONT_GEN_Chest_Jewel_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_B_Explode.dae",
     "size": [
       1.3248380422592163,
@@ -2877,7 +2877,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_C.dae",
+    "name": "CONT_GEN_Chest_Jewel_C",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_C.dae",
     "size": [
       1.268936038017273,
@@ -2892,7 +2892,7 @@
     "uuid": "da21bd63-5022-45e6-a503-975fa3b2e1ef"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_C_Destruct.dae",
+    "name": "CONT_GEN_Chest_Jewel_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_C_Destruct.dae",
     "size": [
       2.2394109964370728,
@@ -2907,7 +2907,7 @@
     "uuid": "0b5774a5-0f99-448b-b905-8a4c0489eebf"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_C_Explode.dae",
+    "name": "CONT_GEN_Chest_Jewel_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_C_Explode.dae",
     "size": [
       1.268936038017273,
@@ -2921,7 +2921,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_D.dae",
+    "name": "CONT_GEN_Chest_Jewel_D",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_D.dae",
     "size": [
       1.76282799243927,
@@ -2936,7 +2936,7 @@
     "uuid": "8e036eac-fc9c-4d16-9265-f71eacc9f3e9"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_D_Destruct.dae",
+    "name": "CONT_GEN_Chest_Jewel_D_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_D_Destruct.dae",
     "size": [
       2.9151859283447266,
@@ -2951,7 +2951,7 @@
     "uuid": "dcf64d41-308d-4583-946b-cf1f625da11d"
   },
   {
-    "name": "CONT_GEN_Chest_Jewel_D_Explode.dae",
+    "name": "CONT_GEN_Chest_Jewel_D_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_D_Explode.dae",
     "size": [
       1.76282799243927,
@@ -2965,7 +2965,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Rich_A.dae",
+    "name": "CONT_GEN_Chest_Rich_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_A.dae",
     "size": [
       2.0860939025878906,
@@ -2980,7 +2980,7 @@
     "uuid": "51446e33-fea9-4166-9b7e-74b8e3fc9809"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Rich_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_A_Destruct.dae",
     "size": [
       3.8264020681381226,
@@ -2995,7 +2995,7 @@
     "uuid": "cadedd1c-87af-4c0a-9d08-09b2cf4c789c"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Rich_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_A_Explode.dae",
     "size": [
       2.0784080028533936,
@@ -3009,7 +3009,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Rich_B.dae",
+    "name": "CONT_GEN_Chest_Rich_B",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_B.dae",
     "size": [
       2.009705066680908,
@@ -3024,7 +3024,7 @@
     "uuid": "0e600db2-aa76-4c98-b4d5-a55c0853e7f1"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_B_Destruct.dae",
+    "name": "CONT_GEN_Chest_Rich_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_B_Destruct.dae",
     "size": [
       3.2083500623703003,
@@ -3039,7 +3039,7 @@
     "uuid": "88960b21-b14c-4ae5-923c-4bf8442cb98e"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_B_Explode.dae",
+    "name": "CONT_GEN_Chest_Rich_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_B_Explode.dae",
     "size": [
       2.009705066680908,
@@ -3053,7 +3053,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Rich_C.dae",
+    "name": "CONT_GEN_Chest_Rich_C",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_C.dae",
     "size": [
       2.171113967895508,
@@ -3068,7 +3068,7 @@
     "uuid": "6c852107-00f9-4749-b147-2635b4fb369e"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_C_Destruct.dae",
+    "name": "CONT_GEN_Chest_Rich_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_C_Destruct.dae",
     "size": [
       2.598726987838745,
@@ -3083,7 +3083,7 @@
     "uuid": "5844e31b-ca8c-4afe-a70a-3e975c3a9c20"
   },
   {
-    "name": "CONT_GEN_Chest_Rich_C_Explode.dae",
+    "name": "CONT_GEN_Chest_Rich_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Rich_ABC/Resources/CONT_GEN_Chest_Rich_C_Explode.dae",
     "size": [
       2.171113967895508,
@@ -3097,7 +3097,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A.dae",
+    "name": "CONT_GEN_Chest_Travel_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A.dae",
     "size": [
       1.6601239442825317,
@@ -3112,7 +3112,7 @@
     "uuid": "b1487efd-4ae8-4747-866d-717df74169cd"
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Travel_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A_Destruct.dae",
     "size": [
       2.0534409880638123,
@@ -3127,7 +3127,7 @@
     "uuid": "b2329e1b-c466-4b0a-96c8-7296310b7592"
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Travel_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A_Explode.dae",
     "size": [
       1.5074620246887207,
@@ -3141,7 +3141,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A_Small_A.dae",
+    "name": "CONT_GEN_Chest_Travel_A_Small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A_Small_A.dae",
     "size": [
       1.3402119874954224,
@@ -3156,7 +3156,7 @@
     "uuid": "65ad4dbc-74b2-47b6-bad4-1a109cfc9639"
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A_Small_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Travel_A_Small_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A_Small_A_Destruct.dae",
     "size": [
       1.4719970226287842,
@@ -3171,7 +3171,7 @@
     "uuid": "1bea4736-87bc-4a48-878d-e8f993614254"
   },
   {
-    "name": "CONT_GEN_Chest_Travel_A_Small_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Travel_A_Small_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Travel_ABC/Resources/CONT_GEN_Chest_Travel_A_Small_A_Explode.dae",
     "size": [
       1.205970048904419,
@@ -3185,7 +3185,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Wicker_A.dae",
+    "name": "CONT_GEN_Chest_Wicker_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wicker_ABC/Resources/CONT_GEN_Chest_Wicker_A.dae",
     "size": [
       1.7218999862670898,
@@ -3200,7 +3200,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "CONT_GEN_Chest_Wicker_A_Small_A.dae",
+    "name": "CONT_GEN_Chest_Wicker_A_Small_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wicker_ABC/Resources/CONT_GEN_Chest_Wicker_A_Small_A.dae",
     "size": [
       0.8596920073032379,
@@ -3215,7 +3215,7 @@
     "uuid": "27876bb2-4de2-4f56-9090-f1cf319e79a4"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_A.dae",
+    "name": "CONT_GEN_Chest_Wood_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_A.dae",
     "size": [
       1.612902045249939,
@@ -3230,7 +3230,7 @@
     "uuid": "5f089bb9-1816-43b8-8e44-f2d58804ea23"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Wood_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_A_Destruct.dae",
     "size": [
       3.2665748596191406,
@@ -3245,7 +3245,7 @@
     "uuid": "6d0ad009-365e-49b6-a509-2ede653fbf19"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Wood_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_A_Explode.dae",
     "size": [
       1.5802689790725708,
@@ -3259,7 +3259,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Wood_B.dae",
+    "name": "CONT_GEN_Chest_Wood_B",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_B.dae",
     "size": [
       1.5838199853897095,
@@ -3274,7 +3274,7 @@
     "uuid": "bcab5511-8b7a-4f15-be35-e7f1771caf70"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_B_Destruct.dae",
+    "name": "CONT_GEN_Chest_Wood_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_B_Destruct.dae",
     "size": [
       2.211237072944641,
@@ -3289,7 +3289,7 @@
     "uuid": "4be88082-be10-41a5-8894-753550ec0c30"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_B_Explode.dae",
+    "name": "CONT_GEN_Chest_Wood_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_ABC/Resources/CONT_GEN_Chest_Wood_B_Explode.dae",
     "size": [
       1.5818250179290771,
@@ -3303,7 +3303,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Chest_Wood_Painted_A.dae",
+    "name": "CONT_GEN_Chest_Wood_Painted_A",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_Painted_ABC/Resources/CONT_GEN_Chest_Wood_Painted_A.dae",
     "size": [
       2.0269339084625244,
@@ -3318,7 +3318,7 @@
     "uuid": "9e7c9903-5690-488d-b648-462fa5cbaafe"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_Painted_A_Destruct.dae",
+    "name": "CONT_GEN_Chest_Wood_Painted_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_Painted_ABC/Resources/CONT_GEN_Chest_Wood_Painted_A_Destruct.dae",
     "size": [
       3.1927990913391113,
@@ -3333,7 +3333,7 @@
     "uuid": "5e9bad11-b247-45f1-aca7-853a5839a1c3"
   },
   {
-    "name": "CONT_GEN_Chest_Wood_Painted_A_Explode.dae",
+    "name": "CONT_GEN_Chest_Wood_Painted_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Chest_Wood_Painted_ABC/Resources/CONT_GEN_Chest_Wood_Painted_A_Explode.dae",
     "size": [
       1.8823280334472656,
@@ -3347,7 +3347,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_A.dae",
+    "name": "CONT_GEN_Crate_Clothing_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_A.dae",
     "size": [
       0.7520039975643158,
@@ -3362,7 +3362,7 @@
     "uuid": "6ec55dde-2926-4644-bd23-c730413f476b"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_A_Destruct.dae",
+    "name": "CONT_GEN_Crate_Clothing_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_A_Destruct.dae",
     "size": [
       2.5945470333099365,
@@ -3377,7 +3377,7 @@
     "uuid": "4767d253-3699-4862-b9e4-b1ea023db2ef"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_A_Explode.dae",
+    "name": "CONT_GEN_Crate_Clothing_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_A_Explode.dae",
     "size": [
       0.7520039975643158,
@@ -3391,7 +3391,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_B.dae",
+    "name": "CONT_GEN_Crate_Clothing_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_B.dae",
     "size": [
       0.7520039975643158,
@@ -3406,7 +3406,7 @@
     "uuid": "9b431a09-bdf2-410d-adad-d0a0524aa8aa"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_C.dae",
+    "name": "CONT_GEN_Crate_Clothing_C",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_C.dae",
     "size": [
       0.9901230037212372,
@@ -3421,7 +3421,7 @@
     "uuid": "8882b78a-5cc9-457a-b032-7da6d8873c42"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_C_Destruct.dae",
+    "name": "CONT_GEN_Crate_Clothing_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_C_Destruct.dae",
     "size": [
       2.0600119829177856,
@@ -3436,7 +3436,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_C_Explode.dae",
+    "name": "CONT_GEN_Crate_Clothing_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_C_Explode.dae",
     "size": [
       0.9900000095367432,
@@ -3450,7 +3450,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_D.dae",
+    "name": "CONT_GEN_Crate_Clothing_D",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_D.dae",
     "size": [
       0.9473400115966797,
@@ -3465,7 +3465,7 @@
     "uuid": "bfe639d5-e732-4b86-a06c-fbf954ce4972"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_D_Destruct.dae",
+    "name": "CONT_GEN_Crate_Clothing_D_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_D_Destruct.dae",
     "size": [
       2.7537269592285156,
@@ -3480,7 +3480,7 @@
     "uuid": "e552f73c-44e7-40f9-b8f6-9cb455364dae"
   },
   {
-    "name": "CONT_GEN_Crate_Clothing_D_Explode.dae",
+    "name": "CONT_GEN_Crate_Clothing_D_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/CONT_GEN_Crate_Clothing_D_Explode.dae",
     "size": [
       0.9473400115966797,
@@ -3494,7 +3494,7 @@
     ]
   },
   {
-    "name": "INTERACT_CONT_GEN_Crate_Clothing_A.dae",
+    "name": "INTERACT_CONT_GEN_Crate_Clothing_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/INTERACT_CONT_GEN_Crate_Clothing_A.dae",
     "size": [
       0.7520039975643158,
@@ -3509,7 +3509,7 @@
     "uuid": "4241261a-d481-4f7a-b041-6ff973c8902e"
   },
   {
-    "name": "INTERACT_CONT_GEN_Crate_Clothing_B.dae",
+    "name": "INTERACT_CONT_GEN_Crate_Clothing_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/INTERACT_CONT_GEN_Crate_Clothing_B.dae",
     "size": [
       0.7520039975643158,
@@ -3524,7 +3524,7 @@
     "uuid": "89ae30cb-f50d-46fa-857a-fa66b2664d2a"
   },
   {
-    "name": "INTERACT_CONT_GEN_Crate_Clothing_C.dae",
+    "name": "INTERACT_CONT_GEN_Crate_Clothing_C",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/INTERACT_CONT_GEN_Crate_Clothing_C.dae",
     "size": [
       0.9901230037212372,
@@ -3539,7 +3539,7 @@
     "uuid": "7e67b833-84a8-44cf-bc99-86ecbf76690a"
   },
   {
-    "name": "INTERACT_CONT_GEN_Crate_Clothing_D.dae",
+    "name": "INTERACT_CONT_GEN_Crate_Clothing_D",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Clothing_ABC/Resources/INTERACT_CONT_GEN_Crate_Clothing_D.dae",
     "size": [
       0.9473400115966797,
@@ -3554,7 +3554,7 @@
     "uuid": "6cabb21b-8e66-469d-9aa4-f272d51f9127"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_A.dae",
+    "name": "CONT_GEN_Crate_Wood_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_A.dae",
     "size": [
       0.9473400115966797,
@@ -3569,7 +3569,7 @@
     "uuid": "23578669-058f-4318-8e51-87523fc1307f"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_A_Destruct.dae",
+    "name": "CONT_GEN_Crate_Wood_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_A_Destruct.dae",
     "size": [
       2.4676690101623535,
@@ -3584,7 +3584,7 @@
     "uuid": "be3b45cc-ee4f-4f85-8857-e310dbd55c23"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_A_Explode.dae",
+    "name": "CONT_GEN_Crate_Wood_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_A_Explode.dae",
     "size": [
       0.9462029933929443,
@@ -3598,7 +3598,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Wood_B.dae",
+    "name": "CONT_GEN_Crate_Wood_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_B.dae",
     "size": [
       0.9961569905281067,
@@ -3613,7 +3613,7 @@
     "uuid": "9611ac43-410c-447d-b786-853b8d30408c"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_B_Destroyed_A.dae",
+    "name": "CONT_GEN_Crate_Wood_B_Destroyed_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_B_Destroyed_A.dae",
     "size": [
       1.1812649965286255,
@@ -3628,7 +3628,7 @@
     "uuid": "813ec800-76a9-4c86-9367-627dbf0e750c"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_B_Destruct.dae",
+    "name": "CONT_GEN_Crate_Wood_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_B_Destruct.dae",
     "size": [
       2.196245014667511,
@@ -3643,7 +3643,7 @@
     "uuid": "b1c99edd-c43c-4663-ac60-d17628d349b9"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_B_Explode.dae",
+    "name": "CONT_GEN_Crate_Wood_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_B_Explode.dae",
     "size": [
       0.9961569905281067,
@@ -3657,7 +3657,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Wood_C.dae",
+    "name": "CONT_GEN_Crate_Wood_C",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_C.dae",
     "size": [
       0.724016010761261,
@@ -3672,7 +3672,7 @@
     "uuid": "f403ec67-ba4b-4320-983a-60a8de9e3492"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_C_Destruct.dae",
+    "name": "CONT_GEN_Crate_Wood_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_C_Destruct.dae",
     "size": [
       2.0198870301246643,
@@ -3687,7 +3687,7 @@
     "uuid": "3cda1703-4bce-4f29-a8ca-4fd49963aa33"
   },
   {
-    "name": "CONT_GEN_Crate_Wood_C_Explode.dae",
+    "name": "CONT_GEN_Crate_Wood_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_C_Explode.dae",
     "size": [
       0.7212920188903809,
@@ -3701,7 +3701,7 @@
     ]
   },
   {
-    "name": "DEC_GEN_Crate_Wood_Open_A.dae",
+    "name": "DEC_GEN_Crate_Wood_Open_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/DEC_GEN_Crate_Wood_Open_A.dae",
     "size": [
       0.7520039975643158,
@@ -3716,7 +3716,7 @@
     "uuid": "3815452b-af92-4a4b-a77d-15eb3b5a7263"
   },
   {
-    "name": "DEC_GEN_Crate_Wood_Open_A_Destruct.dae",
+    "name": "DEC_GEN_Crate_Wood_Open_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/DEC_GEN_Crate_Wood_Open_A_Destruct.dae",
     "size": [
       1.9573979377746582,
@@ -3731,7 +3731,7 @@
     "uuid": "956e54f6-9041-4f25-a425-64d46a7d20be"
   },
   {
-    "name": "DEC_GEN_Crate_Wood_Open_A_Explode.dae",
+    "name": "DEC_GEN_Crate_Wood_Open_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/DEC_GEN_Crate_Wood_Open_A_Explode.dae",
     "size": [
       0.7520039975643158,
@@ -3745,7 +3745,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_A.dae",
     "size": [
       1.862646996974945,
@@ -3759,7 +3759,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Destruct.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Destruct.dae",
     "size": [
       2.503480911254883,
@@ -3774,7 +3774,7 @@
     "uuid": "ae1b58fc-b905-4f6d-b65c-25b895e46f31"
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Explode.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A_Explode.dae",
     "size": [
       1.856682002544403,
@@ -3788,7 +3788,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_B.dae",
     "size": [
       1.7782419919967651,
@@ -3803,7 +3803,7 @@
     "uuid": "2d1830b3-1dc7-40a7-9fe2-62ba340511bf"
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Destruct.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Destruct.dae",
     "size": [
       1.8132709860801697,
@@ -3818,7 +3818,7 @@
     "uuid": "fccc40c2-6c9e-4d14-8e57-2b86bd8b4833"
   },
   {
-    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Explode.dae",
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Explode.dae",
     "size": [
       1.7690449953079224,
@@ -3832,7 +3832,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Globe_Rich_A.dae",
+    "name": "CONT_GEN_Globe_Rich_A",
     "relative_path": "Containers/Generic/CONT_GEN_Globe_Rich_ABC/Resources/CONT_GEN_Globe_Rich_A.dae",
     "size": [
       1.0725890398025513,
@@ -3847,7 +3847,7 @@
     "uuid": "a05b9f7d-950a-4e73-9ce4-74ff71425362"
   },
   {
-    "name": "CONT_GEN_Globe_Rich_A_Destruct.dae",
+    "name": "CONT_GEN_Globe_Rich_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Globe_Rich_ABC/Resources/CONT_GEN_Globe_Rich_A_Destruct.dae",
     "size": [
       2.0460609197616577,
@@ -3862,7 +3862,7 @@
     "uuid": "1931bae5-28d1-426e-acd2-42c6d450bbe2"
   },
   {
-    "name": "CONT_GEN_Globe_Rich_A_Explode.dae",
+    "name": "CONT_GEN_Globe_Rich_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Globe_Rich_ABC/Resources/CONT_GEN_Globe_Rich_A_Explode.dae",
     "size": [
       1.0524300336837769,
@@ -3876,7 +3876,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Parquet_Loose_Plank_A.dae",
+    "name": "CONT_GEN_Parquet_Loose_Plank_A",
     "relative_path": "Containers/Generic/CONT_GEN_Parquet_Loose_Plank_ABC/Resources/CONT_GEN_Parquet_Loose_Plank_A.dae",
     "size": [
       0.543612003326416,
@@ -3891,7 +3891,7 @@
     "uuid": "a127dbbe-12f5-4e62-ba30-1bf611103211"
   },
   {
-    "name": "CONT_GEN_Parquet_Loose_Plank_B.dae",
+    "name": "CONT_GEN_Parquet_Loose_Plank_B",
     "relative_path": "Containers/Generic/CONT_GEN_Parquet_Loose_Plank_ABC/Resources/CONT_GEN_Parquet_Loose_Plank_B.dae",
     "size": [
       0.543612003326416,
@@ -3906,7 +3906,7 @@
     "uuid": "21e6ac1f-9452-4548-af08-feb5a2de86b8"
   },
   {
-    "name": "CONT_GEN_Pouch_Leather_A.dae",
+    "name": "CONT_GEN_Pouch_Leather_A",
     "relative_path": "Containers/Generic/CONT_GEN_Pouch_Leather_ABC/Resources/CONT_GEN_Pouch_Leather_A.dae",
     "size": [
       0.24097399413585663,
@@ -3921,7 +3921,7 @@
     "uuid": "2e40240b-77d3-400b-bd6a-caff66a85833"
   },
   {
-    "name": "CONT_GEN_Pouch_Leather_Gale_A_Closed_A.dae",
+    "name": "CONT_GEN_Pouch_Leather_Gale_A_Closed_A",
     "relative_path": "Containers/Generic/CONT_GEN_Pouch_Leather_ABC/Resources/CONT_GEN_Pouch_Leather_Gale_A_Closed_A.dae",
     "size": [
       0.3467629998922348,
@@ -3935,7 +3935,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Pouch_Leather_Gale_A_Open_A.dae",
+    "name": "CONT_GEN_Pouch_Leather_Gale_A_Open_A",
     "relative_path": "Containers/Generic/CONT_GEN_Pouch_Leather_ABC/Resources/CONT_GEN_Pouch_Leather_Gale_A_Open_A.dae",
     "size": [
       0.3467620015144348,
@@ -3949,7 +3949,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Pouch_Leather_Old_A.dae",
+    "name": "CONT_GEN_Pouch_Leather_Old_A",
     "relative_path": "Containers/Generic/CONT_GEN_Pouch_Leather_ABC/Resources/CONT_GEN_Pouch_Leather_Old_A.dae",
     "size": [
       0.3471829891204834,
@@ -3964,7 +3964,7 @@
     "uuid": "ae7390dd-0663-4ae7-bef0-5c7e09173cb2"
   },
   {
-    "name": "CONT_GEN_Rock_Pile_Grave_A.dae",
+    "name": "CONT_GEN_Rock_Pile_Grave_A",
     "relative_path": "Containers/Generic/CONT_GEN_Rock_Pile_Grave_A/Resources/CONT_GEN_Rock_Pile_Grave_A.dae",
     "size": [
       1.4169189929962158,
@@ -3979,7 +3979,7 @@
     "uuid": "59b18476-6206-45b9-bfdf-cbc84c79bdb0"
   },
   {
-    "name": "CONT_GEN_Rock_Pile_Grave_Empty_A.dae",
+    "name": "CONT_GEN_Rock_Pile_Grave_Empty_A",
     "relative_path": "Containers/Generic/CONT_GEN_Rock_Pile_Grave_A/Resources/CONT_GEN_Rock_Pile_Grave_Empty_A.dae",
     "size": [
       2.147145986557007,
@@ -3994,7 +3994,7 @@
     "uuid": "51a62894-09ec-4a70-b4e2-4165d63e5cb1"
   },
   {
-    "name": "CONT_GEN_Rock_Pile_Grave_Open_A.dae",
+    "name": "CONT_GEN_Rock_Pile_Grave_Open_A",
     "relative_path": "Containers/Generic/CONT_GEN_Rock_Pile_Grave_A/Resources/CONT_GEN_Rock_Pile_Grave_Open_A.dae",
     "size": [
       2.147145986557007,
@@ -4009,7 +4009,7 @@
     "uuid": "27e51488-9058-47b9-8432-3ea5d6d13314"
   },
   {
-    "name": "CONT_GEN_Stash_Hunter_A.dae",
+    "name": "CONT_GEN_Stash_Hunter_A",
     "relative_path": "Containers/Generic/CONT_GEN_Stash_Hunter_ABC/Resources/CONT_GEN_Stash_Hunter_A.dae",
     "size": [
       2.0110350251197815,
@@ -4024,7 +4024,7 @@
     "uuid": "599f5f05-fca9-4e51-ae99-591f0b00d4b0"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_A.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_A",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_A.dae",
     "size": [
       0.8684599995613098,
@@ -4039,7 +4039,7 @@
     "uuid": "1d4e8708-f22c-4fcc-8063-6b45173ad645"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_A_Destruct.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_A_Destruct.dae",
     "size": [
       1.6489350199699402,
@@ -4054,7 +4054,7 @@
     "uuid": "935307d7-96e3-4caf-9b76-c4bd39f95544"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_A_Explode.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_A_Explode.dae",
     "size": [
       0.8684490025043488,
@@ -4068,7 +4068,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_B.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_B",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_B.dae",
     "size": [
       0.8516559898853302,
@@ -4083,7 +4083,7 @@
     "uuid": "1a23e208-2a25-4d55-ac6b-a4e19ee5b669"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_B_Destruct.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_B_Destruct.dae",
     "size": [
       2.1444129943847656,
@@ -4098,7 +4098,7 @@
     "uuid": "8618f166-4509-4917-a886-89f74c6ac6e8"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_B_Explode.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_B_Explode.dae",
     "size": [
       0.8501839935779572,
@@ -4112,7 +4112,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_C.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_C",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_C.dae",
     "size": [
       0.9057520031929016,
@@ -4127,7 +4127,7 @@
     "uuid": "e5f9af4e-ffc8-4161-8b31-062ae78e3e30"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_C_Destruct.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_C_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_C_Destruct.dae",
     "size": [
       2.7561970949172974,
@@ -4142,7 +4142,7 @@
     "uuid": "03442493-5e40-4473-859c-aea31913534d"
   },
   {
-    "name": "CONT_GEN_Vase_Ceramic_Big_C_Explode.dae",
+    "name": "CONT_GEN_Vase_Ceramic_Big_C_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_C_Explode.dae",
     "size": [
       0.9057520031929016,
@@ -4156,7 +4156,7 @@
     ]
   },
   {
-    "name": "CONT_Goblins_Chest_A.dae",
+    "name": "CONT_Goblins_Chest_A",
     "relative_path": "Containers/Goblins/CONT_Goblins_Chest_ABC/Resources/CONT_Goblins_Chest_A.dae",
     "size": [
       1.469925045967102,
@@ -4171,7 +4171,7 @@
     "uuid": "b771aebb-e089-49a9-9bf6-471a00345afc"
   },
   {
-    "name": "CONT_Goblins_Chest_A_Destruct.dae",
+    "name": "CONT_Goblins_Chest_A_Destruct",
     "relative_path": "Containers/Goblins/CONT_Goblins_Chest_ABC/Resources/CONT_Goblins_Chest_A_Destruct.dae",
     "size": [
       2.067451000213623,
@@ -4186,7 +4186,7 @@
     "uuid": "e915a46d-72a1-4971-8552-1dcaa14ff4bc"
   },
   {
-    "name": "CONT_Goblins_Chest_A_Explode.dae",
+    "name": "CONT_Goblins_Chest_A_Explode",
     "relative_path": "Containers/Goblins/CONT_Goblins_Chest_ABC/Resources/CONT_Goblins_Chest_A_Explode.dae",
     "size": [
       1.469925045967102,
@@ -4200,7 +4200,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_A.dae",
+    "name": "CONT_Jergal_Urn_Bones_A",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_A.dae",
     "size": [
       0.3966200053691864,
@@ -4215,7 +4215,7 @@
     "uuid": "29f5891c-41fb-4d10-8f9a-921e298d0c85"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_A_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_A_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_A_Destruct.dae",
     "size": [
       1.5547069907188416,
@@ -4230,7 +4230,7 @@
     "uuid": "6503c830-9200-409a-bd26-895738587a4a"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_A_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_A_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_A_Explode.dae",
     "size": [
       0.3955100029706955,
@@ -4244,7 +4244,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_B.dae",
+    "name": "CONT_Jergal_Urn_Bones_B",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_B.dae",
     "size": [
       0.5462490022182465,
@@ -4259,7 +4259,7 @@
     "uuid": "61e7aea8-009a-434a-a2d5-cfb16db36476"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_B_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_B_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_B_Destruct.dae",
     "size": [
       3.1198270320892334,
@@ -4274,7 +4274,7 @@
     "uuid": "f8d6b05f-5242-4bc0-99bf-2c6a09b792d9"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_B_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_B_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_B_Explode.dae",
     "size": [
       0.5420169830322266,
@@ -4288,7 +4288,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_C.dae",
+    "name": "CONT_Jergal_Urn_Bones_C",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_C.dae",
     "size": [
       0.42874500155448914,
@@ -4303,7 +4303,7 @@
     "uuid": "9536149c-09f1-4049-9074-6963b7b115c7"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_C_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_C_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_C_Destruct.dae",
     "size": [
       1.661850020289421,
@@ -4318,7 +4318,7 @@
     "uuid": "54c9287e-e9f1-47bc-aa35-d1ecef38763c"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_C_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_C_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_C_Explode.dae",
     "size": [
       0.42874500155448914,
@@ -4332,7 +4332,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_D.dae",
+    "name": "CONT_Jergal_Urn_Bones_D",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_D.dae",
     "size": [
       0.6514120101928711,
@@ -4347,7 +4347,7 @@
     "uuid": "2002c99c-f642-46a4-b313-625ce2dc49f3"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_D_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_D_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_D_Destruct.dae",
     "size": [
       1.7381459474563599,
@@ -4362,7 +4362,7 @@
     "uuid": "7c5a5752-7d59-448e-bcd9-32377d39f0e3"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_D_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_D_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_D_Explode.dae",
     "size": [
       0.6514120101928711,
@@ -4376,7 +4376,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_E.dae",
+    "name": "CONT_Jergal_Urn_Bones_E",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_E.dae",
     "size": [
       0.311939999461174,
@@ -4391,7 +4391,7 @@
     "uuid": "816332f8-af68-41d9-b8da-832e2d49e033"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_E_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_E_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_E_Destruct.dae",
     "size": [
       1.545628011226654,
@@ -4406,7 +4406,7 @@
     "uuid": "3d2ee12a-b647-4cc6-8524-5881863aa0fa"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_E_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_E_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_E_Explode.dae",
     "size": [
       0.3107380121946335,
@@ -4420,7 +4420,7 @@
     ]
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_F.dae",
+    "name": "CONT_Jergal_Urn_Bones_F",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_F.dae",
     "size": [
       0.38173599541187286,
@@ -4435,7 +4435,7 @@
     "uuid": "7ebbd096-004c-4a82-b1ce-7c3c8513df71"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_F_Destruct.dae",
+    "name": "CONT_Jergal_Urn_Bones_F_Destruct",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_F_Destruct.dae",
     "size": [
       1.2909080237150192,
@@ -4450,7 +4450,7 @@
     "uuid": "2975b1e4-2db5-49e1-bfc7-4e54f157bd2c"
   },
   {
-    "name": "CONT_Jergal_Urn_Bones_F_Explode.dae",
+    "name": "CONT_Jergal_Urn_Bones_F_Explode",
     "relative_path": "Containers/Jergal/CONT_Jergal_Urn_Bones_ABC/Resources/CONT_Jergal_Urn_Bones_F_Explode.dae",
     "size": [
       0.38173599541187286,
@@ -4464,7 +4464,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Chest_A.dae",
+    "name": "CONT_MF_Chest_A",
     "relative_path": "Containers/Mindflayers/CONT_MF_Chest_ABC/Resources/CONT_MF_Chest_A.dae",
     "size": [
       2.5853229761123657,
@@ -4479,7 +4479,7 @@
     "uuid": "813c005f-72ab-4806-ad7e-2e3135e41d27"
   },
   {
-    "name": "CONT_MF_Chest_A_Destruct.dae",
+    "name": "CONT_MF_Chest_A_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Chest_ABC/Resources/CONT_MF_Chest_A_Destruct.dae",
     "size": [
       3.9046958684921265,
@@ -4494,7 +4494,7 @@
     "uuid": "3db04273-62fb-4530-b17f-c811f57fc4e9"
   },
   {
-    "name": "CONT_MF_Chest_A_Explode.dae",
+    "name": "CONT_MF_Chest_A_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Chest_ABC/Resources/CONT_MF_Chest_A_Explode.dae",
     "size": [
       2.583963990211487,
@@ -4508,7 +4508,7 @@
     ]
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_A.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_A",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_A.dae",
     "size": [
       1.8650699853897095,
@@ -4523,7 +4523,7 @@
     "uuid": "5896724b-ed3c-42c7-885c-a190672372e0"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_A_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_A_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_A_Destruct.dae",
     "size": [
       1.8650699853897095,
@@ -4538,7 +4538,7 @@
     "uuid": "7143b1f8-1637-4d2a-94bd-d37f98df0ae3"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_B.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_B",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_B.dae",
     "size": [
       2.161357045173645,
@@ -4553,7 +4553,7 @@
     "uuid": "72b6afb6-0a84-4b11-b64b-286179d52bdb"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_B_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_B_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_B_Destruct.dae",
     "size": [
       2.161357045173645,
@@ -4568,7 +4568,7 @@
     "uuid": "bfb2f488-ab26-4264-bd0f-b2551ac561ae"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_C.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_C",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_C.dae",
     "size": [
       2.0459970235824585,
@@ -4583,7 +4583,7 @@
     "uuid": "a27bdb28-6090-45d7-b843-5c032c074ed4"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Floor_C_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Floor_C_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Floor_C_Destruct.dae",
     "size": [
       2.0459970235824585,
@@ -4598,7 +4598,7 @@
     "uuid": "966f4e3d-0ae0-453c-9090-357c51da8b80"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_A.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_A",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_A.dae",
     "size": [
       0.6108600199222565,
@@ -4613,7 +4613,7 @@
     "uuid": "07a15dbb-33ec-4f9a-9e48-c22f949971fd"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_A_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_A_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_A_Destruct.dae",
     "size": [
       0.10838699713349342,
@@ -4628,7 +4628,7 @@
     "uuid": "10ab5ed5-f979-4ceb-b06b-2ba8f37b7004"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_B.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_B",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_B.dae",
     "size": [
       0.7192249894142151,
@@ -4643,7 +4643,7 @@
     "uuid": "7c186bc4-97df-4b42-b8cd-a3ba21c9d763"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_B_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_B_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_B_Destruct.dae",
     "size": [
       0.15924599766731262,
@@ -4658,7 +4658,7 @@
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_C.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_C",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_C.dae",
     "size": [
       0.7122760266065598,
@@ -4673,7 +4673,7 @@
     "uuid": "1fe4e760-b63d-404e-8a23-eb469730edc3"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Hanging_C_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Hanging_C_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Hanging_C_Destruct.dae",
     "size": [
       0.4002700112760067,
@@ -4688,7 +4688,7 @@
     "uuid": "269beabf-04ca-47dc-94a4-163784460349"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Wall_A.dae",
+    "name": "CONT_Spiders_Cocoon_A_Wall_A",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Wall_A.dae",
     "size": [
       1.7371670007705688,
@@ -4703,7 +4703,7 @@
     "uuid": "de07e198-843b-457d-9243-efecfbb3f9d2"
   },
   {
-    "name": "CONT_Spiders_Cocoon_A_Wall_A_Destruct.dae",
+    "name": "CONT_Spiders_Cocoon_A_Wall_A_Destruct",
     "relative_path": "Containers/Spiders/CONT_Spiders_Cocoon_ABC/Resources/CONT_Spiders_Cocoon_A_Wall_A_Destruct.dae",
     "size": [
       1.7371670007705688,
@@ -4718,7 +4718,7 @@
     "uuid": "8c31ce67-071a-4d58-826e-01c3472828d5"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_A.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_A",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_A.dae",
     "size": [
       1.0152959823608398,
@@ -4733,7 +4733,7 @@
     "uuid": "a984ee64-8c47-4291-8557-125c15a2c2b9"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_B.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_B",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_B.dae",
     "size": [
       0.8408360183238983,
@@ -4748,7 +4748,7 @@
     "uuid": "5371413e-4442-41a9-aad3-5d225de50dca"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_C.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_C",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_C.dae",
     "size": [
       0.8535720109939575,
@@ -4763,7 +4763,7 @@
     "uuid": "3f4c3102-b9dd-44eb-a10b-ba69ae091346"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_D.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_D",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_D.dae",
     "size": [
       0.9447930157184601,
@@ -4778,7 +4778,7 @@
     "uuid": "64fd7317-2406-4192-9556-0fa731ad15bd"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_E.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_E",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_E.dae",
     "size": [
       1.6131680011749268,
@@ -4792,7 +4792,7 @@
     ]
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_F.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_F",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_F.dae",
     "size": [
       0.9154900014400482,
@@ -4806,7 +4806,7 @@
     ]
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_G.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_G",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_G.dae",
     "size": [
       0.8617339730262756,
@@ -4820,7 +4820,7 @@
     ]
   },
   {
-    "name": "CONT_Underdark_Gnomes_Basket_H.dae",
+    "name": "CONT_Underdark_Gnomes_Basket_H",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Basket_H.dae",
     "size": [
       0.6981319785118103,
@@ -4835,7 +4835,7 @@
     "uuid": "48facb03-43ec-4749-8def-e461898952b7"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Sack_A.dae",
+    "name": "CONT_Underdark_Gnomes_Sack_A",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Sack_A.dae",
     "size": [
       0.7081599831581116,
@@ -4850,7 +4850,7 @@
     "uuid": "82161f28-1760-48d9-8036-f1fe4e9c5988"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Sack_A_Destruct.dae",
+    "name": "CONT_Underdark_Gnomes_Sack_A_Destruct",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Sack_A_Destruct.dae",
     "size": [
       1.6221639513969421,
@@ -4865,7 +4865,7 @@
     "uuid": "41ff6418-782f-4439-bc0c-239341b46a61"
   },
   {
-    "name": "CONT_Underdark_Gnomes_Sack_B.dae",
+    "name": "CONT_Underdark_Gnomes_Sack_B",
     "relative_path": "Containers/Underdark/CONT_Underdark_Gnomes_Basket_ABC/Resources/CONT_Underdark_Gnomes_Sack_B.dae",
     "size": [
       0.7389200031757355,
@@ -4880,7 +4880,7 @@
     "uuid": "625d6ed0-4773-42ec-b171-9ea35352c842"
   },
   {
-    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_A",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
     "size": [
       0.5805990099906921,
@@ -4895,7 +4895,7 @@
     "uuid": "19106437-46a3-4df1-a4c2-1a946f56e0dc"
   },
   {
-    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_Open_A.dae",
+    "name": "CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_Open_A",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CINE_CONT_Zhentarim_Barrel_Metal_Tadpoles_Open_A.dae",
     "size": [
       0.5805990099906921,
@@ -4910,7 +4910,7 @@
     "uuid": "1c97ab13-68f1-41cb-88b0-dd8b98299835"
   },
   {
-    "name": "CONT_Zhentarim_Barrel_Metal_A.dae",
+    "name": "CONT_Zhentarim_Barrel_Metal_A",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A.dae",
     "size": [
       0.6126880049705505,
@@ -4925,7 +4925,7 @@
     "uuid": "854da6d0-ecfd-450d-82b4-cdff387c4349"
   },
   {
-    "name": "CONT_Zhentarim_Barrel_Metal_A_Destruct.dae",
+    "name": "CONT_Zhentarim_Barrel_Metal_A_Destruct",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A_Destruct.dae",
     "size": [
       1.8763520121574402,
@@ -4940,7 +4940,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONT_Zhentarim_Barrel_Metal_A_Explode.dae",
+    "name": "CONT_Zhentarim_Barrel_Metal_A_Explode",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A_Explode.dae",
     "size": [
       0.5758529901504517,
@@ -4954,7 +4954,7 @@
     ]
   },
   {
-    "name": "CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
+    "name": "CONT_Zhentarim_Barrel_Metal_Tadpoles_A",
     "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_Tadpoles_A.dae",
     "size": [
       0.6126880049705505,
@@ -4968,7 +4968,7 @@
     ]
   },
   {
-    "name": "CONT_Foundry_Steel_Watcher_Biped_Remains_A.dae",
+    "name": "CONT_Foundry_Steel_Watcher_Biped_Remains_A",
     "relative_path": "Containers/Foundry/CONT_Foundry_Steel_Watcher_Remains_ABC/Resources/CONT_Foundry_Steel_Watcher_Biped_Remains_A.dae",
     "size": [
       2.2447609305381775,
@@ -4983,7 +4983,7 @@
     "uuid": "cfedc29a-642b-4b2b-8088-29705df526df"
   },
   {
-    "name": "CONT_Foundry_Steel_Watcher_Remains_A.dae",
+    "name": "CONT_Foundry_Steel_Watcher_Remains_A",
     "relative_path": "Containers/Foundry/CONT_Foundry_Steel_Watcher_Remains_ABC/Resources/CONT_Foundry_Steel_Watcher_Remains_A.dae",
     "size": [
       4.3627729415893555,
@@ -4998,7 +4998,7 @@
     "uuid": "e6cf8ac3-aec4-4e3b-b9ce-bc84151e5265"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_A.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_A",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_A.dae",
     "size": [
       0.8988350033760071,
@@ -5013,7 +5013,7 @@
     "uuid": "3f5f2c5a-d689-4e98-9164-67ca6249fcd3"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_B.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_B",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_B.dae",
     "size": [
       0.8988350033760071,
@@ -5028,7 +5028,7 @@
     "uuid": "a44aa2e7-cc29-4862-b8dc-edea592437a4"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_C.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_C",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_C.dae",
     "size": [
       0.8970980048179626,
@@ -5043,7 +5043,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_D.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_D",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_D.dae",
     "size": [
       0.8970980048179626,
@@ -5058,7 +5058,7 @@
     "uuid": "368efe34-a487-4fa3-839d-5d513e3909a9"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_E.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_E",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_E.dae",
     "size": [
       0.8970980048179626,
@@ -5073,7 +5073,7 @@
     "uuid": "d0d5b9fd-be64-4dd0-b75c-871b5e7f79a3"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_Empty_A.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_Empty_A",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_Empty_A.dae",
     "size": [
       0.8970980048179626,
@@ -5088,7 +5088,7 @@
     "uuid": "2776d004-c9b6-49ff-a5ef-09532d70caf9"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_F.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_F",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_F.dae",
     "size": [
       0.8988350033760071,
@@ -5103,7 +5103,7 @@
     "uuid": "c12e11cd-7274-4558-81f4-665024352c7e"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_G.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_G",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_G.dae",
     "size": [
       0.8970980048179626,
@@ -5118,7 +5118,7 @@
     "uuid": "1e0b3f8b-a45e-45fe-a18e-e40ebe4fec64"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_H.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_H",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_H.dae",
     "size": [
       0.8988350033760071,
@@ -5133,7 +5133,7 @@
     "uuid": "e1a83b36-4d93-4237-9185-ec369b612848"
   },
   {
-    "name": "CONT_GEN_Basket_Fruit_Wicker_Lid_A.dae",
+    "name": "CONT_GEN_Basket_Fruit_Wicker_Lid_A",
     "relative_path": "Containers/Generic/CONT_GEN_Basket_Fruit_Wicker_ABC/Resources/CONT_GEN_Basket_Fruit_Wicker_Lid_A.dae",
     "size": [
       0.7452520132064819,
@@ -5148,7 +5148,7 @@
     "uuid": "746f1e12-9c7c-4bf5-8455-24ac279f2b35"
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_A.dae",
+    "name": "CONT_GEN_Box_Fireworks_A",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A.dae",
     "size": [
       1.6530959606170654,
@@ -5163,7 +5163,7 @@
     "uuid": "3bcd4164-3937-4722-8670-55e0c8c83d51"
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_A_Destruct.dae",
+    "name": "CONT_GEN_Box_Fireworks_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A_Destruct.dae",
     "size": [
       3.0961769819259644,
@@ -5178,7 +5178,7 @@
     "uuid": "49014f9b-da6a-405a-b9bd-43e2bf4eef98"
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_A_Explode.dae",
+    "name": "CONT_GEN_Box_Fireworks_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_A_Explode.dae",
     "size": [
       1.658935010433197,
@@ -5192,7 +5192,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_B.dae",
+    "name": "CONT_GEN_Box_Fireworks_B",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B.dae",
     "size": [
       1.663107991218567,
@@ -5207,7 +5207,7 @@
     "uuid": "017cc6fc-9bac-4437-a0b7-e139a6f0bb61"
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_B_Destruct.dae",
+    "name": "CONT_GEN_Box_Fireworks_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B_Destruct.dae",
     "size": [
       4.040939927101135,
@@ -5222,7 +5222,7 @@
     "uuid": "4f7d05bd-09a9-4491-8215-77c9303eb038"
   },
   {
-    "name": "CONT_GEN_Box_Fireworks_B_Explode.dae",
+    "name": "CONT_GEN_Box_Fireworks_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Box_Fireworks_B_Explode.dae",
     "size": [
       1.6662490367889404,
@@ -5236,7 +5236,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Stall_Fireworks_A.dae",
+    "name": "CONT_GEN_Stall_Fireworks_A",
     "relative_path": "Containers/Generic/CONT_GEN_Box_Fireworks_ABC/Resources/CONT_GEN_Stall_Fireworks_A.dae",
     "size": [
       1.5187170542776585,
@@ -5251,7 +5251,7 @@
     "uuid": "708cdb7b-fddf-4a53-b879-1ef49b30baca"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_A.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_A",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_A.dae",
     "size": [
       0.6989040076732635,
@@ -5266,7 +5266,7 @@
     "uuid": "8e18b305-5106-44ef-8cfe-a402413c93bb"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_B.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_B",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_B.dae",
     "size": [
       0.6989040076732635,
@@ -5281,7 +5281,7 @@
     "uuid": "bfc99688-a590-4f8f-9fe9-a0411c351daa"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_C.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_C",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_C.dae",
     "size": [
       0.6989040076732635,
@@ -5296,7 +5296,7 @@
     "uuid": "b61778fb-85c6-4c33-9453-43d76717b538"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_D.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_D",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_D.dae",
     "size": [
       0.6989040076732635,
@@ -5311,7 +5311,7 @@
     "uuid": "2e5c2e84-908f-403e-a0e8-7a724d4903f6"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_E.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_E",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_E.dae",
     "size": [
       0.6989040076732635,
@@ -5326,7 +5326,7 @@
     "uuid": "7e517928-e517-4afb-b454-44b2911c10ac"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_Empty_A.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_Empty_A",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_Empty_A.dae",
     "size": [
       0.6989040076732635,
@@ -5341,7 +5341,7 @@
     "uuid": "ff4d73fc-d11f-4e4d-ac57-dd937578e41b"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_F.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_F",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_F.dae",
     "size": [
       0.6989040076732635,
@@ -5356,7 +5356,7 @@
     "uuid": "8ce3309a-bde4-48e8-84f4-a11a61657ac6"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_G.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_G",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_G.dae",
     "size": [
       0.6989040076732635,
@@ -5371,7 +5371,7 @@
     "uuid": "e93972d4-6873-44fe-9315-ea3a786ac388"
   },
   {
-    "name": "CONT_GEN_Bucket_Fruit_Wood_H.dae",
+    "name": "CONT_GEN_Bucket_Fruit_Wood_H",
     "relative_path": "Containers/Generic/CONT_GEN_Bucket_Fruit_Wood_ABC/Resources/CONT_GEN_Bucket_Fruit_Wood_H.dae",
     "size": [
       0.6989040076732635,
@@ -5386,7 +5386,7 @@
     "uuid": "5da6b3ad-e29a-4fee-9002-501fcc7c4a1e"
   },
   {
-    "name": "DEC_GEN_Manure_Scattered_A.dae",
+    "name": "DEC_GEN_Manure_Scattered_A",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/DEC_GEN_Manure_Scattered_A.dae",
     "size": [
       2.6666749715805054,
@@ -5401,7 +5401,7 @@
     "uuid": "aef11440-8a72-4f78-ab48-81c0eebdc2e2"
   },
   {
-    "name": "DEC_GEN_Manure_Scattered_B.dae",
+    "name": "DEC_GEN_Manure_Scattered_B",
     "relative_path": "Containers/Generic/CONT_GEN_Burlap_Sack_ABC/Resources/DEC_GEN_Manure_Scattered_B.dae",
     "size": [
       2.5213800072669983,
@@ -5416,7 +5416,7 @@
     "uuid": "3ac5c504-4086-4d3f-ba32-4a9c9159df4e"
   },
   {
-    "name": "CONT_GEN_Crate_Metal_A.dae",
+    "name": "CONT_GEN_Crate_Metal_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A.dae",
     "size": [
       1.1227020025253296,
@@ -5431,7 +5431,7 @@
     "uuid": "bd238e6e-ac8c-48bc-a180-588864bc6b99"
   },
   {
-    "name": "CONT_GEN_Crate_Metal_A_Destruct.dae",
+    "name": "CONT_GEN_Crate_Metal_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A_Destruct.dae",
     "size": [
       2.3676350116729736,
@@ -5446,7 +5446,7 @@
     "uuid": "e5e12502-b7cf-4950-8123-57a19a16c7cc"
   },
   {
-    "name": "CONT_GEN_Crate_Metal_A_Explode.dae",
+    "name": "CONT_GEN_Crate_Metal_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_A_Explode.dae",
     "size": [
       1.1227020025253296,
@@ -5460,7 +5460,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Metal_B.dae",
+    "name": "CONT_GEN_Crate_Metal_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B.dae",
     "size": [
       1.0137439966201782,
@@ -5475,7 +5475,7 @@
     "uuid": "fe994523-14f4-45fd-bb7c-1110df3a742f"
   },
   {
-    "name": "CONT_GEN_Crate_Metal_B_Destruct.dae",
+    "name": "CONT_GEN_Crate_Metal_B_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B_Destruct.dae",
     "size": [
       2.5756070613861084,
@@ -5490,7 +5490,7 @@
     "uuid": "8ff00a8f-9dee-4fa5-8c23-a7472b6d305d"
   },
   {
-    "name": "CONT_GEN_Crate_Metal_B_Explode.dae",
+    "name": "CONT_GEN_Crate_Metal_B_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Metal_ABC/Resources/CONT_GEN_Crate_Metal_B_Explode.dae",
     "size": [
       1.0137439966201782,
@@ -5504,7 +5504,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Teddy_Explosive_A.dae",
+    "name": "CONT_GEN_Crate_Teddy_Explosive_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Teddy_Explosive_ABC/Resources/CONT_GEN_Crate_Teddy_Explosive_A.dae",
     "size": [
       1.2267030477523804,
@@ -5518,7 +5518,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Teddy_Explosive_A_Empty.dae",
+    "name": "CONT_GEN_Crate_Teddy_Explosive_A_Empty",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Teddy_Explosive_ABC/Resources/CONT_GEN_Crate_Teddy_Explosive_A_Empty.dae",
     "size": [
       1.2310490012168884,
@@ -5532,7 +5532,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_A.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_A.dae",
     "size": [
       1.0148850083351135,
@@ -5547,7 +5547,7 @@
     "uuid": "8abda057-cec6-425c-a707-c28a44b6f259"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_B.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_B.dae",
     "size": [
       1.1880220174789429,
@@ -5562,7 +5562,7 @@
     "uuid": "359c2b72-15d2-46d7-bb13-0ee2d9fbae6a"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_C.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_C",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_C.dae",
     "size": [
       1.0148850083351135,
@@ -5577,7 +5577,7 @@
     "uuid": "f7c66e68-eb69-4e06-88f5-acb8dd5ac422"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_D.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_D",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_D.dae",
     "size": [
       1.1880220174789429,
@@ -5592,7 +5592,7 @@
     "uuid": "77d99749-102b-4393-a1ac-9e13dd5b7e08"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_E.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_E",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_E.dae",
     "size": [
       1.0148850083351135,
@@ -5607,7 +5607,7 @@
     "uuid": "433872a5-ff8c-4c52-9009-ff9cf63ceb6f"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_F.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_F",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_F.dae",
     "size": [
       1.1880220174789429,
@@ -5622,7 +5622,7 @@
     "uuid": "d89d7328-d57c-4776-bf72-6c3409983d6d"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_I.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_I",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_I.dae",
     "size": [
       1.0148850083351135,
@@ -5637,7 +5637,7 @@
     "uuid": "78967300-1195-42fc-beb3-783711b721f4"
   },
   {
-    "name": "CONT_GEN_Crate_Fruit_Wood_J.dae",
+    "name": "CONT_GEN_Crate_Fruit_Wood_J",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Fruit_Wood_J.dae",
     "size": [
       1.1880220174789429,
@@ -5652,7 +5652,7 @@
     "uuid": "de04b44d-3778-4e14-84d7-98cc3ff2cd95"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_A.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_A.dae",
     "size": [
       1.0148850083351135,
@@ -5667,7 +5667,7 @@
     "uuid": "e9fbd693-3f3a-49a2-bd0c-ff2e8ae8b1f7"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_B.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_B",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_B.dae",
     "size": [
       1.0148850083351135,
@@ -5682,7 +5682,7 @@
     "uuid": "2a88dba8-111a-4f48-85c5-1e5d260241a6"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_C.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_C",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_C.dae",
     "size": [
       1.0148850083351135,
@@ -5697,7 +5697,7 @@
     "uuid": "705b880f-e017-4eb3-96aa-0f6d41d38178"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_D.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_D",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_D.dae",
     "size": [
       1.1880220174789429,
@@ -5712,7 +5712,7 @@
     "uuid": "b85d6066-6623-465c-b070-2dd323b2d8a0"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_E.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_E",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_E.dae",
     "size": [
       1.1880220174789429,
@@ -5727,7 +5727,7 @@
     "uuid": "01f28c68-03a2-43b0-8c36-27cc6ec5e413"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_Empty_A.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_Empty_A",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_Empty_A.dae",
     "size": [
       1.1880220174789429,
@@ -5742,7 +5742,7 @@
     "uuid": "19db1219-6623-4039-8dd6-b6529ab69f37"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_F.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_F",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_F.dae",
     "size": [
       1.1880220174789429,
@@ -5757,7 +5757,7 @@
     "uuid": "7e825371-99f6-431f-8ce1-0cf1609af656"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_G.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_G",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_G.dae",
     "size": [
       1.1880220174789429,
@@ -5772,7 +5772,7 @@
     "uuid": "6f587463-c02e-4215-a9b6-02525a659184"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_H.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_H",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_H.dae",
     "size": [
       1.0148850083351135,
@@ -5787,7 +5787,7 @@
     "uuid": "cf0fd7a5-699b-4ac3-9e61-aef0ae669d19"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_I.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_I",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_I.dae",
     "size": [
       1.0148850083351135,
@@ -5802,7 +5802,7 @@
     "uuid": "5f4fa115-aa29-406c-a700-c244d8076260"
   },
   {
-    "name": "CONT_GEN_Crate_Vegetable_Wood_J.dae",
+    "name": "CONT_GEN_Crate_Vegetable_Wood_J",
     "relative_path": "Containers/Generic/CONT_GEN_Crate_Vegetable_Wood_ABC/Resources/CONT_GEN_Crate_Vegetable_Wood_J.dae",
     "size": [
       1.1880220174789429,
@@ -5817,7 +5817,7 @@
     "uuid": "ae5f9862-cd93-4cba-b396-ad56d39ae7dd"
   },
   {
-    "name": "CONT_GEN_Gremishka_Nest_A.dae",
+    "name": "CONT_GEN_Gremishka_Nest_A",
     "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A.dae",
     "size": [
       2.3738640546798706,
@@ -5832,7 +5832,7 @@
     "uuid": "6503c830-9200-409a-bd26-895738587a4a"
   },
   {
-    "name": "CONT_GEN_Gremishka_Nest_A_Destruct.dae",
+    "name": "CONT_GEN_Gremishka_Nest_A_Destruct",
     "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A_Destruct.dae",
     "size": [
       3.568535089492798,
@@ -5847,7 +5847,7 @@
     "uuid": "00d42382-41db-4877-ae53-1f8c952ddcde"
   },
   {
-    "name": "CONT_GEN_Gremishka_Nest_A_Explode.dae",
+    "name": "CONT_GEN_Gremishka_Nest_A_Explode",
     "relative_path": "Containers/Generic/CONT_GEN_Gremishka_Nest_ABC/Resources/CONT_GEN_Gremishka_Nest_A_Explode.dae",
     "size": [
       2.3670350313186646,
@@ -5862,7 +5862,7 @@
     "uuid": "6defa85b-7940-43a3-aaec-e8d042364e2b"
   },
   {
-    "name": "CONT_GEN_Keychain_A.dae",
+    "name": "CONT_GEN_Keychain_A",
     "relative_path": "Containers/Generic/CONT_GEN_Keychain_ABC/Resources/CONT_GEN_Keychain_A.dae",
     "size": [
       0.4702110141515732,
@@ -5876,7 +5876,7 @@
     ]
   },
   {
-    "name": "CONT_GEN_Mailbox_A.dae",
+    "name": "CONT_GEN_Mailbox_A",
     "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_A.dae",
     "size": [
       0.5998280048370361,
@@ -5891,7 +5891,7 @@
     "uuid": "7b2f4510-e5e4-4565-b05d-446e1255048d"
   },
   {
-    "name": "CONT_GEN_Mailbox_B.dae",
+    "name": "CONT_GEN_Mailbox_B",
     "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_B.dae",
     "size": [
       0.6113059818744659,
@@ -5906,7 +5906,7 @@
     "uuid": "6eb50b21-44ad-429f-99ad-866b29f51c1a"
   },
   {
-    "name": "CONT_GEN_Mailbox_C.dae",
+    "name": "CONT_GEN_Mailbox_C",
     "relative_path": "Containers/Generic/CONT_GEN_Mailbox_ABC/Resources/CONT_GEN_Mailbox_C.dae",
     "size": [
       0.5998280048370361,
@@ -5921,7 +5921,7 @@
     "uuid": "4b4c57c0-c688-47b8-abc2-23bd4666c3e0"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Bread_A.dae",
+    "name": "CONT_GEN_Market_Stall_Bread_A",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_A.dae",
     "size": [
       1.6844879984855652,
@@ -5936,7 +5936,7 @@
     "uuid": "32bcb0ee-cb01-4e47-bc98-29667f4d7946"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Bread_B.dae",
+    "name": "CONT_GEN_Market_Stall_Bread_B",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_B.dae",
     "size": [
       2.7620400190353394,
@@ -5951,7 +5951,7 @@
     "uuid": "71784077-effb-4fa4-b3ad-5b5b9524c52e"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Bread_C.dae",
+    "name": "CONT_GEN_Market_Stall_Bread_C",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Bread_C.dae",
     "size": [
       1.4131710529327393,
@@ -5966,7 +5966,7 @@
     "uuid": "f16e344c-4a5f-4b11-a28a-0db4dcf26eb7"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Fruit_A.dae",
+    "name": "CONT_GEN_Market_Stall_Fruit_A",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_A.dae",
     "size": [
       1.4131710529327393,
@@ -5981,7 +5981,7 @@
     "uuid": "bbecb0c0-27fe-4b15-a93c-9191ecf576a0"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Fruit_B.dae",
+    "name": "CONT_GEN_Market_Stall_Fruit_B",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_B.dae",
     "size": [
       1.4131710529327393,
@@ -5996,7 +5996,7 @@
     "uuid": "388bcad1-52dd-403f-af62-31519538deb6"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Fruit_C.dae",
+    "name": "CONT_GEN_Market_Stall_Fruit_C",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_C.dae",
     "size": [
       2.7620409727096558,
@@ -6011,7 +6011,7 @@
     "uuid": "b4e278dc-75f2-4431-898a-df54f50af015"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Fruit_D.dae",
+    "name": "CONT_GEN_Market_Stall_Fruit_D",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Fruit_D.dae",
     "size": [
       1.4131710529327393,
@@ -6026,7 +6026,7 @@
     "uuid": "d18da240-7cff-4781-9b7c-1a7ae6ec70ce"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Newspaper_A.dae",
+    "name": "CONT_GEN_Market_Stall_Newspaper_A",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_A.dae",
     "size": [
       1.4131710529327393,
@@ -6041,7 +6041,7 @@
     "uuid": "6d8a2b0b-660f-4b6b-b6e8-f06a2ea075ed"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Newspaper_B.dae",
+    "name": "CONT_GEN_Market_Stall_Newspaper_B",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_B.dae",
     "size": [
       1.4131710529327393,
@@ -6056,7 +6056,7 @@
     "uuid": "4ad39918-1dbc-4bcf-8d1d-48408eeb61e6"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Newspaper_C.dae",
+    "name": "CONT_GEN_Market_Stall_Newspaper_C",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Newspaper_C.dae",
     "size": [
       2.7620400190353394,
@@ -6071,7 +6071,7 @@
     "uuid": "a8cc1528-abb3-4b40-82eb-0fa0e3dc2264"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Vegetable_A.dae",
+    "name": "CONT_GEN_Market_Stall_Vegetable_A",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_A.dae",
     "size": [
       1.4131710529327393,
@@ -6086,7 +6086,7 @@
     "uuid": "39c18118-510a-4cee-8484-84c8b8ef13bd"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Vegetable_B.dae",
+    "name": "CONT_GEN_Market_Stall_Vegetable_B",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_B.dae",
     "size": [
       1.4131710529327393,
@@ -6101,7 +6101,7 @@
     "uuid": "df6d7906-9147-481a-91fe-ded84e3c2c0a"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Vegetable_C.dae",
+    "name": "CONT_GEN_Market_Stall_Vegetable_C",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_C.dae",
     "size": [
       1.4131710529327393,
@@ -6116,7 +6116,7 @@
     "uuid": "71419203-792d-4eb5-8917-e91e45eeab0d"
   },
   {
-    "name": "CONT_GEN_Market_Stall_Vegetable_D.dae",
+    "name": "CONT_GEN_Market_Stall_Vegetable_D",
     "relative_path": "Containers/Generic/CONT_GEN_Market_Stall_ABC/Resources/CONT_GEN_Market_Stall_Vegetable_D.dae",
     "size": [
       2.7620409727096558,
@@ -6131,7 +6131,7 @@
     "uuid": "3100b710-50bb-4fa9-ab99-e0dc0e7545de"
   },
   {
-    "name": "CONT_GEN_ScrollShelf_Wine_Bottle_A.dae",
+    "name": "CONT_GEN_ScrollShelf_Wine_Bottle_A",
     "relative_path": "Containers/Generic/CONT_GEN_ScrollShelf_Wine_Bottle_ABC/Resources/CONT_GEN_ScrollShelf_Wine_Bottle_A.dae",
     "size": [
       0.8162459880113602,
@@ -6146,7 +6146,7 @@
     "uuid": "7680c497-3168-466a-8a63-a61ec387d35c"
   },
   {
-    "name": "CONT_GTY_Barrel_A.dae",
+    "name": "CONT_GTY_Barrel_A",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A.dae",
     "size": [
       0.6350220143795013,
@@ -6161,7 +6161,7 @@
     "uuid": "4964192d-2cf5-4099-9d78-ee6ce48b40f7"
   },
   {
-    "name": "CONT_GTY_Barrel_A_Destruct.dae",
+    "name": "CONT_GTY_Barrel_A_Destruct",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A_Destruct.dae",
     "size": [
       1.5425729751586914,
@@ -6176,7 +6176,7 @@
     "uuid": "c38271db-6330-40af-8455-91da9235cc99"
   },
   {
-    "name": "CONT_GTY_Barrel_A_Explode.dae",
+    "name": "CONT_GTY_Barrel_A_Explode",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Barrel_A_Explode.dae",
     "size": [
       0.6227440237998962,
@@ -6190,7 +6190,7 @@
     ]
   },
   {
-    "name": "CONT_GTY_Chest_A.dae",
+    "name": "CONT_GTY_Chest_A",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A.dae",
     "size": [
       0.6373049914836884,
@@ -6205,7 +6205,7 @@
     "uuid": "aa6044d3-2721-4f92-95e0-2dfe2ac20ed7"
   },
   {
-    "name": "CONT_GTY_Chest_A_Destruct.dae",
+    "name": "CONT_GTY_Chest_A_Destruct",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A_Destruct.dae",
     "size": [
       1.4644420444965363,
@@ -6220,7 +6220,7 @@
     "uuid": "9673096b-fbcb-408f-8306-029afa79b4a2"
   },
   {
-    "name": "CONT_GTY_Chest_A_Explode.dae",
+    "name": "CONT_GTY_Chest_A_Explode",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_A_Explode.dae",
     "size": [
       0.6373049914836884,
@@ -6234,7 +6234,7 @@
     ]
   },
   {
-    "name": "CONT_GTY_Chest_B.dae",
+    "name": "CONT_GTY_Chest_B",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B.dae",
     "size": [
       1.2237669825553894,
@@ -6249,7 +6249,7 @@
     "uuid": "c8829f73-f92e-4b59-88a9-8e186b667836"
   },
   {
-    "name": "CONT_GTY_Chest_B_Destruct.dae",
+    "name": "CONT_GTY_Chest_B_Destruct",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B_Destruct.dae",
     "size": [
       1.4393869638442993,
@@ -6264,7 +6264,7 @@
     "uuid": "6a4058a7-4d75-4c8b-9203-95ab4fbdb052"
   },
   {
-    "name": "CONT_GTY_Chest_B_Explode.dae",
+    "name": "CONT_GTY_Chest_B_Explode",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_B_Explode.dae",
     "size": [
       1.2182810306549072,
@@ -6278,7 +6278,7 @@
     ]
   },
   {
-    "name": "CONT_GTY_Chest_C.dae",
+    "name": "CONT_GTY_Chest_C",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C.dae",
     "size": [
       1.2521180510520935,
@@ -6293,7 +6293,7 @@
     "uuid": "3a4997c3-a1b7-4afd-8bc4-c74d9f1f8cee"
   },
   {
-    "name": "CONT_GTY_Chest_C_Destruct.dae",
+    "name": "CONT_GTY_Chest_C_Destruct",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C_Destruct.dae",
     "size": [
       2.1739590167999268,
@@ -6308,7 +6308,7 @@
     "uuid": "fbe88d0b-1e42-4698-8d94-fcfcbd5cee6f"
   },
   {
-    "name": "CONT_GTY_Chest_C_Explode.dae",
+    "name": "CONT_GTY_Chest_C_Explode",
     "relative_path": "Containers/Githyanki/CONT_GTY_ABC/Resources/CONT_GTY_Chest_C_Explode.dae",
     "size": [
       1.2474989891052246,
@@ -6322,7 +6322,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Broken_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Broken_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Broken_A.dae",
     "size": [
       1.2632359862327576,
@@ -6337,7 +6337,7 @@
     "uuid": "0e9107ee-7916-48b1-954b-8ed3a6c75639"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A.dae",
     "size": [
       1.246099054813385,
@@ -6352,7 +6352,7 @@
     "uuid": "53250264-3591-457b-bc32-b5ff0a1bc738"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A_Destruct.dae",
     "size": [
       1.755722999572754,
@@ -6367,7 +6367,7 @@
     "uuid": "b85f9539-cdaf-47c9-a7e0-2d38a13bb215"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Empty_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Empty_A_Explode.dae",
     "size": [
       1.24406498670578,
@@ -6381,7 +6381,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A.dae",
     "size": [
       1.2432440519332886,
@@ -6396,7 +6396,7 @@
     "uuid": "8d69e04e-8e5c-4ac6-8368-1da59afcc3aa"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A_Destruct.dae",
     "size": [
       2.3036230206489563,
@@ -6411,7 +6411,7 @@
     "uuid": "653a2a58-007e-4e6d-8516-b5ceb25e62ea"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_A_Full_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_A_Full_A_Explode.dae",
     "size": [
       1.2433180212974548,
@@ -6425,7 +6425,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Broken_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Broken_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Broken_A.dae",
     "size": [
       1.9510429501533508,
@@ -6440,7 +6440,7 @@
     "uuid": "70ffd7b2-a38f-4752-a7b3-f00d3f96df5a"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A.dae",
     "size": [
       1.2614860534667969,
@@ -6455,7 +6455,7 @@
     "uuid": "8a5af0d9-febf-4e97-b701-cc79c3372d2b"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A_Destruct.dae",
     "size": [
       2.662006974220276,
@@ -6470,7 +6470,7 @@
     "uuid": "acd48b70-1792-4a75-924d-35449a4db1d4"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Empty_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Empty_A_Explode.dae",
     "size": [
       1.2615070343017578,
@@ -6484,7 +6484,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A.dae",
     "size": [
       1.2614860534667969,
@@ -6499,7 +6499,7 @@
     "uuid": "4050aef9-cdec-4f19-966d-5a8d5a34a7c8"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A_Destruct.dae",
     "size": [
       2.816854953765869,
@@ -6514,7 +6514,7 @@
     "uuid": "ba6dc814-55e8-4e32-8916-f242952615f5"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_B_Full_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_B_Full_A_Explode.dae",
     "size": [
       1.2614880204200745,
@@ -6528,7 +6528,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Broken_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Broken_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Broken_A.dae",
     "size": [
       1.2660759687423706,
@@ -6543,7 +6543,7 @@
     "uuid": "5f93a6ad-79d1-483c-bc24-bde0274df17e"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A.dae",
     "size": [
       1.2060670256614685,
@@ -6558,7 +6558,7 @@
     "uuid": "9e024c54-c549-4736-aa8d-5e094a06d4bd"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A_Destruct.dae",
     "size": [
       1.831701934337616,
@@ -6573,7 +6573,7 @@
     "uuid": "8a820ff8-0e49-4fb6-88e4-f50db6b22636"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Empty_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Empty_A_Explode.dae",
     "size": [
       1.2060570120811462,
@@ -6587,7 +6587,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A.dae",
     "size": [
       1.2060490250587463,
@@ -6602,7 +6602,7 @@
     "uuid": "5abcb844-40c9-4db6-a049-8173045f75e6"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A_Destruct.dae",
     "size": [
       3.86011004447937,
@@ -6617,7 +6617,7 @@
     "uuid": "89ee6cd6-ff3d-410e-9f18-69ce5370889f"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_C_Full_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_C_Full_A_Explode.dae",
     "size": [
       1.2060490250587463,
@@ -6631,7 +6631,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Broken_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Broken_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Broken_A.dae",
     "size": [
       1.2389169931411743,
@@ -6646,7 +6646,7 @@
     "uuid": "b62f8796-1bb4-40dd-bcf0-6782f535c9b2"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A.dae",
     "size": [
       1.2032580375671387,
@@ -6661,7 +6661,7 @@
     "uuid": "2b373c28-04cb-46cb-aa65-06d092903dba"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A_Destruct.dae",
     "size": [
       1.3480019569396973,
@@ -6676,7 +6676,7 @@
     "uuid": "3dc66194-7623-4790-8fec-b460a43e2c26"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Empty_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Empty_A_Explode.dae",
     "size": [
       1.2032580375671387,
@@ -6690,7 +6690,7 @@
     ]
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A.dae",
     "size": [
       1.2032580375671387,
@@ -6705,7 +6705,7 @@
     "uuid": "16cec69f-ed8e-409c-99be-c88ce390f072"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Destruct.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Destruct",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A_Destruct.dae",
     "size": [
       1.9583359956741333,
@@ -6720,7 +6720,7 @@
     "uuid": "dd6a7ec5-eea5-4661-a6ad-65a1ba9c1b8a"
   },
   {
-    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Explode.dae",
+    "name": "CONT_Hospital_Bloodbank_Rack_D_Full_A_Explode",
     "relative_path": "Containers/Hospital/CONT_Hospital_Bloodbank_Rack_ABC/Resources/CONT_Hospital_Bloodbank_Rack_D_Full_A_Explode.dae",
     "size": [
       1.2033170461654663,
@@ -6734,7 +6734,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Barrel_A.dae",
+    "name": "CONT_MF_Barrel_A",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A.dae",
     "size": [
       0.806210994720459,
@@ -6749,7 +6749,7 @@
     "uuid": "5b40c79e-a74f-401e-bbaf-f953085bd29f"
   },
   {
-    "name": "CONT_MF_Barrel_A_Destruct.dae",
+    "name": "CONT_MF_Barrel_A_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A_Destruct.dae",
     "size": [
       2.478161931037903,
@@ -6764,7 +6764,7 @@
     "uuid": "e5002a20-0d02-4d75-8f26-d6f1e926ec29"
   },
   {
-    "name": "CONT_MF_Barrel_A_Explode.dae",
+    "name": "CONT_MF_Barrel_A_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_A_Explode.dae",
     "size": [
       0.806210994720459,
@@ -6778,7 +6778,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Barrel_B.dae",
+    "name": "CONT_MF_Barrel_B",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B.dae",
     "size": [
       1.4114570021629333,
@@ -6793,7 +6793,7 @@
     "uuid": "cdde7c05-3959-4db8-a0f5-9dae194634d2"
   },
   {
-    "name": "CONT_MF_Barrel_B_Destruct.dae",
+    "name": "CONT_MF_Barrel_B_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B_Destruct.dae",
     "size": [
       2.0825339555740356,
@@ -6808,7 +6808,7 @@
     "uuid": "db8be784-d74c-4c37-af95-ef1d226f8e37"
   },
   {
-    "name": "CONT_MF_Barrel_B_Explode.dae",
+    "name": "CONT_MF_Barrel_B_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Barrel_ABC/Resources/CONT_MF_Barrel_B_Explode.dae",
     "size": [
       1.4114570021629333,
@@ -6822,7 +6822,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Crate_A.dae",
+    "name": "CONT_MF_Crate_A",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A.dae",
     "size": [
       2.1602139472961426,
@@ -6837,7 +6837,7 @@
     "uuid": "d4fe8a57-0e3e-43ae-93f7-5c53ca43e56d"
   },
   {
-    "name": "CONT_MF_Crate_A_Destruct.dae",
+    "name": "CONT_MF_Crate_A_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A_Destruct.dae",
     "size": [
       3.8485740423202515,
@@ -6852,7 +6852,7 @@
     "uuid": "bab5ba24-61d8-42ba-aecd-ce8a60efaad0"
   },
   {
-    "name": "CONT_MF_Crate_A_Explode.dae",
+    "name": "CONT_MF_Crate_A_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_A_Explode.dae",
     "size": [
       2.1602139472961426,
@@ -6866,7 +6866,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Crate_B.dae",
+    "name": "CONT_MF_Crate_B",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B.dae",
     "size": [
       2.29982590675354,
@@ -6881,7 +6881,7 @@
     "uuid": "c25b43b3-24f4-4cd1-ace3-5cc25f2803e1"
   },
   {
-    "name": "CONT_MF_Crate_B_Destruct.dae",
+    "name": "CONT_MF_Crate_B_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B_Destruct.dae",
     "size": [
       3.107813000679016,
@@ -6896,7 +6896,7 @@
     "uuid": "d3563abe-9d44-4ca0-8e53-d3ef0406dcba"
   },
   {
-    "name": "CONT_MF_Crate_B_Explode.dae",
+    "name": "CONT_MF_Crate_B_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_B_Explode.dae",
     "size": [
       2.29982590675354,
@@ -6910,7 +6910,7 @@
     ]
   },
   {
-    "name": "CONT_MF_Crate_C.dae",
+    "name": "CONT_MF_Crate_C",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C.dae",
     "size": [
       1.1407979726791382,
@@ -6925,7 +6925,7 @@
     "uuid": "cc23bd28-863f-4f8b-a800-3f4f21c0137b"
   },
   {
-    "name": "CONT_MF_Crate_C_Destruct.dae",
+    "name": "CONT_MF_Crate_C_Destruct",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C_Destruct.dae",
     "size": [
       2.1000869274139404,
@@ -6940,7 +6940,7 @@
     "uuid": "2a549197-b72e-4898-82ec-a06807efe2c7"
   },
   {
-    "name": "CONT_MF_Crate_C_Explode.dae",
+    "name": "CONT_MF_Crate_C_Explode",
     "relative_path": "Containers/Mindflayers/CONT_MF_Crate_ABC/Resources/CONT_MF_Crate_C_Explode.dae",
     "size": [
       1.1407979726791382,

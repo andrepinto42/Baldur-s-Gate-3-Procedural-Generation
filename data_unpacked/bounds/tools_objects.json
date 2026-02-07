@@ -1,6 +1,6 @@
 [
   {
-    "name": "CINE_TOOL_Camp_Bedroll_Laezel_A.dae",
+    "name": "CINE_TOOL_Camp_Bedroll_Laezel_A",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/CINE_TOOL_Camp_Bedroll_Laezel_A.dae",
     "size": [
       4.705268979072571,
@@ -15,7 +15,7 @@
     "uuid": "5ad39afe-4804-4644-9dac-b3bd4b1f2b61"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Closed_A.dae",
+    "name": "TOOL_Camp_Bedroll_Closed_A",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Closed_A.dae",
     "size": [
       1.0002299845218658,
@@ -30,7 +30,7 @@
     "uuid": "a1645f21-4934-4225-882f-b1e002874782"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_A.dae",
+    "name": "TOOL_Camp_Bedroll_Open_A",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_A.dae",
     "size": [
       1.422482967376709,
@@ -45,7 +45,7 @@
     "uuid": "530e440f-2c2e-44d5-b632-278c8c10ca4f"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_B.dae",
+    "name": "TOOL_Camp_Bedroll_Open_B",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_B.dae",
     "size": [
       1.7450369596481323,
@@ -60,7 +60,7 @@
     "uuid": "06e3372a-03f8-440b-a56d-e8abbc1caee5"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_C.dae",
+    "name": "TOOL_Camp_Bedroll_Open_C",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_C.dae",
     "size": [
       1.1690840125083923,
@@ -75,7 +75,7 @@
     "uuid": "020adfe3-f0fb-482f-8a46-158d4820578c"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_D.dae",
+    "name": "TOOL_Camp_Bedroll_Open_D",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_D.dae",
     "size": [
       1.176785945892334,
@@ -90,7 +90,7 @@
     "uuid": "1aec757f-0584-4f10-801b-f42c6e05b9a9"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_E.dae",
+    "name": "TOOL_Camp_Bedroll_Open_E",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_E.dae",
     "size": [
       1.4470369815826416,
@@ -105,7 +105,7 @@
     "uuid": "94aabfd3-19c7-4bf6-832e-a69d979eb13b"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_F.dae",
+    "name": "TOOL_Camp_Bedroll_Open_F",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_F.dae",
     "size": [
       1.6702760457992554,
@@ -120,7 +120,7 @@
     "uuid": "228dc996-e452-4f8d-8bd6-1aa0736dbeb1"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_G.dae",
+    "name": "TOOL_Camp_Bedroll_Open_G",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_G.dae",
     "size": [
       1.884136974811554,
@@ -135,7 +135,7 @@
     "uuid": "2a87b593-97f7-4c90-8fb6-161b4cc27fca"
   },
   {
-    "name": "TOOL_Camp_Bedroll_Open_H.dae",
+    "name": "TOOL_Camp_Bedroll_Open_H",
     "relative_path": "Tools/Camp/TOOL_Camp_Bedroll_ABC/Resources/TOOL_Camp_Bedroll_Open_H.dae",
     "size": [
       1.6752510070800781,
@@ -150,7 +150,7 @@
     "uuid": "8c5df9d9-8bad-4f70-98b6-172b4d3f2ec4"
   },
   {
-    "name": "TOOL_Camp_Supplies_A.dae",
+    "name": "TOOL_Camp_Supplies_A",
     "relative_path": "Tools/Camp/TOOL_Camp_Supplies_ABC/Resources/TOOL_Camp_Supplies_A.dae",
     "size": [
       0.9933030009269714,
@@ -164,7 +164,7 @@
     ]
   },
   {
-    "name": "TOOL_Camp_Supplies_B_Closed_A.dae",
+    "name": "TOOL_Camp_Supplies_B_Closed_A",
     "relative_path": "Tools/Camp/TOOL_Camp_Supplies_ABC/Resources/TOOL_Camp_Supplies_B_Closed_A.dae",
     "size": [
       0.7941530048847198,
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Arcane_Teleport_Device_A.dae",
+    "name": "TOOL_GEN_Arcane_Teleport_Device_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Device_ABC/Resources/TOOL_GEN_Arcane_Teleport_Device_A.dae",
     "size": [
       1.6167199611663818,
@@ -193,7 +193,7 @@
     "uuid": "6d597738-bd49-471f-94bf-5a9ad8393342"
   },
   {
-    "name": "TOOL_GEN_Arcane_Teleport_Device_A_Broken_A.dae",
+    "name": "TOOL_GEN_Arcane_Teleport_Device_A_Broken_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Device_ABC/Resources/TOOL_GEN_Arcane_Teleport_Device_A_Broken_A.dae",
     "size": [
       1.6569870114326477,
@@ -208,7 +208,7 @@
     "uuid": "80ba6a39-ac48-4261-8a07-b7a7427ad3ad"
   },
   {
-    "name": "TOOL_GEN_Arcane_Teleport_Platform_A.dae",
+    "name": "TOOL_GEN_Arcane_Teleport_Platform_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Platform_ABC/Resources/TOOL_GEN_Arcane_Teleport_Platform_A.dae",
     "size": [
       6.023329973220825,
@@ -223,7 +223,7 @@
     "uuid": "e633cfd3-dc9a-4678-9030-517a1a85b154"
   },
   {
-    "name": "TOOL_GEN_Branch_Stake_A.dae",
+    "name": "TOOL_GEN_Branch_Stake_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Branch_Stake_ABC/Resources/TOOL_GEN_Branch_Stake_A.dae",
     "size": [
       0.06076299771666527,
@@ -238,7 +238,7 @@
     "uuid": "ac769cef-e9c3-4e93-a7e3-6c5eeff22b13"
   },
   {
-    "name": "TOOL_GEN_Branch_Stake_A_Branch_L.dae",
+    "name": "TOOL_GEN_Branch_Stake_A_Branch_L",
     "relative_path": "Tools/Generic/TOOL_GEN_Branch_Stake_ABC/Resources/TOOL_GEN_Branch_Stake_A_Branch_L.dae",
     "size": [
       0.050345998257398605,
@@ -253,7 +253,7 @@
     "uuid": "6d4888e6-6133-46cf-842c-5e9af1c22a34"
   },
   {
-    "name": "TOOL_GEN_Branch_Stake_A_Branch_R.dae",
+    "name": "TOOL_GEN_Branch_Stake_A_Branch_R",
     "relative_path": "Tools/Generic/TOOL_GEN_Branch_Stake_ABC/Resources/TOOL_GEN_Branch_Stake_A_Branch_R.dae",
     "size": [
       0.05819700099527836,
@@ -268,7 +268,7 @@
     "uuid": "e99c1760-ad76-455d-948c-0a1870c9f93b"
   },
   {
-    "name": "TOOL_GEN_Broom_A.dae",
+    "name": "TOOL_GEN_Broom_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_A.dae",
     "size": [
       0.42482300102710724,
@@ -283,7 +283,7 @@
     "uuid": "cbb98d74-68e9-4d0f-a4ff-6fa92cfcea13"
   },
   {
-    "name": "TOOL_GEN_Broom_A_Destruct.dae",
+    "name": "TOOL_GEN_Broom_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_A_Destruct.dae",
     "size": [
       0.8366239964962006,
@@ -298,7 +298,7 @@
     "uuid": "c012aabc-8263-4c0e-b146-fd69a5b2f2d8"
   },
   {
-    "name": "TOOL_GEN_Broom_A_Explode.dae",
+    "name": "TOOL_GEN_Broom_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_A_Explode.dae",
     "size": [
       0.40004900097846985,
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Broom_B.dae",
+    "name": "TOOL_GEN_Broom_B",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_B.dae",
     "size": [
       0.42808398604393005,
@@ -327,7 +327,7 @@
     "uuid": "7e695757-a137-4bbc-9a1d-8dcf1db63fee"
   },
   {
-    "name": "TOOL_GEN_Broom_B_Destruct.dae",
+    "name": "TOOL_GEN_Broom_B_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_B_Destruct.dae",
     "size": [
       0.981904000043869,
@@ -342,7 +342,7 @@
     "uuid": "b06df50c-e665-4e06-91a2-9282f2cc694c"
   },
   {
-    "name": "TOOL_GEN_Broom_B_Explode.dae",
+    "name": "TOOL_GEN_Broom_B_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Broom_ABC/Resources/TOOL_GEN_Broom_B_Explode.dae",
     "size": [
       0.42808398604393005,
@@ -356,7 +356,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Disarm_Toolkit_A.dae",
+    "name": "TOOL_GEN_Disarm_Toolkit_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Disarm_Toolkit_ABC/Resources/TOOL_GEN_Disarm_Toolkit_A.dae",
     "size": [
       0.35252000391483307,
@@ -370,7 +370,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_DisguiseKit_A_Closed.dae",
+    "name": "TOOL_GEN_DisguiseKit_A_Closed",
     "relative_path": "Tools/Generic/TOOL_GEN_DisguiseKit_ABC/Resources/TOOL_GEN_DisguiseKit_A_Closed.dae",
     "size": [
       0.5376439988613129,
@@ -385,7 +385,7 @@
     "uuid": "239edfa9-46b4-44ad-b0c4-faa4421a8a57"
   },
   {
-    "name": "TOOL_GEN_DisguiseKit_A_Open.dae",
+    "name": "TOOL_GEN_DisguiseKit_A_Open",
     "relative_path": "Tools/Generic/TOOL_GEN_DisguiseKit_ABC/Resources/TOOL_GEN_DisguiseKit_A_Open.dae",
     "size": [
       0.5375320017337799,
@@ -400,7 +400,7 @@
     "uuid": "8ec2a70b-32cc-4223-9c4e-fb845deb262d"
   },
   {
-    "name": "TOOL_GEN_Dragon_Ballista_A.dae",
+    "name": "TOOL_GEN_Dragon_Ballista_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Dragon_Ballista_A/Resources/TOOL_GEN_Dragon_Ballista_A.dae",
     "size": [
       1.6451259851455688,
@@ -415,7 +415,7 @@
     "uuid": "d621fb20-02e2-464c-9793-f902612c5b65"
   },
   {
-    "name": "TOOL_GEN_Dragon_Ballista_Arrow_A.dae",
+    "name": "TOOL_GEN_Dragon_Ballista_Arrow_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Dragon_Ballista_A/Resources/TOOL_GEN_Dragon_Ballista_Arrow_A.dae",
     "size": [
       0.12412799894809723,
@@ -430,7 +430,7 @@
     "uuid": "2a5091cf-5637-4472-8432-16267b6ff19e"
   },
   {
-    "name": "TOOL_GEN_ForgeryKit_A_Closed_A.dae",
+    "name": "TOOL_GEN_ForgeryKit_A_Closed_A",
     "relative_path": "Tools/Generic/TOOL_GEN_ForgeryKit_ABC/TOOL_GEN_ForgeryKit_A_Closed_A.dae",
     "size": [
       0.7622820138931274,
@@ -444,7 +444,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_ForgeryKit_A_Opened_A.dae",
+    "name": "TOOL_GEN_ForgeryKit_A_Opened_A",
     "relative_path": "Tools/Generic/TOOL_GEN_ForgeryKit_ABC/TOOL_GEN_ForgeryKit_A_Opened_A.dae",
     "size": [
       0.7624819874763489,
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Gong_A.dae",
+    "name": "TOOL_GEN_Gong_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Gong_ABC/Resources/TOOL_GEN_Gong_A.dae",
     "size": [
       2.5557138919830322,
@@ -473,7 +473,7 @@
     "uuid": "dc7b9a9e-02f6-4a95-be1b-c2d480fcd207"
   },
   {
-    "name": "TOOL_GEN_Hammer_Repair_A.dae",
+    "name": "TOOL_GEN_Hammer_Repair_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Hammer_Repair_A/Resources/TOOL_GEN_Hammer_Repair_A.dae",
     "size": [
       0.31745700538158417,
@@ -488,7 +488,7 @@
     "uuid": "c2a14b56-9dca-4ad1-bcea-71204365f6a9"
   },
   {
-    "name": "TOOL_GEN_Identifying_Glass_A.dae",
+    "name": "TOOL_GEN_Identifying_Glass_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Identifying_Glass_A/Resources/TOOL_GEN_Identifying_Glass_A.dae",
     "size": [
       0.18393799662590027,
@@ -503,7 +503,7 @@
     "uuid": "a63fa775-bd30-4753-8c63-395aa5e9d03c"
   },
   {
-    "name": "TOOL_GEN_Mine_Pickaxe_A.dae",
+    "name": "TOOL_GEN_Mine_Pickaxe_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Mine_Pickaxe_ABC/Resources/TOOL_GEN_Mine_Pickaxe_A.dae",
     "size": [
       0.5247079730033875,
@@ -518,7 +518,7 @@
     "uuid": "8693aa7e-cd47-4990-80e7-51041f036400"
   },
   {
-    "name": "TOOL_GEN_Music_Drum_Big_A.dae",
+    "name": "TOOL_GEN_Music_Drum_Big_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Drum_ABC/TOOL_GEN_Music_Drum_Big_A.dae",
     "size": [
       0.7178540229797363,
@@ -533,7 +533,7 @@
     "uuid": "868fa1ab-8044-4a82-9c2b-bf4ffb241536"
   },
   {
-    "name": "TOOL_GEN_Music_Drum_Small_A.dae",
+    "name": "TOOL_GEN_Music_Drum_Small_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Drum_ABC/TOOL_GEN_Music_Drum_Small_A.dae",
     "size": [
       0.38749800622463226,
@@ -548,7 +548,7 @@
     "uuid": "4c9ea428-7679-434c-9679-071847c648a6"
   },
   {
-    "name": "TOOL_GEN_Music_Drum_sticks_A.dae",
+    "name": "TOOL_GEN_Music_Drum_sticks_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Drum_ABC/TOOL_GEN_Music_Drum_sticks_A.dae",
     "size": [
       0.29594799876213074,
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Guitar_Lute_A_Destruct.dae",
+    "name": "TOOL_GEN_Music_Guitar_Lute_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Guitar_Lute_ABC/Resources/TOOL_GEN_Music_Guitar_Lute_A_Destruct.dae",
     "size": [
       0.7224709987640381,
@@ -577,7 +577,7 @@
     "uuid": "d8f758fa-34db-4c00-a56a-25e32941d2b4"
   },
   {
-    "name": "TOOL_GEN_Music_Guitar_Lute_A_Explode.dae",
+    "name": "TOOL_GEN_Music_Guitar_Lute_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Guitar_Lute_ABC/Resources/TOOL_GEN_Music_Guitar_Lute_A_Explode.dae",
     "size": [
       0.40505000948905945,
@@ -591,7 +591,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Horn_A_Big_A.dae",
+    "name": "TOOL_GEN_Music_Horn_A_Big_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/TOOL_GEN_Music_Horn_A_Big_A.dae",
     "size": [
       2.555811047554016,
@@ -605,7 +605,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Horn_A_Stand_A.dae",
+    "name": "TOOL_GEN_Music_Horn_A_Stand_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/TOOL_GEN_Music_Horn_A_Stand_A.dae",
     "size": [
       0.8730709850788116,
@@ -620,7 +620,7 @@
     "uuid": "c2472ec8-8299-4894-8d2c-81b04bcd8cab"
   },
   {
-    "name": "TOOL_GEN_Music_Horn_A.dae",
+    "name": "TOOL_GEN_Music_Horn_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/Resources/TOOL_GEN_Music_Horn_A.dae",
     "size": [
       0.9465799927711487,
@@ -635,7 +635,7 @@
     "uuid": "cc0e5642-fed1-425a-a997-20b94b2ff696"
   },
   {
-    "name": "TOOL_GEN_Music_Horn_A_Destruct.dae",
+    "name": "TOOL_GEN_Music_Horn_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/Resources/TOOL_GEN_Music_Horn_A_Destruct.dae",
     "size": [
       1.0475009679794312,
@@ -650,7 +650,7 @@
     "uuid": "cdd2f2e1-09a1-4069-b955-7869c9d986d2"
   },
   {
-    "name": "TOOL_GEN_Music_Horn_A_Explode.dae",
+    "name": "TOOL_GEN_Music_Horn_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/Resources/TOOL_GEN_Music_Horn_A_Explode.dae",
     "size": [
       0.9421440064907074,
@@ -664,7 +664,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Horn_B.dae",
+    "name": "TOOL_GEN_Music_Horn_B",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_ABC/Resources/TOOL_GEN_Music_Horn_B.dae",
     "size": [
       0.6228430271148682,
@@ -679,7 +679,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "TOOL_GEN_Music_Horn_Ogre_Bone_A.dae",
+    "name": "TOOL_GEN_Music_Horn_Ogre_Bone_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Horn_Ogre_Bone_ABC/Resources/TOOL_GEN_Music_Horn_Ogre_Bone_A.dae",
     "size": [
       0.6252260059118271,
@@ -693,7 +693,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Lyre_A_Destruct.dae",
+    "name": "TOOL_GEN_Music_Lyre_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Lyre_ABC/Resources/TOOL_GEN_Music_Lyre_A_Destruct.dae",
     "size": [
       0.812736988067627,
@@ -708,7 +708,7 @@
     "uuid": "ebdae296-fa2c-4b43-a466-ec592d3017fc"
   },
   {
-    "name": "TOOL_GEN_Music_Lyre_A_Explode.dae",
+    "name": "TOOL_GEN_Music_Lyre_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Lyre_ABC/Resources/TOOL_GEN_Music_Lyre_A_Explode.dae",
     "size": [
       0.39189399778842926,
@@ -722,7 +722,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Viol_A.dae",
+    "name": "TOOL_GEN_Music_Viol_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Viol_ABC/TOOL_GEN_Music_Viol_A.dae",
     "size": [
       0.39462999999523163,
@@ -736,7 +736,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Music_Viol_A_Destruct.dae",
+    "name": "TOOL_GEN_Music_Viol_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Viol_ABC/Resources/TOOL_GEN_Music_Viol_A_Destruct.dae",
     "size": [
       0.9525109827518463,
@@ -751,7 +751,7 @@
     "uuid": "288e21d0-6d1e-4346-b7b3-9cf519b3b5a5"
   },
   {
-    "name": "TOOL_GEN_Music_Viol_A_Explode.dae",
+    "name": "TOOL_GEN_Music_Viol_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Music_Viol_ABC/Resources/TOOL_GEN_Music_Viol_A_Explode.dae",
     "size": [
       0.39192599058151245,
@@ -765,7 +765,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Paralyzing_Device_A.dae",
+    "name": "TOOL_GEN_Paralyzing_Device_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Paralyzing_Device_ABC/Resources/TOOL_GEN_Paralyzing_Device_A.dae",
     "size": [
       2.562690019607544,
@@ -780,7 +780,7 @@
     "uuid": "7efb7ddb-1c1a-4dd5-bf4a-3b737684ef30"
   },
   {
-    "name": "TOOL_GEN_Pitchfork_A.dae",
+    "name": "TOOL_GEN_Pitchfork_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Pitchfork_ABC/Resources/TOOL_GEN_Pitchfork_A.dae",
     "size": [
       0.38133199512958527,
@@ -795,7 +795,7 @@
     "uuid": "c8274575-61a2-43a7-bde0-65a278dde287"
   },
   {
-    "name": "TOOL_GEN_Pitchfork_A_Destruct.dae",
+    "name": "TOOL_GEN_Pitchfork_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Pitchfork_ABC/Resources/TOOL_GEN_Pitchfork_A_Destruct.dae",
     "size": [
       0.6136730015277863,
@@ -810,7 +810,7 @@
     "uuid": "a4e6d25a-989d-4293-8815-0e187b122b9c"
   },
   {
-    "name": "TOOL_GEN_Pitchfork_A_Explode.dae",
+    "name": "TOOL_GEN_Pitchfork_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Pitchfork_ABC/Resources/TOOL_GEN_Pitchfork_A_Explode.dae",
     "size": [
       0.3742450028657913,
@@ -824,7 +824,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_PoisonerKit_A_Closed_A.dae",
+    "name": "TOOL_GEN_PoisonerKit_A_Closed_A",
     "relative_path": "Tools/Generic/TOOL_GEN_PoisonerKit_ABC/Resources/TOOL_GEN_PoisonerKit_A_Closed_A.dae",
     "size": [
       1.3810589909553528,
@@ -839,7 +839,7 @@
     "uuid": "29ac515d-7c7f-4583-bc55-c8e88bc26980"
   },
   {
-    "name": "TOOL_GEN_PoisonerKit_A_Open_A.dae",
+    "name": "TOOL_GEN_PoisonerKit_A_Open_A",
     "relative_path": "Tools/Generic/TOOL_GEN_PoisonerKit_ABC/Resources/TOOL_GEN_PoisonerKit_A_Open_A.dae",
     "size": [
       1.3813419938087463,
@@ -854,7 +854,7 @@
     "uuid": "ed1335e1-5804-4d7e-afbd-5700103f481a"
   },
   {
-    "name": "TOOL_GEN_Shovel_A.dae",
+    "name": "TOOL_GEN_Shovel_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_A.dae",
     "size": [
       0.35497699677944183,
@@ -869,7 +869,7 @@
     "uuid": "73efd1f7-5616-4ca8-84e6-6128aa6efaea"
   },
   {
-    "name": "TOOL_GEN_Shovel_A_Destruct.dae",
+    "name": "TOOL_GEN_Shovel_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_A_Destruct.dae",
     "size": [
       0.7309810072183609,
@@ -884,7 +884,7 @@
     "uuid": "2f61dd35-f64c-49a9-bbf2-f55c41cecfa5"
   },
   {
-    "name": "TOOL_GEN_Shovel_A_Explode.dae",
+    "name": "TOOL_GEN_Shovel_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_A_Explode.dae",
     "size": [
       0.34723199903964996,
@@ -898,7 +898,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Shovel_Small_A.dae",
+    "name": "TOOL_GEN_Shovel_Small_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_Small_A.dae",
     "size": [
       0.2598849982023239,
@@ -913,7 +913,7 @@
     "uuid": "f4242851-8bf5-47b0-926e-d7b2c932e109"
   },
   {
-    "name": "TOOL_GEN_Shovel_Small_A_Destruct.dae",
+    "name": "TOOL_GEN_Shovel_Small_A_Destruct",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_Small_A_Destruct.dae",
     "size": [
       0.6116340011358261,
@@ -928,7 +928,7 @@
     "uuid": "49844a53-bf40-48a2-a8d5-80ea5863f207"
   },
   {
-    "name": "TOOL_GEN_Shovel_Small_A_Explode.dae",
+    "name": "TOOL_GEN_Shovel_Small_A_Explode",
     "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_Small_A_Explode.dae",
     "size": [
       0.2596530020236969,
@@ -942,7 +942,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Siege_Harpoon_Magic_A.dae",
+    "name": "TOOL_GEN_Siege_Harpoon_Magic_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Siege_Harpoon_Magic_ABC/Resources/TOOL_GEN_Siege_Harpoon_Magic_A.dae",
     "size": [
       1.6192349791526794,
@@ -957,7 +957,7 @@
     "uuid": "e2da16ab-e787-4bb1-a6e5-2b34db59e8c6"
   },
   {
-    "name": "TOOL_GEN_Siege_Harpoon_Magic_Arrow_A.dae",
+    "name": "TOOL_GEN_Siege_Harpoon_Magic_Arrow_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Siege_Harpoon_Magic_ABC/Resources/TOOL_GEN_Siege_Harpoon_Magic_Arrow_A.dae",
     "size": [
       1.7199530005455017,
@@ -972,7 +972,7 @@
     "uuid": "7f34cd03-dbd9-4653-9eee-52047464a5e7"
   },
   {
-    "name": "TOOL_GEN_Telescope_A.dae",
+    "name": "TOOL_GEN_Telescope_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Telescope_A/Resources/TOOL_GEN_Telescope_A.dae",
     "size": [
       0.8907399773597717,
@@ -987,7 +987,7 @@
     "uuid": "7dc63d8d-c4b7-49a1-906d-9dff56e805f8"
   },
   {
-    "name": "TOOL_GEN_ThievesTools_A_Closed_A.dae",
+    "name": "TOOL_GEN_ThievesTools_A_Closed_A",
     "relative_path": "Tools/Generic/TOOL_GEN_ThievesTools_ABC/Resources/TOOL_GEN_ThievesTools_A_Closed_A.dae",
     "size": [
       0.36232201009988785,
@@ -1002,7 +1002,7 @@
     "uuid": "08851ac0-3bfa-44f3-80c6-6ab0536f0e10"
   },
   {
-    "name": "TOOL_GEN_ThievesTools_A_Open_A.dae",
+    "name": "TOOL_GEN_ThievesTools_A_Open_A",
     "relative_path": "Tools/Generic/TOOL_GEN_ThievesTools_ABC/Resources/TOOL_GEN_ThievesTools_A_Open_A.dae",
     "size": [
       1.5524200201034546,
@@ -1017,7 +1017,7 @@
     "uuid": "e32a200c-5b63-414d-ae57-00e7b38f125b"
   },
   {
-    "name": "TOOL_GEN_ThievesTools_Lockpick_A.dae",
+    "name": "TOOL_GEN_ThievesTools_Lockpick_A",
     "relative_path": "Tools/Generic/TOOL_GEN_ThievesTools_ABC/Resources/TOOL_GEN_ThievesTools_Lockpick_A.dae",
     "size": [
       0.043309998232871294,
@@ -1031,7 +1031,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Tong_A.dae",
+    "name": "TOOL_GEN_Tong_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Tong_ABC/Resources/TOOL_GEN_Tong_A.dae",
     "size": [
       0.10394899919629097,
@@ -1046,7 +1046,7 @@
     "uuid": "50d8cbfb-c98f-4013-8c67-53b3767a9bd9"
   },
   {
-    "name": "TOOL_GTY_Buttons_A.dae",
+    "name": "TOOL_GTY_Buttons_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Buttons_A.dae",
     "size": [
       1.209920048713684,
@@ -1060,7 +1060,7 @@
     ]
   },
   {
-    "name": "TOOL_GTY_Button_A.dae",
+    "name": "TOOL_GTY_Button_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Button_A.dae",
     "size": [
       0.16962900012731552,
@@ -1075,7 +1075,7 @@
     "uuid": "2c4a5085-b485-4956-8063-99ff9d2e1e65"
   },
   {
-    "name": "TOOL_GTY_Control_Panel_A.dae",
+    "name": "TOOL_GTY_Control_Panel_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Control_Panel_A.dae",
     "size": [
       1.9838430285453796,
@@ -1090,7 +1090,7 @@
     "uuid": "28ab797e-47ba-4b2b-812b-57590ad59a9c"
   },
   {
-    "name": "TOOL_GTY_Control_Panel_A_Empty_A.dae",
+    "name": "TOOL_GTY_Control_Panel_A_Empty_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Control_Panel_A_Empty_A.dae",
     "size": [
       1.9838430285453796,
@@ -1105,7 +1105,7 @@
     "uuid": "b933e64e-7508-4cfb-bf50-c57e09fdc7dc"
   },
   {
-    "name": "TOOL_GTY_Control_Panel_B.dae",
+    "name": "TOOL_GTY_Control_Panel_B",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Control_Panel_B.dae",
     "size": [
       1.3534510135650635,
@@ -1120,7 +1120,7 @@
     "uuid": "f989c605-8931-4610-bb8d-5a94f8ca0251"
   },
   {
-    "name": "TOOL_GTY_Control_Panel_B_Empty_A.dae",
+    "name": "TOOL_GTY_Control_Panel_B_Empty_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Control_Panel_B_Empty_A.dae",
     "size": [
       1.3534510135650635,
@@ -1135,7 +1135,7 @@
     "uuid": "61187e8b-1f32-4085-a684-9d15fbfb33d9"
   },
   {
-    "name": "TOOL_GTY_Control_Panel_Gem_A.dae",
+    "name": "TOOL_GTY_Control_Panel_Gem_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Control_Panel_Gem_A.dae",
     "size": [
       0.1818469986319542,
@@ -1150,7 +1150,7 @@
     "uuid": "4d04eb21-092a-4eb4-857a-2f1dc0882200"
   },
   {
-    "name": "TOOL_GTY_Lever_A.dae",
+    "name": "TOOL_GTY_Lever_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Lever_A.dae",
     "size": [
       0.9677579998970032,
@@ -1165,7 +1165,7 @@
     "uuid": "4aa89614-e2fb-4d3c-82e8-bfd6a5a4496f"
   },
   {
-    "name": "TOOL_GTY_Portal_A.dae",
+    "name": "TOOL_GTY_Portal_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Portal_A.dae",
     "size": [
       5.089172124862671,
@@ -1180,7 +1180,7 @@
     "uuid": "aa04567d-02f7-44a9-910a-f9697000cd04"
   },
   {
-    "name": "TOOL_GTY_Portal_B.dae",
+    "name": "TOOL_GTY_Portal_B",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Portal_B.dae",
     "size": [
       3.2173190116882324,
@@ -1195,7 +1195,7 @@
     "uuid": "9001f0a0-63a3-4686-b18a-0b5df64712b4"
   },
   {
-    "name": "TOOL_GOB_Branding_Tool_A.dae",
+    "name": "TOOL_GOB_Branding_Tool_A",
     "relative_path": "Tools/Goblin/TOOL_GOB_Branding_Tool_ABC/Resources/TOOL_GOB_Branding_Tool_A.dae",
     "size": [
       0.21452300250530243,
@@ -1210,7 +1210,7 @@
     "uuid": "4d64bcbe-a37d-4537-8ff1-510083989435"
   },
   {
-    "name": "CINE_TOOL_Hospital_Surgery_Scalpel_A.dae",
+    "name": "CINE_TOOL_Hospital_Surgery_Scalpel_A",
     "relative_path": "Tools/Hospital/TOOL_Hospital_Surgery_Kit_ABC/Resources/CINE_TOOL_Hospital_Surgery_Scalpel_A.dae",
     "size": [
       0.04876299947500229,
@@ -1225,7 +1225,7 @@
     "uuid": "00353281-1abb-4de6-893b-d6bf7f748da8"
   },
   {
-    "name": "TOOL_Hospital_Surgery_Kit_A.dae",
+    "name": "TOOL_Hospital_Surgery_Kit_A",
     "relative_path": "Tools/Hospital/TOOL_Hospital_Surgery_Kit_ABC/Resources/TOOL_Hospital_Surgery_Kit_A.dae",
     "size": [
       0.40290001034736633,
@@ -1240,7 +1240,7 @@
     "uuid": "70b86e8f-06b1-4eb2-8211-17f1d850086d"
   },
   {
-    "name": "TOOL_Hospital_Surgery_Kit_B.dae",
+    "name": "TOOL_Hospital_Surgery_Kit_B",
     "relative_path": "Tools/Hospital/TOOL_Hospital_Surgery_Kit_ABC/Resources/TOOL_Hospital_Surgery_Kit_B.dae",
     "size": [
       0.49761900305747986,
@@ -1255,7 +1255,7 @@
     "uuid": "55fb2f34-00d7-4149-8b52-e189e05ba0ca"
   },
   {
-    "name": "TOOL_Hospital_Surgery_Scalpel_A.dae",
+    "name": "TOOL_Hospital_Surgery_Scalpel_A",
     "relative_path": "Tools/Hospital/TOOL_Hospital_Surgery_Kit_ABC/Resources/TOOL_Hospital_Surgery_Scalpel_A.dae",
     "size": [
       0.04769900068640709,
@@ -1270,7 +1270,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "TOOL_Ketheric_Anvil_A.dae",
+    "name": "TOOL_Ketheric_Anvil_A",
     "relative_path": "Tools/Ketheric/Resources/TOOL_Ketheric_Anvil_A.dae",
     "size": [
       1.2643170356750488,
@@ -1285,7 +1285,7 @@
     "uuid": "d029bf99-3dcb-4682-b67d-215011c8fef6"
   },
   {
-    "name": "TOOL_Ketheric_Anvil_B.dae",
+    "name": "TOOL_Ketheric_Anvil_B",
     "relative_path": "Tools/Ketheric/Resources/TOOL_Ketheric_Anvil_B.dae",
     "size": [
       1.2784709930419922,
@@ -1300,7 +1300,7 @@
     "uuid": "4873848c-a509-4890-9c0f-4e6489410874"
   },
   {
-    "name": "TOOL_Ketheric_Anvil_Base_A.dae",
+    "name": "TOOL_Ketheric_Anvil_Base_A",
     "relative_path": "Tools/Ketheric/Resources/TOOL_Ketheric_Anvil_Base_A.dae",
     "size": [
       1.083977997303009,
@@ -1315,7 +1315,7 @@
     "uuid": "6781372e-564a-44a5-89d5-6e4d89baf074"
   },
   {
-    "name": "TOOL_Goblins_Ladder_10n5H_A.dae",
+    "name": "TOOL_Goblins_Ladder_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_10n5H_A.dae",
     "size": [
       1.5015009641647339,
@@ -1330,7 +1330,7 @@
     "uuid": "c3cd979a-21e8-4f70-adb8-1e81a6250e2e"
   },
   {
-    "name": "TOOL_Goblins_Ladder_10n5H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_10n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_10n5H_A_Destruct.dae",
     "size": [
       5.245430946350098,
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_10n5H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_10n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_10n5H_A_Explode.dae",
     "size": [
       1.5015009641647339,
@@ -1358,7 +1358,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_12H_A.dae",
+    "name": "TOOL_Goblins_Ladder_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_12H_A.dae",
     "size": [
       1.6628119945526123,
@@ -1373,7 +1373,7 @@
     "uuid": "a396879d-a4d3-4805-af32-8b9415194b02"
   },
   {
-    "name": "TOOL_Goblins_Ladder_12H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_12H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_12H_A_Destruct.dae",
     "size": [
       5.75681209564209,
@@ -1388,7 +1388,7 @@
     "uuid": "eefbc03b-377c-4426-bb72-95460affa95e"
   },
   {
-    "name": "TOOL_Goblins_Ladder_12H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_12H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_12H_A_Explode.dae",
     "size": [
       1.5835909843444824,
@@ -1402,7 +1402,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_3H_A.dae",
+    "name": "TOOL_Goblins_Ladder_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_3H_A.dae",
     "size": [
       1.5250539779663086,
@@ -1417,7 +1417,7 @@
     "uuid": "d5ba6220-f7b3-407b-b1b7-020b1fb5c277"
   },
   {
-    "name": "TOOL_Goblins_Ladder_3H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_3H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_3H_A_Destruct.dae",
     "size": [
       4.740748941898346,
@@ -1432,7 +1432,7 @@
     "uuid": "3c263ddd-7491-4d8f-af76-fc73eda6a2f6"
   },
   {
-    "name": "TOOL_Goblins_Ladder_3H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_3H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_3H_A_Explode.dae",
     "size": [
       1.5250539779663086,
@@ -1446,7 +1446,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_4n5H_A.dae",
+    "name": "TOOL_Goblins_Ladder_4n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_4n5H_A.dae",
     "size": [
       1.4696639776229858,
@@ -1461,7 +1461,7 @@
     "uuid": "a53c0876-80d4-45af-922f-bbb27ce0a8e3"
   },
   {
-    "name": "TOOL_Goblins_Ladder_4n5H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_4n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_4n5H_A_Destruct.dae",
     "size": [
       4.345285058021545,
@@ -1476,7 +1476,7 @@
     "uuid": "2af717c0-52f7-4220-a751-47e5404bc7e4"
   },
   {
-    "name": "TOOL_Goblins_Ladder_4n5H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_4n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_4n5H_A_Explode.dae",
     "size": [
       1.4696639776229858,
@@ -1490,7 +1490,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_6H_A.dae",
+    "name": "TOOL_Goblins_Ladder_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_6H_A.dae",
     "size": [
       1.4842959642410278,
@@ -1505,7 +1505,7 @@
     "uuid": "7d4f59f9-39b8-469b-a4ab-ebf7b1d4b5e3"
   },
   {
-    "name": "TOOL_Goblins_Ladder_6H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_6H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_6H_A_Destruct.dae",
     "size": [
       6.2994279861450195,
@@ -1520,7 +1520,7 @@
     "uuid": "30a6e2cd-f922-4545-b3f7-c4edf2862282"
   },
   {
-    "name": "TOOL_Goblins_Ladder_6H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_6H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_6H_A_Explode.dae",
     "size": [
       1.4842959642410278,
@@ -1534,7 +1534,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_7n5H_A.dae",
+    "name": "TOOL_Goblins_Ladder_7n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_7n5H_A.dae",
     "size": [
       1.5351959466934204,
@@ -1549,7 +1549,7 @@
     "uuid": "7bd28716-0d4a-4728-9873-c037649dc6b8"
   },
   {
-    "name": "TOOL_Goblins_Ladder_7n5H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_7n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_7n5H_A_Destruct.dae",
     "size": [
       4.851707100868225,
@@ -1564,7 +1564,7 @@
     "uuid": "e8e2a955-97ed-4739-a0c0-96402c283e33"
   },
   {
-    "name": "TOOL_Goblins_Ladder_7n5H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_7n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_7n5H_A_Explode.dae",
     "size": [
       1.5351959466934204,
@@ -1578,7 +1578,7 @@
     ]
   },
   {
-    "name": "TOOL_Goblins_Ladder_9H_A.dae",
+    "name": "TOOL_Goblins_Ladder_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_9H_A.dae",
     "size": [
       1.5663840174674988,
@@ -1593,7 +1593,7 @@
     "uuid": "6ba71b64-1809-41e9-9fc9-41751f546d9b"
   },
   {
-    "name": "TOOL_Goblins_Ladder_9H_A_Destruct.dae",
+    "name": "TOOL_Goblins_Ladder_9H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_9H_A_Destruct.dae",
     "size": [
       7.343782901763916,
@@ -1608,7 +1608,7 @@
     "uuid": "89fd03d0-381d-4404-9480-ef9a829bbe62"
   },
   {
-    "name": "TOOL_Goblins_Ladder_9H_A_Explode.dae",
+    "name": "TOOL_Goblins_Ladder_9H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Goblins_Ladder_ABC/Resources/TOOL_Goblins_Ladder_9H_A_Explode.dae",
     "size": [
       1.5663840174674988,
@@ -1622,7 +1622,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_10n5H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_10n5H_A.dae",
     "size": [
       7.055642127990723,
@@ -1637,7 +1637,7 @@
     "uuid": "e44b41b1-14ec-4427-aedd-985707e7bedb"
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_15H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_15H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_15H_A.dae",
     "size": [
       7.2206690311431885,
@@ -1652,7 +1652,7 @@
     "uuid": "275b9d94-b37d-489d-990c-7d0602e38d46"
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_3H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_3H_A.dae",
     "size": [
       7.021390199661255,
@@ -1667,7 +1667,7 @@
     "uuid": "4b1d9733-ca52-4927-8c68-db62fc90f980"
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_4n5H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_4n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_4n5H_A.dae",
     "size": [
       7.021390199661255,
@@ -1682,7 +1682,7 @@
     "uuid": "14ccbc29-1aa1-405c-93e3-96b243779385"
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_6H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_6H_A.dae",
     "size": [
       7.144940137863159,
@@ -1697,7 +1697,7 @@
     "uuid": "1095718f-9ca3-419c-a5f5-43a387ba0d33"
   },
   {
-    "name": "TOOL_Ladder_Cliff_Granite_9H_A.dae",
+    "name": "TOOL_Ladder_Cliff_Granite_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cliff_Granite_ABC/Resources/TOOL_Ladder_Cliff_Granite_9H_A.dae",
     "size": [
       7.055642127990723,
@@ -1712,7 +1712,7 @@
     "uuid": "c2892b9a-726e-4e80-ba10-87e29a8e6906"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_10n5H_A.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_10n5H_A.dae",
     "size": [
       5.9400529861450195,
@@ -1727,7 +1727,7 @@
     "uuid": "1851f8da-3791-4f5a-83be-1c5a67780e61"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_12H_A.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_12H_A.dae",
     "size": [
       7.43762993812561,
@@ -1742,7 +1742,7 @@
     "uuid": "efae57c5-ee7b-4cad-8d87-c7e6d6f34d2e"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_15H_A.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_15H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_15H_A.dae",
     "size": [
       8.924448013305664,
@@ -1757,7 +1757,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_6H_A.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_6H_A.dae",
     "size": [
       1.0284960269927979,
@@ -1772,7 +1772,7 @@
     "uuid": "7f0ab379-bf5c-4913-b811-9eb01ecc47a4"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_6H_B.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_6H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_6H_B.dae",
     "size": [
       4.8283408880233765,
@@ -1787,7 +1787,7 @@
     "uuid": "9129e946-c138-4b9c-abdd-3383b7905703"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_10H_A.dae",
+    "name": "TOOL_Ladder_Fishnet_10H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_10H_A.dae",
     "size": [
       2.434528112411499,
@@ -1802,7 +1802,7 @@
     "uuid": "0b957643-2177-4ae6-8667-986204478828"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_10H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Fishnet_10H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_10H_A_Destruct.dae",
     "size": [
       2.4193860292434692,
@@ -1817,7 +1817,7 @@
     "uuid": "06f9fce8-de04-4522-8eb5-312729ce2362"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_3H_A.dae",
+    "name": "TOOL_Ladder_Fishnet_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_3H_A.dae",
     "size": [
       2.404318928718567,
@@ -1832,7 +1832,7 @@
     "uuid": "3fe4c8f5-881f-4995-8e60-9fcf4e44307d"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_3H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Fishnet_3H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_3H_A_Destruct.dae",
     "size": [
       2.401173949241638,
@@ -1847,7 +1847,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_6H_A.dae",
+    "name": "TOOL_Ladder_Fishnet_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_6H_A.dae",
     "size": [
       2.4224530458450317,
@@ -1862,7 +1862,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_6H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Fishnet_6H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_6H_A_Destruct.dae",
     "size": [
       2.4193310737609863,
@@ -1877,7 +1877,7 @@
     "uuid": "395f694f-0524-4ef2-8b78-c1a35ddcf9fd"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_8H_A.dae",
+    "name": "TOOL_Ladder_Fishnet_8H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_8H_A.dae",
     "size": [
       2.422531008720398,
@@ -1892,7 +1892,7 @@
     "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b"
   },
   {
-    "name": "TOOL_Ladder_Fishnet_8H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Fishnet_8H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Fishnet_ABC/Resources/TOOL_Ladder_Fishnet_8H_A_Destruct.dae",
     "size": [
       2.4193860292434692,
@@ -1907,7 +1907,7 @@
     "uuid": "94bf5340-b023-470c-9a78-8943b6523093"
   },
   {
-    "name": "TOOL_Ladder_Metal_10n5H_A.dae",
+    "name": "TOOL_Ladder_Metal_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_10n5H_A.dae",
     "size": [
       0.8884209990501404,
@@ -1922,7 +1922,7 @@
     "uuid": "bdf1878a-4db3-4398-b8aa-0831de13d842"
   },
   {
-    "name": "TOOL_Ladder_Metal_10n5H_B.dae",
+    "name": "TOOL_Ladder_Metal_10n5H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_10n5H_B.dae",
     "size": [
       2.8980109691619873,
@@ -1937,7 +1937,7 @@
     "uuid": "8d3f1378-2d20-44e0-8baa-be42afe05172"
   },
   {
-    "name": "TOOL_Ladder_Metal_12H_A.dae",
+    "name": "TOOL_Ladder_Metal_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_12H_A.dae",
     "size": [
       0.8884209990501404,
@@ -1952,7 +1952,7 @@
     "uuid": "1036ed50-aafc-4d46-8dc3-5c1ca44c3559"
   },
   {
-    "name": "TOOL_Ladder_Metal_12H_B.dae",
+    "name": "TOOL_Ladder_Metal_12H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_12H_B.dae",
     "size": [
       2.8822110891342163,
@@ -1967,7 +1967,7 @@
     "uuid": "cd44c50b-a405-4259-82b5-b2d7bf11aa2d"
   },
   {
-    "name": "TOOL_Ladder_Metal_3H_A.dae",
+    "name": "TOOL_Ladder_Metal_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_3H_A.dae",
     "size": [
       0.8884209990501404,
@@ -1982,7 +1982,7 @@
     "uuid": "ad5f68ed-44d3-40d4-b7bc-e6b10ae8ee65"
   },
   {
-    "name": "TOOL_Ladder_Metal_4n5H_A.dae",
+    "name": "TOOL_Ladder_Metal_4n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_4n5H_A.dae",
     "size": [
       0.8884209990501404,
@@ -1997,7 +1997,7 @@
     "uuid": "264bd21d-b4bc-4e0e-aa4d-1365c9d94844"
   },
   {
-    "name": "TOOL_Ladder_Metal_6H_A.dae",
+    "name": "TOOL_Ladder_Metal_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_6H_A.dae",
     "size": [
       0.8884209990501404,
@@ -2012,7 +2012,7 @@
     "uuid": "43649b09-8e92-464a-8313-1920d427e0bf"
   },
   {
-    "name": "TOOL_Ladder_Metal_7n5H_A.dae",
+    "name": "TOOL_Ladder_Metal_7n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_7n5H_A.dae",
     "size": [
       0.8884209990501404,
@@ -2027,7 +2027,7 @@
     "uuid": "12479101-0c91-438b-9673-741fd6a1aa1a"
   },
   {
-    "name": "TOOL_Ladder_Metal_9H_A.dae",
+    "name": "TOOL_Ladder_Metal_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_9H_A.dae",
     "size": [
       0.8884209990501404,
@@ -2042,7 +2042,7 @@
     "uuid": "8eacbe23-0364-4260-b4ba-1692a6ad2fe7"
   },
   {
-    "name": "TOOL_Ladder_Metal_9H_B.dae",
+    "name": "TOOL_Ladder_Metal_9H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Metal_ABC/Resources/TOOL_Ladder_Metal_9H_B.dae",
     "size": [
       2.8978010416030884,
@@ -2057,7 +2057,7 @@
     "uuid": "0faf2f62-047d-48a3-a0a8-d0e9bd910a0b"
   },
   {
-    "name": "DEC_Ladder_MF_Membrane_Piece_A.dae",
+    "name": "DEC_Ladder_MF_Membrane_Piece_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/DEC_Ladder_MF_Membrane_Piece_A.dae",
     "size": [
       3.5545639991760254,
@@ -2071,7 +2071,7 @@
     ]
   },
   {
-    "name": "DEC_Ladder_MF_Membrane_Piece_B.dae",
+    "name": "DEC_Ladder_MF_Membrane_Piece_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/DEC_Ladder_MF_Membrane_Piece_B.dae",
     "size": [
       2.431908965110779,
@@ -2085,7 +2085,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_MF_Membrane_3H_B.dae",
+    "name": "TOOL_Ladder_MF_Membrane_3H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_3H_B.dae",
     "size": [
       2.21561598777771,
@@ -2100,7 +2100,7 @@
     "uuid": "5aabdd22-7b10-43d2-890c-be1e6dfb8cd3"
   },
   {
-    "name": "TOOL_Ladder_Roof_Platform_A_Long_A.dae",
+    "name": "TOOL_Ladder_Roof_Platform_A_Long_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roof_Platform_ABC/Resources/TOOL_Ladder_Roof_Platform_A_Long_A.dae",
     "size": [
       4.405325889587402,
@@ -2115,7 +2115,7 @@
     "uuid": "b69a3cf7-27eb-438b-9950-b22c88dc98bc"
   },
   {
-    "name": "TOOL_Ladder_Roof_Platform_A_Small_A.dae",
+    "name": "TOOL_Ladder_Roof_Platform_A_Small_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roof_Platform_ABC/Resources/TOOL_Ladder_Roof_Platform_A_Small_A.dae",
     "size": [
       3.1352601051330566,
@@ -2130,7 +2130,7 @@
     "uuid": "8a11e9db-fe17-4164-9caa-18488b02ef86"
   },
   {
-    "name": "TOOL_Ladder_Roof_Platform_B_Long_A.dae",
+    "name": "TOOL_Ladder_Roof_Platform_B_Long_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roof_Platform_ABC/Resources/TOOL_Ladder_Roof_Platform_B_Long_A.dae",
     "size": [
       4.405325889587402,
@@ -2145,7 +2145,7 @@
     "uuid": "48fff3cf-ced6-4d25-9f4a-77cece7e9d90"
   },
   {
-    "name": "TOOL_Ladder_Roof_Platform_B_Small_A.dae",
+    "name": "TOOL_Ladder_Roof_Platform_B_Small_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roof_Platform_ABC/Resources/TOOL_Ladder_Roof_Platform_B_Small_A.dae",
     "size": [
       3.090428113937378,
@@ -2160,7 +2160,7 @@
     "uuid": "3c7bc0d6-b299-40ca-a2dc-b7984666911e"
   },
   {
-    "name": "TOOL_Ladder_Roots_12H_A.dae",
+    "name": "TOOL_Ladder_Roots_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_12H_A.dae",
     "size": [
       3.803639054298401,
@@ -2175,7 +2175,7 @@
     "uuid": "65f8abd2-d7b3-4473-afe0-f6f5935268de"
   },
   {
-    "name": "TOOL_Ladder_Roots_18H_A.dae",
+    "name": "TOOL_Ladder_Roots_18H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_18H_A.dae",
     "size": [
       3.8042269945144653,
@@ -2190,7 +2190,7 @@
     "uuid": "bfce18d5-93c2-41c6-8e8b-9850f2c159e6"
   },
   {
-    "name": "TOOL_Ladder_Roots_6H_A.dae",
+    "name": "TOOL_Ladder_Roots_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_6H_A.dae",
     "size": [
       3.8307310342788696,
@@ -2205,7 +2205,7 @@
     "uuid": "7a393f77-9adb-4508-a57c-d8ea1e6261aa"
   },
   {
-    "name": "TOOL_Ladder_Roots_6H_B.dae",
+    "name": "TOOL_Ladder_Roots_6H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_6H_B.dae",
     "size": [
       1.8655720353126526,
@@ -2220,7 +2220,7 @@
     "uuid": "dec3ed22-2090-416c-8160-b0509d2d4b89"
   },
   {
-    "name": "TOOL_Ladder_Vines_4_5H_A.dae",
+    "name": "TOOL_Ladder_Vines_4_5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Vines_ABC_A/Resources/TOOL_Ladder_Vines_4_5H_A.dae",
     "size": [
       3.757422089576721,
@@ -2234,7 +2234,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Web_10n5H_A.dae",
+    "name": "TOOL_Ladder_Web_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_10n5H_A.dae",
     "size": [
       8.985194683074951,
@@ -2249,7 +2249,7 @@
     "uuid": "1d8510fc-4475-444d-b546-399707074596"
   },
   {
-    "name": "TOOL_Ladder_Web_12H_A.dae",
+    "name": "TOOL_Ladder_Web_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_12H_A.dae",
     "size": [
       9.077492713928223,
@@ -2264,7 +2264,7 @@
     "uuid": "2729976b-f474-4608-8d4f-585c58d21100"
   },
   {
-    "name": "TOOL_Ladder_Web_3H_A.dae",
+    "name": "TOOL_Ladder_Web_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_3H_A.dae",
     "size": [
       4.451304197311401,
@@ -2279,7 +2279,7 @@
     "uuid": "f1f7a83f-9d09-4195-a3ab-857fb9ff21d7"
   },
   {
-    "name": "TOOL_Ladder_Web_4n5H_A.dae",
+    "name": "TOOL_Ladder_Web_4n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_4n5H_A.dae",
     "size": [
       4.2431230545043945,
@@ -2294,7 +2294,7 @@
     "uuid": "44a84984-2a9e-4f07-b9fe-57231965f51c"
   },
   {
-    "name": "TOOL_Ladder_Web_6H_A.dae",
+    "name": "TOOL_Ladder_Web_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_6H_A.dae",
     "size": [
       5.114155054092407,
@@ -2309,7 +2309,7 @@
     "uuid": "f3c4ab15-94bf-491e-99e7-5589961b2360"
   },
   {
-    "name": "TOOL_Ladder_Web_7n5H_A.dae",
+    "name": "TOOL_Ladder_Web_7n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_7n5H_A.dae",
     "size": [
       6.131737947463989,
@@ -2324,7 +2324,7 @@
     "uuid": "1c1f6604-7f41-4d67-8f43-d91d7ba9d440"
   },
   {
-    "name": "TOOL_Ladder_Web_9H_A.dae",
+    "name": "TOOL_Ladder_Web_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Web_ABC/Resources/TOOL_Ladder_Web_9H_A.dae",
     "size": [
       7.812760829925537,
@@ -2339,7 +2339,7 @@
     "uuid": "7460fc4c-54f9-4929-b928-61cd75fc16ee"
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_A.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2354,7 +2354,7 @@
     "uuid": "d10e701e-9232-4e4c-96ec-e298073a66f0"
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_A_Destruct.dae",
     "size": [
       5.688847064971924,
@@ -2369,7 +2369,7 @@
     "uuid": "770c3d74-4682-4eab-8d89-eccd9f494ca2"
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_A_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2383,7 +2383,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_B.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2398,7 +2398,7 @@
     "uuid": "f2193a5b-5fe8-4692-b04f-c71b6719d04d"
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_B_Destruct.dae",
     "size": [
       4.416507005691528,
@@ -2413,7 +2413,7 @@
     "uuid": "f261b2d3-e708-4f64-aebd-872b5bf8b6a9"
   },
   {
-    "name": "TOOL_Ladder_Wood_10n5H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_10n5H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_10n5H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2427,7 +2427,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_A.dae",
+    "name": "TOOL_Ladder_Wood_12H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2442,7 +2442,7 @@
     "uuid": "7ab27bce-9afd-4512-9771-77c1accdb275"
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_12H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_A_Destruct.dae",
     "size": [
       5.294846057891846,
@@ -2457,7 +2457,7 @@
     "uuid": "99647e37-8638-4317-a221-a470c3de24bb"
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_12H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_A_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2471,7 +2471,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_B.dae",
+    "name": "TOOL_Ladder_Wood_12H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2486,7 +2486,7 @@
     "uuid": "99783fde-7b79-41ce-8a66-a2d21e434551"
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_12H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_B_Destruct.dae",
     "size": [
       4.9688920974731445,
@@ -2501,7 +2501,7 @@
     "uuid": "71aab28c-4aee-4fc0-9087-29bedf95b687"
   },
   {
-    "name": "TOOL_Ladder_Wood_12H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_12H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_12H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2515,7 +2515,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_A.dae",
+    "name": "TOOL_Ladder_Wood_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2530,7 +2530,7 @@
     "uuid": "0f4c35b6-2a53-4461-aa8b-567e371a766d"
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_3H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_A_Destruct.dae",
     "size": [
       3.42192006111145,
@@ -2545,7 +2545,7 @@
     "uuid": "70eaf29d-d35f-48ed-aed9-8702e7933f02"
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_3H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_A_Explode.dae",
     "size": [
       0.8890310227870941,
@@ -2559,7 +2559,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_B.dae",
+    "name": "TOOL_Ladder_Wood_3H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2574,7 +2574,7 @@
     "uuid": "9b10caa5-40d7-45e9-98e5-0f2c8b80bbce"
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_3H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_B_Destruct.dae",
     "size": [
       3.0415040850639343,
@@ -2589,7 +2589,7 @@
     "uuid": "eaaad297-9b33-4f56-923c-4923340cc822"
   },
   {
-    "name": "TOOL_Ladder_Wood_3H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_3H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_3H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2603,7 +2603,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_A.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2618,7 +2618,7 @@
     "uuid": "3bf5a635-4dfe-4929-b377-2ee42caee980"
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_A_Destruct.dae",
     "size": [
       2.3303120136260986,
@@ -2633,7 +2633,7 @@
     "uuid": "6a0011eb-834e-4b1e-9b5d-7df6a727f567"
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_A_Explode.dae",
     "size": [
       0.8888989984989166,
@@ -2647,7 +2647,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_B.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2662,7 +2662,7 @@
     "uuid": "24110824-95b2-4bfe-93a1-ccf85a67ea3d"
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_B_Destruct.dae",
     "size": [
       3.9470369815826416,
@@ -2677,7 +2677,7 @@
     "uuid": "afbb7661-b2c0-4b00-af1f-f75e00ffa8d2"
   },
   {
-    "name": "TOOL_Ladder_Wood_4n5H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_4n5H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_4n5H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2691,7 +2691,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_A.dae",
+    "name": "TOOL_Ladder_Wood_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2706,7 +2706,7 @@
     "uuid": "027f81ff-8712-410f-9cf9-da40cc0e4737"
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_6H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_A_Destruct.dae",
     "size": [
       6.07481575012207,
@@ -2721,7 +2721,7 @@
     "uuid": "404a7ffe-4ad1-4931-af1e-70a00ecc63fc"
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_6H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_A_Explode.dae",
     "size": [
       0.8887200057506561,
@@ -2735,7 +2735,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_B.dae",
+    "name": "TOOL_Ladder_Wood_6H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2750,7 +2750,7 @@
     "uuid": "b6f62fe7-7ea4-4f56-ab10-e3d0947a3327"
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_6H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_B_Destruct.dae",
     "size": [
       5.113160848617554,
@@ -2765,7 +2765,7 @@
     "uuid": "644b80a8-19a2-454c-a642-951a72907dfe"
   },
   {
-    "name": "TOOL_Ladder_Wood_6H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_6H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_6H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2779,7 +2779,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_A.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2794,7 +2794,7 @@
     "uuid": "2419b4a3-fce5-4cb2-9f44-9b2f034a082b"
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_A_Destruct.dae",
     "size": [
       4.0732139348983765,
@@ -2809,7 +2809,7 @@
     "uuid": "fb7c34f5-0649-47c2-81c0-312dcb739979"
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_A_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2823,7 +2823,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_B.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2838,7 +2838,7 @@
     "uuid": "ab813abb-dc42-4eb5-af75-45a382a02616"
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_B_Destruct.dae",
     "size": [
       7.196237802505493,
@@ -2853,7 +2853,7 @@
     "uuid": "901fc99f-5405-44f2-8a72-0ce6214c320c"
   },
   {
-    "name": "TOOL_Ladder_Wood_7n5H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_7n5H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_7n5H_B_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2867,7 +2867,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_A.dae",
+    "name": "TOOL_Ladder_Wood_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_A.dae",
     "size": [
       0.8884240090847015,
@@ -2882,7 +2882,7 @@
     "uuid": "2263d67e-7579-4978-bd52-79aedab691e6"
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_9H_A_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_A_Destruct.dae",
     "size": [
       5.537578821182251,
@@ -2897,7 +2897,7 @@
     "uuid": "f6578347-0631-4d5c-8fc5-b3e9cbb70a1a"
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_A_Explode.dae",
+    "name": "TOOL_Ladder_Wood_9H_A_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_A_Explode.dae",
     "size": [
       0.8884240090847015,
@@ -2911,7 +2911,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_B.dae",
+    "name": "TOOL_Ladder_Wood_9H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_B.dae",
     "size": [
       0.8884240090847015,
@@ -2926,7 +2926,7 @@
     "uuid": "5756e03c-9c85-4c9d-b09e-dd729bb9ec5b"
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_B_Destruct.dae",
+    "name": "TOOL_Ladder_Wood_9H_B_Destruct",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_B_Destruct.dae",
     "size": [
       6.192792892456055,
@@ -2941,7 +2941,7 @@
     "uuid": "a0bea3d0-20dd-440b-acf3-6918f302c74f"
   },
   {
-    "name": "TOOL_Ladder_Wood_9H_B_Explode.dae",
+    "name": "TOOL_Ladder_Wood_9H_B_Explode",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Wood_ABC/Resources/TOOL_Ladder_Wood_9H_B_Explode.dae",
     "size": [
       0.8890300095081329,
@@ -2955,7 +2955,7 @@
     ]
   },
   {
-    "name": "TOOL_Masonry_Chisel_Kit_A.dae",
+    "name": "TOOL_Masonry_Chisel_Kit_A",
     "relative_path": "Tools/Masonry/TOOL_Masonry_Chisel_Kit_ABC/Resources/TOOL_Masonry_Chisel_Kit_A.dae",
     "size": [
       0.9480949938297272,
@@ -2970,7 +2970,7 @@
     "uuid": "b8a2487f-b870-4bfb-b436-fdc17af731ae"
   },
   {
-    "name": "TOOL_Masonry_Hammer_A.dae",
+    "name": "TOOL_Masonry_Hammer_A",
     "relative_path": "Tools/Masonry/TOOL_Masonry_Hammer_ABC/Resources/TOOL_Masonry_Hammer_A.dae",
     "size": [
       0.24215000122785568,
@@ -2985,7 +2985,7 @@
     "uuid": "dd5c7204-df29-4bab-b012-9831f84b7fc7"
   },
   {
-    "name": "INTERACT_TOOL_Smith_Anvil_B.dae",
+    "name": "INTERACT_TOOL_Smith_Anvil_B",
     "relative_path": "Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/INTERACT_TOOL_Smith_Anvil_B.dae",
     "size": [
       0.6712470054626465,
@@ -3000,7 +3000,7 @@
     "uuid": "73039cac-3746-4fd3-9361-06b630662d13"
   },
   {
-    "name": "TOOL_Smith_Anvil_A.dae",
+    "name": "TOOL_Smith_Anvil_A",
     "relative_path": "Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/TOOL_Smith_Anvil_A.dae",
     "size": [
       0.5858319997787476,
@@ -3015,7 +3015,7 @@
     "uuid": "a79a6a96-0ce7-4f17-b915-1c381dfa0edf"
   },
   {
-    "name": "TOOL_Smith_Anvil_B.dae",
+    "name": "TOOL_Smith_Anvil_B",
     "relative_path": "Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/TOOL_Smith_Anvil_B.dae",
     "size": [
       0.6712470054626465,
@@ -3030,7 +3030,7 @@
     "uuid": "84dc46a0-eb7e-43fb-b3cd-9200bd017a15"
   },
   {
-    "name": "TOOL_Smith_Anvil_Broken_A.dae",
+    "name": "TOOL_Smith_Anvil_Broken_A",
     "relative_path": "Tools/Smith/TOOL_Smith_Anvil_ABC/Resources/TOOL_Smith_Anvil_Broken_A.dae",
     "size": [
       0.8995899856090546,
@@ -3044,7 +3044,7 @@
     ]
   },
   {
-    "name": "INTERACT_TOOL_Smith_Whetstone_Wheel_B.dae",
+    "name": "INTERACT_TOOL_Smith_Whetstone_Wheel_B",
     "relative_path": "Tools/Smith/TOOL_Smith_Whetstone_Wheel_ABC/Resources/INTERACT_TOOL_Smith_Whetstone_Wheel_B.dae",
     "size": [
       1.1812229752540588,
@@ -3059,7 +3059,7 @@
     "uuid": "985bb624-6726-4243-bc6a-9274a95bf5fd"
   },
   {
-    "name": "TOOL_Smith_Whetstone_Wheel_A.dae",
+    "name": "TOOL_Smith_Whetstone_Wheel_A",
     "relative_path": "Tools/Smith/TOOL_Smith_Whetstone_Wheel_ABC/Resources/TOOL_Smith_Whetstone_Wheel_A.dae",
     "size": [
       1.1812229752540588,
@@ -3074,7 +3074,7 @@
     "uuid": "45ecb2cc-3bcb-4a85-8d59-0a813d37997e"
   },
   {
-    "name": "TOOL_Smith_Whetstone_Wheel_B.dae",
+    "name": "TOOL_Smith_Whetstone_Wheel_B",
     "relative_path": "Tools/Smith/TOOL_Smith_Whetstone_Wheel_ABC/Resources/TOOL_Smith_Whetstone_Wheel_B.dae",
     "size": [
       1.1812229752540588,
@@ -3089,7 +3089,7 @@
     "uuid": "27162cbf-ab57-401b-a578-cd9f34209926"
   },
   {
-    "name": "TOOL_GEN_Barber_Kit_A.dae",
+    "name": "TOOL_GEN_Barber_Kit_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_GEN_Barber_Kit_A.dae",
     "size": [
       0.381289005279541,
@@ -3104,7 +3104,7 @@
     "uuid": "788278b2-4772-4372-a5e7-accb3e48857e"
   },
   {
-    "name": "TOOL_GEN_Barber_Kit_B.dae",
+    "name": "TOOL_GEN_Barber_Kit_B",
     "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_GEN_Barber_Kit_B.dae",
     "size": [
       0.47842299938201904,
@@ -3119,7 +3119,7 @@
     "uuid": "68621363-4d85-4c74-a7c5-cefe7ae36d15"
   },
   {
-    "name": "TOOL_Hospital_Surgery_Kit_B.dae",
+    "name": "TOOL_Hospital_Surgery_Kit_B",
     "relative_path": "Tools/Generic/TOOL_GEN_Barber_Shop_A/Resources/TOOL_Hospital_Surgery_Kit_B.dae",
     "size": [
       0.49761900305747986,
@@ -3134,7 +3134,7 @@
     "uuid": "55fb2f34-00d7-4149-8b52-e189e05ba0ca"
   },
   {
-    "name": "TOOL_GEN_Plaque_Standing_Bronze_A.dae",
+    "name": "TOOL_GEN_Plaque_Standing_Bronze_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Plaque_Standing_ABC/Resources/TOOL_GEN_Plaque_Standing_Bronze_A.dae",
     "size": [
       0.6208739876747131,
@@ -3149,7 +3149,7 @@
     "uuid": "4002fe47-3c18-4381-b853-74b9d7eff251"
   },
   {
-    "name": "TOOL_GEN_Tower_Bell_A.dae",
+    "name": "TOOL_GEN_Tower_Bell_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Tower_Bell_ABC/Resources/TOOL_GEN_Tower_Bell_A.dae",
     "size": [
       3.0289700031280518,
@@ -3164,7 +3164,7 @@
     "uuid": "6051a6d2-88e9-4ab4-999c-f463632453eb"
   },
   {
-    "name": "TOOL_Tower_Bell_mechanism_A.dae",
+    "name": "TOOL_Tower_Bell_mechanism_A",
     "relative_path": "Tools/Generic/TOOL_GEN_Tower_Bell_ABC/Resources/TOOL_Tower_Bell_mechanism_A.dae",
     "size": [
       6.901403188705444,
@@ -3179,7 +3179,7 @@
     "uuid": "1b5ea20d-5bae-4311-930e-72650ef586e9"
   },
   {
-    "name": "CINE_TOOL_GTY_Microscope_A.dae",
+    "name": "CINE_TOOL_GTY_Microscope_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Microscope_A/Resources/CINE_TOOL_GTY_Microscope_A.dae",
     "size": [
       0.6404809951782227,
@@ -3194,7 +3194,7 @@
     "uuid": "62e6b108-e7d6-4141-81ee-53c11a29e896"
   },
   {
-    "name": "TOOL_GTY_Microscope_A.dae",
+    "name": "TOOL_GTY_Microscope_A",
     "relative_path": "Tools/Githyanki/TOOL_GTY_Microscope_A/Resources/TOOL_GTY_Microscope_A.dae",
     "size": [
       0.6406989991664886,
@@ -3209,7 +3209,7 @@
     "uuid": "df17b2fb-c14f-4b22-9660-f4da4999adee"
   },
   {
-    "name": "TOOL_Ladder_Bronze_6H_A.dae",
+    "name": "TOOL_Ladder_Bronze_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Bronze_ABC/Resources/TOOL_Ladder_Bronze_6H_A.dae",
     "size": [
       0.8735340237617493,
@@ -3224,7 +3224,7 @@
     "uuid": "a07a467c-2bd1-44fa-84c6-98310c3616fc"
   },
   {
-    "name": "TOOL_Ladder_Bronze_6H_B.dae",
+    "name": "TOOL_Ladder_Bronze_6H_B",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Bronze_ABC/Resources/TOOL_Ladder_Bronze_6H_B.dae",
     "size": [
       0.8735340237617493,
@@ -3239,7 +3239,7 @@
     "uuid": "900a7b1e-cd38-4006-a8b0-208cacc4f39f"
   },
   {
-    "name": "TOOL_Ladder_Cursed_Roots_3H_A.dae",
+    "name": "TOOL_Ladder_Cursed_Roots_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Cursed_Roots_ABC/Resources/TOOL_Ladder_Cursed_Roots_3H_A.dae",
     "size": [
       0.7863399982452393,
@@ -3254,7 +3254,7 @@
     "uuid": "c97a9df5-79e5-428c-8d80-f35be6d05763"
   },
   {
-    "name": "TOOL_Ladder_MF_Membrane_10H_A.dae",
+    "name": "TOOL_Ladder_MF_Membrane_10H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_10H_A.dae",
     "size": [
       4.010673999786377,
@@ -3269,7 +3269,7 @@
     "uuid": "f5fcc1c7-8c93-47fd-a12d-c7b97dbaecb7"
   },
   {
-    "name": "TOOL_Ladder_MF_Membrane_3H_A.dae",
+    "name": "TOOL_Ladder_MF_Membrane_3H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_3H_A.dae",
     "size": [
       3.5545639991760254,
@@ -3284,7 +3284,7 @@
     "uuid": "a71ca7b9-814c-423e-8444-981419f68a5a"
   },
   {
-    "name": "TOOL_Ladder_MF_Membrane_6H_A.dae",
+    "name": "TOOL_Ladder_MF_Membrane_6H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_6H_A.dae",
     "size": [
       3.8152449131011963,
@@ -3299,7 +3299,7 @@
     "uuid": "51b51723-0379-44ca-b375-3f56acaa6dfb"
   },
   {
-    "name": "TOOL_Ladder_MF_Membrane_8H_A.dae",
+    "name": "TOOL_Ladder_MF_Membrane_8H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_MF_Membrane_ABC/Resources/TOOL_Ladder_MF_Membrane_8H_A.dae",
     "size": [
       4.016743898391724,
@@ -3314,7 +3314,7 @@
     "uuid": "12886fc9-c18e-4fb3-994a-215af9869ac4"
   },
   {
-    "name": "TOOL_Ladder_Roots_9H_A.dae",
+    "name": "TOOL_Ladder_Roots_9H_A",
     "relative_path": "Tools/Ladders/TOOL_Ladder_Roots_ABC/Resources/TOOL_Ladder_Roots_9H_A.dae",
     "size": [
       3.10958194732666,
@@ -3329,7 +3329,7 @@
     "uuid": "eaf196cd-a009-4e2a-8652-e391391f96c6"
   },
   {
-    "name": "TOOL_MF_Resonance_Crystal_Legless_A.dae",
+    "name": "TOOL_MF_Resonance_Crystal_Legless_A",
     "relative_path": "Tools/Mindflayer/Resources/TOOL_MF_Resonance_Crystal_Legless_A.dae",
     "size": [
       1.5302200317382812,

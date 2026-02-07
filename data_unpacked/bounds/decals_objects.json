@@ -1,6 +1,6 @@
 [
   {
-    "name": "DCL_GEN_Blood_Splatter_ABC.dae",
+    "name": "DCL_GEN_Blood_Splatter_ABC",
     "relative_path": "Decals/Generic/DCL_GEN_Blood_Splatter_ABC/Resources/DCL_GEN_Blood_Splatter_ABC.dae",
     "size": [
       0.9873620271682739,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "DCL_GEN_BurnSpot_A.dae",
+    "name": "DCL_GEN_BurnSpot_A",
     "relative_path": "Decals/Generic/DCL_GEN_BurnSpot_ABC/Resources/DCL_GEN_BurnSpot_A.dae",
     "size": [
       2.0,
@@ -29,7 +29,7 @@
     "uuid": "0b08a0a6-a5f6-4897-9c17-ddca0d887f67"
   },
   {
-    "name": "DCL_GEN_FootPrints_Gnoll_A.dae",
+    "name": "DCL_GEN_FootPrints_Gnoll_A",
     "relative_path": "Decals/Generic/DCL_GEN_FootPrints_Gnoll_A/Resources/DCL_GEN_FootPrints_Gnoll_A.dae",
     "size": [
       11.0,
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "name": "DCL_GEN_Wall_Colored_B.dae",
+    "name": "DCL_GEN_Wall_Colored_B",
     "relative_path": "Decals/Generic/DCL_GEN_Wall_Colored_ABC/Resources/DCL_GEN_Wall_Colored_B.dae",
     "size": [
       1.9747240543365479,
@@ -58,7 +58,7 @@
     "uuid": "a70c28d8-2a3f-4df7-9ecd-908bbc4eebea"
   },
   {
-    "name": "DCL_GEN_Waypoint_A.dae",
+    "name": "DCL_GEN_Waypoint_A",
     "relative_path": "Decals/Generic/DCL_GEN_Waypoint_A/Resources/DCL_GEN_Waypoint_A.dae",
     "size": [
       2.3937920331954956,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "name": "DCL_ABS_Symbol_Absolute_Blood_C_A.dae",
+    "name": "DCL_ABS_Symbol_Absolute_Blood_C_A",
     "relative_path": "Decals/Absolute/DCL_ABS_Symbol_Absolute_Blood_ABC/Resources/DCL_ABS_Symbol_Absolute_Blood_C_A.dae",
     "size": [
       0.9412190020084381,
@@ -87,7 +87,7 @@
     "uuid": "54949abb-6fff-4abe-b245-3984646cc06d"
   },
   {
-    "name": "DCL_ABS_Symbol_Absolute_Blood_C_C.dae",
+    "name": "DCL_ABS_Symbol_Absolute_Blood_C_C",
     "relative_path": "Decals/Absolute/DCL_ABS_Symbol_Absolute_Blood_ABC/Resources/DCL_ABS_Symbol_Absolute_Blood_C_C.dae",
     "size": [
       0.6780340075492859,
@@ -101,7 +101,7 @@
     ]
   },
   {
-    "name": "DCL_GEN_Prayers_A.dae",
+    "name": "DCL_GEN_Prayers_A",
     "relative_path": "Decals/Generic/DCL_GEN_Prayers_ABC/Resources/DCL_GEN_Prayers_A.dae",
     "size": [
       3.368436098098755,

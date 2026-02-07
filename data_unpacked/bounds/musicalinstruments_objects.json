@@ -1,6 +1,6 @@
 [
   {
-    "name": "CINE_MUSIC_GEN_Guitar_Lute_B.dae",
+    "name": "CINE_MUSIC_GEN_Guitar_Lute_B",
     "relative_path": "MusicalInstruments/Resources/CINE_MUSIC_GEN_Guitar_Lute_B.dae",
     "size": [
       0.4288719892501831,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Drum_Small_B_REF.dae",
+    "name": "MUSIC_GEN_Drum_Small_B_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Drum_Small_B_REF.dae",
     "size": [
       0.294499009847641,
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Dulcimer_A_REF.dae",
+    "name": "MUSIC_GEN_Dulcimer_A_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Dulcimer_A_REF.dae",
     "size": [
       0.43705300241708755,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Flute_A_REF.dae",
+    "name": "MUSIC_GEN_Flute_A_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Flute_A_REF.dae",
     "size": [
       0.05520700104534626,
@@ -56,7 +56,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Guitar_Lute_A.dae",
+    "name": "MUSIC_GEN_Guitar_Lute_A",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A.dae",
     "size": [
       0.4027700126171112,
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Guitar_Lute_A_Broken.dae",
+    "name": "MUSIC_GEN_Guitar_Lute_A_Broken",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A_Broken.dae",
     "size": [
       0.39443300664424896,
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Guitar_Lute_A_REF.dae",
+    "name": "MUSIC_GEN_Guitar_Lute_A_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_A_REF.dae",
     "size": [
       0.40276999771595,
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Guitar_Lute_B_Broken.dae",
+    "name": "MUSIC_GEN_Guitar_Lute_B_Broken",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_B_Broken.dae",
     "size": [
       0.4806700050830841,
@@ -112,7 +112,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Guitar_Lute_B_REF.dae",
+    "name": "MUSIC_GEN_Guitar_Lute_B_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Guitar_Lute_B_REF.dae",
     "size": [
       0.4288719892501831,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Lyre_A_REF.dae",
+    "name": "MUSIC_GEN_Lyre_A_REF",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Lyre_A_REF.dae",
     "size": [
       0.3884129971265793,
@@ -140,7 +140,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Lyre_Spider_A.dae",
+    "name": "MUSIC_GEN_Lyre_Spider_A",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Lyre_Spider_A.dae",
     "size": [
       0.38975200057029724,
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Violin_A_Ref.dae",
+    "name": "MUSIC_GEN_Violin_A_Ref",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Violin_A_Ref.dae",
     "size": [
       0.21614200621843338,
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "name": "MUSIC_GEN_Violin_Bow_A_Ref.dae",
+    "name": "MUSIC_GEN_Violin_Bow_A_Ref",
     "relative_path": "MusicalInstruments/Resources/MUSIC_GEN_Violin_Bow_A_Ref.dae",
     "size": [
       0.11238499917089939,
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "name": "MUSIC_DLC_DD_Music_Lohse_Lute_A.dae",
+    "name": "MUSIC_DLC_DD_Music_Lohse_Lute_A",
     "relative_path": "MusicalInstruments/Resources/MUSIC_DLC_DD_Music_Lohse_Lute_A.dae",
     "size": [
       0.4288719892501831,

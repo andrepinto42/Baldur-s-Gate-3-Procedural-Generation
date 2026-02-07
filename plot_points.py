@@ -1,6 +1,8 @@
 
 from typing import Tuple
 import matplotlib.pyplot as plt
+import re
+import json
 
 def parse_vec3_xz(value: str) -> Tuple[float, float]:
     x, _, z = value.split()
@@ -29,15 +31,25 @@ def build_polylines(
 
     return polylines
 
-def draw_polylines(polylines: list[list[tuple[float, float]]]) -> None:
-    plt.figure(figsize=(6, 6))
+def build_polylines(data_polygons,data_polylines):
+    plot_elements(data_polylines)
+    
+    for polygon in data_polygons:
+        plot_elements(polygon)
 
-    for line in polylines:
-        xs = [p[0] for p in line]
-        ys = [p[1] for p in line]
+def plot_elements(polygon):
+    for lines in polygon:
+        xs = [p[0] for p in lines]
+        ys = [-p[1] for p in lines]
 
-        plt.plot(xs, ys, marker="o")
+        plt.plot(xs, ys, marker='o')
 
+
+def construct(data_polygons,data_polylines):
+    plt.figure(figsize=(10, 8))
+
+    build_polylines(data_polygons,data_polylines)
+    
     plt.axis("equal")
     plt.grid(True)
     plt.xlabel("X")

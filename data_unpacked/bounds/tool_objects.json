@@ -1,6 +1,6 @@
 [
   {
-    "name": "TOOL_GEN_Ladder_6H_B.dae",
+    "name": "TOOL_GEN_Ladder_6H_B",
     "relative_path": "Tool/TOOL_GEN_Ladder_ABC/Resources/TOOL_GEN_Ladder_6H_B.dae",
     "size": [
       1.3689600229263306,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Ladder_7_5H_B_Destruct.dae",
+    "name": "TOOL_GEN_Ladder_7_5H_B_Destruct",
     "relative_path": "Tool/TOOL_GEN_Ladder_ABC/Resources/TOOL_GEN_Ladder_7_5H_B_Destruct.dae",
     "size": [
       5.305996894836426,
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "name": "TOOL_GEN_Sign_Wall_A_Gold.dae",
+    "name": "TOOL_GEN_Sign_Wall_A_Gold",
     "relative_path": "Tool/TOOL_GEN_Sign_ABC/Resources/TOOL_GEN_Sign_Wall_A_Gold.dae",
     "size": [
       0.4704340100288391,
@@ -43,7 +43,7 @@
     "uuid": "0cbd644f-4b14-4e73-a692-328f82eb4087"
   },
   {
-    "name": "TOOL_GEN_Sign_Wall_A_Wood.dae",
+    "name": "TOOL_GEN_Sign_Wall_A_Wood",
     "relative_path": "Tool/TOOL_GEN_Sign_ABC/Resources/TOOL_GEN_Sign_Wall_A_Wood.dae",
     "size": [
       0.4704340100288391,
@@ -58,7 +58,7 @@
     "uuid": "d289389c-882d-4695-a8d5-dda2a1351711"
   },
   {
-    "name": "TOOL_Ladder_Rope_10n5H_A.dae",
+    "name": "TOOL_Ladder_Rope_10n5H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A.dae",
     "size": [
       1.5776050090789795,
@@ -73,7 +73,7 @@
     "uuid": "7fac2c2d-86a2-44d8-830d-331c19266f0c"
   },
   {
-    "name": "TOOL_Ladder_Rope_10n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_10n5H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A_Destruct.dae",
     "size": [
       1.7394850254058838,
@@ -88,7 +88,7 @@
     "uuid": "2b2286bf-927f-4159-a589-feb1b19dfb7d"
   },
   {
-    "name": "TOOL_Ladder_Rope_10n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_10n5H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_10n5H_A_Explode.dae",
     "size": [
       1.5776050090789795,
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_12H_A.dae",
+    "name": "TOOL_Ladder_Rope_12H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A.dae",
     "size": [
       1.5776320099830627,
@@ -117,7 +117,7 @@
     "uuid": "a8cf2166-9cb3-4265-983d-bf8b2cb29482"
   },
   {
-    "name": "TOOL_Ladder_Rope_12H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_12H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A_Destruct.dae",
     "size": [
       3.405910015106201,
@@ -132,7 +132,7 @@
     "uuid": "434d4bde-dd19-43c8-8edb-7fa08495e7d4"
   },
   {
-    "name": "TOOL_Ladder_Rope_12H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_12H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_12H_A_Explode.dae",
     "size": [
       1.5776320099830627,
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_3H_A.dae",
+    "name": "TOOL_Ladder_Rope_3H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A.dae",
     "size": [
       1.5116869807243347,
@@ -161,7 +161,7 @@
     "uuid": "c04c74fc-0718-4f81-9d27-b287c831ea4d"
   },
   {
-    "name": "TOOL_Ladder_Rope_3H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_3H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A_Destruct.dae",
     "size": [
       1.5229460000991821,
@@ -176,7 +176,7 @@
     "uuid": "ab385ca1-826b-400e-b636-56d57277c0ef"
   },
   {
-    "name": "TOOL_Ladder_Rope_3H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_3H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_3H_A_Explode.dae",
     "size": [
       1.5116869807243347,
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_4n5H_A.dae",
+    "name": "TOOL_Ladder_Rope_4n5H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A.dae",
     "size": [
       1.5253199934959412,
@@ -205,7 +205,7 @@
     "uuid": "e491f5de-f432-46c7-b3d5-7d1620300e43"
   },
   {
-    "name": "TOOL_Ladder_Rope_4n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_4n5H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A_Destruct.dae",
     "size": [
       2.1204599738121033,
@@ -220,7 +220,7 @@
     "uuid": "d0d310a3-9497-4577-9152-813326e5be28"
   },
   {
-    "name": "TOOL_Ladder_Rope_4n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_4n5H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_4n5H_A_Explode.dae",
     "size": [
       1.5253199934959412,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_6H_A.dae",
+    "name": "TOOL_Ladder_Rope_6H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A.dae",
     "size": [
       1.5285149812698364,
@@ -249,7 +249,7 @@
     "uuid": "f75c4c9b-2656-4bb8-933d-8c120912c765"
   },
   {
-    "name": "TOOL_Ladder_Rope_6H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_6H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A_Destruct.dae",
     "size": [
       1.5817720293998718,
@@ -264,7 +264,7 @@
     "uuid": "0c95c537-39cf-4ac0-9add-243e7170c729"
   },
   {
-    "name": "TOOL_Ladder_Rope_6H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_6H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_6H_A_Explode.dae",
     "size": [
       1.5285149812698364,
@@ -278,7 +278,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_7n5H_A.dae",
+    "name": "TOOL_Ladder_Rope_7n5H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A.dae",
     "size": [
       1.6244019865989685,
@@ -293,7 +293,7 @@
     "uuid": "af5e123b-6f8b-4b85-a952-e4de34f97b73"
   },
   {
-    "name": "TOOL_Ladder_Rope_7n5H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_7n5H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A_Destruct.dae",
     "size": [
       2.3090059757232666,
@@ -308,7 +308,7 @@
     "uuid": "5cb8d2a2-0c89-419c-92f9-42b0a100acef"
   },
   {
-    "name": "TOOL_Ladder_Rope_7n5H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_7n5H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_7n5H_A_Explode.dae",
     "size": [
       1.6244019865989685,
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "name": "TOOL_Ladder_Rope_9H_A.dae",
+    "name": "TOOL_Ladder_Rope_9H_A",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A.dae",
     "size": [
       1.6185960173606873,
@@ -337,7 +337,7 @@
     "uuid": "cbe097ab-ee9d-4042-bda5-87b69bdf4476"
   },
   {
-    "name": "TOOL_Ladder_Rope_9H_A_Destruct.dae",
+    "name": "TOOL_Ladder_Rope_9H_A_Destruct",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A_Destruct.dae",
     "size": [
       1.9365769624710083,
@@ -352,7 +352,7 @@
     "uuid": "cf2f2429-ac89-4972-9c41-0e7270a56699"
   },
   {
-    "name": "TOOL_Ladder_Rope_9H_A_Explode.dae",
+    "name": "TOOL_Ladder_Rope_9H_A_Explode",
     "relative_path": "Tool/TOOL_Ladder_Rope_ABC/Resources/TOOL_Ladder_Rope_9H_A_Explode.dae",
     "size": [
       1.6185960173606873,

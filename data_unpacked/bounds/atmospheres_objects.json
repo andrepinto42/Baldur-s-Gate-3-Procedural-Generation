@@ -1,6 +1,6 @@
 [
   {
-    "name": "ATM_Backdrop_A.dae",
+    "name": "ATM_Backdrop_A",
     "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_A.dae",
     "size": [
       8.515582084655762,
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "name": "ATM_Backdrop_City_Burning_Vista_A.dae",
+    "name": "ATM_Backdrop_City_Burning_Vista_A",
     "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_City_Burning_Vista_A.dae",
     "size": [
       8.515582084655762,
@@ -29,7 +29,7 @@
     "uuid": "30ad6147-96c5-4e86-9b3c-1576e12718ff"
   },
   {
-    "name": "ATM_Backdrop_Mountains_B_Cut_A.dae",
+    "name": "ATM_Backdrop_Mountains_B_Cut_A",
     "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_Mountains_B_Cut_A.dae",
     "size": [
       5.511123061180115,
@@ -44,7 +44,7 @@
     "uuid": "e89e5d16-1e4b-4f61-ae91-929b474ded77"
   },
   {
-    "name": "ATM_GodRay_25m_A.dae",
+    "name": "ATM_GodRay_25m_A",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_A.dae",
     "size": [
       4.7471418380737305,
@@ -59,7 +59,7 @@
     "uuid": "f7ca4df5-ecad-4ae1-a273-0427320b75bb"
   },
   {
-    "name": "ATM_GodRay_25m_Cluster_A.dae",
+    "name": "ATM_GodRay_25m_Cluster_A",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Cluster_A.dae",
     "size": [
       13.20951223373413,
@@ -74,7 +74,7 @@
     "uuid": "dec291d8-e687-4bbe-a455-c16c8cabf881"
   },
   {
-    "name": "ATM_GodRay_25m_Cluster_B.dae",
+    "name": "ATM_GodRay_25m_Cluster_B",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Cluster_B.dae",
     "size": [
       17.81350612640381,
@@ -89,7 +89,7 @@
     "uuid": "016ae6c3-d190-446b-9ebb-3daefd07acf2"
   },
   {
-    "name": "ATM_GodRay_25m_Thin_A.dae",
+    "name": "ATM_GodRay_25m_Thin_A",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_Thin_A.dae",
     "size": [
       1.8259459733963013,
@@ -104,7 +104,7 @@
     "uuid": "eb3bac9d-db0b-47ae-a0e2-e020285716d0"
   },
   {
-    "name": "ATM_GodRay_50m_A.dae",
+    "name": "ATM_GodRay_50m_A",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_A.dae",
     "size": [
       5.382564067840576,
@@ -119,7 +119,7 @@
     "uuid": "3ff0fb09-de64-439c-936a-994a90511139"
   },
   {
-    "name": "ATM_GodRay_50m_Cluster_A.dae",
+    "name": "ATM_GodRay_50m_Cluster_A",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_Cluster_A.dae",
     "size": [
       13.20951223373413,
@@ -134,7 +134,7 @@
     "uuid": "14b39ee0-3b60-4cfa-9194-7ca928cfacc5"
   },
   {
-    "name": "ATM_GodRay_50m_Cluster_B.dae",
+    "name": "ATM_GodRay_50m_Cluster_B",
     "relative_path": "Atmospheres/Resources/ATM_GodRay_50m_Cluster_B.dae",
     "size": [
       17.813507080078125,
@@ -149,7 +149,7 @@
     "uuid": "83b18ee6-2471-4bc5-9b59-292d6c43baa7"
   },
   {
-    "name": "ATM_Skydome_A.dae",
+    "name": "ATM_Skydome_A",
     "relative_path": "Atmospheres/Resources/ATM_Skydome_A.dae",
     "size": [
       20.000003814697266,
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "name": "ATM_Backdrop_Astral_Plane_A.dae",
+    "name": "ATM_Backdrop_Astral_Plane_A",
     "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_Astral_Plane_A.dae",
     "size": [
       44.7877836227417,
@@ -178,7 +178,7 @@
     "uuid": "a011bf9b-e71d-4d31-be1f-262798186755"
   },
   {
-    "name": "ATM_Backdrop_Astral_Plane_B.dae",
+    "name": "ATM_Backdrop_Astral_Plane_B",
     "relative_path": "Atmospheres/ATM_Backdrops_ABC/Resources/ATM_Backdrop_Astral_Plane_B.dae",
     "size": [
       59.31672286987305,
