@@ -14,7 +14,7 @@ IDENTITY_ROTATION = Quaternion()  # defaults to (1,0,0,0) = w,x,y,z
 CORRIDOR_LENGTH = 50
 
 def quat_y(deg: float) -> Quaternion:
-    return Quaternion.from_y_rotation(math.radians(deg))
+    return Quaternion.from_y_rotation(-math.radians(deg))
 
 def generate_corridor(uuid,position, offset_x, offset_z,angle_deg,length):
     
@@ -60,23 +60,37 @@ def generate_corridor(uuid,position, offset_x, offset_z,angle_deg,length):
         position += forward
 
 def generate_line(uuid, position, step, angle_deg, length):
-    rad = math.radians(angle_deg)
+    y_jitter=0.1
+    rot_jitter=3.0
+    base_rad = math.radians(angle_deg)
 
-    # Direction vector
+    # Base forward direction (never randomized)
     forward = Vector3([
-        math.cos(rad) * step,
+        math.cos(base_rad) * step,
         0,
-        math.sin(rad) * step
+        math.sin(base_rad) * step
     ])
 
-    rotation = quat_y(angle_deg)
-
     for _ in range(length):
+        # Random offsets
+        y_offset = random.gauss(-y_jitter, y_jitter)
+        rot_offset = random.uniform(-rot_jitter, rot_jitter)
+
+        # Final position (Y only)
+        pos = Vector3([
+            position.x,
+            position.y + y_offset,
+            position.z
+        ])
+
+        # Final rotation
+        rotation = quat_y(angle_deg + rot_offset)
+
         create_lsx.create_xml(
             OUTPUT_FOLDER_LSF,
-            name=f"SEGMENT",
+            name="SEGMENT",
             uuid=uuid,
-            position=position,
+            position=pos,
             rotation=rotation,
             scale=1.0,
         )

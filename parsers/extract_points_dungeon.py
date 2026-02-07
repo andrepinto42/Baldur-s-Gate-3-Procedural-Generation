@@ -7,7 +7,7 @@ import math
 # Using this website to generate the dungeon
 ##############################################
 dict_ids = {}
-SCALE = 26.5 / 953.98  # ≈ 0.02778
+SCALE = (26.5 / 953.98) * 2# ≈ 0.02778
 
 def force_better_scale(polygons):
     scaled_polygons = []

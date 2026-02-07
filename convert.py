@@ -57,17 +57,20 @@ def print_result(result: subprocess.CompletedProcess[str]) -> None:
         print(result.stderr)
 
 def main() -> None:
+    DECREASE_SPACING_OBJECTS = 0.8
+    NAME_OBJECT_WALL = "NAT_Cliff_Granite_D"
+    NAME_FILE_INPUT = r"C:\Users\andre\Downloads\dungeon_complex.ds"
+    
     create_lsx.clear_auto_xml(OUTPUT_FOLDER_LSF)
     create_lsx.clear_auto_xml(MAP_SCENERY_FOLDER)
-    data_found = name_to_uuid.find_data("DEC_City_Castlewall_Stone_D")
+    data_found = name_to_uuid.find_data(NAME_OBJECT_WALL)
     if data_found is None:
         return
     
     uuid = data_found.uuid
-    offset_x = data_found.offset_x
+    offset_x = data_found.offset_x * DECREASE_SPACING_OBJECTS
 
-    data_walls,data_inner_walls = extract_points_dungeon.get_points_dungeon(r"C:\Users\andre\Downloads\dungeon_angled.ds")
-    print()
+    data_walls,data_inner_walls = extract_points_dungeon.get_points_dungeon(NAME_FILE_INPUT)
     for a in extract_points_dungeon.dict_ids.values():
         corridor_generator.generate_point_helper(a[1])
     
@@ -91,13 +94,13 @@ def build_walls(uuid, offset_x, data_walls):
                 dz = z1 - z0
 
                 length = math.hypot(dx, dz)
-                angle_deg = math.degrees(math.atan2(dx, dz))
+                angle_deg = math.degrees(math.atan2(dz, dx))
                 
                 position_iterator = Vector3([x0, 0, z0])
                  
                 steps = int(length / offset_x) + 1
                 
-                
+                corridor_generator.generate_point_helper(position_iterator + Vector3([0,1,0]))
                 corridor_generator.generate_line(
                     uuid=uuid,
                     position=position_iterator,
