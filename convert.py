@@ -91,7 +91,7 @@ def build_walls(uuid, offset_x, data_walls):
                 dz = z1 - z0
 
                 length = math.hypot(dx, dz)
-                angle_deg = math.degrees(math.atan2(dz, dx))
+                angle_deg = math.degrees(math.atan2(dx, dz))
                 
                 position_iterator = Vector3([x0, 0, z0])
                  
