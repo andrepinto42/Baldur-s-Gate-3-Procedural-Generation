@@ -57,8 +57,8 @@ def print_result(result: subprocess.CompletedProcess[str]) -> None:
         print(result.stderr)
 
 def main() -> None:
-    DECREASE_SPACING_OBJECTS = 0.8
-    NAME_OBJECT_WALL = "NAT_Cliff_Granite_D"
+    DECREASE_SPACING_OBJECTS = 1
+    NAME_OBJECT_WALL = "BLD_Village_Wall_Support_B"
     NAME_FILE_INPUT = r"C:\Users\andre\Downloads\dungeon_complex.ds"
     
     create_lsx.clear_auto_xml(OUTPUT_FOLDER_LSF)

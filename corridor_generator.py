@@ -74,7 +74,8 @@ def generate_line(uuid, position, step, angle_deg, length):
     for _ in range(length):
         # Random offsets
         y_offset = random.gauss(-y_jitter, y_jitter)
-        rot_offset = random.uniform(-rot_jitter, rot_jitter)
+        rot_offset_x = math.radians(random.gauss(0,rot_jitter/3.0))
+        rot_offset_z = math.radians(random.gauss(0,rot_jitter/3.0))
 
         # Final position (Y only)
         pos = Vector3([
@@ -84,7 +85,8 @@ def generate_line(uuid, position, step, angle_deg, length):
         ])
 
         # Final rotation
-        rotation = quat_y(angle_deg + rot_offset)
+        
+        rotation = Quaternion.from_eulers([rot_offset_x, -math.radians(angle_deg), rot_offset_z])
 
         create_lsx.create_xml(
             OUTPUT_FOLDER_LSF,
