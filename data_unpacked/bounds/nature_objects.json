@@ -22707,5 +22707,5861 @@
       42.30401611328125,
       214.75272369384766
     ]
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_B_Grey_Dynamic",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_B.dae",
+    "size": [
+      8.537936210632324,
+      4.847729802131653,
+      8.515429019927979
+    ],
+    "center_offset": [
+      0.04799509048461914,
+      2.25991290807724,
+      0.0050237178802490234
+    ],
+    "uuid": "0b6de921-7f82-444c-8d35-e7d9380b48b5",
+    "parent": "NAT_Rock_Boulder_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_A_Grey_Dynamic",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_A.dae",
+    "size": [
+      9.080631256103516,
+      4.12903505563736,
+      8.546250820159912
+    ],
+    "center_offset": [
+      0.0008335113525390625,
+      1.7881145179271698,
+      0.0008265972137451172
+    ],
+    "uuid": "51970238-5e29-48a1-8574-352777402946",
+    "parent": "NAT_Rock_Boulder_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_A_Corner_E_Moss_Dynamic",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/NAT_Cliff_Granite_Jagged_A_Corner_E.dae",
+    "size": [
+      7.291966915130615,
+      9.83470869064331,
+      6.486185073852539
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      -0.002722501754760742,
+      -4.76837158203125e-07
+    ],
+    "uuid": "8227a50f-1e2b-416c-b3be-9bd71404ebfc",
+    "parent": "NAT_Cliff_Granite_Jagged_A_Corner_E"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_G_Moss_Dynamic",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_G.dae",
+    "size": [
+      4.946094989776611,
+      2.268193006515503,
+      11.688215732574463
+    ],
+    "center_offset": [
+      0.07529449462890625,
+      -0.08607447147369385,
+      -0.09814906120300293
+    ],
+    "uuid": "f3d8beaf-8885-4b0e-aa9c-0e1fd72ac29d",
+    "parent": "NAT_Rock_Granite_Platform_G"
+  },
+  {
+    "name": "NAT_Rock_Granite_Boulder_Big_H_Crystal_Destruct",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Boulder_Big_ABC/Resources/NAT_Rock_Granite_Boulder_Big_H.dae",
+    "size": [
+      6.3801589012146,
+      4.039279937744141,
+      2.9541879892349243
+    ],
+    "center_offset": [
+      -0.27265048027038574,
+      0.36893200874328613,
+      0.013534009456634521
+    ],
+    "uuid": "f7d2b1a8-2e53-49dc-ace6-c38c6f7a8f74",
+    "parent": "NAT_Rock_Granite_Boulder_Big_H"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Seastack_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "47a07493-3d2f-465d-b2e8-6cf0364198c0",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Seastack_B",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "951919c0-e882-4cda-b0ad-2cd2b7bb0a7c",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Mud_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "00ce0b31-d2cc-45ed-9855-ae6f2d9a427f",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A.dae",
+    "size": [
+      17.095380783081055,
+      27.772869117558002,
+      19.633047103881836
+    ],
+    "center_offset": [
+      -0.8927621841430664,
+      13.776853557676077,
+      0.211212158203125
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Cliff_Limestone_Layered_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_C_Cursed_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_C.dae",
+    "size": [
+      8.482859134674072,
+      11.492111041210592,
+      14.26577615737915
+    ],
+    "center_offset": [
+      0.28090357780456543,
+      5.744494520593435,
+      -3.957029104232788
+    ],
+    "uuid": "0138e06e-f626-4310-90a0-2f5e318a24fa",
+    "parent": "NAT_Tree_Gnarly_C"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Sandstone_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "013ab097-a7c2-4ceb-8dd9-c82ad56d1d14",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Grass_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "0170324e-e564-488b-ba08-78e407590f05",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_J_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_J.dae",
+    "size": [
+      6.727704048156738,
+      4.137799881398678,
+      3.460434913635254
+    ],
+    "center_offset": [
+      -0.009994029998779297,
+      2.0098759420216084,
+      0.12199950218200684
+    ],
+    "uuid": "01cf90af-6686-429f-9bcf-e28130fc1037",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_J"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_B_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_B.dae",
+    "size": [
+      8.168680667877197,
+      6.823012098670006,
+      3.077319025993347
+    ],
+    "center_offset": [
+      -0.06809449195861816,
+      3.171856053173542,
+      -0.022215545177459717
+    ],
+    "uuid": "02a218d1-b905-4ffc-84f4-ddd3181b9bfc",
+    "parent": "NAT_Coastal_Cliff_Sandstone_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_D_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_D.dae",
+    "size": [
+      1.086031973361969,
+      1.5731619596481323,
+      2.532359004020691
+    ],
+    "center_offset": [
+      0.001994997262954712,
+      0.0,
+      -4.750490188598633e-05
+    ],
+    "uuid": "0470389f-1f78-400b-a2bf-4e69ffa92dde",
+    "parent": "NAT_Rock_Boulder_D"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Mid_A_Light_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Mid_A.dae",
+    "size": [
+      15.08446216583252,
+      2.399911046028137,
+      5.349700927734375
+    ],
+    "center_offset": [
+      0.0,
+      0.18108052015304565,
+      0.2845585346221924
+    ],
+    "uuid": "050a4dc0-fd27-4154-96e4-13af17a7bb78",
+    "parent": "NAT_Cliff_Sand_Ridge_Mid_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Single_D_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Single_D.dae",
+    "size": [
+      0.9068260192871094,
+      2.346803115680814,
+      0.8668079972267151
+    ],
+    "center_offset": [
+      0.0,
+      1.1656935578212142,
+      0.0
+    ],
+    "uuid": "0633f052-272e-49fd-8059-fd49ebc0a2f8",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Single_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_B_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_B.dae",
+    "size": [
+      8.537936210632324,
+      4.847729802131653,
+      8.515429019927979
+    ],
+    "center_offset": [
+      0.04799509048461914,
+      2.25991290807724,
+      0.0050237178802490234
+    ],
+    "uuid": "067ea63f-36ac-466d-bcb2-fe7abca5187b",
+    "parent": "NAT_Rock_Boulder_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Brown_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "09d8f9e5-79e4-4a20-a459-5f78a4e72933",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Grey_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "0b6b9dea-550a-4a94-8890-e7d7d36536a3",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Dirt_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "0dfecdb0-bbf5-449e-a419-808a0b0ade18",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Tree_Sweet_Chestnut_Big_A_Dead_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Sweet_Chestnut_ABC/Resources/NAT_Tree_Sweet_Chestnut_Big_A.dae",
+    "size": [
+      26.45471477508545,
+      22.38950876891613,
+      23.70631217956543
+    ],
+    "center_offset": [
+      0.41373205184936523,
+      11.012101389467716,
+      -0.22362232208251953
+    ],
+    "uuid": "0e1bcae8-7aec-4f93-b1bc-fd7c2bd828cb",
+    "parent": "NAT_Tree_Sweet_Chestnut_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Sand_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "0e69f592-1885-4ecb-b599-a5b38a3bb7af",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_B_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_B.dae",
+    "size": [
+      11.082208156585693,
+      7.883025041566725,
+      7.174870014190674
+    ],
+    "center_offset": [
+      0.05318188667297363,
+      3.941453520781579,
+      -0.4843270778656006
+    ],
+    "uuid": "0ea8b47e-8f80-419a-b47c-8e70c024d4e0",
+    "parent": "NAT_Cliff_Boulder_B"
+  },
+  {
+    "name": "NAT_Tree_Long_Pine_Broken_B_Burnt_Static",
+    "relative_path": "Nature/Trees/NAT_Tree_Long_Pine_ABC/Resources/NAT_Tree_Long_Pine_Broken_B.dae",
+    "size": [
+      2.4334609508514404,
+      7.37908399105072,
+      1.9725819826126099
+    ],
+    "center_offset": [
+      -0.13248050212860107,
+      2.405113995075226,
+      0.07620400190353394
+    ],
+    "uuid": "0eba05ec-bc44-4ead-9ca4-188a94016f1e",
+    "parent": "NAT_Tree_Long_Pine_Broken_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Brown_Needles",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "0f28af56-8318-487d-b7cb-f80a6dba2652",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Crystal_Shard_Broken_Big_A_White_B",
+    "relative_path": "Nature/Crystal/NAT_Crystal_Shard_Big_ABC/Resources/NAT_Crystal_Shard_Broken_Big_A.dae",
+    "size": [
+      0.9518459737300873,
+      7.313883900642395,
+      1.0246450006961823
+    ],
+    "center_offset": [
+      0.027396991848945618,
+      2.864531934261322,
+      0.019879505038261414
+    ],
+    "uuid": "0f38ae2a-81e6-4a2b-8d33-6615b65cf885",
+    "parent": "NAT_Crystal_Shard_Broken_Big_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_A_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_A.dae",
+    "size": [
+      9.080631256103516,
+      4.12903505563736,
+      8.546250820159912
+    ],
+    "center_offset": [
+      0.0008335113525390625,
+      1.7881145179271698,
+      0.0008265972137451172
+    ],
+    "uuid": "0fed3371-0201-4fa0-a459-deeded246eba",
+    "parent": "NAT_Rock_Boulder_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_C_Pillar_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_C_Pillar_A.dae",
+    "size": [
+      1.472277045249939,
+      5.925900936126709,
+      1.5056179761886597
+    ],
+    "center_offset": [
+      -0.06141549348831177,
+      2.9629504680633545,
+      0.0680379867553711
+    ],
+    "uuid": "104d49c8-8b14-454f-bc81-2e6f45dd09a4",
+    "parent": "NAT_Cave_Speleothem_Column_C_Pillar_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Grass_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "126e6fd4-37ae-4304-b623-8f5b2a0e1d21",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Brown_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "12e3a66a-7365-47c3-a3c7-d642834fcbf1",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Sand_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "12f449a5-9694-40bc-a5ec-8ee3a9551e31",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Dirt_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "1302220c-4921-443d-9a1c-a79c969ae420",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_D_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_D.dae",
+    "size": [
+      3.6277170181274414,
+      3.7491139471530914,
+      3.4170610904693604
+    ],
+    "center_offset": [
+      0.0029665231704711914,
+      1.5319049805402756,
+      0.003983497619628906
+    ],
+    "uuid": "132f2fa3-ed68-4186-ae3d-1f548ec8fb76",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_D"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_I_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_I.dae",
+    "size": [
+      3.8658220767974854,
+      6.701393134891987,
+      4.348750829696655
+    ],
+    "center_offset": [
+      -0.13450801372528076,
+      3.2845525704324245,
+      0.06201350688934326
+    ],
+    "uuid": "137b8e43-0279-4768-b2fa-7f1c7bf43130",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_I"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "14420e96-be01-496f-ac85-05ef459b7866",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_D_Wet_Grass",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_D.dae",
+    "size": [
+      3.7503799200057983,
+      2.6695161163806915,
+      3.2312930822372437
+    ],
+    "center_offset": [
+      -0.024709999561309814,
+      1.1404640525579453,
+      -0.15561050176620483
+    ],
+    "uuid": "15266518-79b0-40dc-b6ce-ccaa942d6309",
+    "parent": "NAT_Rock_Smooth_360_D"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "163e1a82-dbf0-49ce-b016-0435a8137be1",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Lava_Fall_A_Top_B",
+    "relative_path": "Nature/Lava/NAT_Lava_Fall_ABC/Resources/NAT_Lava_Fall_A.dae",
+    "size": [
+      3.220563054084778,
+      17.18390452861786,
+      3.092105984687805
+    ],
+    "center_offset": [
+      0.020234525203704834,
+      -6.787648260593414,
+      0.029825031757354736
+    ],
+    "uuid": "16f4b11c-441b-4975-a125-dff44ba6d9e0",
+    "parent": "NAT_Lava_Fall_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Wet_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "175d34a9-1781-4a78-87ed-d26a80f1feee",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_C_Autumn_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_C.dae",
+    "size": [
+      6.07073187828064,
+      7.528538104146719,
+      5.978669881820679
+    ],
+    "center_offset": [
+      0.27375495433807373,
+      3.7327540535479784,
+      -0.057983994483947754
+    ],
+    "uuid": "18083786-c638-44d0-ace4-844e15583d3e",
+    "parent": "NAT_Plant_Bush_Hazelnut_C"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Grass_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "183e4b94-7189-4445-8d7c-f80e5a87561b",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_A_Autumn_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_A.dae",
+    "size": [
+      7.38737678527832,
+      8.463471656665206,
+      6.553614139556885
+    ],
+    "center_offset": [
+      0.5686244964599609,
+      4.204000827856362,
+      -0.4640820026397705
+    ],
+    "uuid": "18e2dea8-4b39-48f3-98cd-d29896a5bc0a",
+    "parent": "NAT_Plant_Bush_Hazelnut_A"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_A_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_A.dae",
+    "size": [
+      12.866321086883545,
+      8.313365958514623,
+      8.48640489578247
+    ],
+    "center_offset": [
+      0.17375636100769043,
+      4.155961979238782,
+      0.6972525119781494
+    ],
+    "uuid": "192af4f3-17dd-445c-8319-def875ad9a9b",
+    "parent": "NAT_Cliff_Boulder_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Sandstone_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "194e8893-b54f-465b-9e31-27bc6dca0bd4",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_B_Moss_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_B.dae",
+    "size": [
+      8.168680667877197,
+      6.823012098670006,
+      3.077319025993347
+    ],
+    "center_offset": [
+      -0.06809449195861816,
+      3.171856053173542,
+      -0.022215545177459717
+    ],
+    "uuid": "1b3f6bae-77df-4726-b952-f53e67a5be19",
+    "parent": "NAT_Coastal_Cliff_Sandstone_B"
+  },
+  {
+    "name": "NAT_Plant_Vine_Ivy_Big_A_Corner_Red",
+    "relative_path": "Nature/Plants/NAT_Plant_Vine_Ivy_ABC/Resources/NAT_Plant_Vine_Ivy_Big_A.dae",
+    "size": [
+      5.692239999771118,
+      8.463480859994888,
+      1.8666739836335182
+    ],
+    "center_offset": [
+      -0.37335407733917236,
+      3.904605433344841,
+      -0.8267479948699474
+    ],
+    "uuid": "1b729e45-c532-4b21-856b-936bbb2bf719",
+    "parent": "NAT_Plant_Vine_Ivy_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "1cae35a2-9789-4790-ae70-51a26f2d7ac7",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_B_Top_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_B.dae",
+    "size": [
+      5.185253858566284,
+      7.878403156995773,
+      8.84477710723877
+    ],
+    "center_offset": [
+      -0.12161004543304443,
+      3.7928335815668106,
+      0.10953044891357422
+    ],
+    "uuid": "1d904776-6cdd-49bb-a391-f39f4bf1df05",
+    "parent": "NAT_Roots_Platform_Big_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "1f085dc0-ea5d-4654-97ad-f90d4b44c5bd",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_A_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_A.dae",
+    "size": [
+      4.449736833572388,
+      7.506636142730713,
+      6.342322826385498
+    ],
+    "center_offset": [
+      -0.0832434892654419,
+      -2.921971082687378,
+      -0.2567734718322754
+    ],
+    "uuid": "1fc0cc31-0e31-4ff6-9287-479ceb4046ed",
+    "parent": "NAT_Rock_Granite_Platform_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "233827b0-1f7f-4486-9808-f96a0a67cd9d",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_A_Cursed_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_A.dae",
+    "size": [
+      5.435334920883179,
+      10.12042632419616,
+      9.59950590133667
+    ],
+    "center_offset": [
+      -0.6578184366226196,
+      5.05666916212067,
+      0.241102933883667
+    ],
+    "uuid": "2396ed20-7d30-4006-ad46-9bf952cea7de",
+    "parent": "NAT_Tree_Gnarly_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "23bc6b20-206b-42d6-8099-ced1d0849f39",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_B_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_B.dae",
+    "size": [
+      11.082208156585693,
+      7.883025041566725,
+      7.174870014190674
+    ],
+    "center_offset": [
+      0.05318188667297363,
+      3.941453520781579,
+      -0.4843270778656006
+    ],
+    "uuid": "23e7bad7-94f5-40df-a1ea-8584b31aca87",
+    "parent": "NAT_Cliff_Boulder_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "273af1ed-c05c-4bfc-bad0-caf3f18a282e",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_A_Height_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_A.dae",
+    "size": [
+      49.98779487609863,
+      10.11128044128418,
+      49.98779487609863
+    ],
+    "center_offset": [
+      0.006102561950683594,
+      7.0986433029174805,
+      0.006102561950683594
+    ],
+    "uuid": "279d597b-b09b-4c6c-a370-b8fcba917245",
+    "parent": "NAT_Mountain_Granite_Vista_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Grass_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "284dc122-4eb4-400e-94dd-66173a9f3fba",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Grey_Wet_Walkable_A",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "2956bc86-00a3-4e35-9fd4-035f92f92893",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Convex_Mud",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "29b9a90c-815a-44de-8b9d-7f5f7d611411",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_B_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_B.dae",
+    "size": [
+      2.9408669471740723,
+      2.652454972267151,
+      2.763917922973633
+    ],
+    "center_offset": [
+      0.0011534690856933594,
+      -0.00015348196029663086,
+      0.0
+    ],
+    "uuid": "2a42f82d-2f63-4ffd-b7a7-cd31b31abb40",
+    "parent": "NAT_Rock_Boulder_B"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_F_Top_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_F.dae",
+    "size": [
+      4.4222651720047,
+      15.746052265167236,
+      4.909662961959839
+    ],
+    "center_offset": [
+      0.2998735308647156,
+      5.525374174118042,
+      -0.2698744535446167
+    ],
+    "uuid": "2b9a6420-523c-453d-a569-317d31722e51",
+    "parent": "NAT_Roots_Platform_Big_F"
+  },
+  {
+    "name": "NAT_Coastal_Plant_Bush_Pine_Small_A_ColorVar_B",
+    "relative_path": "Nature/Plants/NAT_Coastal_Plant_Bush_Pine_ABC/Resources/NAT_Coastal_Plant_Bush_Pine_Small_A.dae",
+    "size": [
+      3.411221981048584,
+      1.7259780019521713,
+      3.0905020236968994
+    ],
+    "center_offset": [
+      -0.09705495834350586,
+      0.7983560040593147,
+      -0.06028604507446289
+    ],
+    "uuid": "2bd64853-2bf2-437d-9a35-5090f78d4551",
+    "parent": "NAT_Coastal_Plant_Bush_Pine_Small_A"
+  },
+  {
+    "name": "NAT_Coastal_Plant_Bush_Pine_Small_A_ColorVar_D",
+    "relative_path": "Nature/Plants/NAT_Coastal_Plant_Bush_Pine_ABC/Resources/NAT_Coastal_Plant_Bush_Pine_Small_A.dae",
+    "size": [
+      3.411221981048584,
+      1.7259780019521713,
+      3.0905020236968994
+    ],
+    "center_offset": [
+      -0.09705495834350586,
+      0.7983560040593147,
+      -0.06028604507446289
+    ],
+    "uuid": "2ca73460-2f36-475e-b6d2-55aa3913a3ef",
+    "parent": "NAT_Coastal_Plant_Bush_Pine_Small_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_F_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_F.dae",
+    "size": [
+      4.091200113296509,
+      3.303310990333557,
+      6.124114990234375
+    ],
+    "center_offset": [
+      -0.0011459589004516602,
+      -0.001033484935760498,
+      -0.002164602279663086
+    ],
+    "uuid": "2ce8f189-b36c-4aaa-be41-2caa6f70074e",
+    "parent": "NAT_Rock_Boulder_F"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Height_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "af32bbed-eb13-49e2-8901-7e8b73cba310",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Rock_Ground_Stones_A_Dark_LightSand",
+    "relative_path": "Nature/Rocks/NAT_Rock_Ground_Stones_ABC/Resources/NAT_Rock_Ground_Stones_A.dae",
+    "size": [
+      5.534902095794678,
+      0.787159017752856,
+      7.803110122680664
+    ],
+    "center_offset": [
+      0.0,
+      0.3959175089839846,
+      0.0
+    ],
+    "uuid": "2d19e6db-efbf-47fe-ba1f-01941302d16e",
+    "parent": "NAT_Rock_Ground_Stones_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_E_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_E.dae",
+    "size": [
+      5.288757801055908,
+      6.240612030029297,
+      3.1934120655059814
+    ],
+    "center_offset": [
+      0.0,
+      -0.000762939453125,
+      0.0
+    ],
+    "uuid": "2e1bdd7e-140d-433b-9498-5a14774733e7",
+    "parent": "NAT_Rock_Boulder_E"
+  },
+  {
+    "name": "NAT_Crystal_Shard_Big_A_White_B",
+    "relative_path": "Nature/Crystal/NAT_Crystal_Shard_Big_ABC/Resources/NAT_Crystal_Shard_Big_A.dae",
+    "size": [
+      1.2314159870147705,
+      14.692861557006836,
+      1.3313539624214172
+    ],
+    "center_offset": [
+      -0.02806299924850464,
+      3.523923873901367,
+      -0.03953400254249573
+    ],
+    "uuid": "2fc03bdd-40ae-4205-a093-ad9d6647a5d9",
+    "parent": "NAT_Crystal_Shard_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Ash_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "2fd8f9b8-0870-4660-812f-14e2fe73dae8",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_G_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_G.dae",
+    "size": [
+      3.545274019241333,
+      6.940711125731468,
+      4.40851902961731
+    ],
+    "center_offset": [
+      -0.012552022933959961,
+      3.333104558289051,
+      -0.061243414878845215
+    ],
+    "uuid": "32d316ba-a8d4-4705-9a9d-1efbcb08d542",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_G"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_D_Corner_Height",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_D.dae",
+    "size": [
+      13.865679264068604,
+      6.313932822929928,
+      14.141200065612793
+    ],
+    "center_offset": [
+      0.0021355152130126953,
+      3.1567724114720477,
+      0.4788498878479004
+    ],
+    "uuid": "3414278f-f548-4dd0-9c2d-a77b58d8a603",
+    "parent": "NAT_Coastal_Cliff_Sandstone_D"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Sandstone_Height_Vista_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "3464385f-4110-40c2-b783-7cfbd75df0ce",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Slab_Spots",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.66936492919922,
+      28.042785674333572,
+      28.45486831665039
+    ],
+    "center_offset": [
+      1.166250228881836,
+      13.720090851187706,
+      -0.48241138458251953
+    ],
+    "uuid": "34a4d775-f87b-48b9-ad1e-f50447753bbc",
+    "parent": "NAT_Cliff_Limestone_Layered_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Sandstone_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "39ad9124-c9d8-4bba-a281-02714cf62007",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "3b1ed83c-2ada-4f91-9c1e-8c107e9c6a3a",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Dirt_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "3bc6f46c-023d-4781-a252-ead446227cca",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_C_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_C.dae",
+    "size": [
+      18.66337776184082,
+      7.840868930332363,
+      15.354223728179932
+    ],
+    "center_offset": [
+      -0.8074827194213867,
+      3.9342894651927054,
+      -0.22222304344177246
+    ],
+    "uuid": "3cabf685-3101-42c5-9b13-ea4716d41002",
+    "parent": "NAT_Cliff_Limestone_Layered_A_Slab_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Moss_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "3cac8dea-0bcd-4b12-904e-874b8cae26a3",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Large_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Large_Base_A.dae",
+    "size": [
+      4.423320055007935,
+      3.6113320887088776,
+      4.144305109977722
+    ],
+    "center_offset": [
+      0.06371891498565674,
+      1.6583010405302048,
+      -0.23568850755691528
+    ],
+    "uuid": "3d728edd-9c05-459e-b1a7-7117f8206184",
+    "parent": "NAT_Cave_Speleothem_Column_A_Large_Base_A"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_B_Grey_Wet",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_B.dae",
+    "size": [
+      11.082208156585693,
+      7.883025041566725,
+      7.174870014190674
+    ],
+    "center_offset": [
+      0.05318188667297363,
+      3.941453520781579,
+      -0.4843270778656006
+    ],
+    "uuid": "3e1c7ffc-7e4d-40fd-80d1-67a0de05584b",
+    "parent": "NAT_Cliff_Boulder_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Grass_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "3e50e3bc-2bc0-4e36-a8b8-fd378becfc1f",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_B_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_B.dae",
+    "size": [
+      17.3184494972229,
+      9.414203733205795,
+      13.733033180236816
+    ],
+    "center_offset": [
+      -0.8396546840667725,
+      4.556881859898567,
+      -0.6133794784545898
+    ],
+    "uuid": "3ec10acc-476d-4a7c-a337-bca08e18583b",
+    "parent": "NAT_Cliff_Limestone_Layered_A_Slab_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Slab_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Slab.dae",
+    "size": [
+      14.873508930206299,
+      2.8104129135608673,
+      15.867487907409668
+    ],
+    "center_offset": [
+      0.26697468757629395,
+      1.0391914695501328,
+      -0.03887605667114258
+    ],
+    "uuid": "3ef3e622-9805-4e10-8adc-67802d414840",
+    "parent": "NAT_Cliff_Limestone_Layered_B_Slab"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Thin_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Thin_A.dae",
+    "size": [
+      1.3037450015544891,
+      9.087216168642044,
+      1.2829129993915558
+    ],
+    "center_offset": [
+      0.1759824901819229,
+      4.427094087004662,
+      -0.33193449676036835
+    ],
+    "uuid": "40c86587-a461-4855-bd1f-147b2f9df386",
+    "parent": "NAT_Cave_Speleothem_Column_A_Thin_A"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_A_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_A.dae",
+    "size": [
+      3.5009349584579468,
+      2.1298259496688843,
+      3.4081350564956665
+    ],
+    "center_offset": [
+      -0.05129450559616089,
+      0.9368379712104797,
+      0.07834547758102417
+    ],
+    "uuid": "4204f031-f5f5-493b-928f-16bdfeafbba9",
+    "parent": "NAT_Rock_Smooth_360_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Top_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Top.dae",
+    "size": [
+      15.963643074035645,
+      12.25605072826147,
+      19.06003475189209
+    ],
+    "center_offset": [
+      0.12614965438842773,
+      6.198952365666628,
+      0.049883365631103516
+    ],
+    "uuid": "426f3503-1929-419d-a2c8-31a3a1b56165",
+    "parent": "NAT_Cliff_Limestone_Layered_B_Top"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_I_Moss_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_I.dae",
+    "size": [
+      3.5871729850769043,
+      3.934646964073181,
+      24.161470413208008
+    ],
+    "center_offset": [
+      0.22284650802612305,
+      0.6218104958534241,
+      -0.31384849548339844
+    ],
+    "uuid": "432927ce-7a9f-4d9c-85de-0e3207a0ac57",
+    "parent": "NAT_Roots_Platform_Big_I"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Mud_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "4386c31b-06e3-46d8-9ccd-c606bdb4febf",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_A_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_A.dae",
+    "size": [
+      12.866321086883545,
+      8.313365958514623,
+      8.48640489578247
+    ],
+    "center_offset": [
+      0.17375636100769043,
+      4.155961979238782,
+      0.6972525119781494
+    ],
+    "uuid": "45d98b89-de22-4301-8b73-a4e4fb3d5574",
+    "parent": "NAT_Cliff_Boulder_A"
+  },
+  {
+    "name": "NAT_Mountain_Sandstone_Vista_D_Tiles_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Sandstone_Vista_ABC/Resources/NAT_Mountain_Sandstone_Vista_D.dae",
+    "size": [
+      50.0,
+      4.577760219573975,
+      50.0
+    ],
+    "center_offset": [
+      0.0,
+      7.689868211746216,
+      0.0
+    ],
+    "uuid": "46557090-1156-46a1-a0fd-65834a81fedd",
+    "parent": "NAT_Mountain_Sandstone_Vista_D"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Moss_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "48f32fc0-a38c-49b4-9342-c6f9a045a8c8",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "49986381-fe5e-4573-b882-72eb7c4a96dc",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Mud_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "4a491a32-4d39-49a8-9b4f-b663127e3b2b",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "4ac6c565-2302-4fb4-bca7-0b3bd06e037c",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_A_Bottom_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_A.dae",
+    "size": [
+      6.724363088607788,
+      10.485046981833875,
+      8.101253032684326
+    ],
+    "center_offset": [
+      0.23427951335906982,
+      5.2322174911387265,
+      -0.11102461814880371
+    ],
+    "uuid": "4c28d0df-6905-45ad-8506-0d77761d0eb0",
+    "parent": "NAT_Roots_Platform_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Convex_Grass",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "4c66d7d5-ecd1-4726-9820-674b156c17a2",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_B_Wet_Grass",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_B.dae",
+    "size": [
+      4.2570390701293945,
+      3.2390039414167404,
+      2.460440993309021
+    ],
+    "center_offset": [
+      0.06659746170043945,
+      1.4055269733071327,
+      0.003349483013153076
+    ],
+    "uuid": "4c82e967-3405-4786-99ee-c1a70c402add",
+    "parent": "NAT_Rock_Smooth_360_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Grey_Moss_Walkable_A",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "4c9fa740-c1f5-4b85-afdc-1a2ceb953655",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_E_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_E.dae",
+    "size": [
+      5.288757801055908,
+      6.240612030029297,
+      3.1934120655059814
+    ],
+    "center_offset": [
+      0.0,
+      -0.000762939453125,
+      0.0
+    ],
+    "uuid": "4fa58110-5425-4c75-aac1-b222d19a8a67",
+    "parent": "NAT_Rock_Boulder_E"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Height_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "50699212-d2ba-4401-b86c-2b383a4ffb70",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Mesa_Big_B_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Mesa_Big_ABC/Resources/NAT_Coastal_Cliff_Mesa_Big_B.dae",
+    "size": [
+      12.227773666381836,
+      6.065279960632324,
+      10.01604700088501
+    ],
+    "center_offset": [
+      0.0,
+      3.032639980316162,
+      -7.152557373046875e-07
+    ],
+    "uuid": "516f98ae-de2f-4b70-8a26-1c8be70ea9d5",
+    "parent": "NAT_Coastal_Cliff_Mesa_Big_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_F_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_F.dae",
+    "size": [
+      4.091200113296509,
+      3.303310990333557,
+      6.124114990234375
+    ],
+    "center_offset": [
+      -0.0011459589004516602,
+      -0.001033484935760498,
+      -0.002164602279663086
+    ],
+    "uuid": "51826930-aba0-41ae-836c-a48713cd3efa",
+    "parent": "NAT_Rock_Boulder_F"
+  },
+  {
+    "name": "NAT_Rock_Boulder_E_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_E.dae",
+    "size": [
+      5.288757801055908,
+      6.240612030029297,
+      3.1934120655059814
+    ],
+    "center_offset": [
+      0.0,
+      -0.000762939453125,
+      0.0
+    ],
+    "uuid": "51b63341-2081-4499-8095-b5db7b047a40",
+    "parent": "NAT_Rock_Boulder_E"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Concave_Height",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C.dae",
+    "size": [
+      12.672740936279297,
+      6.092414014856331,
+      4.503531005233526
+    ],
+    "center_offset": [
+      -0.34076547622680664,
+      3.046009007433895,
+      -2.1957805026322603
+    ],
+    "uuid": "51df05f0-b6ce-40ef-b43a-2bb6c1171cc9",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Single_E_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Single_E.dae",
+    "size": [
+      0.6704239845275879,
+      2.897736953571439,
+      0.6223900020122528
+    ],
+    "center_offset": [
+      0.0,
+      1.4411604767665267,
+      -0.004531994462013245
+    ],
+    "uuid": "525b90f0-6e60-4b34-815e-cc1d72ada78c",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Single_E"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_F_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_F.dae",
+    "size": [
+      1.4789700508117676,
+      1.8256039880216122,
+      1.1867939829826355
+    ],
+    "center_offset": [
+      0.0,
+      0.8785329926759005,
+      -0.0010080039501190186
+    ],
+    "uuid": "53b43036-4bb0-4251-99de-abd3545b3d41",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_F"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_B_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/Resources/NAT_Cliff_Granite_Jagged_B.dae",
+    "size": [
+      10.231082916259766,
+      9.972671031951904,
+      3.7576470375061035
+    ],
+    "center_offset": [
+      -0.026727676391601562,
+      0.1055595874786377,
+      -0.730271577835083
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Cliff_Granite_Jagged_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Wet_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "550be251-2d83-4b90-8e0f-1e3a6f1603f2",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_B_Corner_A_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/Resources/NAT_Cliff_Granite_Jagged_B_Corner_A.dae",
+    "size": [
+      10.022639751434326,
+      9.962581157684326,
+      5.2362542152404785
+    ],
+    "center_offset": [
+      0.005585908889770508,
+      0.012612581253051758,
+      0.0
+    ],
+    "uuid": "56658aaa-a7f4-4444-88c3-cf476a037704",
+    "parent": "NAT_Cliff_Granite_Jagged_B_Corner_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Single_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Single_A.dae",
+    "size": [
+      0.8900120258331299,
+      1.4530030279420316,
+      0.894599974155426
+    ],
+    "center_offset": [
+      0.0,
+      0.7203415140975267,
+      0.0
+    ],
+    "uuid": "579ec893-1e73-4058-a381-0b4bb3fe7a86",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Single_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_B_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_B.dae",
+    "size": [
+      3.296692967414856,
+      2.4544050991535187,
+      2.1440320014953613
+    ],
+    "center_offset": [
+      0.0014554858207702637,
+      0.9479695409536362,
+      0.0
+    ],
+    "uuid": "57f18fb7-4ef2-4e86-a3d5-cf3e4eff2d4e",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_B"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_C_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_C.dae",
+    "size": [
+      4.889062166213989,
+      4.805268198251724,
+      7.457697868347168
+    ],
+    "center_offset": [
+      -0.1197580099105835,
+      -1.992341086268425,
+      -1.2352018356323242
+    ],
+    "uuid": "5953db1d-0127-4c98-9309-5ff0d7f89e8d",
+    "parent": "NAT_Rock_Granite_Platform_C"
+  },
+  {
+    "name": "NAT_Tree_Aspen_A_Autumn_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Aspen_ABC/Resources/NAT_Tree_Aspen_A.dae",
+    "size": [
+      5.33029580116272,
+      8.210581619292498,
+      4.361855983734131
+    ],
+    "center_offset": [
+      -0.29785001277923584,
+      4.0599838104099035,
+      0.36407995223999023
+    ],
+    "uuid": "5b0a328a-05d9-4e3e-a259-1175ca932e1a",
+    "parent": "NAT_Tree_Aspen_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_B_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_B.dae",
+    "size": [
+      2.9248279333114624,
+      1.8758139573037624,
+      3.038817048072815
+    ],
+    "center_offset": [
+      0.3648989796638489,
+      0.9101129788905382,
+      -0.12812751531600952
+    ],
+    "uuid": "5d13ae58-b8dc-4021-b24e-b07200a161b4",
+    "parent": "NAT_Cliff_Limestone_Layered_Small_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_A_Slab_A_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_A_Slab_A.dae",
+    "size": [
+      15.086727142333984,
+      9.250419169664383,
+      12.1556715965271
+    ],
+    "center_offset": [
+      0.15598249435424805,
+      4.516420587897301,
+      0.2886970043182373
+    ],
+    "uuid": "5dfb296e-7825-489b-923a-97a2aab099c8",
+    "parent": "NAT_Cliff_Limestone_Layered_A_Slab_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Single_C_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Single_C.dae",
+    "size": [
+      0.5130219757556915,
+      1.8270529974251986,
+      0.552234023809433
+    ],
+    "center_offset": [
+      -9.98377799987793e-07,
+      0.9058184986934066,
+      -0.0011589974164962769
+    ],
+    "uuid": "6033d6cd-294c-474f-9a7b-5ede6f02c17b",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Single_C"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Mud_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "60659499-8440-481b-8c06-51f28664797d",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Mud_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "60e06b67-f59e-49bb-b576-321f49455b09",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Grey_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "61ba25a5-cfbd-4bc0-8d7f-c4db5fa6c41d",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Convex_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "631a8d3e-11b3-44db-b13a-1b9f56613bc7",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "637e35dd-ca6e-45e9-900e-008b24b5910b",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_B_Autumn_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_B.dae",
+    "size": [
+      8.899384021759033,
+      7.745231015607715,
+      6.078481197357178
+    ],
+    "center_offset": [
+      0.07413887977600098,
+      3.8444255078211427,
+      -0.1827545166015625
+    ],
+    "uuid": "639dfc7e-2929-48f5-9cc6-24c9ccdd2d4b",
+    "parent": "NAT_Plant_Bush_Hazelnut_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_B_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_B.dae",
+    "size": [
+      2.9408669471740723,
+      2.652454972267151,
+      2.763917922973633
+    ],
+    "center_offset": [
+      0.0011534690856933594,
+      -0.00015348196029663086,
+      0.0
+    ],
+    "uuid": "64e75246-41fb-4759-8e16-43b3e8a20c7b",
+    "parent": "NAT_Rock_Boulder_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "650c01e7-a227-4d71-9fef-f3530b44f0b1",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_H_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_H.dae",
+    "size": [
+      4.758948087692261,
+      5.8035759925842285,
+      4.110130071640015
+    ],
+    "center_offset": [
+      -0.08102595806121826,
+      2.7463409900665283,
+      -0.008880972862243652
+    ],
+    "uuid": "671b5b4c-153f-4fb6-9311-193ccafd73b1",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_H"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Wet_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "67adc588-57f3-45ee-93de-949f38971e2f",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Brown_Needles",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "6811af4c-8906-4365-bda8-3067857f90a3",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_E_Dirt_B",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_E.dae",
+    "size": [
+      3.3928020000457764,
+      3.024170994758606,
+      2.4148221015930176
+    ],
+    "center_offset": [
+      0.0,
+      -0.00944751501083374,
+      0.0
+    ],
+    "uuid": "6503c830-9200-409a-bd26-895738587a4a",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_E"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Base_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Base.dae",
+    "size": [
+      27.52692985534668,
+      11.008297801017761,
+      27.519128799438477
+    ],
+    "center_offset": [
+      0.3251056671142578,
+      5.160236895084381,
+      1.2454557418823242
+    ],
+    "uuid": "6b03511d-76a7-422c-801c-0481f91b43d1",
+    "parent": "NAT_Cliff_Limestone_Layered_B_Base"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Slab_A_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B_Slab.dae",
+    "size": [
+      14.873508930206299,
+      2.8104129135608673,
+      15.867487907409668
+    ],
+    "center_offset": [
+      0.26697468757629395,
+      1.0391914695501328,
+      -0.03887605667114258
+    ],
+    "uuid": "6d0e49b5-86a9-4967-8af4-6f68a1e2931b",
+    "parent": "NAT_Cliff_Limestone_Layered_B_Slab"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_E_Grey_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_E.dae",
+    "size": [
+      3.3928020000457764,
+      3.024170994758606,
+      2.4148221015930176
+    ],
+    "center_offset": [
+      0.0,
+      -0.00944751501083374,
+      0.0
+    ],
+    "uuid": "6da03d19-7537-42e7-978a-9575fae910eb",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_E"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_B_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_B.dae",
+    "size": [
+      8.537936210632324,
+      4.847729802131653,
+      8.515429019927979
+    ],
+    "center_offset": [
+      0.04799509048461914,
+      2.25991290807724,
+      0.0050237178802490234
+    ],
+    "uuid": "6eb8928d-64cf-4244-96ad-d9375298747c",
+    "parent": "NAT_Rock_Boulder_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_C_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_C.dae",
+    "size": [
+      0.7597860097885132,
+      2.367803066968918,
+      0.753063976764679
+    ],
+    "center_offset": [
+      0.001269996166229248,
+      0.907829537987709,
+      0.0019840002059936523
+    ],
+    "uuid": "6eea6fc8-77ea-40d1-aa69-3ffadc0b6cb1",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Mud_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "6fab0324-916c-4f1b-bdb6-a2562957fedd",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_E_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_E.dae",
+    "size": [
+      4.4704430103302,
+      2.182625949382782,
+      7.631404876708984
+    ],
+    "center_offset": [
+      -0.2050415277481079,
+      0.17582598328590393,
+      -0.39633655548095703
+    ],
+    "uuid": "701c37d7-c3a8-44ad-b971-2dd01959e7a2",
+    "parent": "NAT_Rock_Granite_Platform_E"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Mesa_Big_A_Needles_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Mesa_Big_ABC/Resources/NAT_Coastal_Cliff_Mesa_Big_A.dae",
+    "size": [
+      12.925705909729004,
+      5.916630215244368,
+      12.655754089355469
+    ],
+    "center_offset": [
+      0.3285789489746094,
+      2.9616821076488122,
+      -0.24230003356933594
+    ],
+    "uuid": "704c974a-fe49-41c9-a11c-9c29fd57d072",
+    "parent": "NAT_Coastal_Cliff_Mesa_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Dirt_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "7116c2ee-e5ad-44b5-b3e6-1a87131947c5",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_K_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_K.dae",
+    "size": [
+      7.665600061416626,
+      11.65269198268652,
+      7.961214065551758
+    ],
+    "center_offset": [
+      0.09175097942352295,
+      5.767321992665529,
+      0.3759770393371582
+    ],
+    "uuid": "71a229e8-5b71-46be-8030-f539d38ddf4b",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_K"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Brown_Mud",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "732f500d-d9bb-4900-a5e2-e0fc85abb1e9",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Lava_Fall_A_Extend_H10_A_Cooled",
+    "relative_path": "Nature/Lava/NAT_Lava_Fall_ABC/Resources/NAT_Lava_Fall_A.dae",
+    "size": [
+      3.220563054084778,
+      17.18390452861786,
+      3.092105984687805
+    ],
+    "center_offset": [
+      0.020234525203704834,
+      -6.787648260593414,
+      0.029825031757354736
+    ],
+    "uuid": "746486b3-047a-4400-b210-5d7a5f733b6d",
+    "parent": "NAT_Lava_Fall_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "74eedc6c-752d-4ba6-af54-839b5a1dc04b",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Underdark_Mushroom_Platform_Small_D_Detailed_Physics",
+    "relative_path": "Nature/Underdark/NAT_Underdark_Mushrooms_ABC/Resources/NAT_Underdark_Mushroom_Platform_Small_D.dae",
+    "size": [
+      5.904531002044678,
+      1.1881789863109589,
+      6.105443954467773
+    ],
+    "center_offset": [
+      -0.1391465663909912,
+      -0.279634490609169,
+      -0.18064498901367188
+    ],
+    "uuid": "7550d1bf-dfbb-442f-915f-9194845285ad",
+    "parent": "NAT_Underdark_Mushroom_Platform_Small_D"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_B_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_B.dae",
+    "size": [
+      0.5930299758911133,
+      1.7737050205469131,
+      0.5769740045070648
+    ],
+    "center_offset": [
+      0.006328999996185303,
+      0.6627035066485405,
+      -0.0031770020723342896
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_C_Grey_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_C.dae",
+    "size": [
+      2.662348985671997,
+      1.962374985218048,
+      1.9731820225715637
+    ],
+    "center_offset": [
+      0.012876510620117188,
+      0.005479484796524048,
+      0.0004070103168487549
+    ],
+    "uuid": "76550818-b99b-4a99-91ba-1f31e4647112",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Ash_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "77644ecf-6a24-416d-bd23-830393010d23",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Crystal_Shard_Broken_Big_B_White_B",
+    "relative_path": "Nature/Crystal/NAT_Crystal_Shard_Big_ABC/Resources/NAT_Crystal_Shard_Broken_Big_B.dae",
+    "size": [
+      1.1761199831962585,
+      5.4455291628837585,
+      1.2911080121994019
+    ],
+    "center_offset": [
+      0.023909002542495728,
+      1.7376855909824371,
+      -0.011265993118286133
+    ],
+    "uuid": "7b4a397e-1eb1-4da3-94d4-0a8e9796dee3",
+    "parent": "NAT_Crystal_Shard_Broken_Big_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "7cbf3a67-a5cd-4c10-845f-d943e2284f1c",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_A_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_A.dae",
+    "size": [
+      9.080631256103516,
+      4.12903505563736,
+      8.546250820159912
+    ],
+    "center_offset": [
+      0.0008335113525390625,
+      1.7881145179271698,
+      0.0008265972137451172
+    ],
+    "uuid": "7d46b457-10da-4214-b991-cd5c6a3a52fd",
+    "parent": "NAT_Rock_Boulder_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_H_Convex_Height",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_H.dae",
+    "size": [
+      24.161890029907227,
+      17.47568044066429,
+      10.121550381183624
+    ],
+    "center_offset": [
+      -0.4132976531982422,
+      8.654093220829964,
+      -4.689011186361313
+    ],
+    "uuid": "7e6a0915-12a5-48d1-b20d-e84383173df3",
+    "parent": "NAT_Coastal_Cliff_Sandstone_H"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Wet_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "7f2e90f1-e3a0-4197-a482-831d5d9ad6ec",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_G_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_G.dae",
+    "size": [
+      4.946094989776611,
+      2.268193006515503,
+      11.688215732574463
+    ],
+    "center_offset": [
+      0.07529449462890625,
+      -0.08607447147369385,
+      -0.09814906120300293
+    ],
+    "uuid": "7fd6eee0-b37e-4312-b9e1-d279a38ee1cb",
+    "parent": "NAT_Rock_Granite_Platform_G"
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_B_Height_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_B.dae",
+    "size": [
+      49.98779487609863,
+      9.449120283126831,
+      49.98779487609863
+    ],
+    "center_offset": [
+      0.006102561950683594,
+      6.849093079566956,
+      0.006102561950683594
+    ],
+    "uuid": "816fa0f5-1a2f-4030-b247-ef9a3d5cc676",
+    "parent": "NAT_Mountain_Granite_Vista_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Sand_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "829ebfc7-da6d-446a-82b8-aeba46a8bbaf",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_B_Brown_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_B.dae",
+    "size": [
+      11.082208156585693,
+      7.883025041566725,
+      7.174870014190674
+    ],
+    "center_offset": [
+      0.05318188667297363,
+      3.941453520781579,
+      -0.4843270778656006
+    ],
+    "uuid": "83498dd3-de50-41dc-9e85-618e4272e699",
+    "parent": "NAT_Cliff_Boulder_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Grey_Height",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "836eb9e9-ac7b-4fd4-a15c-33acf3529752",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Wet_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "846056d8-ca70-42ac-9201-080409834bb8",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Rock_Granite_Boulder_Big_E_Tile_A",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Boulder_Big_ABC/Resources/NAT_Rock_Granite_Boulder_Big_E.dae",
+    "size": [
+      7.684646129608154,
+      5.845643043518066,
+      7.1528449058532715
+    ],
+    "center_offset": [
+      0.013818979263305664,
+      -0.02209949493408203,
+      -0.008636474609375
+    ],
+    "uuid": "863e3957-fe08-4ea1-9c51-5b1f615d90db",
+    "parent": "NAT_Rock_Granite_Boulder_Big_E"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_C_Wet_Grass",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_C.dae",
+    "size": [
+      4.139265060424805,
+      2.097163900732994,
+      4.070044994354248
+    ],
+    "center_offset": [
+      -0.01014256477355957,
+      0.9883519485592842,
+      -0.03448343276977539
+    ],
+    "uuid": "8864537c-5601-4bcd-95b3-29d3c1d8ae90",
+    "parent": "NAT_Rock_Smooth_360_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_A_Ash_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_A.dae",
+    "size": [
+      10.561784267425537,
+      5.160866796970367,
+      3.9050281047821045
+    ],
+    "center_offset": [
+      0.003432035446166992,
+      2.5126414000988007,
+      -0.1354140043258667
+    ],
+    "uuid": "894a52d4-674e-4938-8978-b65fae2f7efc",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Dirt_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "89a17f9c-9cd6-4956-879d-502d6a3e6562",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Concave_Grass",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "89a329ac-fbf1-4a7d-bd7b-69bc381174b3",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Mesa_Big_A_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Mesa_Big_ABC/Resources/NAT_Coastal_Cliff_Mesa_Big_A.dae",
+    "size": [
+      12.925705909729004,
+      5.916630215244368,
+      12.655754089355469
+    ],
+    "center_offset": [
+      0.3285789489746094,
+      2.9616821076488122,
+      -0.24230003356933594
+    ],
+    "uuid": "8a370361-559c-47a4-b582-173df5d93b39",
+    "parent": "NAT_Coastal_Cliff_Mesa_Big_A"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_A_Cursed_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_A.dae",
+    "size": [
+      7.38737678527832,
+      8.463471656665206,
+      6.553614139556885
+    ],
+    "center_offset": [
+      0.5686244964599609,
+      4.204000827856362,
+      -0.4640820026397705
+    ],
+    "uuid": "8a9fe96e-bba4-447b-9781-d8fbd06009bd",
+    "parent": "NAT_Plant_Bush_Hazelnut_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Grey_Height",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_D_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_D.dae",
+    "size": [
+      1.086031973361969,
+      1.5731619596481323,
+      2.532359004020691
+    ],
+    "center_offset": [
+      0.001994997262954712,
+      0.0,
+      -4.750490188598633e-05
+    ],
+    "uuid": "8bb8fac4-9de2-4a64-bffd-54946a128f17",
+    "parent": "NAT_Rock_Boulder_D"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_D_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_D.dae",
+    "size": [
+      3.7503799200057983,
+      2.6695161163806915,
+      3.2312930822372437
+    ],
+    "center_offset": [
+      -0.024709999561309814,
+      1.1404640525579453,
+      -0.15561050176620483
+    ],
+    "uuid": "8c4d315f-a072-4aec-b23c-97a826e6c874",
+    "parent": "NAT_Rock_Smooth_360_D"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Moss_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "8c77cbcb-5024-4643-8c4a-977953cd0bd7",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "8cda4efa-16e4-4659-902d-4bd7759de327",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Tree_Aspen_Small_A_Autumn_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Aspen_ABC/Resources/NAT_Tree_Aspen_Small_A.dae",
+    "size": [
+      3.6297800540924072,
+      4.784590112045407,
+      3.5323519706726074
+    ],
+    "center_offset": [
+      0.3268929719924927,
+      2.3794520562514663,
+      -0.21307098865509033
+    ],
+    "uuid": "8d900b3c-58ff-4f80-942a-780eb7265b1d",
+    "parent": "NAT_Tree_Aspen_Small_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_A_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_A.dae",
+    "size": [
+      2.9852160215377808,
+      2.735411894507706,
+      2.8307089805603027
+    ],
+    "center_offset": [
+      -0.06559795141220093,
+      1.3561979471705854,
+      0.08807754516601562
+    ],
+    "uuid": "8e40990e-a96d-429b-8f29-df1af8960b00",
+    "parent": "NAT_Cliff_Limestone_Layered_Small_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Moss_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "8e701795-d9f7-4ebd-9780-565a921691cb",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Coastal_Plant_Bush_Pine_Small_A_ColorVar_A",
+    "relative_path": "Nature/Plants/NAT_Coastal_Plant_Bush_Pine_ABC/Resources/NAT_Coastal_Plant_Bush_Pine_Small_A.dae",
+    "size": [
+      3.411221981048584,
+      1.7259780019521713,
+      3.0905020236968994
+    ],
+    "center_offset": [
+      -0.09705495834350586,
+      0.7983560040593147,
+      -0.06028604507446289
+    ],
+    "uuid": "8ef68e7c-ab13-4cd7-b5c2-3c2a5b5191e7",
+    "parent": "NAT_Coastal_Plant_Bush_Pine_Small_A"
+  },
+  {
+    "name": "NAT_Lava_Fall_A_Extend_H10_B_Cooled",
+    "relative_path": "Nature/Lava/NAT_Lava_Fall_ABC/Resources/NAT_Lava_Fall_A.dae",
+    "size": [
+      3.220563054084778,
+      17.18390452861786,
+      3.092105984687805
+    ],
+    "center_offset": [
+      0.020234525203704834,
+      -6.787648260593414,
+      0.029825031757354736
+    ],
+    "uuid": "8f411793-6562-419e-93b3-ecc3f5945ff1",
+    "parent": "NAT_Lava_Fall_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_A.dae",
+    "size": [
+      2.1032129526138306,
+      2.4777770414948463,
+      1.873041033744812
+    ],
+    "center_offset": [
+      0.002680480480194092,
+      1.1742365173995495,
+      0.003390491008758545
+    ],
+    "uuid": "8f46312d-78de-48a6-88dd-a965ee802c1d",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_A"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Short_A_Light_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Short_A.dae",
+    "size": [
+      7.542230844497681,
+      2.2477409839630127,
+      5.017069101333618
+    ],
+    "center_offset": [
+      0.2561134099960327,
+      0.24209249019622803,
+      0.4508744478225708
+    ],
+    "uuid": "901b1d77-314c-4ab8-b8e6-0f24dd7ca578",
+    "parent": "NAT_Cliff_Sand_Ridge_Short_A"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Mid_A_Concave_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Mid_A.dae",
+    "size": [
+      15.08446216583252,
+      2.399911046028137,
+      5.349700927734375
+    ],
+    "center_offset": [
+      0.0,
+      0.18108052015304565,
+      0.2845585346221924
+    ],
+    "uuid": "90606253-97c8-49cc-b14b-d43ff53c19bb",
+    "parent": "NAT_Cliff_Sand_Ridge_Mid_A"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_F_Bottom_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_F.dae",
+    "size": [
+      4.4222651720047,
+      15.746052265167236,
+      4.909662961959839
+    ],
+    "center_offset": [
+      0.2998735308647156,
+      5.525374174118042,
+      -0.2698744535446167
+    ],
+    "uuid": "918dffda-1f24-4805-a5fd-d0e8b74b0a79",
+    "parent": "NAT_Roots_Platform_Big_F"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_B_Large_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_B_Large_Base_A.dae",
+    "size": [
+      2.579111933708191,
+      4.003192028438207,
+      2.597277045249939
+    ],
+    "center_offset": [
+      -0.09328800439834595,
+      2.000637014192762,
+      -0.012631475925445557
+    ],
+    "uuid": "9383980b-74d1-41b7-8cff-ec6d764e9425",
+    "parent": "NAT_Cave_Speleothem_Column_B_Large_Base_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "9435f845-c4b6-46b1-8182-d5c58835f175",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Rock_Ground_Stones_A_Sandstone_Sand",
+    "relative_path": "Nature/Rocks/NAT_Rock_Ground_Stones_ABC/Resources/NAT_Rock_Ground_Stones_A.dae",
+    "size": [
+      5.534902095794678,
+      0.787159017752856,
+      7.803110122680664
+    ],
+    "center_offset": [
+      0.0,
+      0.3959175089839846,
+      0.0
+    ],
+    "uuid": "94b9ef2d-0292-4543-8da1-da4c96d3e2ad",
+    "parent": "NAT_Rock_Ground_Stones_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "97732362-06ce-4901-a8c6-03318a406425",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Grey_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "980854ce-c1ab-49f4-a427-bada79978d7a",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_D_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_D.dae",
+    "size": [
+      1.086031973361969,
+      1.5731619596481323,
+      2.532359004020691
+    ],
+    "center_offset": [
+      0.001994997262954712,
+      0.0,
+      -4.750490188598633e-05
+    ],
+    "uuid": "9897af7c-2193-4661-9254-d91bae15be4b",
+    "parent": "NAT_Rock_Boulder_D"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Height_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "99c52f88-c66f-40b4-9751-d3770b069fe9",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Rock_Boulder_F_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_F.dae",
+    "size": [
+      4.091200113296509,
+      3.303310990333557,
+      6.124114990234375
+    ],
+    "center_offset": [
+      -0.0011459589004516602,
+      -0.001033484935760498,
+      -0.002164602279663086
+    ],
+    "uuid": "9cce11fd-e365-4601-9ad9-353a87205c03",
+    "parent": "NAT_Rock_Boulder_F"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_F_Convex_Big",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_F.dae",
+    "size": [
+      13.186630725860596,
+      8.112283170223236,
+      4.5433608293533325
+    ],
+    "center_offset": [
+      -0.01058650016784668,
+      3.8374545872211456,
+      -2.1395034193992615
+    ],
+    "uuid": "9d36d645-d38f-4862-827c-d6c908f33f41",
+    "parent": "NAT_Coastal_Cliff_Sandstone_F"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_B_Large_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_B_Large_A.dae",
+    "size": [
+      2.270218014717102,
+      7.515576124191284,
+      1.9839630126953125
+    ],
+    "center_offset": [
+      -0.04430800676345825,
+      3.560175061225891,
+      -0.03652453422546387
+    ],
+    "uuid": "9d962bda-0d35-4dfe-b884-2be99e3cae38",
+    "parent": "NAT_Cave_Speleothem_Column_B_Large_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_C_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_C_Base_A.dae",
+    "size": [
+      5.053972005844116,
+      4.116254948079586,
+      5.537234783172607
+    ],
+    "center_offset": [
+      -0.011033892631530762,
+      1.9991034753620625,
+      -0.2636744976043701
+    ],
+    "uuid": "9df6558c-bba0-4d5f-b71d-6f53a01aaac2",
+    "parent": "NAT_Cave_Speleothem_Column_C_Base_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Grey_Height",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "9e252b37-3829-4219-be8d-b5260280151a",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Convex_Height",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C.dae",
+    "size": [
+      12.672740936279297,
+      6.092414014856331,
+      4.503531005233526
+    ],
+    "center_offset": [
+      -0.34076547622680664,
+      3.046009007433895,
+      -2.1957805026322603
+    ],
+    "uuid": "a0ffc62a-8a64-4194-98ad-766d7fb4a312",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_B_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_B.dae",
+    "size": [
+      2.9408669471740723,
+      2.652454972267151,
+      2.763917922973633
+    ],
+    "center_offset": [
+      0.0011534690856933594,
+      -0.00015348196029663086,
+      0.0
+    ],
+    "uuid": "a11cf629-3d5d-4526-a19c-1e7b6378ee11",
+    "parent": "NAT_Rock_Boulder_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Wet_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "a16a80b5-6937-47a4-b217-6611e46ee548",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Granite_Big_A_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Granite_Big_ABC/Resources/NAT_Coastal_Rock_Granite_Big_A.dae",
+    "size": [
+      7.870829820632935,
+      2.8358489125967026,
+      9.61840295791626
+    ],
+    "center_offset": [
+      -0.17642199993133545,
+      1.2754444554448128,
+      -0.026711702346801758
+    ],
+    "uuid": "a25be10e-3b90-4a3a-9afa-3c14888db04f",
+    "parent": "NAT_Coastal_Rock_Granite_Big_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_D_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_D_Base_A.dae",
+    "size": [
+      5.296156883239746,
+      5.312771826982498,
+      5.160662889480591
+    ],
+    "center_offset": [
+      -0.08452844619750977,
+      2.4005899280309677,
+      0.05123245716094971
+    ],
+    "uuid": "a38c3271-f7e6-47f4-96b4-a4706943f66f",
+    "parent": "NAT_Cave_Speleothem_Column_D_Base_A"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Long_A_Convex_Light",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Long_A.dae",
+    "size": [
+      22.62669086456299,
+      2.2477409839630127,
+      5.547101020812988
+    ],
+    "center_offset": [
+      0.25611448287963867,
+      0.24209249019622803,
+      0.43022751808166504
+    ],
+    "uuid": "a3ab4a80-6a4b-4d38-a371-df92e53e8c04",
+    "parent": "NAT_Cliff_Sand_Ridge_Long_A"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_A_Grey_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_A.dae",
+    "size": [
+      12.866321086883545,
+      8.313365958514623,
+      8.48640489578247
+    ],
+    "center_offset": [
+      0.17375636100769043,
+      4.155961979238782,
+      0.6972525119781494
+    ],
+    "uuid": "a4e2bff7-d96b-42eb-91fb-174813f5a376",
+    "parent": "NAT_Cliff_Boulder_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Concave_Mud",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "a4f64790-cd46-4ed0-88e8-0912abd0daf5",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Dirt_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "a5a9771c-afe9-4852-b5f0-f9ce478e21f5",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_B_Cursed_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_B.dae",
+    "size": [
+      8.899384021759033,
+      7.745231015607715,
+      6.078481197357178
+    ],
+    "center_offset": [
+      0.07413887977600098,
+      3.8444255078211427,
+      -0.1827545166015625
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "NAT_Plant_Bush_Hazelnut_B"
+  },
+  {
+    "name": "NAT_Crystal_Cluster_A_White_B",
+    "relative_path": "Nature/Crystal/NAT_Crystal_Cluster_ABC/Resources/NAT_Crystal_Cluster_A.dae",
+    "size": [
+      9.560317039489746,
+      3.561800003051758,
+      10.1248140335083
+    ],
+    "center_offset": [
+      0.06165266036987305,
+      0.41085100173950195,
+      -0.15164995193481445
+    ],
+    "uuid": "a9f397c7-41a8-40de-9a93-55ec0ebba7f9",
+    "parent": "NAT_Crystal_Cluster_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "ab1c9cbf-879e-4fea-941e-354a18a460ef",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_A_Brown_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_A.dae",
+    "size": [
+      12.866321086883545,
+      8.313365958514623,
+      8.48640489578247
+    ],
+    "center_offset": [
+      0.17375636100769043,
+      4.155961979238782,
+      0.6972525119781494
+    ],
+    "uuid": "ab9f737e-23de-4115-a856-2df00e36277b",
+    "parent": "NAT_Cliff_Boulder_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Moss_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "abd54e88-8992-4c0a-aa54-e3718ad370a3",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_A_Wet_Grass",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_A.dae",
+    "size": [
+      3.5009349584579468,
+      2.1298259496688843,
+      3.4081350564956665
+    ],
+    "center_offset": [
+      -0.05129450559616089,
+      0.9368379712104797,
+      0.07834547758102417
+    ],
+    "uuid": "affae4fa-821d-486e-bdef-4089cdbe9e11",
+    "parent": "NAT_Rock_Smooth_360_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "b026c5d0-1778-47aa-8131-74323435612a",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_A_Grey_Wet",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_A.dae",
+    "size": [
+      12.866321086883545,
+      8.313365958514623,
+      8.48640489578247
+    ],
+    "center_offset": [
+      0.17375636100769043,
+      4.155961979238782,
+      0.6972525119781494
+    ],
+    "uuid": "b0d087b7-9d85-49ec-b8b6-9ef8216617f5",
+    "parent": "NAT_Cliff_Boulder_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_D_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_D.dae",
+    "size": [
+      0.9450239837169647,
+      2.644376903772354,
+      0.9974609911441803
+    ],
+    "center_offset": [
+      -0.006421998143196106,
+      0.9844414442777634,
+      0.002660498023033142
+    ],
+    "uuid": "b1378524-fcb7-4390-8703-1609abf691bb",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Brown_Moss_Walkable_A",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "b1cb59c9-75cd-44d3-b426-7fcd89d98858",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Medium_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Medium_Base_A.dae",
+    "size": [
+      3.4109089374542236,
+      2.972788978368044,
+      3.9419260025024414
+    ],
+    "center_offset": [
+      -0.07274448871612549,
+      1.4245444890111685,
+      0.20889902114868164
+    ],
+    "uuid": "b30deeab-90bf-41b7-a6a9-9b920c90e409",
+    "parent": "NAT_Cave_Speleothem_Column_A_Medium_Base_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Thin_Base_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Thin_Base_A.dae",
+    "size": [
+      2.7491700649261475,
+      3.247049905359745,
+      2.9175549745559692
+    ],
+    "center_offset": [
+      0.0,
+      1.5387999527156353,
+      -0.23593848943710327
+    ],
+    "uuid": "b42678cd-eb4c-4776-9492-7dc018e4ee39",
+    "parent": "NAT_Cave_Speleothem_Column_A_Thin_Base_A"
+  },
+  {
+    "name": "NAT_Plant_Vine_Ivy_G_Corner_Red",
+    "relative_path": "Nature/Plants/NAT_Plant_Vine_Ivy_ABC/Resources/NAT_Plant_Vine_Ivy_G.dae",
+    "size": [
+      3.1423109769821167,
+      2.845735050737858,
+      0.4600970037281513
+    ],
+    "center_offset": [
+      -0.08820253610610962,
+      1.3067355267703533,
+      -0.19198150001466274
+    ],
+    "uuid": "b4ee0de1-3d04-4aec-a943-a935d8b0aeca",
+    "parent": "NAT_Plant_Vine_Ivy_G"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_F_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_F.dae",
+    "size": [
+      3.809744954109192,
+      1.53015598654747,
+      8.15906810760498
+    ],
+    "center_offset": [
+      0.1835734248161316,
+      0.5584899932146072,
+      -0.05680084228515625
+    ],
+    "uuid": "b607def9-8321-4c62-b9fd-13e04192f2aa",
+    "parent": "NAT_Rock_Granite_Platform_F"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Wet_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "b7b47660-a963-43f6-82b8-a528d398300d",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_C_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_C.dae",
+    "size": [
+      9.347987174987793,
+      2.677190065383911,
+      9.71562910079956
+    ],
+    "center_offset": [
+      -0.17369842529296875,
+      1.0682040452957153,
+      -0.426708459854126
+    ],
+    "uuid": "bc4d8aef-4ae4-4e99-9e8d-1b021222e832",
+    "parent": "NAT_Rock_Boulder_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "bc55a5f3-c9a2-4b4b-800d-cdadce89b7b5",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Dirt_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "bcce654e-a549-424a-b91e-562227deea90",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Dirt_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "be4c20da-3c67-4ff1-b77d-ed85fe8062d4",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_F_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_F.dae",
+    "size": [
+      5.385199069976807,
+      5.959697186946869,
+      4.2047600746154785
+    ],
+    "center_offset": [
+      0.0014524459838867188,
+      2.906068593263626,
+      0.0
+    ],
+    "uuid": "be5e0080-f1fc-44ee-ab1f-fff6dc379e70",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_F"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Mud_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "c056ba04-5280-46fe-a7d0-56a0c84d741b",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Slab_B_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "size": [
+      11.584841012954712,
+      1.5008149445056915,
+      12.546407222747803
+    ],
+    "center_offset": [
+      3.031915545463562,
+      0.369143471121788,
+      -1.769202470779419
+    ],
+    "uuid": "c0578bcd-12ff-4365-bc23-8cf4d8702966",
+    "parent": "NAT_Cliff_Limestone_Layered_Slab_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Entrance_A_Top_A_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Entrance_A/Resources/NAT_Coastal_Cliff_Sandstone_Entrance_A_Top_A.dae",
+    "size": [
+      25.410698890686035,
+      8.686495304107666,
+      8.84079885482788
+    ],
+    "center_offset": [
+      -1.4583945274353027,
+      8.464801549911499,
+      -0.28397345542907715
+    ],
+    "uuid": "c2550881-1abb-4490-8153-4697ad237936",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Entrance_A_Top_A"
+  },
+  {
+    "name": "NAT_Plant_Bush_Hazelnut_C_Cursed_ColorVar",
+    "relative_path": "Nature/Plants/NAT_Plant_Bush_Hazelnut_ABC/Resources/NAT_Plant_Bush_Hazelnut_C.dae",
+    "size": [
+      6.07073187828064,
+      7.528538104146719,
+      5.978669881820679
+    ],
+    "center_offset": [
+      0.27375495433807373,
+      3.7327540535479784,
+      -0.057983994483947754
+    ],
+    "uuid": "c2c7434a-ae87-4c3f-83e6-42d9657a8636",
+    "parent": "NAT_Plant_Bush_Hazelnut_C"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_B_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_B.dae",
+    "size": [
+      3.6346750259399414,
+      5.879962831735611,
+      4.152606964111328
+    ],
+    "center_offset": [
+      -0.1432645320892334,
+      -2.5345364063978195,
+      0.13030147552490234
+    ],
+    "uuid": "c2e580d0-8541-4c9f-94a5-2050095ae6b9",
+    "parent": "NAT_Rock_Granite_Platform_B"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_B_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_B.dae",
+    "size": [
+      4.2570390701293945,
+      3.2390039414167404,
+      2.460440993309021
+    ],
+    "center_offset": [
+      0.06659746170043945,
+      1.4055269733071327,
+      0.003349483013153076
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Rock_Smooth_360_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Sandstone_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "c81e3650-6872-4321-8816-c96bcf86e1e7",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Corner_Height",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C.dae",
+    "size": [
+      12.672740936279297,
+      6.092414014856331,
+      4.503531005233526
+    ],
+    "center_offset": [
+      -0.34076547622680664,
+      3.046009007433895,
+      -2.1957805026322603
+    ],
+    "uuid": "c9bbd58b-8927-407f-b8bd-59f8895e73b0",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Concave_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "c9d7503e-c015-4f9b-a6f4-7aab3fccd96c",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_B_Bottom_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_B.dae",
+    "size": [
+      5.185253858566284,
+      7.878403156995773,
+      8.84477710723877
+    ],
+    "center_offset": [
+      -0.12161004543304443,
+      3.7928335815668106,
+      0.10953044891357422
+    ],
+    "uuid": "ca221578-90a2-4671-bc6f-f2c78bf78d39",
+    "parent": "NAT_Roots_Platform_Big_B"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Slab_B_Climbable_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "size": [
+      11.584841012954712,
+      1.5008149445056915,
+      12.546407222747803
+    ],
+    "center_offset": [
+      3.031915545463562,
+      0.369143471121788,
+      -1.769202470779419
+    ],
+    "uuid": "cb57c1bd-d978-4efd-8345-7f807344913b",
+    "parent": "NAT_Cliff_Limestone_Layered_Slab_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Brown_Dirt",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "cbc07baa-991f-49f2-83ed-0a5c54f79970",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Grass_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "cc8a47b4-d6dc-4b9a-93b4-b95afcdbafb6",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_B_Spike_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_B_Spike_A.dae",
+    "size": [
+      1.7525219917297363,
+      6.440145015716553,
+      1.735658049583435
+    ],
+    "center_offset": [
+      -0.022397994995117188,
+      3.2200725078582764,
+      -0.016472995281219482
+    ],
+    "uuid": "cd53ab1a-002e-465c-9994-f6fc3cb6e250",
+    "parent": "NAT_Cave_Speleothem_Column_B_Spike_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.66936492919922,
+      28.042785674333572,
+      28.45486831665039
+    ],
+    "center_offset": [
+      1.166250228881836,
+      13.720090851187706,
+      -0.48241138458251953
+    ],
+    "uuid": "cd8609bd-2caf-404b-831e-3318357464a3",
+    "parent": "NAT_Cliff_Limestone_Layered_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Sand_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Long_A_Convex_Light_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Long_A_Convex.dae",
+    "size": [
+      23.59327983856201,
+      2.269273042678833,
+      8.754467964172363
+    ],
+    "center_offset": [
+      0.25611448287963867,
+      0.2528585195541382,
+      2.301126003265381
+    ],
+    "uuid": "ce92d3a8-9095-435c-94d3-f9d6a3a46d61",
+    "parent": "NAT_Cliff_Sand_Ridge_Long_A_Convex"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "ceb3fd52-2337-4133-a438-90767fdab42e",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_B_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Cluster_B.dae",
+    "size": [
+      1.9343630075454712,
+      2.3228259086608887,
+      1.8680539727210999
+    ],
+    "center_offset": [
+      -0.0018615126609802246,
+      1.1614129543304443,
+      -0.002651005983352661
+    ],
+    "uuid": "ceffa4dc-645f-4a18-b1b0-4330a4b71f5e",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "cf07006e-c756-4f7d-9ca2-b1440c3ebcff",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_C_Pillar_B_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_C_Pillar_B.dae",
+    "size": [
+      1.6864669919013977,
+      6.643926173448563,
+      1.7676729559898376
+    ],
+    "center_offset": [
+      -0.04057249426841736,
+      3.0707270950078964,
+      -0.027371495962142944
+    ],
+    "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05",
+    "parent": "NAT_Cave_Speleothem_Column_C_Pillar_B"
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_C_Height_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_C.dae",
+    "size": [
+      27.463546752929688,
+      9.012886680662632,
+      28.347281455993652
+    ],
+    "center_offset": [
+      0.9696426391601562,
+      4.62527434155345,
+      -0.4179835319519043
+    ],
+    "uuid": "d0cd6457-4a49-49b6-bb48-3af7aa401905",
+    "parent": "NAT_Mountain_Granite_Vista_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Dirt_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "d1fc02d4-3619-4416-bd17-25490e1dc0ee",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Lava_Fall_A_H10_A",
+    "relative_path": "Nature/Lava/NAT_Lava_Fall_ABC/Resources/NAT_Lava_Fall_A.dae",
+    "size": [
+      3.220563054084778,
+      17.18390452861786,
+      3.092105984687805
+    ],
+    "center_offset": [
+      0.020234525203704834,
+      -6.787648260593414,
+      0.029825031757354736
+    ],
+    "uuid": "d5538f6a-38af-4b11-be52-a4fbc2eb0419",
+    "parent": "NAT_Lava_Fall_A"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Block_A_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Block_A.dae",
+    "size": [
+      14.299389839172363,
+      5.926833063364029,
+      15.516284942626953
+    ],
+    "center_offset": [
+      0.8116989135742188,
+      2.6114545315504074,
+      -0.6191015243530273
+    ],
+    "uuid": "d5adbbb8-4174-4aba-9370-2f54fab95b69",
+    "parent": "NAT_Cliff_Limestone_Layered_Block_A"
+  },
+  {
+    "name": "NAT_Roots_Platform_Big_A_Top_Walkable",
+    "relative_path": "Nature/Roots/NAT_Roots_Platform_ABC/NAT_Roots_Platform_Big_A.dae",
+    "size": [
+      6.724363088607788,
+      10.485046981833875,
+      8.101253032684326
+    ],
+    "center_offset": [
+      0.23427951335906982,
+      5.2322174911387265,
+      -0.11102461814880371
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Roots_Platform_Big_A"
+  },
+  {
+    "name": "NAT_Rock_Ground_Stones_A_Brown_LightSand",
+    "relative_path": "Nature/Rocks/NAT_Rock_Ground_Stones_ABC/Resources/NAT_Rock_Ground_Stones_A.dae",
+    "size": [
+      5.534902095794678,
+      0.787159017752856,
+      7.803110122680664
+    ],
+    "center_offset": [
+      0.0,
+      0.3959175089839846,
+      0.0
+    ],
+    "uuid": "d91cecca-1e32-42b2-9c49-3ab8f9129d73",
+    "parent": "NAT_Rock_Ground_Stones_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Cluster_A.dae",
+    "size": [
+      1.4075729846954346,
+      1.4811090230941772,
+      1.3645319938659668
+    ],
+    "center_offset": [
+      -0.0028405189514160156,
+      0.7405545115470886,
+      0.0
+    ],
+    "uuid": "d963a441-1ca5-4ee2-927d-02a98587d02f",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Mesa_Big_B_Needles_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Mesa_Big_ABC/Resources/NAT_Coastal_Cliff_Mesa_Big_B.dae",
+    "size": [
+      12.227773666381836,
+      6.065279960632324,
+      10.01604700088501
+    ],
+    "center_offset": [
+      0.0,
+      3.032639980316162,
+      -7.152557373046875e-07
+    ],
+    "uuid": "da87e90f-6ffa-4e52-86ea-92fddf33b2d3",
+    "parent": "NAT_Coastal_Cliff_Mesa_Big_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_C_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_C.dae",
+    "size": [
+      3.045546054840088,
+      2.774712949991226,
+      2.793023943901062
+    ],
+    "center_offset": [
+      -0.0037850141525268555,
+      1.0933554619550705,
+      0.004177987575531006
+    ],
+    "uuid": "db895c50-0655-471a-9087-097f5c805bd5",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_C"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Moss_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "dca1a2ce-7d13-4c12-bb98-27901ed677bc",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Moss_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "dcfe8dcc-6ef7-4aee-99dd-7064573cb500",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Large_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Large_A.dae",
+    "size": [
+      2.56009304523468,
+      7.761209785938263,
+      2.876104950904846
+    ],
+    "center_offset": [
+      0.1941165328025818,
+      3.796482890844345,
+      -0.14425748586654663
+    ],
+    "uuid": "de937788-15fd-45b5-9490-99e1d13b65da",
+    "parent": "NAT_Cave_Speleothem_Column_A_Large_A"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_B_Grey_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_B.dae",
+    "size": [
+      8.537936210632324,
+      4.847729802131653,
+      8.515429019927979
+    ],
+    "center_offset": [
+      0.04799509048461914,
+      2.25991290807724,
+      0.0050237178802490234
+    ],
+    "uuid": "ded1fba9-caa8-4263-9bf3-8ef172b51c35",
+    "parent": "NAT_Rock_Boulder_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_E_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_E.dae",
+    "size": [
+      3.936218023300171,
+      4.130496054887772,
+      3.5421741008758545
+    ],
+    "center_offset": [
+      -0.3497580289840698,
+      1.7111630290746689,
+      0.18639600276947021
+    ],
+    "uuid": "df990502-e04a-483c-bae8-5fca1548016c",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_E"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Moss_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "e0025d4f-7bda-4be9-b77b-7f07bbdeb712",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Ash_Walkable",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "e1a069f3-d181-423d-a19b-28a6deac15af",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_Small_C_Moss_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_Small_C.dae",
+    "size": [
+      3.113281011581421,
+      1.0997370034456253,
+      1.8844730257987976
+    ],
+    "center_offset": [
+      -0.10752546787261963,
+      0.4148864969611168,
+      0.028026491403579712
+    ],
+    "uuid": "e1d4f944-db65-4249-a6d1-4cb5c213406f",
+    "parent": "NAT_Cliff_Limestone_Layered_Small_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_A.dae",
+    "size": [
+      0.3361160010099411,
+      1.1384110003709793,
+      0.31009499728679657
+    ],
+    "center_offset": [
+      0.006405003368854523,
+      0.3691115006804466,
+      0.0011095032095909119
+    ],
+    "uuid": "e32799b9-6075-4b19-a670-10aad733850c",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Moss_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "e32f4db1-849b-46cf-be68-76aa966fb5e3",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "e354818f-f6ad-4e54-8f75-e6c122e29900",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_D_Pillar_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_B/Resources/NAT_Cave_Speleothem_Column_D_Pillar_A.dae",
+    "size": [
+      1.765725016593933,
+      6.328290164470673,
+      1.7754549980163574
+    ],
+    "center_offset": [
+      0.06146550178527832,
+      2.6455000936985016,
+      -0.01996248960494995
+    ],
+    "uuid": "e3cb8dfa-9fbe-4294-bdc0-f75e85541df8",
+    "parent": "NAT_Cave_Speleothem_Column_D_Pillar_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_B_Moss_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/Resources/NAT_Cliff_Granite_Jagged_B.dae",
+    "size": [
+      10.231082916259766,
+      9.972671031951904,
+      3.7576470375061035
+    ],
+    "center_offset": [
+      -0.026727676391601562,
+      0.1055595874786377,
+      -0.730271577835083
+    ],
+    "uuid": "e3e46808-2d3c-4173-8dcb-1bc16f29b7ff",
+    "parent": "NAT_Cliff_Granite_Jagged_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Dirt_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "e4b37d26-ea38-45ba-b0e4-45d8383d04f2",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Ash_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "e5c041e8-bdfa-4718-bfc3-5ba211a8fe19",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_A_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/Resources/NAT_Cliff_Granite_Jagged_A.dae",
+    "size": [
+      9.63426399230957,
+      9.834559917449951,
+      2.949855923652649
+    ],
+    "center_offset": [
+      0.0,
+      -0.002649068832397461,
+      -0.3207330107688904
+    ],
+    "uuid": "e67e1311-c862-46d0-8b7d-44b626ae2c50",
+    "parent": "NAT_Cliff_Granite_Jagged_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_D_Height_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_D.dae",
+    "size": [
+      9.23887825012207,
+      6.5698089599609375,
+      2.837965965270996
+    ],
+    "center_offset": [
+      0.0,
+      0.5731205940246582,
+      0.31722497940063477
+    ],
+    "uuid": "e6fcd507-e9d9-4b43-848b-14e1f43447ef",
+    "parent": "NAT_Cliff_Granite_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_Pile_Big_A_Grey_Wet",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_Pile_Big_A.dae",
+    "size": [
+      9.080631256103516,
+      4.12903505563736,
+      8.546250820159912
+    ],
+    "center_offset": [
+      0.0008335113525390625,
+      1.7881145179271698,
+      0.0008265972137451172
+    ],
+    "uuid": "e75db575-2dc7-490a-9829-86b7dca1ec6d",
+    "parent": "NAT_Rock_Boulder_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Mid_A_Concave_Light_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Mid_A_Concave.dae",
+    "size": [
+      17.111661911010742,
+      2.3515959978103638,
+      7.323523759841919
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      0.29401999711990356,
+      -0.43850696086883545
+    ],
+    "uuid": "e877c40f-5015-4643-8fdd-f55fcee7fcb9",
+    "parent": "NAT_Cliff_Sand_Ridge_Mid_A_Concave"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Long_A_Light_Height",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Long_A.dae",
+    "size": [
+      22.62669086456299,
+      2.2477409839630127,
+      5.547101020812988
+    ],
+    "center_offset": [
+      0.25611448287963867,
+      0.24209249019622803,
+      0.43022751808166504
+    ],
+    "uuid": "e983aebd-a94f-4fd9-a115-26131105477c",
+    "parent": "NAT_Cliff_Sand_Ridge_Long_A"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_D_Grey_Wet_Vista_A",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Cluster_D.dae",
+    "size": [
+      3.6277170181274414,
+      3.7491139471530914,
+      3.4170610904693604
+    ],
+    "center_offset": [
+      0.0029665231704711914,
+      1.5319049805402756,
+      0.003983497619628906
+    ],
+    "uuid": "ec1d6063-3aa8-4af9-a97f-2e349bb9ea09",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Cluster_D"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Column_A_Medium_A_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Column_A/Resources/NAT_Cave_Speleothem_Column_A_Medium_A.dae",
+    "size": [
+      2.5666919946670532,
+      7.544270992279053,
+      2.325538992881775
+    ],
+    "center_offset": [
+      -0.16445201635360718,
+      3.5205295085906982,
+      -0.16050249338150024
+    ],
+    "uuid": "ec955c38-671a-4c91-b350-b377683bd81a",
+    "parent": "NAT_Cave_Speleothem_Column_A_Medium_A"
+  },
+  {
+    "name": "NAT_Cliff_Boulder_B_Grey_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Boulder_ABC/Resources/NAT_Cliff_Boulder_B.dae",
+    "size": [
+      11.082208156585693,
+      7.883025041566725,
+      7.174870014190674
+    ],
+    "center_offset": [
+      0.05318188667297363,
+      3.941453520781579,
+      -0.4843270778656006
+    ],
+    "uuid": "edea2ce1-3b3f-4ce5-a16f-8daad11b7485",
+    "parent": "NAT_Cliff_Boulder_B"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_C_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Cluster_C.dae",
+    "size": [
+      3.6355879306793213,
+      3.3928850144147873,
+      3.6211700439453125
+    ],
+    "center_offset": [
+      -0.07925999164581299,
+      1.6868895068764687,
+      -0.029332995414733887
+    ],
+    "uuid": "ef6444b1-0fa5-4404-9632-1eb8a800fc77",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Cluster_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_A_Dirt_Climbable",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_A.dae",
+    "size": [
+      2.9881759881973267,
+      3.347537040710449,
+      2.797187924385071
+    ],
+    "center_offset": [
+      0.0015160441398620605,
+      -0.007848501205444336,
+      0.00043398141860961914
+    ],
+    "uuid": "f08ba1a7-4640-48a4-bf0a-188c6e4aa244",
+    "parent": "NAT_Rock_Boulder_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_B_Cursed_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_B.dae",
+    "size": [
+      8.971158027648926,
+      9.815077738428954,
+      7.483046770095825
+    ],
+    "center_offset": [
+      0.9570341110229492,
+      4.906839869188843,
+      -0.4541233777999878
+    ],
+    "uuid": "f31c363a-7c15-4908-a209-f9c080e63737",
+    "parent": "NAT_Tree_Gnarly_B"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Short_A_Convex_Light",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Short_A.dae",
+    "size": [
+      7.542230844497681,
+      2.2477409839630127,
+      5.017069101333618
+    ],
+    "center_offset": [
+      0.2561134099960327,
+      0.24209249019622803,
+      0.4508744478225708
+    ],
+    "uuid": "f3bf8985-ffda-49ad-b836-c2edf2955455",
+    "parent": "NAT_Cliff_Sand_Ridge_Short_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Moss_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "f474324c-7755-4752-9057-0dea4fed0ec3",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Cliff_Granite_Jagged_A_Corner_B_Brown_Moss",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_Jagged_ABC/Resources/NAT_Cliff_Granite_Jagged_A_Corner_B.dae",
+    "size": [
+      10.41789436340332,
+      9.861572265625,
+      5.845125913619995
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.6511789560317993
+    ],
+    "uuid": "f4c7434b-6b0d-4dd3-9448-9ec6fa95189e",
+    "parent": "NAT_Cliff_Granite_Jagged_A_Corner_B"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Grass_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "f5f9a34c-e208-4ea4-9ab9-32ea1a330eeb",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Mud_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "f7236265-a5a1-453d-b764-b5c75f4a7a6f",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Rock_Smooth_360_C_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Smooth_360_ABC/Resources/NAT_Rock_Smooth_360_C.dae",
+    "size": [
+      4.139265060424805,
+      2.097163900732994,
+      4.070044994354248
+    ],
+    "center_offset": [
+      -0.01014256477355957,
+      0.9883519485592842,
+      -0.03448343276977539
+    ],
+    "uuid": "f74cc8b8-7231-4670-8d49-9b5bbcfca045",
+    "parent": "NAT_Rock_Smooth_360_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_B_Single_B_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_B/Resources/NAT_Cave_Speleothem_Stalagmite_B_Single_B.dae",
+    "size": [
+      0.6536059975624084,
+      1.1954409475438297,
+      0.640529990196228
+    ],
+    "center_offset": [
+      -1.0132789611816406e-06,
+      0.5913734736386687,
+      0.0
+    ],
+    "uuid": "fae3b804-024c-41fe-9191-2c262ae6a647",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_B_Single_B"
+  },
+  {
+    "name": "NAT_Cliff_Sand_Ridge_Mid_A_Concave_Light",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sand_Ridge_ABC/Resources/NAT_Cliff_Sand_Ridge_Mid_A.dae",
+    "size": [
+      15.08446216583252,
+      2.399911046028137,
+      5.349700927734375
+    ],
+    "center_offset": [
+      0.0,
+      0.18108052015304565,
+      0.2845585346221924
+    ],
+    "uuid": "fb361977-a005-45e8-8d74-8ff881f6f3f2",
+    "parent": "NAT_Cliff_Sand_Ridge_Mid_A"
+  },
+  {
+    "name": "NAT_Coastal_Plant_Bush_Pine_Small_A_ColorVar_C",
+    "relative_path": "Nature/Plants/NAT_Coastal_Plant_Bush_Pine_ABC/Resources/NAT_Coastal_Plant_Bush_Pine_Small_A.dae",
+    "size": [
+      3.411221981048584,
+      1.7259780019521713,
+      3.0905020236968994
+    ],
+    "center_offset": [
+      -0.09705495834350586,
+      0.7983560040593147,
+      -0.06028604507446289
+    ],
+    "uuid": "fc151fbb-309f-4a5a-af4e-1c7f17c21ba4",
+    "parent": "NAT_Coastal_Plant_Bush_Pine_Small_A"
+  },
+  {
+    "name": "NAT_Rock_Granite_Platform_D_Wet_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Granite_Platforms_ABC/Resources/NAT_Rock_Granite_Platform_D.dae",
+    "size": [
+      5.76442813873291,
+      4.70455014705658,
+      9.452706813812256
+    ],
+    "center_offset": [
+      0.38192200660705566,
+      -1.8444140553474426,
+      -1.0234453678131104
+    ],
+    "uuid": "fc1fbf09-d74e-48cd-a931-f0986ea9e380",
+    "parent": "NAT_Rock_Granite_Platform_D"
+  },
+  {
+    "name": "NAT_Rock_Boulder_C_Brown_Moss",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_C.dae",
+    "size": [
+      3.166857957839966,
+      3.1529399156570435,
+      3.7656800746917725
+    ],
+    "center_offset": [
+      0.0,
+      0.0002480149269104004,
+      0.003242015838623047
+    ],
+    "uuid": "fd08891b-8103-493c-b544-6e3e479c4aed",
+    "parent": "NAT_Rock_Boulder_C"
+  },
+  {
+    "name": "NAT_Cave_Speleothem_Stalagmite_A_Single_E_Grey_Wet",
+    "relative_path": "Nature/Cave/NAT_Cave_Speleothem_Stalagmite_A/Resources/NAT_Cave_Speleothem_Stalagmite_A_Single_E.dae",
+    "size": [
+      0.8729400038719177,
+      2.9021269977092743,
+      0.9248889982700348
+    ],
+    "center_offset": [
+      -0.005719989538192749,
+      1.1069334894418716,
+      0.006350502371788025
+    ],
+    "uuid": "fd4fed17-b9c4-419b-bf66-48881d9dba8f",
+    "parent": "NAT_Cave_Speleothem_Stalagmite_A_Single_E"
+  },
+  {
+    "name": "NAT_Crystal_Shard_Broken_Big_C_White_B",
+    "relative_path": "Nature/Crystal/NAT_Crystal_Shard_Big_ABC/Resources/NAT_Crystal_Shard_Broken_Big_C.dae",
+    "size": [
+      1.2035599946975708,
+      4.9617050886154175,
+      1.3293249607086182
+    ],
+    "center_offset": [
+      0.0247420072555542,
+      1.0052044987678528,
+      -0.041073501110076904
+    ],
+    "uuid": "fe6a4b3a-7f08-429d-899e-d053a6c78b87",
+    "parent": "NAT_Crystal_Shard_Broken_Big_C"
+  },
+  {
+    "name": "NAT_Rock_Boulder_B_Brown_Needles",
+    "relative_path": "Nature/Rocks/NAT_Rock_Boulder_ABC/Resources/NAT_Rock_Boulder_B.dae",
+    "size": [
+      2.9408669471740723,
+      2.652454972267151,
+      2.763917922973633
+    ],
+    "center_offset": [
+      0.0011534690856933594,
+      -0.00015348196029663086,
+      0.0
+    ],
+    "uuid": "fec92e85-c606-4fec-98b0-0cb815cb278f",
+    "parent": "NAT_Rock_Boulder_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Dirt_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "ff163752-65c8-4f7d-9610-ebd7320c7c14",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_A.dae",
+    "size": [
+      6.5244059562683105,
+      2.2064329385757446,
+      6.495532035827637
+    ],
+    "center_offset": [
+      -0.0014219284057617188,
+      0.8330544829368591,
+      0.007412910461425781
+    ],
+    "uuid": "017a426c-4569-4efc-9795-904162e0f4b8",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Roof_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Roof/Resources/NAT_Coastal_Cliff_Sandstone_Roof_A.dae",
+    "size": [
+      23.74958896636963,
+      8.433596134185791,
+      6.940484046936035
+    ],
+    "center_offset": [
+      0.16695070266723633,
+      -1.3630120754241943,
+      0.1816239356994629
+    ],
+    "uuid": "032622ca-c40a-4ec4-933f-3b3131fca03f",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Roof_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Convex_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C_Convex.dae",
+    "size": [
+      8.549675941467285,
+      6.092414014856331,
+      6.912055015563965
+    ],
+    "center_offset": [
+      0.18227815628051758,
+      3.046009007433895,
+      1.3304615020751953
+    ],
+    "uuid": "07b33806-d910-44b4-9fdd-219ab06a3d37",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C_Convex"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_A.dae",
+    "size": [
+      10.561784267425537,
+      5.160866796970367,
+      3.9050281047821045
+    ],
+    "center_offset": [
+      0.003432035446166992,
+      2.5126414000988007,
+      -0.1354140043258667
+    ],
+    "uuid": "0b869a39-cb3c-4320-9c2d-a1482e1dcb48",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_H_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_H.dae",
+    "size": [
+      24.161890029907227,
+      17.47568044066429,
+      10.121550381183624
+    ],
+    "center_offset": [
+      -0.4132976531982422,
+      8.654093220829964,
+      -4.689011186361313
+    ],
+    "uuid": "0d36b2aa-8124-42dc-a396-70de3a8cbe2a",
+    "parent": "NAT_Coastal_Cliff_Sandstone_H"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_B_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_B.dae",
+    "size": [
+      2.7826520204544067,
+      1.9819989800453186,
+      2.409883975982666
+    ],
+    "center_offset": [
+      0.0018519759178161621,
+      0.012433499097824097,
+      0.0
+    ],
+    "uuid": "18683563-8cf2-4932-8e5b-2b0542ff004a",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Roof_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Roof/Resources/NAT_Coastal_Cliff_Sandstone_Roof_C.dae",
+    "size": [
+      23.74958896636963,
+      11.805603981018066,
+      6.949562072753906
+    ],
+    "center_offset": [
+      0.16695070266723633,
+      -0.6572771072387695,
+      0.17708492279052734
+    ],
+    "uuid": "1ab1b253-d1c1-4e96-babc-779563eb707e",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Roof_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_360_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_A.dae",
+    "size": [
+      11.77711009979248,
+      8.390514373779297,
+      10.432995796203613
+    ],
+    "center_offset": [
+      0.01087808609008789,
+      0.0,
+      -0.012557029724121094
+    ],
+    "uuid": "1e4c1047-2039-44a8-a66f-51a97b7f8809",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_C_Stump_Cursed",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_C.dae",
+    "size": [
+      8.482859134674072,
+      11.492111041210592,
+      14.26577615737915
+    ],
+    "center_offset": [
+      0.28090357780456543,
+      5.744494520593435,
+      -3.957029104232788
+    ],
+    "uuid": "1ff23bcc-093f-4316-88f8-2ae5a9090143",
+    "parent": "NAT_Tree_Gnarly_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Concave_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C_Concave.dae",
+    "size": [
+      10.495474338531494,
+      6.092414014856331,
+      6.1219481490552425
+    ],
+    "center_offset": [
+      0.49421000480651855,
+      3.046009007433895,
+      3.075407074764371
+    ],
+    "uuid": "22bfd1a6-302b-4ff3-927f-085f4a7232cc",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C_Concave"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Bhaal_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "22caeb0b-b87e-47e6-b9bc-efd9bc2f05f0",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_E_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_E.dae",
+    "size": [
+      7.244718074798584,
+      17.19426078349352,
+      6.823958873748779
+    ],
+    "center_offset": [
+      0.12926006317138672,
+      8.491683389991522,
+      0.4156215190887451
+    ],
+    "uuid": "27a667f2-ce37-4b69-8504-d03339adb6e2",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_E"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_F_Corner_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_F_Corner.dae",
+    "size": [
+      9.145031929016113,
+      7.9193800538778305,
+      8.382276058197021
+    ],
+    "center_offset": [
+      -1.4868998527526855,
+      3.746213026344776,
+      1.7541821002960205
+    ],
+    "uuid": "28a644eb-4cc0-4268-af8f-36a168c90663",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_F_Corner"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Medium_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Medium_ABC/Resources/NAT_Coastal_Rock_Sandstone_Medium_A.dae",
+    "size": [
+      4.903540134429932,
+      2.05285906791687,
+      3.9280800819396973
+    ],
+    "center_offset": [
+      0.0,
+      1.026429533958435,
+      0.0
+    ],
+    "uuid": "28e61332-8d50-40dc-9217-21edc9425142",
+    "parent": "NAT_Coastal_Rock_Sandstone_Medium_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C.dae",
+    "size": [
+      12.672740936279297,
+      6.092414014856331,
+      4.503531005233526
+    ],
+    "center_offset": [
+      -0.34076547622680664,
+      3.046009007433895,
+      -2.1957805026322603
+    ],
+    "uuid": "2a1307f4-2fe2-4a69-b7a1-c16899ade333",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Pillars_Big_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Pillars/Resources/NAT_Coastal_Cliff_Sandstone_Pillars_Big_A.dae",
+    "size": [
+      21.041686058044434,
+      27.188844695687294,
+      23.175314903259277
+    ],
+    "center_offset": [
+      0.46772336959838867,
+      13.468104355037212,
+      -0.9554381370544434
+    ],
+    "uuid": "3283e928-6ad6-4d6c-a6bc-6f43d93647de",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Pillars_Big_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_A_Stump_Cursed",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_A.dae",
+    "size": [
+      5.435334920883179,
+      10.12042632419616,
+      9.59950590133667
+    ],
+    "center_offset": [
+      -0.6578184366226196,
+      5.05666916212067,
+      0.241102933883667
+    ],
+    "uuid": "35d2ce42-5581-447e-a5ee-f4b4fa70f831",
+    "parent": "NAT_Tree_Gnarly_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_F_Convex_Big_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_F_Convex_Big.dae",
+    "size": [
+      10.537828922271729,
+      7.926289916038513,
+      6.6751439571380615
+    ],
+    "center_offset": [
+      0.6937124729156494,
+      3.7446239590644836,
+      0.18601500988006592
+    ],
+    "uuid": "36893ddd-63eb-44a3-b6b1-ab43795ed046",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_F_Convex_Big"
+  },
+  {
+    "name": "NAT_Cliff_Granite_A_Bhaal_Walkable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_A.dae",
+    "size": [
+      9.421871662139893,
+      5.634670972824097,
+      2.3374810218811035
+    ],
+    "center_offset": [
+      -0.02607893943786621,
+      0.7713783979415894,
+      0.009848475456237793
+    ],
+    "uuid": "39216e12-ad9a-41b7-a926-0c2e86e8ee5b",
+    "parent": "NAT_Cliff_Granite_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_B.dae",
+    "size": [
+      8.168680667877197,
+      6.823012098670006,
+      3.077319025993347
+    ],
+    "center_offset": [
+      -0.06809449195861816,
+      3.171856053173542,
+      -0.022215545177459717
+    ],
+    "uuid": "3928039c-b813-46af-b606-fab815d43928",
+    "parent": "NAT_Coastal_Cliff_Sandstone_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Spire_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Spire_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Spire_B.dae",
+    "size": [
+      10.688186645507812,
+      15.03841801546514,
+      16.400864601135254
+    ],
+    "center_offset": [
+      0.2704615592956543,
+      7.497445006854832,
+      -1.2499375343322754
+    ],
+    "uuid": "3a21b314-e6ae-4144-ac84-f7534773643e",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Spire_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Edge_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Edge_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Edge_B.dae",
+    "size": [
+      10.722337245941162,
+      5.693736866116524,
+      5.382935047149658
+    ],
+    "center_offset": [
+      -0.5637805461883545,
+      2.636459432542324,
+      0.22836852073669434
+    ],
+    "uuid": "3e830757-e1d8-459d-89e8-6735f9c86ee1",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Edge_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_G_Convex_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_G_Convex.dae",
+    "size": [
+      23.472705841064453,
+      18.269237753003836,
+      13.074869628995657
+    ],
+    "center_offset": [
+      -0.8539791107177734,
+      9.112565876916051,
+      -6.494769813492894
+    ],
+    "uuid": "4030a52b-78a4-46c8-8147-bf1d9a68cd6f",
+    "parent": "NAT_Coastal_Cliff_Sandstone_G_Convex"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_B_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_B.dae",
+    "size": [
+      9.070377349853516,
+      5.2604697942733765,
+      9.658897161483765
+    ],
+    "center_offset": [
+      -0.4088125228881836,
+      2.367936909198761,
+      -0.8598614931106567
+    ],
+    "uuid": "42b067c2-bccb-4a85-a926-6ed8b3a24298",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Spire_E_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Spire_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Spire_E.dae",
+    "size": [
+      6.466739892959595,
+      7.209478214383125,
+      3.6015119552612305
+    ],
+    "center_offset": [
+      0.4969879388809204,
+      3.4451061114668846,
+      0.02413201332092285
+    ],
+    "uuid": "437948d6-0f7e-4d78-a44c-a7fefb5e2bf9",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Spire_E"
+  },
+  {
+    "name": "NAT_Cliff_Granite_C_Bhaal_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_C.dae",
+    "size": [
+      9.183800220489502,
+      6.509422302246094,
+      2.6851330399513245
+    ],
+    "center_offset": [
+      0.5036098957061768,
+      0.9580750465393066,
+      0.3946305215358734
+    ],
+    "uuid": "46a95419-bdaf-468e-926f-49521fdbf423",
+    "parent": "NAT_Cliff_Granite_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_A.dae",
+    "size": [
+      5.491281986236572,
+      7.499345779418945,
+      2.860664963722229
+    ],
+    "center_offset": [
+      0.38550400733947754,
+      3.0212059020996094,
+      -0.03220850229263306
+    ],
+    "uuid": "49a76d9b-e47c-4524-b5ac-5e9f7da07439",
+    "parent": "NAT_Coastal_Cliff_Sandstone_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_B_Stump_Cursed",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_B.dae",
+    "size": [
+      13.960014343261719,
+      14.014913721795892,
+      14.599757194519043
+    ],
+    "center_offset": [
+      1.2358379364013672,
+      7.006979860903812,
+      -0.6144776344299316
+    ],
+    "uuid": "4b41501b-7023-4b35-ae2e-06b48b6727f3",
+    "parent": "NAT_Tree_Gnarly_Big_B"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_A_Cursed_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_A.dae",
+    "size": [
+      18.33486270904541,
+      18.542277455329895,
+      18.39887809753418
+    ],
+    "center_offset": [
+      0.3063063621520996,
+      7.7331947684288025,
+      2.000016212463379
+    ],
+    "uuid": "4e5764ee-317f-40a7-9894-49f733908b5b",
+    "parent": "NAT_Tree_Gnarly_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_A.dae",
+    "size": [
+      7.520033121109009,
+      17.194338783621788,
+      7.889665126800537
+    ],
+    "center_offset": [
+      -0.008397459983825684,
+      8.491644389927387,
+      -0.11723160743713379
+    ],
+    "uuid": "561b8139-91b3-4a38-a46d-9017727d25f7",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Spire_D_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Spire_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Spire_D.dae",
+    "size": [
+      8.140316724777222,
+      9.486846628598869,
+      6.345343112945557
+    ],
+    "center_offset": [
+      0.5853554010391235,
+      4.72926631430164,
+      0.1854414939880371
+    ],
+    "uuid": "59fb32d5-ae90-43cd-94b5-e430de5fadc1",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Spire_D"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bridge_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Bridge/Resources/NAT_Coastal_Cliff_Sandstone_Bridge_B.dae",
+    "size": [
+      24.768561363220215,
+      11.687073864042759,
+      10.276902675628662
+    ],
+    "center_offset": [
+      -0.24892950057983398,
+      5.777430932968855,
+      -0.14970946311950684
+    ],
+    "uuid": "5d7b34fc-3c31-43d6-a9e4-d932a2f79d0c",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bridge_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Flat_C_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Flat_ABC/Resources/NAT_Coastal_Rock_Sandstone_Flat_C.dae",
+    "size": [
+      14.140809059143066,
+      5.2913970947265625,
+      10.342947006225586
+    ],
+    "center_offset": [
+      0.01523733139038086,
+      0.020188570022583008,
+      -0.020181655883789062
+    ],
+    "uuid": "6194d214-6fa3-4e25-8d57-42d078913ba3",
+    "parent": "NAT_Coastal_Rock_Sandstone_Flat_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Convex_Big_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C_Convex_Big.dae",
+    "size": [
+      10.863761901855469,
+      6.092415922204964,
+      7.778982877731323
+    ],
+    "center_offset": [
+      0.383573055267334,
+      3.0460099611082114,
+      1.6021963357925415
+    ],
+    "uuid": "66296f0b-439a-49ad-b425-d848ffb8a62e",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C_Convex_Big"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_G_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_G.dae",
+    "size": [
+      6.817989110946655,
+      17.836919285357,
+      7.111094951629639
+    ],
+    "center_offset": [
+      0.4089244604110718,
+      8.932242643088102,
+      0.7491304874420166
+    ],
+    "uuid": "6c657119-fc0b-4066-b556-b613b7be726c",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_G"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_B_Bhaal_A_Black_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_B.dae",
+    "size": [
+      8.168680667877197,
+      6.823012098670006,
+      3.077319025993347
+    ],
+    "center_offset": [
+      -0.06809449195861816,
+      3.171856053173542,
+      -0.022215545177459717
+    ],
+    "uuid": "6f5d8d6d-964a-4e3d-9f91-655f22f9c2c9",
+    "parent": "NAT_Coastal_Cliff_Sandstone_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_C_Corner_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_C_Corner.dae",
+    "size": [
+      9.449347019195557,
+      5.947294116180274,
+      7.528322994709015
+    ],
+    "center_offset": [
+      -0.9487025737762451,
+      2.973454058090283,
+      2.9877634942531586
+    ],
+    "uuid": "719cdcfd-002c-4181-af3a-d2133d5a0134",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_C_Corner"
+  },
+  {
+    "name": "NAT_Cliff_Granite_B_Bhaal_Climbable",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Granite_ABC/Resources/NAT_Cliff_Granite_B.dae",
+    "size": [
+      5.905050992965698,
+      6.261415004730225,
+      2.530900001525879
+    ],
+    "center_offset": [
+      0.06107652187347412,
+      0.004435539245605469,
+      0.08510398864746094
+    ],
+    "uuid": "73663aab-4dff-4c83-b79a-5b4273e3afe1",
+    "parent": "NAT_Cliff_Granite_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_D_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_D.dae",
+    "size": [
+      13.865679264068604,
+      6.313932822929928,
+      14.141200065612793
+    ],
+    "center_offset": [
+      0.0021355152130126953,
+      3.1567724114720477,
+      0.4788498878479004
+    ],
+    "uuid": "73a544d5-fd1d-43ab-8224-70f038df7228",
+    "parent": "NAT_Coastal_Cliff_Sandstone_D"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_F_Convex_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_F_Convex.dae",
+    "size": [
+      8.392468929290771,
+      7.919464975595474,
+      7.450362920761108
+    ],
+    "center_offset": [
+      0.6990854740142822,
+      3.746254488825798,
+      0.12503445148468018
+    ],
+    "uuid": "7c0b78c3-3722-4565-b1ec-8377962b810c",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_F_Convex"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_C.dae",
+    "size": [
+      12.38213300704956,
+      6.080673098724219,
+      4.561895236372948
+    ],
+    "center_offset": [
+      -0.338275671005249,
+      3.0401435493622557,
+      -2.060656614601612
+    ],
+    "uuid": "6503c830-9200-409a-bd26-895738587a4a",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_C"
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_F_Limestone_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_F.dae",
+    "size": [
+      70.65815353393555,
+      47.52885453402996,
+      77.99562072753906
+    ],
+    "center_offset": [
+      0.5362453460693359,
+      23.714687265455723,
+      -3.5970993041992188
+    ],
+    "uuid": "81a932fa-d011-4ddf-a6ac-7c45849ee753",
+    "parent": "NAT_Mountain_Granite_Vista_F"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bridge_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Bridge/Resources/NAT_Coastal_Cliff_Sandstone_Bridge_C.dae",
+    "size": [
+      43.0748176574707,
+      12.016921386122704,
+      11.756879806518555
+    ],
+    "center_offset": [
+      -7.595949172973633,
+      5.935536690056324,
+      -0.03664398193359375
+    ],
+    "uuid": "8bebe204-af8c-4aa1-a197-f573f5229a84",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bridge_C"
+  },
+  {
+    "name": "NAT_Cliff_Sandstone_Ridge_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sandstone_Ridge_ABC/Resources/NAT_Cliff_Sandstone_Ridge_C.dae",
+    "size": [
+      7.376237869262695,
+      2.0505990982055664,
+      4.323780059814453
+    ],
+    "center_offset": [
+      0.0,
+      1.0252995491027832,
+      0.0
+    ],
+    "uuid": "8d373618-9fe9-4cc7-b822-0a30fead7811",
+    "parent": "NAT_Cliff_Sandstone_Ridge_C"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_C_Corner_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_C_Corner.dae",
+    "size": [
+      9.217576026916504,
+      6.092414014856331,
+      7.2891059666872025
+    ],
+    "center_offset": [
+      -1.2030229568481445,
+      3.046009007433895,
+      3.4011079892516136
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Coastal_Cliff_Sandstone_C_Corner"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_F_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_F.dae",
+    "size": [
+      12.87069320678711,
+      7.9190501272678375,
+      3.8904550969600677
+    ],
+    "center_offset": [
+      -0.011252403259277344,
+      3.7460470646619797,
+      -1.5179675370454788
+    ],
+    "uuid": "93d40137-bfda-45a1-9006-67fda40b8bca",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_F"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_H_Convex_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_H_Convex.dae",
+    "size": [
+      23.372187614440918,
+      17.364148154854774,
+      12.65250301361084
+    ],
+    "center_offset": [
+      -0.09902715682983398,
+      8.53451108187437,
+      2.278632640838623
+    ],
+    "uuid": "9d17a0db-26a4-4b19-94f9-318a36aef3ae",
+    "parent": "NAT_Coastal_Cliff_Sandstone_H_Convex"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_C_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_C.dae",
+    "size": [
+      6.944115877151489,
+      1.557413011789322,
+      7.189960956573486
+    ],
+    "center_offset": [
+      -0.4324389696121216,
+      0.5967385023832321,
+      0.10486340522766113
+    ],
+    "uuid": "9ec79af4-1b80-429e-a1ef-d999b3923c2c",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_C"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_D_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_D.dae",
+    "size": [
+      2.5298540592193604,
+      1.8030949831008911,
+      2.2461270093917847
+    ],
+    "center_offset": [
+      0.004307985305786133,
+      -0.0023865103721618652,
+      -0.003155529499053955
+    ],
+    "uuid": "a5978b13-b26d-4a80-9ed7-e74438f330f8",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_D"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_F_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_F.dae",
+    "size": [
+      9.14574909210205,
+      17.836919285357,
+      8.71101188659668
+    ],
+    "center_offset": [
+      0.39594554901123047,
+      8.932242643088102,
+      0.4079289436340332
+    ],
+    "uuid": "a63873c2-47f5-47eb-a357-639b4fceabe5",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_F"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_B_Cursed_A",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_B.dae",
+    "size": [
+      13.960014343261719,
+      14.014913721795892,
+      14.599757194519043
+    ],
+    "center_offset": [
+      1.2358379364013672,
+      7.006979860903812,
+      -0.6144776344299316
+    ],
+    "uuid": "a894f48a-197b-41ae-9e2c-c4e6798c50b8",
+    "parent": "NAT_Tree_Gnarly_Big_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bended_C_Convex_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Bended_C_Convex.dae",
+    "size": [
+      8.34615707397461,
+      5.947386145751807,
+      6.541859865188599
+    ],
+    "center_offset": [
+      0.17793846130371094,
+      2.9735000728760497,
+      1.1959608793258667
+    ],
+    "uuid": "a90cb9f5-d95a-49be-8ec4-82e3c4e29ac8",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bended_C_Convex"
+  },
+  {
+    "name": "NAT_Tree_Willow_B_Top_CC",
+    "relative_path": "Nature/Trees/NAT_Tree_Willow_ABC/Resources/NAT_Tree_Willow_B.dae",
+    "size": [
+      24.468326568603516,
+      26.015983670949936,
+      21.568429946899414
+    ],
+    "center_offset": [
+      0.02871227264404297,
+      12.516265824437141,
+      1.154144287109375
+    ],
+    "uuid": "aa14ae2b-43fd-4ff2-91de-7b31ac0e7db2",
+    "parent": "NAT_Tree_Willow_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Platform_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Platform_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Platform_B.dae",
+    "size": [
+      15.405008792877197,
+      8.38741159439087,
+      13.237980842590332
+    ],
+    "center_offset": [
+      1.0541036128997803,
+      3.8391377925872803,
+      -0.10436534881591797
+    ],
+    "uuid": "ab069b9f-f6ea-43b5-9026-3a6d00e451e4",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Platform_B"
+  },
+  {
+    "name": "NAT_Mountain_Granite_Vista_D_Limestone_A",
+    "relative_path": "Nature/Mountains/NAT_Mountain_Granite_Vista_ABC/Resources/NAT_Mountain_Granite_Vista_D.dae",
+    "size": [
+      124.9389877319336,
+      45.74144661426544,
+      120.04008102416992
+    ],
+    "center_offset": [
+      0.030506134033203125,
+      24.85322231054306,
+      2.1929187774658203
+    ],
+    "uuid": "ab91eacb-bacc-4cc6-8365-e414ad2f478f",
+    "parent": "NAT_Mountain_Granite_Vista_D"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Platform_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Platform_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Platform_A.dae",
+    "size": [
+      13.865679264068604,
+      6.243710921989987,
+      14.141200065612793
+    ],
+    "center_offset": [
+      0.0021355152130126953,
+      3.121661461002077,
+      0.4788498878479004
+    ],
+    "uuid": "b348aebe-f41c-4335-a3af-e4f34fc97679",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Platform_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Flat_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Flat_ABC/Resources/NAT_Coastal_Rock_Sandstone_Flat_A.dae",
+    "size": [
+      10.724699020385742,
+      15.853475093841553,
+      5.965173006057739
+    ],
+    "center_offset": [
+      0.8322415351867676,
+      0.8412096500396729,
+      -2.4634674787521362
+    ],
+    "uuid": "bd340899-a27e-4477-a105-0abf2fc798d7",
+    "parent": "NAT_Coastal_Rock_Sandstone_Flat_A"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_B_Stump_Cursed",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_B.dae",
+    "size": [
+      8.971158027648926,
+      9.815077738428954,
+      7.483046770095825
+    ],
+    "center_offset": [
+      0.9570341110229492,
+      4.906839869188843,
+      -0.4541233777999878
+    ],
+    "uuid": "c35779cf-f260-4774-8a08-cb7566520cb4",
+    "parent": "NAT_Tree_Gnarly_B"
+  },
+  {
+    "name": "NAT_Cliff_Sandstone_Ridge_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sandstone_Ridge_ABC/Resources/NAT_Cliff_Sandstone_Ridge_B.dae",
+    "size": [
+      9.464198112487793,
+      2.1240260595222935,
+      3.2040719985961914
+    ],
+    "center_offset": [
+      0.0,
+      1.0612050297786482,
+      0.0
+    ],
+    "uuid": "c37142da-5682-4aa8-b9ce-15250a375ff6",
+    "parent": "NAT_Cliff_Sandstone_Ridge_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_F_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_F.dae",
+    "size": [
+      13.186630725860596,
+      8.112283170223236,
+      4.5433608293533325
+    ],
+    "center_offset": [
+      -0.01058650016784668,
+      3.8374545872211456,
+      -2.1395034193992615
+    ],
+    "uuid": "c9ca894f-0ec0-4f0e-a547-60a3861b0211",
+    "parent": "NAT_Coastal_Cliff_Sandstone_F"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_G_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_G.dae",
+    "size": [
+      24.174680709838867,
+      18.37015526369214,
+      10.818790599703789
+    ],
+    "center_offset": [
+      0.39882850646972656,
+      9.145347630605102,
+      -5.233605302870274
+    ],
+    "uuid": "ce85ff42-0221-4772-a07d-c74e1dd089dd",
+    "parent": "NAT_Coastal_Cliff_Sandstone_G"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Granite_Big_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Granite_Big_ABC/Resources/NAT_Coastal_Rock_Granite_Big_A.dae",
+    "size": [
+      7.870829820632935,
+      2.8358489125967026,
+      9.61840295791626
+    ],
+    "center_offset": [
+      -0.17642199993133545,
+      1.2754444554448128,
+      -0.026711702346801758
+    ],
+    "uuid": "d41aaa73-0241-4c6a-bae6-461a1a1ad010",
+    "parent": "NAT_Coastal_Rock_Granite_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Roof_B_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Roof/Resources/NAT_Coastal_Cliff_Sandstone_Roof_B.dae",
+    "size": [
+      23.749439239501953,
+      9.486544132232666,
+      6.940769910812378
+    ],
+    "center_offset": [
+      0.16687583923339844,
+      -0.28795504570007324,
+      0.1814800500869751
+    ],
+    "uuid": "d58d073e-f88a-4ae5-8d41-ec74385f7023",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Roof_B"
+  },
+  {
+    "name": "NAT_Tree_Gnarly_Big_A_Stump_Cursed",
+    "relative_path": "Nature/Trees/NAT_Tree_Gnarly_ABC/Resources/NAT_Tree_Gnarly_Big_A.dae",
+    "size": [
+      18.33486270904541,
+      18.542277455329895,
+      18.39887809753418
+    ],
+    "center_offset": [
+      0.3063063621520996,
+      7.7331947684288025,
+      2.000016212463379
+    ],
+    "uuid": "ddfcfc80-2eca-4231-98b3-38bb94252e92",
+    "parent": "NAT_Tree_Gnarly_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_E_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_E.dae",
+    "size": [
+      3.3928020000457764,
+      3.024170994758606,
+      2.4148221015930176
+    ],
+    "center_offset": [
+      0.0,
+      -0.00944751501083374,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_E"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Base_Spots",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.66936492919922,
+      28.042785674333572,
+      28.45486831665039
+    ],
+    "center_offset": [
+      1.166250228881836,
+      13.720090851187706,
+      -0.48241138458251953
+    ],
+    "uuid": "e6b6733a-d2f2-4aa9-aed2-04ffd099e454",
+    "parent": "NAT_Cliff_Limestone_Layered_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Bridge_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Bridge/Resources/NAT_Coastal_Cliff_Sandstone_Bridge_A.dae",
+    "size": [
+      25.976758003234863,
+      12.677482947707176,
+      11.756879806518555
+    ],
+    "center_offset": [
+      -0.9206652641296387,
+      6.26581747084856,
+      0.036643028259277344
+    ],
+    "uuid": "e7f2b303-dba6-40c3-974a-0c303bfcdbd4",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Bridge_A"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_Spire_C_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_Spire_ABC/Resources/NAT_Coastal_Cliff_Sandstone_Spire_C.dae",
+    "size": [
+      11.504411220550537,
+      16.22042653034441,
+      11.591361045837402
+    ],
+    "center_offset": [
+      0.005625486373901367,
+      8.108752265223302,
+      -0.016060352325439453
+    ],
+    "uuid": "ef32feb6-369e-4059-b12a-287d11dba6bc",
+    "parent": "NAT_Coastal_Cliff_Sandstone_Spire_C"
+  },
+  {
+    "name": "NAT_Cliff_Sandstone_Ridge_A_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Sandstone_Ridge_ABC/Resources/NAT_Cliff_Sandstone_Ridge_A.dae",
+    "size": [
+      8.7881498336792,
+      2.1467299188952893,
+      3.949805974960327
+    ],
+    "center_offset": [
+      0.0,
+      1.069587959558703,
+      0.0
+    ],
+    "uuid": "f0675198-5e40-4db3-a66a-82ff1683fb33",
+    "parent": "NAT_Cliff_Sandstone_Ridge_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_360_C_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_360_C.dae",
+    "size": [
+      2.662348985671997,
+      1.962374985218048,
+      1.9731820225715637
+    ],
+    "center_offset": [
+      0.012876510620117188,
+      0.005479484796524048,
+      0.0004070103168487549
+    ],
+    "uuid": "f2a94a43-244f-4998-b404-77b9f48d8267",
+    "parent": "NAT_Coastal_Rock_Sandstone_360_C"
+  },
+  {
+    "name": "NAT_Cliff_Limestone_Layered_B_Top_Spots",
+    "relative_path": "Nature/Cliffs/NAT_Cliff_Limestone_Layered_ABC/Resources/NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.66936492919922,
+      28.042785674333572,
+      28.45486831665039
+    ],
+    "center_offset": [
+      1.166250228881836,
+      13.720090851187706,
+      -0.48241138458251953
+    ],
+    "uuid": "f30b35ed-c414-4567-a94c-91d9b3306d95",
+    "parent": "NAT_Cliff_Limestone_Layered_B"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pile_Big_A_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pile_Big_ABC/Resources/NAT_Coastal_Rock_Sandstone_Pile_Big_A.dae",
+    "size": [
+      9.981034755706787,
+      4.142148077487946,
+      10.750999927520752
+    ],
+    "center_offset": [
+      0.46687960624694824,
+      1.8264560401439667,
+      -0.5056979656219482
+    ],
+    "uuid": "f4eef3b1-2039-4400-9b3d-37e11e0697a2",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pile_Big_A"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_H_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_H.dae",
+    "size": [
+      9.115589141845703,
+      17.836919285357,
+      8.30140209197998
+    ],
+    "center_offset": [
+      0.38101863861083984,
+      8.932242643088102,
+      0.20526409149169922
+    ],
+    "uuid": "f76f891d-a8d5-4875-8275-46994b872c63",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_H"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Pillar_B_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Pillar/Resources/NAT_Coastal_Rock_Sandstone_Pillar_B.dae",
+    "size": [
+      5.359877824783325,
+      17.33795840293169,
+      5.573597192764282
+    ],
+    "center_offset": [
+      -0.0061370134353637695,
+      8.57271620258689,
+      -0.05884349346160889
+    ],
+    "uuid": "f849fc23-437f-42a7-a963-f54204e29aff",
+    "parent": "NAT_Coastal_Rock_Sandstone_Pillar_B"
+  },
+  {
+    "name": "NAT_Coastal_Cliff_Sandstone_F_Corner_Bhaal_A",
+    "relative_path": "Nature/Cliffs/NAT_Coastal_Cliff_Sandstone_ABC/Resources/NAT_Coastal_Cliff_Sandstone_F_Corner.dae",
+    "size": [
+      8.940548181533813,
+      8.159999772906303,
+      8.482091188430786
+    ],
+    "center_offset": [
+      -1.8844131231307983,
+      3.860036887228489,
+      2.240136504173279
+    ],
+    "uuid": "f97a39b5-78f2-4d49-a6de-d956f99f0cf1",
+    "parent": "NAT_Coastal_Cliff_Sandstone_F_Corner"
+  },
+  {
+    "name": "NAT_Coastal_Rock_Sandstone_Flat_B_Bhaal_A",
+    "relative_path": "Nature/Rocks/NAT_Coastal_Rock_Sandstone_Flat_ABC/Resources/NAT_Coastal_Rock_Sandstone_Flat_B.dae",
+    "size": [
+      10.06141996383667,
+      5.070744872093201,
+      14.672430038452148
+    ],
+    "center_offset": [
+      0.26325011253356934,
+      2.026224434375763,
+      0.2506852149963379
+    ],
+    "uuid": "fd3d110d-2cd6-4bf3-a1d8-39e8a4d7fa95",
+    "parent": "NAT_Coastal_Rock_Sandstone_Flat_B"
   }
 ]

@@ -38610,5 +38610,4613 @@
       -0.033041492104530334
     ],
     "uuid": "1b3f678f-9040-413a-bba3-264b60d62a6c"
+  },
+  {
+    "name": "Elder_Brain_Crowned_Highres",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Elder_Brain_Membrane_ABC/Resources/Elder_Brain.dae",
+    "size": [
+      13.997282981872559,
+      18.58889627456665,
+      21.28497886657715
+    ],
+    "center_offset": [
+      -0.8768696784973145,
+      7.933787107467651,
+      3.6971216201782227
+    ],
+    "uuid": "28e25c38-ed31-41a2-b084-8f15560e7a36",
+    "parent": "Elder_Brain"
+  },
+  {
+    "name": "Elder_Brain_Tentacles_Cinematic",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Elder_Brain_Membrane_ABC/Resources/Elder_Brain.dae",
+    "size": [
+      13.997282981872559,
+      18.58889627456665,
+      21.28497886657715
+    ],
+    "center_offset": [
+      -0.8768696784973145,
+      7.933787107467651,
+      3.6971216201782227
+    ],
+    "uuid": "d845b99c-9da2-434a-83cf-7c193ba59bb3",
+    "parent": "Elder_Brain"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_F_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_F.dae",
+    "size": [
+      0.6742149889469147,
+      1.172025960026076,
+      0.11888199672102928
+    ],
+    "center_offset": [
+      -4.917383193969727e-07,
+      0.5856569800089346,
+      -0.01615999825298786
+    ],
+    "uuid": "0313230b-b9ae-4a32-888d-9872b8d2af9c",
+    "parent": "DEC_CEM_Tombstone_F"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_D_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_D.dae",
+    "size": [
+      0.6859719753265381,
+      1.092782974243164,
+      0.10495399683713913
+    ],
+    "center_offset": [
+      0.0,
+      0.546391487121582,
+      0.0
+    ],
+    "uuid": "464b3b5a-e210-4666-983f-8a9e7b3af796",
+    "parent": "DEC_CEM_Tombstone_D"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_A_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_A.dae",
+    "size": [
+      0.8502320051193237,
+      1.2107699702064565,
+      0.1372229978442192
+    ],
+    "center_offset": [
+      0.0003190040588378906,
+      0.6053549851039861,
+      0.005550500005483627
+    ],
+    "uuid": "4f2a835a-5549-4207-a497-6ea1a9055cb5",
+    "parent": "DEC_CEM_Tombstone_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Wolf_A_Moss_Destruct",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Wolf_A.dae",
+    "size": [
+      0.9775810241699219,
+      3.105669012758881,
+      1.4256919622421265
+    ],
+    "center_offset": [
+      0.00011649727821350098,
+      1.5476315065752715,
+      0.03426700830459595
+    ],
+    "uuid": "68fcfad1-d5c2-4b81-bfad-5e1ee3998502",
+    "parent": "DEC_Druids_Statue_Wolf_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Bear_A_Moss_Destruct",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Bear_A.dae",
+    "size": [
+      1.290132999420166,
+      3.8816859861835837,
+      1.3117219805717468
+    ],
+    "center_offset": [
+      7.2479248046875e-05,
+      1.9285989929921925,
+      -0.024989992380142212
+    ],
+    "uuid": "6b562733-50fc-435e-84ca-6af822282687",
+    "parent": "DEC_Druids_Statue_Bear_A"
+  },
+  {
+    "name": "DEC_Bhaal_Statue_Grim_Reaper_A_Static_converted",
+    "relative_path": "Decoration/Bhaal/DEC_Bhaal_Statue_Grim_Reaper_ABC/Resources/DEC_Bhaal_Statue_Grim_Reaper_A.dae",
+    "size": [
+      2.4535480737686157,
+      4.186365127563477,
+      1.2929160594940186
+    ],
+    "center_offset": [
+      0.0003979802131652832,
+      2.0931825637817383,
+      0.0
+    ],
+    "uuid": "9d6c45ed-4948-dae2-e172-19981a446ad6",
+    "parent": "DEC_Bhaal_Statue_Grim_Reaper_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Eagle_A_Moss_Destruct",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Eagle_A.dae",
+    "size": [
+      1.1294679641723633,
+      3.306714021251537,
+      1.0670790076255798
+    ],
+    "center_offset": [
+      0.0,
+      1.6514690105686896,
+      -0.05208548903465271
+    ],
+    "uuid": "a25c90dd-a62a-4dbb-b483-c0210ac97157",
+    "parent": "DEC_Druids_Statue_Eagle_A"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_B_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_B.dae",
+    "size": [
+      0.6583659946918488,
+      1.1554279426345602,
+      0.14341000095009804
+    ],
+    "center_offset": [
+      0.0006629973649978638,
+      0.579195971309673,
+      0.027634000405669212
+    ],
+    "uuid": "afa7ea64-dc19-4b2c-81b7-5d5244b1355b",
+    "parent": "DEC_CEM_Tombstone_B"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_E_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_E.dae",
+    "size": [
+      0.8143100142478943,
+      1.5513859839411452,
+      0.20104000717401505
+    ],
+    "center_offset": [
+      0.0,
+      0.7756469919695519,
+      0.030806001275777817
+    ],
+    "uuid": "c26b3a95-e407-4c1b-8e33-9b9c16ccfdfd",
+    "parent": "DEC_CEM_Tombstone_E"
+  },
+  {
+    "name": "DEC_CEM_Tombstone_C_Dynamic_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tombstone_ABC/Resources/DEC_CEM_Tombstone_C.dae",
+    "size": [
+      0.7339400053024292,
+      1.3680460380273871,
+      0.1196799986064434
+    ],
+    "center_offset": [
+      0.0,
+      0.6845970190188382,
+      0.012071000412106514
+    ],
+    "uuid": "e01e8706-bac0-483a-9614-4ec78dfc4d80",
+    "parent": "DEC_CEM_Tombstone_C"
+  },
+  {
+    "name": "DEC_Druids_Statue_Elk_A_Moss_Destruct",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Elk_A.dae",
+    "size": [
+      1.3795320391654968,
+      4.729212905280292,
+      1.2139819860458374
+    ],
+    "center_offset": [
+      -5.990266799926758e-06,
+      2.359024452511221,
+      -0.06836700439453125
+    ],
+    "uuid": "e9675982-3aeb-480e-8c49-6ed02c2ce77c",
+    "parent": "DEC_Druids_Statue_Elk_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_BonePile_B_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_BonePile_B.dae",
+    "size": [
+      0.66075199842453,
+      0.20962399616837502,
+      0.6318790018558502
+    ],
+    "center_offset": [
+      -0.03682699799537659,
+      0.07039899937808514,
+      0.09572349488735199
+    ],
+    "uuid": "01ae9d80-e4d5-422c-a841-e663ca3dc832",
+    "parent": "DEC_Dungeon_Skeleton_BonePile_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Bust_Female_A_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Bust_ABC/Resources/DEC_GEN_Statue_Bust_Female_A.dae",
+    "size": [
+      0.27070699632167816,
+      0.4391009859391488,
+      0.2483619973063469
+    ],
+    "center_offset": [
+      1.0497868061065674e-05,
+      0.22019949296372943,
+      0.005274999886751175
+    ],
+    "uuid": "02f17205-410e-432d-b016-0e0a99c029af",
+    "parent": "DEC_GEN_Statue_Bust_Female_A"
+  },
+  {
+    "name": "DEC_CEM_Tomb_A_Lid_A_Statue_Woman_Broken_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tomb_ABC/Resources/DEC_CEM_Tomb_A_Lid_A.dae",
+    "size": [
+      1.3150699734687805,
+      0.3786530141514959,
+      3.05304491519928
+    ],
+    "center_offset": [
+      0.003742009401321411,
+      0.18945850707677891,
+      0.0034494996070861816
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "DEC_CEM_Tomb_A_Lid_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Bust_Male_A_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Bust_ABC/Resources/DEC_GEN_Statue_Bust_Male_A.dae",
+    "size": [
+      0.2843580096960068,
+      0.463865012396127,
+      0.3002859950065613
+    ],
+    "center_offset": [
+      7.899850606918335e-05,
+      0.2326395062264055,
+      3.7997961044311523e-05
+    ],
+    "uuid": "08a7422c-0127-4b06-907c-d8fbd6d92eed",
+    "parent": "DEC_GEN_Statue_Bust_Male_A"
+  },
+  {
+    "name": "UND_DEC_GEN_Statue_Selune_Flipped_A_Eyes_NoGlow",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Selune_Normal_ABC/Resources/UND_DEC_GEN_Statue_Selune_Flipped_A.dae",
+    "size": [
+      1.3545610010623932,
+      4.268330111168325,
+      0.8778609931468964
+    ],
+    "center_offset": [
+      0.236689493060112,
+      2.1496250559575856,
+      0.03422848880290985
+    ],
+    "uuid": "0c7d5be3-89cf-483f-b490-efc25bde9798",
+    "parent": "UND_DEC_GEN_Statue_Selune_Flipped_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_B_Dynamic",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A.dae",
+    "size": [
+      1.1060550212860107,
+      3.2621070817112923,
+      0.7683389782905579
+    ],
+    "center_offset": [
+      0.0038124918937683105,
+      1.608718540519476,
+      -0.04476550221443176
+    ],
+    "uuid": "0f1b29f3-9eef-4585-bc64-123d0dc94f9a",
+    "parent": "DEC_GEN_Statue_Ketheric_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_King_A_Moss_converted",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Guard_ABC/DEC_GEN_Statue_King_A.dae",
+    "size": [
+      0.9595079720020294,
+      2.927987097762525,
+      0.9021300077438354
+    ],
+    "center_offset": [
+      0.031182989478111267,
+      1.4505095486529171,
+      -0.04317900538444519
+    ],
+    "uuid": "12e41924-45f7-bd9a-6ff3-8658896ddda4",
+    "parent": "DEC_GEN_Statue_King_A"
+  },
+  {
+    "name": "DEC_GEN_Ooze_Corpse_A_Poison_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Ooze_Corpse_ABC/Resources/DEC_GEN_Ooze_Corpse_A.dae",
+    "size": [
+      0.3896760046482086,
+      0.40021199360489845,
+      0.4381360113620758
+    ],
+    "center_offset": [
+      0.0013310015201568604,
+      0.16237699799239635,
+      0.002911001443862915
+    ],
+    "uuid": "18c0ce54-c9ea-4869-81bb-6893824dcd2f",
+    "parent": "DEC_GEN_Ooze_Corpse_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_BonePile_C_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_BonePile_C.dae",
+    "size": [
+      0.6535019874572754,
+      0.2145100049674511,
+      0.7705340087413788
+    ],
+    "center_offset": [
+      -0.02893000841140747,
+      0.09464500285685062,
+      0.10591800510883331
+    ],
+    "uuid": "1bbd1f9c-9206-4ae5-a7aa-6c792b75bb92",
+    "parent": "DEC_Dungeon_Skeleton_BonePile_C"
+  },
+  {
+    "name": "DEC_Goblins_Camp_Cage_A_Door_Teleporter",
+    "relative_path": "Decoration/Goblins/DEC_Goblins_Camp_Cage_ABC/DEC_Goblins_Camp_Cage_A.dae",
+    "size": [
+      4.228878021240234,
+      3.2513580322265625,
+      4.142889976501465
+    ],
+    "center_offset": [
+      -0.005995988845825195,
+      1.421849012374878,
+      0.05371999740600586
+    ],
+    "uuid": "21e8b24d-21f9-4aa5-99af-511778534168",
+    "parent": "DEC_Goblins_Camp_Cage_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Shar_Normal_B_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Shar_Normal_ABC/Resources/DEC_GEN_Statue_Shar_Normal_B.dae",
+    "size": [
+      1.877290964126587,
+      3.1602530227974057,
+      1.1924720108509064
+    ],
+    "center_offset": [
+      -0.20607447624206543,
+      1.5706625110469759,
+      0.12499801814556122
+    ],
+    "uuid": "248f7205-c3c8-4ebd-ab32-21cf53189602",
+    "parent": "DEC_GEN_Statue_Shar_Normal_B"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_Ribcage_A_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_Ribcage_A.dae",
+    "size": [
+      0.2626280039548874,
+      0.23312299698591232,
+      0.42938098311424255
+    ],
+    "center_offset": [
+      0.001999996602535248,
+      0.10115249827504158,
+      0.04673449695110321
+    ],
+    "uuid": "254096e8-fb58-46e4-9d85-29a8f92f78e6",
+    "parent": "DEC_Dungeon_Skeleton_Ribcage_A"
+  },
+  {
+    "name": "DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_E_On_green",
+    "relative_path": "Decoration/Underdark/DEC_Underdark_WizardTower_Machinery_A/Resources/DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_E.dae",
+    "size": [
+      0.6102860271930695,
+      4.248664081096649,
+      1.0615989416837692
+    ],
+    "center_offset": [
+      -0.0016999989748001099,
+      1.8220390379428864,
+      -0.7354544773697853
+    ],
+    "uuid": "2edd5cf2-7e08-4662-b370-f0321053ce93",
+    "parent": "DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_E"
+  },
+  {
+    "name": "UND_DEC_GEN_Statue_Selune_Normal_A_Eyes_BlueGlow",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Selune_Normal_ABC/Resources/UND_DEC_GEN_Statue_Selune_Normal_A.dae",
+    "size": [
+      1.3545480072498322,
+      4.268331064842641,
+      0.919979989528656
+    ],
+    "center_offset": [
+      -0.23668299615383148,
+      2.1496255327947438,
+      0.01316899061203003
+    ],
+    "uuid": "3245bfb6-d1c0-437e-902a-873088bf2dd6",
+    "parent": "UND_DEC_GEN_Statue_Selune_Normal_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Gold_Trim_A_Dynamic",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A.dae",
+    "size": [
+      1.1060550212860107,
+      3.2621070817112923,
+      0.7683389782905579
+    ],
+    "center_offset": [
+      0.0038124918937683105,
+      1.608718540519476,
+      -0.04476550221443176
+    ],
+    "uuid": "35249a14-25e8-4667-a3d7-b8ef5ed674d3",
+    "parent": "DEC_GEN_Statue_Ketheric_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skull_Pile_Big_A_Dynamic_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skull_Pile_ABC/Resources/DEC_Dungeon_Skull_Pile_Big_A.dae",
+    "size": [
+      2.2765289545059204,
+      1.3010060116648674,
+      2.3509730100631714
+    ],
+    "center_offset": [
+      -0.005444467067718506,
+      0.58236900344491,
+      0.0026255249977111816
+    ],
+    "uuid": "4b38086e-2155-440c-adbc-410e0b98c8b0",
+    "parent": "DEC_Dungeon_Skull_Pile_Big_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_Skull_A_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_Skull_A.dae",
+    "size": [
+      0.14999200403690338,
+      0.18529500011936761,
+      0.2328070029616356
+    ],
+    "center_offset": [
+      0.0,
+      0.09248250005475711,
+      0.010430503636598587
+    ],
+    "uuid": "568d8985-9dde-4338-ad40-58e515af7d4b",
+    "parent": "DEC_Dungeon_Skeleton_Skull_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_B_Flip_converted",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_B/Resources/DEC_GEN_Statue_Hedonist_B.dae",
+    "size": [
+      1.183387041091919,
+      2.963269092142582,
+      0.7631059885025024
+    ],
+    "center_offset": [
+      0.07571250200271606,
+      1.3674145452678204,
+      -0.0004169940948486328
+    ],
+    "uuid": "5aae4145-751e-a80e-b89d-2a016e4e0b6b",
+    "parent": "DEC_GEN_Statue_Hedonist_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Shar_Normal_A_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Shar_Normal_ABC/Resources/DEC_GEN_Statue_Shar_Normal_A.dae",
+    "size": [
+      0.8241589963436127,
+      3.4834000724367797,
+      0.6868470013141632
+    ],
+    "center_offset": [
+      0.003536507487297058,
+      1.7432550361845642,
+      -0.04242850840091705
+    ],
+    "uuid": "727f126d-febc-4696-bda3-30041f12c1a3",
+    "parent": "DEC_GEN_Statue_Shar_Normal_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_B_Colorvar_A_Flip_converted",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_B/Resources/DEC_GEN_Statue_Hedonist_B.dae",
+    "size": [
+      1.183387041091919,
+      2.963269092142582,
+      0.7631059885025024
+    ],
+    "center_offset": [
+      0.07571250200271606,
+      1.3674145452678204,
+      -0.0004169940948486328
+    ],
+    "uuid": "77e3341c-ee90-eaf6-ccc6-ac3a98eeb03e",
+    "parent": "DEC_GEN_Statue_Hedonist_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_A_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_A/Resources/DEC_GEN_Statue_Hedonist_A.dae",
+    "size": [
+      1.4020919799804688,
+      2.8047680780291557,
+      1.131572961807251
+    ],
+    "center_offset": [
+      -0.13801699876785278,
+      1.3177590407431126,
+      0.03136849403381348
+    ],
+    "uuid": "797acfe9-a788-4df7-9a9c-039e83104bce",
+    "parent": "DEC_GEN_Statue_Hedonist_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_B_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_B/Resources/DEC_GEN_Statue_Hedonist_B.dae",
+    "size": [
+      1.183387041091919,
+      2.963269092142582,
+      0.7631059885025024
+    ],
+    "center_offset": [
+      0.07571250200271606,
+      1.3674145452678204,
+      -0.0004169940948486328
+    ],
+    "uuid": "82db5adf-4c1e-465f-bcfb-76bdb967438b",
+    "parent": "DEC_GEN_Statue_Hedonist_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_A_Dynamic",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A.dae",
+    "size": [
+      1.1060550212860107,
+      3.2621070817112923,
+      0.7683389782905579
+    ],
+    "center_offset": [
+      0.0038124918937683105,
+      1.608718540519476,
+      -0.04476550221443176
+    ],
+    "uuid": "83bfd7ca-d597-47a9-9cfa-dd9cc8248194",
+    "parent": "DEC_GEN_Statue_Ketheric_A"
+  },
+  {
+    "name": "DEC_Underdark_WizardTower_Machinery_Pipes_GlassWindow_A_On_Green",
+    "relative_path": "Decoration/Underdark/DEC_Underdark_WizardTower_Machinery_A/Resources/DEC_Underdark_WizardTower_Machinery_Pipes_GlassWindow_A.dae",
+    "size": [
+      0.6526959836483002,
+      0.755823016166687,
+      0.27393800020217896
+    ],
+    "center_offset": [
+      0.015699997544288635,
+      0.0038895010948181152,
+      -0.23871999979019165
+    ],
+    "uuid": "854886b8-3380-4ef3-9996-d6b77ec90ff1",
+    "parent": "DEC_Underdark_WizardTower_Machinery_Pipes_GlassWindow_A"
+  },
+  {
+    "name": "UND_DEC_GEN_Statue_Selune_Flipped_A_Eyes_BlueGlow",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Selune_Normal_ABC/Resources/UND_DEC_GEN_Statue_Selune_Flipped_A.dae",
+    "size": [
+      1.3545610010623932,
+      4.268330111168325,
+      0.8778609931468964
+    ],
+    "center_offset": [
+      0.236689493060112,
+      2.1496250559575856,
+      0.03422848880290985
+    ],
+    "uuid": "85aedcb0-e2f4-443e-815f-16630d4c8cff",
+    "parent": "UND_DEC_GEN_Statue_Selune_Flipped_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_Skull_B_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_Skull_B.dae",
+    "size": [
+      0.15515799820423126,
+      0.18568200280424207,
+      0.2197830080986023
+    ],
+    "center_offset": [
+      0.0,
+      0.09276500140549615,
+      0.016942501068115234
+    ],
+    "uuid": "89b009e6-b613-442b-9e45-caad6fc5ba04",
+    "parent": "DEC_Dungeon_Skeleton_Skull_B"
+  },
+  {
+    "name": "DEC_CEM_Tomb_A_Lid_A_Broken_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tomb_ABC/Resources/DEC_CEM_Tomb_A_Lid_A.dae",
+    "size": [
+      1.3150699734687805,
+      0.3786530141514959,
+      3.05304491519928
+    ],
+    "center_offset": [
+      0.003742009401321411,
+      0.18945850707677891,
+      0.0034494996070861816
+    ],
+    "uuid": "9375a8c1-b16e-4336-96c6-ebbf85e00afe",
+    "parent": "DEC_CEM_Tomb_A_Lid_A"
+  },
+  {
+    "name": "DEC_Dungeon_Skeleton_BonePile_A_Bloody_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Skeleton_ABC/Resources/DEC_Dungeon_Skeleton_BonePile_A.dae",
+    "size": [
+      0.7815640270709991,
+      0.24901800695806742,
+      0.9510999619960785
+    ],
+    "center_offset": [
+      -0.06379599869251251,
+      0.11293000308796763,
+      0.12426199018955231
+    ],
+    "uuid": "98cd676e-8123-4da3-83b5-084190537b81",
+    "parent": "DEC_Dungeon_Skeleton_BonePile_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Selune_B_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Selune_Normal_ABC/Resources/DEC_GEN_Statue_Selune_B.dae",
+    "size": [
+      1.2893480062484741,
+      2.92190202139318,
+      0.8210969865322113
+    ],
+    "center_offset": [
+      -0.02333301305770874,
+      1.458201010711491,
+      0.07246150076389313
+    ],
+    "uuid": "a130f095-dc37-42fd-9d59-41daa72ca779",
+    "parent": "DEC_GEN_Statue_Selune_B"
+  },
+  {
+    "name": "DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_B_On_Green",
+    "relative_path": "Decoration/Underdark/DEC_Underdark_WizardTower_Machinery_A/Resources/DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_B.dae",
+    "size": [
+      0.6102860271930695,
+      2.440762937068939,
+      1.0615979433059692
+    ],
+    "center_offset": [
+      -0.0016999989748001099,
+      0.9249384701251984,
+      -0.7354549765586853
+    ],
+    "uuid": "a79d5edb-a59f-4aec-a467-fded0be2ea6b",
+    "parent": "DEC_Underdark_WizardTower_Machinery_Pipes_Attachment_A_B"
+  },
+  {
+    "name": "DEC_GEN_Heraldics_Stone_H_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Heraldics_Stone_ABC/Resources/DEC_GEN_Heraldics_Stone_H.dae",
+    "size": [
+      0.9280620217323303,
+      0.8184379935264587,
+      0.18207699805498123
+    ],
+    "center_offset": [
+      0.0,
+      -0.0021229982376098633,
+      -0.0004145018756389618
+    ],
+    "uuid": "a8430634-56fb-4e04-a694-d5f939c9633d",
+    "parent": "DEC_GEN_Heraldics_Stone_H"
+  },
+  {
+    "name": "DEC_GEN_FlagBanner_A_TiedRope_A_Dynamic_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_FlagBanner_ABC/Resources/DEC_GEN_FlagBanner_A_TiedRope_A.dae",
+    "size": [
+      0.3413200080394745,
+      0.2418379932641983,
+      0.32866400480270386
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "b145444f-3337-49ee-86f7-060df50e91d5",
+    "parent": "DEC_GEN_FlagBanner_A_TiedRope_A"
+  },
+  {
+    "name": "DEC_CEM_Tomb_A_Lid_A_Statue_Man_Broken_A",
+    "relative_path": "Decoration/Cemetery/DEC_CEM_Tomb_ABC/Resources/DEC_CEM_Tomb_A_Lid_A.dae",
+    "size": [
+      1.3150699734687805,
+      0.3786530141514959,
+      3.05304491519928
+    ],
+    "center_offset": [
+      0.003742009401321411,
+      0.18945850707677891,
+      0.0034494996070861816
+    ],
+    "uuid": "e69947ec-c5e5-44de-b6fb-81a63b25d4ea",
+    "parent": "DEC_CEM_Tomb_A_Lid_A"
+  },
+  {
+    "name": "DEC_HAG_Cauldron_Gruel_A_Boiling_A",
+    "relative_path": "Decoration/Hag/DEC_HAG_Cauldron_Gruel_ABC/Resources/DEC_HAG_Cauldron_Gruel_A.dae",
+    "size": [
+      1.7922980189323425,
+      1.3202860578894615,
+      1.9038009643554688
+    ],
+    "center_offset": [
+      -0.0009360015392303467,
+      0.5847040303051472,
+      -0.0012814998626708984
+    ],
+    "uuid": "e798fc3b-5856-47eb-bd46-1fa9dc5bebb6",
+    "parent": "DEC_HAG_Cauldron_Gruel_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_C_Dynamic",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A.dae",
+    "size": [
+      1.1060550212860107,
+      3.2621070817112923,
+      0.7683389782905579
+    ],
+    "center_offset": [
+      0.0038124918937683105,
+      1.608718540519476,
+      -0.04476550221443176
+    ],
+    "uuid": "e87308d4-ad39-4d05-91ea-5c4fd24c1ef0",
+    "parent": "DEC_GEN_Statue_Ketheric_A"
+  },
+  {
+    "name": "UND_DEC_GEN_Statue_Selune_Normal_A_Eyes_NoGlow",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Selune_Normal_ABC/Resources/UND_DEC_GEN_Statue_Selune_Normal_A.dae",
+    "size": [
+      1.3545480072498322,
+      4.268331064842641,
+      0.919979989528656
+    ],
+    "center_offset": [
+      -0.23668299615383148,
+      2.1496255327947438,
+      0.01316899061203003
+    ],
+    "uuid": "fa671dce-4ca0-4708-a650-75f85f928c57",
+    "parent": "UND_DEC_GEN_Statue_Selune_Normal_A"
+  },
+  {
+    "name": "DEC_Dungeon_SharTemple_Gem_Socket_B_Glow_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_SharTemple_Gem_Socket_ABC/Resources/DEC_Dungeon_SharTemple_Gem_Socket_B.dae",
+    "size": [
+      0.5992779731750488,
+      0.20040401071310043,
+      0.9430699944496155
+    ],
+    "center_offset": [
+      0.0,
+      0.1682090051472187,
+      -0.020496010780334473
+    ],
+    "uuid": "35e6b78b-c687-4880-b8bb-0d759478f0d5",
+    "parent": "DEC_Dungeon_SharTemple_Gem_Socket_B"
+  },
+  {
+    "name": "DEC_GEN_Fireworks_Rocket_C_Trap_Destroyed",
+    "relative_path": "Decoration/Generic/DEC_GEN_Fireworks_ABC/Resources/DEC_GEN_Fireworks_Rocket_C.dae",
+    "size": [
+      0.2897079885005951,
+      0.379627987742424,
+      0.9746190011501312
+    ],
+    "center_offset": [
+      0.0,
+      0.006351999938488007,
+      0.18150348961353302
+    ],
+    "uuid": "48a10a59-e318-4c67-bb8f-b12d329aebf4",
+    "parent": "DEC_GEN_Fireworks_Rocket_C"
+  },
+  {
+    "name": "UNI_END_DEC_Guard_Statue_Collapse_A_Destruct_No_Visual",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Guard_ABC/Resources/UNI_END_DEC_Guard_Statue_Collapse_A_Destruct.dae",
+    "size": [
+      6.634175062179565,
+      23.732835292816162,
+      9.303941190242767
+    ],
+    "center_offset": [
+      -1.6374355554580688,
+      -7.649138689041138,
+      -4.339893609285355
+    ],
+    "uuid": "58226238-d68d-49e8-b55b-9d84574eeaa7",
+    "parent": "UNI_END_DEC_Guard_Statue_Collapse_A_Destruct"
+  },
+  {
+    "name": "DEC_Bhaal_Statue_Grim_Reaper_A_Dynamic_A",
+    "relative_path": "Decoration/Bhaal/DEC_Bhaal_Statue_Grim_Reaper_ABC/Resources/DEC_Bhaal_Statue_Grim_Reaper_A.dae",
+    "size": [
+      2.4535480737686157,
+      4.186365127563477,
+      1.2929160594940186
+    ],
+    "center_offset": [
+      0.0003979802131652832,
+      2.0931825637817383,
+      0.0
+    ],
+    "uuid": "a919dbf1-8493-4eb1-908e-795b36270221",
+    "parent": "DEC_Bhaal_Statue_Grim_Reaper_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Logs_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "144aa964-b4d9-4a72-ab00-744065b39a82",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Bricks_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "7c887566-4120-406c-a058-86c4c8e7e774",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Beams_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "84a81e21-885c-4487-b153-7d831fccbbe1",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Logs_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "c91385f7-7375-4003-86e5-40de3fefb360",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Bricks_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "e7312486-7a8c-4013-ad23-7e86f6168a4f",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_City_Construction_Pallet_A_Beams_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Construction_Pallet_ABC/Resources/DEC_GEN_City_Construction_Pallet_A.dae",
+    "size": [
+      2.4594210386276245,
+      0.22299999475944787,
+      2.409435987472534
+    ],
+    "center_offset": [
+      0.0014324784278869629,
+      0.11075299739604816,
+      0.010977983474731445
+    ],
+    "uuid": "f3bcefdd-e631-42e8-b15b-7ccb1f8d4792",
+    "parent": "DEC_GEN_City_Construction_Pallet_A"
+  },
+  {
+    "name": "DEC_GEN_Pyre_A_Prefab_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Pyre_ABC/Resources/DEC_GEN_Pyre_A.dae",
+    "size": [
+      1.7776129841804504,
+      1.06888497620821,
+      3.147141933441162
+    ],
+    "center_offset": [
+      -0.023170500993728638,
+      0.4166024886071682,
+      -0.1251389980316162
+    ],
+    "uuid": "8c8ba43f-6b21-4194-ba2a-069fb3f591d5",
+    "parent": "DEC_GEN_Pyre_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Eagle_A_Moss_Destroyed",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Eagle_A.dae",
+    "size": [
+      1.1294679641723633,
+      3.306714021251537,
+      1.0670790076255798
+    ],
+    "center_offset": [
+      0.0,
+      1.6514690105686896,
+      -0.05208548903465271
+    ],
+    "uuid": "48c39a79-4724-4e2c-aa9e-42c7819a4111",
+    "parent": "DEC_Druids_Statue_Eagle_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Elk_A_Moss_Destroyed",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Elk_A.dae",
+    "size": [
+      1.3795320391654968,
+      4.729212905280292,
+      1.2139819860458374
+    ],
+    "center_offset": [
+      -5.990266799926758e-06,
+      2.359024452511221,
+      -0.06836700439453125
+    ],
+    "uuid": "be3d411e-cceb-4270-9759-bd006afef7ce",
+    "parent": "DEC_Druids_Statue_Elk_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Bear_A_Moss_Destroyed",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Bear_A.dae",
+    "size": [
+      1.290132999420166,
+      3.8816859861835837,
+      1.3117219805717468
+    ],
+    "center_offset": [
+      7.2479248046875e-05,
+      1.9285989929921925,
+      -0.024989992380142212
+    ],
+    "uuid": "d5f7e127-5f05-4a29-ab6c-b898ad3f520e",
+    "parent": "DEC_Druids_Statue_Bear_A"
+  },
+  {
+    "name": "DEC_Druids_Statue_Wolf_A_Moss_Destroyed",
+    "relative_path": "Decoration/Druids/DEC_Druids_Statue_ABC/Resources/DEC_Druids_Statue_Wolf_A.dae",
+    "size": [
+      0.9775810241699219,
+      3.105669012758881,
+      1.4256919622421265
+    ],
+    "center_offset": [
+      0.00011649727821350098,
+      1.5476315065752715,
+      0.03426700830459595
+    ],
+    "uuid": "d7199589-9f88-48f2-8a52-27039526f3f2",
+    "parent": "DEC_Druids_Statue_Wolf_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_H_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_H.dae",
+    "size": [
+      3.3911720514297485,
+      3.9412460327148438,
+      2.9867340475320816
+    ],
+    "center_offset": [
+      0.002677023410797119,
+      -0.7837519645690918,
+      -1.4260830208659172
+    ],
+    "uuid": "0265fb10-a1a2-42a7-a2d5-b5c7da0c72bc",
+    "parent": "DEC_GEN_Market_Tarp_H"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Open_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Open_B.dae",
+    "size": [
+      1.7626530395278905,
+      4.026824951171875,
+      0.7153839953243732
+    ],
+    "center_offset": [
+      -0.8813255197639478,
+      -2.0134124755859375,
+      -0.3178139980882406
+    ],
+    "uuid": "05bad8e3-78cc-4b21-8955-5083189c809d",
+    "parent": "DEC_GEN_Curtain_Rich_Open_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_3W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_3W_A.dae",
+    "size": [
+      3.290430008622934,
+      4.010723050683737,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6449950043097488,
+      -1.965497525408864,
+      -0.010368496179580688
+    ],
+    "uuid": "063365ec-88d6-4f6c-97b2-1b9d5194fbbd",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_3W_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A.dae",
+    "size": [
+      3.3583180904388428,
+      4.1595950573682785,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      1.6791590452194214,
+      -1.8910615220665932,
+      -0.010368496179580688
+    ],
+    "uuid": "088c709e-712c-4910-b217-4b90427aec4e",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Closed_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Closed_B.dae",
+    "size": [
+      1.7626530395278905,
+      4.1294708251953125,
+      0.6755689957499271
+    ],
+    "center_offset": [
+      -0.8813255197639478,
+      -2.0647354125976562,
+      -0.3377214978754637
+    ],
+    "uuid": "0a7f88dd-8e67-4021-a1cb-5e4782cb771e",
+    "parent": "DEC_GEN_Curtain_Rich_Closed_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Hanging_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Hanging_A.dae",
+    "size": [
+      1.4436190128326416,
+      2.2757759541273117,
+      0.09587600082159042
+    ],
+    "center_offset": [
+      -0.0018745064735412598,
+      -1.0882379785180092,
+      -0.0008010007441043854
+    ],
+    "uuid": "0b74f44f-9baf-4fd8-82ab-37a334004b74",
+    "parent": "DEC_BAN_Banner_Shar_Hanging_A"
+  },
+  {
+    "name": "DEC_Goblins_Camp_Cage_A_Door_Destroyed",
+    "relative_path": "Decoration/Goblins/DEC_Goblins_Camp_Cage_ABC/DEC_Goblins_Camp_Cage_A.dae",
+    "size": [
+      4.228878021240234,
+      3.2513580322265625,
+      4.142889976501465
+    ],
+    "center_offset": [
+      -0.005995988845825195,
+      1.421849012374878,
+      0.05371999740600586
+    ],
+    "uuid": "0bd23424-271e-4c66-8519-a8e3c6bdc56e",
+    "parent": "DEC_Goblins_Camp_Cage_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_A_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_Piece_A.dae",
+    "size": [
+      0.42964498698711395,
+      0.3663799910573289,
+      0.8580079674720764
+    ],
+    "center_offset": [
+      0.004436500370502472,
+      0.1844209954724647,
+      0.216403990983963
+    ],
+    "uuid": "0c23d02c-24cd-4cad-9b30-a2d2a1422532",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Long_2n5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Long_2n5H_A.dae",
+    "size": [
+      1.5307199954986572,
+      3.6156309843063354,
+      0.1792439967393875
+    ],
+    "center_offset": [
+      0.0,
+      -1.5108454823493958,
+      0.0
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "DEC_BAN_Banner_Shar_Long_2n5H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_1n5W_A.dae",
+    "size": [
+      1.6050950037315488,
+      3.98796408995986,
+      0.4789679944515228
+    ],
+    "center_offset": [
+      -0.7938915020786226,
+      -1.9541180450469255,
+      0.0006269961595535278
+    ],
+    "uuid": "113d0336-6c27-4c68-bb0a-5e976d41d3e1",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_1n5W_A"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Broken_B_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A_Broken_B.dae",
+    "size": [
+      0.5995219945907593,
+      0.09929300262592733,
+      0.7811520099639893
+    ],
+    "center_offset": [
+      -0.03459799289703369,
+      0.04653150134254247,
+      -0.025209009647369385
+    ],
+    "uuid": "12074538-a2b7-43e5-bd2c-813f36756082",
+    "parent": "DEC_Temple_MarbleTiles_Square_A_Broken_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Long_5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Long_5H_A.dae",
+    "size": [
+      2.260577082633972,
+      5.612873822450638,
+      0.15130600333213806
+    ],
+    "center_offset": [
+      -0.0005465149879455566,
+      -2.479777917265892,
+      0.0
+    ],
+    "uuid": "13eaabba-9e83-43d9-95cb-3de63007f8b9",
+    "parent": "DEC_BAN_Banner_Shar_Long_5H_A"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_C",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "1acfa331-4d47-4b82-9ba2-c35ba1df191c",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_8H_B.dae",
+    "size": [
+      3.4950909901526757,
+      8.039658799767494,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      -1.7472154950664844,
+      -3.8703364059329033,
+      0.0003805011510848999
+    ],
+    "uuid": "1b7e8ac6-1fda-4ff5-a555-ed4046212364",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_3W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_3W_A.dae",
+    "size": [
+      3.290430008622934,
+      3.988116890192032,
+      0.5175740122795105
+    ],
+    "center_offset": [
+      -1.6449950043097488,
+      -1.954035446047783,
+      0.0003139972686767578
+    ],
+    "uuid": "1d9e2c8e-4774-4f2e-9a1c-21f391230a4e",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_3W_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_A.dae",
+    "size": [
+      3.3583180904388428,
+      4.071781054139137,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      1.6791590452194214,
+      -1.9349685236811638,
+      0.047957003116607666
+    ],
+    "uuid": "1f4b84f9-a212-4395-b42d-405e7358108c",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Broken_C_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A_Broken_C.dae",
+    "size": [
+      0.5541559755802155,
+      0.10279999626800418,
+      0.35929399728775024
+    ],
+    "center_offset": [
+      0.010673001408576965,
+      0.04661899828352034,
+      -0.003631994128227234
+    ],
+    "uuid": "1f78fc27-8b79-4f8f-b2fd-3e2e9c517cda",
+    "parent": "DEC_Temple_MarbleTiles_Square_A_Broken_C"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_E_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_E.dae",
+    "size": [
+      2.1628769636154175,
+      3.965612053871155,
+      2.083565965294838
+    ],
+    "center_offset": [
+      -0.024143517017364502,
+      0.11976903676986694,
+      -0.8988879844546318
+    ],
+    "uuid": "1f8907d6-d11d-446c-8467-248a1ff587dc",
+    "parent": "DEC_GEN_Market_Tarp_E"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Slab_A_Broken_C_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Slab_A_Broken_C.dae",
+    "size": [
+      0.5778419971466064,
+      0.09754299907945096,
+      1.1833789944648743
+    ],
+    "center_offset": [
+      0.0009999871253967285,
+      0.04673349962104112,
+      -0.008685499429702759
+    ],
+    "uuid": "1fa0c240-592d-4ba7-8f76-15c702369105",
+    "parent": "DEC_Temple_MarbleTiles_Slab_A_Broken_C"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_A.dae",
+    "size": [
+      2.22634494304657,
+      2.2561929523944855,
+      1.358766034245491
+    ],
+    "center_offset": [
+      0.005001485347747803,
+      -0.8540974706411362,
+      -0.5135100111365318
+    ],
+    "uuid": "1fc79992-9664-4dca-9328-553e49ce0893",
+    "parent": "DEC_GEN_Market_Tarp_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_3W_B_Black_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_3W_B.dae",
+    "size": [
+      3.373254954072763,
+      4.049173891544342,
+      0.5199699997901917
+    ],
+    "center_offset": [
+      -1.6864074770346633,
+      -1.9235069453716278,
+      -0.0008839964866638184
+    ],
+    "uuid": "20ac32e2-cf45-438f-babc-b00d8546940b",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_C_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_Piece_C.dae",
+    "size": [
+      1.0748159885406494,
+      0.6884080274030566,
+      2.1022859811782837
+    ],
+    "center_offset": [
+      -0.010706007480621338,
+      0.34193801367655396,
+      -0.16084498167037964
+    ],
+    "uuid": "22810988-dcc9-4260-85bc-69b38f3e462a",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_C"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_C_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_C.dae",
+    "size": [
+      1.8611860275268555,
+      2.010291039943695,
+      2.066617026925087
+    ],
+    "center_offset": [
+      0.0078200101852417,
+      -0.5852685272693634,
+      -0.8049675151705742
+    ],
+    "uuid": "245c32ff-6366-41f5-b475-0b5b87a38b0a",
+    "parent": "DEC_GEN_Market_Tarp_C"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Closed_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Closed_A.dae",
+    "size": [
+      1.7626530395278905,
+      4.1294708251953125,
+      0.6755689957499271
+    ],
+    "center_offset": [
+      0.8813255197639478,
+      -2.0647354125976562,
+      -0.3377214978754637
+    ],
+    "uuid": "248916cd-b79c-4254-8ba8-07dddae0ceb4",
+    "parent": "DEC_GEN_Curtain_Rich_Closed_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B.dae",
+    "size": [
+      3.465986967086792,
+      8.22405618429184,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      -1.732993483543396,
+      -3.82449010014534,
+      -0.010368995368480682
+    ],
+    "uuid": "2a40d620-19e3-4645-a4e7-f0595f48e27e",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Standing_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Standing_A.dae",
+    "size": [
+      1.3244029879570007,
+      2.4154770374298096,
+      0.13504699617624283
+    ],
+    "center_offset": [
+      -0.0006454885005950928,
+      1.2077385187149048,
+      -0.011948499828577042
+    ],
+    "uuid": "2a76761e-4e12-4d9b-af36-a7362736090c",
+    "parent": "DEC_BAN_Banner_Absolute_Standing_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Standing_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Standing_A.dae",
+    "size": [
+      1.443331003189087,
+      2.4374589920043945,
+      0.14429599791765213
+    ],
+    "center_offset": [
+      -0.0018745064735412598,
+      1.2187294960021973,
+      -0.016573000699281693
+    ],
+    "uuid": "2ff74814-2e4b-47cf-84f6-5feb67f20519",
+    "parent": "DEC_BAN_Banner_Shar_Standing_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_A.dae",
+    "size": [
+      2.22634494304657,
+      2.2561929523944855,
+      1.358766034245491
+    ],
+    "center_offset": [
+      0.005001485347747803,
+      -0.8540974706411362,
+      -0.5135100111365318
+    ],
+    "uuid": "302a2248-5447-4ab5-b655-b9991b9750ec",
+    "parent": "DEC_GEN_Market_Tarp_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Top_1W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Top_1W_A.dae",
+    "size": [
+      1.000009006790151,
+      1.2644590139389038,
+      0.6755049824714661
+    ],
+    "center_offset": [
+      -0.5000005033950856,
+      -0.6322295069694519,
+      -0.33775249123573303
+    ],
+    "uuid": "30cf8caf-2b51-426b-8d84-e1b705d4dc14",
+    "parent": "DEC_GEN_Curtain_Rich_Top_1W_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_C_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_C.dae",
+    "size": [
+      1.0568299889564514,
+      0.8443629816174507,
+      0.7292709946632385
+    ],
+    "center_offset": [
+      0.028344005346298218,
+      0.39984649047255516,
+      -0.025231510400772095
+    ],
+    "uuid": "314f8dbc-754e-4bd1-9365-d98b5f0c34e6",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_C"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_F_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_F.dae",
+    "size": [
+      2.2854080200195312,
+      2.664377987384796,
+      2.02079701423645
+    ],
+    "center_offset": [
+      0.002115964889526367,
+      -0.7071619927883148,
+      -0.39335548877716064
+    ],
+    "uuid": "31845f43-1f02-43b3-94d3-e7b0229961cb",
+    "parent": "DEC_GEN_Market_Tarp_F"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_F_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_F.dae",
+    "size": [
+      2.2854080200195312,
+      2.664377987384796,
+      2.02079701423645
+    ],
+    "center_offset": [
+      0.002115964889526367,
+      -0.7071619927883148,
+      -0.39335548877716064
+    ],
+    "uuid": "320ebcde-1fba-4942-98d8-996fd920d7ba",
+    "parent": "DEC_GEN_Market_Tarp_F"
+  },
+  {
+    "name": "DEC_Goblins_Camp_Cage_B_Door_Destroyed",
+    "relative_path": "Decoration/Goblins/DEC_Goblins_Camp_Cage_ABC/DEC_Goblins_Camp_Cage_B.dae",
+    "size": [
+      2.1336779594421387,
+      2.967363089323044,
+      2.145086884498596
+    ],
+    "center_offset": [
+      -0.006525993347167969,
+      1.2375625520944595,
+      -0.012754499912261963
+    ],
+    "uuid": "3298e673-b67b-407e-8ebe-aaf386df423c",
+    "parent": "DEC_Goblins_Camp_Cage_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_B.dae",
+    "size": [
+      3.4951789379119873,
+      8.088059023022652,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.7475894689559937,
+      -3.892646513879299,
+      -0.010369502007961273
+    ],
+    "uuid": "3afeb8f0-19e4-44c5-a666-30a9ca906bb4",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Hanging_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Hanging_A.dae",
+    "size": [
+      1.3244029879570007,
+      2.2855000495910645,
+      0.07474400103092194
+    ],
+    "center_offset": [
+      -0.0006454885005950928,
+      -1.1079540252685547,
+      0.0015299990773200989
+    ],
+    "uuid": "3bb2b2ce-fbd2-4e03-a7e0-0031d96e5c45",
+    "parent": "DEC_BAN_Banner_Absolute_Hanging_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_1n5W_B.dae",
+    "size": [
+      1.7453380219667451,
+      4.071709051728249,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      -0.8724490109816543,
+      -1.9349325224757195,
+      0.00274449959397316
+    ],
+    "uuid": "3c5a44ec-cd83-410c-8f05-9dd47bb72630",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_3W_B.dae",
+    "size": [
+      3.357426881790161,
+      4.049014940857887,
+      0.5179539918899536
+    ],
+    "center_offset": [
+      -1.6787134408950806,
+      -1.9235854670405388,
+      2.5004148483276367e-05
+    ],
+    "uuid": "3e7adf25-9089-4611-91fe-272215fd294e",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_H_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_H.dae",
+    "size": [
+      3.3911720514297485,
+      3.9412460327148438,
+      2.9867340475320816
+    ],
+    "center_offset": [
+      0.002677023410797119,
+      -0.7837519645690918,
+      -1.4260830208659172
+    ],
+    "uuid": "41cb5ce6-3725-4ca6-a54f-51cd3122ba32",
+    "parent": "DEC_GEN_Market_Tarp_H"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_B",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "46f86ed2-10e7-4b73-9d81-f57ca2f6e7a2",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_1n5W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_1n5W_B.dae",
+    "size": [
+      1.7531039929017425,
+      4.047802090644836,
+      0.4789679944515228
+    ],
+    "center_offset": [
+      -0.8678949964232743,
+      -1.9241990447044373,
+      0.0006269961595535278
+    ],
+    "uuid": "48367ad6-f429-4871-9adc-2be382dae105",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_1n5W_B"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_G_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_G.dae",
+    "size": [
+      3.5297141075134277,
+      2.973311960697174,
+      3.0903609097003937
+    ],
+    "center_offset": [
+      -0.24270105361938477,
+      -0.64472696185112,
+      -1.2799924463033676
+    ],
+    "uuid": "4a8b994c-1d9b-4d01-9a6a-10dc98129db8",
+    "parent": "DEC_GEN_Market_Tarp_G"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_F",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "511c7478-08bf-43fa-8b73-f079d8e39071",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Arm_A_Githyanki_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Arm_A.dae",
+    "size": [
+      0.7156510055065155,
+      0.13647600542753935,
+      0.26445700228214264
+    ],
+    "center_offset": [
+      0.03369949758052826,
+      0.05775100225582719,
+      0.02721550315618515
+    ],
+    "uuid": "529b7405-5336-475b-958e-00681e8a691f",
+    "parent": "DEC_GEN_Corpse_Body_Part_Arm_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Arm_B_Tiefling_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Arm_B.dae",
+    "size": [
+      0.7150450050830841,
+      0.17229100782424212,
+      0.2603349983692169
+    ],
+    "center_offset": [
+      0.043400511145591736,
+      0.0750235035084188,
+      0.040771499276161194
+    ],
+    "uuid": "52cd1867-bd5b-4055-8ec9-19377020582a",
+    "parent": "DEC_GEN_Corpse_Body_Part_Arm_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_B.dae",
+    "size": [
+      3.3574860095977783,
+      4.071781054139137,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      -1.6787430047988892,
+      -1.9349685236811638,
+      0.047957003116607666
+    ],
+    "uuid": "531018a5-449d-4118-896d-822ebc10d611",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Open_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Open_A.dae",
+    "size": [
+      1.7626530395278905,
+      4.026824951171875,
+      0.7153839953243732
+    ],
+    "center_offset": [
+      0.8813255197639478,
+      -2.0134124755859375,
+      -0.3178139980882406
+    ],
+    "uuid": "548f5f09-9d7c-4193-b8fa-e18d30303539",
+    "parent": "DEC_GEN_Curtain_Rich_Open_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A.dae",
+    "size": [
+      1.7201839685440063,
+      4.163301110267639,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      0.8600919842720032,
+      -1.891394555568695,
+      0.00274449959397316
+    ],
+    "uuid": "5665f9b8-4f45-4339-a4d7-9cd7d8db351b",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_D_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_D.dae",
+    "size": [
+      1.8001350164413452,
+      1.7487050294876099,
+      2.5000200420618057
+    ],
+    "center_offset": [
+      0.00030350685119628906,
+      -0.48905450105667114,
+      -1.0975270196795464
+    ],
+    "uuid": "59305438-6987-41f5-94c9-d138529b2d22",
+    "parent": "DEC_GEN_Market_Tarp_D"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Hanging_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Hanging_A.dae",
+    "size": [
+      1.3702219724655151,
+      2.2884531021118164,
+      0.05490599945187569
+    ],
+    "center_offset": [
+      -0.0015259981155395508,
+      -1.0347485542297363,
+      0.00033299997448921204
+    ],
+    "uuid": "59748730-5cdb-4008-9143-20b50757d19c",
+    "parent": "DEC_BAN_Banner_Selune_Hanging_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B.dae",
+    "size": [
+      1.7201850414276123,
+      4.0739671140909195,
+      0.3711099997162819
+    ],
+    "center_offset": [
+      -0.8600925207138062,
+      -1.936061553657055,
+      0.06662200018763542
+    ],
+    "uuid": "5a2661fd-2dcb-4029-9d7d-a0cecdef8070",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_8H_A.dae",
+    "size": [
+      3.3025899220374413,
+      7.954976849257946,
+      0.5580289959907532
+    ],
+    "center_offset": [
+      -1.6509649610088672,
+      -3.912676427513361,
+      -4.2498111724853516e-05
+    ],
+    "uuid": "5ef655d8-1d56-4353-8f61-6010b202b4b8",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_City_Fountain_A_Activated_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_City_Fountain_ABC/Resources/DEC_GEN_City_Fountain_A.dae",
+    "size": [
+      7.7246599197387695,
+      3.4468739852309227,
+      7.732343912124634
+    ],
+    "center_offset": [
+      0.015162944793701172,
+      1.6211109943687916,
+      -0.008838057518005371
+    ],
+    "uuid": "6987867b-9dd4-47b4-810e-a394025b6ab5",
+    "parent": "DEC_GEN_City_Fountain_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_D_Colorvar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_D.dae",
+    "size": [
+      1.8001350164413452,
+      1.7487050294876099,
+      2.5000200420618057
+    ],
+    "center_offset": [
+      0.00030350685119628906,
+      -0.48905450105667114,
+      -1.0975270196795464
+    ],
+    "uuid": "6d0676ed-15ca-42b2-817f-7cb988639941",
+    "parent": "DEC_GEN_Market_Tarp_D"
+  },
+  {
+    "name": "DEC_GEN_HorseWagon_Wood_A_Destroyed_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_HorseWagon_Wood_ABC/Resources/DEC_GEN_HorseWagon_Wood_A.dae",
+    "size": [
+      3.219869017601013,
+      2.8300239592790604,
+      6.346462965011597
+    ],
+    "center_offset": [
+      0.0015215277671813965,
+      1.3879779800772667,
+      -0.8988515138626099
+    ],
+    "uuid": "6d82565c-69f4-416a-aa26-280bf1a1fdb0",
+    "parent": "DEC_GEN_HorseWagon_Wood_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_A.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "6dee7029-e58a-4517-926e-7483ecc77caf",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_SpiderWeb_Wall_Medium_A_Curved_Light",
+    "relative_path": "Decoration/Generic/DEC_GEN_SpiderWeb_ABC/Resources/DEC_GEN_SpiderWeb_Wall_Medium_A.dae",
+    "size": [
+      1.8325980305671692,
+      3.219173092395067,
+      1.9076200127601624
+    ],
+    "center_offset": [
+      0.03803101181983948,
+      1.5666765477508307,
+      -0.7888250052928925
+    ],
+    "uuid": "6fbba61c-cda9-45fb-bb20-0d91ee205565",
+    "parent": "DEC_GEN_SpiderWeb_Wall_Medium_A"
+  },
+  {
+    "name": "DEC_GEN_SpiderWeb_Small_A_AlphaTest_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_SpiderWeb_ABC/Resources/DEC_GEN_SpiderWeb_Small_A.dae",
+    "size": [
+      1.8430969715118408,
+      0.0,
+      1.9252359867095947
+    ],
+    "center_offset": [
+      0.03338348865509033,
+      0.0,
+      0.007423996925354004
+    ],
+    "uuid": "726bbd5b-cedf-46c0-abec-2b4609471ad9",
+    "parent": "DEC_GEN_SpiderWeb_Small_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_G_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_G.dae",
+    "size": [
+      3.5297141075134277,
+      2.973311960697174,
+      3.0903609097003937
+    ],
+    "center_offset": [
+      -0.24270105361938477,
+      -0.64472696185112,
+      -1.2799924463033676
+    ],
+    "uuid": "73e17cc7-410a-4244-85f9-2e898ec2c08f",
+    "parent": "DEC_GEN_Market_Tarp_G"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_B.dae",
+    "size": [
+      1.4353909492492676,
+      2.2561929523944855,
+      1.3597210198640823
+    ],
+    "center_offset": [
+      0.008481502532958984,
+      -0.8540974706411362,
+      -0.5139875039458275
+    ],
+    "uuid": "75021189-bb85-4218-a1d6-f4c41b22bd90",
+    "parent": "DEC_GEN_Market_Tarp_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Small_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Small_A.dae",
+    "size": [
+      0.4108829952310771,
+      1.3941690623760223,
+      0.11677199974656105
+    ],
+    "center_offset": [
+      0.2037324976408854,
+      -0.5624895244836807,
+      0.0009479988366365433
+    ],
+    "uuid": "754959ef-063a-40dd-b761-22f20fb6c3eb",
+    "parent": "DEC_BAN_Banner_Selune_Small_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Small_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Small_A.dae",
+    "size": [
+      0.5543909797270317,
+      1.0989699438214302,
+      0.12307200208306313
+    ],
+    "center_offset": [
+      0.2769854898651829,
+      -0.4879549704492092,
+      -0.0001759994775056839
+    ],
+    "uuid": "780a5ad2-6ec4-464b-b563-42db55fd2445",
+    "parent": "DEC_BAN_Banner_Shar_Small_A"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A.dae",
+    "size": [
+      0.9978099763393402,
+      0.10256400145590305,
+      0.9051569998264313
+    ],
+    "center_offset": [
+      -0.007516995072364807,
+      0.04673400055617094,
+      -0.0005304962396621704
+    ],
+    "uuid": "793fa6d7-5ec0-4668-8bc8-bb620468ece5",
+    "parent": "DEC_Temple_MarbleTiles_Square_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_8H_A.dae",
+    "size": [
+      3.4658989906311035,
+      8.043796971440315,
+      0.6565940082073212
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.8681094869971275,
+      0.04996900260448456
+    ],
+    "uuid": "7deb8963-740f-4138-8ebc-53bd768fdb0d",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_E_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_E.dae",
+    "size": [
+      2.1628769636154175,
+      3.965612053871155,
+      2.083565965294838
+    ],
+    "center_offset": [
+      -0.024143517017364502,
+      0.11976903676986694,
+      -0.8988879844546318
+    ],
+    "uuid": "81f86d84-c9ee-4ef0-beec-920260e06069",
+    "parent": "DEC_GEN_Market_Tarp_E"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_A.dae",
+    "size": [
+      3.3583180904388428,
+      4.071781054139137,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      1.6791590452194214,
+      -1.9349685236811638,
+      0.047957003116607666
+    ],
+    "uuid": "831611ad-94eb-4cb3-ba46-43a7b577aedd",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_B.dae",
+    "size": [
+      3.4658470153808594,
+      8.087901189923286,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      -1.7329235076904297,
+      -3.8925675973296165,
+      0.11100150644779205
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_B.dae",
+    "size": [
+      1.7210170030593872,
+      4.13835708796978,
+      0.4789679944515228
+    ],
+    "center_offset": [
+      -0.8605085015296936,
+      -1.8789215460419655,
+      0.000652998685836792
+    ],
+    "uuid": "84b17b7c-7290-4335-8f37-5703f609c903",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_8H_B.dae",
+    "size": [
+      3.4658989906311035,
+      8.043046966195107,
+      0.6565940082073212
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.868484489619732,
+      0.04996900260448456
+    ],
+    "uuid": "84dca535-037d-4265-b4a5-90d537e6c1ab",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_8H_B"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_D",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "853fa99e-bd5a-4d10-92c1-16a12a79bbed",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_3W_B.dae",
+    "size": [
+      3.357426881790161,
+      4.136440932750702,
+      0.5199699997901917
+    ],
+    "center_offset": [
+      -1.6787134408950806,
+      -1.8798724710941315,
+      -0.0009829998016357422
+    ],
+    "uuid": "8837c761-03cd-47fc-a317-eee8ab54a645",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_HeadMale_A_Tiefling_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_HeadMale_A.dae",
+    "size": [
+      0.17924999445676804,
+      0.23869600519537926,
+      0.30388300120830536
+    ],
+    "center_offset": [
+      0.0016600005328655243,
+      0.10093300230801105,
+      -0.01690950244665146
+    ],
+    "uuid": "8bb3d6a2-ac90-49bd-860b-79b19906c49b",
+    "parent": "DEC_GEN_Corpse_Body_Part_HeadMale_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Long_10H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Long_10H_A.dae",
+    "size": [
+      2.257848024368286,
+      10.405578464269638,
+      0.14980199933052063
+    ],
+    "center_offset": [
+      0.0,
+      -4.918434217572212,
+      0.0
+    ],
+    "uuid": "8cfa822b-649f-41b8-93c1-a2600695a77f",
+    "parent": "DEC_BAN_Banner_Selune_Long_10H_A"
+  },
+  {
+    "name": "DEC_GEN_Cogwheel_Metal_E_Rotating_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Cogwheel_Metal_ABC/Resources/DEC_GEN_Cogwheel_Metal_E.dae",
+    "size": [
+      10.217771530151367,
+      10.217947959899902,
+      1.1277369856834412
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0007195174694061279
+    ],
+    "uuid": "905f6c72-b00d-4eab-952c-9bc75920a270",
+    "parent": "DEC_GEN_Cogwheel_Metal_E"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Slab_A_Broken_D_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Slab_A_Broken_D.dae",
+    "size": [
+      1.4153570532798767,
+      0.10071800090372562,
+      0.476160004734993
+    ],
+    "center_offset": [
+      -0.01298549771308899,
+      0.04673400055617094,
+      -0.016245000064373016
+    ],
+    "uuid": "911a0f06-1aaa-406c-9c7e-b95d0ea0f1dd",
+    "parent": "DEC_Temple_MarbleTiles_Slab_A_Broken_D"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_A.dae",
+    "size": [
+      3.4658470153808594,
+      8.087901189923286,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      1.7329235076904297,
+      -3.8925675973296165,
+      0.11100150644779205
+    ],
+    "uuid": "a0962777-379e-40d2-8aae-67899d2a6d1c",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_A/Resources/DEC_GEN_Statue_Hedonist_A.dae",
+    "size": [
+      1.4020919799804688,
+      2.8047680780291557,
+      1.131572961807251
+    ],
+    "center_offset": [
+      -0.13801699876785278,
+      1.3177590407431126,
+      0.03136849403381348
+    ],
+    "uuid": "a1d8884b-c42c-4316-8222-a54442159d79",
+    "parent": "DEC_GEN_Statue_Hedonist_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Top_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Top_1n5W_A.dae",
+    "size": [
+      1.5000030000001061,
+      1.2644599676132202,
+      0.6755059957504272
+    ],
+    "center_offset": [
+      -0.7499984999999469,
+      -0.6322299838066101,
+      -0.3377529978752136
+    ],
+    "uuid": "a1f5eadf-5ea8-4e82-891f-96ed23970fb5",
+    "parent": "DEC_GEN_Curtain_Rich_Top_1n5W_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Hedonist_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Hedonist_B/Resources/DEC_GEN_Statue_Hedonist_B.dae",
+    "size": [
+      1.183387041091919,
+      2.963269092142582,
+      0.7631059885025024
+    ],
+    "center_offset": [
+      0.07571250200271606,
+      1.3674145452678204,
+      -0.0004169940948486328
+    ],
+    "uuid": "a55bfee8-891e-4fa4-b480-ca9922ab98e3",
+    "parent": "DEC_GEN_Statue_Hedonist_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_B_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_B.dae",
+    "size": [
+      1.0837669968605042,
+      1.6514290049672127,
+      0.7292709946632385
+    ],
+    "center_offset": [
+      0.01487550139427185,
+      0.8033795021474361,
+      -0.025231510400772095
+    ],
+    "uuid": "a99fd740-fb75-407b-87b9-d96023023f3c",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_A.dae",
+    "size": [
+      3.30259108543396,
+      8.00148706883192,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.65129554271698,
+      -3.9359315373003483,
+      -0.010369502007961273
+    ],
+    "uuid": "b08bb22e-d6bb-48b2-a532-6bee43ca17ec",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_HeadFemale_A_Githyanki_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_HeadFemale_A.dae",
+    "size": [
+      0.20468799769878387,
+      0.22069599386304617,
+      0.3156219869852066
+    ],
+    "center_offset": [
+      -0.0011240020394325256,
+      0.09926599683240056,
+      -0.01453699916601181
+    ],
+    "uuid": "b1013527-0256-4da4-9f15-8999e1d04a41",
+    "parent": "DEC_GEN_Corpse_Body_Part_HeadFemale_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_3W_B.dae",
+    "size": [
+      3.373254954072763,
+      4.049173891544342,
+      0.5199699997901917
+    ],
+    "center_offset": [
+      -1.6864074770346633,
+      -1.9235069453716278,
+      -0.0008839964866638184
+    ],
+    "uuid": "b2e569b9-da9a-43f8-95d7-fcd35ab766d3",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_A.dae",
+    "size": [
+      1.7201260328292847,
+      4.13835608959198,
+      0.4789679944515228
+    ],
+    "center_offset": [
+      0.8600630164146423,
+      -1.8789220452308655,
+      0.000652998685836792
+    ],
+    "uuid": "b5f8e0a1-5aee-4d22-859c-39cb7eee6ada",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_1n5W_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_D_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_D.dae",
+    "size": [
+      1.8001350164413452,
+      1.7487050294876099,
+      2.5000200420618057
+    ],
+    "center_offset": [
+      0.00030350685119628906,
+      -0.48905450105667114,
+      -1.0975270196795464
+    ],
+    "uuid": "b80b866b-b4e0-48e3-9386-502f378a7045",
+    "parent": "DEC_GEN_Market_Tarp_D"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Broken_D_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A_Broken_D.dae",
+    "size": [
+      0.3355419933795929,
+      0.09947799774818122,
+      0.16519200056791306
+    ],
+    "center_offset": [
+      -0.009609997272491455,
+      0.04710799886379391,
+      0.014382999390363693
+    ],
+    "uuid": "b8af9d62-eb06-459d-a68c-469b93aa1116",
+    "parent": "DEC_Temple_MarbleTiles_Square_A_Broken_D"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_B_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_Piece_B.dae",
+    "size": [
+      1.0984300374984741,
+      0.7489029886201024,
+      1.116578996181488
+    ],
+    "center_offset": [
+      0.0,
+      0.365919494535774,
+      0.021928519010543823
+    ],
+    "uuid": "bdf4c92b-828c-487d-a7f6-243391c23cc0",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_Piece_B"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Slab_A_Broken_A_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Slab_A_Broken_A.dae",
+    "size": [
+      1.3663380146026611,
+      0.0965670010773465,
+      2.50191593170166
+    ],
+    "center_offset": [
+      -0.013112008571624756,
+      0.04673350049415603,
+      -0.002768993377685547
+    ],
+    "uuid": "be40f9e9-d273-4daa-805e-63c2180936f7",
+    "parent": "DEC_Temple_MarbleTiles_Slab_A_Broken_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_A_Colorvar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_A.dae",
+    "size": [
+      2.22634494304657,
+      2.2561929523944855,
+      1.358766034245491
+    ],
+    "center_offset": [
+      0.005001485347747803,
+      -0.8540974706411362,
+      -0.5135100111365318
+    ],
+    "uuid": "be90eff5-4f9c-4bd4-afc0-ea0708318f45",
+    "parent": "DEC_GEN_Market_Tarp_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Standing_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Standing_A.dae",
+    "size": [
+      1.3702219724655151,
+      2.525869098957628,
+      0.09779499657452106
+    ],
+    "center_offset": [
+      -0.0015259981155395508,
+      1.2621735495049506,
+      -0.020553498528897762
+    ],
+    "uuid": "c8ee56e6-6285-41e4-91de-47df2118313d",
+    "parent": "DEC_BAN_Banner_Selune_Standing_A"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_A",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "ca2db0cb-3108-4888-997b-7557f5c4d173",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Ketheric_A_Broken_A_Gold_Trim",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Ketheric_ABC/Resources/DEC_GEN_Statue_Ketheric_A_Broken_A.dae",
+    "size": [
+      1.10487300157547,
+      2.5002340748906136,
+      0.7680989801883698
+    ],
+    "center_offset": [
+      0.00432249903678894,
+      1.2277820371091366,
+      -0.04464550316333771
+    ],
+    "uuid": "ca32f808-1912-40f4-8be9-04643152b26b",
+    "parent": "DEC_GEN_Statue_Ketheric_A_Broken_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Small_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Small_A.dae",
+    "size": [
+      0.5112889753072523,
+      1.2979629673063755,
+      0.12307200208306313
+    ],
+    "center_offset": [
+      0.2562754876271356,
+      -0.5879314821213484,
+      -0.0012650024145841599
+    ],
+    "uuid": "caf1f579-d203-4f53-9896-4b2da2e6df25",
+    "parent": "DEC_BAN_Banner_Absolute_Small_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_B.dae",
+    "size": [
+      3.3574860095977783,
+      4.071781054139137,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      -1.6787430047988892,
+      -1.9349685236811638,
+      0.047957003116607666
+    ],
+    "uuid": "cb0024b3-2c51-4a60-baae-d4aba5eaab89",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Long_2n5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Long_2n5H_A.dae",
+    "size": [
+      1.5307199954986572,
+      3.642020970582962,
+      0.1792439967393875
+    ],
+    "center_offset": [
+      0.0,
+      -1.343047484755516,
+      0.0
+    ],
+    "uuid": "ccdf4286-8528-4383-b1ed-51bd057e1b26",
+    "parent": "DEC_BAN_Banner_Selune_Long_2n5H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_B.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "cdd92b28-3eba-4996-b5f7-4c1bfe561c00",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Slab_A_Broken_B_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Slab_A_Broken_B.dae",
+    "size": [
+      1.3675470352172852,
+      0.10188799677416682,
+      0.785968005657196
+    ],
+    "center_offset": [
+      0.012390494346618652,
+      0.046665998408570886,
+      0.051250994205474854
+    ],
+    "uuid": "cecf94b1-802a-4088-9338-857b5ed9dfe7",
+    "parent": "DEC_Temple_MarbleTiles_Slab_A_Broken_B"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Broken_E_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A_Broken_E.dae",
+    "size": [
+      0.6799469888210297,
+      0.10216399794444442,
+      0.940867006778717
+    ],
+    "center_offset": [
+      -0.017360493540763855,
+      0.046733998926356435,
+      -0.0026364922523498535
+    ],
+    "uuid": "cf920481-2f9b-4a05-8676-e8f83d26f0fc",
+    "parent": "DEC_Temple_MarbleTiles_Square_A_Broken_E"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_1n5W_A.dae",
+    "size": [
+      1.7201260328292847,
+      4.047802090644836,
+      0.49103400111198425
+    ],
+    "center_offset": [
+      0.8600630164146423,
+      -1.9241990447044373,
+      0.006659999489784241
+    ],
+    "uuid": "d46a7d89-220c-44bb-bab5-226f4de15d65",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_1n5W_A"
+  },
+  {
+    "name": "DEC_MFL_Pod_A_DestroyedPart_E",
+    "relative_path": "Decoration/MindFlayer/DEC_MFL_Pod_ABC/Resources/DEC_MFL_Pod_A.dae",
+    "size": [
+      4.0059109926223755,
+      4.598049953579903,
+      6.281183242797852
+    ],
+    "center_offset": [
+      -0.1264304518699646,
+      2.166596971452236,
+      1.3575925827026367
+    ],
+    "uuid": "d60a2c19-56c9-48a1-8dd4-b539fe6550d6",
+    "parent": "DEC_MFL_Pod_A"
+  },
+  {
+    "name": "DEC_GEN_Statue_Shar_Huge_A_Static_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Shar_Huge_ABC/Resources/DEC_GEN_Statue_Shar_Huge_A.dae",
+    "size": [
+      1.1683499813079834,
+      1.954139036592096,
+      0.7392890155315399
+    ],
+    "center_offset": [
+      -0.09773999452590942,
+      0.9712195184547454,
+      0.07939450442790985
+    ],
+    "uuid": "d6c33315-d867-4597-9311-f5490e8ef665",
+    "parent": "DEC_GEN_Statue_Shar_Huge_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_3W_B.dae",
+    "size": [
+      3.373254000398447,
+      4.071781978011131,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6864070001975051,
+      -1.9348099902272224,
+      -0.010368496179580688
+    ],
+    "uuid": "de63f3d4-3c38-4d39-bc58-064d91b20607",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_C_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_C.dae",
+    "size": [
+      1.8611860275268555,
+      2.010291039943695,
+      2.066617026925087
+    ],
+    "center_offset": [
+      0.0078200101852417,
+      -0.5852685272693634,
+      -0.8049675151705742
+    ],
+    "uuid": "deab9854-cb44-4e72-88f2-b73d8411ac7a",
+    "parent": "DEC_GEN_Market_Tarp_C"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_B.dae",
+    "size": [
+      1.4353909492492676,
+      2.2561929523944855,
+      1.3597210198640823
+    ],
+    "center_offset": [
+      0.008481502532958984,
+      -0.8540974706411362,
+      -0.5139875039458275
+    ],
+    "uuid": "e0efd711-acf8-4573-965e-39d046007ede",
+    "parent": "DEC_GEN_Market_Tarp_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B.dae",
+    "size": [
+      3.358894109725952,
+      4.1595950573682785,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.679447054862976,
+      -1.8910615220665932,
+      -0.010368496179580688
+    ],
+    "uuid": "e9d5d5c8-ec37-4d14-87d9-aa06d958bbe3",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A.dae",
+    "size": [
+      3.465986967086792,
+      8.22405618429184,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      1.732993483543396,
+      -3.82449010014534,
+      -0.010368995368480682
+    ],
+    "uuid": "ec0193b6-60a8-4a2a-976c-d2a43fe2e7a9",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A.dae",
+    "size": [
+      1.7201839685440063,
+      4.0739671140909195,
+      0.3711099997162819
+    ],
+    "center_offset": [
+      0.8600919842720032,
+      -1.936061553657055,
+      0.06662200018763542
+    ],
+    "uuid": "ec855f3c-e588-47c2-8f0c-3e81659ebd07",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Shar_Long_10H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Shar_ABC/Resources/DEC_BAN_Banner_Shar_Long_10H_A.dae",
+    "size": [
+      2.283486008644104,
+      10.33811816573143,
+      0.15286999940872192
+    ],
+    "center_offset": [
+      0.008526980876922607,
+      -4.842651084065437,
+      0.0
+    ],
+    "uuid": "ef43b400-91e1-4ea8-96f0-39ee3e01fe90",
+    "parent": "DEC_BAN_Banner_Shar_Long_10H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_1n5W_B_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_1n5W_B.dae",
+    "size": [
+      1.7210170030593872,
+      4.05037809163332,
+      0.49103400111198425
+    ],
+    "center_offset": [
+      -0.8605085015296936,
+      -1.9229110442101955,
+      0.006659999489784241
+    ],
+    "uuid": "f140cbac-9584-4749-bf05-9a8b260e3de6",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_1n5W_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_3W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_3W_A.dae",
+    "size": [
+      3.357426881790161,
+      4.048231936991215,
+      0.5199699997901917
+    ],
+    "center_offset": [
+      1.6787134408950806,
+      -1.923976968973875,
+      -0.0009829998016357422
+    ],
+    "uuid": "f48b613e-012f-4131-813e-f82e38e02c3f",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_3W_A"
+  },
+  {
+    "name": "DEC_BAN_Banner_Selune_Long_5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Selune_ABC/Resources/DEC_BAN_Banner_Selune_Long_5H_A.dae",
+    "size": [
+      2.2586801052093506,
+      5.41535410284996,
+      0.14972400665283203
+    ],
+    "center_offset": [
+      0.0,
+      -2.4233220368623734,
+      0.0
+    ],
+    "uuid": "f5a2d927-b633-44fc-8e7a-49fc81743ce4",
+    "parent": "DEC_BAN_Banner_Selune_Long_5H_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Leg_B_Githyanki_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Leg_B.dae",
+    "size": [
+      0.29731298983097076,
+      0.1807250026613474,
+      0.7886119782924652
+    ],
+    "center_offset": [
+      -0.007991500198841095,
+      0.07274750154465437,
+      -0.06796799600124359
+    ],
+    "uuid": "f73aa47e-6f40-4b51-8385-f06a3ca74a6e",
+    "parent": "DEC_GEN_Corpse_Body_Part_Leg_B"
+  },
+  {
+    "name": "DEC_GEN_HorseWagon_Wood_A_Destroyed_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_HorseWagon_Wood_ABC/Resources/DEC_GEN_HorseWagon_Wood_A.dae",
+    "size": [
+      3.219869017601013,
+      2.8300239592790604,
+      6.346462965011597
+    ],
+    "center_offset": [
+      0.0015215277671813965,
+      1.3879779800772667,
+      -0.8988515138626099
+    ],
+    "uuid": "f73acfa6-f9d4-4422-bc02-e6ef11f1b2c6",
+    "parent": "DEC_GEN_HorseWagon_Wood_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_A_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_1n5W_A.dae",
+    "size": [
+      1.5966590039461153,
+      4.013398107141256,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      -0.7981095019713393,
+      -1.9668350536376238,
+      0.00274449959397316
+    ],
+    "uuid": "f7b569ae-746e-43cb-9374-58833404488c",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_A"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Square_A_Broken_A_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Square_A_Broken_A.dae",
+    "size": [
+      0.7572459876537323,
+      0.09964599879458547,
+      0.9077949821949005
+    ],
+    "center_offset": [
+      0.10234199464321136,
+      0.04673399939201772,
+      0.17932049930095673
+    ],
+    "uuid": "fd307665-728c-4253-9ba5-be2f7436ccea",
+    "parent": "DEC_Temple_MarbleTiles_Square_A_Broken_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Hand_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Hand_A.dae",
+    "size": [
+      0.2536890059709549,
+      0.10406099981628358,
+      0.17050699889659882
+    ],
+    "center_offset": [
+      0.02207150310277939,
+      0.05494249996263534,
+      0.010771498084068298
+    ],
+    "uuid": "00e42bb5-1511-4465-a940-705c10063ccb",
+    "parent": "DEC_GEN_Corpse_Body_Part_Hand_A"
+  },
+  {
+    "name": "DEC_Foundry_Machinery_F_Bronze_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Machinery_ABC/Resources/DEC_Foundry_Machinery_F.dae",
+    "size": [
+      9.597184181213379,
+      3.829537034034729,
+      3.829535961151123
+    ],
+    "center_offset": [
+      -0.002460002899169922,
+      -1.4901161193847656e-06,
+      0.007112026214599609
+    ],
+    "uuid": "040f8898-0082-4788-a957-42fcced9ae63",
+    "parent": "DEC_Foundry_Machinery_F"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Two_Legs_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Two_Legs_A.dae",
+    "size": [
+      0.39232200384140015,
+      0.32588800229132175,
+      0.7926149964332581
+    ],
+    "center_offset": [
+      0.019995003938674927,
+      0.14418100100010633,
+      -0.055483490228652954
+    ],
+    "uuid": "06e67519-f4a9-4b47-9818-96c49db5ddba",
+    "parent": "DEC_GEN_Corpse_Body_Part_Two_Legs_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Waist_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Waist_A.dae",
+    "size": [
+      0.3965049982070923,
+      0.27282300777733326,
+      0.4030250012874603
+    ],
+    "center_offset": [
+      -0.0008504986763000488,
+      0.12361450400203466,
+      -0.026141494512557983
+    ],
+    "uuid": "095f190d-0472-4acf-b53c-16fdfcf364b5",
+    "parent": "DEC_GEN_Corpse_Body_Part_Waist_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A_Colorvar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_A.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "0a591022-f2b3-454e-a4f2-5215b64d0c20",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Leg_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Leg_A.dae",
+    "size": [
+      0.3059519976377487,
+      0.16782499849796295,
+      0.7850010097026825
+    ],
+    "center_offset": [
+      -0.0008310005068778992,
+      0.0689764991402626,
+      -0.06828050315380096
+    ],
+    "uuid": "0c5b01b9-610b-48c8-9901-f560960f641d",
+    "parent": "DEC_GEN_Corpse_Body_Part_Leg_A"
+  },
+  {
+    "name": "DEC_Foundry_Machinery_A_Bronze_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Machinery_ABC/Resources/DEC_Foundry_Machinery_A.dae",
+    "size": [
+      4.820901155471802,
+      9.524576682597399,
+      4.820901870727539
+    ],
+    "center_offset": [
+      2.5033950805664062e-06,
+      4.771150341257453,
+      0.0
+    ],
+    "uuid": "0cba4780-0b58-444b-b6af-422d1eec7720",
+    "parent": "DEC_Foundry_Machinery_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.4658989906311035,
+      8.223754823207855,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.824339419603348,
+      -0.010368995368480682
+    ],
+    "uuid": "0e692fa9-39c5-411d-ab82-876e6755d108",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim.dae",
+    "size": [
+      1.7201260328292847,
+      4.0731528997421265,
+      0.3711099997162819
+    ],
+    "center_offset": [
+      -0.8600630164146423,
+      -1.9368744492530823,
+      0.06662200018763542
+    ],
+    "uuid": "0fecf08c-a214-4290-bfa7-dd03d8ebd8a1",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B_Colorvar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_B.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "11d363c6-91b4-43bf-9318-f5b221cfd737",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B"
+  },
+  {
+    "name": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_B_Wind_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Cazador_Prison_Cage_ABC/Resources/DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_B.dae",
+    "size": [
+      3.4477341175079346,
+      82.02558493614197,
+      3.4477341175079346
+    ],
+    "center_offset": [
+      0.0,
+      -40.69218647480011,
+      0.0
+    ],
+    "uuid": "11ee57b0-bf93-4f73-ad0a-3b35b740a6f0",
+    "parent": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Base_Pedestal_B_Polished_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Base_Pedestal_ABC/Resources/DEC_GEN_Statue_Base_Pedestal_B.dae",
+    "size": [
+      2.299999952316284,
+      1.3999069787096232,
+      1.5
+    ],
+    "center_offset": [
+      0.0,
+      0.7007154893362895,
+      0.0
+    ],
+    "uuid": "18bd0923-4d81-4e21-8b63-82e58c48bd2d",
+    "parent": "DEC_GEN_Statue_Base_Pedestal_B"
+  },
+  {
+    "name": "DEC_Dungeon_SharTemple_Chain_Metal_A_50m_A_Hanging_A_Vista_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_SharTemple_Chain_Metal_ABC/Resources/DEC_Dungeon_SharTemple_Chain_Metal_A_50m_A_Hanging_A.dae",
+    "size": [
+      30.844022512435913,
+      52.374363392591476,
+      4.6084020137786865
+    ],
+    "center_offset": [
+      -14.057454228401184,
+      26.15822769701481,
+      0.105430006980896
+    ],
+    "uuid": "1d60ba4e-a636-4415-97d3-33ddae773985",
+    "parent": "DEC_Dungeon_SharTemple_Chain_Metal_A_50m_A_Hanging_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_D_Colorvar_D",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_D.dae",
+    "size": [
+      1.8001350164413452,
+      1.7487050294876099,
+      2.5000200420618057
+    ],
+    "center_offset": [
+      0.00030350685119628906,
+      -0.48905450105667114,
+      -1.0975270196795464
+    ],
+    "uuid": "1edef466-0f24-4a27-8c3e-6239c5730f8d",
+    "parent": "DEC_GEN_Market_Tarp_D"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A_Cloth_Sim.dae",
+    "size": [
+      1.7201260328292847,
+      4.073207899928093,
+      0.3711099997162819
+    ],
+    "center_offset": [
+      0.8600630164146423,
+      -1.936846949160099,
+      0.06662200018763542
+    ],
+    "uuid": "1faac5af-27f8-48df-afab-3ca778a3dc69",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_A_Hanging_C_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_A_Hanging_C.dae",
+    "size": [
+      1.002582997083664,
+      2.612483114004135,
+      0.21853100508451462
+    ],
+    "center_offset": [
+      -0.10056950151920319,
+      -1.1561345607042313,
+      -0.02497350051999092
+    ],
+    "uuid": "23c5b663-e5b6-4194-bd32-6c93d2c3ffd7",
+    "parent": "DEC_MF_Colony_Flesh_A_Hanging_C"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.465759038925171,
+      8.08790309727192,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      -1.7328795194625854,
+      -3.892568551003933,
+      0.11100150644779205
+    ],
+    "uuid": "286f2dad-eca7-4f79-a6ac-ed53b26ee2f3",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_A.dae",
+    "size": [
+      3.4658470153808594,
+      8.087901189923286,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      1.7329235076904297,
+      -3.8925675973296165,
+      0.11100150644779205
+    ],
+    "uuid": "294a97a8-d990-468f-b878-76e6e3a16d75",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_1n5W_B_Cloth_Sim.dae",
+    "size": [
+      1.7444470517366426,
+      4.070708051323891,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      -0.872003525866603,
+      -1.9354330226778984,
+      0.00274449959397316
+    ],
+    "uuid": "3082491c-2d9e-423f-b633-b56e507daed3",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_B_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_Fleece_B_Damaged_B.dae",
+    "size": [
+      7.388741970062256,
+      3.307993069291115,
+      0.23058399558067322
+    ],
+    "center_offset": [
+      0.0,
+      -1.4630455300211906,
+      0.0
+    ],
+    "uuid": "30c58e6b-59ea-4489-87c5-2aa92a36b34b",
+    "parent": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_B"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Arm_B_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Arm_B.dae",
+    "size": [
+      0.7150450050830841,
+      0.17229100782424212,
+      0.2603349983692169
+    ],
+    "center_offset": [
+      0.043400511145591736,
+      0.0750235035084188,
+      0.040771499276161194
+    ],
+    "uuid": "36e03384-d677-4267-b31c-ea2c7d870e97",
+    "parent": "DEC_GEN_Corpse_Body_Part_Arm_B"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Arm_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Arm_A.dae",
+    "size": [
+      0.7156510055065155,
+      0.13647600542753935,
+      0.26445700228214264
+    ],
+    "center_offset": [
+      0.03369949758052826,
+      0.05775100225582719,
+      0.02721550315618515
+    ],
+    "uuid": "382c111e-2d72-49f6-9e12-3aa867bfdbeb",
+    "parent": "DEC_GEN_Corpse_Body_Part_Arm_A"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_G_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_G.dae",
+    "size": [
+      0.24842900037765503,
+      1.5127650499343872,
+      0.6257469952106476
+    ],
+    "center_offset": [
+      -2.5503337383270264e-05,
+      0.7563825249671936,
+      4.917383193969727e-07
+    ],
+    "uuid": "39dce228-5ffc-40a9-896a-a8a86018e4ae",
+    "parent": "DEC_Foundry_Submarine_Parts_G"
+  },
+  {
+    "name": "DEC_HAR_Cage_Lobster_B_Bobbing_A",
+    "relative_path": "Decoration/Harbour/DEC_HAR_Cage_Lobster_ABC/Resources/DEC_HAR_Cage_Lobster_B.dae",
+    "size": [
+      0.9566940069198608,
+      0.423550009727478,
+      0.6520299911499023
+    ],
+    "center_offset": [
+      0.0,
+      0.211775004863739,
+      0.0
+    ],
+    "uuid": "3d894e41-2ffd-40d5-8cbc-2909a3916057",
+    "parent": "DEC_HAR_Cage_Lobster_B"
+  },
+  {
+    "name": "DEC_GEN_Statue_Shar_Normal_B_Flipped_Static",
+    "relative_path": "Decoration/Generic/DEC_GEN_Statue_Shar_Normal_ABC/Resources/DEC_GEN_Statue_Shar_Normal_B.dae",
+    "size": [
+      1.877290964126587,
+      3.1602530227974057,
+      1.1924720108509064
+    ],
+    "center_offset": [
+      -0.20607447624206543,
+      1.5706625110469759,
+      0.12499801814556122
+    ],
+    "uuid": "3e94fa4e-6b4e-4c48-965b-7d90cd8999da",
+    "parent": "DEC_GEN_Statue_Shar_Normal_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_1n5W_A_Cloth_Sim.dae",
+    "size": [
+      1.5966590039461153,
+      4.01356690749526,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      -0.7981095019713393,
+      -1.9669194538146257,
+      0.00274449959397316
+    ],
+    "uuid": "3fa059a1-cbe1-421a-a5e6-aa799d44f00f",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_1n5W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B.dae",
+    "size": [
+      3.465986967086792,
+      8.22405618429184,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      -1.732993483543396,
+      -3.82449010014534,
+      -0.010368995368480682
+    ],
+    "uuid": "3fc33d12-5666-4f30-9e73-86650c5f515e",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Long_2n5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Long_2n5H_A.dae",
+    "size": [
+      1.530720055103302,
+      3.7110589146614075,
+      0.1792439967393875
+    ],
+    "center_offset": [
+      0.0016629993915557861,
+      -1.3511894643306732,
+      0.003958001732826233
+    ],
+    "uuid": "3ff48817-cf26-400f-96cf-cf1078f5eb85",
+    "parent": "DEC_BAN_Banner_Absolute_Long_2n5H_A"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_C_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_C.dae",
+    "size": [
+      1.6036100387573242,
+      4.343132127076387,
+      1.2896180152893066
+    ],
+    "center_offset": [
+      -0.1569949984550476,
+      2.161744063720107,
+      -0.00018101930618286133
+    ],
+    "uuid": "4090ca7c-99b1-4ee8-9d35-65e655d902bb",
+    "parent": "DEC_GEN_Street_Fountain_C"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_3W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_3W_B_Cloth_Sim.dae",
+    "size": [
+      3.373254000398447,
+      4.070560976862907,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6864070001975051,
+      -1.9354204908013344,
+      -0.010368496179580688
+    ],
+    "uuid": "40fb4ec7-2936-478f-a1b7-9bd83288683f",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_3W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_Wind_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Cazador_Prison_Cage_ABC/Resources/DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low.dae",
+    "size": [
+      3.4477341175079346,
+      32.22472728788853,
+      3.4477341175079346
+    ],
+    "center_offset": [
+      0.0,
+      -15.976789645850658,
+      0.0
+    ],
+    "uuid": "419b032d-de84-4d49-b2aa-c4148046d3d0",
+    "parent": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_B.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "41ca0923-9f35-40ab-b17f-8e918dac0520",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.4658989906311035,
+      8.223754823207855,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.824339419603348,
+      -0.010368995368480682
+    ],
+    "uuid": "42fc074c-65d0-4c2a-b890-a01f149aeb33",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_HAR_Cage_Lobster_A_Bobbing_A",
+    "relative_path": "Decoration/Harbour/DEC_HAR_Cage_Lobster_ABC/Resources/DEC_HAR_Cage_Lobster_A.dae",
+    "size": [
+      0.9566940069198608,
+      0.41137298941612244,
+      0.6520299911499023
+    ],
+    "center_offset": [
+      0.0,
+      0.20568649470806122,
+      0.0
+    ],
+    "uuid": "440856a0-1163-4299-8cb2-e23c71c8d041",
+    "parent": "DEC_HAR_Cage_Lobster_A"
+  },
+  {
+    "name": "DEC_GEN_Carpet_Rectangle_A_Blue_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Carpet_Common_ABC/Resources/DEC_GEN_Carpet_Rectangle_A.dae",
+    "size": [
+      2.9891419410705566,
+      0.0,
+      4.368842124938965
+    ],
+    "center_offset": [
+      0.0,
+      0.00278700003400445,
+      0.0
+    ],
+    "uuid": "4445d718-7718-469a-ad79-2a0a9c8a74d9",
+    "parent": "DEC_GEN_Carpet_Rectangle_A"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_H_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_H.dae",
+    "size": [
+      0.8847649991512299,
+      1.6555540105327964,
+      0.8511260151863098
+    ],
+    "center_offset": [
+      0.04607050120830536,
+      0.8188950051553547,
+      0.014216005802154541
+    ],
+    "uuid": "4706c03d-2a77-4b14-ac73-b880f18e2f3c",
+    "parent": "DEC_Foundry_Submarine_Parts_H"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_A_Cloth_Sim.dae",
+    "size": [
+      3.357426881790161,
+      4.070561051368713,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      1.6787134408950806,
+      -1.9355785250663757,
+      0.047957003116607666
+    ],
+    "uuid": "478f4cef-1ce1-45f5-abc6-09ac918aac81",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Pile_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Pile/Resources/DEC_GEN_Corpse_Body_Pile_A.dae",
+    "size": [
+      3.088745951652527,
+      0.8770579928532243,
+      3.716171979904175
+    ],
+    "center_offset": [
+      -0.021987974643707275,
+      0.4315149965696037,
+      -0.0395200252532959
+    ],
+    "uuid": "4beda52b-67cd-4483-ae43-519db9722287",
+    "parent": "DEC_GEN_Corpse_Body_Pile_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_8H_A.dae",
+    "size": [
+      3.4658989906311035,
+      8.043796971440315,
+      0.6565940082073212
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.8681094869971275,
+      0.04996900260448456
+    ],
+    "uuid": "52bf5fc7-9c46-4e5c-b194-b36e8ecf7ae6",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.465759038925171,
+      8.08790309727192,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      -1.7328795194625854,
+      -3.892568551003933,
+      0.11100150644779205
+    ],
+    "uuid": "52edb77c-0ce1-4d4f-a9c1-a17c62074d6c",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.30259108543396,
+      8.001488976180553,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.65129554271698,
+      -3.9359324909746647,
+      -0.010369502007961273
+    ],
+    "uuid": "56ea35d8-6ae6-449a-ba04-c488012ca1fc",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.4658470153808594,
+      8.089559093117714,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      1.7329235076904297,
+      -3.8917405530810356,
+      0.11100150644779205
+    ],
+    "uuid": "58fd0398-18a1-43c5-b53f-0a7eb2552557",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_J_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_J.dae",
+    "size": [
+      0.6678510010242462,
+      1.4863059520721436,
+      1.0050389766693115
+    ],
+    "center_offset": [
+      0.0008075088262557983,
+      0.7431529760360718,
+      0.00041550397872924805
+    ],
+    "uuid": "5d30d2b6-fbce-4ec0-9f06-79b400ce1f92",
+    "parent": "DEC_Foundry_Submarine_Parts_J"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_B_Cloth_Sim.dae",
+    "size": [
+      1.7201260328292847,
+      4.161043047904968,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      -0.8600630164146423,
+      -1.8902655243873596,
+      0.00274449959397316
+    ],
+    "uuid": "5f406d8c-2a93-4a0d-8dbc-8e8291028fd7",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_B.dae",
+    "size": [
+      3.4658470153808594,
+      8.087901189923286,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      -1.7329235076904297,
+      -3.8925675973296165,
+      0.11100150644779205
+    ],
+    "uuid": "61c58e0d-90a9-4ec6-a898-d8d28369e32d",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A.dae",
+    "size": [
+      3.465986967086792,
+      8.22405618429184,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      1.732993483543396,
+      -3.82449010014534,
+      -0.010368995368480682
+    ],
+    "uuid": "6307d736-6fc9-4864-8058-a2065c95c4d4",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B_Cloth_Sim.dae",
+    "size": [
+      3.3645811080932617,
+      4.159352108836174,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6822905540466309,
+      -1.890940047800541,
+      -0.010368496179580688
+    ],
+    "uuid": "6434ee1d-5f57-4035-bda9-231230868fc8",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Long_10H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Long_10H_A.dae",
+    "size": [
+      2.257848024368286,
+      10.451917797327042,
+      0.14767400175333023
+    ],
+    "center_offset": [
+      0.0016629695892333984,
+      -4.933382913470268,
+      0.001683998852968216
+    ],
+    "uuid": "65f1c33a-a007-41c6-97e1-8c1dbf907fda",
+    "parent": "DEC_BAN_Banner_Absolute_Long_10H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Open_8H_A.dae",
+    "size": [
+      3.4658989906311035,
+      8.177545964717865,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.8012349903583527,
+      0.0002634972333908081
+    ],
+    "uuid": "671d0d5b-5d06-4f51-ac53-145adbf5db91",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Open_8H_A"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_A_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_Fleece_B_Damaged_A.dae",
+    "size": [
+      6.20353889465332,
+      3.3121259808540344,
+      0.24428799748420715
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      -1.5081439912319183,
+      0.0
+    ],
+    "uuid": "6ad0f750-3be5-498b-90fa-4f084a6f2a74",
+    "parent": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_A"
+  },
+  {
+    "name": "DEC_Dungeon_SharTemple_Chain_Metal_A_250m_A_Hanging_A_Vista_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_SharTemple_Chain_Metal_ABC/Resources/DEC_Dungeon_SharTemple_Chain_Metal_A_250m_A_Hanging_A.dae",
+    "size": [
+      75.29095816612244,
+      241.34173840284348,
+      5.304517984390259
+    ],
+    "center_offset": [
+      -35.5208340883255,
+      120.43746820092201,
+      -0.190743088722229
+    ],
+    "uuid": "6d4754a4-8046-4859-b6be-68ec1baa8ed6",
+    "parent": "DEC_Dungeon_SharTemple_Chain_Metal_A_250m_A_Hanging_A"
+  },
+  {
+    "name": "DEC_Dungeon_SharTemple_Chain_Metal_A_40m_A_Hanging_A_Vista_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_SharTemple_Chain_Metal_ABC/Resources/DEC_Dungeon_SharTemple_Chain_Metal_A_40m_A_Hanging_A.dae",
+    "size": [
+      18.355016469955444,
+      40.98345510661602,
+      4.520749092102051
+    ],
+    "center_offset": [
+      -7.81295120716095,
+      20.46277455240488,
+      0.14925646781921387
+    ],
+    "uuid": "6db9f50a-9142-4b4d-be5f-45abdea0bf99",
+    "parent": "DEC_Dungeon_SharTemple_Chain_Metal_A_40m_A_Hanging_A"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_A_Hanging_A_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_A_Hanging_A.dae",
+    "size": [
+      3.0908150672912598,
+      4.787838786840439,
+      0.4501979947090149
+    ],
+    "center_offset": [
+      -0.2544595003128052,
+      -2.0722413808107376,
+      0.0
+    ],
+    "uuid": "70100e1f-0634-47d7-b933-6e79c9b9bc8d",
+    "parent": "DEC_MF_Colony_Flesh_A_Hanging_A"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_B_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_B.dae",
+    "size": [
+      1.1643880009651184,
+      3.0378220081329346,
+      1.4520869851112366
+    ],
+    "center_offset": [
+      -0.10098901391029358,
+      1.5189110040664673,
+      5.066394805908203e-07
+    ],
+    "uuid": "71106c10-4a54-4b1e-aaee-91eee11f2f01",
+    "parent": "DEC_GEN_Street_Fountain_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.30259108543396,
+      8.001488976180553,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.65129554271698,
+      -3.9359324909746647,
+      -0.010369502007961273
+    ],
+    "uuid": "73613c3a-93ba-44f8-9f8b-4ad3bc0558ba",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_8H_A.dae",
+    "size": [
+      3.3025899220374413,
+      7.954976849257946,
+      0.5580289959907532
+    ],
+    "center_offset": [
+      -1.6509649610088672,
+      -3.912676427513361,
+      -4.2498111724853516e-05
+    ],
+    "uuid": "746dd518-f268-428e-a870-4e17ce614daa",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Carpet_Rectangle_Small_A_Red_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Carpet_Common_ABC/Resources/DEC_GEN_Carpet_Rectangle_Small_A.dae",
+    "size": [
+      2.092400074005127,
+      0.0,
+      3.058190107345581
+    ],
+    "center_offset": [
+      0.0,
+      0.00278700003400445,
+      0.0
+    ],
+    "uuid": "7679c0b5-55ff-424a-ae0a-7af804e756a8",
+    "parent": "DEC_GEN_Carpet_Rectangle_Small_A"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_Platform_A_Broken_A_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_Platform_A_Broken_A.dae",
+    "size": [
+      5.636609077453613,
+      1.0140730142593384,
+      5.777327060699463
+    ],
+    "center_offset": [
+      -0.0055544376373291016,
+      0.06165951490402222,
+      0.05248451232910156
+    ],
+    "uuid": "7b8044d6-917b-48d1-9130-6cf2dad01f27",
+    "parent": "DEC_GEN_Street_Fountain_Platform_A_Broken_A"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Leg_B_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Leg_B.dae",
+    "size": [
+      0.29731298983097076,
+      0.1807250026613474,
+      0.7886119782924652
+    ],
+    "center_offset": [
+      -0.007991500198841095,
+      0.07274750154465437,
+      -0.06796799600124359
+    ],
+    "uuid": "7bc53025-4230-4313-a563-0873f1a18a80",
+    "parent": "DEC_GEN_Corpse_Body_Part_Leg_B"
+  },
+  {
+    "name": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_C_Wind_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_Cazador_Prison_Cage_ABC/Resources/DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_C.dae",
+    "size": [
+      3.4477341175079346,
+      78.74125650525093,
+      3.4477341175079346
+    ],
+    "center_offset": [
+      0.0,
+      -39.08293925225735,
+      0.0
+    ],
+    "uuid": "7f3598f7-0604-4fa4-9fe5-c990bd9667ed",
+    "parent": "DEC_Dungeon_Cazador_Prison_Cage_A_Hanging_low_C"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim.dae",
+    "size": [
+      3.357426881790161,
+      4.072339050471783,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      -1.6787134408950806,
+      -1.934689525514841,
+      0.047957003116607666
+    ],
+    "uuid": "83d3e89c-3621-4735-9765-c393e4095e4e",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Top_Side_Right_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Top_Side_Right.dae",
+    "size": [
+      0.34558798745274544,
+      1.2660599946975708,
+      0.6755089957505334
+    ],
+    "center_offset": [
+      -0.16108899377286434,
+      -0.6330299973487854,
+      -0.33775149787516057
+    ],
+    "uuid": "854bae39-dc68-4c9a-9152-8c5677bb9928",
+    "parent": "DEC_GEN_Curtain_Rich_Top_Side_Right"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.4658989906311035,
+      8.223754823207855,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      1.7329494953155518,
+      -3.824339419603348,
+      -0.010368995368480682
+    ],
+    "uuid": "858667e4-d747-4112-a474-f25b02f0b7a9",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_HeadMale_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_HeadMale_A.dae",
+    "size": [
+      0.17924999445676804,
+      0.23869600519537926,
+      0.30388300120830536
+    ],
+    "center_offset": [
+      0.0016600005328655243,
+      0.10093300230801105,
+      -0.01690950244665146
+    ],
+    "uuid": "86f5f061-e4f2-4178-a351-fcbf64158b4b",
+    "parent": "DEC_GEN_Corpse_Body_Part_HeadMale_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A_Cloth_Sim.dae",
+    "size": [
+      1.7201260328292847,
+      4.161043047904968,
+      0.24335499852895737
+    ],
+    "center_offset": [
+      0.8600630164146423,
+      -1.8902655243873596,
+      0.00274449959397316
+    ],
+    "uuid": "88bf79c1-c4be-45e1-8ef3-887ab8d8fdf0",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_1n5W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_A_Hanging_B_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_A_Hanging_B.dae",
+    "size": [
+      2.1429139971733093,
+      3.9170179814100266,
+      0.8242339789867401
+    ],
+    "center_offset": [
+      -0.11039999127388,
+      -1.8029269948601723,
+      -0.09008599817752838
+    ],
+    "uuid": "8b68fcbf-f7d4-4ceb-a080-67103fcdeebe",
+    "parent": "DEC_MF_Colony_Flesh_A_Hanging_B"
+  },
+  {
+    "name": "DEC_GEN_Wagon_Coach_A_ColorVar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Wagon_Coach_ABC/Resources/DEC_GEN_Wagon_Coach_A.dae",
+    "size": [
+      7.142292022705078,
+      3.2791970792459324,
+      3.031888961791992
+    ],
+    "center_offset": [
+      -0.0005700588226318359,
+      1.640656539646443,
+      0.00028645992279052734
+    ],
+    "uuid": "8ccfab71-7400-495a-bfcd-e5b3d569d117",
+    "parent": "DEC_GEN_Wagon_Coach_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.4951789379119873,
+      8.08971993625164,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.7475894689559937,
+      -3.8918179646134377,
+      -0.010369502007961273
+    ],
+    "uuid": "8d9fe6d9-c4b6-49b9-902e-1a2011ad74bd",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_C_Cloth_Sim",
+    "relative_path": "Decoration/MindFlayer/DEC_MF_Colony_Flesh_ABC/Resources/DEC_MF_Colony_Flesh_Fleece_B_Damaged_C.dae",
+    "size": [
+      2.548069953918457,
+      3.1551000773906708,
+      0.20302799344062805
+    ],
+    "center_offset": [
+      0.0,
+      -1.4642900377511978,
+      0.0
+    ],
+    "uuid": "8de502ee-73fa-48c5-9f18-bdc0c16dc00a",
+    "parent": "DEC_MF_Colony_Flesh_Fleece_B_Damaged_C"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim_Black_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim.dae",
+    "size": [
+      3.357426881790161,
+      4.072339050471783,
+      0.4084399938583374
+    ],
+    "center_offset": [
+      -1.6787134408950806,
+      -1.934689525514841,
+      0.047957003116607666
+    ],
+    "uuid": "9281c520-1c58-4cf3-a7ff-8db044765d5b",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_3W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_A_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_A.dae",
+    "size": [
+      0.24837899953126907,
+      0.6627599773928523,
+      0.32986199855804443
+    ],
+    "center_offset": [
+      0.03865550085902214,
+      0.3293389887548983,
+      0.0
+    ],
+    "uuid": "9295e518-dc5a-4f64-b87f-f4f0e8d90b86",
+    "parent": "DEC_Foundry_Submarine_Parts_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A_Cloth_Sim.dae",
+    "size": [
+      3.3583180904388428,
+      4.159352108836174,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      1.6791590452194214,
+      -1.890940047800541,
+      -0.010368496179580688
+    ],
+    "uuid": "93f17652-0db6-4a2e-9409-fa1420f6768f",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_3W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Circus_Stand_A_Roof_A",
+    "relative_path": "Decoration/Circus/DEC_Circus_Stand_A/Resources/DEC_Circus_Stand_A.dae",
+    "size": [
+      8.864815711975098,
+      4.106286861933768,
+      11.482566833496094
+    ],
+    "center_offset": [
+      0.0,
+      2.0434194314293563,
+      -0.0031375885009765625
+    ],
+    "uuid": "9c3e5a5a-8c11-43d5-acf8-595f502a46f2",
+    "parent": "DEC_Circus_Stand_A"
+  },
+  {
+    "name": "DEC_Temple_MarbleTiles_Slab_A_Dirty_A",
+    "relative_path": "Decoration/Temple/DEC_Temple_MarbleTiles_A/Resources/DEC_Temple_MarbleTiles_Slab_A.dae",
+    "size": [
+      1.3148580193519592,
+      0.09723199729342014,
+      2.711887001991272
+    ],
+    "center_offset": [
+      0.008827000856399536,
+      0.04673399863531813,
+      0.008932530879974365
+    ],
+    "uuid": "9c7a1b34-c567-4962-b095-3e31922e2893",
+    "parent": "DEC_Temple_MarbleTiles_Slab_A"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_Platform_A_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_Platform_A.dae",
+    "size": [
+      5.6477179527282715,
+      0.5481580011546612,
+      5.67235803604126
+    ],
+    "center_offset": [
+      0.0,
+      0.21172800101339817,
+      0.0
+    ],
+    "uuid": "9ed599ea-3ba9-41e1-8d7e-080080b5d3f7",
+    "parent": "DEC_GEN_Street_Fountain_Platform_A"
+  },
+  {
+    "name": "DEC_Foundry_Machinery_E_Bronze_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Machinery_ABC/Resources/DEC_Foundry_Machinery_E.dae",
+    "size": [
+      5.165232181549072,
+      6.567419767379761,
+      5.641694068908691
+    ],
+    "center_offset": [
+      -0.005928993225097656,
+      2.2878319025039673,
+      0.006448984146118164
+    ],
+    "uuid": "9f29b6c8-2160-4974-8961-86fd537ec2a3",
+    "parent": "DEC_Foundry_Machinery_E"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim_Blue_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim.dae",
+    "size": [
+      1.7201260328292847,
+      4.0731528997421265,
+      0.3711099997162819
+    ],
+    "center_offset": [
+      -0.8600630164146423,
+      -1.9368744492530823,
+      0.06662200018763542
+    ],
+    "uuid": "a7ad2384-d59a-4c2c-afa9-49bdbdf17a90",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_1n5W_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Carpet_Rectangle_A_Green_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Carpet_Common_ABC/Resources/DEC_GEN_Carpet_Rectangle_A.dae",
+    "size": [
+      2.9891419410705566,
+      0.0,
+      4.368842124938965
+    ],
+    "center_offset": [
+      0.0,
+      0.00278700003400445,
+      0.0
+    ],
+    "uuid": "a95f1304-e43f-48e6-a0eb-882b0fad49d3",
+    "parent": "DEC_GEN_Carpet_Rectangle_A"
+  },
+  {
+    "name": "DEC_Dungeon_SharTemple_Chain_Metal_A_65m_A_Hanging_A_Vista_A",
+    "relative_path": "Decoration/Dungeon/DEC_Dungeon_SharTemple_Chain_Metal_ABC/Resources/DEC_Dungeon_SharTemple_Chain_Metal_A_65m_A_Hanging_A.dae",
+    "size": [
+      51.813896894454956,
+      66.54805312305689,
+      4.595023095607758
+    ],
+    "center_offset": [
+      -23.784339547157288,
+      33.35531456395984,
+      1.366106539964676
+    ],
+    "uuid": "a9acd4a0-e3b6-4b6f-a4f5-dd601a564986",
+    "parent": "DEC_Dungeon_SharTemple_Chain_Metal_A_65m_A_Hanging_A"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_E_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_E.dae",
+    "size": [
+      0.24506699293851852,
+      0.5270729959011078,
+      1.154682993888855
+    ],
+    "center_offset": [
+      -0.003856498748064041,
+      -0.012664511799812317,
+      4.76837158203125e-07
+    ],
+    "uuid": "acc5cd02-eaa5-4603-a8d5-c34d31eb06e7",
+    "parent": "DEC_Foundry_Submarine_Parts_E"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_K_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_K.dae",
+    "size": [
+      0.52158802858321,
+      0.9518299996852875,
+      0.2862590104341507
+    ],
+    "center_offset": [
+      0.25983801428810693,
+      0.02077101171016693,
+      0.012548498809337616
+    ],
+    "uuid": "afa77325-f413-4c34-b0ad-f1b2c41e02b1",
+    "parent": "DEC_Foundry_Submarine_Parts_K"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_F_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_F.dae",
+    "size": [
+      1.2026619911193848,
+      1.9537220194470137,
+      1.3979090452194214
+    ],
+    "center_offset": [
+      0.0,
+      0.9766470097238198,
+      -0.048372507095336914
+    ],
+    "uuid": "b19a4c0d-8924-4963-baa1-7ab583348d73",
+    "parent": "DEC_Foundry_Submarine_Parts_F"
+  },
+  {
+    "name": "DEC_GEN_Carpet_Rectangle_A_Turquoise_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Carpet_Common_ABC/Resources/DEC_GEN_Carpet_Rectangle_A.dae",
+    "size": [
+      2.9891419410705566,
+      0.0,
+      4.368842124938965
+    ],
+    "center_offset": [
+      0.0,
+      0.00278700003400445,
+      0.0
+    ],
+    "uuid": "b3ed2a12-0edf-4fce-a082-9b431bb3cbb2",
+    "parent": "DEC_GEN_Carpet_Rectangle_A"
+  },
+  {
+    "name": "DEC_Foundry_Machinery_C_Bronze_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Machinery_ABC/Resources/DEC_Foundry_Machinery_C.dae",
+    "size": [
+      3.956221103668213,
+      6.360878128558397,
+      3.4974780082702637
+    ],
+    "center_offset": [
+      -0.2615995407104492,
+      3.1875280644744635,
+      -0.03219401836395264
+    ],
+    "uuid": "baea9a2c-418c-477c-8db5-127f408948e0",
+    "parent": "DEC_Foundry_Machinery_C"
+  },
+  {
+    "name": "DEC_BAN_Banner_Absolute_Long_5H_A_Destroyed_A",
+    "relative_path": "Decoration/Banners/DEC_BAN_Banner_Absolute_ABC/Resources/DEC_BAN_Banner_Absolute_Long_5H_A.dae",
+    "size": [
+      2.257848024368286,
+      5.412611156702042,
+      0.14767400175333023
+    ],
+    "center_offset": [
+      0.0016629695892333984,
+      -2.4137295931577682,
+      0.001683998852968216
+    ],
+    "uuid": "bfc164d7-02ef-4b26-8b59-ba44391e5f0b",
+    "parent": "DEC_BAN_Banner_Absolute_Long_5H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.4658989906311035,
+      8.223754823207855,
+      0.2917879968881607
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.824339419603348,
+      -0.010368995368480682
+    ],
+    "uuid": "bff13ebd-6d9c-4ec2-ba2e-3a535f9b0712",
+    "parent": "DEC_GEN_Curtain_Common_Ceiling_Closed_8H_B_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_L_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_L.dae",
+    "size": [
+      1.009660005569458,
+      1.6019189779181033,
+      3.6911110877990723
+    ],
+    "center_offset": [
+      -0.3701930046081543,
+      0.80300948896911,
+      -0.011615514755249023
+    ],
+    "uuid": "c0430e7c-12b0-4134-b1bb-af0d55433425",
+    "parent": "DEC_Foundry_Submarine_Parts_L"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_A_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_A.dae",
+    "size": [
+      3.30259108543396,
+      8.00148706883192,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.65129554271698,
+      -3.9359315373003483,
+      -0.010369502007961273
+    ],
+    "uuid": "c1d279ae-fce1-49ae-84a9-8ae88137ae6c",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Rich_Top_Side_Left_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Rich_Top_Side_Left.dae",
+    "size": [
+      0.34134299121797085,
+      1.2660599946975708,
+      0.6755089957505334
+    ],
+    "center_offset": [
+      0.1589654954150319,
+      -0.6330299973487854,
+      -0.33775149787516057
+    ],
+    "uuid": "c2d0bc5a-274a-42b4-a0dd-c79edc70c225",
+    "parent": "DEC_GEN_Curtain_Rich_Top_Side_Left"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Pile_B_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Pile_B.dae",
+    "size": [
+      1.1310070157051086,
+      0.5136799961328506,
+      0.9317539930343628
+    ],
+    "center_offset": [
+      -0.14917150139808655,
+      0.05774500221014023,
+      0.06523698568344116
+    ],
+    "uuid": "c322e6c7-1e0f-4119-8acf-ae7f50d0c6e4",
+    "parent": "DEC_GEN_Corpse_Pile_B"
+  },
+  {
+    "name": "DEC_GEN_Wagon_Coach_A_ColorVar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Wagon_Coach_ABC/Resources/DEC_GEN_Wagon_Coach_A.dae",
+    "size": [
+      7.142292022705078,
+      3.2791970792459324,
+      3.031888961791992
+    ],
+    "center_offset": [
+      -0.0005700588226318359,
+      1.640656539646443,
+      0.00028645992279052734
+    ],
+    "uuid": "c6a70220-9bb1-4dab-a3c8-5b2698caa04e",
+    "parent": "DEC_GEN_Wagon_Coach_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim.dae",
+    "size": [
+      3.290430008622934,
+      4.010480102151632,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6449950043097488,
+      -1.9653760511428118,
+      -0.010368496179580688
+    ],
+    "uuid": "d1d29b21-3c68-4a8f-a3f0-3cc4bd507a0f",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_A_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_A.dae",
+    "size": [
+      1.219319999217987,
+      3.0126841068267822,
+      0.9371339976787567
+    ],
+    "center_offset": [
+      -0.22616800665855408,
+      1.5063420534133911,
+      0.089276984333992
+    ],
+    "uuid": "d45922eb-1afe-4376-845d-c884bcebd4f9",
+    "parent": "DEC_GEN_Street_Fountain_A"
+  },
+  {
+    "name": "DEC_HoH_Engine_Body_B_Bronze_A",
+    "relative_path": "Decoration/HouseOfHope/DEC_HoH_Engine_ABC/Resources/DEC_HoH_Engine_Body_B.dae",
+    "size": [
+      5.921045780181885,
+      10.70897987484932,
+      5.921045780181885
+    ],
+    "center_offset": [
+      0.0,
+      5.038319930434227,
+      -5.0067901611328125e-06
+    ],
+    "uuid": "d47c7a00-7386-4f73-9230-9d3bab88587d",
+    "parent": "DEC_HoH_Engine_Body_B"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Torso_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Torso_A.dae",
+    "size": [
+      0.5417349934577942,
+      0.3179029952734709,
+      0.48437200486660004
+    ],
+    "center_offset": [
+      -0.033260494470596313,
+      0.13918449822813272,
+      -0.024144001305103302
+    ],
+    "uuid": "dbbca28f-5e2b-4a32-a638-950f04e787c1",
+    "parent": "DEC_GEN_Corpse_Body_Part_Torso_A"
+  },
+  {
+    "name": "DEC_GEN_Market_Tarp_F_Colorvar_C",
+    "relative_path": "Decoration/Generic/DEC_GEN_Market_Tarp_ABC/Resources/DEC_GEN_Market_Tarp_F.dae",
+    "size": [
+      2.2854080200195312,
+      2.664377987384796,
+      2.02079701423645
+    ],
+    "center_offset": [
+      0.002115964889526367,
+      -0.7071619927883148,
+      -0.39335548877716064
+    ],
+    "uuid": "dc1053c4-b90b-4a05-8dc6-f87701b47c55",
+    "parent": "DEC_GEN_Market_Tarp_F"
+  },
+  {
+    "name": "DEC_Foundry_Machinery_D_Bronze_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Machinery_ABC/Resources/DEC_Foundry_Machinery_D.dae",
+    "size": [
+      5.165232181549072,
+      6.696643114089966,
+      5.403464078903198
+    ],
+    "center_offset": [
+      -0.005928993225097656,
+      2.35244357585907,
+      -0.11266601085662842
+    ],
+    "uuid": "dc75fde4-e63a-4ad3-ac05-8406ff9a6e7e",
+    "parent": "DEC_Foundry_Machinery_D"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Guts_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Guts_A.dae",
+    "size": [
+      0.36305999755859375,
+      0.15558599680662155,
+      0.350940003991127
+    ],
+    "center_offset": [
+      0.01196199655532837,
+      0.0526839978992939,
+      -0.0005129948258399963
+    ],
+    "uuid": "ddd11edf-88fc-49a2-885c-eb2f38f715b8",
+    "parent": "DEC_GEN_Corpse_Body_Part_Guts_A"
+  },
+  {
+    "name": "DEC_GEN_Carpet_Common_Small_A_ID_Green",
+    "relative_path": "Decoration/Generic/DEC_GEN_Carpet_Common_ABC/Resources/DEC_GEN_Carpet_Common_Small_A.dae",
+    "size": [
+      1.9688550233840942,
+      0.11073799896985292,
+      2.6565319299697876
+    ],
+    "center_offset": [
+      -0.1361585259437561,
+      0.04136699950322509,
+      -0.004447996616363525
+    ],
+    "uuid": "e0a178ad-c2cf-49a1-bc9e-da9b208e3d4c",
+    "parent": "DEC_GEN_Carpet_Common_Small_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim_Colorvar_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim.dae",
+    "size": [
+      3.4658470153808594,
+      8.089559093117714,
+      0.5345290005207062
+    ],
+    "center_offset": [
+      1.7329235076904297,
+      -3.8917405530810356,
+      0.11100150644779205
+    ],
+    "uuid": "e1e18fb1-5525-4f38-9b83-b38eb9deccee",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Closed_8H_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_HeadFemale_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_HeadFemale_A.dae",
+    "size": [
+      0.20468799769878387,
+      0.22069599386304617,
+      0.3156219869852066
+    ],
+    "center_offset": [
+      -0.0011240020394325256,
+      0.09926599683240056,
+      -0.01453699916601181
+    ],
+    "uuid": "e669be22-57cd-4e79-9218-e352393b37d4",
+    "parent": "DEC_GEN_Corpse_Body_Part_HeadFemale_A"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_I_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_I.dae",
+    "size": [
+      0.7186920228414237,
+      1.186327040195465,
+      1.0278690159320831
+    ],
+    "center_offset": [
+      0.3535570113454014,
+      -0.11713650822639465,
+      -0.07061950862407684
+    ],
+    "uuid": "e7a4235c-df1a-4776-9ab2-32472d298de8",
+    "parent": "DEC_Foundry_Submarine_Parts_I"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Wall_Open_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Wall_Open_8H_B.dae",
+    "size": [
+      3.4658989906311035,
+      8.043046966195107,
+      0.6565940082073212
+    ],
+    "center_offset": [
+      -1.7329494953155518,
+      -3.868484489619732,
+      0.04996900260448456
+    ],
+    "uuid": "e9febde4-1f97-40f9-abcf-1e122bb2e11b",
+    "parent": "DEC_GEN_Curtain_Common_Wall_Open_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_B.dae",
+    "size": [
+      3.4951789379119873,
+      8.088059023022652,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.7475894689559937,
+      -3.892646513879299,
+      -0.010369502007961273
+    ],
+    "uuid": "ec90fdf4-8776-4ae7-82fa-32da03dfb381",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Open_8H_B_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Open_8H_B.dae",
+    "size": [
+      3.4950909901526757,
+      8.039658799767494,
+      0.5571829974651337
+    ],
+    "center_offset": [
+      -1.7472154950664844,
+      -3.8703364059329033,
+      0.0003805011510848999
+    ],
+    "uuid": "ed0aa445-e4bc-42b1-84d6-c30072c3c270",
+    "parent": "DEC_GEN_Curtain_Common_Side_Open_8H_B"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim_Black_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim.dae",
+    "size": [
+      3.290430008622934,
+      4.010480102151632,
+      0.2917889952659607
+    ],
+    "center_offset": [
+      -1.6449950043097488,
+      -1.9653760511428118,
+      -0.010368496179580688
+    ],
+    "uuid": "f528688c-4a17-4ede-b1de-97c7ac397467",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_3W_A_Cloth_Sim"
+  },
+  {
+    "name": "DEC_Foundry_Submarine_Parts_C_Iron_A",
+    "relative_path": "Decoration/Foundry/DEC_Foundry_Submarine_Parts_ABC/Resources/DEC_Foundry_Submarine_Parts_C.dae",
+    "size": [
+      1.3750499486923218,
+      0.14483600109815598,
+      1.3732279539108276
+    ],
+    "center_offset": [
+      -0.001230001449584961,
+      0.02616799995303154,
+      0.0003190040588378906
+    ],
+    "uuid": "f5aa5170-894b-475f-8e68-ec36f514f3dc",
+    "parent": "DEC_Foundry_Submarine_Parts_C"
+  },
+  {
+    "name": "DEC_GEN_Corpse_Body_Part_Foot_A_Mummified_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Corpse_Body_Part_ABC/Resources/DEC_GEN_Corpse_Body_Part_Foot_A.dae",
+    "size": [
+      0.3024450093507767,
+      0.11427100328728557,
+      0.1783130019903183
+    ],
+    "center_offset": [
+      -0.01551549881696701,
+      0.05495650158263743,
+      0.018503502011299133
+    ],
+    "uuid": "fb147867-36a7-4aee-b5e9-9588cb933f4e",
+    "parent": "DEC_GEN_Corpse_Body_Part_Foot_A"
+  },
+  {
+    "name": "DEC_GEN_Street_Fountain_C_Broken_A_Dirty_A",
+    "relative_path": "Decoration/Generic/DEC_GEN_Street_Fountain_ABC/Resources/DEC_GEN_Street_Fountain_C_Broken_A.dae",
+    "size": [
+      2.2225319743156433,
+      1.6801219936460257,
+      4.883117079734802
+    ],
+    "center_offset": [
+      -0.13661399483680725,
+      0.8246989967301488,
+      -1.2780235409736633
+    ],
+    "uuid": "fc078a5e-77e4-4f53-a737-c1066aeee063",
+    "parent": "DEC_GEN_Street_Fountain_C_Broken_A"
+  },
+  {
+    "name": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim_Colorvar_B",
+    "relative_path": "Decoration/Generic/DEC_GEN_Curtain_ABC/Resources/DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim.dae",
+    "size": [
+      3.4951789379119873,
+      8.08971993625164,
+      0.2917890101671219
+    ],
+    "center_offset": [
+      -1.7475894689559937,
+      -3.8918179646134377,
+      -0.010369502007961273
+    ],
+    "uuid": "fd1da00b-fa0e-4a66-8d05-3359182ccd3c",
+    "parent": "DEC_GEN_Curtain_Common_Side_Closed_8H_B_Cloth_Sim"
   }
 ]

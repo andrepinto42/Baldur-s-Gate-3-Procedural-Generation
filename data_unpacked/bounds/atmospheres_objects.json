@@ -191,5 +191,21 @@
       -2.384819060564041
     ],
     "uuid": "1c031c70-935a-469c-9bb4-003ff668c60e"
+  },
+  {
+    "name": "ATM_GodRay_25m_A_Weak_Blue",
+    "relative_path": "Atmospheres/Resources/ATM_GodRay_25m_A.dae",
+    "size": [
+      4.7471418380737305,
+      24.973525093627927,
+      4.747140884399414
+    ],
+    "center_offset": [
+      0.0,
+      -12.486761546813966,
+      4.76837158203125e-07
+    ],
+    "uuid": "6e29ed8e-77ad-47bc-bba2-bcac304a5454",
+    "parent": "ATM_GodRay_25m_A"
   }
 ]

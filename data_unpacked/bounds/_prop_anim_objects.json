@@ -2032,5 +2032,21 @@
       0.4216275056824088,
       0.0
     ]
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Wulbren_A_Hanging_A_Blood_Speckeled_A_DONOTUSE",
+    "relative_path": "_PROP_ANIM/_Anims/Loot/Generic/Resources/LOOT_GEN_Amulet_Wulbren_A_Hanging_A.dae",
+    "size": [
+      0.09777399897575378,
+      0.21670899167656898,
+      0.07457300089299679
+    ],
+    "center_offset": [
+      0.002018999308347702,
+      0.06157749705016613,
+      -0.015413501299917698
+    ],
+    "uuid": "cb0fbc0e-9088-41e6-bce4-da9a9ba14529",
+    "parent": "LOOT_GEN_Amulet_Wulbren_A_Hanging_A"
   }
 ]

@@ -13757,5 +13757,1765 @@
       -0.01266402006149292
     ],
     "uuid": "36c9cf7a-b075-4c01-8fa5-13824560f421"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Rich_A_Dynamic_Door",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Rich_ABC/Resources/FUR_GEN_Bookcase_Wood_Rich_A.dae",
+    "size": [
+      4.148715972900391,
+      3.677159931991582,
+      1.5437679886817932
+    ],
+    "center_offset": [
+      0.0,
+      1.838581965995786,
+      -0.00014099478721618652
+    ],
+    "uuid": "204d2b66-1132-411d-89ba-371a468db98e",
+    "parent": "FUR_GEN_Bookcase_Wood_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_A.dae",
+    "size": [
+      3.2049520015716553,
+      3.010991096496582,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      -0.00359499454498291,
+      1.505495548248291,
+      0.013802021741867065
+    ],
+    "uuid": "01a543f9-c729-42e4-9e06-22468cb4f4b5",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_A_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_A.dae",
+    "size": [
+      1.9871000051498413,
+      3.3412210941314697,
+      3.3690779209136963
+    ],
+    "center_offset": [
+      -0.0017830133438110352,
+      1.6706105470657349,
+      0.0
+    ],
+    "uuid": "02e81f69-d1ee-42cf-a719-ab539c1126aa",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_A"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_A.dae",
+    "size": [
+      1.7197999954223633,
+      3.0028839111328125,
+      0.9778569936752319
+    ],
+    "center_offset": [
+      0.0037940144538879395,
+      1.5014419555664062,
+      0.011103510856628418
+    ],
+    "uuid": "03b41875-2b13-497c-81b7-0f22648f0d85",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_G_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_G.dae",
+    "size": [
+      1.6519320011138916,
+      2.1735479831695557,
+      3.2026140689849854
+    ],
+    "center_offset": [
+      -0.00021201372146606445,
+      1.0867739915847778,
+      0.00418400764465332
+    ],
+    "uuid": "04004b82-1b8d-497a-bf7e-81f1391504aa",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_G"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_B_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_B.dae",
+    "size": [
+      2.587712049484253,
+      2.634125117212534,
+      3.3358880281448364
+    ],
+    "center_offset": [
+      -2.9802322387695312e-06,
+      1.312026558443904,
+      0.004723012447357178
+    ],
+    "uuid": "05a88104-6e07-4c9c-915e-dee8d37304a9",
+    "parent": "FUR_GEN_Bed_Double_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Closet_Wood_Rich_A_Colorvar_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/FUR_GEN_Closet_Wood_Rich_A.dae",
+    "size": [
+      1.680609941482544,
+      2.884570918045938,
+      0.8632460236549377
+    ],
+    "center_offset": [
+      0.0,
+      1.4383774590678513,
+      0.0
+    ],
+    "uuid": "05ab9dd0-89b0-4f11-bbf9-a40abe90fbc3",
+    "parent": "FUR_GEN_Closet_Wood_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_F_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_F.dae",
+    "size": [
+      1.6591570377349854,
+      2.1735479831695557,
+      3.2026140689849854
+    ],
+    "center_offset": [
+      0.0034005045890808105,
+      1.0867739915847778,
+      0.00418400764465332
+    ],
+    "uuid": "06882c8d-1775-44a0-8ba9-4917d06b78e4",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_F"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Rich_D_Dynamic_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Rich_ABC/Resources/FUR_GEN_Bookcase_Wood_Rich_D.dae",
+    "size": [
+      5.1200549602508545,
+      4.766977787017822,
+      1.231427013874054
+    ],
+    "center_offset": [
+      5.960464477539062e-07,
+      2.383488893508911,
+      -5.066394805908203e-07
+    ],
+    "uuid": "0871be71-ba31-49fe-9d7c-226cb1a6e7f5",
+    "parent": "FUR_GEN_Bookcase_Wood_Rich_D"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_E_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_E.dae",
+    "size": [
+      2.587709903717041,
+      2.450223922729492,
+      3.2465559244155884
+    ],
+    "center_offset": [
+      0.0,
+      1.225111961364746,
+      0.0047209858894348145
+    ],
+    "uuid": "0b6c179f-9582-44aa-821c-4704a7d3f98c",
+    "parent": "FUR_GEN_Bed_Double_Rich_E"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_A_Dirty_Blue_A_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_A.dae",
+    "size": [
+      2.5877100229263306,
+      2.450222969055176,
+      3.4233710765838623
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      1.225111484527588,
+      0.002485513687133789
+    ],
+    "uuid": "0cd76bdd-e1af-4a50-92ef-26499ec745f6",
+    "parent": "FUR_GEN_Bed_Double_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A_Broken_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "1f9f165c-9b67-4b62-b188-e6ff4225f371",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_D_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_D.dae",
+    "size": [
+      2.587709903717041,
+      2.450223922729492,
+      3.2465559244155884
+    ],
+    "center_offset": [
+      0.0,
+      1.225111961364746,
+      0.0047209858894348145
+    ],
+    "uuid": "20e73173-ff7c-47df-9756-5f289eb96987",
+    "parent": "FUR_GEN_Bed_Double_Rich_D"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_4W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_4W_A.dae",
+    "size": [
+      3.2049520015716553,
+      1.8914220333099365,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      -0.00359499454498291,
+      0.9457110166549683,
+      0.013802021741867065
+    ],
+    "uuid": "267706db-ef69-4b8e-90e9-2ab7180856e7",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_4W_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_A_Dirty_Red_A_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_A.dae",
+    "size": [
+      2.5877100229263306,
+      2.450222969055176,
+      3.4233710765838623
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      1.225111484527588,
+      0.002485513687133789
+    ],
+    "uuid": "296cce09-a503-420c-8875-a53a24b4a183",
+    "parent": "FUR_GEN_Bed_Double_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Rich_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Rich_A.dae",
+    "size": [
+      3.4424389600753784,
+      2.1407620906829834,
+      1.9203619956970215
+    ],
+    "center_offset": [
+      -0.006295502185821533,
+      1.0703810453414917,
+      -0.008238017559051514
+    ],
+    "uuid": "36437a84-63a3-4565-9a28-ff807909ba6d",
+    "parent": "FUR_GEN_Bed_Single_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_Small_A_Poisoned_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_Small_A.dae",
+    "size": [
+      0.9210070073604584,
+      1.9398560523986816,
+      0.8518379926681519
+    ],
+    "center_offset": [
+      -0.01506049931049347,
+      0.9699280261993408,
+      0.0
+    ],
+    "uuid": "3d2a6899-694b-4842-96e6-f1bf961516b4",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_Small_A"
+  },
+  {
+    "name": "FUR_HAG_Chair_A_Sussur_A",
+    "relative_path": "Furniture/Hag/FUR_HAG_Chair_ABC/Resources/FUR_HAG_Chair_A.dae",
+    "size": [
+      0.8221860229969025,
+      1.165505999699235,
+      0.8366319835186005
+    ],
+    "center_offset": [
+      -0.0032979995012283325,
+      0.5679489998146892,
+      0.10294099152088165
+    ],
+    "uuid": "3e494c33-3af4-47fd-a147-cb109161474e",
+    "parent": "FUR_HAG_Chair_A"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_A_Painted_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_A.dae",
+    "size": [
+      0.8283420205116272,
+      1.391173005104065,
+      0.14359100349247456
+    ],
+    "center_offset": [
+      0.0,
+      0.6955865025520325,
+      -0.052991501055657864
+    ],
+    "uuid": "4a992d38-dff9-4712-968f-0ff439420515",
+    "parent": "FUR_GEN_Mirror_Wood_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_F_Dirty_Blue_A_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_F.dae",
+    "size": [
+      2.587709903717041,
+      2.450223922729492,
+      3.246556043624878
+    ],
+    "center_offset": [
+      0.0,
+      1.225111961364746,
+      0.004721999168395996
+    ],
+    "uuid": "4ae97bd7-8582-474c-b491-42ed026c2b6a",
+    "parent": "FUR_GEN_Bed_Double_Rich_F"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_C_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_C.dae",
+    "size": [
+      2.5877130031585693,
+      5.0592898859252955,
+      3.427258014678955
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      2.529645942962645,
+      0.0
+    ],
+    "uuid": "4ff99592-71aa-4b70-9e98-6a6cbb6ebfd9",
+    "parent": "FUR_GEN_Bed_Double_Rich_C"
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized_Failed_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized.dae",
+    "size": [
+      2.247109889984131,
+      3.0881919860839844,
+      0.22824399918317795
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.09753699973225594
+    ],
+    "uuid": "54400081-82a4-4c36-8507-d2c6afa1a7be",
+    "parent": "FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized"
+  },
+  {
+    "name": "FUR_GEN_House_Chair_Rich_B_ColorVar_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_House_Chair_Rich_ABC/Resources/FUR_GEN_House_Chair_Rich_B.dae",
+    "size": [
+      0.8697440028190613,
+      1.9147479832172394,
+      0.9764040112495422
+    ],
+    "center_offset": [
+      0.0,
+      0.9543059915304184,
+      0.13674500584602356
+    ],
+    "uuid": "5fcc24aa-e88e-457f-9eaf-6be4448f249e",
+    "parent": "FUR_GEN_House_Chair_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_D_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_D.dae",
+    "size": [
+      1.6915519833564758,
+      2.1708290576934814,
+      3.2088329792022705
+    ],
+    "center_offset": [
+      -0.02002200484275818,
+      1.0854145288467407,
+      -0.0007214546203613281
+    ],
+    "uuid": "645d110e-06a9-47b4-a2eb-c5070083d989",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_D"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "6f904bd6-330d-43a7-9faf-e4472545a9cf",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_F_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_F.dae",
+    "size": [
+      2.587709903717041,
+      2.450223922729492,
+      3.246556043624878
+    ],
+    "center_offset": [
+      0.0,
+      1.225111961364746,
+      0.004721999168395996
+    ],
+    "uuid": "72736bff-248c-4132-a4d5-8e262d9a066d",
+    "parent": "FUR_GEN_Bed_Double_Rich_F"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Standing_A_Painted_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Standing_A.dae",
+    "size": [
+      0.9434760212898254,
+      2.086196083109826,
+      0.4562299996614456
+    ],
+    "center_offset": [
+      0.0,
+      1.0481850414071232,
+      0.001211993396282196
+    ],
+    "uuid": "7676aa2c-06d1-46c7-824a-70584d9ae6d5",
+    "parent": "FUR_GEN_Mirror_Wood_Standing_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_E_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_E.dae",
+    "size": [
+      1.6532800197601318,
+      2.1708290576934814,
+      3.2088329792022705
+    ],
+    "center_offset": [
+      0.00046199560165405273,
+      1.0854145288467407,
+      -0.0007214546203613281
+    ],
+    "uuid": "785fb9cb-c7e4-4586-a967-794d6cebcf9b",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_E"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_B_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_B.dae",
+    "size": [
+      4.693079948425293,
+      3.024255884811282,
+      0.9075250327587128
+    ],
+    "center_offset": [
+      -0.015408039093017578,
+      1.5008489424362779,
+      0.051666513085365295
+    ],
+    "uuid": "843f03c9-280a-4445-a842-47b1d09988c6",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_B"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_B_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_B.dae",
+    "size": [
+      3.2049520015716553,
+      3.024255884811282,
+      0.9075250327587128
+    ],
+    "center_offset": [
+      0.0,
+      1.5008489424362779,
+      0.051666513085365295
+    ],
+    "uuid": "857c948f-9c7b-4ccc-a47b-7386ccdb27c0",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_4W_B"
+  },
+  {
+    "name": "FUR_GEN_Desk_Wood_Rich_A_Colorvar_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/FUR_GEN_Desk_Wood_Rich_A.dae",
+    "size": [
+      1.5260520577430725,
+      0.90183698059991,
+      0.816756010055542
+    ],
+    "center_offset": [
+      0.0008639991283416748,
+      0.4504014903213829,
+      0.0
+    ],
+    "uuid": "8b2329d9-6e45-476c-a6e9-d6b3b0bdbddf",
+    "parent": "FUR_GEN_Desk_Wood_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Rich_B_Pink_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Rich_B.dae",
+    "size": [
+      3.6102330684661865,
+      2.2774789796600317,
+      2.1368550062179565
+    ],
+    "center_offset": [
+      -0.008239507675170898,
+      1.1387384898300184,
+      -0.008238494396209717
+    ],
+    "uuid": "98b075b6-dab7-4cdc-90c8-1f6907ccad15",
+    "parent": "FUR_GEN_Bed_Single_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_B_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_B.dae",
+    "size": [
+      1.7200379967689514,
+      3.0028839111328125,
+      0.9021280109882355
+    ],
+    "center_offset": [
+      0.003724008798599243,
+      1.5014419555664062,
+      0.04896800220012665
+    ],
+    "uuid": "9b326611-d4b0-42d9-930a-7cf65f310c88",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_2W_B"
+  },
+  {
+    "name": "FUR_GEN_Prison_Cage_Dog_A_Large_Door",
+    "relative_path": "Furniture/Generic/FUR_GEN_Prison_Cage_ABC/Resources/FUR_GEN_Prison_Cage_Dog_A.dae",
+    "size": [
+      1.784857988357544,
+      2.120974987745285,
+      2.3216470144689083
+    ],
+    "center_offset": [
+      0.0,
+      0.7121395021677017,
+      1.2090605068951845
+    ],
+    "uuid": "ab29793f-0b61-432c-84c2-905ff3d532de",
+    "parent": "FUR_GEN_Prison_Cage_Dog_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Bench_Wood_A_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Bench_Wood_ABC/Resources/FUR_GEN_Tavern_Bench_Wood_A.dae",
+    "size": [
+      2.719249963760376,
+      0.603050007019192,
+      0.5675429999828339
+    ],
+    "center_offset": [
+      0.0,
+      0.29975300352089107,
+      -0.00011549890041351318
+    ],
+    "uuid": "ae6eca23-dbcf-4bd2-94f7-513dacd70778",
+    "parent": "FUR_GEN_Tavern_Bench_Wood_A"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_6W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_6W_A.dae",
+    "size": [
+      4.691984176635742,
+      1.891422027725639,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      0.0018529891967773438,
+      0.9457420138624002,
+      0.013802021741867065
+    ],
+    "uuid": "b0f925b4-9201-4e8a-8956-a41b2bbfad20",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_6W_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_B_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_B.dae",
+    "size": [
+      1.8795129656791687,
+      3.3412210941314697,
+      3.4342559576034546
+    ],
+    "center_offset": [
+      -0.021873503923416138,
+      1.6706105470657349,
+      -0.03258901834487915
+    ],
+    "uuid": "b4004d83-7ae2-4800-9213-687d12ed97db",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_B"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Rich_B_Red_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Rich_B.dae",
+    "size": [
+      3.6102330684661865,
+      2.2774789796600317,
+      2.1368550062179565
+    ],
+    "center_offset": [
+      -0.008239507675170898,
+      1.1387384898300184,
+      -0.008238494396209717
+    ],
+    "uuid": "b6ebba0b-654d-4e33-919e-fb536bc3488b",
+    "parent": "FUR_GEN_Bed_Single_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Round_A_Painted_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Round_A.dae",
+    "size": [
+      0.8828979730606079,
+      1.1960500478744507,
+      0.16277799755334854
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.06428999826312065
+    ],
+    "uuid": "bb7ead6f-b7f4-4b71-add9-0094fac3f3db",
+    "parent": "FUR_GEN_Mirror_Wood_Round_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Rich_B_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Rich_B.dae",
+    "size": [
+      3.6102330684661865,
+      2.2774789796600317,
+      2.1368550062179565
+    ],
+    "center_offset": [
+      -0.008239507675170898,
+      1.1387384898300184,
+      -0.008238494396209717
+    ],
+    "uuid": "bd7080c7-596d-4b4b-871f-8b5bd430b32c",
+    "parent": "FUR_GEN_Bed_Single_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_A.dae",
+    "size": [
+      4.695353031158447,
+      3.010991096496582,
+      0.9832540154457092
+    ],
+    "center_offset": [
+      0.0022385120391845703,
+      1.505495548248291,
+      0.013802021741867065
+    ],
+    "uuid": "c5ef56f1-81dd-465b-acc8-e6a37f5c60d9",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_3H_6W_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_C_Old_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_C.dae",
+    "size": [
+      1.9740169644355774,
+      3.3412210941314697,
+      3.3690779209136963
+    ],
+    "center_offset": [
+      -0.0012334883213043213,
+      1.6706105470657349,
+      0.0
+    ],
+    "uuid": "d2c9c4d3-8202-4f88-9059-3c0d8e4d29d0",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_C"
+  },
+  {
+    "name": "FUR_GEN_Closet_Wood_Rich_B_Colorvar_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Desk_Wood_Rich_ABC/Resources/FUR_GEN_Closet_Wood_Rich_B.dae",
+    "size": [
+      1.5644420385360718,
+      3.7979530477896333,
+      0.9376680254936218
+    ],
+    "center_offset": [
+      0.0,
+      1.9013045239262283,
+      0.0
+    ],
+    "uuid": "dcdacb8b-622b-458a-9606-fdfb9a9d85cf",
+    "parent": "FUR_GEN_Closet_Wood_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_2W_A_Brown_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bookcase_Wood_Poor_ABC/Resources/FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_2W_A.dae",
+    "size": [
+      1.7197999954223633,
+      1.8838779926300049,
+      0.9778569936752319
+    ],
+    "center_offset": [
+      0.0037940144538879395,
+      0.9419389963150024,
+      0.011103510856628418
+    ],
+    "uuid": "e56977a5-c6a3-4ea0-a471-15858124af0f",
+    "parent": "FUR_GEN_Bookcase_Wood_Poor_A_1D_2H_2W_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_A.dae",
+    "size": [
+      2.5877100229263306,
+      2.450222969055176,
+      3.4233710765838623
+    ],
+    "center_offset": [
+      1.0132789611816406e-06,
+      1.225111484527588,
+      0.002485513687133789
+    ],
+    "uuid": "ea8afe02-e116-46a5-89d2-0439145f5da6",
+    "parent": "FUR_GEN_Bed_Double_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_G_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_G.dae",
+    "size": [
+      2.587709903717041,
+      2.452670097351074,
+      3.246556043624878
+    ],
+    "center_offset": [
+      0.0,
+      1.226335048675537,
+      0.004721999168395996
+    ],
+    "uuid": "ecc79bf9-63d9-46cd-98f7-f2f16555acfb",
+    "parent": "FUR_GEN_Bed_Double_Rich_G"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Squared_A_Painted_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Squared_A.dae",
+    "size": [
+      0.5830539762973785,
+      0.5829989910125732,
+      0.13388699665665627
+    ],
+    "center_offset": [
+      -0.002553001046180725,
+      0.0018284916877746582,
+      -0.04168949835002422
+    ],
+    "uuid": "f38b2301-700e-4b81-bddf-6593eb88537c",
+    "parent": "FUR_GEN_Mirror_Wood_Squared_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Rich_F_Dirty_Red_A_Destruct",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Rich_F.dae",
+    "size": [
+      2.587709903717041,
+      2.450223922729492,
+      3.246556043624878
+    ],
+    "center_offset": [
+      0.0,
+      1.225111961364746,
+      0.004721999168395996
+    ],
+    "uuid": "fc4e0fed-b239-4509-903c-5d4fd2b11cc0",
+    "parent": "FUR_GEN_Bed_Double_Rich_F"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_A_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_A.dae",
+    "size": [
+      1.9871000051498413,
+      3.3412210941314697,
+      3.3690779209136963
+    ],
+    "center_offset": [
+      -0.0017830133438110352,
+      1.6706105470657349,
+      0.0
+    ],
+    "uuid": "1ccea32e-989d-4b7d-8f88-151459a2c16c",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_A"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_C_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_C.dae",
+    "size": [
+      1.9740169644355774,
+      3.3412210941314697,
+      3.3690779209136963
+    ],
+    "center_offset": [
+      -0.0012334883213043213,
+      1.6706105470657349,
+      0.0
+    ],
+    "uuid": "2be473fc-d1a9-44bd-9ed9-cc7b1f945f9c",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_C"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_B_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_B.dae",
+    "size": [
+      1.8795129656791687,
+      3.3412210941314697,
+      3.4342559576034546
+    ],
+    "center_offset": [
+      -0.021873503923416138,
+      1.6706105470657349,
+      -0.03258901834487915
+    ],
+    "uuid": "34b8a5ca-2746-470b-9781-f2598968c0e8",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_B"
+  },
+  {
+    "name": "FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized_Success_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Painting_ABC/Resources/FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized.dae",
+    "size": [
+      2.247109889984131,
+      3.0881919860839844,
+      0.22824399918317795
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.09753699973225594
+    ],
+    "uuid": "4bdb9f29-45fa-4782-bad9-ff1ac5046a2c",
+    "parent": "FUR_GEN_Painting_Portrait_Vlaakith_B_Vandalized"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_F_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_F.dae",
+    "size": [
+      1.6591570377349854,
+      2.1735479831695557,
+      3.2026140689849854
+    ],
+    "center_offset": [
+      0.0034005045890808105,
+      1.0867739915847778,
+      0.00418400764465332
+    ],
+    "uuid": "670825fe-5ad4-4d52-a296-01fb2faf77b4",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_F"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_D_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_D.dae",
+    "size": [
+      1.6915519833564758,
+      2.1708290576934814,
+      3.2088329792022705
+    ],
+    "center_offset": [
+      -0.02002200484275818,
+      1.0854145288467407,
+      -0.0007214546203613281
+    ],
+    "uuid": "756e5ac6-e655-457a-aca4-66f5cc28aa6f",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_D"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_G_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_G.dae",
+    "size": [
+      1.6519320011138916,
+      2.1735479831695557,
+      3.2026140689849854
+    ],
+    "center_offset": [
+      -0.00021201372146606445,
+      1.0867739915847778,
+      0.00418400764465332
+    ],
+    "uuid": "a673eefd-3be3-4f0d-877a-bfb496ef75b6",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_G"
+  },
+  {
+    "name": "FUR_GEN_Bedroom_Bed_Wood_Single_E_Old_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bedroom_Bed_Wood_ABC/Resources/FUR_GEN_Bedroom_Bed_Wood_Single_E.dae",
+    "size": [
+      1.6532800197601318,
+      2.1708290576934814,
+      3.2088329792022705
+    ],
+    "center_offset": [
+      0.00046199560165405273,
+      1.0854145288467407,
+      -0.0007214546203613281
+    ],
+    "uuid": "ffcd43fb-64f2-44c0-8d00-bddb1352ba9d",
+    "parent": "FUR_GEN_Bedroom_Bed_Wood_Single_E"
+  },
+  {
+    "name": "FUR_Dungeon_SharTemple_Bookcase_B_Parchment_B",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_SharTemple_ABC/Resources/FUR_Dungeon_SharTemple_Bookcase_B.dae",
+    "size": [
+      2.8013899326324463,
+      3.8440278904745355,
+      1.5224080085754395
+    ],
+    "center_offset": [
+      0.0,
+      1.9212339452351443,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "FUR_Dungeon_SharTemple_Bookcase_B"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_6W2D_A_TableCloth_Red_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_6W2D_A.dae",
+    "size": [
+      2.248281955718994,
+      0.9072969988919795,
+      5.479844093322754
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      0.0
+    ],
+    "uuid": "314069da-0aaa-4308-abee-6fbd4497ef56",
+    "parent": "FUR_GEN_Tavern_Table_6W2D_A"
+  },
+  {
+    "name": "FUR_Dungeon_SharTemple_Bookcase_B_Parchment_A",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_SharTemple_ABC/Resources/FUR_Dungeon_SharTemple_Bookcase_B.dae",
+    "size": [
+      2.8013899326324463,
+      3.8440278904745355,
+      1.5224080085754395
+    ],
+    "center_offset": [
+      0.0,
+      1.9212339452351443,
+      0.0
+    ],
+    "uuid": "32be203f-07f4-48dd-84d1-a185f612f51a",
+    "parent": "FUR_Dungeon_SharTemple_Bookcase_B"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_6W2D_A_TableCloth_Grey_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_6W2D_A.dae",
+    "size": [
+      2.248281955718994,
+      0.9072969988919795,
+      5.479844093322754
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      0.0
+    ],
+    "uuid": "3ba98105-c1fb-4e98-b24c-eae99209c24f",
+    "parent": "FUR_GEN_Tavern_Table_6W2D_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_6W1D_A_TableCloth_Grey_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_6W1D_A.dae",
+    "size": [
+      1.2283899784088135,
+      0.9072969988919795,
+      5.477334022521973
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      -0.0043599605560302734
+    ],
+    "uuid": "3e12a601-28ba-47ee-8fc8-a84532038b96",
+    "parent": "FUR_GEN_Tavern_Table_6W1D_A"
+  },
+  {
+    "name": "FUR_Dungeon_SharTemple_Bookcase_A_Parchment_B",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_SharTemple_ABC/Resources/FUR_Dungeon_SharTemple_Bookcase_A.dae",
+    "size": [
+      3.9728479385375977,
+      2.3381171135697514,
+      1.5803120136260986
+    ],
+    "center_offset": [
+      2.0265579223632812e-06,
+      1.1695785567862913,
+      0.0
+    ],
+    "uuid": "4e5e8b3c-0e1e-4a74-998f-bfbbf33beb53",
+    "parent": "FUR_Dungeon_SharTemple_Bookcase_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_3W1D_A_TableCloth_Grey_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_3W1D_A.dae",
+    "size": [
+      1.2283899784088135,
+      0.9072969988919795,
+      2.9365060329437256
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      0.0
+    ],
+    "uuid": "775a3b72-a6f8-46c5-87fc-48c6eacdad67",
+    "parent": "FUR_GEN_Tavern_Table_3W1D_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A_Stacked_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "7c166ecb-5a6f-4722-9fe3-31a8c014d819",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_6W1D_A_TableCloth_Red_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_6W1D_A.dae",
+    "size": [
+      1.2283899784088135,
+      0.9072969988919795,
+      5.477334022521973
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      -0.0043599605560302734
+    ],
+    "uuid": "a918476b-d71d-4bb9-81c5-24e62beba84f",
+    "parent": "FUR_GEN_Tavern_Table_6W1D_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_3W1D_A_TableCloth_Red_A_001",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_ABC/Resources/FUR_GEN_Tavern_Table_3W1D_A.dae",
+    "size": [
+      1.2283899784088135,
+      0.9072969988919795,
+      2.9365060329437256
+    ],
+    "center_offset": [
+      0.0,
+      0.44683349947445095,
+      0.0
+    ],
+    "uuid": "b12db532-b553-4106-ac8f-c46634a71154",
+    "parent": "FUR_GEN_Tavern_Table_3W1D_A"
+  },
+  {
+    "name": "FUR_Dungeon_SharTemple_Bookcase_A_Parchment_A",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_SharTemple_ABC/Resources/FUR_Dungeon_SharTemple_Bookcase_A.dae",
+    "size": [
+      3.9728479385375977,
+      2.3381171135697514,
+      1.5803120136260986
+    ],
+    "center_offset": [
+      2.0265579223632812e-06,
+      1.1695785567862913,
+      0.0
+    ],
+    "uuid": "ba53172a-702e-4a57-8a70-440383e37960",
+    "parent": "FUR_Dungeon_SharTemple_Bookcase_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A_Stacked_B",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "c3d4726a-dedf-45b2-b98c-02796e6570bf",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Clean_A_Stacked_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "cf06eba8-4a56-4c9e-8735-84b5be124e91",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Clean_A_Stacked_B",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "e7c88c10-fa60-4ca7-a336-06c208467f8a",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_C_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_C.dae",
+    "size": [
+      0.7138339877128601,
+      0.22297599632292986,
+      0.7170530259609222
+    ],
+    "center_offset": [
+      -0.0005030035972595215,
+      0.1144199981354177,
+      0.002191498875617981
+    ],
+    "uuid": "02476c2d-a174-4dcf-a0ab-d04cda4695a1",
+    "parent": "FUR_GEN_Pillow_Sitting_C"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Round_A_Painted_Destroyed",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Round_A.dae",
+    "size": [
+      0.8828979730606079,
+      1.1960500478744507,
+      0.16277799755334854
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      -0.06428999826312065
+    ],
+    "uuid": "072da24d-df56-46f1-bfe1-41d608d59b03",
+    "parent": "FUR_GEN_Mirror_Wood_Round_A"
+  },
+  {
+    "name": "FUR_Hospital_Anatomical_Board_A_Big_B_Plain_Darker",
+    "relative_path": "Furniture/Hospital/FUR_Hospital_Anatomical_Board_ABC/Resources/FUR_Hospital_Anatomical_Board_A_Big_B.dae",
+    "size": [
+      2.353682041168213,
+      2.933168075978756,
+      1.1350719928741455
+    ],
+    "center_offset": [
+      0.0,
+      1.4559790380299091,
+      0.0
+    ],
+    "uuid": "08fdf3a9-10c0-4d3b-b38a-d0bd22910b6b",
+    "parent": "FUR_Hospital_Anatomical_Board_A_Big_B"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_B_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_B.dae",
+    "size": [
+      1.560562014579773,
+      0.9759059739299119,
+      1.560562014579773
+    ],
+    "center_offset": [
+      0.0,
+      0.48614998697303236,
+      0.0
+    ],
+    "uuid": "0ed41702-d33c-43a1-8e62-cea2d6921a3c",
+    "parent": "FUR_MF_Platform_Crate_B"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A.dae",
+    "size": [
+      0.23551400005817413,
+      0.5331329703330994,
+      1.8895180225372314
+    ],
+    "center_offset": [
+      0.0,
+      0.2665664851665497,
+      0.0
+    ],
+    "uuid": "2a2a93f6-8de3-40aa-8c8b-8175c9dc54be",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A"
+  },
+  {
+    "name": "FUR_MF_Control_Panel_A_Interactive_TOBEDELETED",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Control_Panel_ABC/Resources/FUR_MF_Control_Panel_A.dae",
+    "size": [
+      4.638339996337891,
+      3.532120071351528,
+      4.182246088981628
+    ],
+    "center_offset": [
+      0.0,
+      1.6846240349113941,
+      0.1659730076789856
+    ],
+    "uuid": "32c2988d-4bfc-47cc-a64d-cfdca41e2a2c",
+    "parent": "FUR_MF_Control_Panel_A"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_E_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_E.dae",
+    "size": [
+      2.0273150205612183,
+      0.9777890120167285,
+      1.3037840127944946
+    ],
+    "center_offset": [
+      5.364418029785156e-07,
+      0.4859475059201941,
+      0.0
+    ],
+    "uuid": "374ffe61-3eb6-484b-a378-2e908dd9b5fc",
+    "parent": "FUR_MF_Platform_Crate_E"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Clean_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "3a6d1e4d-2631-40ad-a537-3126146b98a2",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_HAG_Table_Small_A_Sussur_A",
+    "relative_path": "Furniture/Hag/FUR_HAG_Table_ABC/Resources/FUR_HAG_Table_Small_A.dae",
+    "size": [
+      1.6010469794273376,
+      1.1933919880539179,
+      1.5822460055351257
+    ],
+    "center_offset": [
+      0.09650549292564392,
+      0.5803669942542911,
+      0.2352370321750641
+    ],
+    "uuid": "428b33fa-cc9c-452a-a4b0-7569ff176a6d",
+    "parent": "FUR_HAG_Table_Small_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Canopy_Rich_B_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Canopy_Rich_B.dae",
+    "size": [
+      4.23806619644165,
+      7.438497066497803,
+      4.013839840888977
+    ],
+    "center_offset": [
+      0.0,
+      3.7192485332489014,
+      0.4818729758262634
+    ],
+    "uuid": "53f338e6-9b8c-4076-b523-f7e2824dc5ae",
+    "parent": "FUR_GEN_Bed_Double_Canopy_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Table_Round_Small_A_TableCloth_Blue",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Table_Round_ABC/Resources/FUR_GEN_Tavern_Table_Round_Small_A.dae",
+    "size": [
+      1.4048329591751099,
+      0.9045800289022736,
+      1.4245290160179138
+    ],
+    "center_offset": [
+      0.0015504956245422363,
+      0.45225201445282437,
+      0.0019334852695465088
+    ],
+    "uuid": "5bb25335-0826-4da0-b077-2ee92c38a12b",
+    "parent": "FUR_GEN_Tavern_Table_Round_Small_A"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_A_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_A.dae",
+    "size": [
+      1.6273380517959595,
+      0.9452699703397229,
+      1.6273380517959595
+    ],
+    "center_offset": [
+      0.0,
+      0.4730769851594232,
+      0.0
+    ],
+    "uuid": "5beb4978-de47-434e-8e16-4adc1a538f4b",
+    "parent": "FUR_MF_Platform_Crate_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A_Clean_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A.dae",
+    "size": [
+      0.12262599915266037,
+      0.5952909886837006,
+      0.5831210017204285
+    ],
+    "center_offset": [
+      -1.8998980522155762e-05,
+      0.15119649469852448,
+      0.05793750286102295
+    ],
+    "uuid": "713d2a55-65ba-4408-a5e4-c168ef2cda04",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_F_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_F.dae",
+    "size": [
+      1.1936240196228027,
+      0.40316100139170885,
+      0.40273499488830566
+    ],
+    "center_offset": [
+      0.0,
+      0.20837050070986152,
+      -0.0007475018501281738
+    ],
+    "uuid": "7dd60da6-5926-4152-8ea9-ae851c20e4b2",
+    "parent": "FUR_GEN_Pillow_Sitting_F"
+  },
+  {
+    "name": "FUR_Dungeon_Abbey_Altar_Stone_A_Grey_A",
+    "relative_path": "Furniture/Dungeon/FUR_Dungeon_Abbey_Altar_Stone_ABC/Resources/FUR_Dungeon_Abbey_Altar_Stone_A.dae",
+    "size": [
+      3.154978036880493,
+      1.2420960208401084,
+      1.4293019771575928
+    ],
+    "center_offset": [
+      0.0,
+      0.6181000103242695,
+      0.0
+    ],
+    "uuid": "85796754-95d4-4b60-972b-62a840073138",
+    "parent": "FUR_Dungeon_Abbey_Altar_Stone_A"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_G_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_G.dae",
+    "size": [
+      1.122307002544403,
+      0.30145600787363946,
+      0.8528450131416321
+    ],
+    "center_offset": [
+      0.01955351233482361,
+      0.1482640040339902,
+      0.002567499876022339
+    ],
+    "uuid": "8b7727dc-1390-4e26-92d7-56d6ac9db37b",
+    "parent": "FUR_GEN_Pillow_Sitting_G"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_B_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_B.dae",
+    "size": [
+      1.046301007270813,
+      0.29486499656923115,
+      0.6751990020275116
+    ],
+    "center_offset": [
+      0.0005764961242675781,
+      0.14538449828978628,
+      0.0006055086851119995
+    ],
+    "uuid": "911d3f7f-4df4-4aa6-81ee-ed9905e44f17",
+    "parent": "FUR_GEN_Pillow_Sitting_B"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_D_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_D.dae",
+    "size": [
+      0.8255119919776917,
+      0.3212580094113946,
+      0.8244460225105286
+    ],
+    "center_offset": [
+      0.0,
+      0.15937000466510653,
+      0.0
+    ],
+    "uuid": "9891e498-4d2e-45c5-86d3-39bffd1dc6e5",
+    "parent": "FUR_GEN_Pillow_Sitting_D"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_E_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_E.dae",
+    "size": [
+      0.8904240131378174,
+      0.2272669931408018,
+      0.8882420063018799
+    ],
+    "center_offset": [
+      0.0,
+      0.1150964965345338,
+      -0.00012499094009399414
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "FUR_GEN_Pillow_Sitting_E"
+  },
+  {
+    "name": "FUR_HAG_Table_Big_A_Sussur_A",
+    "relative_path": "Furniture/Hag/FUR_HAG_Table_ABC/Resources/FUR_HAG_Table_Big_A.dae",
+    "size": [
+      2.8182709217071533,
+      1.3297520205378532,
+      1.9202759265899658
+    ],
+    "center_offset": [
+      0.05987548828125,
+      0.6176190115511417,
+      -0.08597397804260254
+    ],
+    "uuid": "9ed18695-2ece-4a0c-aa74-3ee1d9480ce7",
+    "parent": "FUR_HAG_Table_Big_A"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Squared_A_Painted_Destroyed",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Squared_A.dae",
+    "size": [
+      0.5830539762973785,
+      0.5829989910125732,
+      0.13388699665665627
+    ],
+    "center_offset": [
+      -0.002553001046180725,
+      0.0018284916877746582,
+      -0.04168949835002422
+    ],
+    "uuid": "a118015a-d73a-4348-b826-19b9c1d1d2fc",
+    "parent": "FUR_GEN_Mirror_Wood_Squared_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Linen_Pillow_A_Purple_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Linen_A/Resources/FUR_GEN_Bed_Linen_Pillow_A.dae",
+    "size": [
+      0.7326499819755554,
+      0.29533998668193817,
+      0.5338620245456696
+    ],
+    "center_offset": [
+      0.0,
+      0.013627000153064728,
+      -0.0026559978723526
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "FUR_GEN_Bed_Linen_Pillow_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Linen_Blanket_A_Purple_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Linen_A/Resources/FUR_GEN_Bed_Linen_Blanket_A.dae",
+    "size": [
+      2.2728179693222046,
+      0.6508099734783173,
+      1.8471710085868835
+    ],
+    "center_offset": [
+      -0.0039020180702209473,
+      0.4793139845132828,
+      -0.40418151021003723
+    ],
+    "uuid": "a9cd5a1e-ce6b-4ffc-af5f-9bbd28540c4b",
+    "parent": "FUR_GEN_Bed_Linen_Blanket_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Double_Canopy_Rich_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Double_Canopy_Rich_A.dae",
+    "size": [
+      3.1912639141082764,
+      7.632463978363035,
+      2.6146140098571777
+    ],
+    "center_offset": [
+      0.0,
+      3.81623098918152,
+      0.7131140232086182
+    ],
+    "uuid": "ad39a37a-de3d-484b-9608-65497143fac5",
+    "parent": "FUR_GEN_Bed_Double_Canopy_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Bench_Wood_A_Old_Destroyed",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Bench_Wood_ABC/Resources/FUR_GEN_Tavern_Bench_Wood_A.dae",
+    "size": [
+      2.719249963760376,
+      0.603050007019192,
+      0.5675429999828339
+    ],
+    "center_offset": [
+      0.0,
+      0.29975300352089107,
+      -0.00011549890041351318
+    ],
+    "uuid": "b55cbb3b-30e5-4b3f-84e7-f55d9e2fbc8b",
+    "parent": "FUR_GEN_Tavern_Bench_Wood_A"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_Standing_A_Painted_Destroyed",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_Standing_A.dae",
+    "size": [
+      0.9434760212898254,
+      2.086196083109826,
+      0.4562299996614456
+    ],
+    "center_offset": [
+      0.0,
+      1.0481850414071232,
+      0.001211993396282196
+    ],
+    "uuid": "b67c732f-e125-4415-813a-15e37c9a3669",
+    "parent": "FUR_GEN_Mirror_Wood_Standing_A"
+  },
+  {
+    "name": "FUR_Bathroom_Bathtub_Wood_A_Blood_A",
+    "relative_path": "Furniture/Bathroom/FUR_Bathroom_Bathtub_ABC/Resources/FUR_Bathroom_Bathtub_Wood_A.dae",
+    "size": [
+      1.7016339898109436,
+      1.2536929501220584,
+      1.706430971622467
+    ],
+    "center_offset": [
+      0.0026499927043914795,
+      0.633141475263983,
+      0.020508497953414917
+    ],
+    "uuid": "b75ceb95-d870-4535-b7c4-6001e60a4f6a",
+    "parent": "FUR_Bathroom_Bathtub_Wood_A"
+  },
+  {
+    "name": "FUR_Goblins_Table_Small_B_Bloody_converted",
+    "relative_path": "Furniture/Goblins/FUR_Goblins_Table_ABC/Resources/FUR_Goblins_Table_Small_B.dae",
+    "size": [
+      1.2656739950180054,
+      0.6438219752162695,
+      1.2562060356140137
+    ],
+    "center_offset": [
+      -0.006096005439758301,
+      0.3041419880464673,
+      0.0075820088386535645
+    ],
+    "uuid": "bd6674d0-0891-2631-2c26-9ba5e4774234",
+    "parent": "FUR_Goblins_Table_Small_B"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_F_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_F.dae",
+    "size": [
+      2.1264419555664062,
+      0.9729579980485141,
+      1.4050259590148926
+    ],
+    "center_offset": [
+      0.0,
+      0.484191999072209,
+      0.0
+    ],
+    "uuid": "c02cbea4-edf0-4d11-a491-31c4394a1d47",
+    "parent": "FUR_MF_Platform_Crate_F"
+  },
+  {
+    "name": "FUR_GEN_Mirror_Wood_A_Painted_Destroyed",
+    "relative_path": "Furniture/Generic/FUR_GEN_Mirror_ABC/Resources/FUR_GEN_Mirror_Wood_A.dae",
+    "size": [
+      0.8283420205116272,
+      1.391173005104065,
+      0.14359100349247456
+    ],
+    "center_offset": [
+      0.0,
+      0.6955865025520325,
+      -0.052991501055657864
+    ],
+    "uuid": "c588cff4-170f-43e1-a9a7-7b9380f2a6dd",
+    "parent": "FUR_GEN_Mirror_Wood_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Canopy_Rich_B_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Canopy_Rich_B.dae",
+    "size": [
+      5.216777801513672,
+      8.981529467468135,
+      4.263144135475159
+    ],
+    "center_offset": [
+      0.0,
+      4.490759733734194,
+      0.3211290240287781
+    ],
+    "uuid": "c7aeb76c-5d80-42f1-be0e-02bda88a8389",
+    "parent": "FUR_GEN_Bed_Single_Canopy_Rich_B"
+  },
+  {
+    "name": "FUR_GEN_Bed_Single_Canopy_Rich_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Double_Rich_ABC/Resources/FUR_GEN_Bed_Single_Canopy_Rich_A.dae",
+    "size": [
+      4.275171995162964,
+      7.564294937998056,
+      2.646557927131653
+    ],
+    "center_offset": [
+      0.06887304782867432,
+      3.7329744677990675,
+      -0.015981018543243408
+    ],
+    "uuid": "c86ec067-3fc1-4b93-ad52-55404673fac3",
+    "parent": "FUR_GEN_Bed_Single_Canopy_Rich_A"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A_Clean_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A.dae",
+    "size": [
+      0.23551400005817413,
+      0.5331329703330994,
+      1.8895180225372314
+    ],
+    "center_offset": [
+      0.0,
+      0.2665664851665497,
+      0.0
+    ],
+    "uuid": "c8ae9342-2c5e-4581-b6d7-80e5fcfa97a6",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_Support_Foot_A"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_C_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_C.dae",
+    "size": [
+      1.6876740455627441,
+      0.9735300233587623,
+      1.6876740455627441
+    ],
+    "center_offset": [
+      0.0,
+      0.48367001162841916,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "FUR_MF_Platform_Crate_C"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_A_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_A.dae",
+    "size": [
+      0.6966699957847595,
+      0.31017500220332295,
+      0.687628984451294
+    ],
+    "center_offset": [
+      0.0,
+      0.1542145010898821,
+      -5.066394805908203e-07
+    ],
+    "uuid": "e4a1139a-04ff-4a96-9144-40b620ec6e74",
+    "parent": "FUR_GEN_Pillow_Sitting_A"
+  },
+  {
+    "name": "FUR_GEN_Bed_Linen_Pillow_B_Purple_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Bed_Linen_A/Resources/FUR_GEN_Bed_Linen_Pillow_B.dae",
+    "size": [
+      0.544547975063324,
+      0.29522500932216644,
+      0.4556629955768585
+    ],
+    "center_offset": [
+      0.0,
+      -0.004583500325679779,
+      0.009991496801376343
+    ],
+    "uuid": "e5e6eeca-24db-4272-83ce-e20deae29d94",
+    "parent": "FUR_GEN_Bed_Linen_Pillow_B"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_A.dae",
+    "size": [
+      2.1744619607925415,
+      1.9648120403289795,
+      1.9648120403289795
+    ],
+    "center_offset": [
+      0.05412501096725464,
+      0.9824060201644897,
+      0.0
+    ],
+    "uuid": "f0057fa0-188a-4a76-8696-0ec6ee9d5877",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_A"
+  },
+  {
+    "name": "FUR_MF_Platform_Crate_D_Static_A",
+    "relative_path": "Furniture/Mindflayers/FUR_MF_Platform_Crate_ABC/Resources/FUR_MF_Platform_Crate_D.dae",
+    "size": [
+      2.064121961593628,
+      0.9461779840057716,
+      1.3439160585403442
+    ],
+    "center_offset": [
+      0.0,
+      0.4714479919639416,
+      0.0
+    ],
+    "uuid": "f84fa7f0-94bd-4018-bc75-821875911496",
+    "parent": "FUR_MF_Platform_Crate_D"
+  },
+  {
+    "name": "FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A_Dirty_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Tavern_Barrel_Wine_ABC/Resources/FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A.dae",
+    "size": [
+      0.12262599915266037,
+      0.5952909886837006,
+      0.5831210017204285
+    ],
+    "center_offset": [
+      -1.8998980522155762e-05,
+      0.15119649469852448,
+      0.05793750286102295
+    ],
+    "uuid": "f930f53b-67a8-4ca0-8f1e-1a06d7620046",
+    "parent": "FUR_GEN_Tavern_Barrel_Wine_Support_Stack_A"
+  },
+  {
+    "name": "FUR_GEN_Pillow_Sitting_H_Rich_A",
+    "relative_path": "Furniture/Generic/FUR_GEN_Pillow_Sitting_ABC/Resources/FUR_GEN_Pillow_Sitting_H.dae",
+    "size": [
+      0.7858359813690186,
+      0.30965900979936123,
+      0.7879090011119843
+    ],
+    "center_offset": [
+      0.0003789961338043213,
+      0.1528235049918294,
+      0.0011204928159713745
+    ],
+    "uuid": "fc422667-8da8-40c9-b422-960417ece5b0",
+    "parent": "FUR_GEN_Pillow_Sitting_H"
   }
 ]

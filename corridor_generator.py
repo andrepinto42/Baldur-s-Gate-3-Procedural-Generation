@@ -1,8 +1,5 @@
 
-import os
-import subprocess
 import create_lsx
-import name_to_uuid
 from pyrr import Vector3, Quaternion
 import math
 import random
@@ -61,7 +58,7 @@ def generate_corridor(uuid,position, offset_x, offset_z,angle_deg,length):
 
 def generate_line(uuid, position, step, angle_deg, length):
     y_jitter=0.1
-    rot_jitter=3.0
+    rot_jitter=5.0
     base_rad = math.radians(angle_deg)
 
     # Base forward direction (never randomized)

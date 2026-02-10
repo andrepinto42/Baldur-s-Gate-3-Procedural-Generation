@@ -6481,5 +6481,533 @@
       -0.05061600118642673
     ],
     "uuid": "8083ad34-4b6c-4844-9e3f-81f424fe24af"
+  },
+  {
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_A_Black_Destruct",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_A.dae",
+    "size": [
+      1.3588510155677795,
+      0.03553400095552206,
+      1.3668149709701538
+    ],
+    "center_offset": [
+      0.0019114911556243896,
+      0.013153000269085169,
+      -0.002947509288787842
+    ],
+    "uuid": "035f5d5c-2299-4beb-b4b5-beda3fee9a4c",
+    "parent": "PUZ_GEN_Pressure_Plate_Marble_Square_A"
+  },
+  {
+    "name": "PUZ_GEN_Dirt_Mound_Digged_A_Sand_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_Digged_A.dae",
+    "size": [
+      5.099846124649048,
+      1.8876919746398926,
+      4.944097995758057
+    ],
+    "center_offset": [
+      0.005591034889221191,
+      -0.16776299476623535,
+      0.022546052932739258
+    ],
+    "uuid": "126f23b7-4455-4071-9430-5dff2858cac6",
+    "parent": "PUZ_GEN_Dirt_Mound_Digged_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Mine_A_Copper_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A.dae",
+    "size": [
+      1.093291997909546,
+      1.3119300305843353,
+      0.9116619825363159
+    ],
+    "center_offset": [
+      -0.03318697214126587,
+      -0.3977620154619217,
+      0.0
+    ],
+    "uuid": "20a48d55-8219-4f5c-ba92-565ef8a90e03",
+    "parent": "PUZ_GEN_Trap_Mine_A"
+  },
+  {
+    "name": "PUZ_GEN_Dirt_Mound_Digged_A_Gravel_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_Digged_A.dae",
+    "size": [
+      5.099846124649048,
+      1.8876919746398926,
+      4.944097995758057
+    ],
+    "center_offset": [
+      0.005591034889221191,
+      -0.16776299476623535,
+      0.022546052932739258
+    ],
+    "uuid": "335e0fc6-6d92-4ade-b730-b3ba1af2d18d",
+    "parent": "PUZ_GEN_Dirt_Mound_Digged_A"
+  },
+  {
+    "name": "PUZ_GEN_Pressure_Plate_Marble_Square_B_White_Destruct",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Pressure_Plate_Marble_ABC/Resources/PUZ_GEN_Pressure_Plate_Marble_Square_B.dae",
+    "size": [
+      1.342519998550415,
+      0.03553400095552206,
+      1.3438729643821716
+    ],
+    "center_offset": [
+      0.004360020160675049,
+      0.013153000269085169,
+      0.0076895058155059814
+    ],
+    "uuid": "3940cb9c-3c15-48f7-b170-11708d9f3852",
+    "parent": "PUZ_GEN_Pressure_Plate_Marble_Square_B"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Mine_A_Hag_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A.dae",
+    "size": [
+      1.093291997909546,
+      1.3119300305843353,
+      0.9116619825363159
+    ],
+    "center_offset": [
+      -0.03318697214126587,
+      -0.3977620154619217,
+      0.0
+    ],
+    "uuid": "45392d2e-6458-4e99-b148-0cd299db21de",
+    "parent": "PUZ_GEN_Trap_Mine_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Moss_Destruct",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Cave_A/Resources/PUZ_GEN_Trap_Gaspit_Cave_A.dae",
+    "size": [
+      1.2431259751319885,
+      0.3900429904460907,
+      1.1950049996376038
+    ],
+    "center_offset": [
+      -0.03528699278831482,
+      0.03338649868965149,
+      -0.009421497583389282
+    ],
+    "uuid": "4cfe2a81-3001-4544-b36b-b70e62408364",
+    "parent": "PUZ_GEN_Trap_Gaspit_Cave_A"
+  },
+  {
+    "name": "PUZ_GEN_Dirt_Mound_Digged_A_Mud_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Dirt_Mound_ABC/Resources/PUZ_GEN_Dirt_Mound_Digged_A.dae",
+    "size": [
+      5.099846124649048,
+      1.8876919746398926,
+      4.944097995758057
+    ],
+    "center_offset": [
+      0.005591034889221191,
+      -0.16776299476623535,
+      0.022546052932739258
+    ],
+    "uuid": "6c15962e-d93f-4618-b2cc-c75208bb0ec5",
+    "parent": "PUZ_GEN_Dirt_Mound_Digged_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Mine_A_Poison_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A.dae",
+    "size": [
+      1.093291997909546,
+      1.3119300305843353,
+      0.9116619825363159
+    ],
+    "center_offset": [
+      -0.03318697214126587,
+      -0.3977620154619217,
+      0.0
+    ],
+    "uuid": "8b293db3-a187-4f90-85da-952fed9c154e",
+    "parent": "PUZ_GEN_Trap_Mine_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Mine_A_Rusty_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Mine_ABC/Resources/PUZ_GEN_Trap_Mine_A.dae",
+    "size": [
+      1.093291997909546,
+      1.3119300305843353,
+      0.9116619825363159
+    ],
+    "center_offset": [
+      -0.03318697214126587,
+      -0.3977620154619217,
+      0.0
+    ],
+    "uuid": "997df298-088e-4146-ab73-d512fc69b0eb",
+    "parent": "PUZ_GEN_Trap_Mine_A"
+  },
+  {
+    "name": "PUZ_Underdark_Mushroom_Bibberbang_B_Remains_A",
+    "relative_path": "Puzzle/Underdark/PUZ_Underdark_Mushroom_ABC/Resources/PUZ_Underdark_Mushroom_Bibberbang_B.dae",
+    "size": [
+      2.3944560289382935,
+      1.501353994011879,
+      1.9412639737129211
+    ],
+    "center_offset": [
+      -0.11581701040267944,
+      0.6353779956698418,
+      -0.00578799843788147
+    ],
+    "uuid": "9a531005-0b28-43ad-b2f7-c089f4cbea57",
+    "parent": "PUZ_Underdark_Mushroom_Bibberbang_B"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gaspit_Cave_A_Moss_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gaspit_Cave_A/Resources/PUZ_GEN_Trap_Gaspit_Cave_A.dae",
+    "size": [
+      1.2431259751319885,
+      0.3900429904460907,
+      1.1950049996376038
+    ],
+    "center_offset": [
+      -0.03528699278831482,
+      0.03338649868965149,
+      -0.009421497583389282
+    ],
+    "uuid": "c0289866-d060-470c-aa13-dcc69f07b67a",
+    "parent": "PUZ_GEN_Trap_Gaspit_Cave_A"
+  },
+  {
+    "name": "PUZ_InvisibleBlocker_3x1_0n2H_A_Trap_A",
+    "relative_path": "Puzzle/InvisibleBlocker/Resources/PUZ_InvisibleBlocker_3x1_0n2H_A.dae",
+    "size": [
+      3.0,
+      0.20000000298023224,
+      1.2000000476837158
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "ef72e1a7-9056-4a80-9878-aa66661613a0",
+    "parent": "PUZ_InvisibleBlocker_3x1_0n2H_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Glowing_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
+    "size": [
+      2.1215900182724,
+      1.7235700022429228,
+      1.6272499561309814
+    ],
+    "center_offset": [
+      0.00020903348922729492,
+      0.8441500002518296,
+      0.030128002166748047
+    ],
+    "uuid": "f358f75f-38d5-4d73-8625-d0193c0c3005",
+    "parent": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Yellow_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "14d025a6-f889-4b95-96ca-274f6ab31030",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Red_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "2039d50e-77f9-4cd2-9bab-c392856691a6",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Black_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "69a6f98f-5f04-4ddc-83cf-c9bcf50d65ee",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_Lathander_Energy_Source_B_Destruct_A",
+    "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_B.dae",
+    "size": [
+      2.0462499856948853,
+      2.49420890212059,
+      1.3020970225334167
+    ],
+    "center_offset": [
+      -0.0018900036811828613,
+      1.3254024535417557,
+      0.05402049422264099
+    ],
+    "uuid": "6d2f6b83-163d-444e-9651-34f6caec1823",
+    "parent": "PUZ_Lathander_Energy_Source_B"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Green_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "90831196-fffb-4f68-831a-0df61b4fd4ec",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Purple_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "963cf57e-c895-48eb-89ed-4553f44d35af",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_Cave_Speleothem_Stalactite_D_Destruct_Bhaal_A",
+    "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_D_Destruct.dae",
+    "size": [
+      3.380391001701355,
+      0.7483770251274109,
+      3.040688991546631
+    ],
+    "center_offset": [
+      -0.14289945363998413,
+      0.3421575129032135,
+      -0.3920094966888428
+    ],
+    "uuid": "a4123690-9115-412e-b3cd-d67e5f0cc8dd",
+    "parent": "PUZ_Cave_Speleothem_Stalactite_D_Destruct"
+  },
+  {
+    "name": "PUZ_CursedLand_Shooting_Flower_A_Blue_A",
+    "relative_path": "Puzzle/CursedLand/PUZ_CursedLand_Shooting_Flower_ABC/Resources/PUZ_CursedLand_Shooting_Flower_A.dae",
+    "size": [
+      1.9155099987983704,
+      3.8630340695381165,
+      2.254644989967346
+    ],
+    "center_offset": [
+      -0.0038550198078155518,
+      1.8675850331783295,
+      -0.30909448862075806
+    ],
+    "uuid": "c118a4f2-904b-4dd7-8678-c519e1734e55",
+    "parent": "PUZ_CursedLand_Shooting_Flower_A"
+  },
+  {
+    "name": "PUZ_Lathander_Shockwave_Trap_A_Destruct_A",
+    "relative_path": "Puzzle/Lathander/PUZ_Lathander_Shockwave_Trap_ABC/Resources/PUZ_Lathander_Shockwave_Trap_A.dae",
+    "size": [
+      3.2843419313430786,
+      3.195842911954969,
+      3.2281769514083862
+    ],
+    "center_offset": [
+      0.0008919835090637207,
+      1.595061456086114,
+      -0.7830174565315247
+    ],
+    "uuid": "c9c889b6-2e30-4291-9e34-d82b27f545c6",
+    "parent": "PUZ_Lathander_Shockwave_Trap_A"
+  },
+  {
+    "name": "PUZ_Lathander_Energy_Source_A_Destruct_A",
+    "relative_path": "Puzzle/Lathander/PUZ_Lathander_Energy_Source_ABC/Resources/PUZ_Lathander_Energy_Source_A.dae",
+    "size": [
+      2.0462499856948853,
+      2.573950904654339,
+      1.32109797000885
+    ],
+    "center_offset": [
+      -0.0018900036811828613,
+      1.2855314522748813,
+      -0.0007860064506530762
+    ],
+    "uuid": "db45e1a6-0b66-4a26-9626-87e383b5c0f9",
+    "parent": "PUZ_Lathander_Energy_Source_A"
+  },
+  {
+    "name": "PUZ_Cave_Speleothem_Stalactite_D_Bhaal_A",
+    "relative_path": "Puzzle/Cave/PUZ_Cave_Speleothem_Stalactite_ABC/Resources/PUZ_Cave_Speleothem_Stalactite_D.dae",
+    "size": [
+      0.7246580123901367,
+      3.555822938680649,
+      0.7675299942493439
+    ],
+    "center_offset": [
+      -0.0003159940242767334,
+      -1.7077514678239822,
+      0.001328006386756897
+    ],
+    "uuid": "ff94b385-bab8-4278-9211-f176c27bc25a",
+    "parent": "PUZ_Cave_Speleothem_Stalactite_D"
+  },
+  {
+    "name": "PUZ_GEN_Village_House_Base_Stone_Breakable_A_Physics_Helper",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Wall_Breakable/Resources/PUZ_GEN_Village_House_Base_Stone_Breakable_A.dae",
+    "size": [
+      4.001147985458374,
+      4.306488770991564,
+      1.7041189670562744
+    ],
+    "center_offset": [
+      -0.06796896457672119,
+      2.1423383858054876,
+      -1.2397764921188354
+    ],
+    "uuid": "81c7c59d-0a1f-4b03-a569-29c34bbb7a32",
+    "parent": "PUZ_GEN_Village_House_Base_Stone_Breakable_A"
+  },
+  {
+    "name": "PUZ_GOB_Firebowl_A_Rope_A_DELETEME_converted",
+    "relative_path": "Puzzle/Goblins/Resources/PUZ_GOB_Firebowl_A_Rope_A.dae",
+    "size": [
+      0.0855569988489151,
+      7.775289058685303,
+      0.07408500090241432
+    ],
+    "center_offset": [
+      -0.00039950013160705566,
+      6.314141511917114,
+      -5.010515451431274e-07
+    ],
+    "uuid": "213a8ff0-600e-c9d5-b461-cb31352ac9ec",
+    "parent": "PUZ_GOB_Firebowl_A_Rope_A"
+  },
+  {
+    "name": "PUZ_Dungeon_SharTemple_Wall_Breakable_A_Physics_Helper",
+    "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_SharTemple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_SharTemple_Wall_Breakable_A.dae",
+    "size": [
+      7.102118015289307,
+      4.112308815121651,
+      1.5426859855651855
+    ],
+    "center_offset": [
+      0.0,
+      1.9974664077162743,
+      6.020069122314453e-06
+    ],
+    "uuid": "30e2d84b-f579-403f-9c33-d99d37d7b2c4",
+    "parent": "PUZ_Dungeon_SharTemple_Wall_Breakable_A"
+  },
+  {
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_A_Helper_Phys",
+    "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_A.dae",
+    "size": [
+      4.012482166290283,
+      5.170911129564047,
+      2.045076012611389
+    ],
+    "center_offset": [
+      0.0,
+      2.5488055665045977,
+      0.4562680125236511
+    ],
+    "uuid": "3ebe7038-9d50-4993-b820-c2b9180cae3a",
+    "parent": "PUZ_Dungeon_Temple_Wall_Breakable_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Physics_Helper",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
+    "size": [
+      2.1215900182724,
+      1.7235700022429228,
+      1.6272499561309814
+    ],
+    "center_offset": [
+      0.00020903348922729492,
+      0.8441500002518296,
+      0.030128002166748047
+    ],
+    "uuid": "675f8e31-b713-4aae-86fb-392853ee61e5",
+    "parent": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A"
+  },
+  {
+    "name": "PUZ_Dungeon_Temple_Wall_Breakable_B_Helper_Phys",
+    "relative_path": "Puzzle/Dungeon/PUZ_Dungeon_Temple_Wall_Breakable_ABC/Resources/PUZ_Dungeon_Temple_Wall_Breakable_B.dae",
+    "size": [
+      4.008439064025879,
+      5.170911129564047,
+      1.2194420099258423
+    ],
+    "center_offset": [
+      0.0020215511322021484,
+      2.5488055665045977,
+      0.0
+    ],
+    "uuid": "682ec9e9-efb3-4a36-8053-92729c276965",
+    "parent": "PUZ_Dungeon_Temple_Wall_Breakable_B"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Static_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
+    "size": [
+      2.1215900182724,
+      1.7235700022429228,
+      1.6272499561309814
+    ],
+    "center_offset": [
+      0.00020903348922729492,
+      0.8441500002518296,
+      0.030128002166748047
+    ],
+    "uuid": "89024183-0d3f-4e93-b05a-df625c605502",
+    "parent": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A"
+  },
+  {
+    "name": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A_Colorvar_A_Static_A",
+    "relative_path": "Puzzle/Generic/PUZ_GEN_Trap_Gargoyle_Statue_Turret_ABC/Resources/PUZ_GEN_Trap_Gargoyle_Statue_Turret_A.dae",
+    "size": [
+      2.1215900182724,
+      1.7235700022429228,
+      1.6272499561309814
+    ],
+    "center_offset": [
+      0.00020903348922729492,
+      0.8441500002518296,
+      0.030128002166748047
+    ],
+    "uuid": "917db969-5994-4e7c-8d30-859c4b96ccef",
+    "parent": "PUZ_GEN_Trap_Gargoyle_Statue_Turret_A"
   }
 ]

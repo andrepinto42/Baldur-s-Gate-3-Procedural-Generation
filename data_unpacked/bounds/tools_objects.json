@@ -3342,5 +3342,85 @@
       0.0
     ],
     "uuid": "a7edf7ca-1999-4d2c-b1bf-035d6e2b9e6e"
+  },
+  {
+    "name": "TOOL_GEN_Arcane_Teleport_Platform_A_Activated_A",
+    "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Platform_ABC/Resources/TOOL_GEN_Arcane_Teleport_Platform_A.dae",
+    "size": [
+      6.023329973220825,
+      0.18557900190353394,
+      6.191143989562988
+    ],
+    "center_offset": [
+      -0.1940380334854126,
+      0.09278950095176697,
+      -0.27794504165649414
+    ],
+    "uuid": "2a0f1421-9695-40d4-a7da-66ee4ff0fd86",
+    "parent": "TOOL_GEN_Arcane_Teleport_Platform_A"
+  },
+  {
+    "name": "TOOL_GEN_Arcane_Teleport_Platform_A_Deactivated_A",
+    "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Platform_ABC/Resources/TOOL_GEN_Arcane_Teleport_Platform_A.dae",
+    "size": [
+      6.023329973220825,
+      0.18557900190353394,
+      6.191143989562988
+    ],
+    "center_offset": [
+      -0.1940380334854126,
+      0.09278950095176697,
+      -0.27794504165649414
+    ],
+    "uuid": "4d2d0b3e-a02d-4a7d-9892-245e414081b2",
+    "parent": "TOOL_GEN_Arcane_Teleport_Platform_A"
+  },
+  {
+    "name": "TOOL_GEN_Arcane_Teleport_Device_A_Activated_A",
+    "relative_path": "Tools/Generic/TOOL_GEN_Arcane_Teleport_Device_ABC/Resources/TOOL_GEN_Arcane_Teleport_Device_A.dae",
+    "size": [
+      1.6167199611663818,
+      2.4266828808467835,
+      1.6167199611663818
+    ],
+    "center_offset": [
+      0.0,
+      1.2158544404665008,
+      0.0
+    ],
+    "uuid": "638f981f-f06d-4813-9eb0-d8e1925ecc54",
+    "parent": "TOOL_GEN_Arcane_Teleport_Device_A"
+  },
+  {
+    "name": "TOOL_GTY_Portal_B_Complete_A",
+    "relative_path": "Tools/Githyanki/TOOL_GTY_Portal_ABC/Resources/TOOL_GTY_Portal_B.dae",
+    "size": [
+      3.2173190116882324,
+      1.2954819910228252,
+      3.542201042175293
+    ],
+    "center_offset": [
+      -1.5497207641601562e-06,
+      0.6375929955393076,
+      -0.1316084861755371
+    ],
+    "uuid": "73496b17-afc6-49fb-84f5-28f9052f518d",
+    "parent": "TOOL_GTY_Portal_B"
+  },
+  {
+    "name": "TOOL_GEN_Shovel_A_Small_Destroyed",
+    "relative_path": "Tools/Generic/TOOL_GEN_Shovel_ABC/Resources/TOOL_GEN_Shovel_A.dae",
+    "size": [
+      0.35497699677944183,
+      0.07253700238652527,
+      1.6676040291786194
+    ],
+    "center_offset": [
+      -0.0018265023827552795,
+      0.03275650122668594,
+      0.017693012952804565
+    ],
+    "uuid": "71dadc46-ad0d-41a0-8e47-c0c0ef05b289",
+    "parent": "TOOL_GEN_Shovel_A"
   }
 ]

@@ -32331,5 +32331,5445 @@
       0.024878978729248047
     ],
     "uuid": "e0e3d2a2-10ea-4ad6-bb59-302122a07ec2"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_G_Flat_Flip_Beakable",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_G_Flat.dae",
+    "size": [
+      17.842848300933838,
+      3.3142820596694946,
+      22.929701805114746
+    ],
+    "center_offset": [
+      1.8247849941253662,
+      0.35196107625961304,
+      1.6030306816101074
+    ],
+    "uuid": "8606820a-a9b9-4e72-9954-7118feeb4656",
+    "parent": "BLD_MF_Colony_Platform_Big_G_Flat"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_B_Flat_Flip_Interactable",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_B_Flat.dae",
+    "size": [
+      37.15798568725586,
+      2.391046941280365,
+      15.457151889801025
+    ],
+    "center_offset": [
+      -1.1980648040771484,
+      0.3449784815311432,
+      2.308297872543335
+    ],
+    "uuid": "a067078e-b060-4e30-9886-ae5615e84ae4",
+    "parent": "BLD_MF_Colony_Platform_Big_B_Flat"
+  },
+  {
+    "name": "BLD_Goblins_Scaffolding_Wood_4H_4W_A_Destruct_Target",
+    "relative_path": "Buildings/Goblins/Resources/BLD_Goblins_Scaffolding_Wood_4H_4W_A.dae",
+    "size": [
+      0.4569239914417267,
+      5.578886032104492,
+      5.4501659870147705
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      4.887580871582031e-06
+    ],
+    "uuid": "2493ce27-1bf3-473b-821a-f0eebddd34a2",
+    "parent": "BLD_Goblins_Scaffolding_Wood_4H_4W_A"
+  },
+  {
+    "name": "BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A_FireWall_Destruct",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_SharTemple_ABC/Resources/BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A.dae",
+    "size": [
+      2.5464799404144287,
+      3.0,
+      1.2543220520019531
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ],
+    "uuid": "2623563c-ffd4-4ed8-bd40-ad984059dcfa",
+    "parent": "BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A"
+  },
+  {
+    "name": "BLD_GEN_Arcane_Turret_A_Activated_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Arcane_Turret_ABC/Resources/BLD_GEN_Arcane_Turret_A.dae",
+    "size": [
+      1.0605409741401672,
+      1.6417619726853445,
+      1.0790810286998749
+    ],
+    "center_offset": [
+      0.003528505563735962,
+      0.8199169863364659,
+      0.0702265053987503
+    ],
+    "uuid": "2f9f615a-0680-4621-a504-1571f6f1f82e",
+    "parent": "BLD_GEN_Arcane_Turret_A"
+  },
+  {
+    "name": "BLD_GEN_Arcane_Turret_A_Floating_Platform_A_Activated_A_Red",
+    "relative_path": "Buildings/Generic/BLD_GEN_Arcane_Turret_ABC/Resources/BLD_GEN_Arcane_Turret_A.dae",
+    "size": [
+      1.0605409741401672,
+      1.6417619726853445,
+      1.0790810286998749
+    ],
+    "center_offset": [
+      0.003528505563735962,
+      0.8199169863364659,
+      0.0702265053987503
+    ],
+    "uuid": "7de05d8b-85e0-4463-aa42-da97ee8112fb",
+    "parent": "BLD_GEN_Arcane_Turret_A"
+  },
+  {
+    "name": "BLD_Goblins_Scaffolding_Wood_12H_4W_A_Destruct_Target",
+    "relative_path": "Buildings/Goblins/Resources/BLD_Goblins_Scaffolding_Wood_12H_4W_A.dae",
+    "size": [
+      0.8971019983291626,
+      12.30056619644165,
+      5.250155925750732
+    ],
+    "center_offset": [
+      0.0,
+      -0.002309083938598633,
+      0.0
+    ],
+    "uuid": "96b6edfc-e1c7-4349-b3ac-ef3ca63440c2",
+    "parent": "BLD_Goblins_Scaffolding_Wood_12H_4W_A"
+  },
+  {
+    "name": "BLD_Goblins_Scaffolding_Wood_12H_5W_A_Destruct_Target",
+    "relative_path": "Buildings/Goblins/Resources/BLD_Goblins_Scaffolding_Wood_12H_5W_A.dae",
+    "size": [
+      1.2990859746932983,
+      12.032232284545898,
+      6.03918981552124
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "9965ef72-5c67-4ed8-9bf2-0d0b1359e6a7",
+    "parent": "BLD_Goblins_Scaffolding_Wood_12H_5W_A"
+  },
+  {
+    "name": "BLD_GEN_Plank_D_Wood_A_Dynamic_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Platform_Wood_ABC/Resources/BLD_GEN_Plank_D_Wood_A.dae",
+    "size": [
+      1.9612340331077576,
+      0.08364300057291985,
+      0.39358600974082947
+    ],
+    "center_offset": [
+      3.0100345611572266e-06,
+      -5.010515451431274e-07,
+      0.0
+    ],
+    "uuid": "aeb2a645-145d-47bc-b125-c5b3fcd486e4",
+    "parent": "BLD_GEN_Plank_D_Wood_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_Rope_A_Dynamic_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_Rope_A.dae",
+    "size": [
+      0.1746789962053299,
+      1.3177569471299648,
+      2.2582038990221918
+    ],
+    "center_offset": [
+      0.04797849804162979,
+      0.6247374732047319,
+      1.122824949445203
+    ],
+    "uuid": "46406b2e-3080-4fb5-ab93-cf76416719ff",
+    "parent": "BLD_Ship_Xebec_Sloop_Rope_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Paddle_A_Dynamic_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A_Paddle_A.dae",
+    "size": [
+      0.4206080138683319,
+      0.15114299952983856,
+      6.151565909385681
+    ],
+    "center_offset": [
+      0.0,
+      -7.502734661102295e-06,
+      1.4960339665412903
+    ],
+    "uuid": "5a96311a-4f13-479e-8531-4485b05e937e",
+    "parent": "BLD_Ship_Xebec_Sloop_A_Paddle_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Rigged_Dynamic_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A_Rigged.dae",
+    "size": [
+      10.331099033355713,
+      2.7548550218343735,
+      12.966516017913818
+    ],
+    "center_offset": [
+      7.152557373046875e-07,
+      1.2909165099263191,
+      1.6584970951080322
+    ],
+    "uuid": "6bf36554-d207-4601-8956-90b751063d8b",
+    "parent": "BLD_Ship_Xebec_Sloop_A_Rigged"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Dynamic_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A.dae",
+    "size": [
+      3.933405041694641,
+      2.7548550218343735,
+      12.966516017913818
+    ],
+    "center_offset": [
+      5.364418029785156e-07,
+      1.2909165099263191,
+      1.6584970951080322
+    ],
+    "uuid": "8d0721e9-12de-4e63-a447-2c508e502abe",
+    "parent": "BLD_Ship_Xebec_Sloop_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Seats_A_Dynamic_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A_Seats_A.dae",
+    "size": [
+      3.3126150369644165,
+      0.09998500347137451,
+      7.263808012008667
+    ],
+    "center_offset": [
+      -0.009821474552154541,
+      1.1892145276069641,
+      1.405357003211975
+    ],
+    "uuid": "985274f6-561f-4c01-83b0-93acabc24eab",
+    "parent": "BLD_Ship_Xebec_Sloop_A_Seats_A"
+  },
+  {
+    "name": "BLD_Lathander_Platform_A_Crystal_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Platform_ABC/Resources/BLD_Lathander_Platform_A.dae",
+    "size": [
+      18.8564395904541,
+      1.0824030339717865,
+      18.8564395904541
+    ],
+    "center_offset": [
+      0.0,
+      -0.0523885041475296,
+      0.0
+    ],
+    "uuid": "9d64afb8-224d-4e57-84b7-75d9ad57712d",
+    "parent": "BLD_Lathander_Platform_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_A_Sails_Up",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_ABC/Resources/BLD_Ship_Xebec_A.dae",
+    "size": [
+      10.154955863952637,
+      15.928504824638367,
+      49.04827690124512
+    ],
+    "center_offset": [
+      0.0,
+      7.436340391635895,
+      0.9818029403686523
+    ],
+    "uuid": "06cc8e79-cb17-4772-b956-43eaf0997927",
+    "parent": "BLD_Ship_Xebec_A"
+  },
+  {
+    "name": "BLD_GEN_Stairs_Wood_Rich_D_L_90_A_Flipped_Prefab",
+    "relative_path": "Buildings/Generic/BLD_GEN_Stairs_Wood_Rich_ABC/Resources/BLD_GEN_Stairs_Wood_Rich_D_L_90_A.dae",
+    "size": [
+      7.543816089630127,
+      4.69490497931838,
+      7.424744129180908
+    ],
+    "center_offset": [
+      -0.03332996368408203,
+      2.2996884901076555,
+      -1.1185109615325928
+    ],
+    "uuid": "16279031-28e8-4b5a-aa13-d5b013117856",
+    "parent": "BLD_GEN_Stairs_Wood_Rich_D_L_90_A"
+  },
+  {
+    "name": "BLD_GEN_Stairs_Wood_Rich_C_L_90_A_Flipped_Prefab",
+    "relative_path": "Buildings/Generic/BLD_GEN_Stairs_Wood_Rich_ABC/Resources/BLD_GEN_Stairs_Wood_Rich_C_L_90_A.dae",
+    "size": [
+      7.5081470012664795,
+      4.731910824775696,
+      7.757596969604492
+    ],
+    "center_offset": [
+      -0.01786959171295166,
+      2.2806844115257263,
+      -0.8692965507507324
+    ],
+    "uuid": "17efcd43-51d7-469c-9dcc-ed90ce726d52",
+    "parent": "BLD_GEN_Stairs_Wood_Rich_C_L_90_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_A_Sails_Down",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_ABC/Resources/BLD_Ship_Xebec_A.dae",
+    "size": [
+      10.154955863952637,
+      15.928504824638367,
+      49.04827690124512
+    ],
+    "center_offset": [
+      0.0,
+      7.436340391635895,
+      0.9818029403686523
+    ],
+    "uuid": "64a4abdf-2596-4610-96c9-dce35488d716",
+    "parent": "BLD_Ship_Xebec_A"
+  },
+  {
+    "name": "BLD_City_House_Pillar_Wood_B_Prefab_A",
+    "relative_path": "Buildings/City/BLD_City_House_Pillar_Wood_ABC/Resources/BLD_City_House_Pillar_Wood_B.dae",
+    "size": [
+      0.4886299967765808,
+      3.9973190372693352,
+      0.48170800507068634
+    ],
+    "center_offset": [
+      0.0,
+      1.998102518642554,
+      0.0017239972949028015
+    ],
+    "uuid": "fcb9e77d-636f-420f-8e3b-c570a362162f",
+    "parent": "BLD_City_House_Pillar_Wood_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_B.dae",
+    "size": [
+      1.6707679629325867,
+      1.9649319648742676,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006215006113052368,
+      3.603872060775757,
+      0.0
+    ],
+    "uuid": "0194fba5-3f59-42e4-9c78-6f0438be606c",
+    "parent": "BLD_GEN_Window_StainedGlass_F_B"
+  },
+  {
+    "name": "BLD_HUM_Harbor_Boat_Small_A_Bobbing_A",
+    "relative_path": "Buildings/Humans/BLD_HUM_Harbor_Boat_Small_ABC/Resources/BLD_HUM_Harbor_Boat_Small_A.dae",
+    "size": [
+      12.077546119689941,
+      3.071819007396698,
+      2.3450400829315186
+    ],
+    "center_offset": [
+      -0.10189104080200195,
+      1.035020500421524,
+      0.020020008087158203
+    ],
+    "uuid": "039c0523-9599-4589-a77a-8c329370aad1",
+    "parent": "BLD_HUM_Harbor_Boat_Small_A"
+  },
+  {
+    "name": "BLD_Temple_WaterWell_C_Dome_PLACEHOLDER",
+    "relative_path": "Buildings/Temple/BLD_Temple_WaterWell_ABC/Resources/BLD_Temple_WaterWell_C.dae",
+    "size": [
+      5.048858165740967,
+      5.979473122104537,
+      5.0488600730896
+    ],
+    "center_offset": [
+      0.0,
+      2.9903745610790793,
+      0.0
+    ],
+    "uuid": "088a5024-3189-4c5a-9aa1-35f9e15f5b47",
+    "parent": "BLD_Temple_WaterWell_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_B.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "0be46756-0aa5-415e-8598-9695d3bbd7f1",
+    "parent": "BLD_GEN_Window_Leaded_Glass_B"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel_Long_Blue",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel.dae",
+    "size": [
+      2.0349289774894714,
+      1.7295399904251099,
+      2.293286919593811
+    ],
+    "center_offset": [
+      0.293721467256546,
+      0.5319409966468811,
+      -0.012818515300750732
+    ],
+    "uuid": "0f5bc4d5-98ab-4035-9fa5-fadc8934cb06",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Mid_Wall_L_A_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_ABC/Resources/BLD_Dungeon_Temple_Rubble_Mid_Wall_L_A.dae",
+    "size": [
+      2.814787983894348,
+      2.871369108557701,
+      2.9036690816283226
+    ],
+    "center_offset": [
+      -0.05872100591659546,
+      1.2555805519223213,
+      1.3433095403015614
+    ],
+    "uuid": "0fcd22c1-434e-4af5-afaf-001e90ac9fe7",
+    "parent": "BLD_Dungeon_Temple_Rubble_Mid_Wall_L_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_C_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_C.dae",
+    "size": [
+      2.0710220336914062,
+      5.4149159938097,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5317239984869957,
+      0.0
+    ],
+    "uuid": "113403a1-aa2c-48a7-81a7-4d0e98073ab2",
+    "parent": "BLD_GEN_Window_StainedGlass_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_A_Platform_Diamond_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Platform_ABC/Resources/BLD_Dungeon_Temple_A_Platform_Diamond_A.dae",
+    "size": [
+      28.489426612854004,
+      1.551975965499878,
+      21.21939754486084
+    ],
+    "center_offset": [
+      0.0019669532775878906,
+      0.0,
+      0.0011677742004394531
+    ],
+    "uuid": "13570c5b-61cd-40f4-95b0-f23272a95ebc",
+    "parent": "BLD_Dungeon_Temple_A_Platform_Diamond_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Broken_A_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B_Broken_A.dae",
+    "size": [
+      6.635758876800537,
+      10.110907431691885,
+      6.005488157272339
+    ],
+    "center_offset": [
+      -0.0002675056457519531,
+      5.069372715428472,
+      -0.000491023063659668
+    ],
+    "uuid": "13b755bc-6aab-436c-923f-eeed2bf921ac",
+    "parent": "BLD_Druid_Menhir_B_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_F_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_F.dae",
+    "size": [
+      0.529778003692627,
+      1.34244704246521,
+      0.04213700070977211
+    ],
+    "center_offset": [
+      0.0,
+      0.671223521232605,
+      0.0006234999746084213
+    ],
+    "uuid": "13e81117-33c8-4cfb-aa4f-1b825efe26e2",
+    "parent": "BLD_GEN_Window_Leaded_Glass_F"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Small_B_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Small_B.dae",
+    "size": [
+      2.068142056465149,
+      4.264366212533787,
+      2.683210015296936
+    ],
+    "center_offset": [
+      0.0007659792900085449,
+      2.1340551063185558,
+      -0.05474895238876343
+    ],
+    "uuid": "18a70ad8-4076-48db-b775-77eb3e85f7bb",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Small_B"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_F_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_F.dae",
+    "size": [
+      1.2345200181007385,
+      0.037326998077332973,
+      0.929315984249115
+    ],
+    "center_offset": [
+      -0.04351601004600525,
+      0.01622749911621213,
+      -0.028053998947143555
+    ],
+    "uuid": "18bdc310-34c5-42ad-b8df-bc55b15f10fd",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_F"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Mid_Wall_A_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_ABC/Resources/BLD_Dungeon_Temple_Rubble_Mid_Wall_A.dae",
+    "size": [
+      4.115634918212891,
+      3.176465943455696,
+      4.798132061958313
+    ],
+    "center_offset": [
+      0.716017484664917,
+      1.4517879709601402,
+      0.9609100222587585
+    ],
+    "uuid": "18f6421e-f2cc-4786-afd6-4cb915eb085f",
+    "parent": "BLD_Dungeon_Temple_Rubble_Mid_Wall_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_F_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_F.dae",
+    "size": [
+      6.4787609577178955,
+      18.477258041501045,
+      6.197614908218384
+    ],
+    "center_offset": [
+      0.0034674406051635742,
+      9.260629020631313,
+      -0.011506438255310059
+    ],
+    "uuid": "19c5627c-230d-45fe-b1c0-3355985e440f",
+    "parent": "BLD_Druid_Menhir_F"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_B_Static_Blue",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Button_B.dae",
+    "size": [
+      0.5481100082397461,
+      0.77183598279953,
+      0.520671010017395
+    ],
+    "center_offset": [
+      -0.11168700456619263,
+      0.9259549677371979,
+      0.7443554997444153
+    ],
+    "uuid": "1a135e50-96b0-49f7-badc-113746ee7043",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_H_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_H.dae",
+    "size": [
+      0.8004589974880219,
+      1.6602550074458122,
+      0.09122899919748306
+    ],
+    "center_offset": [
+      -0.0038474947214126587,
+      0.7165955044329166,
+      -4.991888999938965e-07
+    ],
+    "uuid": "1d13acc6-3b23-4fa3-a210-a3a76fe38cb5",
+    "parent": "BLD_GEN_Window_Leaded_Glass_H"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Big_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Big_A.dae",
+    "size": [
+      4.606234073638916,
+      8.413812099024653,
+      3.41274893283844
+    ],
+    "center_offset": [
+      0.0,
+      4.198539049364626,
+      -0.197099506855011
+    ],
+    "uuid": "1d4e6fb1-fa83-4469-bbe2-9042a3e11dd1",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Big_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Small_B_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Small_B.dae",
+    "size": [
+      2.8476699590682983,
+      2.2434499859809875,
+      2.993638038635254
+    ],
+    "center_offset": [
+      -0.005806028842926025,
+      0.6091940104961395,
+      -0.09950602054595947
+    ],
+    "uuid": "1e067710-4260-4c1a-a426-696b4221f6ed",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Small_B"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_1H_13W_6D_A_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_1H_13W_6D_A.dae",
+    "size": [
+      8.20481014251709,
+      1.2866039425134659,
+      13.81183910369873
+    ],
+    "center_offset": [
+      0.0,
+      0.5620089694857597,
+      2.769991397857666
+    ],
+    "uuid": "1edd518b-50ad-428c-b1d1-7cb7995171a5",
+    "parent": "BLD_Harbor_House_Roof_1H_13W_6D_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_C_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_C.dae",
+    "size": [
+      16.72147846221924,
+      2.8565680906176567,
+      27.088507652282715
+    ],
+    "center_offset": [
+      0.22206830978393555,
+      1.503841046243906,
+      -1.5946545600891113
+    ],
+    "uuid": "1f0ffddb-1747-47ec-880e-2feb9a490912",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_C"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_Extension_1H_5W_5D_B_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_Extension_1H_5W_5D_B.dae",
+    "size": [
+      6.248201847076416,
+      2.0014440175145864,
+      6.248201847076416
+    ],
+    "center_offset": [
+      0.0,
+      0.9754850091412663,
+      0.0
+    ],
+    "uuid": "2260a2bc-d020-4e47-a2d4-93486823d866",
+    "parent": "BLD_Harbor_House_Roof_Extension_1H_5W_5D_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_B_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_B.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "29b57416-af95-4525-8e01-953327dd2290",
+    "parent": "BLD_GEN_Window_Leaded_Glass_B"
+  },
+  {
+    "name": "BLD_Druid_Menhir_F_Glowing_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_F.dae",
+    "size": [
+      6.4787609577178955,
+      18.477258041501045,
+      6.197614908218384
+    ],
+    "center_offset": [
+      0.0034674406051635742,
+      9.260629020631313,
+      -0.011506438255310059
+    ],
+    "uuid": "2ae17429-9e32-4f98-8436-cb94a65e97ff",
+    "parent": "BLD_Druid_Menhir_F"
+  },
+  {
+    "name": "BLD_Hospital_Dome_Roof_A_Moss_A",
+    "relative_path": "Buildings/Hospital/Resources/BLD_Hospital_Dome_Roof_A.dae",
+    "size": [
+      13.908388137817383,
+      4.862191885709763,
+      5.423336029052734
+    ],
+    "center_offset": [
+      0.0,
+      2.090686932206154,
+      0.8507089614868164
+    ],
+    "uuid": "2d76064b-df5a-4394-a960-4e65fa74fea4",
+    "parent": "BLD_Hospital_Dome_Roof_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Small_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Small_A.dae",
+    "size": [
+      1.8473639488220215,
+      4.311380907893181,
+      2.8270410299301147
+    ],
+    "center_offset": [
+      0.0,
+      2.1073734536767006,
+      -0.12666445970535278
+    ],
+    "uuid": "2fdb4037-69dc-40da-9cd4-dbc18c81b9af",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Small_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_E_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_E.dae",
+    "size": [
+      9.522336959838867,
+      2.262377977371216,
+      9.86368703842163
+    ],
+    "center_offset": [
+      0.29746055603027344,
+      1.301514983177185,
+      -0.10011649131774902
+    ],
+    "uuid": "36a312a8-61c8-4826-ba21-a6ec48eb5a72",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_E"
+  },
+  {
+    "name": "BLD_Hospital_Entrance_Roof_A_Moss_A",
+    "relative_path": "Buildings/Hospital/Resources/BLD_Hospital_Entrance_Roof_A.dae",
+    "size": [
+      9.246509552001953,
+      1.1799310147762299,
+      2.5192899107933044
+    ],
+    "center_offset": [
+      0.0,
+      0.3686635047197342,
+      -1.4820349514484406
+    ],
+    "uuid": "387f5bf9-e5e5-4bab-a828-3eedee007393",
+    "parent": "BLD_Hospital_Entrance_Roof_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_A_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_A.dae",
+    "size": [
+      1.0,
+      1.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "3914a315-f583-4782-bcc0-3b4f5837147a",
+    "parent": "BLD_GEN_Window_Leaded_Glass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_B_Broken_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_B_Broken.dae",
+    "size": [
+      1.5391449928283691,
+      2.919793128967285,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.004186511039733887,
+      4.3276286125183105,
+      0.0
+    ],
+    "uuid": "3e80dffa-e5ad-4c7d-88d1-462cf1b44353",
+    "parent": "BLD_GEN_Window_StainedGlass_E_B_Broken"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "4284f0bd-e10f-4571-b8ad-5acd5a656c59",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_Extension_1H_2W_2D_A_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_Extension_1H_2W_2D_A.dae",
+    "size": [
+      3.248203992843628,
+      0.7506599724292755,
+      3.248203992843628
+    ],
+    "center_offset": [
+      0.0,
+      0.2572939842939377,
+      0.0
+    ],
+    "uuid": "4383b70a-202e-4a77-83db-ffe9ffcb0462",
+    "parent": "BLD_Harbor_House_Roof_Extension_1H_2W_2D_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "44c6c946-3129-4cf7-9fec-38c07bf6fcc3",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Rose_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Rose_A.dae",
+    "size": [
+      2.0066380500793457,
+      2.005002975463867,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      0.00031948089599609375,
+      0.0
+    ],
+    "uuid": "45268df0-56c5-4e72-97e4-4454e2dd3e97",
+    "parent": "BLD_GEN_Window_StainedGlass_Rose_A"
+  },
+  {
+    "name": "BLD_Ship_Darklake_Raft_Boat_A_Static_NonWalkable",
+    "relative_path": "Buildings/Ship/BLD_Ship_DarkLake_Raft_ABC/Resources/BLD_Ship_Darklake_Raft_Boat_A.dae",
+    "size": [
+      8.220753908157349,
+      7.810528039932251,
+      23.130263328552246
+    ],
+    "center_offset": [
+      0.11039388179779053,
+      1.589053988456726,
+      0.16614389419555664
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_Ship_Darklake_Raft_Boat_A"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_D_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_D.dae",
+    "size": [
+      2.320039987564087,
+      0.08831800147891045,
+      1.9972999691963196
+    ],
+    "center_offset": [
+      0.030279994010925293,
+      0.035329001024365425,
+      0.10217699408531189
+    ],
+    "uuid": "473b2e52-b44a-4867-9c3c-f3b86fa7faaa",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_D"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_D_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_D.dae",
+    "size": [
+      1.780187964439392,
+      6.6564598977565765,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      3.1693019419908524,
+      0.0
+    ],
+    "uuid": "499d988d-0cc2-4abd-9883-e655921d1962",
+    "parent": "BLD_GEN_Window_StainedGlass_D"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_B_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_B.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "4a14259b-246b-4231-8106-7e26b19e4db7",
+    "parent": "BLD_GEN_Window_Leaded_Glass_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_D_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_D.dae",
+    "size": [
+      0.7031989991664886,
+      1.7905369494110346,
+      0.041500999592244625
+    ],
+    "center_offset": [
+      -0.00019951164722442627,
+      0.8880334747955203,
+      -0.005424499977380037
+    ],
+    "uuid": "4a79ab2d-c5b2-4710-b59e-49713190953a",
+    "parent": "BLD_GEN_Window_Leaded_Glass_D"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Rose_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Rose_A.dae",
+    "size": [
+      2.0066380500793457,
+      2.0043649673461914,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      4.76837158203125e-07,
+      0.0
+    ],
+    "uuid": "4bdcac59-4833-4fff-b136-654fa03b9785",
+    "parent": "BLD_HighHall_Window_StainedGlass_Rose_A"
+  },
+  {
+    "name": "BLD_HUM_Abbey_Pillar_B_Ruined_A_Bottom_B",
+    "relative_path": "Buildings/Humans/BLD_HUM_Abbey_Pillar_ABC/Resources/BLD_HUM_Abbey_Pillar_B_Ruined_A.dae",
+    "size": [
+      4.552070140838623,
+      12.674640655517578,
+      4.382479906082153
+    ],
+    "center_offset": [
+      -0.037374019622802734,
+      6.337320327758789,
+      -0.16346204280853271
+    ],
+    "uuid": "4cede204-fe08-4f51-863e-9668b91dec79",
+    "parent": "BLD_HUM_Abbey_Pillar_B_Ruined_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Big_B_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Big_B.dae",
+    "size": [
+      4.606234073638916,
+      6.628756821155548,
+      3.725594997406006
+    ],
+    "center_offset": [
+      0.0,
+      2.7102974355220795,
+      -0.10349547863006592
+    ],
+    "uuid": "4e9f59da-57f4-4ae0-8f2e-e4392d8ee64b",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Big_B"
+  },
+  {
+    "name": "BLD_Hospital_Dome_A_Moss_A",
+    "relative_path": "Buildings/Hospital/Resources/BLD_Hospital_Dome_A.dae",
+    "size": [
+      8.526585578918457,
+      5.334962844848633,
+      8.526585578918457
+    ],
+    "center_offset": [
+      0.0,
+      2.6674814224243164,
+      0.0
+    ],
+    "uuid": "4ff1e769-e92d-4229-b55d-3c7d8e7593e3",
+    "parent": "BLD_Hospital_Dome_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_D_Broken_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_D_Broken.dae",
+    "size": [
+      1.5391449928283691,
+      6.462060783058405,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.004186511039733887,
+      3.181451393291354,
+      0.0
+    ],
+    "uuid": "53ae7def-558f-4c92-b091-2f929786c643",
+    "parent": "BLD_GEN_Window_StainedGlass_D_Broken"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Small_B_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Small_B.dae",
+    "size": [
+      1.077463984489441,
+      4.943153043487655,
+      0.9387199878692627
+    ],
+    "center_offset": [
+      0.0016980171203613281,
+      2.4715735217437214,
+      -0.00171700119972229
+    ],
+    "uuid": "549529f1-a936-4cae-9a3c-4aae5f653089",
+    "parent": "BLD_Dungeon_Temple_Chimney_Small_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_A_Broken_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_A_Broken.dae",
+    "size": [
+      1.493265986442566,
+      2.7914119958877563,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006056010723114014,
+      1.3480049967765808,
+      0.0
+    ],
+    "uuid": "58bdf1b4-2554-4046-b71a-fe801afd917c",
+    "parent": "BLD_GEN_Window_StainedGlass_F_A_Broken"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_I_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_I.dae",
+    "size": [
+      1.0314499735832214,
+      2.3140489757061005,
+      0.10236699879169464
+    ],
+    "center_offset": [
+      -0.0045410096645355225,
+      1.0614274889230728,
+      -4.991888999938965e-07
+    ],
+    "uuid": "58f15e9d-ee80-40cb-9179-62efbb9687c4",
+    "parent": "BLD_GEN_Window_Leaded_Glass_I"
+  },
+  {
+    "name": "BLD_Druid_Menhir_C_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_C.dae",
+    "size": [
+      23.714919090270996,
+      4.250441938638687,
+      7.884282112121582
+    ],
+    "center_offset": [
+      -0.09453248977661133,
+      1.8299379795789719,
+      -0.006525993347167969
+    ],
+    "uuid": "59667d15-0f2c-41e6-8212-af729ef7d226",
+    "parent": "BLD_Druid_Menhir_C"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_Extension_1H_5W_5D_A_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_Extension_1H_5W_5D_A.dae",
+    "size": [
+      6.248201847076416,
+      3.7860180493444204,
+      6.248201847076416
+    ],
+    "center_offset": [
+      0.0,
+      1.8677720250561833,
+      0.0
+    ],
+    "uuid": "59a496d2-965f-46a7-bbba-30f5046245ee",
+    "parent": "BLD_Harbor_House_Roof_Extension_1H_5W_5D_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Large_A_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_ABC/Resources/BLD_Dungeon_Temple_Rubble_Large_A.dae",
+    "size": [
+      6.590539216995239,
+      1.172821968793869,
+      6.396276950836182
+    ],
+    "center_offset": [
+      -0.11057150363922119,
+      0.3158919960260391,
+      -0.08852052688598633
+    ],
+    "uuid": "5c154380-4428-44ce-ae00-d996963f9199",
+    "parent": "BLD_Dungeon_Temple_Rubble_Large_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_A_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_A.dae",
+    "size": [
+      1.0,
+      1.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "5e66f8b1-4653-49d3-900a-285316de0f43",
+    "parent": "BLD_GEN_Window_Leaded_Glass_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Big_C_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Big_C.dae",
+    "size": [
+      4.349210023880005,
+      6.618869185447693,
+      3.7337419986724854
+    ],
+    "center_offset": [
+      -0.05879700183868408,
+      2.711754620075226,
+      -0.1431800127029419
+    ],
+    "uuid": "60aa40af-4aab-407d-a9b5-375fc760a357",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Big_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_A.dae",
+    "size": [
+      1.0,
+      1.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "62a90009-224b-445e-8949-a55b0298cc84",
+    "parent": "BLD_GEN_Window_Leaded_Glass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_C_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_C.dae",
+    "size": [
+      0.49822400510311127,
+      0.49691399931907654,
+      0.03638100065290928
+    ],
+    "center_offset": [
+      0.0017010048031806946,
+      0.24845699965953827,
+      -2.50060111284256e-06
+    ],
+    "uuid": "6602c2c6-ae12-42e9-96b7-7ab45b2c3c86",
+    "parent": "BLD_GEN_Window_Leaded_Glass_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_C_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_C.dae",
+    "size": [
+      0.49822400510311127,
+      0.49691399931907654,
+      0.03638100065290928
+    ],
+    "center_offset": [
+      0.0017010048031806946,
+      0.24845699965953827,
+      -2.50060111284256e-06
+    ],
+    "uuid": "66a4885a-d854-4de6-9635-884cfdd74484",
+    "parent": "BLD_GEN_Window_Leaded_Glass_C"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_B.dae",
+    "size": [
+      2.1530919075012207,
+      5.372103989124298,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5046699941158295,
+      0.0
+    ],
+    "uuid": "66f62e3e-db7b-44cb-ba2d-29b0a5cf5a43",
+    "parent": "BLD_GEN_Window_StainedGlass_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Small_C_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Small_C.dae",
+    "size": [
+      2.836354970932007,
+      4.271202150033787,
+      2.7893850803375244
+    ],
+    "center_offset": [
+      -0.0012944936752319336,
+      2.1374730750685558,
+      -0.10783648490905762
+    ],
+    "uuid": "6aa38032-2870-48ad-96b3-7ed0b159c0b4",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Small_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Mid_A_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_ABC/Resources/BLD_Dungeon_Temple_Rubble_Mid_A.dae",
+    "size": [
+      2.7427080869674683,
+      0.6351870000362396,
+      2.8477020263671875
+    ],
+    "center_offset": [
+      -0.027105987071990967,
+      0.17375050485134125,
+      0.0069969892501831055
+    ],
+    "uuid": "6d0a084a-8988-4629-b46a-00bcee469b4b",
+    "parent": "BLD_Dungeon_Temple_Rubble_Mid_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Small_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Small_A.dae",
+    "size": [
+      2.8476699590682983,
+      2.2434499859809875,
+      3.004523992538452
+    ],
+    "center_offset": [
+      -0.005806028842926025,
+      0.6091940104961395,
+      -0.1049489974975586
+    ],
+    "uuid": "6fcc0f49-9871-4907-8e92-1eef380d85b3",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Small_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_I_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_I.dae",
+    "size": [
+      1.0314499735832214,
+      2.3140489757061005,
+      0.10236699879169464
+    ],
+    "center_offset": [
+      -0.0045410096645355225,
+      1.0614274889230728,
+      -4.991888999938965e-07
+    ],
+    "uuid": "6fcd976e-7676-4fb4-883f-4e30ebf66478",
+    "parent": "BLD_GEN_Window_Leaded_Glass_I"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_A_Broken_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_A_Broken.dae",
+    "size": [
+      1.5349760055541992,
+      2.9177878834307194,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.006271004676818848,
+      1.4093149434775114,
+      0.0
+    ],
+    "uuid": "74ca9097-2d1e-464a-b50f-fe7b35b9531e",
+    "parent": "BLD_GEN_Window_StainedGlass_E_A_Broken"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Mid_Wall_B_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_ABC/Resources/BLD_Dungeon_Temple_Rubble_Mid_Wall_B.dae",
+    "size": [
+      3.467182993888855,
+      3.045055001974106,
+      3.539171077311039
+    ],
+    "center_offset": [
+      -0.052746474742889404,
+      1.4196095019578934,
+      1.678751539438963
+    ],
+    "uuid": "77146318-1aa2-49fd-b0c8-5018447dc897",
+    "parent": "BLD_Dungeon_Temple_Rubble_Mid_Wall_B"
+  },
+  {
+    "name": "BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x4_1H_A_Destroyed_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Camp_WoodenStructure_ABC/Resources/BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x4_1H_A.dae",
+    "size": [
+      5.4175801277160645,
+      0.9104359745979309,
+      5.393239974975586
+    ],
+    "center_offset": [
+      0.0,
+      0.06489399075508118,
+      0.0
+    ],
+    "uuid": "78967f02-83be-44b4-9d01-8a504004a1c3",
+    "parent": "BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x4_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Rose_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Rose_A.dae",
+    "size": [
+      2.0066380500793457,
+      2.005002975463867,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      0.00031948089599609375,
+      0.0
+    ],
+    "uuid": "79d4863c-854c-48b6-a035-4e9468b9e8c7",
+    "parent": "BLD_GEN_Window_StainedGlass_Rose_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Broken_B_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B_Broken_B.dae",
+    "size": [
+      6.7779700756073,
+      3.011692018248141,
+      6.940886974334717
+    ],
+    "center_offset": [
+      0.002514958381652832,
+      1.4956770087592304,
+      0.017334461212158203
+    ],
+    "uuid": "7a4a7034-9064-4d9c-b3b9-db50533a7ca6",
+    "parent": "BLD_Druid_Menhir_B_Broken_B"
+  },
+  {
+    "name": "BLD_Druid_Menhir_A_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_A.dae",
+    "size": [
+      9.680685043334961,
+      23.35093815624714,
+      9.992942810058594
+    ],
+    "center_offset": [
+      1.430511474609375e-06,
+      11.519130073487759,
+      4.76837158203125e-07
+    ],
+    "uuid": "7dd4b71d-0b68-4d8a-a83c-2ed5ce40d7b4",
+    "parent": "BLD_Druid_Menhir_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Big_C_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Big_C.dae",
+    "size": [
+      6.194265127182007,
+      9.802481293678284,
+      4.829970121383667
+    ],
+    "center_offset": [
+      0.011243462562561035,
+      3.80391663312912,
+      -0.11828696727752686
+    ],
+    "uuid": "82b1baa0-2fdd-4b00-88db-f7733b712936",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Big_C"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_B.dae",
+    "size": [
+      1.7657220363616943,
+      3.23598313331604,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      4.3480366468429565,
+      0.0
+    ],
+    "uuid": "84855960-cc2c-41f8-9793-ab54e5e9ae2c",
+    "parent": "BLD_GEN_Window_StainedGlass_E_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Big_B_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Big_B.dae",
+    "size": [
+      6.189162969589233,
+      7.110838055610657,
+      4.826833009719849
+    ],
+    "center_offset": [
+      0.009931445121765137,
+      2.4580950140953064,
+      -0.11671841144561768
+    ],
+    "uuid": "887cb422-b12d-4c5a-a7eb-82631f120e52",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Big_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Small_D_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Small_D.dae",
+    "size": [
+      3.1812779903411865,
+      4.1636709570884705,
+      3.189481019973755
+    ],
+    "center_offset": [
+      -0.0024160146713256836,
+      1.569304496049881,
+      -0.19113552570343018
+    ],
+    "uuid": "88bd3cc1-6077-4342-9c9c-d881c2c3ea2f",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Small_D"
+  },
+  {
+    "name": "BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A_FireWall_Destroyed",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_SharTemple_ABC/Resources/BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A.dae",
+    "size": [
+      2.5464799404144287,
+      3.0,
+      1.2543220520019531
+    ],
+    "center_offset": [
+      0.0,
+      1.5,
+      0.0
+    ],
+    "uuid": "88e50142-7f3e-4306-80fe-00270747413e",
+    "parent": "BLD_Dungeon_SharTemple_Beacon_A_2W_3H_Top_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_B_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_B.dae",
+    "size": [
+      16.49163818359375,
+      2.3084499835968018,
+      13.744232654571533
+    ],
+    "center_offset": [
+      1.4838008880615234,
+      1.324550986289978,
+      -1.0518324375152588
+    ],
+    "uuid": "89220db4-b151-4780-9217-3fe78514ecee",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_B"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_1H_18W_6D_A_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_1H_18W_6D_A.dae",
+    "size": [
+      8.20481014251709,
+      1.2849019914865494,
+      18.31430721282959
+    ],
+    "center_offset": [
+      0.0,
+      0.5611579939723015,
+      5.021225452423096
+    ],
+    "uuid": "8a7d3661-53bb-4784-8d1a-0c644b8780e7",
+    "parent": "BLD_Harbor_House_Roof_1H_18W_6D_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B.dae",
+    "size": [
+      8.002198934555054,
+      23.27813157439232,
+      8.148262023925781
+    ],
+    "center_offset": [
+      0.005209565162658691,
+      11.772030785679817,
+      0.04622983932495117
+    ],
+    "uuid": "8c38eb48-edaf-4a96-8234-41d53d08fda9",
+    "parent": "BLD_Druid_Menhir_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Big_E_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Big_E.dae",
+    "size": [
+      1.7124620079994202,
+      6.122609107289463,
+      2.715059995651245
+    ],
+    "center_offset": [
+      0.006853014230728149,
+      3.054048553807661,
+      0.004354953765869141
+    ],
+    "uuid": "90378a22-93af-44ee-a6ae-33d4a606961a",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Big_E"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel_Long_Red",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel.dae",
+    "size": [
+      2.0349289774894714,
+      1.7295399904251099,
+      2.293286919593811
+    ],
+    "center_offset": [
+      0.293721467256546,
+      0.5319409966468811,
+      -0.012818515300750732
+    ],
+    "uuid": "9398b123-06ca-4bcb-9506-b67069e5131a",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Control_Panel"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_B_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_B.dae",
+    "size": [
+      1.4435759782791138,
+      0.15253900364041328,
+      2.6253440380096436
+    ],
+    "center_offset": [
+      0.0,
+      0.015875501558184624,
+      -0.0028409957885742188
+    ],
+    "uuid": "965f5803-fa7c-4298-9f18-3d2ce9c2ef3a",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_B"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_A_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_A.dae",
+    "size": [
+      3.896799087524414,
+      0.3943980038166046,
+      4.889775037765503
+    ],
+    "center_offset": [
+      -0.16264653205871582,
+      0.1432410031557083,
+      -0.007123589515686035
+    ],
+    "uuid": "9a9bf183-a769-416a-8c0e-1e4dc7c04838",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_A"
+  },
+  {
+    "name": "BLD_HUM_Abbey_Pillar_B_Ruined_A_Bottom_A",
+    "relative_path": "Buildings/Humans/BLD_HUM_Abbey_Pillar_ABC/Resources/BLD_HUM_Abbey_Pillar_B_Ruined_A.dae",
+    "size": [
+      4.552070140838623,
+      12.674640655517578,
+      4.382479906082153
+    ],
+    "center_offset": [
+      -0.037374019622802734,
+      6.337320327758789,
+      -0.16346204280853271
+    ],
+    "uuid": "9eea7c2e-ed39-41d3-b8f0-28f8f328d893",
+    "parent": "BLD_HUM_Abbey_Pillar_B_Ruined_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_A_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_A.dae",
+    "size": [
+      29.92072582244873,
+      2.5890259593725204,
+      41.10135841369629
+    ],
+    "center_offset": [
+      -8.207584857940674,
+      1.3698899820446968,
+      1.5995817184448242
+    ],
+    "uuid": "9f6ae1a8-9166-4c17-85fc-99b36a9ea3f3",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_E_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_E.dae",
+    "size": [
+      1.0245440006256104,
+      2.077942054718733,
+      0.03484700061380863
+    ],
+    "center_offset": [
+      -0.008890986442565918,
+      0.9842440281063318,
+      -0.00013749953359365463
+    ],
+    "uuid": "a03bf46c-9ea1-431a-85aa-9c364fa6c769",
+    "parent": "BLD_GEN_Window_Leaded_Glass_E"
+  },
+  {
+    "name": "BLD_HUM_Abbey_Pillar_B_Ruined_A_Arch_A",
+    "relative_path": "Buildings/Humans/BLD_HUM_Abbey_Pillar_ABC/Resources/BLD_HUM_Abbey_Pillar_B_Ruined_A.dae",
+    "size": [
+      4.552070140838623,
+      12.674640655517578,
+      4.382479906082153
+    ],
+    "center_offset": [
+      -0.037374019622802734,
+      6.337320327758789,
+      -0.16346204280853271
+    ],
+    "uuid": "a1d9c2da-9f91-4941-9214-74ee8f53f072",
+    "parent": "BLD_HUM_Abbey_Pillar_B_Ruined_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Rose_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Rose_B.dae",
+    "size": [
+      2.0066380500793457,
+      2.005002975463867,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      0.00031948089599609375,
+      0.0
+    ],
+    "uuid": "a34b76dc-998f-4aad-baee-1d399e89aa08",
+    "parent": "BLD_GEN_Window_StainedGlass_Rose_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Big_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Big_A.dae",
+    "size": [
+      5.923074960708618,
+      4.697635054588318,
+      3.984945058822632
+    ],
+    "center_offset": [
+      -0.012036442756652832,
+      1.251493513584137,
+      -0.2666875123977661
+    ],
+    "uuid": "a4fab29a-2f07-4f68-b668-599a05b91990",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Big_A"
+  },
+  {
+    "name": "BLD_Ship_Darklake_Raft_New_Catamaran_A_Static_NonWalkable",
+    "relative_path": "Buildings/Ship/BLD_Ship_DarkLake_Raft_ABC/Resources/BLD_Ship_Darklake_Raft_New_Catamaran_A.dae",
+    "size": [
+      11.200634956359863,
+      6.1996259689331055,
+      17.714457988739014
+    ],
+    "center_offset": [
+      -0.024921417236328125,
+      1.1785449981689453,
+      1.030122995376587
+    ],
+    "uuid": "a8ddf40f-7f15-4eea-a136-87812b5da73c",
+    "parent": "BLD_Ship_Darklake_Raft_New_Catamaran_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_A_Platform_Semicircle_12m_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Platform_ABC/Resources/BLD_Dungeon_Temple_A_Platform_Semicircle_12m_A.dae",
+    "size": [
+      12.00249195098877,
+      1.9854429960250854,
+      6.250956146046519
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      -0.5152994990348816,
+      3.099980072118342
+    ],
+    "uuid": "aa7e1210-a3eb-4395-9bef-110dcecef2aa",
+    "parent": "BLD_Dungeon_Temple_A_Platform_Semicircle_12m_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Big_D_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Big_D.dae",
+    "size": [
+      3.321810007095337,
+      6.0269992128014565,
+      1.7327210307121277
+    ],
+    "center_offset": [
+      -0.0008660554885864258,
+      3.007689606398344,
+      -0.015691488981246948
+    ],
+    "uuid": "aab10a21-0970-4834-bdd4-6a1cfe526710",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Big_D"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_G_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_G.dae",
+    "size": [
+      0.497763991355896,
+      1.132410991936922,
+      0.044286999851465225
+    ],
+    "center_offset": [
+      0.0,
+      0.564090495929122,
+      -1.3500452041625977e-05
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_GEN_Window_Leaded_Glass_G"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_F_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_F.dae",
+    "size": [
+      0.529778003692627,
+      1.34244704246521,
+      0.04213700070977211
+    ],
+    "center_offset": [
+      0.0,
+      0.671223521232605,
+      0.0006234999746084213
+    ],
+    "uuid": "b2503b38-6f33-4ce4-93b9-843cf52b527b",
+    "parent": "BLD_GEN_Window_Leaded_Glass_F"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_A.dae",
+    "size": [
+      1.0,
+      1.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "b66dc317-2195-4bb8-84b1-858891183dae",
+    "parent": "BLD_GEN_Window_Leaded_Glass_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_D_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_D.dae",
+    "size": [
+      21.110907554626465,
+      2.691681884229183,
+      7.756103992462158
+    ],
+    "center_offset": [
+      -9.489059448242188e-05,
+      1.4438929446041584,
+      0.00350189208984375
+    ],
+    "uuid": "ba31c0d9-c067-47ec-a36b-76d019b6ab12",
+    "parent": "BLD_Druid_Menhir_D"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_D_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_D.dae",
+    "size": [
+      18.43835163116455,
+      2.376877099275589,
+      17.257326126098633
+    ],
+    "center_offset": [
+      0.28305864334106445,
+      1.4731105417013168,
+      0.20377540588378906
+    ],
+    "uuid": "bb6e0f19-c30f-45d9-be90-3b7d8092e0dd",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_D"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Unique_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Unique_A.dae",
+    "size": [
+      1.3768459558486938,
+      1.7816859483718872,
+      0.16256599873304367
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0034560002386569977
+    ],
+    "uuid": "bd6923d9-7275-4824-abd3-222778cc505b",
+    "parent": "BLD_GEN_Window_StainedGlass_Unique_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_E_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_E.dae",
+    "size": [
+      1.0245440006256104,
+      2.077942054718733,
+      0.03484700061380863
+    ],
+    "center_offset": [
+      -0.008890986442565918,
+      0.9842440281063318,
+      -0.00013749953359365463
+    ],
+    "uuid": "be783435-816d-4860-a4bf-ef0e3c601e48",
+    "parent": "BLD_GEN_Window_Leaded_Glass_E"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_D_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_D.dae",
+    "size": [
+      0.7031989991664886,
+      1.7905369494110346,
+      0.041500999592244625
+    ],
+    "center_offset": [
+      -0.00019951164722442627,
+      0.8880334747955203,
+      -0.005424499977380037
+    ],
+    "uuid": "bfec23a9-97b9-45e9-b617-a395366af6b0",
+    "parent": "BLD_GEN_Window_Leaded_Glass_D"
+  },
+  {
+    "name": "WALL_MF_Nautiloid_Interior_A_0H_PodVista_45_Wall_A_Shadow_Caster",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Hanging_Pods_ABC/Resources/WALL_MF_Nautiloid_Interior_A_0H_PodVista_45_Wall_A.dae",
+    "size": [
+      79.10722351074219,
+      50.312307357788086,
+      58.278752187988175
+    ],
+    "center_offset": [
+      2.149486541748047,
+      3.3501710891723633,
+      29.139379093994194
+    ],
+    "uuid": "c0fcaa79-0bf5-44a5-a2bc-089b9956d1b2",
+    "parent": "WALL_MF_Nautiloid_Interior_A_0H_PodVista_45_Wall_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Stairs_A_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Stairs_A.dae",
+    "size": [
+      19.127312660217285,
+      4.254795130342245,
+      14.112615585327148
+    ],
+    "center_offset": [
+      0.016601085662841797,
+      2.1371645648032427,
+      0.0
+    ],
+    "uuid": "c1587bad-f6e3-4037-aa1b-65baf29139d9",
+    "parent": "BLD_Druid_Menhir_Stairs_A"
+  },
+  {
+    "name": "BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x8_1H_A_Destroyed_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Camp_WoodenStructure_ABC/Resources/BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x8_1H_A.dae",
+    "size": [
+      9.30053997039795,
+      0.9290670194895938,
+      5.81466007232666
+    ],
+    "center_offset": [
+      0.0,
+      0.46326350973686203,
+      0.0
+    ],
+    "uuid": "c2c6f591-d1e0-4211-9996-6f44a081b379",
+    "parent": "BLD_GEN_Camp_WoodenStructure_A_Platform_A_4x8_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_H_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_H.dae",
+    "size": [
+      0.8004589974880219,
+      1.6602550074458122,
+      0.09122899919748306
+    ],
+    "center_offset": [
+      -0.0038474947214126587,
+      0.7165955044329166,
+      -4.991888999938965e-07
+    ],
+    "uuid": "c7eaf3b6-3c53-41cd-bd57-d29d44503647",
+    "parent": "BLD_GEN_Window_Leaded_Glass_H"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_C_Static_Blue",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Button_C.dae",
+    "size": [
+      0.5481100082397461,
+      0.7075819969177246,
+      0.6101489365100861
+    ],
+    "center_offset": [
+      -0.11168700456619263,
+      0.8611810207366943,
+      -0.789093479514122
+    ],
+    "uuid": "cba216eb-0b18-497d-9524-50675e981152",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Small_D_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Small_D.dae",
+    "size": [
+      2.166059970855713,
+      4.237830949947238,
+      2.548280954360962
+    ],
+    "center_offset": [
+      0.0,
+      2.1463914746418595,
+      -0.08301353454589844
+    ],
+    "uuid": "d1323c3c-cc85-4971-aa9b-aefcc2f55789",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Small_D"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Shaft_Small_E_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Shaft_Small_E.dae",
+    "size": [
+      0.9043099880218506,
+      6.12154310150072,
+      2.413143038749695
+    ],
+    "center_offset": [
+      0.0014050006866455078,
+      3.055981550598517,
+      0.04411548376083374
+    ],
+    "uuid": "d5b87ed4-1cee-4bc3-ad25-be179c9b2d80",
+    "parent": "BLD_Dungeon_Temple_Chimney_Shaft_Small_E"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_C_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_C.dae",
+    "size": [
+      2.0710220336914062,
+      5.4149159938097,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5317239984869957,
+      0.0
+    ],
+    "uuid": "d769d42c-ae3a-475e-b3e5-2344d50e3a1f",
+    "parent": "BLD_GEN_Window_StainedGlass_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Rubble_Small_A_Mossy_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Rubble_Small_A.dae",
+    "size": [
+      2.164996027946472,
+      0.4539250135421753,
+      2.01698100566864
+    ],
+    "center_offset": [
+      0.0852699875831604,
+      0.09134450554847717,
+      0.08003050088882446
+    ],
+    "uuid": "d8f7385d-b713-4e78-a2da-255ec1ca6b1b",
+    "parent": "BLD_Dungeon_Temple_Rubble_Small_A"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_C_Static_Red",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Button_C.dae",
+    "size": [
+      0.5481100082397461,
+      0.7075819969177246,
+      0.6101489365100861
+    ],
+    "center_offset": [
+      -0.11168700456619263,
+      0.8611810207366943,
+      -0.789093479514122
+    ],
+    "uuid": "d90b0f63-8374-44e9-90b7-5bf7d3619bb5",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Button_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_A_Platform_Semicircle_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Platform_ABC/Resources/BLD_Dungeon_Temple_A_Platform_Semicircle_A.dae",
+    "size": [
+      7.694173812866211,
+      1.5991520285606384,
+      3.876321057556197
+    ],
+    "center_offset": [
+      0.0,
+      -0.06397899985313416,
+      1.938953528762795
+    ],
+    "uuid": "dd6a5596-3cd6-4013-bbb7-456f6ecc23d7",
+    "parent": "BLD_Dungeon_Temple_A_Platform_Semicircle_A"
+  },
+  {
+    "name": "BLD_MF_Platform_A_Stairs_B",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Platform_ABC/Resources/BLD_MF_Platform_A.dae",
+    "size": [
+      10.492283821105957,
+      0.362746000289917,
+      10.492280006408691
+    ],
+    "center_offset": [
+      0.0,
+      -0.036743998527526855,
+      0.0
+    ],
+    "uuid": "ddf13db9-6065-44b8-96d7-85dcf49bbffc",
+    "parent": "BLD_MF_Platform_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_B_Broken_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_B_Broken.dae",
+    "size": [
+      1.4973220229148865,
+      1.7056708335876465,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.004027992486953735,
+      3.59179949760437,
+      0.0
+    ],
+    "uuid": "df8cef5b-4934-46ce-84d1-cbb3ede2ea62",
+    "parent": "BLD_GEN_Window_StainedGlass_F_B_Broken"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_Mind_Draining_Device_Emissive_Parts_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_MindDraining_Device_ABC/Resources/BLD_MF_Nautiloid_Mind_Draining_Device_Emissive.dae",
+    "size": [
+      7.79201602935791,
+      16.293729782104492,
+      8.763697624206543
+    ],
+    "center_offset": [
+      0.0,
+      -0.0023193359375,
+      0.0
+    ],
+    "uuid": "e21b8c97-0b7c-4ac5-9f6b-1333f1277293",
+    "parent": "BLD_MF_Nautiloid_Mind_Draining_Device_Emissive"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_B_Glow_C",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_B.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "e285ce43-b475-4f64-a6f5-88c66afbe62b",
+    "parent": "BLD_GEN_Window_Leaded_Glass_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_G_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_G.dae",
+    "size": [
+      0.497763991355896,
+      1.132410991936922,
+      0.044286999851465225
+    ],
+    "center_offset": [
+      0.0,
+      0.564090495929122,
+      -1.3500452041625977e-05
+    ],
+    "uuid": "e57f159f-9786-45cc-8a55-275ffac861cd",
+    "parent": "BLD_GEN_Window_Leaded_Glass_G"
+  },
+  {
+    "name": "BLD_Druid_Menhir_E_Small_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_E.dae",
+    "size": [
+      6.75327205657959,
+      17.598557118326426,
+      6.927189111709595
+    ],
+    "center_offset": [
+      0.004430055618286133,
+      8.853757558390498,
+      -0.005664467811584473
+    ],
+    "uuid": "e6eb9644-59fd-45bb-be5e-6df38d95a50e",
+    "parent": "BLD_Druid_Menhir_E"
+  },
+  {
+    "name": "BLD_MF_Nautiloid_ship_A_MindFlayerColony_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Nautiloid_ship_A_Cinematic_ABC/Resources/BLD_MF_Nautiloid_ship_A.dae",
+    "size": [
+      202.3181915283203,
+      63.94810485839844,
+      110.08956909179688
+    ],
+    "center_offset": [
+      27.03630828857422,
+      22.918880462646484,
+      0.01021575927734375
+    ],
+    "uuid": "e759fa5d-5ff3-4bcc-8113-9c09d7ea5fe8",
+    "parent": "BLD_MF_Nautiloid_ship_A"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_C_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_C.dae",
+    "size": [
+      1.640023946762085,
+      0.16379500180482864,
+      2.74994695186615
+    ],
+    "center_offset": [
+      0.0,
+      0.033860500901937485,
+      0.0031564831733703613
+    ],
+    "uuid": "e786e46c-45b7-4c8d-ac5c-93ac138b3232",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_B.dae",
+    "size": [
+      1.0,
+      2.0,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0001385000068694353
+    ],
+    "uuid": "e8c318f6-1c70-4a62-a383-4522b7df2422",
+    "parent": "BLD_GEN_Window_Leaded_Glass_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Rose_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Rose_B.dae",
+    "size": [
+      2.0066380500793457,
+      2.005002975463867,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      0.00031948089599609375,
+      0.0
+    ],
+    "uuid": "eaa6cc76-aa80-40ba-81fd-1ab24cca0f8c",
+    "parent": "BLD_GEN_Window_StainedGlass_Rose_B"
+  },
+  {
+    "name": "BLD_Harbor_House_Roof_A_Rubble_Pile_E_Moss_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_House_ABC/Resources/BLD_Harbor_House_Roof_A_Rubble_Pile_E.dae",
+    "size": [
+      2.2793160676956177,
+      0.1104159988462925,
+      2.0310089588165283
+    ],
+    "center_offset": [
+      0.013472020626068115,
+      0.04637799970805645,
+      0.11667048931121826
+    ],
+    "uuid": "eb7d680c-19f7-4dc8-a388-4e225ea40b82",
+    "parent": "BLD_Harbor_House_Roof_A_Rubble_Pile_E"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_Unique_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_Unique_A.dae",
+    "size": [
+      1.3768459558486938,
+      1.7816859483718872,
+      0.16256599873304367
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0034560002386569977
+    ],
+    "uuid": "eb91f7c6-e1be-47a6-82ad-3c1ed4d7e0f6",
+    "parent": "BLD_GEN_Window_StainedGlass_Unique_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_A.dae",
+    "size": [
+      1.7657220363616943,
+      3.1744949966669083,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      1.4108225032687187,
+      0.0
+    ],
+    "uuid": "ec533b0c-418a-4c88-b9ef-579c490457a6",
+    "parent": "BLD_GEN_Window_StainedGlass_E_A"
+  },
+  {
+    "name": "BLD_GEN_Bridge_Wood_A_Intact_A_Static_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Bridge_Wood_A/Resources/BLD_GEN_Bridge_Wood_A_Intact_A.dae",
+    "size": [
+      12.245705127716064,
+      19.42698383331299,
+      27.60404109954834
+    ],
+    "center_offset": [
+      0.2296745777130127,
+      2.384185791015625e-06,
+      0.3565354347229004
+    ],
+    "uuid": "efcf3246-33ca-4ccf-a0ed-d9c0a572f32b",
+    "parent": "BLD_GEN_Bridge_Wood_A_Intact_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Small_C_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Small_C.dae",
+    "size": [
+      0.9138919711112976,
+      4.009286094486015,
+      0.8330790102481842
+    ],
+    "center_offset": [
+      0.0,
+      2.0043100472394144,
+      -0.0007105022668838501
+    ],
+    "uuid": "eff9c783-bc03-44c8-9309-e91c945aebdb",
+    "parent": "BLD_Dungeon_Temple_Chimney_Small_C"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_A.dae",
+    "size": [
+      1.6707679629325867,
+      3.039643108844757,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006215006113052368,
+      1.353745549917221,
+      0.0
+    ],
+    "uuid": "f1e2e66c-3507-43c2-b773-a9c35df92f6b",
+    "parent": "BLD_GEN_Window_StainedGlass_F_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_B.dae",
+    "size": [
+      2.1530919075012207,
+      5.372103989124298,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5046699941158295,
+      0.0
+    ],
+    "uuid": "f749cd44-f034-4a71-84e0-1736929806ce",
+    "parent": "BLD_GEN_Window_StainedGlass_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Chimney_Small_A_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Chimney_ABC/Resources/BLD_Dungeon_Temple_Chimney_Small_A.dae",
+    "size": [
+      0.9751609861850739,
+      4.8634071276756,
+      0.9758099913597107
+    ],
+    "center_offset": [
+      0.0012135058641433716,
+      2.430890563817229,
+      -0.0008839964866638184
+    ],
+    "uuid": "6503c830-9200-409a-bd26-895738587a4a",
+    "parent": "BLD_Dungeon_Temple_Chimney_Small_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Fireplace_Small_C_Dirty_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Fireplace_ABC/Resources/BLD_Dungeon_Temple_Fireplace_Small_C.dae",
+    "size": [
+      3.163933038711548,
+      4.163417041301727,
+      3.1875709295272827
+    ],
+    "center_offset": [
+      -0.0003064870834350586,
+      1.5691775381565094,
+      -0.1901804804801941
+    ],
+    "uuid": "fc6a9a90-58a2-44fa-96e6-5b765ef0c129",
+    "parent": "BLD_Dungeon_Temple_Fireplace_Small_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_H_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_H.dae",
+    "size": [
+      0.8004589974880219,
+      1.6602550074458122,
+      0.09122899919748306
+    ],
+    "center_offset": [
+      -0.0038474947214126587,
+      0.7165955044329166,
+      -4.991888999938965e-07
+    ],
+    "uuid": "011ca7de-dfe8-453a-b517-2063a9f0aca5",
+    "parent": "BLD_GEN_Window_Leaded_Glass_H"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_B_NetherBrain_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_B.dae",
+    "size": [
+      37.11081123352051,
+      7.295301795005798,
+      15.458487510681152
+    ],
+    "center_offset": [
+      -1.1950922012329102,
+      -2.1071489453315735,
+      2.307800769805908
+    ],
+    "uuid": "01380f4d-1d95-41e1-b53d-3cefb344dad0",
+    "parent": "BLD_MF_Colony_Platform_Big_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_A_Broken_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_A_Broken.dae",
+    "size": [
+      1.5349760055541992,
+      2.9177878834307194,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.006271004676818848,
+      1.4093149434775114,
+      0.0
+    ],
+    "uuid": "02379144-83fb-4e4e-b21d-ce0ce4c51650",
+    "parent": "BLD_GEN_Window_StainedGlass_E_A_Broken"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "0329ef33-39c8-4af2-8ebc-0ff89a9217b8",
+    "parent": "BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A"
+  },
+  {
+    "name": "BLD_Foundry_Construction_Support_A_2H_B",
+    "relative_path": "Buildings/Foundry/BLD_Foundry_Construction_ABC/Resources/BLD_Foundry_Construction_Support_A.dae",
+    "size": [
+      2.130650043487549,
+      2.0312120569869876,
+      0.19262200593948364
+    ],
+    "center_offset": [
+      0.0,
+      1.0011140280403197,
+      0.0
+    ],
+    "uuid": "034c242e-0432-40d5-9aef-90f6a7848257",
+    "parent": "BLD_Foundry_Construction_Support_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_D_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_D.dae",
+    "size": [
+      18.43835163116455,
+      2.376877099275589,
+      17.257326126098633
+    ],
+    "center_offset": [
+      0.28305864334106445,
+      1.4731105417013168,
+      0.20377540588378906
+    ],
+    "uuid": "05bc14ed-dd0e-46f0-a451-cd640da5344a",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_D"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B.dae",
+    "size": [
+      0.5623340010643005,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.7151249945163727,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "05e2a427-d542-40ad-830e-bf7deec12dca",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_B_Flat_Dark",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_B.dae",
+    "size": [
+      37.11081123352051,
+      7.295301795005798,
+      15.458487510681152
+    ],
+    "center_offset": [
+      -1.1950922012329102,
+      -2.1071489453315735,
+      2.307800769805908
+    ],
+    "uuid": "073548f1-02d5-4c0d-963b-2e55f8a692a0",
+    "parent": "BLD_MF_Colony_Platform_Big_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0011199166765437,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.500115958333481,
+      0.0
+    ],
+    "uuid": "07ab53af-2a9e-4301-89e4-8b82e3d4d297",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_A.dae",
+    "size": [
+      1.6707679629325867,
+      3.039643108844757,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006215006113052368,
+      1.353745549917221,
+      0.0
+    ],
+    "uuid": "0a05e1e2-c56a-4e71-bfcc-3339a1daf66f",
+    "parent": "BLD_GEN_Window_StainedGlass_F_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_J_Reflective_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_J.dae",
+    "size": [
+      1.851682960987091,
+      2.5086120516061783,
+      0.10201099887490273
+    ],
+    "center_offset": [
+      -0.004865497350692749,
+      1.109633021056652,
+      -0.0008164998143911362
+    ],
+    "uuid": "0a5fcd0f-3e0b-4568-a5f9-5bd1be45f3b8",
+    "parent": "BLD_GEN_Window_Leaded_Glass_J"
+  },
+  {
+    "name": "BLD_MF_Colony_Gate_C_Bhaal_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Gate_C.dae",
+    "size": [
+      15.073319911956787,
+      16.845924109220505,
+      10.008342742919922
+    ],
+    "center_offset": [
+      -0.007108926773071289,
+      8.252472057938576,
+      0.0029044151306152344
+    ],
+    "uuid": "0a7ee708-8f12-4358-96bf-5c800e84c19c",
+    "parent": "BLD_MF_Colony_Gate_C"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_5H_A.dae",
+    "size": [
+      1.992583990097046,
+      5.002745178295299,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      2.499004589044489,
+      -5.00120222568512e-07
+    ],
+    "uuid": "0bcc807c-8e31-4684-a33e-ce1409ad1fca",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Top_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "0ce8de50-86be-471a-b5bb-99998c6a8fff",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Full_LobsterCages_A_Bobbing_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A_Full_LobsterCages_A.dae",
+    "size": [
+      4.669520854949951,
+      2.210905931890011,
+      10.345025777816772
+    ],
+    "center_offset": [
+      -0.029299497604370117,
+      1.0362439639866352,
+      1.3408910036087036
+    ],
+    "uuid": "0d584a61-424b-4ce1-b2ea-69a117e35886",
+    "parent": "BLD_Ship_Xebec_Sloop_A_Full_LobsterCages_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_A.dae",
+    "size": [
+      29.92072582244873,
+      2.5890259593725204,
+      41.10135841369629
+    ],
+    "center_offset": [
+      -8.207584857940674,
+      1.3698899820446968,
+      1.5995817184448242
+    ],
+    "uuid": "0d9e8e7f-afff-4b55-b36c-91cff0c93205",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_B.dae",
+    "size": [
+      1.6707679629325867,
+      1.9649319648742676,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006215006113052368,
+      3.603872060775757,
+      0.0
+    ],
+    "uuid": "0d9eb05d-3597-4ae6-a77e-5897501427c8",
+    "parent": "BLD_GEN_Window_StainedGlass_F_B"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "11e2d4f9-80bf-41fb-85e6-87441326cba8",
+    "parent": "BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0014159883721732,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.49993299416382797,
+      0.0
+    ],
+    "uuid": "12accc54-cc36-4f75-b9d8-df0947f92b9e",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_F_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_F.dae",
+    "size": [
+      0.529778003692627,
+      1.34244704246521,
+      0.04213700070977211
+    ],
+    "center_offset": [
+      0.0,
+      0.671223521232605,
+      0.0006234999746084213
+    ],
+    "uuid": "13946cf1-21db-4043-8605-f66ef905afed",
+    "parent": "BLD_GEN_Window_Leaded_Glass_F"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_3H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_MOO_Window_StainedGlass_A_Glow_A",
+    "relative_path": "Buildings/Moonrise/BLD_MOO_Window_StainedGlass_ABC/Resources/BLD_MOO_Window_StainedGlass_A.dae",
+    "size": [
+      2.22885799407959,
+      5.157699007540941,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.52203350327909,
+      0.0
+    ],
+    "uuid": "14cd4e7f-4023-4748-a78d-6ccee33679c3",
+    "parent": "BLD_MOO_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0014159883721732,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.49993299416382797,
+      0.0
+    ],
+    "uuid": "15dc745a-e98a-4992-8d9c-1347510df8cf",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_L_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_L.dae",
+    "size": [
+      1.1629719734191895,
+      0.7165589928627014,
+      0.0017810000572353601
+    ],
+    "center_offset": [
+      0.0,
+      0.12517049908638,
+      0.0001385000068694353
+    ],
+    "uuid": "172ad3f8-60eb-4330-8cd9-9969d0701187",
+    "parent": "BLD_GEN_Window_Leaded_Glass_L"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_I_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_I.dae",
+    "size": [
+      1.0314499735832214,
+      2.3140489757061005,
+      0.10236699879169464
+    ],
+    "center_offset": [
+      -0.0045410096645355225,
+      1.0614274889230728,
+      -4.991888999938965e-07
+    ],
+    "uuid": "173dcdcb-947d-489f-8e14-f41add879edf",
+    "parent": "BLD_GEN_Window_Leaded_Glass_I"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      5.002745178295299,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      2.499004589044489,
+      -9.993091225624084e-07
+    ],
+    "uuid": "17e5185d-a7db-415f-af02-497e04aa93a7",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_5H_A.dae",
+    "size": [
+      1.992583990097046,
+      5.002745178295299,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      2.499004589044489,
+      -5.00120222568512e-07
+    ],
+    "uuid": "1a786397-bac4-4ca7-adf2-edd03676b3bc",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A"
+  },
+  {
+    "name": "BLD_Astral_God_Skull_A_Jaw_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Skull_A.dae",
+    "size": [
+      34.23843002319336,
+      56.212446212768555,
+      34.89734745025635
+    ],
+    "center_offset": [
+      0.0,
+      11.126717567443848,
+      1.8762297630310059
+    ],
+    "uuid": "06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa",
+    "parent": "BLD_Astral_God_Skull_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_4H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "21ddacbc-ca7f-443d-bf9b-352e55e02eb3",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004478958202526,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      1.9998714789981022,
+      -9.993091225624084e-07
+    ],
+    "uuid": "22bc5471-bed7-4367-928c-22b693a9f1c4",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Step_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Step_A.dae",
+    "size": [
+      7.618221998214722,
+      0.8376300036907196,
+      2.8575470447540283
+    ],
+    "center_offset": [
+      0.015445113182067871,
+      0.0002769976854324341,
+      0.17513751983642578
+    ],
+    "uuid": "22da6817-32cd-4c25-9178-0250061eb8f2",
+    "parent": "BLD_Druid_Menhir_Platform_Step_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_2H_B_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_1H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "23658d8f-b4cf-40cd-bfa6-8dd2efebd6a7",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Harbor_Crane_Wood_C_Metal_A",
+    "relative_path": "Buildings/Harbor/BLD_Harbor_Crane_Wood_ABC/Resources/BLD_Harbor_Crane_Wood_C.dae",
+    "size": [
+      4.2389620542526245,
+      11.369842436164618,
+      8.514396905899048
+    ],
+    "center_offset": [
+      -0.131089985370636,
+      5.657008217647672,
+      1.2030614614486694
+    ],
+    "uuid": "25f6d016-5ced-4f36-8543-b0f4053c009b",
+    "parent": "BLD_Harbor_Crane_Wood_C"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_2H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "26de5634-faea-4f2a-a056-c0277b175f21",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_3H_A.dae",
+    "size": [
+      1.992583990097046,
+      3.000732067259378,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.5004560336310533,
+      0.0
+    ],
+    "uuid": "28a4bc8e-d7a9-455f-9f17-e0ab007e901b",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A_Broken_B.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "29148a31-c9de-47db-b598-076ec0fbb89f",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Rubble_H_Bobbing_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Roof_Rubble_ABC/Resources/BLD_Dungeon_Temple_Roof_Rubble_H.dae",
+    "size": [
+      1.207410991191864,
+      0.2104099988937378,
+      1.8980940580368042
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.0,
+      0.0
+    ],
+    "uuid": "2bd1be76-9856-4683-8760-b67a80ef7522",
+    "parent": "BLD_Dungeon_Temple_Roof_Rubble_H"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Top_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "2bf15dde-6c42-4986-bd10-49e990cdbc12",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A_Broken_A.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "2d1518af-eef5-44ce-8c1e-a44dd8187799",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_2H_B_Broken_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "2d45e5a6-93bb-4caa-bfbb-e3332a3a657d",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Bottom_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Bottom_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_Lathander_Window_StainedGlass_Bottom_A"
+  },
+  {
+    "name": "BLD_WaterQueenTemple_Window_StainedGlass_A_Bottom_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_WaterQueenTemple_Window_StainedGlass_A_Bottom.dae",
+    "size": [
+      1.3632580041885376,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "2e83e3d2-db88-4d91-8e1a-7fbf7b1e0c67",
+    "parent": "BLD_WaterQueenTemple_Window_StainedGlass_A_Bottom"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Broken_B_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B_Broken_B.dae",
+    "size": [
+      6.7779700756073,
+      3.011692018248141,
+      6.940886974334717
+    ],
+    "center_offset": [
+      0.002514958381652832,
+      1.4956770087592304,
+      0.017334461212158203
+    ],
+    "uuid": "2ed35e58-9b60-47cc-bcc4-1958b8862b11",
+    "parent": "BLD_Druid_Menhir_B_Broken_B"
+  },
+  {
+    "name": "BLD_MOO_Window_StainedGlass_A_Glow_B",
+    "relative_path": "Buildings/Moonrise/BLD_MOO_Window_StainedGlass_ABC/Resources/BLD_MOO_Window_StainedGlass_A.dae",
+    "size": [
+      2.22885799407959,
+      5.157699007540941,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.52203350327909,
+      0.0
+    ],
+    "uuid": "33990d2b-3209-45fb-a0f9-34be4a36ebcf",
+    "parent": "BLD_MOO_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_City_Castlewall_Pillar_Arch_A_B_Dirty",
+    "relative_path": "Buildings/City/BLD_City_Castlewall_Pillars_ABC/Resources/BLD_City_Castlewall_Pillar_Arch_A.dae",
+    "size": [
+      10.008535861968994,
+      6.692647933959961,
+      2.110546112060547
+    ],
+    "center_offset": [
+      -0.001149892807006836,
+      0.0,
+      0.0
+    ],
+    "uuid": "3703ae03-9977-4afb-974e-ccb921fa6c39",
+    "parent": "BLD_City_Castlewall_Pillar_Arch_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004937958205119,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.9996419789968058,
+      -5.00120222568512e-07
+    ],
+    "uuid": "381cd355-8959-439c-9fc4-6f1e6be3bf85",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_0H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "399dcf4c-4079-40bc-89a8-564d1ba24eb6",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0014159883721732,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.49993299416382797,
+      0.0
+    ],
+    "uuid": "3a10cb8c-c56d-47d0-a2a1-14b49f342514",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_A_Complete_Sails_Up_A_Bobbing_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_ABC/Resources/BLD_Ship_Xebec_A_Complete_Sails_Up_A.dae",
+    "size": [
+      10.154955863952637,
+      34.72148883342743,
+      49.09259796142578
+    ],
+    "center_offset": [
+      0.0,
+      16.832832396030426,
+      0.9596424102783203
+    ],
+    "uuid": "3b5b91e6-c186-460e-8e4d-de1bd4bb70b4",
+    "parent": "BLD_Ship_Xebec_A_Complete_Sails_Up_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_5H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "3bc4ad1f-a333-4da7-aaae-d6783e797fe4",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_MF_Colony_Gate_A_Bhaal_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Gate_A.dae",
+    "size": [
+      17.189388275146484,
+      14.81161379814148,
+      13.781720161437988
+    ],
+    "center_offset": [
+      1.60809326171875,
+      5.83798086643219,
+      -0.1290879249572754
+    ],
+    "uuid": "3ffe371b-2e41-4999-809d-3b9a4ce5a911",
+    "parent": "BLD_MF_Colony_Gate_A"
+  },
+  {
+    "name": "BLD_City_Castlewall_Pillar_Arch_A_C_Dirty",
+    "relative_path": "Buildings/City/BLD_City_Castlewall_Pillars_ABC/Resources/BLD_City_Castlewall_Pillar_Arch_A.dae",
+    "size": [
+      10.008535861968994,
+      6.692647933959961,
+      2.110546112060547
+    ],
+    "center_offset": [
+      -0.001149892807006836,
+      0.0,
+      0.0
+    ],
+    "uuid": "4146d4a5-fcd3-4f3d-9f3c-e247e36e60e1",
+    "parent": "BLD_City_Castlewall_Pillar_Arch_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_B_Broken_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_B_Broken.dae",
+    "size": [
+      1.4973220229148865,
+      1.7056708335876465,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.004027992486953735,
+      3.59179949760437,
+      0.0
+    ],
+    "uuid": "447843fc-df97-49d0-975e-8a429efa3f18",
+    "parent": "BLD_GEN_Window_StainedGlass_F_B_Broken"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_G_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_G.dae",
+    "size": [
+      0.497763991355896,
+      1.132410991936922,
+      0.044286999851465225
+    ],
+    "center_offset": [
+      0.0,
+      0.564090495929122,
+      -1.3500452041625977e-05
+    ],
+    "uuid": "45d82e84-1707-4593-8a20-8fcb818737d4",
+    "parent": "BLD_GEN_Window_Leaded_Glass_G"
+  },
+  {
+    "name": "BLD_Lathander_Platform_B_Dirty_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Platform_ABC/Resources/BLD_Lathander_Platform_B.dae",
+    "size": [
+      19.024024963378906,
+      1.0824030339717865,
+      19.02402687072754
+    ],
+    "center_offset": [
+      -9.5367431640625e-07,
+      -0.0523885041475296,
+      0.0
+    ],
+    "uuid": "47394c4f-5170-4244-96ba-e9c78952155b",
+    "parent": "BLD_Lathander_Platform_B"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Step_B_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Step_B.dae",
+    "size": [
+      7.146273851394653,
+      0.8376339972019196,
+      2.8565759658813477
+    ],
+    "center_offset": [
+      -0.011721968650817871,
+      0.00027899444103240967,
+      0.16647398471832275
+    ],
+    "uuid": "48271c34-f790-4689-bb14-4d67ee820a66",
+    "parent": "BLD_Druid_Menhir_Platform_Step_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_B.dae",
+    "size": [
+      1.9925829768180847,
+      1.0003739609092008,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.500029980452382,
+      0.0
+    ],
+    "uuid": "486e6400-0890-4673-8758-00f6e311a5ae",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_B"
+  },
+  {
+    "name": "BLD_Astral_God_Jewelry_B_ScaledUp_A_Rotating_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Jewelry_B_ScaledUp_A.dae",
+    "size": [
+      11.062978744506836,
+      10.982319831848145,
+      3.722100019454956
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      -9.5367431640625e-07,
+      0.0
+    ],
+    "uuid": "4f129bee-1af5-473d-b2f9-a8dee3cb5a2d",
+    "parent": "BLD_Astral_God_Jewelry_B_ScaledUp_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004478958202526,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      1.9998714789981022,
+      -9.993091225624084e-07
+    ],
+    "uuid": "50332d2f-9d0b-46a5-ae30-96b4f6528417",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Broken_A"
+  },
+  {
+    "name": "BLD_MF_Colony_Gate_B_Bhaal_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Gate_B.dae",
+    "size": [
+      13.239285945892334,
+      16.53617525100708,
+      12.189136981964111
+    ],
+    "center_offset": [
+      -0.001767873764038086,
+      8.14147162437439,
+      0.016095399856567383
+    ],
+    "uuid": "534e301a-28d6-4e85-973e-b4d1aa3029c2",
+    "parent": "BLD_MF_Colony_Gate_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "551badf0-76fe-40af-94ad-c3d7d82c83e8",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B.dae",
+    "size": [
+      0.5623340010643005,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.7151249945163727,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "551c39c5-3e0b-4da3-bc02-7e377cbc2b19",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_B"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0005859166703885,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.5003829583365587,
+      0.0
+    ],
+    "uuid": "55aa0af8-3953-4921-8f0b-059d64af3dfb",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_2H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_2H_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "56987767-e85a-40d4-9f86-59383a1fd246",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_2H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_4H_A.dae",
+    "size": [
+      1.992585003376007,
+      4.004478958202526,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      1.9998714789981022,
+      -5.00120222568512e-07
+    ],
+    "uuid": "57c5512a-e1f7-4dbe-bf09-5b7aa552fbde",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A"
+  },
+  {
+    "name": "BLD_GEN_Gallow_Rope_A_wind_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Gallow_ABC/Resources/BLD_GEN_Gallow_Rope_A.dae",
+    "size": [
+      2.143667995929718,
+      3.4079050719738007,
+      0.5230029970407486
+    ],
+    "center_offset": [
+      0.308819979429245,
+      -1.321032539010048,
+      0.029939495027065277
+    ],
+    "uuid": "5977eb2c-6073-4e86-8c77-eb28a173d4a7",
+    "parent": "BLD_GEN_Gallow_Rope_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_2H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_2H_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "5ae36ddd-975c-418c-a8c5-b3e01eb2c68b",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_2H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_A.dae",
+    "size": [
+      1.992583990097046,
+      2.0028189052827656,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9987314527388662,
+      0.0
+    ],
+    "uuid": "5b36539d-c2fe-4bac-b8d5-5c93ef2a1a4f",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_A"
+  },
+  {
+    "name": "BLD_City_Castlewall_Pillar_Arch_A_A_Dirty",
+    "relative_path": "Buildings/City/BLD_City_Castlewall_Pillars_ABC/Resources/BLD_City_Castlewall_Pillar_Arch_A.dae",
+    "size": [
+      10.008535861968994,
+      6.692647933959961,
+      2.110546112060547
+    ],
+    "center_offset": [
+      -0.001149892807006836,
+      0.0,
+      0.0
+    ],
+    "uuid": "5da4798c-5e34-4dbd-866a-0b19ebbcb24c",
+    "parent": "BLD_City_Castlewall_Pillar_Arch_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "638e537f-5b77-4a5c-bac9-e7dedb8ffacc",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_3H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "657bb717-e7ad-4297-9eb3-01e566239341",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_WaterQueenTemple_Window_StainedGlass_A_Top_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_WaterQueenTemple_Window_StainedGlass_A_Top.dae",
+    "size": [
+      1.3639719486236572,
+      1.050223018250108,
+      0.06334200128912926
+    ],
+    "center_offset": [
+      0.0,
+      0.5250775091244577,
+      1.0000541806221008e-05
+    ],
+    "uuid": "662148f1-3a29-4eaa-8c02-affc83ed4700",
+    "parent": "BLD_WaterQueenTemple_Window_StainedGlass_A_Top"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "66de7fa0-dab1-4f96-976e-1d3d626a7839",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A"
+  },
+  {
+    "name": "BLD_WaterQueenTemple_Window_StainedGlass_A_Mid_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_WaterQueenTemple_Window_StainedGlass_A_Mid.dae",
+    "size": [
+      1.3632580041885376,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "692ff9ea-bbe4-43d8-b151-29d0cb859b1b",
+    "parent": "BLD_WaterQueenTemple_Window_StainedGlass_A_Mid"
+  },
+  {
+    "name": "BLD_Druid_Menhir_E_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_E.dae",
+    "size": [
+      6.75327205657959,
+      17.598557118326426,
+      6.927189111709595
+    ],
+    "center_offset": [
+      0.004430055618286133,
+      8.853757558390498,
+      -0.005664467811584473
+    ],
+    "uuid": "6b7b97d8-3303-4b8c-9096-ac0e06c9b2a1",
+    "parent": "BLD_Druid_Menhir_E"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_B_Flat_Flip_Dark",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_B_Flat.dae",
+    "size": [
+      37.15798568725586,
+      2.391046941280365,
+      15.457151889801025
+    ],
+    "center_offset": [
+      -1.1980648040771484,
+      0.3449784815311432,
+      2.308297872543335
+    ],
+    "uuid": "6bb3f320-a5b6-4d00-946b-327331204a7f",
+    "parent": "BLD_MF_Colony_Platform_Big_B_Flat"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_B.dae",
+    "size": [
+      1.9978899955749512,
+      3.9990029602777213,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.9971334800357,
+      -5.00120222568512e-07
+    ],
+    "uuid": "6c6b69c1-3ae7-4e79-ac75-1b2afd718f3a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0014159883721732,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.49993299416382797,
+      0.0
+    ],
+    "uuid": "6eb8ab4e-8de8-48c8-bd1c-314f81931bad",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_PlankPile_B_Wood_A_Bobbing_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Platform_Wood_ABC/Resources/BLD_GEN_PlankPile_B_Wood_A.dae",
+    "size": [
+      3.3265880346298218,
+      0.34317998494952917,
+      2.00251704454422
+    ],
+    "center_offset": [
+      0.052581965923309326,
+      0.15787599282339215,
+      -0.16655251383781433
+    ],
+    "uuid": "70c279f6-f28b-40e5-a3d5-5b0d4e180451",
+    "parent": "BLD_GEN_PlankPile_B_Wood_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A_Broken_B.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "71be5312-d65a-493c-880a-d8ecc4f2e49f",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_K_Lower_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_K_Lower.dae",
+    "size": [
+      1.469052016735077,
+      2.96706011518836,
+      0.08000899851322174
+    ],
+    "center_offset": [
+      -0.0066200196743011475,
+      1.4443280566483736,
+      4.550069570541382e-05
+    ],
+    "uuid": "7283aa9d-d3f1-4417-b215-4081bfe2bdb0",
+    "parent": "BLD_GEN_Window_Leaded_Glass_K_Lower"
+  },
+  {
+    "name": "BLD_Astral_God_Jewelry_C_ScaledUp_A_Rotating_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Jewelry_C_ScaledUp_A.dae",
+    "size": [
+      14.247039794921875,
+      14.325861930847168,
+      1.9588780403137207
+    ],
+    "center_offset": [
+      -0.04761791229248047,
+      0.0479130744934082,
+      -0.012401998043060303
+    ],
+    "uuid": "72998830-82df-4d55-9a15-31989bacde53",
+    "parent": "BLD_Astral_God_Jewelry_C_ScaledUp_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_5H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "74b4ccb1-5467-4c4b-83c7-293712dd59ff",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Glasshouse_Support_Arch_A_Bronze_A_Rusted_A",
+    "relative_path": "Buildings/Glasshouse/Resources/BLD_Glasshouse_Support_Arch_A_Bronze_A.dae",
+    "size": [
+      0.27676600217819214,
+      3.319629117846489,
+      2.2126270681619644
+    ],
+    "center_offset": [
+      0.0,
+      1.5297365561127663,
+      -1.0132605358958244
+    ],
+    "uuid": "756f9c92-4163-44ca-8c5b-64662ccfce55",
+    "parent": "BLD_Glasshouse_Support_Arch_A_Bronze_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_2H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_D_NetherBrain_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_D.dae",
+    "size": [
+      26.618508338928223,
+      8.798753023147583,
+      28.644789695739746
+    ],
+    "center_offset": [
+      0.6737408638000488,
+      -2.482674479484558,
+      -0.2516016960144043
+    ],
+    "uuid": "7a17d6c9-4d8d-4290-bb92-f61a4cd72bb6",
+    "parent": "BLD_MF_Colony_Platform_Big_D"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_B_Broken_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_B_Broken.dae",
+    "size": [
+      1.5391449928283691,
+      2.919793128967285,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.004186511039733887,
+      4.3276286125183105,
+      0.0
+    ],
+    "uuid": "7acfde2b-636f-421c-bd70-04cd92969c9a",
+    "parent": "BLD_GEN_Window_StainedGlass_E_B_Broken"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_4H_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004478958202526,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      1.9998714789981022,
+      -9.993091225624084e-07
+    ],
+    "uuid": "7e9271dd-9445-4cd4-849a-3810f552e415",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_A.dae",
+    "size": [
+      1.992583990097046,
+      2.0028189052827656,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9987314527388662,
+      0.0
+    ],
+    "uuid": "7fbb8cd1-a1cf-4a7c-b947-0b8e0dfa215a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_A"
+  },
+  {
+    "name": "BLD_GEN_Gallow_Rope_A_wind_C",
+    "relative_path": "Buildings/Generic/BLD_GEN_Gallow_ABC/Resources/BLD_GEN_Gallow_Rope_A.dae",
+    "size": [
+      2.143667995929718,
+      3.4079050719738007,
+      0.5230029970407486
+    ],
+    "center_offset": [
+      0.308819979429245,
+      -1.321032539010048,
+      0.029939495027065277
+    ],
+    "uuid": "84ca038b-e3ef-4007-8752-56ac6cae7899",
+    "parent": "BLD_GEN_Gallow_Rope_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "851590aa-8f4b-41df-8631-6647a3fdb14c",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_D_Broken_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_D_Broken.dae",
+    "size": [
+      1.5391449928283691,
+      6.462060783058405,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.004186511039733887,
+      3.181451393291354,
+      0.0
+    ],
+    "uuid": "868a1887-80e7-40ba-b24d-8faf946d34dd",
+    "parent": "BLD_GEN_Window_StainedGlass_D_Broken"
+  },
+  {
+    "name": "BLD_MF_Colony_Gate_A_Doorframe_A_Bhaal_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Gate_A_Doorframe_A.dae",
+    "size": [
+      10.839291095733643,
+      10.358367681503296,
+      4.713307976722717
+    ],
+    "center_offset": [
+      0.3976876735687256,
+      3.6962348222732544,
+      0.6405209898948669
+    ],
+    "uuid": "889374dd-b5af-4f96-9bcd-fca3bc06d275",
+    "parent": "BLD_MF_Colony_Gate_A_Doorframe_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_4H_A.dae",
+    "size": [
+      1.992585003376007,
+      4.004478958202526,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      1.9998714789981022,
+      -5.00120222568512e-07
+    ],
+    "uuid": "89127dce-e7f7-4a18-907f-5f18cb69a29a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_B.dae",
+    "size": [
+      1.9978899955749512,
+      3.9990029602777213,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.9971334800357,
+      -5.00120222568512e-07
+    ],
+    "uuid": "89e0abb0-d59b-419b-8784-d34d2b3cda35",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_B"
+  },
+  {
+    "name": "BLD_City_Castlewall_Bridge_Arch_E_Height_B",
+    "relative_path": "Buildings/City/BLD_City_Castlewall_Bridge_ABC/Resources/BLD_City_Castlewall_Bridge_Arch_E.dae",
+    "size": [
+      2.0309200286865234,
+      9.080414772033691,
+      18.809072494506836
+    ],
+    "center_offset": [
+      0.0,
+      2.3660354614257812,
+      -0.052483558654785156
+    ],
+    "uuid": "8a9d3e23-5889-41b3-9e1f-40784282e5a1",
+    "parent": "BLD_City_Castlewall_Bridge_Arch_E"
+  },
+  {
+    "name": "BLD_MF_Colony_Wall_A_Bhaal_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Wall_A.dae",
+    "size": [
+      13.02782678604126,
+      16.0584924146533,
+      5.6186840534210205
+    ],
+    "center_offset": [
+      -0.029157400131225586,
+      7.914668206125498,
+      -0.018868088722229004
+    ],
+    "uuid": "8d5c089d-a5fb-4caf-8509-4e5049368003",
+    "parent": "BLD_MF_Colony_Wall_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "8db382b0-eed8-4b7a-805e-99783f9bd51b",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      5.002745178295299,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      2.499004589044489,
+      -9.993091225624084e-07
+    ],
+    "uuid": "8e7f49b7-f8cd-4c30-9724-4a501e68bf35",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_0H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_0H_A.dae",
+    "size": [
+      1.992583990097046,
+      0.5040990293491632,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -1.0132789611816406e-06,
+      0.24942051467951387,
+      0.0
+    ],
+    "uuid": "8f2b99d9-54fa-4ec9-ad11-bbc744e91f0b",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_0H_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_3H_A.dae",
+    "size": [
+      1.992583990097046,
+      3.000732067259378,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.5004560336310533,
+      0.0
+    ],
+    "uuid": "90f9db3f-112b-4230-a0d6-03efedbd900b",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_5H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "918b856a-59c7-492e-9644-88cc12f0740a",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B.dae",
+    "size": [
+      0.4886389970779419,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.751972496509552,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "93165e53-da21-467f-ab40-9fc7be5be407",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_0H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_0H_A.dae",
+    "size": [
+      1.992583990097046,
+      0.5040990293491632,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -1.0132789611816406e-06,
+      0.24942051467951387,
+      0.0
+    ],
+    "uuid": "9332fb57-bd21-49ab-af6d-1d8d38386aee",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_0H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_K_Upper_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_K_Upper.dae",
+    "size": [
+      1.4552389979362488,
+      2.86857008934021,
+      0.08000899851322174
+    ],
+    "center_offset": [
+      0.00028648972511291504,
+      1.434285044670105,
+      4.550069570541382e-05
+    ],
+    "uuid": "9349b4fb-3f4f-4cfb-86b2-cfba9d638e93",
+    "parent": "BLD_GEN_Window_Leaded_Glass_K_Upper"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_1H_B.dae",
+    "size": [
+      1.9925829768180847,
+      1.0003739609092008,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.500029980452382,
+      0.0
+    ],
+    "uuid": "93ef2750-28c6-4e64-9f12-c0cd98232ada",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_1H_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_I_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_I.dae",
+    "size": [
+      1.0314499735832214,
+      2.3140489757061005,
+      0.10236699879169464
+    ],
+    "center_offset": [
+      -0.0045410096645355225,
+      1.0614274889230728,
+      -4.991888999938965e-07
+    ],
+    "uuid": "94b6af6e-fdae-4ec2-a184-a110da31aa03",
+    "parent": "BLD_GEN_Window_Leaded_Glass_I"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Broken_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B_Broken_A.dae",
+    "size": [
+      6.635758876800537,
+      10.110907431691885,
+      6.005488157272339
+    ],
+    "center_offset": [
+      -0.0002675056457519531,
+      5.069372715428472,
+      -0.000491023063659668
+    ],
+    "uuid": "94ed5e6f-36fb-4771-933b-ebcd46f9ef0e",
+    "parent": "BLD_Druid_Menhir_B_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_J_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_J.dae",
+    "size": [
+      1.851682960987091,
+      2.5086120516061783,
+      0.10201099887490273
+    ],
+    "center_offset": [
+      -0.004865497350692749,
+      1.109633021056652,
+      -0.0008164998143911362
+    ],
+    "uuid": "9560e674-affd-49d3-aabb-b38c9d75a60b",
+    "parent": "BLD_GEN_Window_Leaded_Glass_J"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_0H_A.dae",
+    "size": [
+      1.9925829768180847,
+      0.5002339892962482,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.24976099464402068,
+      0.0
+    ],
+    "uuid": "95d47cd4-b91c-4ac1-b05d-0dac0a285c54",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_B_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_B.dae",
+    "size": [
+      16.49163818359375,
+      2.3084499835968018,
+      13.744232654571533
+    ],
+    "center_offset": [
+      1.4838008880615234,
+      1.324550986289978,
+      -1.0518324375152588
+    ],
+    "uuid": "96610743-7d0f-4650-adc5-18632d99c5e5",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Bottom_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "978d7ed0-2d1e-4829-b2e8-acea728a2f3e",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_1H_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0018300024967175,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.5005440012464533,
+      5.00120222568512e-07
+    ],
+    "uuid": "97f7ea0e-3a97-4711-83fa-746c745e625a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_G_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_G.dae",
+    "size": [
+      0.497763991355896,
+      1.132410991936922,
+      0.044286999851465225
+    ],
+    "center_offset": [
+      0.0,
+      0.564090495929122,
+      -1.3500452041625977e-05
+    ],
+    "uuid": "9845611f-4378-4937-8e07-9a0a967f4400",
+    "parent": "BLD_GEN_Window_Leaded_Glass_G"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Stairs_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Stairs_A.dae",
+    "size": [
+      19.127312660217285,
+      4.254795130342245,
+      14.112615585327148
+    ],
+    "center_offset": [
+      0.016601085662841797,
+      2.1371645648032427,
+      0.0
+    ],
+    "uuid": "98c228f3-25fe-43d9-a36a-fb744c9705f1",
+    "parent": "BLD_Druid_Menhir_Stairs_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "98d5231a-1a38-4d6b-ab68-17d2243c753e",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_1H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "99133c60-f562-411a-9882-b09892a9e8e1",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Bottom_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "999e95f6-ae4c-4460-b194-3cc3e35565ea",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_1H_B.dae",
+    "size": [
+      1.992583990097046,
+      1.0052129754330963,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -1.0132789611816406e-06,
+      0.49942948773968965,
+      0.0
+    ],
+    "uuid": "9bf59fe9-c012-4019-aa4c-6b94a2ff4273",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_B"
+  },
+  {
+    "name": "BLD_Ship_Xebec_A_Complete_Sails_Down_A_Bobbing_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_ABC/Resources/BLD_Ship_Xebec_A_Complete_Sails_Down_A.dae",
+    "size": [
+      11.372290134429932,
+      34.736968874931335,
+      49.10478210449219
+    ],
+    "center_offset": [
+      0.6086671352386475,
+      16.84057241678238,
+      0.9535503387451172
+    ],
+    "uuid": "9c412703-72ae-4217-8efb-84b086ef7a10",
+    "parent": "BLD_Ship_Xebec_A_Complete_Sails_Down_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_F_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_F.dae",
+    "size": [
+      6.4787609577178955,
+      18.477258041501045,
+      6.197614908218384
+    ],
+    "center_offset": [
+      0.0034674406051635742,
+      9.260629020631313,
+      -0.011506438255310059
+    ],
+    "uuid": "9e24c64c-45ad-4c1d-ba0e-a23452329ddd",
+    "parent": "BLD_Druid_Menhir_F"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_B_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_1H_B.dae",
+    "size": [
+      1.992583990097046,
+      1.0052129754330963,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -1.0132789611816406e-06,
+      0.49942948773968965,
+      0.0
+    ],
+    "uuid": "9e97e139-8bf3-4326-8cca-24e3e8b3a6a8",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_F_A_Broken_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_F_A_Broken.dae",
+    "size": [
+      1.493265986442566,
+      2.7914119958877563,
+      0.046936001628637314
+    ],
+    "center_offset": [
+      0.006056010723114014,
+      1.3480049967765808,
+      0.0
+    ],
+    "uuid": "a0fa9444-700f-4230-a4c4-5b6a89cba13b",
+    "parent": "BLD_GEN_Window_StainedGlass_F_A_Broken"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_D_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_D.dae",
+    "size": [
+      0.7031989991664886,
+      1.7905369494110346,
+      0.041500999592244625
+    ],
+    "center_offset": [
+      -0.00019951164722442627,
+      0.8880334747955203,
+      -0.005424499977380037
+    ],
+    "uuid": "a36f9df5-eff7-45a4-bc8e-2699879e584a",
+    "parent": "BLD_GEN_Window_Leaded_Glass_D"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_5H_A.dae",
+    "size": [
+      1.9969450235366821,
+      5.003831844544038,
+      0.07457000017166138
+    ],
+    "center_offset": [
+      -0.0021575093269348145,
+      2.4993739222409204,
+      -0.005539998412132263
+    ],
+    "uuid": "a5cc50a3-68f4-44b8-ad1b-3eb31e25e1e2",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_4H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "a98295b6-9f6b-4cd2-a440-06ff97d3fd0c",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_3H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "a9e96eb8-8f4d-4fd6-bf88-9a004545ec75",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_3H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_3H_A.dae",
+    "size": [
+      1.9945030212402344,
+      3.0020029166480526,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0007964968681335449,
+      1.4996744583477266,
+      0.0
+    ],
+    "uuid": "aa08fe3d-a1a6-477f-b8d3-6e9ad468eb0a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_3H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "ab4ade21-6df5-43dd-905c-36562b2420b2",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Broken_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Part_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B.dae",
+    "size": [
+      8.002198934555054,
+      23.27813157439232,
+      8.148262023925781
+    ],
+    "center_offset": [
+      0.005209565162658691,
+      11.772030785679817,
+      0.04622983932495117
+    ],
+    "uuid": "aba9efee-2c18-4c3a-83e8-b9cfd5f7b134",
+    "parent": "BLD_Druid_Menhir_B"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Rubble_G_Bobbing_A",
+    "relative_path": "Buildings/Dungeon/BLD_Dungeon_Temple_Roof_Rubble_ABC/Resources/BLD_Dungeon_Temple_Roof_Rubble_G.dae",
+    "size": [
+      3.5415209531784058,
+      0.31502899527549744,
+      2.465109944343567
+    ],
+    "center_offset": [
+      -0.03219550848007202,
+      -0.06982749700546265,
+      -0.20638197660446167
+    ],
+    "uuid": "abf95e05-94aa-4eed-8129-e0cb9d7c42b3",
+    "parent": "BLD_Dungeon_Temple_Roof_Rubble_G"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.0012249390129,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9999394695041701,
+      0.0
+    ],
+    "uuid": "aec7ab58-15b6-42e7-a01d-6352c4743e62",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Bottom_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "afee5ae9-65c8-4517-ae02-b7bdbbd9e13c",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Bottom_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Bottom_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "b014a637-c218-49d4-a2f7-42c2202e662d",
+    "parent": "BLD_HighHall_Window_StainedGlass_Bottom_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_2H_B_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "b2527374-cd41-4eb3-99d7-2df5417ecce3",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Rowboat_A_Bobbing_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Rowboat_ABC/Resources/BLD_Ship_Xebec_Rowboat_A.dae",
+    "size": [
+      2.097892999649048,
+      1.2315660510212183,
+      5.462615966796875
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      0.6011260254308581,
+      -0.24062609672546387
+    ],
+    "uuid": "b2b3de05-93b9-461c-b1a0-9d0ba21887ec",
+    "parent": "BLD_Ship_Xebec_Rowboat_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0005859166703885,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.5003829583365587,
+      0.0
+    ],
+    "uuid": "b3ad2a15-282a-47c2-9dd5-fd2528316c59",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_3H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Astral_God_Jewelry_D_ScaledUp_A_Rotating_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Jewelry_D_ScaledUp_A.dae",
+    "size": [
+      19.171401023864746,
+      19.094183921813965,
+      2.2865989208221436
+    ],
+    "center_offset": [
+      -0.00815439224243164,
+      0.03920125961303711,
+      0.01049351692199707
+    ],
+    "uuid": "b3d1cdf6-cd07-4b7d-962a-9ee338670f80",
+    "parent": "BLD_Astral_God_Jewelry_D_ScaledUp_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_B.dae",
+    "size": [
+      1.7657220363616943,
+      3.23598313331604,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      4.3480366468429565,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_GEN_Window_StainedGlass_E_B"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_5H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "bbb268a5-edc8-4d73-9660-3872cb00607d",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_B_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_B.dae",
+    "size": [
+      8.002198934555054,
+      23.27813157439232,
+      8.148262023925781
+    ],
+    "center_offset": [
+      0.005209565162658691,
+      11.772030785679817,
+      0.04622983932495117
+    ],
+    "uuid": "bc2559a1-88f9-4ecd-93fd-3e7b965c2a57",
+    "parent": "BLD_Druid_Menhir_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_5H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      5.002745178295299,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      2.499004589044489,
+      -5.00120222568512e-07
+    ],
+    "uuid": "bca02561-3f60-43b9-91b5-f668848d4744",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_5H_A_Broken_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_3H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_3H_A.dae",
+    "size": [
+      1.9945030212402344,
+      3.0020029166480526,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0007964968681335449,
+      1.4996744583477266,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_3H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_3H_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0011199166765437,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.500115958333481,
+      0.0
+    ],
+    "uuid": "bfd0b6bd-4771-43a8-a027-13e82cbad103",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_C_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_C.dae",
+    "size": [
+      23.714919090270996,
+      4.250441938638687,
+      7.884282112121582
+    ],
+    "center_offset": [
+      -0.09453248977661133,
+      1.8299379795789719,
+      -0.006525993347167969
+    ],
+    "uuid": "c082d5a6-13f4-4206-af78-dfcd44a3ea33",
+    "parent": "BLD_Druid_Menhir_C"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_H_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_H.dae",
+    "size": [
+      0.8004589974880219,
+      1.6602550074458122,
+      0.09122899919748306
+    ],
+    "center_offset": [
+      -0.0038474947214126587,
+      0.7165955044329166,
+      -4.991888999938965e-07
+    ],
+    "uuid": "c0f271a9-56d9-4077-a062-5fab25274229",
+    "parent": "BLD_GEN_Window_Leaded_Glass_H"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_M_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_M.dae",
+    "size": [
+      1.9799079895019531,
+      0.750559002161026,
+      0.0017820000648498535
+    ],
+    "center_offset": [
+      0.0,
+      0.05224449932575226,
+      0.000139000010676682
+    ],
+    "uuid": "c2489613-ee29-49c3-82bc-17e4d3633af2",
+    "parent": "BLD_GEN_Window_Leaded_Glass_M"
+  },
+  {
+    "name": "BLD_Ship_Xebec_Sloop_A_Full_Paddles_A_Bobbing_A",
+    "relative_path": "Buildings/Ship/BLD_Ship_Xebec_Sloop_ABC/Resources/BLD_Ship_Xebec_Sloop_A_Full_Paddles_A.dae",
+    "size": [
+      5.782737970352173,
+      2.2038840278983116,
+      10.371539831161499
+    ],
+    "center_offset": [
+      -0.06624996662139893,
+      1.0327330119907856,
+      1.3276339769363403
+    ],
+    "uuid": "c4f184e7-0957-471b-ac51-d1f4afc57a74",
+    "parent": "BLD_Ship_Xebec_Sloop_A_Full_Paddles_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B.dae",
+    "size": [
+      0.4886389970779419,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.751972496509552,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "c525837d-47d6-44da-9535-ea96e489836e",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_B"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Bottom_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Bottom_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "c549244d-7ad7-49b1-af8f-b2064e22c299",
+    "parent": "BLD_Lathander_Window_StainedGlass_Bottom_A"
+  },
+  {
+    "name": "BLD_Bhaal_Temple_Altar_Platform_A_Cinematic_C",
+    "relative_path": "Buildings/Bhaal/BLD_Bhaal_Temple_Altar_ABC/Resources/BLD_Bhaal_Temple_Altar_Platform_A.dae",
+    "size": [
+      17.04627799987793,
+      0.915119007229805,
+      17.056964874267578
+    ],
+    "center_offset": [
+      0.0,
+      0.4123555049300194,
+      0.0
+    ],
+    "uuid": "c6031bdd-26cd-4ece-a03b-903d405371b0",
+    "parent": "BLD_Bhaal_Temple_Altar_Platform_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Debris_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "c8d35546-0f8d-47a2-ac2d-1dd6ed253688",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_D_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_D.dae",
+    "size": [
+      0.7031989991664886,
+      1.7905369494110346,
+      0.041500999592244625
+    ],
+    "center_offset": [
+      -0.00019951164722442627,
+      0.8880334747955203,
+      -0.005424499977380037
+    ],
+    "uuid": "c9256e55-eb97-4ed2-b39b-fe66754a923c",
+    "parent": "BLD_GEN_Window_Leaded_Glass_D"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_E_NetherBrain_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_E.dae",
+    "size": [
+      51.413835525512695,
+      9.580812811851501,
+      14.223626613616943
+    ],
+    "center_offset": [
+      -2.9940500259399414,
+      -3.2985084652900696,
+      0.8537285327911377
+    ],
+    "uuid": "c93c7a30-db5f-4cc3-a4a3-9ba9b9f51591",
+    "parent": "BLD_MF_Colony_Platform_Big_E"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_5H_A.dae",
+    "size": [
+      1.9969450235366821,
+      5.003831844544038,
+      0.07457000017166138
+    ],
+    "center_offset": [
+      -0.0021575093269348145,
+      2.4993739222409204,
+      -0.005539998412132263
+    ],
+    "uuid": "ce168688-70c1-4ab3-93a2-9c8a8593e87c",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_5H_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "d2f2c6a2-5e40-4541-a1fa-446d0a7c0f81",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_2H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_A_3H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "d3172fd7-3dd4-4279-9caa-378b37e646c9",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_E_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_E.dae",
+    "size": [
+      1.0245440006256104,
+      2.077942054718733,
+      0.03484700061380863
+    ],
+    "center_offset": [
+      -0.008890986442565918,
+      0.9842440281063318,
+      -0.00013749953359365463
+    ],
+    "uuid": "d373d2cf-4aea-485a-8e8b-7a6b5afd971c",
+    "parent": "BLD_GEN_Window_Leaded_Glass_E"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_A_End_A_Spots_Dark",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Wall_ABC/Resources/BLD_MF_Colony_Platform_Big_A_End_A.dae",
+    "size": [
+      12.112982273101807,
+      5.285394124686718,
+      16.354408264160156
+    ],
+    "center_offset": [
+      1.8960320949554443,
+      -2.519757065922022,
+      0.021532058715820312
+    ],
+    "uuid": "d44fcf0b-4dea-4cc8-8b92-a2483eb019e1",
+    "parent": "BLD_MF_Colony_Platform_Big_A_End_A"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Bottom_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Bottom_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "d67f0ecb-99be-46a7-bffc-6a451cceb7ee",
+    "parent": "BLD_HighHall_Window_StainedGlass_Bottom_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_C_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_C.dae",
+    "size": [
+      0.49822400510311127,
+      0.49691399931907654,
+      0.03638100065290928
+    ],
+    "center_offset": [
+      0.0017010048031806946,
+      0.24845699965953827,
+      -2.50060111284256e-06
+    ],
+    "uuid": "d89a608d-8148-4687-9288-fed8064f7f22",
+    "parent": "BLD_GEN_Window_Leaded_Glass_C"
+  },
+  {
+    "name": "BLD_Astral_God_Jewelry_Ring_C_Scaled_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Jewelry_Ring_C.dae",
+    "size": [
+      0.5625560283660889,
+      0.12230100110173225,
+      0.5666880011558533
+    ],
+    "center_offset": [
+      0.0,
+      0.05350550077855587,
+      0.0
+    ],
+    "uuid": "db09ad55-d15d-407e-ae0e-0f7645ec2e88",
+    "parent": "BLD_Astral_God_Jewelry_Ring_C"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_3H_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0011199166765437,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.500115958333481,
+      0.0
+    ],
+    "uuid": "db8a24f0-3867-4691-aba4-5461401d7576",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_F_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_F.dae",
+    "size": [
+      0.529778003692627,
+      1.34244704246521,
+      0.04213700070977211
+    ],
+    "center_offset": [
+      0.0,
+      0.671223521232605,
+      0.0006234999746084213
+    ],
+    "uuid": "dba11fa9-152b-484e-b672-27a682507b74",
+    "parent": "BLD_GEN_Window_Leaded_Glass_F"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_0H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "dc05ddb2-19de-4b3f-bce3-3d891a9fa180",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_A.dae",
+    "size": [
+      9.680685043334961,
+      23.35093815624714,
+      9.992942810058594
+    ],
+    "center_offset": [
+      1.430511474609375e-06,
+      11.519130073487759,
+      4.76837158203125e-07
+    ],
+    "uuid": "dd4ae270-a57c-4519-9954-3f121e891f0a",
+    "parent": "BLD_Druid_Menhir_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      0.5002339892962482,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.24976099464402068,
+      0.0
+    ],
+    "uuid": "de3b2197-bd77-4f20-8466-c84babeffd01",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_C_NetherBrain_A",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_C.dae",
+    "size": [
+      26.474668502807617,
+      6.204470157623291,
+      20.773858070373535
+    ],
+    "center_offset": [
+      3.872542381286621,
+      -0.8657469749450684,
+      -0.8930649757385254
+    ],
+    "uuid": "dfe81e08-addb-41d5-b5f5-81fc653b25bd",
+    "parent": "BLD_MF_Colony_Platform_Big_C"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_2H_B.dae",
+    "size": [
+      1.9925829768180847,
+      2.004498027963564,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.9997730139875785,
+      -5.00120222568512e-07
+    ],
+    "uuid": "e164fdd8-f2a5-474b-b980-a6b241b45678",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_2H_B"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "e2ebbd2b-bcd9-4074-8cf1-d1d171ee861f",
+    "parent": "BLD_HighHall_Window_StainedGlass_Bottom_A_Broken_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_C_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_C.dae",
+    "size": [
+      16.72147846221924,
+      2.8565680906176567,
+      27.088507652282715
+    ],
+    "center_offset": [
+      0.22206830978393555,
+      1.503841046243906,
+      -1.5946545600891113
+    ],
+    "uuid": "e4fb6dca-efc8-41d8-8b61-89346d781818",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_C"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Top_A_Broken_A.dae",
+    "size": [
+      1.9978899955749512,
+      1.859450995018051,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      0.9296984975089799,
+      0.0
+    ],
+    "uuid": "e54b9aee-2eca-4aa6-9c4e-31983a58effa",
+    "parent": "BLD_Lathander_Window_StainedGlass_Top_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_E_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_E_A.dae",
+    "size": [
+      1.7657220363616943,
+      3.1744949966669083,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      1.4108225032687187,
+      0.0
+    ],
+    "uuid": "e5d746a8-98a4-4305-8563-cabeda36d676",
+    "parent": "BLD_GEN_Window_StainedGlass_E_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A.dae",
+    "size": [
+      1.9925829768180847,
+      0.5002339892962482,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.24976099464402068,
+      0.0
+    ],
+    "uuid": "e608043c-04ae-496d-90bb-01dbddbdc157",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Top_A_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "e755e68c-2e27-46cc-b5ac-7cdcf49289a5",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004937958205119,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.9996419789968058,
+      -5.00120222568512e-07
+    ],
+    "uuid": "e8665d34-47d3-40f0-b81a-d80bac4efa67",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_4H_A_Broken_A"
+  },
+  {
+    "name": "BLD_City_Castlewall_Bridge_Pillar_A_Height_B",
+    "relative_path": "Buildings/City/BLD_City_Castlewall_Bridge_ABC/Resources/BLD_City_Castlewall_Bridge_Pillar_A.dae",
+    "size": [
+      8.787379741668701,
+      36.70884323120117,
+      15.435275077819824
+    ],
+    "center_offset": [
+      -0.004708051681518555,
+      18.354421615600586,
+      4.76837158203125e-07
+    ],
+    "uuid": "eac42548-7d4a-44ec-be99-63508d93f8da",
+    "parent": "BLD_City_Castlewall_Bridge_Pillar_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      2.002190092258388,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      0.0,
+      1.0008690461254446,
+      -5.00120222568512e-07
+    ],
+    "uuid": "ec8e398e-6725-4d23-8f3e-752ece402461",
+    "parent": "BLD_Lathander_Window_StainedGlass_Bottom_A_Broken_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_E_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_E.dae",
+    "size": [
+      9.522336959838867,
+      2.262377977371216,
+      9.86368703842163
+    ],
+    "center_offset": [
+      0.29746055603027344,
+      1.301514983177185,
+      -0.10011649131774902
+    ],
+    "uuid": "ed1a1aa7-2459-431e-a279-17169ca64f18",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_E"
+  },
+  {
+    "name": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_HighHall_Window_StainedGlass_Mid_A_4H_A.dae",
+    "size": [
+      1.992583990097046,
+      4.004478958202526,
+      0.06210399977862835
+    ],
+    "center_offset": [
+      0.0,
+      1.9998714789981022,
+      -9.993091225624084e-07
+    ],
+    "uuid": "eeff1c1c-6bfb-41c9-bc47-da8cf8645eb7",
+    "parent": "BLD_HighHall_Window_StainedGlass_Mid_A_4H_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_0H_A.dae",
+    "size": [
+      1.9925829768180847,
+      0.5002339892962482,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      -5.066394805908203e-07,
+      0.24976099464402068,
+      0.0
+    ],
+    "uuid": "efeba983-fbf2-4b04-84c5-48b8d85f657a",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_0H_A"
+  },
+  {
+    "name": "BLD_Druid_Menhir_D_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_D.dae",
+    "size": [
+      21.110907554626465,
+      2.691681884229183,
+      7.756103992462158
+    ],
+    "center_offset": [
+      -9.489059448242188e-05,
+      1.4438929446041584,
+      0.00350189208984375
+    ],
+    "uuid": "f174d6fc-7d5c-4724-8c3e-7d4246e7b924",
+    "parent": "BLD_Druid_Menhir_D"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A_Glow_A",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A.dae",
+    "size": [
+      1.992583990097046,
+      3.0011199166765437,
+      0.062102001160383224
+    ],
+    "center_offset": [
+      0.0,
+      1.500115958333481,
+      0.0
+    ],
+    "uuid": "f4151a61-ae17-4ccc-a770-d7a3ed529891",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_A_3H_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_D_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_D.dae",
+    "size": [
+      1.780187964439392,
+      6.6564598977565765,
+      0.04878399893641472
+    ],
+    "center_offset": [
+      0.0,
+      3.1693019419908524,
+      0.0
+    ],
+    "uuid": "f4ef54a8-6e1d-4041-bd9b-7c132f129eb6",
+    "parent": "BLD_GEN_Window_StainedGlass_D"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_J_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_J.dae",
+    "size": [
+      1.851682960987091,
+      2.5086120516061783,
+      0.10201099887490273
+    ],
+    "center_offset": [
+      -0.004865497350692749,
+      1.109633021056652,
+      -0.0008164998143911362
+    ],
+    "uuid": "f50c9872-a297-4d12-8158-29614caa41c8",
+    "parent": "BLD_GEN_Window_Leaded_Glass_J"
+  },
+  {
+    "name": "BLD_Druid_Menhir_Platform_Piece_A_Broken_A_Bhaal_A",
+    "relative_path": "Buildings/Druids/BLD_Druids_Menhir_ABC/Resources/BLD_Druid_Menhir_Platform_Piece_A_Broken_A.dae",
+    "size": [
+      27.27761697769165,
+      2.620833970606327,
+      41.09879493713379
+    ],
+    "center_offset": [
+      -9.529139280319214,
+      1.393809985369444,
+      1.6008634567260742
+    ],
+    "uuid": "f52ceeb2-5924-4dfe-81cc-fc932236d5b7",
+    "parent": "BLD_Druid_Menhir_Platform_Piece_A_Broken_A"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Mid_B_2H_B_Broken_B_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "f58af5df-f1ae-4861-8248-f0c84ec57280",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_E_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_E.dae",
+    "size": [
+      1.0245440006256104,
+      2.077942054718733,
+      0.03484700061380863
+    ],
+    "center_offset": [
+      -0.008890986442565918,
+      0.9842440281063318,
+      -0.00013749953359365463
+    ],
+    "uuid": "f7e43121-73fd-42cf-baaa-8f18d46b2d8d",
+    "parent": "BLD_GEN_Window_Leaded_Glass_E"
+  },
+  {
+    "name": "BLD_MF_Colony_Platform_Big_B_Flip_Spots",
+    "relative_path": "Buildings/Mindflayers/BLD_MF_Colony_Organic_Platform_ABC/Resources/BLD_MF_Colony_Platform_Big_B.dae",
+    "size": [
+      37.11081123352051,
+      7.295301795005798,
+      15.458487510681152
+    ],
+    "center_offset": [
+      -1.1950922012329102,
+      -2.1071489453315735,
+      2.307800769805908
+    ],
+    "uuid": "f8a12d22-2ddd-4953-8ce9-73f0af40f17c",
+    "parent": "BLD_MF_Colony_Platform_Big_B"
+  },
+  {
+    "name": "BLD_Astral_God_Jewelry_E_ScaledUp_A_Rotating_A",
+    "relative_path": "Buildings/Astral/BLD_Astral_God_Skull_ABC/Resources/BLD_Astral_God_Jewelry_E_ScaledUp_A.dae",
+    "size": [
+      17.021595001220703,
+      16.897489547729492,
+      11.959874153137207
+    ],
+    "center_offset": [
+      1.9073486328125e-06,
+      -2.86102294921875e-06,
+      0.0
+    ],
+    "uuid": "fa7c96d7-e441-40c5-86c3-2daace3ce2ac",
+    "parent": "BLD_Astral_God_Jewelry_E_ScaledUp_A"
+  },
+  {
+    "name": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_A_Glow_B",
+    "relative_path": "Buildings/Lathander/BLD_Lathander_Window_StainedGlass_ABC/Resources/BLD_Lathander_Window_StainedGlass_Mid_B_1H_A.dae",
+    "size": [
+      1.9925829768180847,
+      1.0018300024967175,
+      0.06210300140082836
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      0.5005440012464533,
+      5.00120222568512e-07
+    ],
+    "uuid": "faef3b56-2cb3-432b-9775-8f78308c0132",
+    "parent": "BLD_Lathander_Window_StainedGlass_Mid_B_1H_A"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_J_Black_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_J.dae",
+    "size": [
+      1.851682960987091,
+      2.5086120516061783,
+      0.10201099887490273
+    ],
+    "center_offset": [
+      -0.004865497350692749,
+      1.109633021056652,
+      -0.0008164998143911362
+    ],
+    "uuid": "fb15c9e0-4a69-4907-8bd9-2dbfe9c44163",
+    "parent": "BLD_GEN_Window_Leaded_Glass_J"
+  },
+  {
+    "name": "BLD_Glasshouse_Support_Arch_A_Bronze_B_Rusted_A",
+    "relative_path": "Buildings/Glasshouse/Resources/BLD_Glasshouse_Support_Arch_A_Bronze_B.dae",
+    "size": [
+      0.2757420092821121,
+      4.429540157318115,
+      4.384413003921509
+    ],
+    "center_offset": [
+      -4.999339580535889e-06,
+      0.029561996459960938,
+      -0.041756510734558105
+    ],
+    "uuid": "fbfeb23a-7431-4c21-b826-dc8f3e9503be",
+    "parent": "BLD_Glasshouse_Support_Arch_A_Bronze_B"
+  },
+  {
+    "name": "BLD_GEN_Window_Leaded_Glass_C_Glow_A",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_Leaded_Glass_ABC/Resources/BLD_GEN_Window_Leaded_Glass_C.dae",
+    "size": [
+      0.49822400510311127,
+      0.49691399931907654,
+      0.03638100065290928
+    ],
+    "center_offset": [
+      0.0017010048031806946,
+      0.24845699965953827,
+      -2.50060111284256e-06
+    ],
+    "uuid": "fc044457-c130-463d-ae41-e4e097c8b08a",
+    "parent": "BLD_GEN_Window_Leaded_Glass_C"
+  },
+  {
+    "name": "BLD_GEN_Window_StainedGlass_A_Top_B_Glow_B",
+    "relative_path": "Buildings/Generic/BLD_GEN_Window_StainedGlass_ABC/Resources/BLD_GEN_Window_StainedGlass_A.dae",
+    "size": [
+      2.1257359981536865,
+      5.445731967687607,
+      0.05866999924182892
+    ],
+    "center_offset": [
+      0.0,
+      2.5342369824647903,
+      0.0
+    ],
+    "uuid": "fe750b07-f804-469a-bcf7-36c52613830d",
+    "parent": "BLD_GEN_Window_StainedGlass_A"
   }
 ]

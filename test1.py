@@ -42,11 +42,11 @@ for filename in os.listdir(OUTPUT_DIR):
             print(f"⚠️ Skipping invalid JSON: {filename}")
 
 # Create name->uuid lookup
-output_dict = {item["name"]: item["uuid"] for item in output_jsons}
+output_dict = {item["name"]: item for item in output_jsons}
+bounds_dict = {}
 
-results = {}
-missing = []
-
+# First pass: build bounds_dict from existing entries
+bounds_objects = {}  # Store full objects for reference
 for bounds_file in os.listdir(BOUNDS_DIR):
     if not bounds_file.lower().endswith(".json"):
         continue
@@ -59,32 +59,76 @@ for bounds_file in os.listdir(BOUNDS_DIR):
         print(f"⚠️ Invalid bounds JSON: {bounds_file}")
         continue
 
-    # Track if any modifications were made to this file
-    modified = False
-
-    # Handle both single object and list of objects
     is_list = isinstance(bounds_data, list)
     objects = bounds_data if is_list else [bounds_data]
     
     for obj in objects:
-        name = str(obj.get("name")).replace(".dae", "")
-        obj["name"] = name
-        # if name in output_dict:
-        #     uuid = output_dict[name]
-        #     print(f"Found it: {name} -> {uuid}")
+        bounds_dict[obj["name"]] = True
+        bounds_objects[obj["name"]] = obj
+
+# Second pass: find missing objects and add them
+missing_objects = []
+for a in output_dict.keys():
+    if a not in bounds_dict:
+        iterate_str = a
+        found_parent = None
+        
+        for _ in range(5):
+            splited = str(iterate_str).split('_')
+            iterate_str = str.join("_", splited[0:-2])
+            if iterate_str == "":
+                break
+            if iterate_str in bounds_dict:
+                print(f"Found the correct name {iterate_str} for the object {a}")
+                found_parent = iterate_str
+                break
+        
+        if found_parent:
+            # Get the parent object as template
+            parent_obj = bounds_objects[found_parent]
+            output_obj = output_dict[a]
             
-        #     # INSERT YOUR NEW DATA HERE
-        #     obj["uuid"] = uuid  # Example: add the UUID to the bounds object
-        #     # Or add other fields:
-        #     # obj["matched"] = True
-        #     # obj["output_uuid"] = uuid
-            
-        #     modified = True
-    modified = True
+            # Create a new entry based on parent template + output data
+            new_entry = {
+                "name": a,
+                "relative_path": parent_obj["relative_path"],
+                "size": parent_obj["size"],
+                "center_offset": parent_obj["center_offset"],
+                "uuid": output_obj["uuid"],
+                "parent": found_parent
+            }
+            missing_objects.append((found_parent, new_entry))
+
+# Now add the missing objects to the appropriate bounds files
+for bounds_file in os.listdir(BOUNDS_DIR):
+    if not bounds_file.lower().endswith(".json"):
+        continue
+
+    bounds_path = os.path.join(BOUNDS_DIR, bounds_file)
+
+    try:
+        bounds_data = load_json(bounds_path)
+    except json.JSONDecodeError:
+        continue
+
+    is_list = isinstance(bounds_data, list)
+    objects = bounds_data if is_list else [bounds_data]
+    modified = False
     
-    # Save the bounds file if it was modified
+    # Check if any missing objects belong in this file
+    for parent_name, new_entry in missing_objects:
+        # Check if this file contains the parent
+        if any(obj.get("name") == parent_name for obj in objects):
+            print(f"Adding {new_entry['name']} to {bounds_file}")
+            if is_list:
+                bounds_data.append(new_entry)
+            else:
+                # If it's a single object file, convert to list
+                bounds_data = [bounds_data, new_entry]
+            modified = True
+    
     if modified:
         save_json(bounds_path, bounds_data)
-        print(f"✅ Saved {bounds_data}")
+        print(f"✅ Saved {bounds_file}")
 
 print("\n✅ All bounds files updated!")

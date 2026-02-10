@@ -2772,5 +2772,549 @@
       0.0
     ],
     "uuid": "db5ce977-d4be-41a3-968a-e187a83be826"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Long_E",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "34aa40da-c5dd-4dd6-89de-2ca4e8464974",
+    "parent": "BOOK_GEN_Scroll_Parchment_B"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Long_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "54ea565e-0e06-4dd8-b43d-f35b4858c73e",
+    "parent": "BOOK_GEN_Scroll_Parchment_B"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Long_B",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "734722d7-cd0e-4ec9-a53b-25d1a6980eda",
+    "parent": "BOOK_GEN_Scroll_Parchment_B"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Long_D",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "aeab2ac2-f366-4016-bc12-2fab6e69fde2",
+    "parent": "BOOK_GEN_Scroll_Parchment_B"
+  },
+  {
+    "name": "BOOK_GEN_Scroll_Parchment_B_Long_C",
+    "relative_path": "Books/Generic/BOOK_GEN_Scroll_Parchment_ABC/Resources/BOOK_GEN_Scroll_Parchment_B.dae",
+    "size": [
+      0.2071239948272705,
+      0.16981800517532974,
+      0.6191419959068298
+    ],
+    "center_offset": [
+      -0.01642400026321411,
+      0.08296700258506462,
+      0.010973989963531494
+    ],
+    "uuid": "b5a707d7-8b8a-40db-8174-fce0cd6f316c",
+    "parent": "BOOK_GEN_Scroll_Parchment_B"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_B_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_B_Destruct.dae",
+    "size": [
+      3.4489060640335083,
+      0.7827249839901924,
+      1.330152004957199
+    ],
+    "center_offset": [
+      0.2215610146522522,
+      0.42167049273848534,
+      -0.44836200773715973
+    ],
+    "uuid": "0dc7a5be-25b8-4992-b502-a243f6966d26",
+    "parent": "BOOK_GEN_Books_Row_Multiple_B_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_A_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_A_Destruct.dae",
+    "size": [
+      1.9708529710769653,
+      0.3118960112333298,
+      0.9851530194282532
+    ],
+    "center_offset": [
+      0.03003448247909546,
+      0.1475980058312416,
+      -0.2808285057544708
+    ],
+    "uuid": "239ca3f6-c668-43fe-8bf6-880d28ae0e3e",
+    "parent": "BOOK_GEN_Books_Row_Single_A_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_D_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_D.dae",
+    "size": [
+      0.5579150021076202,
+      0.40093099082878325,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0037714987993240356,
+      0.2002694954207982,
+      0.0011820048093795776
+    ],
+    "uuid": "2d59c979-1c19-4890-9dcf-91f31569908a",
+    "parent": "BOOK_GEN_Books_Row_Single_D"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_A_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Multiple_A.dae",
+    "size": [
+      1.413290023803711,
+      2.16850608587265,
+      0.5690039992332458
+    ],
+    "center_offset": [
+      0.0,
+      1.9830880463123322,
+      2.199411392211914e-05
+    ],
+    "uuid": "30b96015-db26-4996-a960-de8c8daca174",
+    "parent": "BOOK_GEN_Books_Row_Multiple_A"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_C_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_C_Destruct.dae",
+    "size": [
+      1.3366319686174393,
+      0.22299600532278419,
+      1.3009799644351006
+    ],
+    "center_offset": [
+      -0.4832409843802452,
+      0.10379500244744122,
+      -0.5813329853117466
+    ],
+    "uuid": "3c3dbd37-2bdc-4270-beec-b3d8246e10a6",
+    "parent": "BOOK_GEN_Books_Stack_C_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_C_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_C.dae",
+    "size": [
+      0.8137309849262238,
+      0.4265610119327903,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0002724975347518921,
+      0.20993750588968396,
+      0.0011820048093795776
+    ],
+    "uuid": "3eff877a-e590-4786-997b-1a7fa1ae1588",
+    "parent": "BOOK_GEN_Books_Row_Single_C"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_C_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_C.dae",
+    "size": [
+      1.413290023803711,
+      1.3783750534057617,
+      0.40261900424957275
+    ],
+    "center_offset": [
+      0.0,
+      2.0753655433654785,
+      0.006491497159004211
+    ],
+    "uuid": "548a4836-df4d-4a0a-ba24-a01e668f4b09",
+    "parent": "BOOK_GEN_Books_Row_Multiple_C"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_D_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_D_Destruct.dae",
+    "size": [
+      2.6223080158233643,
+      0.6687849834561348,
+      1.1859220117330551
+    ],
+    "center_offset": [
+      0.09779202938079834,
+      0.36584049090743065,
+      -0.39414001256227493
+    ],
+    "uuid": "55c6035a-c15f-4086-9312-1d753cbda48e",
+    "parent": "BOOK_GEN_Books_Row_Multiple_D_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_B_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_B_Destruct.dae",
+    "size": [
+      1.9940110445022583,
+      0.3952760063111782,
+      0.853554978966713
+    ],
+    "center_offset": [
+      0.21659153699874878,
+      0.1886290032416582,
+      -0.6035104915499687
+    ],
+    "uuid": "6b92c662-e82c-4969-b8eb-87e13fb1e393",
+    "parent": "BOOK_GEN_Books_Row_Single_B_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_A_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_A_Destruct.dae",
+    "size": [
+      0.6689329892396927,
+      0.2798510091379285,
+      1.8626309782266617
+    ],
+    "center_offset": [
+      -0.11516749113798141,
+      0.13160950457677245,
+      -0.7869664952158928
+    ],
+    "uuid": "6b987baa-6a08-4a1c-bf6a-9d24de69258b",
+    "parent": "BOOK_GEN_Books_Stack_A_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_B_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Multiple_B.dae",
+    "size": [
+      1.2735940217971802,
+      2.308648109436035,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      0.0,
+      2.048274040222168,
+      0.0
+    ],
+    "uuid": "7e19ce74-8c07-495f-8577-c73a2485d5de",
+    "parent": "BOOK_GEN_Books_Row_Multiple_B"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_B_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Stack_B_Destruct.dae",
+    "size": [
+      1.5995629876852036,
+      0.29806598648428917,
+      1.4717199578881264
+    ],
+    "center_offset": [
+      -0.6051305010914803,
+      0.13902299292385578,
+      -0.6684429757297039
+    ],
+    "uuid": "89670ecb-f68e-420b-a1c3-5f33400a6bf2",
+    "parent": "BOOK_GEN_Books_Stack_B_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_B_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Single_B.dae",
+    "size": [
+      1.2656640410423279,
+      0.42341301185660996,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      0.0024490058422088623,
+      0.21151150592777412,
+      0.0011820048093795776
+    ],
+    "uuid": "af62edaa-5caf-48a4-9e78-5a7389f161d1",
+    "parent": "BOOK_GEN_Books_Row_Single_B"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_D_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_D.dae",
+    "size": [
+      1.2735940217971802,
+      1.3720650672912598,
+      0.4379599988460541
+    ],
+    "center_offset": [
+      0.0,
+      2.0725815296173096,
+      0.0
+    ],
+    "uuid": "e21e0d9e-b3d1-4aa0-9933-04f9483b4435",
+    "parent": "BOOK_GEN_Books_Row_Multiple_D"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_C_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_C_Destruct.dae",
+    "size": [
+      3.4199939966201782,
+      0.8291130010038614,
+      0.786110982298851
+    ],
+    "center_offset": [
+      -0.1348549723625183,
+      0.44072050135582685,
+      -0.17598748952150345
+    ],
+    "uuid": "e5e38656-a353-435a-b8f4-01b39cd55708",
+    "parent": "BOOK_GEN_Books_Row_Multiple_C_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_A_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Row_Single_A.dae",
+    "size": [
+      1.2600319981575012,
+      0.43059100574464537,
+      0.3157300055027008
+    ],
+    "center_offset": [
+      0.001373976469039917,
+      0.2156515028764261,
+      0.0
+    ],
+    "uuid": "f484cbdc-b59a-4db5-b36e-3f9fe9527ebe",
+    "parent": "BOOK_GEN_Books_Row_Single_A"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_A_Destruct_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_A_Destruct.dae",
+    "size": [
+      3.169885039329529,
+      0.4613860007375479,
+      1.5426120162010193
+    ],
+    "center_offset": [
+      0.19909948110580444,
+      0.25480200070887804,
+      -0.5544100105762482
+    ],
+    "uuid": "fdd35c10-dcd7-4daf-8faa-a9ea4bf509d4",
+    "parent": "BOOK_GEN_Books_Row_Multiple_A_Destruct"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_A_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_A.dae",
+    "size": [
+      0.4821299910545349,
+      1.2491879814770073,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.0,
+      0.6246549907373264,
+      0.0
+    ],
+    "uuid": "58bff1a3-c1b3-448e-b370-55d0379720c6",
+    "parent": "BOOK_GEN_Books_Stack_A"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_B_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_B.dae",
+    "size": [
+      0.4821299910545349,
+      0.8597849959041923,
+      0.4056839942932129
+    ],
+    "center_offset": [
+      0.003618001937866211,
+      0.429953497950919,
+      0.017288997769355774
+    ],
+    "uuid": "921497ff-0732-4ce3-b732-3bf111bb1a9b",
+    "parent": "BOOK_GEN_Books_Stack_B"
+  },
+  {
+    "name": "BOOK_GEN_Books_Stack_C_Dirty_A",
+    "relative_path": "Books/Generic/BOOK_GEN_Books_Stack_C.dae",
+    "size": [
+      0.42672199010849,
+      0.5616030009405222,
+      0.3470419943332672
+    ],
+    "center_offset": [
+      0.0,
+      0.28093550047196914,
+      0.0
+    ],
+    "uuid": "b5541422-9bd9-4a66-a0ff-48e7b1220d01",
+    "parent": "BOOK_GEN_Books_Stack_C"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_F_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_F.dae",
+    "size": [
+      1.2735939621925354,
+      2.9070959985256195,
+      0.4986240118741989
+    ],
+    "center_offset": [
+      0.001886993646621704,
+      1.6645299941301346,
+      -0.0012720003724098206
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "BOOK_GEN_Books_Row_Multiple_F"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_L_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_L.dae",
+    "size": [
+      2.912973999977112,
+      5.447715103626251,
+      0.6380220055580139
+    ],
+    "center_offset": [
+      0.027198970317840576,
+      3.3521035611629486,
+      -0.1101830005645752
+    ],
+    "uuid": "187b4db5-a710-40f6-9182-6cd75f2e6207",
+    "parent": "BOOK_GEN_Books_Row_Multiple_L"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_J_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_J.dae",
+    "size": [
+      1.9097319841384888,
+      2.910721004009247,
+      0.569004014134407
+    ],
+    "center_offset": [
+      0.0013380050659179688,
+      2.06200447678566,
+      -0.16913800686597824
+    ],
+    "uuid": "669f87f6-dd97-4b90-a289-9ee2f0dba159",
+    "parent": "BOOK_GEN_Books_Row_Multiple_J"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_H_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_H.dae",
+    "size": [
+      4.326452970504761,
+      3.1559630036354065,
+      2.070530951023102
+    ],
+    "center_offset": [
+      0.026537537574768066,
+      1.8564564883708954,
+      1.1748444736003876
+    ],
+    "uuid": "72551801-7180-45d9-9b30-bdd53d1d7f55",
+    "parent": "BOOK_GEN_Books_Row_Multiple_H"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_E_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_E.dae",
+    "size": [
+      1.4167360067367554,
+      3.3706739991903305,
+      0.6380220055580139
+    ],
+    "center_offset": [
+      0.06098300218582153,
+      1.8910690024495125,
+      0.021104007959365845
+    ],
+    "uuid": "79e23fde-d38f-420e-bf92-eeba1e33e25f",
+    "parent": "BOOK_GEN_Books_Row_Multiple_E"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_I_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_I.dae",
+    "size": [
+      4.326452970504761,
+      3.1535779535770416,
+      2.070530951023102
+    ],
+    "center_offset": [
+      0.026537537574768066,
+      1.8518549650907516,
+      1.1748444736003876
+    ],
+    "uuid": "af32b53a-db86-458f-9f4c-0e0dbf15dd60",
+    "parent": "BOOK_GEN_Books_Row_Multiple_I"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Single_D_Dirty_Destroyed",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Single_D.dae",
+    "size": [
+      0.5579150021076202,
+      0.40093099082878325,
+      0.3106839954853058
+    ],
+    "center_offset": [
+      -0.0037714987993240356,
+      0.2002694954207982,
+      0.0011820048093795776
+    ],
+    "uuid": "ca24b0fe-e098-495f-b197-aaefab77b5ad",
+    "parent": "BOOK_GEN_Books_Row_Single_D"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_G_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_G.dae",
+    "size": [
+      1.281262993812561,
+      3.3706739991903305,
+      0.5459470003843307
+    ],
+    "center_offset": [
+      0.0061424970626831055,
+      1.8910690024495125,
+      -0.02493349462747574
+    ],
+    "uuid": "e2afb923-beb1-41e6-90c8-642e7f17660c",
+    "parent": "BOOK_GEN_Books_Row_Multiple_G"
+  },
+  {
+    "name": "BOOK_GEN_Books_Row_Multiple_K_Dirty_A",
+    "relative_path": "Books/Generic/Resources/BOOK_GEN_Books_Row_Multiple_K.dae",
+    "size": [
+      1.7284260392189026,
+      2.181146025657654,
+      0.4405040070414543
+    ],
+    "center_offset": [
+      0.13192299008369446,
+      2.374208986759186,
+      -0.18114400282502174
+    ],
+    "uuid": "ff9309b3-6812-4008-bb4a-69262c4b9b64",
+    "parent": "BOOK_GEN_Books_Row_Multiple_K"
   }
 ]

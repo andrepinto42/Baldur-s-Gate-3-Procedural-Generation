@@ -6952,5 +6952,213 @@
       0.48875401209807023,
       0.0
     ]
+  },
+  {
+    "name": "CONT_GEN_Chest_Jewel_B_Small_A",
+    "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_B.dae",
+    "size": [
+      1.3248380422592163,
+      1.1086610502097756,
+      0.803395003080368
+    ],
+    "center_offset": [
+      0.0,
+      0.5579255250049755,
+      -0.01068250834941864
+    ],
+    "uuid": "b026a976-7a5f-49e2-8b71-4aa102803251",
+    "parent": "CONT_GEN_Chest_Jewel_B"
+  },
+  {
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B_Dirty_A",
+    "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_B.dae",
+    "size": [
+      1.7782419919967651,
+      1.3892420185729861,
+      0.6587579846382141
+    ],
+    "center_offset": [
+      0.0316309928894043,
+      0.7030750089325011,
+      0.016148000955581665
+    ],
+    "uuid": "1267fc16-5cfc-4953-8ba4-5b376ce7ec26",
+    "parent": "CONT_GEN_Dinnerware_Silver_Row_Multiple_B"
+  },
+  {
+    "name": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A_Dirty_A",
+    "relative_path": "Containers/Generic/CONT_GEN_Dining_Plates_Silver_Rich_Row_Multiple_ABC/Resources/CONT_GEN_Dinnerware_Silver_Row_Multiple_A.dae",
+    "size": [
+      1.862646996974945,
+      3.03180497745052,
+      0.7551679909229279
+    ],
+    "center_offset": [
+      0.004343479871749878,
+      1.5217914886306971,
+      0.015699997544288635
+    ],
+    "uuid": "455ded4b-3a06-4fb4-8e33-f54cb933c9f9",
+    "parent": "CONT_GEN_Dinnerware_Silver_Row_Multiple_A"
+  },
+  {
+    "name": "CONT_GEN_Vase_Ceramic_Big_C_Shar_Destruct",
+    "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_C.dae",
+    "size": [
+      0.9057520031929016,
+      1.2041289806365967,
+      0.9286179840564728
+    ],
+    "center_offset": [
+      0.0,
+      0.6020644903182983,
+      -0.004446998238563538
+    ],
+    "uuid": "99ccf0dd-b39b-49d6-a616-8f572f1cac23",
+    "parent": "CONT_GEN_Vase_Ceramic_Big_C"
+  },
+  {
+    "name": "CONT_GEN_Chest_Jewel_A_Small_A",
+    "relative_path": "Containers/Generic/CONT_GEN_Chest_Jewel_ABC/Resources/CONT_GEN_Chest_Jewel_A.dae",
+    "size": [
+      1.2908040285110474,
+      1.0691469854209572,
+      0.7757730185985565
+    ],
+    "center_offset": [
+      0.0,
+      0.5381684926105663,
+      0.0006185024976730347
+    ],
+    "uuid": "9f61d4c0-92f0-48f5-97bc-e4b8a5482a03",
+    "parent": "CONT_GEN_Chest_Jewel_A"
+  },
+  {
+    "name": "CONT_GEN_Vase_Ceramic_Big_A_Shar_Destruct",
+    "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_A.dae",
+    "size": [
+      0.8684599995613098,
+      1.2010710239992477,
+      0.8654870092868805
+    ],
+    "center_offset": [
+      0.0033920109272003174,
+      0.5997455119795632,
+      0.006435498595237732
+    ],
+    "uuid": "dddae573-f4a9-48e8-992c-c105d25e5397",
+    "parent": "CONT_GEN_Vase_Ceramic_Big_A"
+  },
+  {
+    "name": "CONT_HUM_Vase_Large_B_Ceramic_Broken_Moss",
+    "relative_path": "Containers/CONT_HUM_Vase_ABC/Resources/CONT_HUM_Vase_Large_B_Ceramic.dae",
+    "size": [
+      0.5319789946079254,
+      1.1992379995863303,
+      0.5397639870643616
+    ],
+    "center_offset": [
+      3.750622272491455e-05,
+      0.5995379997948476,
+      3.600120544433594e-05
+    ],
+    "uuid": "1d38a7d9-e697-49e2-a305-401a58e97d29",
+    "parent": "CONT_HUM_Vase_Large_B_Ceramic"
+  },
+  {
+    "name": "CONT_GEN_Vase_Ceramic_Big_A_Shar_Destroyed",
+    "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_A.dae",
+    "size": [
+      0.8684599995613098,
+      1.2010710239992477,
+      0.8654870092868805
+    ],
+    "center_offset": [
+      0.0033920109272003174,
+      0.5997455119795632,
+      0.006435498595237732
+    ],
+    "uuid": "22fbb0c7-45fb-477b-a883-38f6eef12b67",
+    "parent": "CONT_GEN_Vase_Ceramic_Big_A"
+  },
+  {
+    "name": "CONT_GEN_Vase_Ceramic_Big_C_Shar_Destroyed",
+    "relative_path": "Containers/Generic/CONT_GEN_Vase_Ceramic_Big_ABC/Resources/CONT_GEN_Vase_Ceramic_Big_C.dae",
+    "size": [
+      0.9057520031929016,
+      1.2041289806365967,
+      0.9286179840564728
+    ],
+    "center_offset": [
+      0.0,
+      0.6020644903182983,
+      -0.004446998238563538
+    ],
+    "uuid": "30ad51e0-5518-4393-ae4b-9b28c968a5e8",
+    "parent": "CONT_GEN_Vase_Ceramic_Big_C"
+  },
+  {
+    "name": "CONT_Barrel_A_Destroyed_A",
+    "relative_path": "Containers/CONT_Barrel_ABC/Resources/CONT_Barrel_A.dae",
+    "size": [
+      0.9533369839191437,
+      1.2632149923592806,
+      0.9547750055789948
+    ],
+    "center_offset": [
+      0.003551498055458069,
+      0.6266734963282943,
+      -0.004365488886833191
+    ],
+    "uuid": "dc98d3fe-87d3-4dcd-b844-8c835d6d2619",
+    "parent": "CONT_Barrel_A"
+  },
+  {
+    "name": "CONT_GEN_Crate_Wood_B_Destroyed_B",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/CONT_GEN_Crate_Wood_B.dae",
+    "size": [
+      0.9961569905281067,
+      0.9831990272505209,
+      0.9900720119476318
+    ],
+    "center_offset": [
+      -0.0002554953098297119,
+      0.4900305136688985,
+      -3.600120544433594e-05
+    ],
+    "uuid": "fc132b3c-a5f0-4eb2-b3ea-a158afdb92e4",
+    "parent": "CONT_GEN_Crate_Wood_B"
+  },
+  {
+    "name": "DEC_GEN_Crate_Wood_Open_A_Bobbing_A",
+    "relative_path": "Containers/Generic/CONT_GEN_Crate_Wood_ABC/Resources/DEC_GEN_Crate_Wood_Open_A.dae",
+    "size": [
+      0.7520039975643158,
+      0.5841659773141146,
+      1.5912200212478638
+    ],
+    "center_offset": [
+      0.0007220059633255005,
+      0.2853669887408614,
+      0.0
+    ],
+    "uuid": "5ef4cbc2-28f2-4574-b10b-833feca9da48",
+    "parent": "DEC_GEN_Crate_Wood_Open_A"
+  },
+  {
+    "name": "CONT_Zhentarim_Barrel_Metal_A_Destroyed_A",
+    "relative_path": "Containers/CONT_Zhentarim_ABC/Resources/CONT_Zhentarim_Barrel_Metal_A.dae",
+    "size": [
+      0.6126880049705505,
+      0.8093390162102878,
+      0.6115109920501709
+    ],
+    "center_offset": [
+      0.0,
+      0.40317250811494887,
+      -0.007503509521484375
+    ],
+    "uuid": "d8db3123-d36a-4900-952d-0d75e36f5754",
+    "parent": "CONT_Zhentarim_Barrel_Metal_A"
   }
 ]

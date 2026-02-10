@@ -7,6 +7,10 @@ import parsers.extract_points_dungeon as extract_points_dungeon
 import plot_points
 from pyrr import Vector3, Quaternion
 import math
+###
+# E:\Games\Baldurs Gate 3\Data\Editor\Mods\procedural_ffda7ce9-3f05-0f4a-ee04-84f560c3c068\Levels\procedural2\Terrains
+# Folder where it's stored terrain data
+##
 
 DIVINE_EXE = r".\Divine\Divine.exe"
 OUTPUT_LSF_TEMP = r"output_lsf_temp"
@@ -59,7 +63,7 @@ def print_result(result: subprocess.CompletedProcess[str]) -> None:
 def main() -> None:
     DECREASE_SPACING_OBJECTS = 1
     NAME_OBJECT_WALL = "BLD_Village_Wall_Support_B"
-    NAME_FILE_INPUT = r"C:\Users\andre\Downloads\dungeon_complex.ds"
+    NAME_FILE_INPUT = r"C:\Users\andre\Downloads\dungeon_simple.ds"
     
     create_lsx.clear_auto_xml(OUTPUT_FOLDER_LSF)
     create_lsx.clear_auto_xml(MAP_SCENERY_FOLDER)

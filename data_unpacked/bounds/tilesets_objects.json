@@ -71230,5 +71230,117 @@
       0.6862499741819192,
       0.105771005153656
     ]
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Tower_D_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Tower_D.dae",
+    "size": [
+      1.6808279752731323,
+      9.044915463775396,
+      1.6808279752731323
+    ],
+    "center_offset": [
+      0.0,
+      4.570088731124997,
+      0.0
+    ],
+    "uuid": "1c6c11de-8afe-47df-b67e-c228eff86447",
+    "parent": "BLD_Dungeon_Temple_Roof_Tower_D"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Window_A_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Window_A.dae",
+    "size": [
+      1.3989650011062622,
+      4.53957200050354,
+      4.936689138412476
+    ],
+    "center_offset": [
+      -4.76837158203125e-07,
+      1.1273900270462036,
+      0.5641485452651978
+    ],
+    "uuid": "4d67d414-95b2-48a9-b47e-81d3892a8c39",
+    "parent": "BLD_Dungeon_Temple_Roof_Window_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Tower_C_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Tower_C.dae",
+    "size": [
+      3.303999900817871,
+      8.843565940856934,
+      3.303999900817871
+    ],
+    "center_offset": [
+      0.0,
+      4.421782970428467,
+      0.0
+    ],
+    "uuid": "79e86280-3007-4704-95bf-d57993dc1329",
+    "parent": "BLD_Dungeon_Temple_Roof_Tower_C"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Chimney_A_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Chimney_A.dae",
+    "size": [
+      1.0199739933013916,
+      2.8995540142059326,
+      1.0199739933013916
+    ],
+    "center_offset": [
+      0.0,
+      1.4497770071029663,
+      0.0
+    ],
+    "uuid": "ad86147e-4358-49aa-944c-482a4cd3a73a",
+    "parent": "BLD_Dungeon_Temple_Roof_Chimney_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Tower_A_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Tower_A.dae",
+    "size": [
+      2.4431519508361816,
+      8.083831787109375,
+      2.4431519508361816
+    ],
+    "center_offset": [
+      0.0,
+      4.0419158935546875,
+      0.0
+    ],
+    "uuid": "b7e9e88e-5f9a-4656-a63c-47fcd4a779dc",
+    "parent": "BLD_Dungeon_Temple_Roof_Tower_A"
+  },
+  {
+    "name": "BLD_Dungeon_Temple_Roof_Tower_B_Dirty_A",
+    "relative_path": "Tilesets/Dungeon/WALL_Dungeon_Temple_Roof_ABC/Resources/BLD_Dungeon_Temple_Roof_Tower_B.dae",
+    "size": [
+      1.4790879487991333,
+      5.105372905731201,
+      1.2809319496154785
+    ],
+    "center_offset": [
+      0.0,
+      2.5526864528656006,
+      0.0
+    ],
+    "uuid": "fa16d0aa-9474-4fbb-bcd5-45e8ee2e8705",
+    "parent": "BLD_Dungeon_Temple_Roof_Tower_B"
+  },
+  {
+    "name": "WALL_City_Castlewall_Foundation_2D_9H_12W_S_Piece_A_Bhaal_A",
+    "relative_path": "Tilesets/City/Castlewall/Resources/WALL_City_Castlewall_Foundation_2D_9H_12W_S_Piece_A.dae",
+    "size": [
+      13.464539527893066,
+      9.15940966198741,
+      2.5618789568543434
+    ],
+    "center_offset": [
+      -6.732269763946533,
+      4.579701830993599,
+      -1.2377074770629406
+    ],
+    "uuid": "17c5529a-a991-415d-9478-52c29dfbaf06",
+    "parent": "WALL_City_Castlewall_Foundation_2D_9H_12W_S_Piece_A"
   }
 ]

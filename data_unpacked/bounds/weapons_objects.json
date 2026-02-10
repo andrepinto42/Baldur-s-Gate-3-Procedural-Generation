@@ -4876,5 +4876,709 @@
       -0.8371715545654297
     ],
     "uuid": "7d73f501-f65e-46af-a13b-2cacf3985d05"
+  },
+  {
+    "name": "WPN_GTY_Longsword_A_LowHP_IncreasedDamagePsychic",
+    "relative_path": "Weapons/Resources/WPN_GTY_Longsword_A.dae",
+    "size": [
+      0.34053999185562134,
+      0.0530219990760088,
+      1.5193960070610046
+    ],
+    "center_offset": [
+      0.0,
+      0.016944999806582928,
+      -0.41688600182533264
+    ],
+    "uuid": "0553ced5-00b0-4c39-8ee4-519f6401f44a",
+    "parent": "WPN_GTY_Longsword_A"
+  },
+  {
+    "name": "WPN_GTY_HeavyCrossbow_A_LowHP_IncreasedDamagePsychic",
+    "relative_path": "Weapons/Resources/WPN_GTY_HeavyCrossbow_A.dae",
+    "size": [
+      0.6874099969863892,
+      0.18531500652898103,
+      0.9709729850292206
+    ],
+    "center_offset": [
+      0.0,
+      0.09429650328820571,
+      0.10925950109958649
+    ],
+    "uuid": "765dd845-e71c-4a96-bff2-b4ecb08478dc",
+    "parent": "WPN_GTY_HeavyCrossbow_A"
+  },
+  {
+    "name": "WPN_GTY_Shortsword_A_LowHP_IncreasedDamagePsychic",
+    "relative_path": "Weapons/Resources/WPN_GTY_Shortsword_A.dae",
+    "size": [
+      0.12440400198101997,
+      0.03703200025483966,
+      0.824056014418602
+    ],
+    "center_offset": [
+      -0.007177999243140221,
+      0.010768000269308686,
+      -0.19199300557374954
+    ],
+    "uuid": "824a370a-5fc6-4435-b58f-33a0d91f5b08",
+    "parent": "WPN_GTY_Shortsword_A"
+  },
+  {
+    "name": "WPN_HUM_Flail_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Flail_A_0.dae",
+    "size": [
+      0.08148499950766563,
+      0.08156100288033485,
+      0.9887679815292358
+    ],
+    "center_offset": [
+      0.0005364995449781418,
+      0.0005475003272294998,
+      -0.34606099128723145
+    ],
+    "uuid": "04ae8618-3f49-453a-91f2-e5ac68cf366f",
+    "parent": "WPN_HUM_Flail_A_0"
+  },
+  {
+    "name": "WPN_HUM_LightHammer_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_LightHammer_A_0.dae",
+    "size": [
+      0.2787089943885803,
+      0.08109000138938427,
+      0.6507609933614731
+    ],
+    "center_offset": [
+      -0.006020501255989075,
+      0.01987399999052286,
+      -0.10383949428796768
+    ],
+    "uuid": "0c8a9530-273d-4f64-81b9-0d169d890483",
+    "parent": "WPN_HUM_LightHammer_A_0"
+  },
+  {
+    "name": "WPN_HUM_Pike_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Pike_A_0.dae",
+    "size": [
+      0.11606300249695778,
+      0.05432099848985672,
+      2.9277759790420532
+    ],
+    "center_offset": [
+      0.0002264995127916336,
+      0.014720499515533447,
+      -0.7064020037651062
+    ],
+    "uuid": "0eddcd68-36fb-4c9f-8cbb-66513d8d718e",
+    "parent": "WPN_HUM_Pike_A_0"
+  },
+  {
+    "name": "WPN_HUM_Longbow_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Longbow_A_2.dae",
+    "size": [
+      0.4339029937982559,
+      0.08823899738490582,
+      2.0012720823287964
+    ],
+    "center_offset": [
+      -0.003573499619960785,
+      0.02755849901586771,
+      -3.993511199951172e-06
+    ],
+    "uuid": "118967f7-14de-41fa-bec8-3ba383252e9a",
+    "parent": "WPN_HUM_Longbow_A_2"
+  },
+  {
+    "name": "WPN_HUM_Scimitar_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Scimitar_A_0.dae",
+    "size": [
+      0.22841400653123856,
+      0.0499539989978075,
+      1.1423070132732391
+    ],
+    "center_offset": [
+      -0.029409002512693405,
+      0.015463999472558498,
+      -0.3553275018930435
+    ],
+    "uuid": "134cca90-23ea-497d-8698-b7a66bab59d3",
+    "parent": "WPN_HUM_Scimitar_A_0"
+  },
+  {
+    "name": "WPN_HUM_HeavyCrossbow_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_HeavyCrossbow_A_0.dae",
+    "size": [
+      0.666038990020752,
+      0.16814900399185717,
+      0.917607992887497
+    ],
+    "center_offset": [
+      0.0007705092430114746,
+      0.08030250191222876,
+      0.11553199589252472
+    ],
+    "uuid": "181104f6-6423-42de-b624-e225e5fb8a4d",
+    "parent": "WPN_HUM_HeavyCrossbow_A_0"
+  },
+  {
+    "name": "WPN_HUM_Rapier_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Rapier_A_0.dae",
+    "size": [
+      0.13975200057029724,
+      0.10349900275468826,
+      1.185838982462883
+    ],
+    "center_offset": [
+      0.01975800096988678,
+      0.011777501553297043,
+      -0.3951664939522743
+    ],
+    "uuid": "1958c259-3772-46ac-9de3-741806f18703",
+    "parent": "WPN_HUM_Rapier_A_0"
+  },
+  {
+    "name": "WPN_HUM_Warpick_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Warpick_A_0.dae",
+    "size": [
+      0.21856500208377838,
+      0.03781300084665418,
+      0.6892519891262054
+    ],
+    "center_offset": [
+      0.08299250155687332,
+      0.01272650039754808,
+      -0.09955199062824249
+    ],
+    "uuid": "1d6d5983-4546-4eba-b9e6-d23021d08805",
+    "parent": "WPN_HUM_Warpick_A_0"
+  },
+  {
+    "name": "WPN_HUM_Sickle_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Sickle_A_0.dae",
+    "size": [
+      0.3127560019493103,
+      0.048114001750946045,
+      0.5869779884815216
+    ],
+    "center_offset": [
+      -0.04433999955654144,
+      0.01923000067472458,
+      -0.1189119964838028
+    ],
+    "uuid": "1d75dc84-b276-47b0-a0be-a5b25dfcb086",
+    "parent": "WPN_HUM_Sickle_A_0"
+  },
+  {
+    "name": "WPN_Dagger_Shar_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_Dagger_Shar.dae",
+    "size": [
+      0.09122399985790253,
+      0.0491870017722249,
+      0.6557529866695404
+    ],
+    "center_offset": [
+      0.0,
+      0.01970150088891387,
+      -0.0677884966135025
+    ],
+    "uuid": "258ce9f3-3f32-4546-ae6e-196b3e8e91b5",
+    "parent": "WPN_Dagger_Shar"
+  },
+  {
+    "name": "WPN_HUM_Trident_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Trident_A_0.dae",
+    "size": [
+      0.2467840015888214,
+      0.05310200061649084,
+      2.280606985092163
+    ],
+    "center_offset": [
+      0.0,
+      0.015448000747710466,
+      -0.6170954704284668
+    ],
+    "uuid": "27ef84b1-ea40-4f06-a013-f6281511f0e9",
+    "parent": "WPN_HUM_Trident_A_0"
+  },
+  {
+    "name": "WPN_HUM_Handaxe_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Handaxe_A_0.dae",
+    "size": [
+      0.26452500373125076,
+      0.05660399980843067,
+      0.8973290026187897
+    ],
+    "center_offset": [
+      0.08228650316596031,
+      0.019330999813973904,
+      -0.1866065114736557
+    ],
+    "uuid": "2c362536-7ffa-43f4-926c-70dc682ffbff",
+    "parent": "WPN_HUM_Handaxe_A_0"
+  },
+  {
+    "name": "WPN_HUM_Battleaxe_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Battleaxe_A_0.dae",
+    "size": [
+      0.5614179968833923,
+      0.06939899921417236,
+      1.117691993713379
+    ],
+    "center_offset": [
+      -0.003156989812850952,
+      0.01027049869298935,
+      -0.24862200021743774
+    ],
+    "uuid": "3030f1f1-74fc-4008-9317-80c71075c8e3",
+    "parent": "WPN_HUM_Battleaxe_A_0"
+  },
+  {
+    "name": "WPN_HUM_Shield_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Shield_A_2.dae",
+    "size": [
+      0.6940679848194122,
+      0.17197000235319138,
+      0.7043060064315796
+    ],
+    "center_offset": [
+      -0.0430770069360733,
+      0.033250000327825546,
+      0.053050994873046875
+    ],
+    "uuid": "49979c37-1a3a-46f8-af5b-2ea63fc11722",
+    "parent": "WPN_HUM_Shield_A_2"
+  },
+  {
+    "name": "WPN_HUM_HeavyCrossbow_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_HeavyCrossbow_A_2.dae",
+    "size": [
+      0.7782220244407654,
+      0.23381499387323856,
+      0.8645219802856445
+    ],
+    "center_offset": [
+      0.0,
+      0.09199949633330107,
+      0.13750499486923218
+    ],
+    "uuid": "59c190d2-4b91-44f5-a720-f75d338dd341",
+    "parent": "WPN_HUM_HeavyCrossbow_A_2"
+  },
+  {
+    "name": "WPN_HUM_Maul_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Maul_A_0.dae",
+    "size": [
+      0.3403970003128052,
+      0.0938899964094162,
+      1.145058959722519
+    ],
+    "center_offset": [
+      0.017507493495941162,
+      0.020691998302936554,
+      -0.2456284910440445
+    ],
+    "uuid": "67e97333-2225-4797-9c06-0a0e08e6edd7",
+    "parent": "WPN_HUM_Maul_A_0"
+  },
+  {
+    "name": "WPN_HUM_Dagger_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Dagger_A_0.dae",
+    "size": [
+      0.1407339945435524,
+      0.049864000640809536,
+      0.5240159928798676
+    ],
+    "center_offset": [
+      -0.000861000269651413,
+      0.01884000049903989,
+      -0.08622999489307404
+    ],
+    "uuid": "6a321455-d00f-4164-ab12-3601fef2ae6e",
+    "parent": "WPN_HUM_Dagger_A_0"
+  },
+  {
+    "name": "WPN_HUM_LightCrossbow_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_LightCrossbow_A_0.dae",
+    "size": [
+      0.5045719742774963,
+      0.17782899271696806,
+      0.7473329901695251
+    ],
+    "center_offset": [
+      0.0,
+      0.07641549641266465,
+      0.11012250185012817
+    ],
+    "uuid": "6f0568b1-86ac-4039-8d3a-5db844b55fe8",
+    "parent": "WPN_HUM_LightCrossbow_A_0"
+  },
+  {
+    "name": "WPN_GTY_Greatsword_A_LowHP_IncreasedDamagePsychic",
+    "relative_path": "Weapons/Githyanki/WPN_GTY_Greatsword_A/Resources/WPN_GTY_Greatsword_A.dae",
+    "size": [
+      0.44526100158691406,
+      0.07195200026035309,
+      1.9720360040664673
+    ],
+    "center_offset": [
+      6.0498714447021484e-05,
+      0.021490000188350677,
+      -0.5581830143928528
+    ],
+    "uuid": "769adbf8-d3bf-48f7-8c2b-21fb892b1d33",
+    "parent": "WPN_GTY_Greatsword_A"
+  },
+  {
+    "name": "WPN_HUM_HandCrossbow_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_HandCrossbow_A_0.dae",
+    "size": [
+      0.3048679977655411,
+      0.11762900371104479,
+      0.4096439927816391
+    ],
+    "center_offset": [
+      -0.03541799634695053,
+      0.047251501586288214,
+      0.09686199575662613
+    ],
+    "uuid": "794f58a7-4bc5-4c98-8e66-7a8e242fb7ef",
+    "parent": "WPN_HUM_HandCrossbow_A_0"
+  },
+  {
+    "name": "WPN_HUM_Halberd_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Halberd_A_0.dae",
+    "size": [
+      0.6017439961433411,
+      0.07162000052630901,
+      2.2913170158863068
+    ],
+    "center_offset": [
+      -0.022192001342773438,
+      0.008747001178562641,
+      -0.6491625159978867
+    ],
+    "uuid": "7addb7c0-f428-4033-9065-f4ad6e4c7e81",
+    "parent": "WPN_HUM_Halberd_A_0"
+  },
+  {
+    "name": "WPN_HUM_Battleaxe_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Battleaxe_A_2.dae",
+    "size": [
+      0.5498690009117126,
+      0.10387100279331207,
+      1.0992540121078491
+    ],
+    "center_offset": [
+      -0.003076493740081787,
+      0.010939501225948334,
+      -0.238847017288208
+    ],
+    "uuid": "7faff867-9cb3-432b-aa27-8de281b7428e",
+    "parent": "WPN_HUM_Battleaxe_A_2"
+  },
+  {
+    "name": "WPN_HUM_Greatsword_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Greatsword_A_0.dae",
+    "size": [
+      0.32403600215911865,
+      0.06429800018668175,
+      1.9297540187835693
+    ],
+    "center_offset": [
+      0.0,
+      0.020042000338435173,
+      -0.6148329973220825
+    ],
+    "uuid": "82311843-dae9-4bda-86fb-40b722daf82e",
+    "parent": "WPN_HUM_Greatsword_A_0"
+  },
+  {
+    "name": "WPN_HUM_Spear_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Spear_A_0.dae",
+    "size": [
+      0.14836999773979187,
+      0.056924001313745975,
+      2.409209966659546
+    ],
+    "center_offset": [
+      -0.000380001962184906,
+      0.015213001053780317,
+      -0.6872459650039673
+    ],
+    "uuid": "86450ec8-d876-457f-92c0-7bb11e8f38f8",
+    "parent": "WPN_HUM_Spear_A_0"
+  },
+  {
+    "name": "WPN_GOB_Shield_B_0_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_GOB_Shield_B_0.dae",
+    "size": [
+      0.495060995221138,
+      0.23670100793242455,
+      0.9211780428886414
+    ],
+    "center_offset": [
+      -0.014224492013454437,
+      0.07035750336945057,
+      -0.08102300763130188
+    ],
+    "uuid": "89bb450f-d976-4981-b43e-b5d16948da1e",
+    "parent": "WPN_GOB_Shield_B_0"
+  },
+  {
+    "name": "WPN_HUM_Shield_D_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Shield_D_0.dae",
+    "size": [
+      0.8266270160675049,
+      0.2505880072712898,
+      0.8264749944210052
+    ],
+    "center_offset": [
+      -0.028298497200012207,
+      0.04565900191664696,
+      0.050870493054389954
+    ],
+    "uuid": "8c02c87f-955d-4cc2-b547-f22462ad7106",
+    "parent": "WPN_HUM_Shield_D_0"
+  },
+  {
+    "name": "WPN_HUM_Shortsword_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Shortsword_A_0.dae",
+    "size": [
+      0.13127800077199936,
+      0.04304000083357096,
+      0.7267460227012634
+    ],
+    "center_offset": [
+      0.0003429986536502838,
+      0.011119000148028135,
+      -0.17900201678276062
+    ],
+    "uuid": "9d66df2d-8e8f-4798-8684-77b738d26704",
+    "parent": "WPN_HUM_Shortsword_A_0"
+  },
+  {
+    "name": "WPN_HUM_Greataxe_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Greataxe_A_0.dae",
+    "size": [
+      0.39834100008010864,
+      0.0506900018081069,
+      1.3790989816188812
+    ],
+    "center_offset": [
+      0.03079649806022644,
+      0.009817000944167376,
+      -0.2547084838151932
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "WPN_HUM_Greataxe_A_0"
+  },
+  {
+    "name": "WPN_HUM_HandCrossbow_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_HandCrossbow_A_2.dae",
+    "size": [
+      0.41600000858306885,
+      0.12953599821776152,
+      0.6353880167007446
+    ],
+    "center_offset": [
+      -0.03473199903964996,
+      0.05091399932280183,
+      -0.012860000133514404
+    ],
+    "uuid": "ab150a98-0a8e-4ee2-9dca-580d77f99be3",
+    "parent": "WPN_HUM_HandCrossbow_A_2"
+  },
+  {
+    "name": "WPN_HUM_Glaive_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Glaive_A_0.dae",
+    "size": [
+      0.1244490034878254,
+      0.0628610011190176,
+      2.6178690791130066
+    ],
+    "center_offset": [
+      0.020762501284480095,
+      0.009813499636948109,
+      -0.8004125654697418
+    ],
+    "uuid": "be861724-206e-483e-a42d-9dd131030ad6",
+    "parent": "WPN_HUM_Glaive_A_0"
+  },
+  {
+    "name": "WPN_HUM_Mace_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Mace_A_0.dae",
+    "size": [
+      0.14479199796915054,
+      0.1274930015206337,
+      0.7404309958219528
+    ],
+    "center_offset": [
+      0.0007910020649433136,
+      0.01857450231909752,
+      -0.1515984907746315
+    ],
+    "uuid": "ce1c45a5-5606-4604-9afa-beca19fd03e1",
+    "parent": "WPN_HUM_Mace_A_0"
+  },
+  {
+    "name": "WPN_HUM_Greataxe_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Greataxe_A_2.dae",
+    "size": [
+      0.5502520203590393,
+      0.08529099822044373,
+      1.3831210136413574
+    ],
+    "center_offset": [
+      0.0,
+      0.009100500494241714,
+      -0.2615475058555603
+    ],
+    "uuid": "ce8a894c-3dc6-48dc-bb8f-af5390890d43",
+    "parent": "WPN_HUM_Greataxe_A_2"
+  },
+  {
+    "name": "WPN_HUM_Shortbow_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Shortbow_A_2.dae",
+    "size": [
+      0.47395001351833344,
+      0.05957400053739548,
+      1.2392419576644897
+    ],
+    "center_offset": [
+      0.08502800017595291,
+      0.024310000240802765,
+      0.0
+    ],
+    "uuid": "d9a98dce-1027-4324-939c-3c9cfe776731",
+    "parent": "WPN_HUM_Shortbow_A_2"
+  },
+  {
+    "name": "WPN_GOB_Shield_A_0_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_GOB_Shield_A_0.dae",
+    "size": [
+      0.5182340145111084,
+      0.15736699849367142,
+      0.9666830003261566
+    ],
+    "center_offset": [
+      -0.024535000324249268,
+      0.029613498598337173,
+      0.032610490918159485
+    ],
+    "uuid": "dd7550d6-112d-476e-9234-4901a95bd7f6",
+    "parent": "WPN_GOB_Shield_A_0"
+  },
+  {
+    "name": "WPN_HUM_Longsword_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Longsword_A_0.dae",
+    "size": [
+      0.2386160045862198,
+      0.13169100135564804,
+      1.518660992383957
+    ],
+    "center_offset": [
+      0.0,
+      0.01642950251698494,
+      -0.39672650396823883
+    ],
+    "uuid": "dddd2204-0ee3-47b0-a7ea-6b5216a65e89",
+    "parent": "WPN_HUM_Longsword_A_0"
+  },
+  {
+    "name": "WPN_GOB_Shield_C_0_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_GOB_Shield_C_0.dae",
+    "size": [
+      0.4973680078983307,
+      0.3508810065686703,
+      0.8943960070610046
+    ],
+    "center_offset": [
+      -0.005931004881858826,
+      0.13382150419056416,
+      0.0043840110301971436
+    ],
+    "uuid": "e0d5a057-328a-467d-b8fb-1bfd298d59e7",
+    "parent": "WPN_GOB_Shield_C_0"
+  },
+  {
+    "name": "WPN_HUM_Dart_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Dart_A_2.dae",
+    "size": [
+      0.10759099945425987,
+      0.09329399839043617,
+      0.5441130101680756
+    ],
+    "center_offset": [
+      0.0002014990895986557,
+      -0.0077129993587732315,
+      -0.043965503573417664
+    ],
+    "uuid": "e292c502-b116-4a46-a232-dd53f7838f6f",
+    "parent": "WPN_HUM_Dart_A_2"
+  },
+  {
+    "name": "WPN_HUM_Warhammer_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Warhammer_A_0.dae",
+    "size": [
+      0.2747710049152374,
+      0.09408200159668922,
+      1.1070929765701294
+    ],
+    "center_offset": [
+      0.03548750281333923,
+      0.01004599966108799,
+      -0.2415814995765686
+    ],
+    "uuid": "ed53c828-d185-408e-8381-9b042849de8e",
+    "parent": "WPN_HUM_Warhammer_A_0"
+  },
+  {
+    "name": "WPN_HUM_Morningstar_A_0_Rusty_A",
+    "relative_path": "Weapons/Resources/WPN_HUM_Morningstar_A_0.dae",
+    "size": [
+      0.17738300561904907,
+      0.17739000171422958,
+      0.7550060153007507
+    ],
+    "center_offset": [
+      0.0014104992151260376,
+      0.016766000539064407,
+      -0.1562120020389557
+    ],
+    "uuid": "f8856d2d-ffda-417c-b7a8-c7aa757903b7",
+    "parent": "WPN_HUM_Morningstar_A_0"
+  },
+  {
+    "name": "WPN_HUM_LightCrossbow_A_2_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_LightCrossbow_A_2.dae",
+    "size": [
+      0.646124005317688,
+      0.1812610039487481,
+      0.9096570014953613
+    ],
+    "center_offset": [
+      0.0,
+      0.0774575020186603,
+      0.03250250220298767
+    ],
+    "uuid": "fa9b6992-dbfc-4265-996b-73d9836cf7fe",
+    "parent": "WPN_HUM_LightCrossbow_A_2"
+  },
+  {
+    "name": "WPN_HUM_Moonblade_A_NOT_APPROVED",
+    "relative_path": "Weapons/Resources/WPN_HUM_Moonblade_A.dae",
+    "size": [
+      0.14217600226402283,
+      0.03149800002574921,
+      0.8107530027627945
+    ],
+    "center_offset": [
+      0.0052879974246025085,
+      1.2999400496482849e-05,
+      -0.21914350241422653
+    ],
+    "uuid": "0a6f620d-32f4-499a-9c11-db105441a57a",
+    "parent": "WPN_HUM_Moonblade_A"
   }
 ]

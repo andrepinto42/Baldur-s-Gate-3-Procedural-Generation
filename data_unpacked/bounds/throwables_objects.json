@@ -143,5 +143,53 @@
       0.0
     ],
     "uuid": "9e69ff82-8d2b-40bd-b958-6bc644220293"
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_Stew_A_Boiling_A",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_Stew_A.dae",
+    "size": [
+      1.1146759986877441,
+      0.9243930075317621,
+      1.0652400255203247
+    ],
+    "center_offset": [
+      0.0,
+      0.46287050377577543,
+      -0.012791991233825684
+    ],
+    "uuid": "177dfaaa-a409-4f5a-a395-2c894a39e120",
+    "parent": "DEC_GEN_BoilingCauldron_Stew_A"
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_A_Small_Destruct",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_A.dae",
+    "size": [
+      0.5573379993438721,
+      0.46219701040536165,
+      0.5361630022525787
+    ],
+    "center_offset": [
+      0.0,
+      0.231435505207628,
+      -0.008167490363121033
+    ],
+    "uuid": "b81bb864-2ff1-4376-9449-0fdda4f64c26",
+    "parent": "DEC_GEN_BoilingCauldron_A"
+  },
+  {
+    "name": "DEC_GEN_BoilingCauldron_A_Large_Destruct",
+    "relative_path": "Throwables/Cauldron/Resources/DEC_GEN_BoilingCauldron_A.dae",
+    "size": [
+      0.5573379993438721,
+      0.46219701040536165,
+      0.5361630022525787
+    ],
+    "center_offset": [
+      0.0,
+      0.231435505207628,
+      -0.008167490363121033
+    ],
+    "uuid": "d38a7878-e634-4254-8818-92eca4ece0e2",
+    "parent": "DEC_GEN_BoilingCauldron_A"
   }
 ]

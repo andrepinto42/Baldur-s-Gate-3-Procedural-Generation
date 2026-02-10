@@ -2378,5 +2378,69 @@
       4.198204845190048,
       -0.45670604705810547
     ]
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Convex_Grass",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
+    "size": [
+      10.33069634437561,
+      2.2196479737758636,
+      3.6259379386901855
+    ],
+    "center_offset": [
+      -3.0848482847213745,
+      0.898621991276741,
+      -0.015321016311645508
+    ],
+    "uuid": "1c97db2f-162a-4551-9bbf-f0ae64d01f47",
+    "parent": "SPL_NAT_Ridge_Mud_A"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Concave_Moss",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
+    "size": [
+      10.33069634437561,
+      2.2196479737758636,
+      3.6259379386901855
+    ],
+    "center_offset": [
+      -3.0848482847213745,
+      0.898621991276741,
+      -0.015321016311645508
+    ],
+    "uuid": "35c8ad08-25e1-431e-b821-16b6fa821f1d",
+    "parent": "SPL_NAT_Ridge_Mud_A"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Concave_Grass",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
+    "size": [
+      10.33069634437561,
+      2.2196479737758636,
+      3.6259379386901855
+    ],
+    "center_offset": [
+      -3.0848482847213745,
+      0.898621991276741,
+      -0.015321016311645508
+    ],
+    "uuid": "74a1815f-e68a-4e04-9507-a752851bd088",
+    "parent": "SPL_NAT_Ridge_Mud_A"
+  },
+  {
+    "name": "SPL_NAT_Ridge_Mud_A_Convex_Moss",
+    "relative_path": "Splines/Nature/Ridges/SPL_NAT_Ridge_Mud_ABC/Resources/SPL_NAT_Ridge_Mud_A.dae",
+    "size": [
+      10.33069634437561,
+      2.2196479737758636,
+      3.6259379386901855
+    ],
+    "center_offset": [
+      -3.0848482847213745,
+      0.898621991276741,
+      -0.015321016311645508
+    ],
+    "uuid": "fcf3ec02-4392-4469-98b4-272da4f26f42",
+    "parent": "SPL_NAT_Ridge_Mud_A"
   }
 ]

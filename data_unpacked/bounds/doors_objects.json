@@ -5367,5 +5367,53 @@
       0.0
     ],
     "uuid": "f9f677be-e7e2-4492-a0d6-18e4340c070e"
+  },
+  {
+    "name": "DOOR_GEN_Hatch_Wood_A_Sand_A",
+    "relative_path": "Doors/Generic/DOOR_GEN_Hatch_Wood_A/Resources/DOOR_GEN_Hatch_Wood_A.dae",
+    "size": [
+      2.0786880254745483,
+      0.376487000961788,
+      2.055449962615967
+    ],
+    "center_offset": [
+      -0.0005130171775817871,
+      0.18727950047468767,
+      -0.00067901611328125
+    ],
+    "uuid": "c5c7159d-67b5-4150-b1d0-8c4a1009c5bd",
+    "parent": "DOOR_GEN_Hatch_Wood_A"
+  },
+  {
+    "name": "DOOR_Double_Big_Dungeon_Abbey_A_Foundry_A",
+    "relative_path": "Doors/Dungeon/DOOR_Dungeon_Abbey_ABC/Resources/DOOR_Double_Big_Dungeon_Abbey_A.dae",
+    "size": [
+      5.005482196807861,
+      7.017568111419678,
+      0.4306439980864525
+    ],
+    "center_offset": [
+      0.0,
+      3.508784055709839,
+      0.1534230001270771
+    ],
+    "uuid": "faef16a2-8cfe-48ab-b42b-5ad3fe094407",
+    "parent": "DOOR_Double_Big_Dungeon_Abbey_A"
+  },
+  {
+    "name": "DOOR_Double_Slim_City_House_G_Frameless_Top_A_Destroyed",
+    "relative_path": "Doors/Generic/DOOR_Double_Slim_City_House_G.dae",
+    "size": [
+      2.0,
+      3.9767919049987768,
+      0.27059099823236465
+    ],
+    "center_offset": [
+      0.0,
+      1.988394952499391,
+      0.05837949737906456
+    ],
+    "uuid": "389ceaf4-4b29-4ba7-84b4-abfe0281a57f",
+    "parent": "DOOR_Double_Slim_City_House_G"
   }
 ]

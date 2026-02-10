@@ -11419,5 +11419,21 @@
       0.9553804993629456,
       -0.0010204315185546875
     ]
+  },
+  {
+    "name": "VFX_Static_WaterPlane_200w_512x512_A_END_Beach",
+    "relative_path": "Effects/Models/Static/Resources/VFX_Static_WaterPlane_200w_512x512_A.dae",
+    "size": [
+      200.0,
+      0.0,
+      200.0
+    ],
+    "center_offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "uuid": "3897c832-b682-4912-b436-aebe5e7ce8af",
+    "parent": "VFX_Static_WaterPlane_200w_512x512_A"
   }
 ]

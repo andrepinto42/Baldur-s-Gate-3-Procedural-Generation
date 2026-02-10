@@ -4635,5 +4635,2917 @@
       -0.0046830009669065475
     ],
     "uuid": "201c418a-0068-4088-89b1-74047b22cf8c"
+  },
+  {
+    "name": "LTS_DUN_Candles_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_D.dae",
+    "size": [
+      0.13533200323581696,
+      0.06413599848747253,
+      0.11452000215649605
+    ],
+    "center_offset": [
+      -0.0004329979419708252,
+      0.03206799924373627,
+      -0.0003570001572370529
+    ],
+    "uuid": "055e841a-41fd-4fa8-a8ff-ee8b153d176b",
+    "parent": "LTS_DUN_Candles_D"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F.dae",
+    "size": [
+      1.3998340368270874,
+      3.076781988143921,
+      1.3942850232124329
+    ],
+    "center_offset": [
+      0.0,
+      1.5383909940719604,
+      0.0027745068073272705
+    ],
+    "uuid": "09f32da6-fae0-4c23-9320-8526d126ac33",
+    "parent": "LTS_DUN_Candlestick_F"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "1507e0fe-e61c-4886-a24e-35a2ff7ea5c9",
+    "parent": "LTS_DUN_Chandelier_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Gold_Green",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
+    "size": [
+      1.6361780166625977,
+      0.9709190130233765,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48545950651168823,
+      0.0
+    ],
+    "uuid": "15f97f87-c73f-4a89-8986-d44986b10035",
+    "parent": "LTS_DUN_Bowls_G"
+  },
+  {
+    "name": "LTS_DUN_Candles_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_B.dae",
+    "size": [
+      0.33108600974082947,
+      0.3571930006146431,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.150262501090765,
+      0.0
+    ],
+    "uuid": "17185f36-f4d3-4a1a-a601-89592aa0997b",
+    "parent": "LTS_DUN_Candles_B"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
+    "size": [
+      0.8638280034065247,
+      1.1763089895248413,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.43191400170326233,
+      -0.24629849195480347,
+      0.0
+    ],
+    "uuid": "191a9dcb-47f3-4fda-901e-7aa87f8536bb",
+    "parent": "LTS_DUN_Wall_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
+    "size": [
+      1.4908980131149292,
+      2.9517138823866844,
+      1.4908980131149292
+    ],
+    "center_offset": [
+      0.0,
+      -1.4569569416344166,
+      0.0
+    ],
+    "uuid": "19623c96-5e0b-47dc-99e7-0345cb3db722",
+    "parent": "LTS_DUN_Chandelier_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
+    "size": [
+      1.2258340120315552,
+      3.1967110633850098,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5983555316925049,
+      0.0
+    ],
+    "uuid": "1df2f67a-7d05-4cb5-a966-628e1edb5913",
+    "parent": "LTS_DUN_Candlestick_E"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
+    "size": [
+      1.906999945640564,
+      0.6930729746818542,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3465364873409271,
+      0.0
+    ],
+    "uuid": "1e83d65c-d092-43db-98b9-e01abe798902",
+    "parent": "LTS_DUN_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
+    "size": [
+      1.906999945640564,
+      0.6930729746818542,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3465364873409271,
+      0.0
+    ],
+    "uuid": "2119c4ed-a71e-40f3-a438-e6b8dea723ea",
+    "parent": "LTS_DUN_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C.dae",
+    "size": [
+      1.5458959937095642,
+      3.5431811173912138,
+      1.504662036895752
+    ],
+    "center_offset": [
+      -0.0957690179347992,
+      -1.7730535586597398,
+      0.0
+    ],
+    "uuid": "26e1afe1-4a7b-4cd1-b3a1-e0743d175d83",
+    "parent": "LTS_DUN_Hanging_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
+    "size": [
+      2.0896759033203125,
+      1.152819000184536,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4982595033943653,
+      0.0
+    ],
+    "uuid": "2a6129c7-760b-4218-adc3-d4dbe83677c0",
+    "parent": "LTS_DUN_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ],
+    "uuid": "2bdb822f-83ad-4ae4-aeaa-42c2695e6e99",
+    "parent": "LTS_DUN_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_H_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H.dae",
+    "size": [
+      1.7391740083694458,
+      0.846123993396759,
+      1.7391740083694458
+    ],
+    "center_offset": [
+      0.0,
+      0.4230619966983795,
+      0.0
+    ],
+    "uuid": "2d01c783-3751-4d6a-9aaf-030e84feb8ab",
+    "parent": "LTS_DUN_Bowls_H"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "2d553a68-09a8-450e-a717-3bd58bc01eb2",
+    "parent": "LTS_DUN_Chandelier_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
+    "size": [
+      1.6361780166625977,
+      0.9709190130233765,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48545950651168823,
+      0.0
+    ],
+    "uuid": "2fb3b8b7-64cf-48ab-b47d-bbec235f4a67",
+    "parent": "LTS_DUN_Bowls_G"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
+    "size": [
+      0.7306050062179565,
+      1.174767017364502,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.36530250310897827,
+      -0.2455275058746338,
+      0.0
+    ],
+    "uuid": "3225d505-102c-4707-8b0d-5436e0a1b36e",
+    "parent": "LTS_DUN_Wall_Bowls_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_D_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_D.dae",
+    "size": [
+      0.5835370123386383,
+      1.2406200170516968,
+      0.5799189954996109
+    ],
+    "center_offset": [
+      0.0011215060949325562,
+      0.49424201250076294,
+      -0.059490494430065155
+    ],
+    "uuid": "3299c440-09f6-4ba4-9e3f-4ea729a6bbc0",
+    "parent": "LTS_GEN_Gem_Glowing_D"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C.dae",
+    "size": [
+      1.0814679861068726,
+      2.112383902815054,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.0564119514092454,
+      0.0
+    ],
+    "uuid": "32f36a91-c6e2-4a79-843e-da15281c2adb",
+    "parent": "LTS_DUN_Candlestick_C"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LTS_DUN_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Candles_E_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_E.dae",
+    "size": [
+      0.22025100141763687,
+      0.26507699489593506,
+      0.23481999337673187
+    ],
+    "center_offset": [
+      5.029141902923584e-07,
+      0.13253849744796753,
+      0.0
+    ],
+    "uuid": "3ea0318c-8665-49a5-a333-67f326fd5edd",
+    "parent": "LTS_DUN_Candles_E"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A.dae",
+    "size": [
+      0.9942489862442017,
+      1.9362559899527696,
+      0.9942479729652405
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      -0.9680829949757026,
+      0.0
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "LTS_DUN_Hanging_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_F_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_F.dae",
+    "size": [
+      0.24857600033283234,
+      0.694238007068634,
+      0.24182699620723724
+    ],
+    "center_offset": [
+      0.004458002746105194,
+      0.347119003534317,
+      -0.0022825002670288086
+    ],
+    "uuid": "41b5447e-e485-47b4-a572-a65ce1a0ef5e",
+    "parent": "LTS_DUN_Candles_F"
+  },
+  {
+    "name": "LTS_DUN_Bowls_I_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I.dae",
+    "size": [
+      1.598289966583252,
+      1.373831033706665,
+      1.598289966583252
+    ],
+    "center_offset": [
+      0.0,
+      0.6869155168533325,
+      0.0
+    ],
+    "uuid": "47587bea-6347-493c-ac86-930ca5ac0457",
+    "parent": "LTS_DUN_Bowls_I"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
+    "size": [
+      1.2552859783172607,
+      2.681264102226123,
+      1.2552859783172607
+    ],
+    "center_offset": [
+      0.0,
+      -1.3368660510750487,
+      0.0
+    ],
+    "uuid": "4ab0762e-5172-45e8-bb03-1e435a2bc163",
+    "parent": "LTS_DUN_Hanging_Bowls_B"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
+    "size": [
+      1.0944010019302368,
+      1.6030709743499756,
+      1.1927319765090942
+    ],
+    "center_offset": [
+      -0.023241519927978516,
+      0.6179854869842529,
+      -0.1151919960975647
+    ],
+    "uuid": "4bed98c1-a6a0-4002-bc6d-dbe02d5e3ac9",
+    "parent": "LTS_GEN_Gem_Glowing_Family_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A.dae",
+    "size": [
+      0.9942489862442017,
+      1.9362559899527696,
+      0.9942479729652405
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      -0.9680829949757026,
+      0.0
+    ],
+    "uuid": "4ca43af4-5a7b-4dfc-9ebf-fa3087b081ec",
+    "parent": "LTS_DUN_Hanging_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_White_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "4eea9fa1-e312-48d9-9e2d-d2fa7cc2e0e2",
+    "parent": "LTS_DUN_Candles_Cluster_C"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
+    "size": [
+      0.8638280034065247,
+      1.1763089895248413,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.43191400170326233,
+      -0.24629849195480347,
+      0.0
+    ],
+    "uuid": "4ef97189-6c15-48dc-a5c0-82d791cab72f",
+    "parent": "LTS_DUN_Wall_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
+    "size": [
+      0.6646980047225952,
+      1.174767017364502,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3323490023612976,
+      -0.2455275058746338,
+      -1.0058283805847168e-06
+    ],
+    "uuid": "50f9f5db-ab88-4e7e-bd41-9810a2c9145e",
+    "parent": "LTS_DUN_Candlestick_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
+    "size": [
+      1.6361780166625977,
+      0.9709190130233765,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48545950651168823,
+      0.0
+    ],
+    "uuid": "5229fb13-3778-40a8-a639-d4b5ec10a951",
+    "parent": "LTS_DUN_Bowls_G"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_White_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "52e02ce2-5af1-4c20-b0b1-c1a055e554ae",
+    "parent": "LTS_DUN_Candles_Cluster_D"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
+    "size": [
+      1.2258340120315552,
+      3.0252439975738525,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5126219987869263,
+      0.0
+    ],
+    "uuid": "540a96ae-18c2-4103-9c41-b353ba75e6b3",
+    "parent": "LTS_DUN_Candlestick_B"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D.dae",
+    "size": [
+      1.302610993385315,
+      2.8173049222677946,
+      1.3026119470596313
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      -1.3906584614887834,
+      0.0
+    ],
+    "uuid": "55efdd27-24ab-4d4c-b763-e7844d738cdb",
+    "parent": "LTS_DUN_Hanging_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
+    "size": [
+      2.3182098865509033,
+      3.3720969557762146,
+      2.3182098865509033
+    ],
+    "center_offset": [
+      0.0,
+      -1.6670794785022736,
+      0.0
+    ],
+    "uuid": "5d70ecfe-a7d2-4ba9-a6fb-6d8a77c0d55f",
+    "parent": "LTS_DUN_Chandelier_C"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C.dae",
+    "size": [
+      1.0814679861068726,
+      2.112383902815054,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.0564119514092454,
+      0.0
+    ],
+    "uuid": "6358aeb8-5f65-4a9a-9af1-694dd35634ac",
+    "parent": "LTS_DUN_Candlestick_C"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ],
+    "uuid": "6436ea26-709f-4c34-918a-9021d7528c42",
+    "parent": "LTS_DUN_Bowls_E"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
+    "size": [
+      1.0814679861068726,
+      2.3134959347516997,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ],
+    "uuid": "7295193f-0a0e-45eb-9920-82c18c5cd684",
+    "parent": "LTS_DUN_Candlestick_D"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Off_NOTAPPROVED",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "72e43986-285b-46e0-8edc-7b700053b5a6",
+    "parent": "LTS_DUN_Wall_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "758c6fdf-5ac5-46ee-b45f-6583b14da48f",
+    "parent": "LTS_DUN_Wall_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_White_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "7a535fe3-4e13-41f1-824b-7fb308665ed0",
+    "parent": "LTS_DUN_Candles_Cluster_B"
+  },
+  {
+    "name": "LTS_DUN_Candles_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_A.dae",
+    "size": [
+      0.18649600446224213,
+      0.08438199758529663,
+      0.1865919977426529
+    ],
+    "center_offset": [
+      0.0,
+      0.027727998793125153,
+      0.0
+    ],
+    "uuid": "7a8abaf4-0002-4aa8-94f3-6785d7f7d04c",
+    "parent": "LTS_DUN_Candles_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
+    "size": [
+      1.2552859783172607,
+      2.681264102226123,
+      1.2552859783172607
+    ],
+    "center_offset": [
+      0.0,
+      -1.3368660510750487,
+      0.0
+    ],
+    "uuid": "7b677fc0-4a0f-494e-af5c-1a717457d325",
+    "parent": "LTS_DUN_Hanging_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C.dae",
+    "size": [
+      1.5458959937095642,
+      3.5431811173912138,
+      1.504662036895752
+    ],
+    "center_offset": [
+      -0.0957690179347992,
+      -1.7730535586597398,
+      0.0
+    ],
+    "uuid": "7d0352b5-7f37-4c19-a9ff-3a3e5cef8d52",
+    "parent": "LTS_DUN_Hanging_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_White_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "81a1faaf-14e8-4d09-bbae-c80b8184f51c",
+    "parent": "LTS_DUN_Candles_Cluster_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
+    "size": [
+      1.2258340120315552,
+      3.0252439975738525,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5126219987869263,
+      0.0
+    ],
+    "uuid": "8b200869-3164-4c86-a71c-446cfcb098b2",
+    "parent": "LTS_DUN_Candlestick_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
+    "size": [
+      1.0814679861068726,
+      2.3134959347516997,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ],
+    "uuid": "8bc5e376-5c54-47af-a951-d7d923e63589",
+    "parent": "LTS_DUN_Candlestick_D"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C.dae",
+    "size": [
+      1.5491830110549927,
+      1.9841820001602173,
+      1.5390769839286804
+    ],
+    "center_offset": [
+      0.2745404839515686,
+      0.4679639935493469,
+      -0.06580349802970886
+    ],
+    "uuid": "9007b30e-1df3-41c0-9868-9620d8e12c00",
+    "parent": "LTS_GEN_Gem_Glowing_Family_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "94ffa5c0-adaa-4854-baf8-281cd9f453a7",
+    "parent": "LTS_DUN_Candles_Cluster_C"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
+    "size": [
+      1.2258340120315552,
+      2.9393539428710938,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4696769714355469,
+      0.0
+    ],
+    "uuid": "95a02f32-dd8f-4e0c-9dda-b49746d831b0",
+    "parent": "LTS_DUN_Bowls_F"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_A_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_A.dae",
+    "size": [
+      0.5043600052595139,
+      1.2275529652833939,
+      0.4182880073785782
+    ],
+    "center_offset": [
+      0.00700000673532486,
+      0.45273347944021225,
+      0.017559997737407684
+    ],
+    "uuid": "9c8094b8-3e90-46af-94db-a24d5d3dc13a",
+    "parent": "LTS_GEN_Gem_Glowing_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ],
+    "uuid": "9e16e645-d646-40ea-808e-c263e611f180",
+    "parent": "LTS_DUN_Candlestick_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "9ea04ecb-3b8a-40ec-b59b-c4983b1edb7a",
+    "parent": "LTS_DUN_Candles_Cluster_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ],
+    "uuid": "a17d6a60-318b-40db-8d57-143472bf95d6",
+    "parent": "LTS_DUN_Candlestick_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C.dae",
+    "size": [
+      2.691293954849243,
+      1.161978006362915,
+      2.3395919799804688
+    ],
+    "center_offset": [
+      0.0,
+      0.5809890031814575,
+      0.0
+    ],
+    "uuid": "a43dabbd-4a19-4c9e-9956-241506d9f6ab",
+    "parent": "LTS_DUN_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
+    "size": [
+      0.8770310282707214,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.4385155141353607,
+      -0.3440629839897156,
+      0.0
+    ],
+    "uuid": "a6f299f3-1c2a-4d95-bc45-54588adead3b",
+    "parent": "LTS_DUN_Wall_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
+    "size": [
+      0.7306050062179565,
+      1.174767017364502,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.36530250310897827,
+      -0.2455275058746338,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LTS_DUN_Wall_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_C_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_C.dae",
+    "size": [
+      0.33108600974082947,
+      0.7481879964470863,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.3457599990069866,
+      0.0
+    ],
+    "uuid": "ac805261-e2e4-49fd-b20e-5d89e335ad5e",
+    "parent": "LTS_DUN_Candles_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "b0d4b818-fe2b-4465-8bdf-199efc5f6b50",
+    "parent": "LTS_DUN_Candles_Cluster_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "b1b6924a-bf52-4ad6-a8e0-ca3fecbd19b0",
+    "parent": "LTS_DUN_Candles_Cluster_D"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D.dae",
+    "size": [
+      1.302610993385315,
+      2.8173049222677946,
+      1.3026119470596313
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      -1.3906584614887834,
+      0.0
+    ],
+    "uuid": "b20bbb8d-d1cb-41ab-9eb1-48a31385be07",
+    "parent": "LTS_DUN_Hanging_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_I_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I.dae",
+    "size": [
+      1.598289966583252,
+      1.373831033706665,
+      1.598289966583252
+    ],
+    "center_offset": [
+      0.0,
+      0.6869155168533325,
+      0.0
+    ],
+    "uuid": "b594b472-5f35-4933-aa4d-70bfb90c7ff3",
+    "parent": "LTS_DUN_Bowls_I"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "b7315fb1-9122-43f0-bb09-cdb3dbb77b91",
+    "parent": "LTS_DUN_Candles_Cluster_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C.dae",
+    "size": [
+      2.691293954849243,
+      1.161978006362915,
+      2.3395919799804688
+    ],
+    "center_offset": [
+      0.0,
+      0.5809890031814575,
+      0.0
+    ],
+    "uuid": "b8f067de-4676-488d-90ac-e989aff5317e",
+    "parent": "LTS_DUN_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "c3dd26e5-0651-4735-aea4-51a805574507",
+    "parent": "LTS_DUN_Wall_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
+    "size": [
+      1.2258340120315552,
+      3.1967110633850098,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5983555316925049,
+      0.0
+    ],
+    "uuid": "c6496f29-720c-45f3-b625-4bbf5b72a4f7",
+    "parent": "LTS_DUN_Candlestick_E"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "c8c2b06e-736f-470a-916f-0df636a7720c",
+    "parent": "LTS_DUN_Candles_Cluster_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
+    "size": [
+      0.6646980047225952,
+      1.174767017364502,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3323490023612976,
+      -0.2455275058746338,
+      -1.0058283805847168e-06
+    ],
+    "uuid": "c967023b-639a-42c4-8940-298f9a4e5b9a",
+    "parent": "LTS_DUN_Candlestick_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
+    "size": [
+      2.0896759033203125,
+      1.152819000184536,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4982595033943653,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LTS_DUN_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
+    "size": [
+      1.4908980131149292,
+      2.9517138823866844,
+      1.4908980131149292
+    ],
+    "center_offset": [
+      0.0,
+      -1.4569569416344166,
+      0.0
+    ],
+    "uuid": "cf4ad508-9e61-4d65-b265-0456341b952b",
+    "parent": "LTS_DUN_Chandelier_B"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
+    "size": [
+      1.3709440231323242,
+      1.8609149754047394,
+      1.2979450225830078
+    ],
+    "center_offset": [
+      0.12567400932312012,
+      0.5104474872350693,
+      -0.04741048812866211
+    ],
+    "uuid": "d171e7f5-32b1-4f3c-935c-0841706ef7e8",
+    "parent": "LTS_GEN_Gem_Glowing_Family_B"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "d56b35ad-d9b0-4bcf-9785-45b9e4281d8a",
+    "parent": "LTS_DUN_Candles_Cluster_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ],
+    "uuid": "d6bc7976-e00f-4ade-ba37-468f4f0df3de",
+    "parent": "LTS_DUN_Bowls_E"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G.dae",
+    "size": [
+      1.2258340120315552,
+      3.9409360885620117,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.9704680442810059,
+      0.0
+    ],
+    "uuid": "d85c26f8-9a5f-4342-8a01-969691841e46",
+    "parent": "LTS_DUN_Candlestick_G"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
+    "size": [
+      1.2258340120315552,
+      2.9393539428710938,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4696769714355469,
+      0.0
+    ],
+    "uuid": "dd4a1071-5d2c-4d2f-bcd5-9ab595374ac6",
+    "parent": "LTS_DUN_Bowls_F"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G.dae",
+    "size": [
+      1.2258340120315552,
+      3.9409360885620117,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.9704680442810059,
+      0.0
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LTS_DUN_Candlestick_G"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
+    "size": [
+      2.3182098865509033,
+      3.3720969557762146,
+      2.3182098865509033
+    ],
+    "center_offset": [
+      0.0,
+      -1.6670794785022736,
+      0.0
+    ],
+    "uuid": "ee7fd577-fa0a-4b63-8567-459a198cf01b",
+    "parent": "LTS_DUN_Chandelier_C"
+  },
+  {
+    "name": "LTS_DUN_Bowls_J_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_J.dae",
+    "size": [
+      1.4182239770889282,
+      0.41705799847841263,
+      1.4182209968566895
+    ],
+    "center_offset": [
+      0.0,
+      0.13771900162100792,
+      4.76837158203125e-07
+    ],
+    "uuid": "f6d6bc03-2b67-4d9c-baa5-69a50839dd73",
+    "parent": "LTS_DUN_Bowls_J"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_C_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_C.dae",
+    "size": [
+      0.4911870062351227,
+      1.024150013923645,
+      0.46153101325035095
+    ],
+    "center_offset": [
+      0.002284497022628784,
+      0.3172760009765625,
+      0.04444350302219391
+    ],
+    "uuid": "f752f9cc-e65e-41b2-8bf2-5694df8d457f",
+    "parent": "LTS_GEN_Gem_Glowing_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "f9b1929b-7634-4fff-8fcc-f6bfb11a34b1",
+    "parent": "LTS_DUN_Candles_Cluster_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_H_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H.dae",
+    "size": [
+      1.7391740083694458,
+      0.846123993396759,
+      1.7391740083694458
+    ],
+    "center_offset": [
+      0.0,
+      0.4230619966983795,
+      0.0
+    ],
+    "uuid": "f9de01a0-610f-48d1-82d8-ce1ceba745df",
+    "parent": "LTS_DUN_Bowls_H"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F_Gold_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F.dae",
+    "size": [
+      1.3998340368270874,
+      3.076781988143921,
+      1.3942850232124329
+    ],
+    "center_offset": [
+      0.0,
+      1.5383909940719604,
+      0.0027745068073272705
+    ],
+    "uuid": "fc07a695-1a63-4343-aa13-81444aad1381",
+    "parent": "LTS_DUN_Candlestick_F"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_Gold_Destruct",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
+    "size": [
+      0.8770310282707214,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.4385155141353607,
+      -0.3440629839897156,
+      0.0
+    ],
+    "uuid": "fe4c55b4-9daa-4fc4-9cc2-c1c7c0864ac8",
+    "parent": "LTS_DUN_Wall_Bowls_C"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_B_Purple_Destruct",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_B.dae",
+    "size": [
+      0.6924030184745789,
+      1.0782959684729576,
+      0.45634500682353973
+    ],
+    "center_offset": [
+      0.0003165006637573242,
+      0.4220319874584675,
+      0.045588500797748566
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "LTS_GEN_Gem_Glowing_B"
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A_Lamp_Cold",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_A.dae",
+    "size": [
+      0.5023050010204315,
+      0.8661200106143951,
+      0.6275700186379254
+    ],
+    "center_offset": [
+      -0.00011749565601348877,
+      -0.1817290037870407,
+      -0.31256300932727754
+    ],
+    "uuid": "79b311f2-fe0f-433b-aa4d-529f4df9cf41",
+    "parent": "LTS_GEN_Glasshouse_Lamp_Bronze_A_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_D_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_D.dae",
+    "size": [
+      1.302610993385315,
+      2.8173049222677946,
+      1.3026119470596313
+    ],
+    "center_offset": [
+      4.76837158203125e-07,
+      -1.3906584614887834,
+      0.0
+    ],
+    "uuid": "07dd0481-64d4-4a68-b816-ec12a0fde8b6",
+    "parent": "LTS_DUN_Hanging_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "6a4ceb66-23df-4d5f-b8dd-cc23ba9a440a",
+    "parent": "LTS_DUN_Chandelier_A"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
+    "size": [
+      1.4908980131149292,
+      2.9517138823866844,
+      1.4908980131149292
+    ],
+    "center_offset": [
+      0.0,
+      -1.4569569416344166,
+      0.0
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "LTS_DUN_Chandelier_B"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
+    "size": [
+      1.2552859783172607,
+      2.681264102226123,
+      1.2552859783172607
+    ],
+    "center_offset": [
+      0.0,
+      -1.3368660510750487,
+      0.0
+    ],
+    "uuid": "7aed3c07-a5f9-4a9e-a5e5-207662e5e042",
+    "parent": "LTS_DUN_Hanging_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
+    "size": [
+      2.3182098865509033,
+      3.3720969557762146,
+      2.3182098865509033
+    ],
+    "center_offset": [
+      0.0,
+      -1.6670794785022736,
+      0.0
+    ],
+    "uuid": "9f46dd32-05c7-4251-b9fe-b385c6a80152",
+    "parent": "LTS_DUN_Chandelier_C"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_A_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_A.dae",
+    "size": [
+      0.9942489862442017,
+      1.9362559899527696,
+      0.9942479729652405
+    ],
+    "center_offset": [
+      5.066394805908203e-07,
+      -0.9680829949757026,
+      0.0
+    ],
+    "uuid": "a4c113f4-3a7e-422f-b0ab-3848f122edec",
+    "parent": "LTS_DUN_Hanging_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_C_Gold_Prefab",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_C.dae",
+    "size": [
+      1.5458959937095642,
+      3.5431811173912138,
+      1.504662036895752
+    ],
+    "center_offset": [
+      -0.0957690179347992,
+      -1.7730535586597398,
+      0.0
+    ],
+    "uuid": "e32c1ade-cb5c-4d13-a9e9-c6f52072c60f",
+    "parent": "LTS_DUN_Hanging_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "00588cb4-2ff8-479d-b337-ccc62928a83e",
+    "parent": "LTS_DUN_Candles_Cluster_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
+    "size": [
+      1.906999945640564,
+      0.6930729746818542,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3465364873409271,
+      0.0
+    ],
+    "uuid": "03dabfe5-0169-4683-a79d-8466aa1512b6",
+    "parent": "LTS_DUN_Bowls_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Purple_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
+    "size": [
+      1.0944010019302368,
+      1.6030709743499756,
+      1.1927319765090942
+    ],
+    "center_offset": [
+      -0.023241519927978516,
+      0.6179854869842529,
+      -0.1151919960975647
+    ],
+    "uuid": "0676fdbf-dc95-4b01-bc0b-f21d3fe1f263",
+    "parent": "LTS_GEN_Gem_Glowing_Family_A"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "07964fa7-509c-81fa-8277-158ed0d179a2",
+    "parent": "LTS_DUN_Chandelier_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_A_Gold_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_A.dae",
+    "size": [
+      0.2692840099334717,
+      2.6530840136110783,
+      0.22103700041770935
+    ],
+    "center_offset": [
+      0.0,
+      1.2721690069884062,
+      -4.991888999938965e-07
+    ],
+    "uuid": "1153231b-be2b-4c2f-6328-6ce3ab0aa9ae",
+    "parent": "LTS_DUN_Hanging_Bowls_Chain_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
+    "size": [
+      1.2258340120315552,
+      3.1967110633850098,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5983555316925049,
+      0.0
+    ],
+    "uuid": "129291e0-cc85-4431-bc30-99c3413ce3a7",
+    "parent": "LTS_DUN_Candlestick_E"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
+    "size": [
+      0.7306050062179565,
+      1.174767017364502,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.36530250310897827,
+      -0.2455275058746338,
+      0.0
+    ],
+    "uuid": "14662dcb-fded-924a-3bf0-729c6a7fafaf",
+    "parent": "LTS_DUN_Wall_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_B.dae",
+    "size": [
+      0.33108600974082947,
+      0.3571930006146431,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.150262501090765,
+      0.0
+    ],
+    "uuid": "1d3616cf-79a3-f1b1-c5c1-60865a5d375e",
+    "parent": "LTS_DUN_Candles_B"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A.dae",
+    "size": [
+      0.4425959885120392,
+      0.92603999376297,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0,
+      0.463019996881485,
+      0.0
+    ],
+    "uuid": "1dfa4359-7208-1368-1805-af8a90d78d08",
+    "parent": "LTS_GEN_Candle_Candelabra_Rich_A"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_Chain_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Chain_A.dae",
+    "size": [
+      0.07109799981117249,
+      1.5,
+      0.07109999656677246
+    ],
+    "center_offset": [
+      0.0,
+      0.75,
+      0.0
+    ],
+    "uuid": "2110a937-fef4-a83e-d2f2-e3a8f829a13d",
+    "parent": "LTS_DUN_Chandelier_Chain_A"
+  },
+  {
+    "name": "LTS_Camp_Campfire_B_cine_converted",
+    "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_B.dae",
+    "size": [
+      1.2431259751319885,
+      1.1408170461654663,
+      1.1927040219306946
+    ],
+    "center_offset": [
+      -0.03528699278831482,
+      0.5359445214271545,
+      -0.008271008729934692
+    ],
+    "uuid": "2157b76a-ca3b-376f-3c74-b87dac7dde55",
+    "parent": "LTS_Camp_Campfire_B"
+  },
+  {
+    "name": "LTS_DUN_Candles_C_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_C.dae",
+    "size": [
+      0.33108600974082947,
+      0.7481879964470863,
+      0.3148820102214813
+    ],
+    "center_offset": [
+      0.0,
+      0.3457599990069866,
+      0.0
+    ],
+    "uuid": "23934786-a8e5-eea4-a265-1b93e728fd1c",
+    "parent": "LTS_DUN_Candles_C"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Hinge_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Hinge_A.dae",
+    "size": [
+      0.21874099969863892,
+      0.16869500279426575,
+      0.21742799878120422
+    ],
+    "center_offset": [
+      4.991888999938965e-07,
+      0.0029444992542266846,
+      0.0
+    ],
+    "uuid": "252589cf-8281-ffcf-3e57-7096385aa550",
+    "parent": "LTS_DUN_Hanging_Bowls_Hinge_A"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_C_Gold_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_C.dae",
+    "size": [
+      0.2794559895992279,
+      1.6392760276794434,
+      0.08162599802017212
+    ],
+    "center_offset": [
+      0.0,
+      0.8196380138397217,
+      0.0
+    ],
+    "uuid": "27542187-283e-028b-447f-db9791adf446",
+    "parent": "LTS_DUN_Hanging_Bowls_Chain_C"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "28d9dafa-edfe-116e-e9f2-b60496f49bd8",
+    "parent": "LTS_DUN_Wall_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Gold_Vista_A_Purple",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ],
+    "uuid": "2b1c5ce9-f91e-41ba-b3a3-a6409e4815f3",
+    "parent": "LTS_DUN_Bowls_E"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_C_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_C.dae",
+    "size": [
+      1.0814679861068726,
+      2.112383902815054,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.0564119514092454,
+      0.0
+    ],
+    "uuid": "2d7cf26f-f9d6-4dd6-8893-a0924313155e",
+    "parent": "LTS_DUN_Candlestick_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_F_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_F.dae",
+    "size": [
+      0.24857600033283234,
+      0.694238007068634,
+      0.24182699620723724
+    ],
+    "center_offset": [
+      0.004458002746105194,
+      0.347119003534317,
+      -0.0022825002670288086
+    ],
+    "uuid": "2eed8dac-80cb-1788-e9f4-1dd657fdbe7a",
+    "parent": "LTS_DUN_Candles_F"
+  },
+  {
+    "name": "LTS_GEN_Sconce_Wall_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Sconce_Wall_ABC/Resources/LTS_GEN_Sconce_Wall_A.dae",
+    "size": [
+      0.3592720031738281,
+      0.8486799895763397,
+      0.49059900641441345
+    ],
+    "center_offset": [
+      5.6996941566467285e-05,
+      0.018713995814323425,
+      -0.1724175065755844
+    ],
+    "uuid": "35e10f2d-911c-fdcf-f1d9-6370d7a4b1f8",
+    "parent": "LTS_GEN_Sconce_Wall_A"
+  },
+  {
+    "name": "LTS_Camp_Campfire_A_cine_converted",
+    "relative_path": "Lightsources/Camp/LTS_Camp_Campfire_ABC/Resources/LTS_Camp_Campfire_A.dae",
+    "size": [
+      1.245455026626587,
+      0.3339740037918091,
+      1.1927040219306946
+    ],
+    "center_offset": [
+      -0.035045504570007324,
+      0.13252300024032593,
+      -0.008271008729934692
+    ],
+    "uuid": "38580c1d-a1aa-e0e7-f0f8-37b670b1b510",
+    "parent": "LTS_Camp_Campfire_A"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
+    "size": [
+      0.8638280034065247,
+      1.1763089895248413,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.43191400170326233,
+      -0.24629849195480347,
+      0.0
+    ],
+    "uuid": "3b11d289-d75f-4b93-932c-a2efece05f7c",
+    "parent": "LTS_DUN_Wall_Bowls_B"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Wall_A.dae",
+    "size": [
+      0.1839460066985339,
+      0.6971109956502914,
+      0.2972380071878433
+    ],
+    "center_offset": [
+      -0.09093000332359225,
+      0.21976149827241898,
+      0.0015550032258033752
+    ],
+    "uuid": "43d063d4-9653-80e4-2544-6d5191b68cfc",
+    "parent": "LTS_GEN_Candle_Candelabra_Rich_A_Wall_A"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Wall_A.dae",
+    "size": [
+      0.20887999748811126,
+      0.6942320168018341,
+      0.29206299781799316
+    ],
+    "center_offset": [
+      -0.10039499890990555,
+      0.21984200179576874,
+      0.0001695007085800171
+    ],
+    "uuid": "5063b139-4a82-fc33-04f1-75955d9ffb51",
+    "parent": "LTS_GEN_Candle_Candelabra_Common_A_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_B.dae",
+    "size": [
+      0.5049059987068176,
+      0.694238007068634,
+      0.549901008605957
+    ],
+    "center_offset": [
+      0.012125998735427856,
+      0.347119003534317,
+      0.009359508752822876
+    ],
+    "uuid": "53bc22e0-a98d-82c4-a59b-ca1986a3e0be",
+    "parent": "LTS_DUN_Candles_Cluster_B"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_A_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_A.dae",
+    "size": [
+      0.7306050062179565,
+      1.174767017364502,
+      0.5408239960670471
+    ],
+    "center_offset": [
+      -0.36530250310897827,
+      -0.2455275058746338,
+      0.0
+    ],
+    "uuid": "5950670d-5b58-469f-8010-b832142e707c",
+    "parent": "LTS_DUN_Wall_Bowls_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Yellow_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C.dae",
+    "size": [
+      1.5491830110549927,
+      1.9841820001602173,
+      1.5390769839286804
+    ],
+    "center_offset": [
+      0.2745404839515686,
+      0.4679639935493469,
+      -0.06580349802970886
+    ],
+    "uuid": "61c3dd84-5f22-4b65-bfd0-9794c87305c2",
+    "parent": "LTS_GEN_Gem_Glowing_Family_C"
+  },
+  {
+    "name": "LTS_GEN_Lantern_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_A.dae",
+    "size": [
+      0.4080379903316498,
+      0.8321790099143982,
+      0.4704900085926056
+    ],
+    "center_offset": [
+      0.0,
+      0.16258850693702698,
+      -0.2352450042963028
+    ],
+    "uuid": "656a1564-52b4-a022-12e0-a5e318b971f5",
+    "parent": "LTS_GEN_Lantern_A"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Pole_C_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Pole_C.dae",
+    "size": [
+      1.1238409876823425,
+      4.725265979766846,
+      0.5413380265235901
+    ],
+    "center_offset": [
+      -0.00021150708198547363,
+      2.362632989883423,
+      0.0
+    ],
+    "uuid": "6853481f-b87d-737f-035a-5743bce705cd",
+    "parent": "LTS_GEN_City_Lantern_Pole_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "69effa50-b412-2ce1-9451-934b62867617",
+    "parent": "LTS_DUN_Candles_Cluster_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_F_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_F.dae",
+    "size": [
+      1.3998340368270874,
+      3.076781988143921,
+      1.3942850232124329
+    ],
+    "center_offset": [
+      0.0,
+      1.5383909940719604,
+      0.0027745068073272705
+    ],
+    "uuid": "6c30bacb-5020-4769-9f46-7ca4358e2d15",
+    "parent": "LTS_DUN_Candlestick_F"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
+    "size": [
+      1.0814679861068726,
+      2.3134959347516997,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ],
+    "uuid": "6d154043-0eb3-bc3a-0770-8984c921af4b",
+    "parent": "LTS_DUN_Candlestick_D"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_A_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_A.dae",
+    "size": [
+      0.6348670125007629,
+      0.694238007068634,
+      0.8473830223083496
+    ],
+    "center_offset": [
+      0.024957507848739624,
+      0.347119003534317,
+      -0.020499497652053833
+    ],
+    "uuid": "6df07c30-5ca1-43d2-8461-b93db4162e23",
+    "parent": "LTS_DUN_Candles_Cluster_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
+    "size": [
+      0.6646980047225952,
+      1.174767017364502,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3323490023612976,
+      -0.2455275058746338,
+      -1.0058283805847168e-06
+    ],
+    "uuid": "704dfe8c-9060-4943-b37c-533b4b54407d",
+    "parent": "LTS_DUN_Candlestick_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ],
+    "uuid": "76e14c16-24d4-4ab0-a0e5-dea93251c37e",
+    "parent": "LTS_DUN_Bowls_D"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_B_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_B.dae",
+    "size": [
+      1.4013279676437378,
+      1.2070840150117874,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.7006639838218689,
+      0.4428670033812523,
+      0.0
+    ],
+    "uuid": "7c1cfe68-7b57-1505-119f-438b448dfa62",
+    "parent": "LTS_GEN_City_Lantern_Wall_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_I_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_I.dae",
+    "size": [
+      1.598289966583252,
+      1.373831033706665,
+      1.598289966583252
+    ],
+    "center_offset": [
+      0.0,
+      0.6869155168533325,
+      0.0
+    ],
+    "uuid": "7e6b06f4-1c01-44e4-af66-0bb7046ebf86",
+    "parent": "LTS_DUN_Bowls_I"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_C_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_C.dae",
+    "size": [
+      0.6019130155909806,
+      1.1415150165557861,
+      0.28331199288368225
+    ],
+    "center_offset": [
+      0.3037425078218803,
+      0.24456149339675903,
+      0.0
+    ],
+    "uuid": "7e95d2ff-3640-c0c1-3578-ac8851fa63bf",
+    "parent": "LTS_GEN_City_Lantern_Wall_C"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_Wall_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_Wall_A.dae",
+    "size": [
+      0.6646980047225952,
+      1.174767017364502,
+      0.4468419998884201
+    ],
+    "center_offset": [
+      -0.3323490023612976,
+      -0.2455275058746338,
+      -1.0058283805847168e-06
+    ],
+    "uuid": "8032db08-a8bd-b61e-aa29-0b0cedd4aa30",
+    "parent": "LTS_DUN_Candlestick_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_A.dae",
+    "size": [
+      0.18649600446224213,
+      0.08438199758529663,
+      0.1865919977426529
+    ],
+    "center_offset": [
+      0.0,
+      0.027727998793125153,
+      0.0
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "LTS_DUN_Candles_A"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "8949fc2e-0cea-4d66-b635-76062aeb30cc",
+    "parent": "LTS_DUN_Candles_Cluster_D"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
+    "size": [
+      1.2258340120315552,
+      3.0252439975738525,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5126219987869263,
+      0.0
+    ],
+    "uuid": "9018c52c-ba69-4069-bd83-88903a750923",
+    "parent": "LTS_DUN_Candlestick_B"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
+    "size": [
+      1.0944010019302368,
+      1.6030709743499756,
+      1.1927319765090942
+    ],
+    "center_offset": [
+      -0.023241519927978516,
+      0.6179854869842529,
+      -0.1151919960975647
+    ],
+    "uuid": "90693eb8-9379-f20f-8bed-39b323c75b2e",
+    "parent": "LTS_GEN_Gem_Glowing_Family_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_A_Yellow_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_A.dae",
+    "size": [
+      1.0944010019302368,
+      1.6030709743499756,
+      1.1927319765090942
+    ],
+    "center_offset": [
+      -0.023241519927978516,
+      0.6179854869842529,
+      -0.1151919960975647
+    ],
+    "uuid": "92b680bd-99a1-4eb5-bf17-22fc712c034a",
+    "parent": "LTS_GEN_Gem_Glowing_Family_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
+    "size": [
+      2.0896759033203125,
+      1.152819000184536,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4982595033943653,
+      0.0
+    ],
+    "uuid": "94e8c05d-7ac7-e2f7-b422-ecff97733006",
+    "parent": "LTS_DUN_Bowls_B"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Yellow_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
+    "size": [
+      1.3709440231323242,
+      1.8609149754047394,
+      1.2979450225830078
+    ],
+    "center_offset": [
+      0.12567400932312012,
+      0.5104474872350693,
+      -0.04741048812866211
+    ],
+    "uuid": "99339b4a-5f99-4cb3-9aa2-2b5a33767941",
+    "parent": "LTS_GEN_Gem_Glowing_Family_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_H_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_H.dae",
+    "size": [
+      1.7391740083694458,
+      0.846123993396759,
+      1.7391740083694458
+    ],
+    "center_offset": [
+      0.0,
+      0.4230619966983795,
+      0.0
+    ],
+    "uuid": "999b9589-594d-43ac-9354-51f5dfd02813",
+    "parent": "LTS_DUN_Bowls_H"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "9bb04e49-9926-f6f2-a2b6-72e09fdb3025",
+    "parent": "LTS_DUN_Candles_Cluster_C"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_C_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_C.dae",
+    "size": [
+      2.3182098865509033,
+      3.3720969557762146,
+      2.3182098865509033
+    ],
+    "center_offset": [
+      0.0,
+      -1.6670794785022736,
+      0.0
+    ],
+    "uuid": "9c69469b-1542-b4eb-9834-cfc4fe010302",
+    "parent": "LTS_DUN_Chandelier_C"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_D_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_D.dae",
+    "size": [
+      1.0814679861068726,
+      2.3134959347516997,
+      1.0814679861068726
+    ],
+    "center_offset": [
+      0.0,
+      1.1569679673775681,
+      0.0
+    ],
+    "uuid": "9e8ccf9a-acb7-4b76-8a3b-56777f6a49be",
+    "parent": "LTS_DUN_Candlestick_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_C_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_C.dae",
+    "size": [
+      2.691293954849243,
+      1.161978006362915,
+      2.3395919799804688
+    ],
+    "center_offset": [
+      0.0,
+      0.5809890031814575,
+      0.0
+    ],
+    "uuid": "a7fe6f7b-4396-45e3-9983-5fb66f6754ff",
+    "parent": "LTS_DUN_Bowls_C"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A.dae",
+    "size": [
+      0.4418399930000305,
+      0.8954129815101624,
+      0.4418399930000305
+    ],
+    "center_offset": [
+      0.0,
+      0.4477064907550812,
+      0.0
+    ],
+    "uuid": "a8701f64-f24f-df2f-114c-ac1afb521496",
+    "parent": "LTS_GEN_Candle_Candelabra_Common_A"
+  },
+  {
+    "name": "LTS_DUN_Bowls_G_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_G.dae",
+    "size": [
+      1.6361780166625977,
+      0.9709190130233765,
+      1.6361780166625977
+    ],
+    "center_offset": [
+      0.0,
+      0.48545950651168823,
+      0.0
+    ],
+    "uuid": "ac599794-4de2-4951-849d-fdf399b7efb4",
+    "parent": "LTS_DUN_Bowls_G"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_B_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_B.dae",
+    "size": [
+      1.2552859783172607,
+      2.681264102226123,
+      1.2552859783172607
+    ],
+    "center_offset": [
+      0.0,
+      -1.3368660510750487,
+      0.0
+    ],
+    "uuid": "b0150870-02bd-464b-a7c4-9535d824b200",
+    "parent": "LTS_DUN_Hanging_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_B_Gold_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_B.dae",
+    "size": [
+      0.07109799981117249,
+      1.2267639636993408,
+      0.07109999656677246
+    ],
+    "center_offset": [
+      0.0,
+      0.6133819818496704,
+      0.0
+    ],
+    "uuid": "b029ee83-0e18-1ed0-c360-9065cca88176",
+    "parent": "LTS_DUN_Hanging_Bowls_Chain_B"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_D_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_D.dae",
+    "size": [
+      1.0417909622192383,
+      1.0794800147414207,
+      0.8187320232391357
+    ],
+    "center_offset": [
+      -0.5208954811096191,
+      -0.41649701073765755,
+      0.0
+    ],
+    "uuid": "b46203e8-53a2-4023-a6fe-15e90caa31ae",
+    "parent": "LTS_DUN_Wall_Bowls_D"
+  },
+  {
+    "name": "LTS_GEN_Torch_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Torch_ABC/Resources/LTS_GEN_Torch_A.dae",
+    "size": [
+      0.19144300371408463,
+      2.1285181045532227,
+      0.19289600104093552
+    ],
+    "center_offset": [
+      0.010626498609781265,
+      1.0642590522766113,
+      -0.0178459994494915
+    ],
+    "uuid": "b69024ed-8027-341f-479e-45ed9cc0b42a",
+    "parent": "LTS_GEN_Torch_A"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Common_A_Standing_A.dae",
+    "size": [
+      0.5156779885292053,
+      1.8990570306777954,
+      0.5156790018081665
+    ],
+    "center_offset": [
+      0.0,
+      0.9495285153388977,
+      5.066394805908203e-07
+    ],
+    "uuid": "b92c0280-30f2-5b6b-b1cc-1708ac24fc2a",
+    "parent": "LTS_GEN_Candle_Candelabra_Common_A_Standing_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_C_Purple_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_C.dae",
+    "size": [
+      1.5491830110549927,
+      1.9841820001602173,
+      1.5390769839286804
+    ],
+    "center_offset": [
+      0.2745404839515686,
+      0.4679639935493469,
+      -0.06580349802970886
+    ],
+    "uuid": "b93131c3-9233-4c59-a392-d4b33ff0e2a8",
+    "parent": "LTS_GEN_Gem_Glowing_Family_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_E_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_E.dae",
+    "size": [
+      0.22025100141763687,
+      0.26507699489593506,
+      0.23481999337673187
+    ],
+    "center_offset": [
+      5.029141902923584e-07,
+      0.13253849744796753,
+      0.0
+    ],
+    "uuid": "baa24002-d7bc-9b29-e51a-582da1c6bb41",
+    "parent": "LTS_DUN_Candles_E"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_A_DMG_Gold",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_A.dae",
+    "size": [
+      1.4251960515975952,
+      3.061053955927491,
+      1.4251960515975952
+    ],
+    "center_offset": [
+      0.0,
+      -1.5138219771906734,
+      0.0
+    ],
+    "uuid": "bc5b0659-2dda-49b7-9bfa-5271c9a7e4fd",
+    "parent": "LTS_DUN_Chandelier_A"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_B.dae",
+    "size": [
+      0.8638280034065247,
+      1.1763089895248413,
+      0.7630119919776917
+    ],
+    "center_offset": [
+      -0.43191400170326233,
+      -0.24629849195480347,
+      0.0
+    ],
+    "uuid": "bd2f2480-0f26-772d-2eba-3baadbe31037",
+    "parent": "LTS_DUN_Wall_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_D_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_D.dae",
+    "size": [
+      1.5758739709854126,
+      0.8572880029678345,
+      1.7660260200500488
+    ],
+    "center_offset": [
+      0.0,
+      0.42864400148391724,
+      0.0
+    ],
+    "uuid": "c25a90f6-6d53-c951-c3d4-c68aaac8fbe6",
+    "parent": "LTS_DUN_Bowls_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_E_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_E.dae",
+    "size": [
+      1.4495420455932617,
+      1.006782054901123,
+      1.4495420455932617
+    ],
+    "center_offset": [
+      0.0,
+      0.5033910274505615,
+      0.0
+    ],
+    "uuid": "c2e6235e-612f-4347-83e7-d8c164e4d44d",
+    "parent": "LTS_DUN_Bowls_E"
+  },
+  {
+    "name": "LTS_DUN_Bowls_B_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_B.dae",
+    "size": [
+      2.0896759033203125,
+      1.152819000184536,
+      1.8434100151062012
+    ],
+    "center_offset": [
+      0.0,
+      0.4982595033943653,
+      0.0
+    ],
+    "uuid": "c563f6e9-65ae-4a67-b92a-8f68cdeee073",
+    "parent": "LTS_DUN_Bowls_B"
+  },
+  {
+    "name": "LTS_DUN_Hanging_Bowls_Chain_E_Gold_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Hanging_Bowls_Chain_E.dae",
+    "size": [
+      0.2838520109653473,
+      2.7878189086914062,
+      0.2692840099334717
+    ],
+    "center_offset": [
+      0.0,
+      1.3939094543457031,
+      0.0
+    ],
+    "uuid": "cb3ba28a-fc91-c807-19ad-113de13770f2",
+    "parent": "LTS_DUN_Hanging_Bowls_Chain_E"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
+    "size": [
+      0.8770310282707214,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.4385155141353607,
+      -0.3440629839897156,
+      0.0
+    ],
+    "uuid": "cbb9c9f1-d816-d58e-1a26-16384e957ad4",
+    "parent": "LTS_DUN_Wall_Bowls_C"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
+    "size": [
+      1.3709440231323242,
+      1.8609149754047394,
+      1.2979450225830078
+    ],
+    "center_offset": [
+      0.12567400932312012,
+      0.5104474872350693,
+      -0.04741048812866211
+    ],
+    "uuid": "cbbf8133-0140-69b6-848f-43b0530fb473",
+    "parent": "LTS_GEN_Gem_Glowing_Family_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
+    "size": [
+      1.2258340120315552,
+      2.9393539428710938,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4696769714355469,
+      0.0
+    ],
+    "uuid": "cd1ac07d-13ce-4848-98ad-e456d47b44f8",
+    "parent": "LTS_DUN_Bowls_F"
+  },
+  {
+    "name": "LTS_GEN_Lantern_B_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Lantern_ABC/Resources/LTS_GEN_Lantern_B.dae",
+    "size": [
+      0.4080369919538498,
+      1.099815011024475,
+      0.5422350093722343
+    ],
+    "center_offset": [
+      -4.991888999938965e-07,
+      0.5499075055122375,
+      -0.17149150744080544
+    ],
+    "uuid": "cfd723d2-0045-eb55-d5b7-ea5de0c5bbdf",
+    "parent": "LTS_GEN_Lantern_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_B.dae",
+    "size": [
+      1.2258340120315552,
+      3.0252439975738525,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5126219987869263,
+      0.0
+    ],
+    "uuid": "d03f774d-f3e5-9bda-8bb0-c4cd3d47160d",
+    "parent": "LTS_DUN_Candlestick_B"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_B_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_B.dae",
+    "size": [
+      1.4908980131149292,
+      2.9517138823866844,
+      1.4908980131149292
+    ],
+    "center_offset": [
+      0.0,
+      -1.4569569416344166,
+      0.0
+    ],
+    "uuid": "d055cb65-881f-4dae-325b-b0cce17ef743",
+    "parent": "LTS_DUN_Chandelier_B"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_B_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_B.dae",
+    "size": [
+      0.309689998626709,
+      0.9363129734992981,
+      0.4425959885120392
+    ],
+    "center_offset": [
+      0.0,
+      0.46815648674964905,
+      0.0
+    ],
+    "uuid": "d29907cf-bde1-88ea-8943-a02984408c0d",
+    "parent": "LTS_GEN_Candle_Candelabra_Rich_B"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_E_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_E.dae",
+    "size": [
+      1.2258340120315552,
+      3.1967110633850098,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.5983555316925049,
+      0.0
+    ],
+    "uuid": "d2c1a98b-d1b4-31b5-b102-2cee74806b41",
+    "parent": "LTS_DUN_Candlestick_E"
+  },
+  {
+    "name": "LTS_DUN_Chandelier_Hinge_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Chandelier_Hinge_A.dae",
+    "size": [
+      0.21874099969863892,
+      0.3375459909439087,
+      0.22103700041770935
+    ],
+    "center_offset": [
+      4.991888999938965e-07,
+      0.00025600194931030273,
+      -4.991888999938965e-07
+    ],
+    "uuid": "d78e14ee-2402-9e3f-e2eb-abd848afc88d",
+    "parent": "LTS_DUN_Chandelier_Hinge_A"
+  },
+  {
+    "name": "LTS_GEN_City_Lantern_Wall_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_City_Lantern_ABC/Resources/LTS_GEN_City_Lantern_Wall_A.dae",
+    "size": [
+      1.303709028288722,
+      1.2083210051059723,
+      0.3378860056400299
+    ],
+    "center_offset": [
+      0.6310315141454339,
+      0.44224850833415985,
+      0.0
+    ],
+    "uuid": "d8d3e557-cf37-4cb9-4ca6-df873b3497e1",
+    "parent": "LTS_GEN_City_Lantern_Wall_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_G_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_G.dae",
+    "size": [
+      1.2258340120315552,
+      3.9409360885620117,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.9704680442810059,
+      0.0
+    ],
+    "uuid": "d9015f37-7022-4f1f-a9e7-d4144030bfb6",
+    "parent": "LTS_DUN_Candlestick_G"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_C_cine_converted",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_C.dae",
+    "size": [
+      0.44686800241470337,
+      0.7720099962316453,
+      0.19881600141525269
+    ],
+    "center_offset": [
+      -0.0005059987306594849,
+      0.3856389981228858,
+      -0.0013139992952346802
+    ],
+    "uuid": "d92d051d-8c99-474e-b88c-154eb042901e",
+    "parent": "LTS_Alchemy_Miscellaneous_Candlestick_C"
+  },
+  {
+    "name": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Candle_Candelabra_ABC/Resources/LTS_GEN_Candle_Candelabra_Rich_A_Standing_A.dae",
+    "size": [
+      0.5196800231933594,
+      1.8816380500793457,
+      0.5196800231933594
+    ],
+    "center_offset": [
+      0.0,
+      0.9408190250396729,
+      0.0
+    ],
+    "uuid": "dea5e5bb-23a0-510e-7b03-1a38c5973a51",
+    "parent": "LTS_GEN_Candle_Candelabra_Rich_A_Standing_A"
+  },
+  {
+    "name": "LTS_DUN_Wall_Bowls_C_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Wall_Bowls_C.dae",
+    "size": [
+      0.8770310282707214,
+      1.3499399423599243,
+      0.7540619969367981
+    ],
+    "center_offset": [
+      -0.4385155141353607,
+      -0.3440629839897156,
+      0.0
+    ],
+    "uuid": "e419c32c-fe7b-4eff-b119-d7d3ddec675a",
+    "parent": "LTS_DUN_Wall_Bowls_C"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_D_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_D.dae",
+    "size": [
+      0.4138149917125702,
+      0.694238007068634,
+      0.81740602850914
+    ],
+    "center_offset": [
+      0.057671502232551575,
+      0.347119003534317,
+      -0.12439300119876862
+    ],
+    "uuid": "e6a2a020-cfdc-8175-abae-43c20caa31a9",
+    "parent": "LTS_DUN_Candles_Cluster_D"
+  },
+  {
+    "name": "LTS_DUN_Bowls_F_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_F.dae",
+    "size": [
+      1.2258340120315552,
+      2.9393539428710938,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      1.4696769714355469,
+      0.0
+    ],
+    "uuid": "ebc34509-2d28-6ea3-91b2-eaa4d9c97df9",
+    "parent": "LTS_DUN_Bowls_F"
+  },
+  {
+    "name": "LTS_DUN_Candles_Cluster_C_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candles_Cluster_C.dae",
+    "size": [
+      0.6543140113353729,
+      0.694238007068634,
+      1.0632290244102478
+    ],
+    "center_offset": [
+      0.17792101204395294,
+      0.347119003534317,
+      -0.0014815032482147217
+    ],
+    "uuid": "f07a81c3-4b29-4011-bf4c-816386a2464a",
+    "parent": "LTS_DUN_Candles_Cluster_C"
+  },
+  {
+    "name": "LTS_Alchemy_Miscellaneous_Candlestick_A_cine_converted",
+    "relative_path": "Lightsources/Alchemy/LTS_Alchemy_Miscellaneous_Candlestick_ABC/Resources/LTS_Alchemy_Miscellaneous_Candlestick_A.dae",
+    "size": [
+      0.19972899556159973,
+      0.5287900037510553,
+      0.1999880000948906
+    ],
+    "center_offset": [
+      0.0012395009398460388,
+      0.26419800187431974,
+      -0.001898001879453659
+    ],
+    "uuid": "f3041c5e-c252-65be-86dd-c6f0cb3ca669",
+    "parent": "LTS_Alchemy_Miscellaneous_Candlestick_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_Gold_Destroyed",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ],
+    "uuid": "f3825697-fee6-446a-b473-45a017be6e3e",
+    "parent": "LTS_DUN_Candlestick_A"
+  },
+  {
+    "name": "LTS_GEN_Gem_Glowing_Family_B_Purple_Destroyed",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Gem_Glowing_ABC/Resources/LTS_GEN_Gem_Glowing_Family_B.dae",
+    "size": [
+      1.3709440231323242,
+      1.8609149754047394,
+      1.2979450225830078
+    ],
+    "center_offset": [
+      0.12567400932312012,
+      0.5104474872350693,
+      -0.04741048812866211
+    ],
+    "uuid": "f39c2428-c56c-4445-aa1d-ca715410e390",
+    "parent": "LTS_GEN_Gem_Glowing_Family_B"
+  },
+  {
+    "name": "LTS_DUN_Bowls_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Bowls_A.dae",
+    "size": [
+      1.906999945640564,
+      0.6930729746818542,
+      1.7887400388717651
+    ],
+    "center_offset": [
+      0.0,
+      0.3465364873409271,
+      0.0
+    ],
+    "uuid": "fa9106a5-516a-7cc7-6801-bff9b02a9f90",
+    "parent": "LTS_DUN_Bowls_A"
+  },
+  {
+    "name": "LTS_DUN_Candlestick_A_cine_converted",
+    "relative_path": "Lightsources/Dungeon/LTS_DUN_LightSources/Resources/LTS_DUN_Candlestick_A.dae",
+    "size": [
+      1.2258340120315552,
+      1.88543701171875,
+      1.2258340120315552
+    ],
+    "center_offset": [
+      0.0,
+      0.942718505859375,
+      0.0
+    ],
+    "uuid": "fd4125bf-a8ae-7acd-afa9-d4cb5c9befd5",
+    "parent": "LTS_DUN_Candlestick_A"
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp.dae",
+    "size": [
+      0.8745630085468292,
+      1.1755509823560715,
+      0.3811909928917885
+    ],
+    "center_offset": [
+      -0.008340492844581604,
+      0.7891984954476357,
+      -0.27575449272990227
+    ],
+    "uuid": "09933e25-4c45-b3aa-7bb7-33cd78d7cd45",
+    "parent": "LTS_GEN_Glasshouse_Lamp_Bronze_A_Beam_A_Lamp"
+  },
+  {
+    "name": "LTS_GEN_Fire_Basket_A_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Fire_Basket_ABC/Resources/LTS_GEN_Fire_Basket_A.dae",
+    "size": [
+      0.8123269975185394,
+      0.7019400233402848,
+      0.8123269975185394
+    ],
+    "center_offset": [
+      4.917383193969727e-07,
+      0.34355201153084636,
+      0.0002375096082687378
+    ],
+    "uuid": "4dbd7f4e-2550-c607-51e0-4ca97379eb75",
+    "parent": "LTS_GEN_Fire_Basket_A"
+  },
+  {
+    "name": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp_cine_converted",
+    "relative_path": "Lightsources/Generic/LTS_GEN_Glasshouse_Lamp_ABC/Resources/LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp.dae",
+    "size": [
+      0.15767600387334824,
+      0.16057100147008896,
+      1.3390220403671265
+    ],
+    "center_offset": [
+      0.00044300034642219543,
+      0.2018445022404194,
+      0.0
+    ],
+    "uuid": "b6ac2261-fd1b-16aa-0372-f2c03577d918",
+    "parent": "LTS_GEN_Glasshouse_Lamp_Bronze_B_Beam_A_Lamp"
   }
 ]

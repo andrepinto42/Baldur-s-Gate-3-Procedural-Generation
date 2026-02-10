@@ -4658,5 +4658,21 @@
       0.013565002009272575,
       0.0025504976511001587
     ]
+  },
+  {
+    "name": "CONS_Potion_Rare_A_Bronze_DONOTUSE",
+    "relative_path": "Consumables/CONS_Potion_Rare/CONS_Potion_Rare_A.dae",
+    "size": [
+      0.4909619987010956,
+      0.6587460041046143,
+      0.2669680118560791
+    ],
+    "center_offset": [
+      0.0,
+      0.32937300205230713,
+      0.0
+    ],
+    "uuid": "5602b6c2-bb86-4405-957a-ae774b56d2b1",
+    "parent": "CONS_Potion_Rare_A"
   }
 ]

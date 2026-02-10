@@ -2259,5 +2259,181 @@
       0.0
     ],
     "uuid": "c921ff9a-8b8a-43d5-83e7-df65a2570ce0"
+  },
+  {
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_A_Moss_A",
+    "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Slab_A.dae",
+    "size": [
+      11.366416454315186,
+      1.4157009720802307,
+      10.946235179901123
+    ],
+    "center_offset": [
+      2.900322198867798,
+      0.3653704822063446,
+      -1.7103145122528076
+    ],
+    "uuid": "02024110-1d7b-4d94-9760-b445a8ed0776",
+    "parent": "VISTA_NAT_Cliff_Limestone_Layered_Slab_A"
+  },
+  {
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Block_A_Moss_A",
+    "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Block_A.dae",
+    "size": [
+      13.914478302001953,
+      5.849288046360016,
+      15.484187602996826
+    ],
+    "center_offset": [
+      0.7574939727783203,
+      2.6197080314159393,
+      -0.5871317386627197
+    ],
+    "uuid": "234467b6-b28f-451a-9cca-8f021cd4f80a",
+    "parent": "VISTA_NAT_Cliff_Limestone_Layered_Block_A"
+  },
+  {
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_B_Moss_A",
+    "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_B.dae",
+    "size": [
+      30.534475326538086,
+      27.633444819948636,
+      28.306615829467773
+    ],
+    "center_offset": [
+      1.199446678161621,
+      13.818327409971971,
+      -0.5052280426025391
+    ],
+    "uuid": "3e875d84-edbc-4f25-93c0-505ed95b2cd5",
+    "parent": "VISTA_NAT_Cliff_Limestone_Layered_B"
+  },
+  {
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_A_Moss_A",
+    "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_A.dae",
+    "size": [
+      16.433971881866455,
+      27.726400770246983,
+      19.20673179626465
+    ],
+    "center_offset": [
+      -1.0335137844085693,
+      13.76493338868022,
+      0.3119955062866211
+    ],
+    "uuid": "90e39754-efe8-4b8c-864b-949ef39cbd42",
+    "parent": "VISTA_NAT_Cliff_Limestone_Layered_A"
+  },
+  {
+    "name": "VISTA_NAT_Cliff_Limestone_Layered_Slab_B_Moss_A",
+    "relative_path": "Vista/Nature/Cliffs/VISTA_NAT_Cliff_Limestone_Layered_ABC/Resources/VISTA_NAT_Cliff_Limestone_Layered_Slab_B.dae",
+    "size": [
+      11.518919229507446,
+      1.4613399505615234,
+      12.473468780517578
+    ],
+    "center_offset": [
+      2.9951266050338745,
+      0.38888096809387207,
+      -1.7674674987792969
+    ],
+    "uuid": "f7d91a26-3510-4475-9366-30f5809e5db1",
+    "parent": "VISTA_NAT_Cliff_Limestone_Layered_Slab_B"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_I_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_I.dae",
+    "size": [
+      4.1053080558776855,
+      3.6462979316711426,
+      3.5329999923706055
+    ],
+    "center_offset": [
+      -0.0737919807434082,
+      -0.03355002403259277,
+      0.039587974548339844
+    ],
+    "uuid": "006f7041-1541-4600-adc6-bb023b6bedf1",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_I"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_E.dae",
+    "size": [
+      7.481773853302002,
+      5.845643043518066,
+      7.14958381652832
+    ],
+    "center_offset": [
+      -0.03364300727844238,
+      -0.02209949493408203,
+      -0.010267019271850586
+    ],
+    "uuid": "47cd2ac1-a17f-4dfc-b4d0-ec79b8e3ab86",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_E"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_J.dae",
+    "size": [
+      5.985451936721802,
+      3.2901389598846436,
+      2.872156023979187
+    ],
+    "center_offset": [
+      -0.08058702945709229,
+      0.022536516189575195,
+      0.0005260109901428223
+    ],
+    "uuid": "5d5ca43f-828a-4c3c-9082-89976840960f",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_J"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_G.dae",
+    "size": [
+      3.9994970560073853,
+      2.3405699729919434,
+      2.8478139638900757
+    ],
+    "center_offset": [
+      -0.19565552473068237,
+      0.010362029075622559,
+      -0.02486497163772583
+    ],
+    "uuid": "6ccef3e7-ca49-4a0e-9a41-14d6d9a8a350",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_G"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_F_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_F.dae",
+    "size": [
+      6.641949892044067,
+      5.274549961090088,
+      5.206017017364502
+    ],
+    "center_offset": [
+      -0.40396106243133545,
+      -0.1989150047302246,
+      0.02872753143310547
+    ],
+    "uuid": "f1f28d25-a7dd-41e7-9aa4-66c4206aae49",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_F"
+  },
+  {
+    "name": "VISTA_NAT_Rock_Granite_Boulder_Big_360_H_Rotating_A",
+    "relative_path": "Vista/Nature/Rocks/VISTA_NAT_Rock_Granite_Boulder_Big_ABC/Resources/VISTA_NAT_Rock_Granite_Boulder_Big_360_H.dae",
+    "size": [
+      6.3801589012146,
+      4.039279937744141,
+      2.9541879892349243
+    ],
+    "center_offset": [
+      -0.27265048027038574,
+      0.36893200874328613,
+      0.013534009456634521
+    ],
+    "uuid": "f53d6555-90c0-4ca9-9a7c-15d942f4c6fc",
+    "parent": "VISTA_NAT_Rock_Granite_Boulder_Big_360_H"
   }
 ]

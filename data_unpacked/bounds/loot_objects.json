@@ -11941,5 +11941,1365 @@
       0.0007329992949962616,
       1.950189471244812e-05
     ]
+  },
+  {
+    "name": "LOOT_HAG_Throwable_Goo_Ball_A_Fire_A",
+    "relative_path": "Loot/Throwables/LOOT_HAG_Throwalbe_Goo_Ball_ABC/Resources/LOOT_HAG_Throwable_Goo_Ball_A.dae",
+    "size": [
+      0.2733220010995865,
+      0.29118798510171473,
+      0.2834239900112152
+    ],
+    "center_offset": [
+      0.0020109936594963074,
+      0.14272899262141436,
+      0.005254000425338745
+    ],
+    "uuid": "a0b56e94-bd59-4cfd-af1b-bb07ff95f931",
+    "parent": "LOOT_HAG_Throwable_Goo_Ball_A"
+  },
+  {
+    "name": "LOOT_HAG_Throwable_Goo_Ball_A_Poison_A",
+    "relative_path": "Loot/Throwables/LOOT_HAG_Throwalbe_Goo_Ball_ABC/Resources/LOOT_HAG_Throwable_Goo_Ball_A.dae",
+    "size": [
+      0.2733220010995865,
+      0.29118798510171473,
+      0.2834239900112152
+    ],
+    "center_offset": [
+      0.0020109936594963074,
+      0.14272899262141436,
+      0.005254000425338745
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LOOT_HAG_Throwable_Goo_Ball_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_C_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_C.dae",
+    "size": [
+      0.41593699157238007,
+      0.04113699868321419,
+      0.5139730125665665
+    ],
+    "center_offset": [
+      0.005430497229099274,
+      0.012069499120116234,
+      0.05842550843954086
+    ],
+    "uuid": "032c0c5e-158f-4c51-8fbe-f7658f43c853",
+    "parent": "LOOT_GEN_Amulet_Necklace_C"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_H_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_H.dae",
+    "size": [
+      0.38012899458408356,
+      0.025197000650223345,
+      0.7873339951038361
+    ],
+    "center_offset": [
+      4.991888999938965e-07,
+      0.011798500345321372,
+      0.007188007235527039
+    ],
+    "uuid": "07c2c31e-8d1d-4060-ba7d-f5f37567ed9b",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_H"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_A_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_A.dae",
+    "size": [
+      0.23584799468517303,
+      0.5493610128614819,
+      0.2395550012588501
+    ],
+    "center_offset": [
+      0.0,
+      0.27455650643241825,
+      0.00046549737453460693
+    ],
+    "uuid": "06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa",
+    "parent": "LOOT_GEN_Chalice_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_D_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_D.dae",
+    "size": [
+      0.5693249851465225,
+      0.01724300067871809,
+      0.7467879951000214
+    ],
+    "center_offset": [
+      -0.1335354968905449,
+      0.012661500368267298,
+      0.10889999568462372
+    ],
+    "uuid": "15be2ce4-3f2c-4b75-8068-bd13fd69a3d5",
+    "parent": "LOOT_GEN_Amulet_Necklace_D"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_D_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_D.dae",
+    "size": [
+      0.11754800006747246,
+      0.22159999376162887,
+      0.11703800037503242
+    ],
+    "center_offset": [
+      -0.000311998650431633,
+      0.1110769968945533,
+      0.008670998737215996
+    ],
+    "uuid": "17e1fdf2-4853-497a-a58c-2d79c38981c1",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_D"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Ustensil_Fork_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Ustensil_Fork_Silver_Rich_A.dae",
+    "size": [
+      0.04075000062584877,
+      0.030769999837502837,
+      0.35311000794172287
+    ],
+    "center_offset": [
+      1.7000362277030945e-05,
+      0.013818999868817627,
+      0.11414200440049171
+    ],
+    "uuid": "1861fca1-1bb6-446e-8200-85b4efb14e72",
+    "parent": "LOOT_GEN_Dining_Ustensil_Fork_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_D_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_D.dae",
+    "size": [
+      0.5693249851465225,
+      0.01724300067871809,
+      0.7467879951000214
+    ],
+    "center_offset": [
+      -0.1335354968905449,
+      0.012661500368267298,
+      0.10889999568462372
+    ],
+    "uuid": "1df12296-498c-494c-b639-f103b63156a3",
+    "parent": "LOOT_GEN_Amulet_Necklace_D"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_A_Posed_A_Colorvar_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_A_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "1e2326c2-dd3c-4762-bffc-c9b304e631e9",
+    "parent": "LOOT_GEN_Backpack_A_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_C_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_C.dae",
+    "size": [
+      0.41943100094795227,
+      0.0459920012508519,
+      0.4187760055065155
+    ],
+    "center_offset": [
+      0.0010174959897994995,
+      0.023644000611966476,
+      0.008486002683639526
+    ],
+    "uuid": "23472cb3-ab2c-4989-981b-2ed39cfdc056",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_C"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_E_Posed_A_Colorvar_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_E_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "25a7e18e-3150-41d4-881b-d9c90ff63598",
+    "parent": "LOOT_GEN_Backpack_E_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_E_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_E.dae",
+    "size": [
+      0.47262200713157654,
+      0.029986999921675306,
+      0.7651300132274628
+    ],
+    "center_offset": [
+      0.0,
+      0.014931499961676309,
+      0.007188007235527039
+    ],
+    "uuid": "27ee7974-b634-4146-8f3b-1326bee97cda",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_E"
+  },
+  {
+    "name": "LOOT_GEN_Ring_G_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_G.dae",
+    "size": [
+      0.12964199483394623,
+      0.05402799881994724,
+      0.1382960006594658
+    ],
+    "center_offset": [
+      0.0,
+      0.022148999385535717,
+      -0.003324996680021286
+    ],
+    "uuid": "34dceb64-7246-4a2a-b7c0-411725ce468e",
+    "parent": "LOOT_GEN_Ring_G"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_C_Posed_A_Colorvar_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_C_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.5583260217681527,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.27370601100847125,
+      0.030606001615524292
+    ],
+    "uuid": "354200a1-8b48-4176-a6a8-70df51438b70",
+    "parent": "LOOT_GEN_Backpack_C_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_F_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_F.dae",
+    "size": [
+      0.4070959985256195,
+      0.03779699932783842,
+      0.7034800052642822
+    ],
+    "center_offset": [
+      -0.00881299376487732,
+      0.01329349959269166,
+      0.019721001386642456
+    ],
+    "uuid": "3a3a688b-4d18-44df-9190-003493492070",
+    "parent": "LOOT_GEN_Amulet_Necklace_F"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_A.dae",
+    "size": [
+      0.12200000137090683,
+      0.22137299255700782,
+      0.12200099974870682
+    ],
+    "center_offset": [
+      0.0,
+      0.11051149628474377,
+      0.010782498866319656
+    ],
+    "uuid": "3ca5d1d7-c11a-4000-b2ac-2b89b53f9f04",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_E_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_E.dae",
+    "size": [
+      0.07935399934649467,
+      0.40969799226149917,
+      0.07912900112569332
+    ],
+    "center_offset": [
+      -0.00011199899017810822,
+      0.20512599614448845,
+      0.010782499797642231
+    ],
+    "uuid": "43c9055e-913d-4a92-9eef-225892fd28ac",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_E"
+  },
+  {
+    "name": "LOOT_GEN_Ring_F_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_F.dae",
+    "size": [
+      0.13259999454021454,
+      0.08960100170224905,
+      0.14746299386024475
+    ],
+    "center_offset": [
+      0.0,
+      0.04178350092843175,
+      0.0022734999656677246
+    ],
+    "uuid": "49b84359-6a28-460e-af98-4526c5fca6fd",
+    "parent": "LOOT_GEN_Ring_F"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_A_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_A.dae",
+    "size": [
+      0.23584799468517303,
+      0.5493610128614819,
+      0.2395550012588501
+    ],
+    "center_offset": [
+      0.0,
+      0.27455650643241825,
+      0.00046549737453460693
+    ],
+    "uuid": "4fe7a57f-fb63-4192-9483-c47c8e845738",
+    "parent": "LOOT_GEN_Chalice_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_B_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_B.dae",
+    "size": [
+      0.3980119973421097,
+      0.0190870005171746,
+      0.7810859978199005
+    ],
+    "center_offset": [
+      0.03589300066232681,
+      0.010096500278450549,
+      0.04587899148464203
+    ],
+    "uuid": "50d054ee-4982-46eb-8f16-7a1c71ec8e28",
+    "parent": "LOOT_GEN_Amulet_Necklace_B"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_A_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_A.dae",
+    "size": [
+      0.46285200119018555,
+      0.03105199965648353,
+      0.6478630006313324
+    ],
+    "center_offset": [
+      0.06042000651359558,
+      0.014885999844409525,
+      0.057217493653297424
+    ],
+    "uuid": "51873c0d-f319-45e6-a6a2-79164cd8f3db",
+    "parent": "LOOT_GEN_Amulet_Necklace_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_A_Gem_A_Gold_1",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_A_Gem_A.dae",
+    "size": [
+      0.1373319998383522,
+      0.04019899857667042,
+      0.15396999567747116
+    ],
+    "center_offset": [
+      -0.0015749968588352203,
+      0.01998349928544485,
+      -0.012021001428365707
+    ],
+    "uuid": "52f6619c-edd3-4493-a420-c124f52c2a03",
+    "parent": "LOOT_GEN_Ring_A_Gem_A"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_E_Posed_A_Colorvar_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_E_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "5301d041-56b5-444e-a4b4-4f6fd534e1ad",
+    "parent": "LOOT_GEN_Backpack_E_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_D_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_D.dae",
+    "size": [
+      0.5693249851465225,
+      0.01724300067871809,
+      0.7467879951000214
+    ],
+    "center_offset": [
+      -0.1335354968905449,
+      0.012661500368267298,
+      0.10889999568462372
+    ],
+    "uuid": "54566608-c5e2-40e1-b2fc-014ba43a67ae",
+    "parent": "LOOT_GEN_Amulet_Necklace_D"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_I_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_I.dae",
+    "size": [
+      0.450778990983963,
+      0.05673799818032421,
+      0.7807300090789795
+    ],
+    "center_offset": [
+      0.0015484988689422607,
+      0.0281429990864126,
+      0.012102007865905762
+    ],
+    "uuid": "595221ee-23de-4763-91d8-e441f12259e5",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_I"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_A_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_A.dae",
+    "size": [
+      0.23584799468517303,
+      0.5493610128614819,
+      0.2395550012588501
+    ],
+    "center_offset": [
+      0.0,
+      0.27455650643241825,
+      0.00046549737453460693
+    ],
+    "uuid": "5ba9303c-0675-4c99-b07d-e8eb53a3f8ad",
+    "parent": "LOOT_GEN_Chalice_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_H_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_H.dae",
+    "size": [
+      0.13353000581264496,
+      0.050917998305521905,
+      0.13665500283241272
+    ],
+    "center_offset": [
+      0.0,
+      0.02449199912371114,
+      -0.009653501212596893
+    ],
+    "uuid": "5cbedb00-e900-439e-9035-50ab581fc5b9",
+    "parent": "LOOT_GEN_Ring_H"
+  },
+  {
+    "name": "LOOT_GEN_Ring_B_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_B.dae",
+    "size": [
+      0.11249800026416779,
+      0.08755600277800113,
+      0.14300400018692017
+    ],
+    "center_offset": [
+      0.0,
+      0.042415001371409744,
+      -0.00017400085926055908
+    ],
+    "uuid": "5cd7c5d3-fb97-4757-b5fd-dcc7a43110a7",
+    "parent": "LOOT_GEN_Ring_B"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_E_Pearl_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_E.dae",
+    "size": [
+      0.37951500713825226,
+      0.033733999356627464,
+      0.6623969972133636
+    ],
+    "center_offset": [
+      0.002589501440525055,
+      0.002821999602019787,
+      0.05817548930644989
+    ],
+    "uuid": "5fb93f62-06fa-4dc1-9c59-ff3fd48043d4",
+    "parent": "LOOT_GEN_Amulet_Necklace_E"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Wulbren_A_Posed_A_Blood_Speckeled_A_DONOTUSE",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Wulbren_ABC/Resources/LOOT_GEN_Amulet_Wulbren_A_Posed_A.dae",
+    "size": [
+      0.09385799989104271,
+      0.4232040084898472,
+      0.036149000748991966
+    ],
+    "center_offset": [
+      -0.0001809988170862198,
+      0.16440400294959545,
+      0.003170500509440899
+    ],
+    "uuid": "620aa9df-0710-4ed7-8336-023d0d29373a",
+    "parent": "LOOT_GEN_Amulet_Wulbren_A_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_H_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_H.dae",
+    "size": [
+      0.13353000581264496,
+      0.050917998305521905,
+      0.13665500283241272
+    ],
+    "center_offset": [
+      0.0,
+      0.02449199912371114,
+      -0.009653501212596893
+    ],
+    "uuid": "638307c5-20ec-41a3-8c2f-c86d56bbaf73",
+    "parent": "LOOT_GEN_Ring_H"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_B_Posed_A_Colorvar_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_B_Posed_A.dae",
+    "size": [
+      0.5815539956092834,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.03401699662208557,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "64d7a0f5-8f0b-4ec8-ad4e-58905d5ba3de",
+    "parent": "LOOT_GEN_Backpack_B_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_I_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_I.dae",
+    "size": [
+      0.10310400277376175,
+      0.06149700179230422,
+      0.15251299738883972
+    ],
+    "center_offset": [
+      0.0,
+      0.02975250087911263,
+      0.0007025003433227539
+    ],
+    "uuid": "65bb04bb-4313-4446-b250-727a712000c9",
+    "parent": "LOOT_GEN_Ring_I"
+  },
+  {
+    "name": "LOOT_GEN_Ring_F_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_F.dae",
+    "size": [
+      0.13259999454021454,
+      0.08960100170224905,
+      0.14746299386024475
+    ],
+    "center_offset": [
+      0.0,
+      0.04178350092843175,
+      0.0022734999656677246
+    ],
+    "uuid": "66dc3535-3757-403b-8236-de380bf3f4ca",
+    "parent": "LOOT_GEN_Ring_F"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_B_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_B.dae",
+    "size": [
+      0.7052299976348877,
+      0.3201879917178303,
+      0.7043589949607849
+    ],
+    "center_offset": [
+      0.0,
+      0.15760099596809596,
+      0.0006724894046783447
+    ],
+    "uuid": "6805fdaa-cd0b-4102-a591-3afa64eb8ed5",
+    "parent": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_B"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_B_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_B.dae",
+    "size": [
+      0.23584799468517303,
+      0.44075500218605157,
+      0.23083099722862244
+    ],
+    "center_offset": [
+      0.0,
+      0.2202535010947031,
+      0.0018545016646385193
+    ],
+    "uuid": "6d5f32c7-2694-4a8d-ab0e-aebeafe5a73a",
+    "parent": "LOOT_GEN_Chalice_B"
+  },
+  {
+    "name": "LOOT_GEN_Ring_B_Gem_B_Gold_1",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_B_Gem_B.dae",
+    "size": [
+      0.12058500200510025,
+      0.04324200050905347,
+      0.12678800150752068
+    ],
+    "center_offset": [
+      -4.500150680541992e-06,
+      0.019012000178918242,
+      -0.0022000018507242203
+    ],
+    "uuid": "6ebf81ac-0144-4a03-85d7-df978ea82b1a",
+    "parent": "LOOT_GEN_Ring_B_Gem_B"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_D_Posed_A_Colorvar_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_D_Posed_A.dae",
+    "size": [
+      0.5843600034713745,
+      0.5583260217681527,
+      0.4079589992761612
+    ],
+    "center_offset": [
+      0.035420000553131104,
+      0.27370601100847125,
+      0.03352450579404831
+    ],
+    "uuid": "74e85216-df90-44fa-9f1f-1bf33b175ef6",
+    "parent": "LOOT_GEN_Backpack_D_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_E_Pearl_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_E.dae",
+    "size": [
+      0.37951500713825226,
+      0.033733999356627464,
+      0.6623969972133636
+    ],
+    "center_offset": [
+      0.002589501440525055,
+      0.002821999602019787,
+      0.05817548930644989
+    ],
+    "uuid": "8174f2b6-e595-4d18-a3bb-b1617d0524ac",
+    "parent": "LOOT_GEN_Amulet_Necklace_E"
+  },
+  {
+    "name": "LOOT_GEN_Ring_C_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_C.dae",
+    "size": [
+      0.1169700026512146,
+      0.06272100005298853,
+      0.11780000105500221
+    ],
+    "center_offset": [
+      0.0,
+      0.030597500037401915,
+      0.0005799997597932816
+    ],
+    "uuid": "81d843ad-2343-4964-b5d0-3db44dfee4e1",
+    "parent": "LOOT_GEN_Ring_C"
+  },
+  {
+    "name": "LOOT_GEN_Ring_B_Gem_A_Gold_1",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_B_Gem_A.dae",
+    "size": [
+      0.11803499981760979,
+      0.04292900164728053,
+      0.12827900052070618
+    ],
+    "center_offset": [
+      -4.498288035392761e-06,
+      0.021590500822640024,
+      -0.0046484991908073425
+    ],
+    "uuid": "8379218b-db3e-4ff4-a4ea-5061b183acf4",
+    "parent": "LOOT_GEN_Ring_B_Gem_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_A_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_A.dae",
+    "size": [
+      0.46285200119018555,
+      0.03105199965648353,
+      0.6478630006313324
+    ],
+    "center_offset": [
+      0.06042000651359558,
+      0.014885999844409525,
+      0.057217493653297424
+    ],
+    "uuid": "8bba4a7c-a7df-4d1f-b202-286522a028fa",
+    "parent": "LOOT_GEN_Amulet_Necklace_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_A.dae",
+    "size": [
+      0.632112979888916,
+      0.32462899829261005,
+      0.6265440285205841
+    ],
+    "center_offset": [
+      0.000675499439239502,
+      0.1608144991332665,
+      0.002020999789237976
+    ],
+    "uuid": "8c80141f-b014-4970-8426-290c7aa6701f",
+    "parent": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_F_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_F.dae",
+    "size": [
+      0.4070959985256195,
+      0.03779699932783842,
+      0.7034800052642822
+    ],
+    "center_offset": [
+      -0.00881299376487732,
+      0.01329349959269166,
+      0.019721001386642456
+    ],
+    "uuid": "912bbc6f-f4f0-4815-9ed5-d914289402e6",
+    "parent": "LOOT_GEN_Amulet_Necklace_F"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_B_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_B.dae",
+    "size": [
+      0.10836999863386154,
+      0.22112299577565864,
+      0.10837099701166153
+    ],
+    "center_offset": [
+      0.0,
+      0.11038649789406918,
+      0.010782498866319656
+    ],
+    "uuid": "9580ca77-0f35-4d90-b643-553aa9dde1b5",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_B"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_B_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_B.dae",
+    "size": [
+      0.23584799468517303,
+      0.44075500218605157,
+      0.23083099722862244
+    ],
+    "center_offset": [
+      0.0,
+      0.2202535010947031,
+      0.0018545016646385193
+    ],
+    "uuid": "97c1a4d2-d797-4d2c-8a59-e17991082027",
+    "parent": "LOOT_GEN_Chalice_B"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_C_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_C.dae",
+    "size": [
+      0.07785000279545784,
+      0.2744380115182139,
+      0.07612100057303905
+    ],
+    "center_offset": [
+      -0.001186000183224678,
+      0.1368590057536494,
+      0.0102335000410676
+    ],
+    "uuid": "98b31acc-6266-469c-850c-66e01df293d2",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_C"
+  },
+  {
+    "name": "LOOT_GEN_Ring_B_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_B.dae",
+    "size": [
+      0.11249800026416779,
+      0.08755600277800113,
+      0.14300400018692017
+    ],
+    "center_offset": [
+      0.0,
+      0.042415001371409744,
+      -0.00017400085926055908
+    ],
+    "uuid": "f07faafa-0c6f-4f79-a049-70e96b23d51b",
+    "parent": "LOOT_GEN_Ring_B"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_B.dae",
+    "size": [
+      0.41938500106334686,
+      0.027326000039465725,
+      0.4164780080318451
+    ],
+    "center_offset": [
+      -0.00024550408124923706,
+      0.015480000001844019,
+      0.008617997169494629
+    ],
+    "uuid": "a045f7ff-0ca2-4206-a862-752e37f06ea7",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_B"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_C_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_C.dae",
+    "size": [
+      0.42876601219177246,
+      0.25254600611515343,
+      0.7292750179767609
+    ],
+    "center_offset": [
+      0.0,
+      0.1282610030611977,
+      -0.0019354969263076782
+    ],
+    "uuid": "a4358a37-cb55-442f-be33-9073a5f05c26",
+    "parent": "LOOT_GEN_Dining_Plate_Elevated_Silver_Rich_C"
+  },
+  {
+    "name": "LOOT_GEN_Chalice_B_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Chalice_ABC/Resources/LOOT_GEN_Chalice_B.dae",
+    "size": [
+      0.23584799468517303,
+      0.44075500218605157,
+      0.23083099722862244
+    ],
+    "center_offset": [
+      0.0,
+      0.2202535010947031,
+      0.0018545016646385193
+    ],
+    "uuid": "a44381ec-6e35-4904-bd6c-cc2886ba5cde",
+    "parent": "LOOT_GEN_Chalice_B"
+  },
+  {
+    "name": "LOOT_GEN_Ring_C_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_C.dae",
+    "size": [
+      0.1169700026512146,
+      0.06272100005298853,
+      0.11780000105500221
+    ],
+    "center_offset": [
+      0.0,
+      0.030597500037401915,
+      0.0005799997597932816
+    ],
+    "uuid": "a631b70a-22e9-4e2c-bb07-2164c2beb5d0",
+    "parent": "LOOT_GEN_Ring_C"
+  },
+  {
+    "name": "LOOT_GEN_Ring_D_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_D.dae",
+    "size": [
+      0.10810799896717072,
+      0.0851480009732768,
+      0.12998799979686737
+    ],
+    "center_offset": [
+      0.0,
+      0.04213200049707666,
+      -1.800060272216797e-05
+    ],
+    "uuid": "a9f741f6-a758-47ea-bb21-9a37d3ddfe42",
+    "parent": "LOOT_GEN_Ring_D"
+  },
+  {
+    "name": "LOOT_GEN_Ring_E_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_E.dae",
+    "size": [
+      0.1461080014705658,
+      0.029939999105408788,
+      0.14409300684928894
+    ],
+    "center_offset": [
+      0.0,
+      0.011705999611876905,
+      8.250027894973755e-05
+    ],
+    "uuid": "aa39ec3a-55c5-465c-8a3f-d5eb810c073f",
+    "parent": "LOOT_GEN_Ring_E"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_F_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_F.dae",
+    "size": [
+      0.11236400157213211,
+      0.17694100172957405,
+      0.11260100454092026
+    ],
+    "center_offset": [
+      0.0,
+      0.08800550087471493,
+      0.010900501161813736
+    ],
+    "uuid": "ae9b9681-7aed-4400-809f-25f9d329cae5",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_F"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_A.dae",
+    "size": [
+      0.46756599843502045,
+      0.07107599818846211,
+      0.4591429978609085
+    ],
+    "center_offset": [
+      -5.997717380523682e-06,
+      0.0349179990880657,
+      0.010221503674983978
+    ],
+    "uuid": "b3adfd25-1818-41d5-8cdc-2748e1350a35",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_G_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_G.dae",
+    "size": [
+      0.12964199483394623,
+      0.05402799881994724,
+      0.1382960006594658
+    ],
+    "center_offset": [
+      0.0,
+      0.022148999385535717,
+      -0.003324996680021286
+    ],
+    "uuid": "b72c3fb7-c172-4dfa-81bb-f924a3c1ec19",
+    "parent": "LOOT_GEN_Ring_G"
+  },
+  {
+    "name": "LOOT_GEN_Ring_D_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_D.dae",
+    "size": [
+      0.10810799896717072,
+      0.0851480009732768,
+      0.12998799979686737
+    ],
+    "center_offset": [
+      0.0,
+      0.04213200049707666,
+      -1.800060272216797e-05
+    ],
+    "uuid": "b7aab838-cafa-4b7d-a8d5-95ec3488f909",
+    "parent": "LOOT_GEN_Ring_D"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_A_Posed_A_Colorvar_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_A_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "d289389c-882d-4695-a8d5-dda2a1351711",
+    "parent": "LOOT_GEN_Backpack_A_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_G_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_G.dae",
+    "size": [
+      0.3634360134601593,
+      0.043054998299339786,
+      0.700884997844696
+    ],
+    "center_offset": [
+      0.0,
+      0.021118499149451964,
+      0.007191509008407593
+    ],
+    "uuid": "c2312fc4-7284-459c-afd5-971cf7aafab0",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_G"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_C_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_C.dae",
+    "size": [
+      0.41593699157238007,
+      0.04113699868321419,
+      0.5139730125665665
+    ],
+    "center_offset": [
+      0.005430497229099274,
+      0.012069499120116234,
+      0.05842550843954086
+    ],
+    "uuid": "c3d8f808-3f35-4206-9f6d-a26961953616",
+    "parent": "LOOT_GEN_Amulet_Necklace_C"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_B_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_B.dae",
+    "size": [
+      0.3980119973421097,
+      0.0190870005171746,
+      0.7810859978199005
+    ],
+    "center_offset": [
+      0.03589300066232681,
+      0.010096500278450549,
+      0.04587899148464203
+    ],
+    "uuid": "c612c1e6-0ff0-40a1-b199-b25db1c9808e",
+    "parent": "LOOT_GEN_Amulet_Necklace_B"
+  },
+  {
+    "name": "LOOT_GEN_Ring_A_Simple_Gold_1",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_A_Simple.dae",
+    "size": [
+      0.12383199855685234,
+      0.026572999471682124,
+      0.12416699901223183
+    ],
+    "center_offset": [
+      0.00014100037515163422,
+      0.013429499733319972,
+      -0.00013449974358081818
+    ],
+    "uuid": "d2253fa1-a5a3-4c19-9d7e-5a1e436b9fae",
+    "parent": "LOOT_GEN_Ring_A_Simple"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Ustensil_Spoon_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Ustensil_Spoon_Silver_Rich_A.dae",
+    "size": [
+      0.05425800010561943,
+      0.02887799928430468,
+      0.280606996268034
+    ],
+    "center_offset": [
+      0.0,
+      0.012779999698977917,
+      0.07822749949991703
+    ],
+    "uuid": "d99ceeaa-818d-4def-825b-e297386e814b",
+    "parent": "LOOT_GEN_Dining_Ustensil_Spoon_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_F_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_F.dae",
+    "size": [
+      0.5657680034637451,
+      0.034973000292666256,
+      1.0266879796981812
+    ],
+    "center_offset": [
+      0.0,
+      0.017196500150021166,
+      0.0
+    ],
+    "uuid": "dce10f3b-6192-4c57-9168-684812041151",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_F"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_C_Posed_A_Colorvar_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_C_Posed_A.dae",
+    "size": [
+      0.6148090064525604,
+      0.5583260217681527,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.05064450204372406,
+      0.27370601100847125,
+      0.030606001615524292
+    ],
+    "uuid": "de981ff0-0cf1-4770-98f3-9a6ee81ea8af",
+    "parent": "LOOT_GEN_Backpack_C_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_J_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_J.dae",
+    "size": [
+      0.5344899892807007,
+      0.05273399828001857,
+      0.6259840130805969
+    ],
+    "center_offset": [
+      -8.699297904968262e-05,
+      0.025969999143853784,
+      0.010033994913101196
+    ],
+    "uuid": "e456a7a6-217f-49d4-8c2e-226e74a16790",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_J"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_F_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_F.dae",
+    "size": [
+      0.4070959985256195,
+      0.03779699932783842,
+      0.7034800052642822
+    ],
+    "center_offset": [
+      -0.00881299376487732,
+      0.01329349959269166,
+      0.019721001386642456
+    ],
+    "uuid": "e75e18a0-0a94-42b4-8745-063ea00a5a66",
+    "parent": "LOOT_GEN_Amulet_Necklace_F"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_D_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_D.dae",
+    "size": [
+      0.47091400623321533,
+      0.02530400041723624,
+      0.4695729911327362
+    ],
+    "center_offset": [
+      0.0,
+      0.013518000225303695,
+      0.0071884989738464355
+    ],
+    "uuid": "e86a41a6-0e94-4f4f-a606-426ca6f03da3",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_D"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_E_Pearl_C",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_E.dae",
+    "size": [
+      0.37951500713825226,
+      0.033733999356627464,
+      0.6623969972133636
+    ],
+    "center_offset": [
+      0.002589501440525055,
+      0.002821999602019787,
+      0.05817548930644989
+    ],
+    "uuid": "ecd570ea-af01-4835-a9c8-967edf4afe85",
+    "parent": "LOOT_GEN_Amulet_Necklace_E"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_C_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_C.dae",
+    "size": [
+      0.41593699157238007,
+      0.04113699868321419,
+      0.5139730125665665
+    ],
+    "center_offset": [
+      0.005430497229099274,
+      0.012069499120116234,
+      0.05842550843954086
+    ],
+    "uuid": "ee6309db-5347-435c-94d8-a84f5996ea56",
+    "parent": "LOOT_GEN_Amulet_Necklace_C"
+  },
+  {
+    "name": "LOOT_GEN_Ring_E_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_E.dae",
+    "size": [
+      0.1461080014705658,
+      0.029939999105408788,
+      0.14409300684928894
+    ],
+    "center_offset": [
+      0.0,
+      0.011705999611876905,
+      8.250027894973755e-05
+    ],
+    "uuid": "efe2746c-10d4-4082-9133-d05b6f7fa291",
+    "parent": "LOOT_GEN_Ring_E"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_D_Posed_A_Colorvar_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_D_Posed_A.dae",
+    "size": [
+      0.5843600034713745,
+      0.5583260217681527,
+      0.4079589992761612
+    ],
+    "center_offset": [
+      0.035420000553131104,
+      0.27370601100847125,
+      0.03352450579404831
+    ],
+    "uuid": "f697d433-7b8f-4fe1-8fe3-990bdfeedeee",
+    "parent": "LOOT_GEN_Backpack_D_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_G_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_G.dae",
+    "size": [
+      0.10937799885869026,
+      0.23921200400218368,
+      0.10861199721693993
+    ],
+    "center_offset": [
+      -0.0003829989582300186,
+      0.11988300201483071,
+      0.010781997814774513
+    ],
+    "uuid": "f7254258-d805-42d0-b856-33c15a04f52f",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_G"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Ustensil_Knife_Silver_Rich_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Ustensil_Knife_Silver_Rich_A.dae",
+    "size": [
+      0.033396000042557716,
+      0.03135199914686382,
+      0.363010011613369
+    ],
+    "center_offset": [
+      -0.000744999386370182,
+      0.014059999608434737,
+      0.11793600395321846
+    ],
+    "uuid": "f7789374-3404-4554-bef1-60bd213d7382",
+    "parent": "LOOT_GEN_Dining_Ustensil_Knife_Silver_Rich_A"
+  },
+  {
+    "name": "LOOT_GEN_Backpack_B_Posed_A_Colorvar_B",
+    "relative_path": "Loot/Generic/LOOT_GEN_Backpack_ABC/Resources/LOOT_GEN_Backpack_B_Posed_A.dae",
+    "size": [
+      0.5815539956092834,
+      0.6071800151839852,
+      0.40212199091911316
+    ],
+    "center_offset": [
+      0.03401699662208557,
+      0.2981330077163875,
+      0.030606001615524292
+    ],
+    "uuid": "f81999db-1f55-4251-8084-526cf74530e6",
+    "parent": "LOOT_GEN_Backpack_B_Posed_A"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_A_Gold_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_A.dae",
+    "size": [
+      0.46285200119018555,
+      0.03105199965648353,
+      0.6478630006313324
+    ],
+    "center_offset": [
+      0.06042000651359558,
+      0.014885999844409525,
+      0.057217493653297424
+    ],
+    "uuid": "fc44cf0e-04dc-4feb-b143-b1c52cffe252",
+    "parent": "LOOT_GEN_Amulet_Necklace_A"
+  },
+  {
+    "name": "LOOT_GEN_Ring_I_Silver_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Ring_ABC/Resources/LOOT_GEN_Ring_I.dae",
+    "size": [
+      0.10310400277376175,
+      0.06149700179230422,
+      0.15251299738883972
+    ],
+    "center_offset": [
+      0.0,
+      0.02975250087911263,
+      0.0007025003433227539
+    ],
+    "uuid": "fc5dbbb6-10ec-427d-abe5-a04f5182e332",
+    "parent": "LOOT_GEN_Ring_I"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Glass_Silver_Rich_H_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Glass_Silver_Rich_H.dae",
+    "size": [
+      0.0889200009405613,
+      0.24282599752768874,
+      0.08828800171613693
+    ],
+    "center_offset": [
+      -0.0003159996122121811,
+      0.12168999877758324,
+      0.010781999677419662
+    ],
+    "uuid": "fd855de3-c1d6-416f-a8b4-8b9d4c275c67",
+    "parent": "LOOT_GEN_Dining_Glass_Silver_Rich_H"
+  },
+  {
+    "name": "LOOT_GEN_Amulet_Necklace_B_Bronze_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Amulet_Necklace_ABC/Resources/LOOT_GEN_Amulet_Necklace_B.dae",
+    "size": [
+      0.3980119973421097,
+      0.0190870005171746,
+      0.7810859978199005
+    ],
+    "center_offset": [
+      0.03589300066232681,
+      0.010096500278450549,
+      0.04587899148464203
+    ],
+    "uuid": "fda631e5-83f5-4ae4-b28f-cf4da102e3be",
+    "parent": "LOOT_GEN_Amulet_Necklace_B"
+  },
+  {
+    "name": "LOOT_HAG_Throwable_Goo_Ball_A_Poison_B",
+    "relative_path": "Loot/Throwables/LOOT_HAG_Throwalbe_Goo_Ball_ABC/Resources/LOOT_HAG_Throwable_Goo_Ball_A.dae",
+    "size": [
+      0.2733220010995865,
+      0.29118798510171473,
+      0.2834239900112152
+    ],
+    "center_offset": [
+      0.0020109936594963074,
+      0.14272899262141436,
+      0.005254000425338745
+    ],
+    "uuid": "d43f569e-af7b-44f6-9a70-615ceb786b78",
+    "parent": "LOOT_HAG_Throwable_Goo_Ball_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_A_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_A.dae",
+    "size": [
+      0.44165100157260895,
+      0.10076299821957946,
+      0.43467700481414795
+    ],
+    "center_offset": [
+      0.0035175010561943054,
+      0.052509499015286565,
+      0.008586496114730835
+    ],
+    "uuid": "68c8bfd7-0e14-4cff-aae4-e33fdb4dfa8d",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_A"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_C_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_C.dae",
+    "size": [
+      0.41985200345516205,
+      0.038362999679520726,
+      0.42236700654029846
+    ],
+    "center_offset": [
+      -0.005211003124713898,
+      0.021339499740861356,
+      0.016713500022888184
+    ],
+    "uuid": "abd53edf-f9b6-4bcb-b8fd-85f173505c49",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_C"
+  },
+  {
+    "name": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_B_Dirty_A",
+    "relative_path": "Loot/Generic/LOOT_GEN_Dining_Plate_Silver_Rich_ABC/Resources/LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_B.dae",
+    "size": [
+      0.4242600053548813,
+      0.05094099906273186,
+      0.4299280047416687
+    ],
+    "center_offset": [
+      -0.0030070021748542786,
+      0.027628499432466924,
+      0.012981995940208435
+    ],
+    "uuid": "eb63bc87-1227-48e8-a4e7-4a7af44d113b",
+    "parent": "LOOT_GEN_Dining_Plate_Silver_Rich_B_Stack_B"
   }
 ]
