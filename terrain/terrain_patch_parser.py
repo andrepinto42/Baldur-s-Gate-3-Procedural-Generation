@@ -26,7 +26,7 @@ def main() -> None:
     """Main function to demonstrate usage"""
     print("=== Terrain Patch Generator ===\n")
     
-    terrain = TerrainPatchWriter(65, 65)
+    terrain = TerrainPatchWriter(64, 64)
 
     # Create a rectangular bump with smooth edges
     # terrain.fill_rectangle(
@@ -41,7 +41,7 @@ def main() -> None:
     # terrain.write(terrain_name)
     
     # Read and display one of them
-    read_and_display_terrain(r"E:\Games\Baldurs Gate 3\Data\Editor\Mods\procedural_ffda7ce9-3f05-0f4a-ee04-84f560c3c068\Levels\procedural2\Terrains\c8e19eb6-c009-4041-87df-4f3cde9822d1_4_4.patch")
+    read_and_display_terrain(r"E:\Games\Baldurs Gate 3\Data\Editor\Mods\procedural_ffda7ce9-3f05-0f4a-ee04-84f560c3c068\Levels\procedural2\Terrains\c8e19eb6-c009-4041-87df-4f3cde9822d1_2_1.patch")
 
 
 if __name__ == "__main__":

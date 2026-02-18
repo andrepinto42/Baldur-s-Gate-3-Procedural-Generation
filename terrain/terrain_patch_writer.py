@@ -12,17 +12,82 @@ import numpy.typing as npt
 class TerrainPatchWriter:
     """Class to create and write terrain patch files"""
     
-    def __init__(self, width: int = 65, height: int = 65) -> None:
+    def __init__(self, width: int, height: int, patch_x: int, patch_z: int,max_width: int, max_height: int) -> None:
         """
         Initialize a new terrain patch writer
         
         Args:
             width: Grid width (default 65, common for terrain patches)
             height: Grid height (default 65)
+            patch_x: grid x position
+            patch_z: grid z position
         """
         self.width: int = width
         self.height: int = height
+        self.patch_x = patch_x
+        self.patch_z = patch_z
+        self.max_width = max_width
+        self.max_height = max_height
         self.grid: npt.NDArray[np.float32] = np.zeros((height, width), dtype=np.float32)
+
+    def write(self, filepath: str):
+        """
+        Write the terrain patch to a file
+        
+        Args:
+            filepath: Path to write the .patch file
+            patch_x: X coordinate of this patch in the terrain grid
+            patch_z: Z coordinate of this patch in the terrain grid
+        """
+        with open(filepath, 'wb') as f:
+            # Write header
+            f.write(b'PVersion')  # Magic string (8 bytes)
+            
+            # Write version
+            f.write(struct.pack('<I', 8))  # Version 8
+            
+            # Write metadata (based on observed pattern)
+            f.write(struct.pack('<I', 72))  # value_0
+            f.write(struct.pack('<I', self.width))  # grid_width
+            f.write(struct.pack('<I', self.height))  # grid_height
+            f.write(struct.pack('<I', self.width - 1))  # grid_width - 1 
+            f.write(struct.pack('<I', self.height - 1))  # grid_height - 1
+            f.write(struct.pack('<I', self.max_width))
+            f.write(struct.pack('<I', self.max_height))
+            f.write(struct.pack('<I', self.patch_x))
+            f.write(struct.pack('<I', self.patch_z))
+            f.write(struct.pack('<I', 0))  # value_9
+            f.write(struct.pack('<I', 4))
+            
+            # Write some initial pattern (seems to be edge data or metadata)
+            # Based on the original file, write some repeated patterns
+            for _ in range(8):
+                f.write(struct.pack('<I', 0xffffc000))  # Observed pattern (corrected byte order)
+            
+            # Current position should be at offset 88
+            # This is where the actual 65x65 grid data starts
+            
+            
+            # Write height data with boundary handling
+            for y in range(self.height):
+                for x in range(self.width):
+                    height = self.grid[y, x]        
+                    f.write(struct.pack('<f', height))
+            
+            # Pad the rest with the repeating pattern observed in flat areas
+            # The original file has additional data after the grid
+            remaining_size = 38176 - f.tell()  # Match original file size
+            
+            if remaining_size > 0:
+                # Write repeating pattern
+                pattern = struct.pack('<f', 50)  # Flat terrain pattern
+                for _ in range(remaining_size // 4):
+                    f.write(pattern)
+        
+        # print(f"\nWrote terrain patch to: {filepath}")
+        print(f"Patch coordinates: ({self.patch_x}, {self.patch_z})")
+        # print(f"Grid size: {self.width}x{self.height}")
+        # print(f"Height range: {np.min(self.grid):.3f} to {np.max(self.grid):.3f}m")
         
     def set_height(self, x: int, y: int, height: float) -> None:
         """
@@ -287,62 +352,3 @@ class TerrainPatchWriter:
         
         self.grid = new_grid
         print(f"Smoothed edges with blend distance {blend_distance}")
-    
-    def write(self, filepath: str) -> None:
-        """
-        Write the terrain patch to a file
-        
-        Args:
-            filepath: Output .patch file path
-        """
-        with open(filepath, 'wb') as f:
-            # Write header
-            f.write(b'PVersion')  # Magic string (8 bytes)
-            
-            # Write version
-            f.write(struct.pack('<I', 8))  # Version 8
-            
-            # Write metadata (based on observed pattern)
-            f.write(struct.pack('<I', 72))  # value_0
-            f.write(struct.pack('<I', self.width))  # grid_width
-            f.write(struct.pack('<I', self.height))  # grid_height
-            f.write(struct.pack('<I', 64))  # value_3
-            f.write(struct.pack('<I', 64))  # value_4
-            f.write(struct.pack('<I', 320))  # value_5
-            f.write(struct.pack('<I', 279))  # value_6
-            
-            # Write some padding/metadata (observed in original file)
-            # These appear to be zeros or specific metadata values
-            f.write(struct.pack('<I', 0))
-            f.write(struct.pack('<I', 0))
-            f.write(struct.pack('<I', 0))
-            f.write(struct.pack('<I', 4))
-            
-            # Write some initial pattern (seems to be edge data or metadata)
-            # Based on the original file, write some repeated patterns
-            for _ in range(8):
-                f.write(struct.pack('<I', 0xffffc000))  # Observed pattern (corrected byte order)
-            
-            # Current position should be at offset 88
-            # This is where the actual 65x65 grid data starts
-            
-            # Write the actual height data (65x65 grid = 4225 floats)
-            for y in range(self.height):
-                for x in range(self.width):
-                    height = self.grid[y, x]
-                    f.write(struct.pack('<f', height))
-            
-            # Pad the rest with the repeating pattern observed in flat areas
-            # The original file has additional data after the grid
-            remaining_size = 38176 - f.tell()  # Match original file size
-            
-            if remaining_size > 0:
-                # Write repeating pattern
-                pattern = struct.pack('<I', 0x00000000)  # Flat terrain pattern
-                for _ in range(remaining_size // 4):
-                    f.write(pattern)
-        
-        print(f"\nWrote terrain patch to: {filepath}")
-        print(f"Grid size: {self.width}x{self.height}")
-        print(f"File size: {38176} bytes")
-        print(f"Height range: {np.min(self.grid):.3f} to {np.max(self.grid):.3f}m")

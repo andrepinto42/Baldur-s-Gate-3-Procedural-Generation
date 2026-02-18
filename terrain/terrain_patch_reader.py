@@ -50,9 +50,9 @@ class TerrainPatchReader:
         self.version = struct.unpack('<I', data[offset:offset+4])[0]
         offset += 4
         
-        # Read metadata values
+        # Read metadata values (need to read MORE values to catch byte 45)
         metadata_values: list[int] = []
-        for i in range(7):
+        for i in range(10):  # Increased from 7 to 10 to read past byte 45
             val = struct.unpack('<I', data[offset:offset+4])[0]
             metadata_values.append(val)
             offset += 4
@@ -66,15 +66,21 @@ class TerrainPatchReader:
             'value_4': metadata_values[4],
             'value_5': metadata_values[5],
             'value_6': metadata_values[6],
+            'value_7': metadata_values[7],
+            'patch_number': metadata_values[8],  # This is at byte 44-47, includes byte 45!
+            'value_9': metadata_values[9],
         }
         
         self.grid_width = self.metadata['grid_width']
         self.grid_height = self.metadata['grid_height']
+        self.patch_number = self.metadata['patch_number']  # The differing value (1 vs 2)
         
         print(f"Magic: {self.magic}")
         print(f"Version: {self.version}")
+        print(f"Patch Number: {self.patch_number}")  # Will show 1 or 2
         print(f"Grid dimensions: {self.grid_width} x {self.grid_height}")
         print(f"Data starts at offset: {offset}")
+        print(f"Metadata: {self.metadata}")
         
         # Skip to actual grid data (starts at offset 88)
         offset = 88

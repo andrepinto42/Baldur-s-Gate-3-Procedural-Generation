@@ -17,6 +17,7 @@ OUTPUT_LSF_TEMP = r"output_lsf_temp"
 
 GAME_ID = "bg3"
 ACTION_CONVERT_RESOURCE = "convert-resources"
+ACTION_CONVERT_ONE_RESOURCE = "convert-resource"
 
 
 BG3_MODS_PATH = r"E:\Games\Baldurs Gate 3\Data\Mods"
@@ -43,6 +44,26 @@ def build_command(divine_exe: str, game_id: str, action: str) -> list[str]:
         "-s", OUTPUT_FOLDER_LSF,
         "-d", MAP_SCENERY_FOLDER,
     ]
+
+def convert_one_file(filename_input: str,filename_output: str):
+    command = [
+        DIVINE_EXE,
+        "-g", GAME_ID,
+        "-a", ACTION_CONVERT_ONE_RESOURCE,
+        "-s", filename_input,
+        "-d", filename_output,
+    ]
+    result = subprocess.run(
+        command,
+        shell=True,
+        capture_output=True,
+        text=True,
+    )
+    
+    if result.stdout:
+        print(result.stdout)
+    if result.stderr:
+        print(result.stderr)
 
 
 def run_command(command: list[str]) -> subprocess.CompletedProcess[str]:
