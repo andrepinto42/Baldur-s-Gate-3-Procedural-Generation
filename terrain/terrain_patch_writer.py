@@ -7,6 +7,7 @@ import struct
 import numpy as np
 from typing import Literal
 import numpy.typing as npt
+import rest_data
 
 
 class TerrainPatchWriter:
@@ -64,30 +65,32 @@ class TerrainPatchWriter:
             for _ in range(8):
                 f.write(struct.pack('<I', 0xffffc000))  # Observed pattern (corrected byte order)
             
-            # Current position should be at offset 88
-            # This is where the actual 65x65 grid data starts
-            
-            
             # Write height data with boundary handling
             for y in range(self.height):
                 for x in range(self.width):
                     height = self.grid[y, x]        
                     f.write(struct.pack('<f', height))
             
-            # Pad the rest with the repeating pattern observed in flat areas
-            # The original file has additional data after the grid
-            remaining_size = 38176 - f.tell()  # Match original file size
-            
-            if remaining_size > 0:
-                # Write repeating pattern
-                pattern = struct.pack('<f', 50)  # Flat terrain pattern
-                for _ in range(remaining_size // 4):
-                    f.write(pattern)
-        
-        # print(f"\nWrote terrain patch to: {filepath}")
-        print(f"Patch coordinates: ({self.patch_x}, {self.patch_z})")
-        # print(f"Grid size: {self.width}x{self.height}")
-        # print(f"Height range: {np.min(self.grid):.3f} to {np.max(self.grid):.3f}m")
+            array_terrain_tiles = [
+                "a0cbbde5-c1a5-1959-839b-baa56cc983c4",
+                "2ad353aa-7646-ef41-d7a5-73e0035dac01",
+                "7564d065-0f6f-5a02-57e3-86d0679dab71",
+                "af3fca7f-3008-2fef-612c-32ee11f59386"
+            ]
+            for tile in array_terrain_tiles:
+                # Write the length prefix (36 bytes for UUID string, little-endian)
+                f.write(struct.pack('<I', 0x24))  # 0x24 = 36 in hex
+                
+                f.write(tile.encode('ascii'))
+                print("This",tile.encode('ascii'))
+                                
+                # Weird byte to enter
+                f.write(struct.pack('<I', 0x1000))
+                # Write 32x32 = 1024 float values (all zeros)
+                for _ in range(32 * 32):
+                    f.write(struct.pack('<f', 0.0))
+                
+            f.write(rest_data.rest_data_patch)
         
     def set_height(self, x: int, y: int, height: float) -> None:
         """
