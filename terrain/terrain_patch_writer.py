@@ -82,7 +82,6 @@ class TerrainPatchWriter:
                 f.write(struct.pack('<I', 0x24))  # 0x24 = 36 in hex
                 
                 f.write(tile.encode('ascii'))
-                print("This",tile.encode('ascii'))
                                 
                 # Weird byte to enter
                 f.write(struct.pack('<I', 0x1000))
