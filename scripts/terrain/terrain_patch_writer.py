@@ -2,13 +2,15 @@
 """
 Terrain Patch Writer class for creating .patch files
 """
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parents[0]))
 
 import struct
 import numpy as np
 from typing import Literal
 import numpy.typing as npt
 import rest_data
-
 
 class TerrainPatchWriter:
     """Class to create and write terrain patch files"""

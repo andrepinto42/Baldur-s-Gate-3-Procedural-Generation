@@ -125,7 +125,6 @@ def create_object_xml(
 
     xml = replace_all_attr(xml, "MapKey", level_name)
     
-    print("Generated object",name)
     return xml
 
 def write_xml_file(xml: str,folder: str) -> str:

@@ -30,22 +30,24 @@ def _parse_and_update_config(path: str, target_width: int, target_height: int) -
     original_width = int(width_elem.get('value')) if width_elem is not None else target_width
     original_height = int(height_elem.get('value')) if height_elem is not None else target_height
     
-    # Calculate new values divisible by 64 (round up)
-    new_width = ((target_width + 63) // 64) * 64
-    new_height = ((target_height + 63) // 64) * 64
+    max_number_patches_x = (target_width + 63) // 64
+    max_number_patches_z = (target_width + 63) // 64
+
+    new_width = max_number_patches_x * 64
+    new_height = max_number_patches_z * 64
     
     # Update Width and Height in XML
     if width_elem is not None:
-        width_elem.set('value', str(new_width))
+        width_elem.set('value', str(new_width-max_number_patches_x))
     if height_elem is not None:
-        height_elem.set('value', str(new_height))
+        height_elem.set('value', str(new_height-max_number_patches_z))
     
     # Update BoundsMax to match new Width and Height
     original_bounds_y = float(bounds[1])
     new_bounds_x = float(new_width)
     new_bounds_z = float(new_height)
     
-    new_bounds_value = f"{new_bounds_x} {original_bounds_y} {new_bounds_z}"
+    new_bounds_value = f"{new_bounds_x -max_number_patches_x } {original_bounds_y} {new_bounds_z - max_number_patches_z}"
     bounds_elem.set('value', new_bounds_value)
     
     new_pos_x = - (new_width / 2.0)
