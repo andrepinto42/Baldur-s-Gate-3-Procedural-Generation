@@ -3,7 +3,7 @@ import json
 import os
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-BOUNDS_DIR = os.path.join(SCRIPT_DIR, "data_unpacked/bounds")
+BOUNDS_DIR = os.path.join(SCRIPT_DIR, "../data_unpacked/bounds")
 class ModelData:
     def __init__(self,uuid, size, center_offset):
         self.uuid: str = uuid

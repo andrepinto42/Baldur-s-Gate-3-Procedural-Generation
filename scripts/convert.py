@@ -6,7 +6,7 @@ from parsers.parse_terrain_map import _parse_and_update_config
 from terrain.terrain_grid_manager import TerrainGridManager
 from terrain.terrain_modify_height import modify_terrain
 from pyrr import Vector3
-from scripts.process_shell_commands import convert_one_file,execute_dungeon_creation,OUTPUT_FOLDER_LSF,MAP_SCENERY_FOLDER
+from process_shell_commands import convert_one_file,execute_dungeon_creation,OUTPUT_FOLDER_LSF,MAP_SCENERY_FOLDER,OUTPUT_TERRAIN_MAP
 import math
 
 def main() -> None:
@@ -43,6 +43,7 @@ def main() -> None:
 
     orch = TerrainGridManager(map_key, total_width, total_height)
     modify_terrain(orch.master_buffer)
+    orch.generate_patches(OUTPUT_TERRAIN_MAP)
     
     origin_x, origin_z = orch.master_buffer.shape
     origin_x = (-origin_x / 2) - min_x

@@ -8,7 +8,7 @@ import corridor_generator
 ##
 
 DIVINE_EXE = r".\Divine\Divine.exe"
-OUTPUT_LSF_TEMP = r"output_lsf_temp"
+OUTPUT_LSF_TEMP = r"..\output_lsf_temp"
 
 GAME_ID = "bg3"
 ACTION_CONVERT_RESOURCE = "convert-resources"
@@ -17,7 +17,9 @@ ACTION_CONVERT_ONE_RESOURCE = "convert-resource"
 
 BG3_MODS_PATH = r"E:\Games\Baldurs Gate 3\Data\Mods"
 MOD_ID = "procedural_ffda7ce9-3f05-0f4a-ee04-84f560c3c068"
-LEVEL_PATH = r"Levels\procedural2\Scenery"
+NAME_MAP = "procedural2"
+LEVEL_PATH = rf"Levels\{NAME_MAP}\Scenery"
+OUTPUT_TERRAIN_MAP = rf"E:\Games\Baldurs Gate 3\Data\Editor\Mods\{MOD_ID}\Levels\{NAME_MAP}\Terrains"
 
 OUTPUT_FOLDER_LSF = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
